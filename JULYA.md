@@ -6,8 +6,7 @@
 * [IJulia](#iJulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
-* [Packages](#packages)
-    * [Physics](#physics)
+* [Physics](#physics)
 * [Press](#press-articles)
 
 
@@ -41,8 +40,8 @@
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
 
 
-##Packages
-
-###Physics
+##Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 
+##Statistics
+* [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
