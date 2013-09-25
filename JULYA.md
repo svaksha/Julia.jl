@@ -3,6 +3,7 @@
 * [Begin with Julia](#begin-julia)
 * [Blogs](#blogs)
 * [Conferences and Events](#conferences-events)
+* [IJulia](#iJulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Press](#press-articles)
@@ -17,7 +18,10 @@
 ##Conferences-Events
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
 
-##Operations Research
+##IJulia
+* [IJulia](https://github.com/JuliaLang/IJulia.jl)
+ 
+ ##Operations Research
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
 
 ##Networking 

@@ -8,10 +8,10 @@ Inspired by Pycrumbs on github, ALL things "Julia" are linked here.
 
 Contributing
 ~~~~~~~~~~~~~
-* Add sections (optional) to the JULYA.rst file.
+* Add sections (optional) to the JULYA.md file.
     * Add section title to the contents, on the top
 * Add your links and dont forget to add a link title.
-* Add your name to the AUTHORS.rst file [Format: $name (@githubID)]
+* Add your name to the AUTHORS.md file [Format: $name (@githubID)]
 * Send a Pull Request to https://github.com/svaksha/julya/pulls
 
 
