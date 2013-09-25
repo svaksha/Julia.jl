@@ -1,17 +1,18 @@
-#Contents - JULYA.md 
+# Contents - JULYA.md 
 
-* [Begin with Julia](#begin-julia)
+* [Begin with Julia](#begin-with-julia)
 * [Blogs](#blogs)
-* [Conferences and Events](#conferences-events)
+* [Conferences and Events](#conferences-and-events)
+* [Docs](#docs)
 * [IJulia](#iJulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Physics](#physics)
-* [Press](#press-articles)
+* [Press](#press)
+* [Statistics](#statistics)
 
 
-
-##Begin with Julia
+## Begin with Julia
 * List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/)
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 
@@ -22,26 +23,31 @@
 
 
 
-##Conferences-Events
+## Conferences and Events
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
 
 
+## Docs
+* [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
-##IJulia
+
+## IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
  
 
 
-##Networking 
+## Networking 
 * TCP Sockets documentation for webstack.jl, http://blog.leahhanson.us/using-tcp-sockets-in-julia.html
 
 
-##Operations Research
+## Operations Research
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
 
 
-##Physics
+## Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 
-##Statistics
+## Statistics
 * [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+
+
