@@ -1,7 +1,7 @@
 AUTHORS
 =======
-[Format: $name (@githubID)]
+[Format: $name, @githubID]
 
-* SVAKSHA (@svaksha)
+* SVAKSHA, @svaksha
 * 
 

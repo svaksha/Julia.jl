@@ -1,4 +1,4 @@
-# Contents - JULYA.md 
+# Contents (JULYA.md)
 
 * [Begin with Julia](#begin-with-julia)
 * [Blogs](#blogs)
@@ -8,7 +8,8 @@
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Packages](#packages)
-* [Physics](#physics)
+    * [Physics](#physics)
+    * [Visualization](#visualization)
 * [Press](#press)
 * [Statistics](#statistics)
 
@@ -45,8 +46,10 @@
 ## Packages
 * [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
 
+### Visualization
+* Add colour to your plots and graphs with [Color.jl](https://github.com/JuliaLang/Color.jl).
 
-## Physics
+### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 
 
