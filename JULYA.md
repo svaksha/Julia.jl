@@ -2,6 +2,7 @@
 
 * [Begin with Julia](#begin-with-julia)
 * [Blogs](#blogs)
+* [Cheatsheets](#cheatsheets) 
 * [Conferences and Events](#conferences-and-events)
 * [Docs](#docs)
 * [IJulia](#iJulia)
@@ -17,10 +18,14 @@
 ## Begin with Julia
 * List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/)
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
-
+* Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 
 ## Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
+
+
+## Cheatsheets
+* Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
 
 
 ## Conferences and Events
