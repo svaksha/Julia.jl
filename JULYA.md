@@ -28,6 +28,7 @@
 
 
 ## Docs
+* Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
 * [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
