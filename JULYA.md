@@ -54,6 +54,8 @@
 
 ### Visualization
 * Add colour to your plots and graphs with [Color.jl](https://github.com/JuliaLang/Color.jl).
+* Jeff Bezanson's [Colorimetry in Julia](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
+
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
