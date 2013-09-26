@@ -7,6 +7,7 @@
 * [IJulia](#iJulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
+* [Packages](#packages)
 * [Physics](#physics)
 * [Press](#press)
 * [Statistics](#statistics)
@@ -17,10 +18,8 @@
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 
 
-
 ## Blogs
-* Official [Julia language blog](http://julialang.org/blog/)
-
+* The official [Julia language blog](http://julialang.org/blog/)
 
 
 ## Conferences and Events
@@ -35,17 +34,21 @@
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
  
 
-
 ## Networking 
-* TCP Sockets documentation for webstack.jl, http://blog.leahhanson.us/using-tcp-sockets-in-julia.html
+* [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
 
 
 ## Operations Research
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
 
 
+## Packages
+* [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
+
+
 ## Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
+
 
 ## Statistics
 * [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
