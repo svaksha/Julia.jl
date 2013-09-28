@@ -59,7 +59,7 @@
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
-
+* [CODATA](https://github.com/kofron/Codata.jl)
 
 ## Statistics
 * [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
