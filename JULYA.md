@@ -9,10 +9,12 @@
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Packages](#packages)
+    * [Mathematics](#mathematics)
     * [Physics](#physics)
     * [Visualization](#visualization)
 * [Press](#press)
 * [Statistics](#statistics)
+
 
 
 ## Begin with Julia
@@ -52,14 +54,18 @@
 ## Packages
 * [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
 
+### Mathematics
+* [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
+
+### Physics
+* [Physical.jl](https://github.com/ggggggggg/Physical.jl)
+* [CODATA](https://github.com/kofron/Codata.jl)
+
 ### Visualization
 * Add colour to your plots and graphs with [Color.jl](https://github.com/JuliaLang/Color.jl).
 * Jeff Bezanson's [Colorimetry in Julia](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 
 
-### Physics
-* [Physical.jl](https://github.com/ggggggggg/Physical.jl)
-* [CODATA](https://github.com/kofron/Codata.jl)
 
 ## Statistics
 * [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
