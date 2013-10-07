@@ -41,7 +41,7 @@
 
 ## IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
- 
+* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks) 
 
 ## Networking 
 * [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
