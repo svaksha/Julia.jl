@@ -2,7 +2,7 @@
 
 * [Begin with Julia](#begin-with-julia)
 * [Blogs](#blogs)
-* [Cheatsheets](#cheatsheets) 
+* [Cheatsheets](#cheatsheets)
 * [Conferences and Events](#conferences-and-events)
 * [Docs](#docs)
 * [IJulia](#iJulia)
@@ -41,9 +41,9 @@
 
 ## IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
-* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks) 
+* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks)
 
-## Networking 
+## Networking
 * [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
 
 
@@ -69,5 +69,5 @@
 
 ## Statistics
 * [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
-
+* [GLMM](https://github.com/dmbates/MixedModels.jl)
 
