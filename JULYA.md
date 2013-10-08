@@ -21,13 +21,17 @@
 * List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/)
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
+* [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
+
 
 ## Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
 
 
+
 ## Cheatsheets
 * Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
+
 
 
 ## Conferences and Events
@@ -49,6 +53,7 @@
 
 ## Operations Research
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
+
 
 
 ## Packages
