@@ -24,7 +24,7 @@
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 * [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
-
+* [Logging](https://github.com/kmsquire/Logging.jl) module.
 
 ## Benchmarks
 * [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
