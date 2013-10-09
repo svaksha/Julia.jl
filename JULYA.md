@@ -62,7 +62,7 @@
 ### Mathematics
 * [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
 * Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
-
+* [Poly Math](https://github.com/cfbaptista/PolyMath.jl) package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
