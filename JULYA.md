@@ -1,6 +1,7 @@
 # Contents (JULYA.md)
 
 * [Begin with Julia](#begin-with-julia)
+* [Benchmarks](#benchmarks)
 * [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
 * [Conferences and Events](#conferences-and-events)
@@ -23,6 +24,9 @@
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 * [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
 
+## Benchmarks
+* [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
+* More [Raytracers](https://github.com/jakebolewski/rays).
 
 ## Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
