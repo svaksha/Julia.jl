@@ -61,6 +61,8 @@
 
 ### Mathematics
 * [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
+* Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
+
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
