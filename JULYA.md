@@ -31,7 +31,7 @@
 
 ## Cheatsheets
 * Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
-
+* The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
 
 
 ## Conferences and Events
