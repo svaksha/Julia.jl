@@ -4,6 +4,7 @@
 * [Benchmarks](#benchmarks)
 * [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
+* [Community](#community)
 * [Conferences and Events](#conferences-and-events)
 * [Docs](#docs)
 * [IJulia](#iJulia)
@@ -24,9 +25,11 @@
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 * [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
 
+
 ## Benchmarks
 * [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
 * More [Raytracers](https://github.com/jakebolewski/rays).
+
 
 ## Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
@@ -36,6 +39,11 @@
 ## Cheatsheets
 * Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
 * The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
+
+
+## Community
+* List of various [mailing lists](http://julialang.org/community/).
+* IRC chat on [#julia at irc.freenode.net](http://webchat.freenode.net/?channels=julia)
 
 
 ## Conferences and Events
@@ -73,12 +81,12 @@
 * [CODATA](https://github.com/kofron/Codata.jl)
 
 ### Visualization
-* Add colour to your plots and graphs with [Color.jl](https://github.com/JuliaLang/Color.jl).
-* Jeff Bezanson's [Colorimetry in Julia](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
+* Add colour to your plots and graphs with [Color](https://github.com/JuliaLang/Color.jl).jl
+* Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 
 
 
 ## Statistics
-* [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+* The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+* The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html)
 * [GLMM](https://github.com/dmbates/MixedModels.jl)
-
