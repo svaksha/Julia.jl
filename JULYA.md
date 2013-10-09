@@ -26,7 +26,7 @@
 
 ## Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
-
+* The [Julia Planet](http://juliablogs.com/)
 
 
 ## Cheatsheets
