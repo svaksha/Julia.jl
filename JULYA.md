@@ -6,6 +6,7 @@
 * [Cheatsheets](#cheatsheets)
 * [Community](#community)
 * [Conferences and Events](#conferences-and-events)
+* [Databases](#databases)
 * [Docs](#docs)
 * [IJulia](#iJulia)
 * [Networking](#networking)
@@ -49,6 +50,8 @@
 ## Conferences and Events
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
 
+## Databases
+* [Pure Julia implementation of a Redis client](https://github.com/msainz/Redis.jl), largely based on redis-py.
 
 ## Docs
 * Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
