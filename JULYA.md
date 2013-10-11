@@ -1,6 +1,7 @@
 # Contents (JULYA.md)
 
 * [Begin with Julia](#begin-with-julia)
+* [Automation](#automation)
 * [Benchmarks](#benchmarks)
 * [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
@@ -26,6 +27,9 @@
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 * [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
 * [Logging](https://github.com/kmsquire/Logging.jl) module.
+
+## Automation
+* [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
 
 ## Benchmarks
 * [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
