@@ -82,10 +82,14 @@
 * [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
 * Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
 * [Poly Math](https://github.com/cfbaptista/PolyMath.jl) package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
+* [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
+* Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
+
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 * [CODATA](https://github.com/kofron/Codata.jl)
+
 
 ### Visualization
 * Add colour to your plots and graphs with [Color](https://github.com/JuliaLang/Color.jl).jl
