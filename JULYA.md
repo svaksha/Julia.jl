@@ -9,7 +9,8 @@
 * [Conferences and Events](#conferences-and-events)
 * [Databases](#databases)
 * [Docs](#docs)
-* [IJulia](#iJulia)
+* [IDE](#ide)
+    * [IJulia](#iJulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Packages](#packages)
@@ -62,7 +63,11 @@
 * [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
-## IJulia
+## IDE
+* [Julia Studio 0.4](http://forio.com/products/julia-studio/).
+
+
+### IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
 * [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks)
 
@@ -84,7 +89,7 @@
 * [Poly Math](https://github.com/cfbaptista/PolyMath.jl) package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
 * Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
-
+* [Iterative Linear Solvers](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
