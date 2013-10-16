@@ -10,7 +10,7 @@
 * [Databases](#databases)
 * [Docs](#docs)
 * [IDE](#ide)
-    * [IJulia](#iJulia)
+    * [IJulia](#ijulia)
 * [Networking](#networking)
 * [Operations Research](#operations-research)
 * [Packages](#packages)
