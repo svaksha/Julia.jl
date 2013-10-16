@@ -82,7 +82,7 @@
 
 ## Packages
 * [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
-* The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl)
+* The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
 
 ### Mathematics
 * [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
