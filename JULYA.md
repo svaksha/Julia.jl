@@ -82,6 +82,7 @@
 
 ## Packages
 * [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
+* The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl)
 
 ### Mathematics
 * [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
@@ -90,6 +91,8 @@
 * [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
 * Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
 * [Iterative Linear Solvers](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
+* [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl) and another Julia package to generate the [points and weights](https://github.com/billmclean/GaussQuadrature.jl) of the Gauss quadrature rules.
+
 
 ### Physics
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
