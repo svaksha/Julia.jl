@@ -99,7 +99,8 @@ GUI widget toolkits.
 
 
 ## Packages
-* [Packages](http://docs.julialang.org/en/latest/packages/packagelist/) list.
+* [Julia Package](http://docs.julialang.org/en/latest/packages/packagelist/) list.
+* METADATA.jl: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
 * The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
 
 ### Mathematics
