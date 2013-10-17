@@ -48,6 +48,8 @@
 
 
 ## Cheatsheets
+* [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
+* John Myles White compares the [Julia and R syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 * Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
 * [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
 
@@ -101,18 +103,20 @@ GUI widget toolkits.
 * The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
 
 ### Mathematics
-* [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
-* Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
-* [Poly Math](https://github.com/cfbaptista/PolyMath.jl) package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
-* [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
-* Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
-* [Iterative Linear Solvers](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
-* [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl) and another Julia package to generate the [points and weights](https://github.com/billmclean/GaussQuadrature.jl) of the Gauss quadrature rules.
+* [Cartesian.jl](https://github.com/timholy/Cartesian.jl): Fast multidimensional algorithms.
+* GaussQuadrature.jl: Another package that generates the [points and weights of the Gauss quadrature rules](https://github.com/billmclean/GaussQuadrature.jl).
+* [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
+* JuMP.jl: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
+* KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
+* NumericExtensions.jl: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
+* [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl): package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
+* [Optim.jl](https://github.com/johnmyleswhite/optim.jl): basic optimization algorithms implementation.
+* Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 
 
 ### Physics
+* [Codata.jl](https://github.com/kofron/Codata.jl)
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
-* [CODATA](https://github.com/kofron/Codata.jl)
 
 
 ### Visualization
