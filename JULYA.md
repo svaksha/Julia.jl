@@ -8,7 +8,9 @@
 * [Community](#community)
 * [Conferences and Events](#conferences-and-events)
 * [Databases](#databases)
+* [DataFormats](#dataformats)
 * [Docs](#docs)
+* [GUI](#gui)
 * [IDE](#ide)
     * [IJulia](#ijulia)
 * [Networking](#networking)
@@ -58,10 +60,18 @@
 ## Databases
 * [Pure Julia implementation of a Redis client](https://github.com/msainz/Redis.jl), largely based on redis-py.
 
+## DataFormats
+* [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl)
+
+
 ## Docs
-* The [Julia package manual](http://docs.julialang.org/en/latest/manual/packages/)
+* The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
 * Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
-* [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+* [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/).
+
+## GUI
+GUI widget toolkits.
+* The Julia interface for the [Tk windowing toolkit](https://github.com/JuliaLang/Tk.jl).
 
 
 ## IDE
@@ -70,7 +80,7 @@
 
 ### IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
-* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks)
+* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 
 ## Networking
 * [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
