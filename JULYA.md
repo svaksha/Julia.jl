@@ -59,6 +59,7 @@
 * [Pure Julia implementation of a Redis client](https://github.com/msainz/Redis.jl), largely based on redis-py.
 
 ## Docs
+* The [Julia package manual](http://docs.julialang.org/en/latest/manual/packages/)
 * Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
 * [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
