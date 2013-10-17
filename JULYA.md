@@ -82,8 +82,8 @@ GUI widget toolkits.
 
 
 ## IDE
-* [Julia Studio 0.4](http://forio.com/products/julia-studio/).
-
+* [Julia-Studio](http://forio.com/products/julia-studio/).
+* A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
 
 ### IJulia
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
