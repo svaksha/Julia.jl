@@ -18,3 +18,9 @@ Contributing
 LICENSE
 ---------
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/svaksha/julya/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
