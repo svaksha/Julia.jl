@@ -1,7 +1,7 @@
 JULYA
 =====
 
-Curated bits and bytes of [Julia](https://github.com/JuliaLang) language learning resources, blog links, howto's, etc...
+Curated bits and bytes of `Julia <https://github.com/JuliaLang>`_ language learning resources, blog links, howto's, etc...
 
 Inspired by Pycrumbs on github, ALL things "Julia" are linked here, so this is a WIP repo and you are welcome to contribute (see below).
 

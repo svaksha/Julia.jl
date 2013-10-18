@@ -75,6 +75,8 @@
 * The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
 * Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
 * [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/).
+* [Mathematical Operations](http://docs.julialang.org/en/latest/manual/mathematical-operations/)
+
 
 ## GUI
 GUI widget toolkits.
@@ -133,7 +135,7 @@ Graphs, Plots and other Visualization libs.
 * The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
 
 ## Press
-
+* ToDo
 
 
 ## QA
@@ -146,3 +148,5 @@ Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Developmen
 * The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
 * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html)
 * [GLMM](https://github.com/dmbates/MixedModels.jl)
+
+
