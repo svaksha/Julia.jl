@@ -38,9 +38,12 @@
 ## Automation
 * [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
 
+
+
 ## Benchmarks
 * [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
 * More [Raytracers](https://github.com/jakebolewski/rays).
+
 
 
 ## Blogs
@@ -64,11 +67,16 @@
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
 
 
+
+
 ## Databases
 * [Pure Julia implementation of a Redis client](https://github.com/msainz/Redis.jl), largely based on redis-py.
 
+
+
 ## DataFormats
 * [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl)
+
 
 
 ## Docs
@@ -76,12 +84,16 @@
 * Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
 * [Meta Programming](http://docs.julialang.org/en/latest/manual/metaprogramming/).
 * [Mathematical Operations](http://docs.julialang.org/en/latest/manual/mathematical-operations/)
+* [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
+
 
 
 ## GUI
 GUI widget toolkits.
 * The Julia interface for the [Tk windowing toolkit](https://github.com/JuliaLang/Tk.jl).
 * Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
+
+
 
 
 ## IDE
@@ -94,8 +106,11 @@ Julia-Studio
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
 * [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 
+
+
 ## Networking
 * [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
+
 
 
 ## Operations Research
@@ -133,17 +148,20 @@ Graphs, Plots and other Visualization libs.
 * Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 * Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing profiling to ProfileView. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
 * The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
-* (A MATLAB-like interface to Winston)[]
+* (A MATLAB-like interface to Winston)[https://github.com/natj/matplot]
+
 
 
 ## Press
 * ToDo
 
 
+
 ## QA
 Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD) and anything Testing related goes here:
 * A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173)
 * The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
+
 
 
 ## Statistics
