@@ -20,12 +20,15 @@
     * [Physics](#physics)
     * [Visualization](#visualization)
 * [Press](#press)
+    * [Research Papers](#research-papers)
 * [QA](#qa)
+    * [Profiling](#profiling)
 * [Statistics](#statistics)
 
 
 
 ## Begin with Julia
+* [Download and install Julia on various Operating Systems](http://julialang.org/downloads/)
 * List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/)
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
@@ -53,7 +56,7 @@
 
 ## Cheatsheets
 * [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
-* John Myles White compares the [Julia and R syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
+* John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 * Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
 * [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
 
@@ -153,7 +156,9 @@ Graphs, Plots and other Visualization libs.
 
 
 ## Press
-* ToDo
+
+### Research Papers
+* [Julia language research publications](http://julialang.org/publications/)
 
 
 
@@ -162,6 +167,8 @@ Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Developmen
 * A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173)
 * The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
 
+### Profiling
+* [IProfile](http://docs.julialang.org/en/latest/stdlib/profile/) in Base.
 
 
 ## Statistics
