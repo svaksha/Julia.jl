@@ -19,6 +19,7 @@
     * [Mathematics](#mathematics)
     * [Physics](#physics)
     * [Visualization](#visualization)
+    * [Web](#web)
 * [Press](#press)
     * [Research Papers](#research-papers)
 * [QA](#qa)
@@ -154,6 +155,10 @@ Graphs, Plots and other Visualization libs.
 * (A MATLAB-like interface to Winston)[https://github.com/natj/matplot]
 
 
+### Web
+* [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
+
+
 
 ## Press
 
@@ -168,7 +173,13 @@ Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Developmen
 * The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
 
 ### Profiling
-* [IProfile](http://docs.julialang.org/en/latest/stdlib/profile/) in Base.
+* [IProfile](http://docs.julialang.org/en/latest/stdlib/profile/) in Base, to profile your code.
+
+
+### CI
+* Merge your Julia code with mainline to test it on a [Travis-CI](https://travis-ci.org/JuliaLang/) build server.
+
+
 
 
 ## Statistics
