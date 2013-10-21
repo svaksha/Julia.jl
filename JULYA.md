@@ -135,7 +135,7 @@ Julia-Studio
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
 * NumericExtensions.jl: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
 * [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl): package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
-* [Optim.jl](https://github.com/johnmyleswhite/optim.jl): basic optimization algorithms implementation.
+* [Optim.jl](https://github.com/JuliaOpt/Optim.jl): basic optimization algorithms implementation.
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 
 
