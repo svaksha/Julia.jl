@@ -133,6 +133,7 @@ Julia-Studio
 * [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * JuMP.jl: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
+* [Matlab.jl](https://github.com/lindahua/MATLAB.jl) and how to [read-write MATLAB files](https://github.com/lindahua/MATLAB.jl#readwrite-mat-files)
 * NumericExtensions.jl: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
 * [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl): package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * [Optim.jl](https://github.com/JuliaOpt/Optim.jl): basic optimization algorithms implementation.
