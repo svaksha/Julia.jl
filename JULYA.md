@@ -14,18 +14,10 @@
 * [IDE](#ide)
     * [IJulia](#ijulia)
 * [Networking](#networking)
-* [Operations Research](#operations-research)
 * [Packages](#packages)
-    * [Mathematics](#mathematics)
-    * [Physics](#physics)
-    * [Visualization](#visualization)
     * [Web](#web)
 * [Press](#press)
     * [Research Papers](#research-papers)
-* [QA](#qa)
-    * [Profiling](#profiling)
-* [Statistics](#statistics)
-
 
 
 ## Begin with Julia
@@ -38,10 +30,8 @@
 * [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
 
 
-
 ## Automation
 * [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
-
 
 
 ## Benchmarks
@@ -69,7 +59,6 @@
 
 ## Conferences and Events
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
-
 
 
 
@@ -116,86 +105,18 @@ Julia-Studio
 * [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
 
 
-
-## Operations Research
-* [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160)
-
-
-
 ## Packages
 * [Julia Package](http://docs.julialang.org/en/latest/packages/packagelist/) list.
 * METADATA.jl: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
-
-
-### Mathematics
-* [Cartesian.jl](https://github.com/timholy/Cartesian.jl): Fast multidimensional algorithms.
-* GaussQuadrature.jl: Another package that generates the [points and weights of the Gauss quadrature rules](https://github.com/billmclean/GaussQuadrature.jl).
-* [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
-* JuMP.jl: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl)
-* KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [Krylov Solvers](https://github.com/cfbaptista/KrylovSolvers.jl)
-* [Matlab.jl](https://github.com/lindahua/MATLAB.jl) and how to [read-write MATLAB files](https://github.com/lindahua/MATLAB.jl#readwrite-mat-files)
-* NumericExtensions.jl: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl)
-* [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl): package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
-* [Optim.jl](https://github.com/JuliaOpt/Optim.jl): basic optimization algorithms implementation.
-* Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
-
-
-### Physics
-* [Codata.jl](https://github.com/kofron/Codata.jl)
-* [Physical.jl](https://github.com/ggggggggg/Physical.jl)
-
-
-### Visualization
-Graphs, Plots and other Visualization libs.
-* Cairo.jl: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl)
-* [Color.jl](https://github.com/JuliaLang/Color.jl): adds colour to your plots and graphs.
-* Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
-* Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing profiling to ProfileView. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
-* The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
-* (A MATLAB-like interface to Winston)[https://github.com/natj/matplot]
-
-##### Plotting lib packages
-* Gaston
-* [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
-* [Gadfly.jl](https://github.com/dcjones/Gadfly.jl), rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend)
-* [PyPlot.jl: Plotting for Julia based on matplotlib.pyplot](https://github.com/stevengj/PyPlot.jl)
-* [Winston](https://github.com/nolta/Winston.jl)
-
-##### Blogs/ User experiences with plotting
-* Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and for [Matlab](http://sveme.org/julia-for-matlab-users-i.html)users.
-
 
 
 ### Web
 * [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
 
 
-
 ## Press
 
 ### Research Papers
 * [Julia language research publications](http://julialang.org/publications/)
-
-
-
-## QA
-Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD) and anything Testing related goes here:
-* A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173)
-* The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/)
-
-### Profiling
-* [IProfile](http://docs.julialang.org/en/latest/stdlib/profile/) in Base, to profile your code.
-
-
-### CI
-* Merge your Julia code with mainline to test it on a [Travis-CI](https://travis-ci.org/JuliaLang/) build server.
-
-
-
-
-## Statistics
-* The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
-* The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html)
-* [GLMM](https://github.com/dmbates/MixedModels.jl)
 
 

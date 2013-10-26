@@ -8,7 +8,7 @@ Inspired by Pycrumbs on github, ALL things "Julia" are linked here, so this is a
 
 Contributing
 ~~~~~~~~~~~~~
-* Add sections (optional) to the JULYA.md file.
+* Add sections (optional) to the respective file: say, JULYA.md, MathStats.md, Visualization.md, QA.md, ...
     * Add section title to the contents ("#Contents" section on top).
 * Add your links in the appropriate section and if its a new section, add a link title.
 * Add your name to the AUTHORS.md file [Format: $name (@githubID)].
