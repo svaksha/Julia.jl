@@ -154,14 +154,14 @@ Graphs, Plots and other Visualization libs.
 * The interactive [D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree and the [source code]  (https://github.com/johnmyleswhite/TypeTree.jl) for it.
 * (A MATLAB-like interface to Winston)[https://github.com/natj/matplot]
 
-=== Plotting lib packages ===
+##### Plotting lib packages
 * Gaston
 * [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
 * [Gadfly.jl](https://github.com/dcjones/Gadfly.jl), rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend)
 * [PyPlot.jl: Plotting for Julia based on matplotlib.pyplot](https://github.com/stevengj/PyPlot.jl)
-- Winston
+* [Winston](https://github.com/nolta/Winston.jl)
 
-===== Blogs/ User experiences with plotting =====
+##### Blogs/ User experiences with plotting
 * Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and for [Matlab](http://sveme.org/julia-for-matlab-users-i.html)users.
 
 
