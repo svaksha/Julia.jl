@@ -62,12 +62,10 @@
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 
 
-
 ## GUI
 GUI widget toolkits.
 * The Julia interface for the [Tk windowing toolkit](https://github.com/JuliaLang/Tk.jl).
 * Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
-
 
 
 ## IDE

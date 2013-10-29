@@ -2,7 +2,7 @@
 * [Cheatsheets](#cheatsheets)
 
 ## Cookbook 
-* Errorbar_example.jl: in a [github gist](https://gist.github.com/gizmaa/7199563] and in a [ipython viewer](http://nbviewer.ipython.org/7210792).
+* Errorbar_example.jl: in a [github gist](https://gist.github.com/gizmaa/7199563] and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
 * Subplot_example.jl in a [github gist](https://gist.github.com/gizmaa/7199540] and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
 * Time-annotation_example.jl in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
 * Windrose_Example.jl in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
