@@ -2,7 +2,6 @@
 
 * [Begin with Julia](#begin-with-julia)
 * [Automation](#automation)
-* [Benchmarks](#benchmarks)
 * [Cheatsheets](#cheatsheets)
 * [Community](#community)
     * [Blogs](#blogs)
@@ -29,11 +28,6 @@
 
 ## Automation
 * [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
-
-
-## Benchmarks
-* [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
-* More [Raytracers](https://github.com/jakebolewski/rays).
 
 
 ## Cheatsheets

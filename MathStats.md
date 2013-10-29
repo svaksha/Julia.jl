@@ -5,6 +5,7 @@
 * [Statistics](#statistics)
 
 
+
 ## Mathematics
 * [Cartesian.jl](https://github.com/timholy/Cartesian.jl): Fast multidimensional algorithms.
 * GaussQuadrature.jl: Another package that generates the [points and weights of the Gauss quadrature rules](https://github.com/billmclean/GaussQuadrature.jl).
@@ -17,6 +18,9 @@
 * [Optim.jl](https://github.com/JuliaOpt/Optim.jl): basic optimization algorithms implementation.
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 * Roots.jl: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
+* [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
+
+
 
 ## Statistics
 * The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
