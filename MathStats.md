@@ -16,7 +16,7 @@
 * [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl): package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * [Optim.jl](https://github.com/JuliaOpt/Optim.jl): basic optimization algorithms implementation.
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
-
+* Roots.jl: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
 
 ## Statistics
 * The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
