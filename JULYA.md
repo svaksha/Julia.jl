@@ -1,8 +1,6 @@
-# Contents (JULYA.md)
 
 * [Begin with Julia](#begin-with-julia)
 * [Automation](#automation)
-* [Cheatsheets](#cheatsheets)
 * [Community](#community)
     * [Blogs](#blogs)
     * [Conferences and Events](#conferences-and-events)
@@ -28,13 +26,6 @@
 
 ## Automation
 * [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
-
-
-## Cheatsheets
-* [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
-* John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
-* Cheatsheet for Julia [Types](https://github.com/tanmaykm/julia_types)
-* [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
 
 
 ## Community
