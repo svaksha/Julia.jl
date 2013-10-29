@@ -3,21 +3,19 @@
 * [Begin with Julia](#begin-with-julia)
 * [Automation](#automation)
 * [Benchmarks](#benchmarks)
-* [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
 * [Community](#community)
-* [Conferences and Events](#conferences-and-events)
+    * [Blogs](#blogs)
+    * [Conferences and Events](#conferences-and-events)
+    * [Press](#press)
+    * [Research Papers](#research-papers)
 * [Databases](#databases)
 * [DataFormats](#dataformats)
 * [Docs](#docs)
 * [GUI](#gui)
 * [IDE](#ide)
     * [IJulia](#ijulia)
-* [Networking](#networking)
 * [Packages](#packages)
-    * [Web](#web)
-* [Press](#press)
-    * [Research Papers](#research-papers)
 
 
 ## Begin with Julia
@@ -26,7 +24,6 @@
 * [Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 * Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples).
 * [Immutable Arrays](https://github.com/twadleigh/ImmutableArrays.jl)
-* [Logging](https://github.com/kmsquire/Logging.jl) module.
 * [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
 
 
@@ -37,12 +34,6 @@
 ## Benchmarks
 * [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl)
 * More [Raytracers](https://github.com/jakebolewski/rays).
-
-
-
-## Blogs
-* The official [Julia language blog](http://julialang.org/blog/)
-* The [Julia Planet](http://juliablogs.com/)
 
 
 ## Cheatsheets
@@ -56,20 +47,26 @@
 * List of various [mailing lists](http://julialang.org/community/).
 * IRC chat on [#julia at irc.freenode.net](http://webchat.freenode.net/?channels=julia)
 
-
-## Conferences and Events
+### Conferences and Events
 * Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
 
+### Press
+
+### Research Papers
+* [Julia language research publications](http://julialang.org/publications/)
+
+
+### Blogs
+* The official [Julia language blog](http://julialang.org/blog/)
+* The [Julia Planet](http://juliablogs.com/)
 
 
 ## Databases
 * [Pure Julia implementation of a Redis client](https://github.com/msainz/Redis.jl), largely based on redis-py.
 
 
-
 ## DataFormats
 * [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl)
-
 
 
 ## Docs
@@ -88,7 +85,6 @@ GUI widget toolkits.
 
 
 
-
 ## IDE
 * A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
 Julia-Studio
@@ -100,23 +96,10 @@ Julia-Studio
 * [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 
 
-
-## Networking
-* [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
-
-
 ## Packages
 * [Julia Package](http://docs.julialang.org/en/latest/packages/packagelist/) list.
 * METADATA.jl: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
 
 
-### Web
-* [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
-
-
-## Press
-
-### Research Papers
-* [Julia language research publications](http://julialang.org/publications/)
 
 
