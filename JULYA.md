@@ -3,9 +3,6 @@
 * [Automation](#automation)
 * [Community](#community)
     * [Blogs](#blogs)
-    * [Conferences and Events](#conferences-and-events)
-    * [Press](#press)
-    * [Research Papers](#research-papers)
 * [Databases](#databases)
 * [DataFormats](#dataformats)
 * [Docs](#docs)
@@ -31,15 +28,6 @@
 ## Community
 * List of various [mailing lists](http://julialang.org/community/).
 * IRC chat on [#julia at irc.freenode.net](http://webchat.freenode.net/?channels=julia)
-
-### Conferences and Events
-* Stefan Karpinski's talk notes on [The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22) given at StrangeLoop-2013.
-
-### Press
-
-### Research Papers
-* [Julia language research publications](http://julialang.org/publications/)
-
 
 ### Blogs
 * The official [Julia language blog](http://julialang.org/blog/)
