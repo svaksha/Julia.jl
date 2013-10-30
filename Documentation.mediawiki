@@ -1,0 +1,9 @@
+
+== Documentation ==
+* The [http://docs.julialang.org/en/latest/manual/packages/ Julia package manager manual]
+* Conditional loops and [http://docs.julialang.org/en/latest/manual/control-flow/ Control flow] constructs.
+* [http://docs.julialang.org/en/latest/manual/metaprogramming/ Meta Programming].
+* [http://docs.julialang.org/en/latest/manual/mathematical-operations/ Mathematical Operations]
+* [http://docs.julialang.org/en/latest/manual/parallel-computing/ Parallel Computing]
+
+

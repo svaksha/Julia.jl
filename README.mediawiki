@@ -4,6 +4,8 @@ Inspired by pycrumbs on github, ALL things "Julia" are linked here. This is a WI
 
 == Topic Pages ==
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
+* [https://github.com/svaksha/julya/blob/master/Community.mediawiki Community]
+* [https://github.com/svaksha/julya/blob/master/Documentation.mediawiki Documentation]
 * [https://github.com/svaksha/julya/blob/master/Events.mediawiki Events, conferences, research papers,...]
 * [https://github.com/svaksha/julya/blob/master/LICENSE.mediawiki LICENSE]
 * [https://github.com/svaksha/julya/blob/master/MathStats.mediawiki Mathematics and Statistics]
