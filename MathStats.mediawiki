@@ -1,0 +1,24 @@
+== Mathematics ==
+* [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
+* GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
+* [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
+* JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
+* KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [https://github.com/cfbaptista/KrylovSolvers.jl Krylov Solvers]
+* [https://github.com/lindahua/MATLAB.jl Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
+* NumericExtensions.jl: Julia extensions to provide high performance computational support for [https://github.com/lindahua/NumericExtensions.jl fast vectorized computation]
+* [https://github.com/cfbaptista/PolyMath.jl PolyMath.jl]: package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
+* [https://github.com/JuliaOpt/Optim.jl Optim.jl]: basic optimization algorithms implementation.
+* Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
+* Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
+* [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
+
+
+== Statistics ==
+* The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
+* The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
+* [https://github.com/dmbates/MixedModels.jl GLMM]
+
+
+== Operations Research ==
+* [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
+
