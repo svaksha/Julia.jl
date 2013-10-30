@@ -1,0 +1,14 @@
+== Cookbook ==
+
+* Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist) and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
+* Subplot_example.jl in a [https://gist.github.com/gizmaa/7199540 github gist] and in an [http://nbviewer.ipython.org/7211037 ipython viewer]
+* Time-annotation_example.jl in a [https://gist.github.com/gizmaa/7199519 github gist] and in an [http://nbviewer.ipython.org/7211049 ipython viewer]
+* Windrose_Example.jl in a [https://gist.github.com/gizmaa/7199478 github gist] and in an [http:/nbviewer.ipython.org/7211059 ipython viewer]
+
+
+== Cheatsheets ==
+* [http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf StevenJ's Julia cheatsheet]
+* John Myles White compares the [http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/ Julia and "R" language syntax]
+* Cheatsheet for [https://github.com/tanmaykm/julia_types Julia Types]
+* [https://github.com/karbarcca/Rosetta-Julia Rosetta Code task implementations] for the Julia language.
+

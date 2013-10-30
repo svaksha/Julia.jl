@@ -1,0 +1,9 @@
+
+== Community ==
+* List of various [http://julialang.org/community/ mailing lists]
+* IRC chat on [http://webchat.freenode.net/?channels=julia #julia at irc.freenode.net]
+
+== Blogs ===
+* The official [http://julialang.org/blog/ Julia language blog]
+* The [http://juliablogs.com/ Julia Planet]
+

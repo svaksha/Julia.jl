@@ -1,0 +1,3 @@
+== Automation ==
+* [https://github.com/simonster/MatlabCluster.jl Julia cluster manager for Matlab Job Scheduler]
+

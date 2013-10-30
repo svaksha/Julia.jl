@@ -1,16 +1,22 @@
 Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, blog links, howto's, etc...
 
-Inspired by Pycrumbs on github, ALL things "Julia" are linked here, so this is a WIP repo and you are welcome to contribute (see below).
+Inspired by pycrumbs on github, ALL things "Julia" are linked here. This is a WIP-repo and you are welcome to contribute (see below).
 
-== Pages ==
+== Topic Pages ==
+* [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
+* [https://github.com/svaksha/julya/blob/master/Events.mediawiki Events, conferences, research papers,...]
+* [https://github.com/svaksha/julya/blob/master/LICENSE.mediawiki LICENSE]
+* [https://github.com/svaksha/julya/blob/master/MathStats.mediawiki Mathematics and Statistics]
+* [https://github.com/svaksha/julya/blob/master/Physics.mediawiki Physics]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
+* [https://github.com/svaksha/julya/blob/master/README.mediawiki README]
+* [https://github.com/svaksha/julya/blob/master/Visualization.mediawiki Visualization]
+* [https://github.com/svaksha/julya/blob/master/Web.mediawiki Web]
+
 
 === Contributing ===
 
-* Add sections (optional) to the respective file: say, JULYA.md, MathStats.md, Visualization.md, QA.md, ...
-    * Add section title to the contents ("#Contents" section on top).
-* Add your links in the appropriate section and if its a new section, add a link title.
-* Add your name to the AUTHORS.mediawiki file.
+* Depending on the topic, add your link (with notes) to the respective mediawiki file: say, JULYA.md, MathStats.md, Visualization.md, QA.md, ...
 * Send a Pull Request to https://github.com/svaksha/julya/pulls
 
 
@@ -18,8 +24,4 @@ Inspired by Pycrumbs on github, ALL things "Julia" are linked here, so this is a
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/svaksha/julya/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
 
