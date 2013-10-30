@@ -1,0 +1,23 @@
+Graphs, Plots and other Visualization libs/packages. Also includes blog links to user experiences and howto's.
+
+== Visualization ==
+* Cairo.jl: [https://github.com/JuliaLang/Cairo.jl Bindings for the Cairo graphics library]
+* [https://github.com/JuliaLang/Color.jl Color.jl]: adds colour to your plots and graphs.
+* Jeff Bezanson's [http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb Colorimetry in an iJulia notebook]
+* Interactive [https://github.com/GlenHertz/ProfileView.jl SVG flame graphs] for analyzing profiling to ProfileView. An HTML preview of the [http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg SVG example]
+* The interactive [http://johnmyleswhite.com/typetree/tree.html D3 visualization] of a Julia type tree and the [https://github.com/johnmyleswhite/TypeTree.jl source code for TypeTree].
+* [https://github.com/natj/matplot A MATLAB-like interface to Winston].
+
+== Plotting ==
+* Gaston
+* [https://github.com/johnmyleswhite/ASCIIPlots.jl ASCIIPlots.jl]
+* [https://github.com/dcjones/Gadfly.jl Gadfly.jl]
+  * Rendering to an [https://github.com/dcjones/Gadfly.jl#using-the-d3-backend SVG file using the D3 browser interface]
+* [https://github.com/stevengj/PyPlot.jl PyPlot.jl: Plotting for Julia based on matplotlib.pyplot]
+* [https://github.com/nolta/Winston.jl Winston.jl]
+
+== HowTo's Blogs ==
+Read other Julia users experiences with plotting
+* Sven Mesecke on [http://sveme.org/installing-julia-for-data-visualization-stuff.html data visualization with Julia] and his [http://sveme.org/julia-for-matlab-users-i.html notes for Matlab users].
+
+
