@@ -1,0 +1,10 @@
+
+== NoSQL ==
+
+* [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
+
+
+== DataFormats ==
+
+* [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
+

@@ -1,3 +1,11 @@
+== Start with Julia ==
+* [http://julialang.org/downloads/ Download and install Julia on various Operating Systems]
+* List of [http://docs.julialang.org/en/latest/manual/modules/ Julia Modules]
+* [http://docs.julialang.org/en/latest/stdlib/ Standard Library]
+* Julia [https://github.com/JuliaLang/julia/tree/master/examples Sample programs].
+* [https://github.com/twadleigh/ImmutableArrays.jl Immutable Arrays]
+* Iterators.jl: [https://github.com/JuliaLang/Iterators.jl Common functional iterator patterns]
+
 
 == Documentation ==
 * The [http://docs.julialang.org/en/latest/manual/packages/ Julia package manager manual]
@@ -6,4 +14,8 @@
 * [http://docs.julialang.org/en/latest/manual/mathematical-operations/ Mathematical Operations]
 * [http://docs.julialang.org/en/latest/manual/parallel-computing/ Parallel Computing]
 
+
+== Packages ==
+* [http://docs.julialang.org/en/latest/packages/packagelist/ Julia Package] list.
+* METADATA.jl: The [https://github.com/JuliaLang/METADATA.jl official set of Julia packages]
 
