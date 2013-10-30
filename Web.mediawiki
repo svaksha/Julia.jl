@@ -1,0 +1,11 @@
+Networking, Web related things go here:
+
+== Networking ==
+* [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
+* [https://github.com/kmsquire/Logging.jl Logging] module.
+
+== Web ==
+* GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
+* Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
+* ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
+
