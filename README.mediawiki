@@ -1,22 +1,23 @@
-JULYA
-=====
+= JULYA Readme =
 
-Curated bits and bytes of `Julia <https://github.com/JuliaLang>`_ language learning resources, blog links, howto's, etc...
+Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, blog links, howto's, etc...
 
 Inspired by Pycrumbs on github, ALL things "Julia" are linked here, so this is a WIP repo and you are welcome to contribute (see below).
 
+== Pages ==
+* [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
 
-Contributing
-~~~~~~~~~~~~~
+=== Contributing ===
+
 * Add sections (optional) to the respective file: say, JULYA.md, MathStats.md, Visualization.md, QA.md, ...
     * Add section title to the contents ("#Contents" section on top).
 * Add your links in the appropriate section and if its a new section, add a link title.
-* Add your name to the AUTHORS.md file [Format: $name (@githubID)].
+* Add your name to the AUTHORS.mediawiki file.
 * Send a Pull Request to https://github.com/svaksha/julya/pulls
 
 
-LICENSE
----------
+=== LICENSE ===
+
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 

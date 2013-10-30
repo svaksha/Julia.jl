@@ -1,0 +1,19 @@
+
+Benchmarks, Quality-Analysis(QA), CI, Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), anything "Quality" related goes here:
+
+== Benchmarks ==
+* [https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl Raytracer in the Julia kernel]
+* More [https://github.com/jakebolewski/rays Raytracers].
+
+== CI ==
+* Merge your Julia code with mainline to test it on a [https://travis-ci.org/JuliaLang/ Travis-CI] build server.
+
+== Packaging ==
+* A [https://gist.github.com/IainNZ/6086173 Julep for package requirements and quality standards]
+* The [https://github.com/IainNZ/PackageEvaluator.jl Julia package evaluator] and the [http://iaindunning.com/PackageEval/ results]
+
+== Profiling ==
+Profile your code
+* Use [http://docs.julialang.org/en/latest/stdlib/profile/ IProfile] in Base to profile your code.
+
+
