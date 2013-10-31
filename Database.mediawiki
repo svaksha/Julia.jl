@@ -6,5 +6,6 @@
 
 == DataFormats ==
 
+* [https://github.com/timholy/HDF5.jl HDF5.jl]
 * [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
 
