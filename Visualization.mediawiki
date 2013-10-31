@@ -1,5 +1,9 @@
 Graphs, Plots and other Visualization libs/packages. Also includes blog links to user experiences and howto's.
 
+== API ==
+* [https://plot.ly/api/julia/ Plotly Julia API] in an [http://nbviewer.ipython.org/7105191 IJulia notebook]
+   
+
 == Visualization ==
 * Cairo.jl: [https://github.com/JuliaLang/Cairo.jl Bindings for the Cairo graphics library]
 * [https://github.com/JuliaLang/Color.jl Color.jl]: adds colour to your plots and graphs.
