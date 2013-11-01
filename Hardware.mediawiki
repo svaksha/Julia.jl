@@ -1,0 +1,5 @@
+
+== ARM == 
+* Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM]
+* [https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598 Debian build log]
+
