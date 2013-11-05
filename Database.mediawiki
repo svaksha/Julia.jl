@@ -6,6 +6,7 @@
 
 == DataFormats ==
 
+* Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
 * [https://github.com/timholy/HDF5.jl HDF5.jl]
 * [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
 
