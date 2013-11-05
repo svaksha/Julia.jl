@@ -3,6 +3,7 @@
 
 * [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
 * [https://github.com/Lytol/Mongo.jl Mongo bindings] for the Julia programming language.
+* Julia interface to the [https://github.com/loladiro/SQLite.jl  SQLite library] and support for operations on DataFrames.
 
 == DataFormats ==
 

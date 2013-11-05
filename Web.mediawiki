@@ -1,13 +1,28 @@
 Networking, Web related things go here:
 
-== Networking ==
+== Cloud ==
+* https://github.com/loladiro/OpenStack.jl
+
+
+== Documentation == 
 * [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
-* [https://github.com/kmsquire/Logging.jl Logging] module.
+
+
+== HTTP ==
+* [https://github.com/hackerschool/HttpParser.jl Julia wrapper for Joyent's http-parser].
 * SimJulia.jl: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
+* URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
 
-== Web ==
+
+== Networking ==
+* [https://github.com/loladiro/GnuTLS.jl   Transport Level Security for Julia Streams provided by GnuTLS].
+* [https://github.com/kmsquire/Logging.jl Logging] module.
+
+
+== UI/UX ==
 * GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
 * Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
+
 
