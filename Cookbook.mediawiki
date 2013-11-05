@@ -1,11 +1,11 @@
 
 == Cookbook ==
 
-* Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist) and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
+* Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist] and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
 * Subplot_example.jl in a [https://gist.github.com/gizmaa/7199540 github gist] and in an [http://nbviewer.ipython.org/7211037 ipython viewer]
 * Time-annotation_example.jl in a [https://gist.github.com/gizmaa/7199519 github gist] and in an [http://nbviewer.ipython.org/7211049 ipython viewer]
 * Windrose_Example.jl in a [https://gist.github.com/gizmaa/7199478 github gist] and in an [http:/nbviewer.ipython.org/7211059 ipython viewer]
-
+* [http://rosettacode.org/wiki/Binary_search#Julia Binary search in Julia]
 
 == Cheatsheets ==
 
@@ -16,5 +16,6 @@
 
 
 == IJulia notebooks ==
-* [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
+* [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks A gallery of interesting Julia notebooks].
+
 

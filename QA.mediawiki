@@ -2,6 +2,7 @@
 Benchmarks/ Optimization, Quality-Analysis(QA), CI, Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), anything "Quality" related goes here:
 
 == Benchmarks ==
+* [http://speed.julialang.org Microbenchmark timings are on speed.julialang.org]
 * [https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl Raytracer in the Julia kernel]
 * More [https://github.com/jakebolewski/rays Raytracers].
 

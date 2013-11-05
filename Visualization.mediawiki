@@ -24,4 +24,5 @@ Graphs, Plots and other Visualization libs/packages. Also includes blog links to
 Read other Julia users experiences with plotting
 * Sven Mesecke on [http://sveme.org/installing-julia-for-data-visualization-stuff.html data visualization with Julia] and his [http://sveme.org/julia-for-matlab-users-i.html notes for Matlab users].
 
-
+== Documentation == 
+* [https://github.com/john9631/JuliaDocs Gadfly Reference Cards]
