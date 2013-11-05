@@ -7,5 +7,6 @@ Networking, Web related things go here:
 == Web ==
 * GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
 * Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
+* SimJulia.jl: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
 

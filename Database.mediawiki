@@ -2,7 +2,7 @@
 == NoSQL ==
 
 * [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
-
+* [https://github.com/Lytol/Mongo.jl Mongo bindings] for the Julia programming language.
 
 == DataFormats ==
 

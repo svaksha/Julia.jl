@@ -18,4 +18,4 @@
 == Packages ==
 * [http://docs.julialang.org/en/latest/packages/packagelist/ Julia Package] list.
 * METADATA.jl: The [https://github.com/JuliaLang/METADATA.jl official set of Julia packages]
-
+* SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]

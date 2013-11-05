@@ -5,6 +5,7 @@
 * Subplot_example.jl in a [https://gist.github.com/gizmaa/7199540 github gist] and in an [http://nbviewer.ipython.org/7211037 ipython viewer]
 * Time-annotation_example.jl in a [https://gist.github.com/gizmaa/7199519 github gist] and in an [http://nbviewer.ipython.org/7211049 ipython viewer]
 * Windrose_Example.jl in a [https://gist.github.com/gizmaa/7199478 github gist] and in an [http:/nbviewer.ipython.org/7211059 ipython viewer]
+* [https://github.com/karbarcca/Rosetta-Julia Rosetta Code tasks] implemented in the Julia language.
 * [http://rosettacode.org/wiki/Binary_search#Julia Binary search in Julia]
 
 == Cheatsheets ==
