@@ -1,3 +1,6 @@
+== Cryptography ==
+* Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
+
 == Mathematics ==
 * [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
@@ -14,6 +17,7 @@
 
 
 == Statistics ==
+* [https://github.com/JuliaStats/Stats.jl Basic statistics functions for Julia].
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
 * [https://github.com/dmbates/MixedModels.jl GLMM]
