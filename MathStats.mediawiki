@@ -1,6 +1,11 @@
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
 
+
+== Finance / Quant ==
+* [https://github.com/JuliaQuant Julia Quant] group.
+
+
 == Mathematics ==
 * [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
@@ -17,6 +22,10 @@
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 
 
+== Operations Research ==
+* [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
+
+
 == Statistics ==
 * [https://github.com/JuliaStats/Stats.jl Basic statistics functions for Julia].
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
@@ -24,7 +33,4 @@
 * [https://github.com/dmbates/MixedModels.jl GLMM]
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
 
-
-== Operations Research ==
-* [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 
