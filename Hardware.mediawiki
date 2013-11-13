@@ -1,3 +1,7 @@
+== API == 
+* [https://github.com/jakebolewski/OpenCL.jl OpenCL bindings for Julia] is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
+  ** Sample notebooks for: [http://nbviewer.ipython.org/7436359 GPU Julia], and [http://nbviewer.ipython.org/7436439 GPU Transpose].
+
 
 == ARM == 
 * Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM]

@@ -14,6 +14,7 @@
 * Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
+* [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 
 
 == Statistics ==

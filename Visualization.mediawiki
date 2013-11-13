@@ -2,7 +2,7 @@ Graphs, Plots and other Visualization libs/packages. Also includes blog links to
 
 == API ==
 * [https://plot.ly/api/julia/ Plotly Julia API] in an [http://nbviewer.ipython.org/7105191 IJulia notebook]
-   
+
 
 == Visualization ==
 * Cairo.jl: [https://github.com/JuliaLang/Cairo.jl Bindings for the Cairo graphics library]
@@ -12,6 +12,7 @@ Graphs, Plots and other Visualization libs/packages. Also includes blog links to
 * The interactive [http://johnmyleswhite.com/typetree/tree.html D3 visualization] of a Julia type tree and the [https://github.com/johnmyleswhite/TypeTree.jl source code for TypeTree].
 * [https://github.com/natj/matplot A MATLAB-like interface to Winston].
 
+
 == Plotting ==
 * Gaston
 * [https://github.com/johnmyleswhite/ASCIIPlots.jl ASCIIPlots.jl]
@@ -20,9 +21,11 @@ Graphs, Plots and other Visualization libs/packages. Also includes blog links to
 * [https://github.com/stevengj/PyPlot.jl PyPlot.jl: Plotting for Julia based on matplotlib.pyplot]
 * [https://github.com/nolta/Winston.jl Winston.jl]
 
+
 == HowTo's Blogs ==
 Read other Julia users experiences with plotting
 * Sven Mesecke on [http://sveme.org/installing-julia-for-data-visualization-stuff.html data visualization with Julia] and his [http://sveme.org/julia-for-matlab-users-i.html notes for Matlab users].
+
 
 == Documentation == 
 * [https://github.com/john9631/JuliaDocs Gadfly Reference Cards]
