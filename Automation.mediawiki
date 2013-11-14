@@ -1,3 +1,16 @@
-== Automation ==
+== Build Automation ==
+
 * [https://github.com/simonster/MatlabCluster.jl Julia cluster manager for Matlab Job Scheduler]
+* [https://github.com/loladiro/OpenStack.jl OpenStack.jl]
+* [https://github.com/BenLauwens/SimJulia.jl SimJulia.jl ], a process-oriented simulation library written in Julia.
+
+
+== CI ==
+* Merge your Julia code with mainline to test it on a [https://travis-ci.org/JuliaLang/ Travis-CI] build server.
+
+
+
+== Packaging ==
+* A [https://gist.github.com/IainNZ/6086173 Julep for package requirements and quality standards]
+* The [https://github.com/IainNZ/PackageEvaluator.jl Julia package evaluator] and the [http://iaindunning.com/PackageEval/ results]
 

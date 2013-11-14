@@ -1,15 +1,16 @@
-Networking, Web related things go here:
+Networking, Events frameworks and other Web related things go here:
 
-== Cloud ==
-* https://github.com/loladiro/OpenStack.jl
+
 
 
 == Documentation == 
 * [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
 
+
 == GeSHI ==
 * [https://github.com/JuliaLang/julia/blob/master/contrib/julia-mode.el#L79-L108 List of Julia keywords] and [https://github.com/JuliaLang/julia/commit/71c0aa3e5660258af5c042058d5d8d3b82d93efb here].
 * [https://github.com/john9631/JuliaDocs/blob/master/julia.php Julia language file for GeSHI].
+
 
 == HTTP ==
 * [https://github.com/hackerschool/HttpParser.jl Julia wrapper for Joyent's http-parser].
