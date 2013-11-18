@@ -6,4 +6,5 @@
 == Blogs ===
 * The official [http://julialang.org/blog/ Julia language blog]
 * The [http://juliablogs.com/ Julia Planet]
-
+* [http://blog.leahhanson.us/drafts/julia-helps.html  Leah Hanson's blog post about helpful Julia functions (help, methods, etc..)]
+	
