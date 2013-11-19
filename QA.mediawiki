@@ -15,6 +15,8 @@ Benchmarks/ Optimization, Quality-Analysis(QA), CI, Test-Driven-Development (TDD
 * [https://github.com/Staross/JuliaCMAES CMA-ES port] - a mix of the original minimal matlab implementation (purecmaes.m) and the full one (cmaes.m).
 * [https://github.com/robertfeldt/BlackBoxOptim.jl BlackBoxOptim.jl] is a (experimental, work-in-progress) global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 
+== Sandbox == 
+* [https://github.com/amitmurthy/JDock An IJulia sandboxed by Docker containers].
 
 == Profiling ==
 Profile your code
