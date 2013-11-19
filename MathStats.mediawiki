@@ -20,7 +20,7 @@
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
-
+* [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
