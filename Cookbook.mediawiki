@@ -19,5 +19,6 @@
 
 == IJulia notebooks ==
 * [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks A gallery of interesting Julia notebooks].
+* [https://github.com/JuliaX/IJuliaNotebooks Julia-0.2 community tour] in an [http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb ipython viewer].
 
 
