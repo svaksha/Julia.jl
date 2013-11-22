@@ -1,6 +1,7 @@
 Networking, Events frameworks and other Web related things go here:
 
-
+== API ==
+* A Julia package to estimate the [https://github.com/johnmyleswhite/GeoIP.jl geographic location of IP addresses].
 
 
 == Documentation == 

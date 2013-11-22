@@ -1,9 +1,17 @@
-= Software Utilities and Tools = 
-
+= Software Utilities = 
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
 
 
+
+= GUI widget toolkits =
+== GUI ==
+* The Julia interface for the [https://github.com/JuliaLang/Tk.jl Tk windowing toolkit].
+* Julia interface to the [https://github.com/JuliaLang/Gtk.jl GTK windowing toolkit].
+
+
+
+= Editor Tools = 
 == IJulia ==
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
 
@@ -14,5 +22,9 @@
 === Julia-Studio ===
 * [http://forio.com/products/julia-studio/ Julia-Studio].
 * [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
+
+=== Julia-Vim ===
+* [https://github.com/JuliaLang/julia-vim Julia-Vim]
+
 
 

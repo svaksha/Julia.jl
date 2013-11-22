@@ -8,6 +8,7 @@
 * [http://rosettacode.org/wiki/Binary_search#Julia Binary search in Julia]
 * [https://gist.github.com/gizmaa/7214002 Plotting Examples]
 
+
 == Cheatsheets ==
 
 * [http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf StevenJ's Julia cheatsheet]
@@ -16,8 +17,12 @@
 * [https://github.com/karbarcca/Rosetta-Julia Rosetta Code task implementations] for the Julia language.
 * [https://github.com/john9631/JuliaDocs John Lynch's Julia and Gadfly Cheatsheets]
 
+
 == IJulia notebooks ==
 * [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks A gallery of interesting Julia notebooks].
 * [https://github.com/JuliaX/IJuliaNotebooks Julia-0.2 community tour] in an [http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb ipython viewer].
 
 
+
+== Julia Vs. OtherLanguages ==
+* [https://github.com/johnmyleswhite/JuliaVsR Julia Vs. R].

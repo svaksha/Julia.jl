@@ -7,12 +7,11 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 * [https://github.com/svaksha/julya/blob/master/Database.mediawiki Database]
 * [https://github.com/svaksha/julya/blob/master/Documentation.mediawiki Documentation]
 * [https://github.com/svaksha/julya/blob/master/Events.mediawiki Events, conferences, research papers,...]
-* [https://github.com/svaksha/julya/blob/master/GUI.mediawiki GUI]
-* [https://github.com/svaksha/julya/blob/master/IDE.mediawiki IDE]
 * [https://github.com/svaksha/julya/blob/master/MathStats.mediawiki Mathematics and Statistics]
 * [https://github.com/svaksha/julya/blob/master/Physics.mediawiki Physics]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
 * [https://github.com/svaksha/julya/blob/master/README.mediawiki README]
+* [https://github.com/svaksha/julya/blob/master/Utilities.mediawiki Utilities]
 * [https://github.com/svaksha/julya/blob/master/Visualization.mediawiki Visualization]
 * [https://github.com/svaksha/julya/blob/master/Web.mediawiki Web]
 
