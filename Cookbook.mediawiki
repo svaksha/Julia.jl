@@ -1,4 +1,3 @@
-
 == Cookbook ==
 
 * Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist] and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
@@ -15,7 +14,7 @@
 * John Myles White compares the [http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/ Julia and "R" language syntax]
 * Cheatsheet for [https://github.com/tanmaykm/julia_types Julia Types]
 * [https://github.com/karbarcca/Rosetta-Julia Rosetta Code task implementations] for the Julia language.
-
+* [https://github.com/john9631/JuliaDocs John Lynch's Julia and Gadfly Cheatsheets]
 
 == IJulia notebooks ==
 * [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks A gallery of interesting Julia notebooks].
