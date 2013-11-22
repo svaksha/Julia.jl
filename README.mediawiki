@@ -1,7 +1,5 @@
 Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, blog links, howto's, etc...
 
-Inspired by pycrumbs on github, ALL things "Julia" are linked here. This is a WIP-repo and you are welcome to contribute (see below).
-
 == Topic Pages ==
 * [https://github.com/svaksha/julya/blob/master/Automation.mediawiki Automation]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]

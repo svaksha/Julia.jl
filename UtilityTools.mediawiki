@@ -1,11 +1,18 @@
-== IDE ==
-* A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
+= Software Utilities and Tools = 
 
-== Julia-Studio ==
-* [http://forio.com/products/julia-studio/ Julia-Studio].
-* [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
+== File compression ==
+* [https://github.com/jvns/gzip.jl GZip in Julia].
+
 
 == IJulia ==
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
+
+
+== IDE ==
+* A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
+
+=== Julia-Studio ===
+* [http://forio.com/products/julia-studio/ Julia-Studio].
+* [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
 
 
