@@ -27,6 +27,14 @@
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 
 
+== Machine Learning, Data Mining ==
+* [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
+
+
+== NLP ==
+* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
+
+
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 
@@ -38,5 +46,3 @@
 * [https://github.com/dmbates/MixedModels.jl GLMM]
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
 
-=== NLP ===
-* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
