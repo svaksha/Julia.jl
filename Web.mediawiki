@@ -19,15 +19,15 @@ Networking, Events frameworks and other Web related things go here:
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
+* A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 
 
 == Networking ==
-* [https://github.com/loladiro/GnuTLS.jl   Transport Level Security for Julia Streams provided by GnuTLS].
+* [https://github.com/loladiro/GnuTLS.jl Transport Level Security for Julia Streams provided by GnuTLS].
 * [https://github.com/kmsquire/Logging.jl Logging] module.
 
 
 == UI/UX ==
 * GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
 * Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
-
 

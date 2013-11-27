@@ -11,6 +11,7 @@
 * [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
 * [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
 * [https://github.com/johnmyleswhite/Calculus.jl Calculus.jl]
+* A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
 * [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
