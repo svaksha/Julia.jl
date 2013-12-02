@@ -34,6 +34,7 @@
 
 == NLP ==
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
+* The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
 
 
 == Operations Research ==

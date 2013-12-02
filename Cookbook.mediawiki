@@ -1,4 +1,7 @@
-== Cookbook ==
+All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...
+
+
+== Cookbooks ==
 
 * Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist] and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
 * Subplot_example.jl in a [https://gist.github.com/gizmaa/7199540 github gist] and in an [http://nbviewer.ipython.org/7211037 ipython viewer]
@@ -18,6 +21,7 @@
 * [https://github.com/john9631/JuliaDocs John Lynch's Julia and Gadfly Cheatsheets]
 
 
+
 == IJulia notebooks ==
 * [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks A gallery of interesting Julia notebooks].
 * [https://github.com/JuliaX/IJuliaNotebooks Julia-0.2 community tour] in an [http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb ipython viewer].
@@ -26,3 +30,9 @@
 
 == Julia Vs. OtherLanguages ==
 * [https://github.com/johnmyleswhite/JuliaVsR Julia Vs. R].
+
+
+
+== NLP ==
+* [https://gist.github.com/kmsquire/7569843 Peter Norvig's spelling corrector ported to Julia], which is now a part of the [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package.
+
