@@ -4,7 +4,12 @@ Networking, Events frameworks and other Web related things go here:
 * A Julia package to estimate the [https://github.com/johnmyleswhite/GeoIP.jl geographic location of IP addresses].
 
 
+== Cloud ==
+* [https://github.com/amitmurthy/AWS.jl AWS.jl] supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically.
+
+
 == Documentation == 
+* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
 * [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
 
 

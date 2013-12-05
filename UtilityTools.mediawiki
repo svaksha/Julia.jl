@@ -15,6 +15,9 @@
 == IJulia ==
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
 
+== Tools on the Cloud ==
+* Use [https://cloud.sagemath.com Julia on the SageMath cloud server].
+
 
 == IDE ==
 * A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.

@@ -1,6 +1,9 @@
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
 
+==  Documentation ==
+* [http://docs.julialang.org/en/latest/manual/mathematical-operations/ Mathematical Operations]
+
 
 == Finance / Quant ==
 * [https://github.com/JuliaQuant Julia Quant] group.
@@ -26,15 +29,7 @@
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 * [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
-
-
-== Machine Learning, Data Mining ==
-* [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
-
-
-== NLP ==
-* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
-* The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
+* SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 
 
 == Operations Research ==

@@ -1,0 +1,12 @@
+AI, Machine Learning, Data Mining, NLP
+
+== Machine Learning, Data Mining ==
+* [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
+
+
+== NLP ==
+* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
+* The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
+* [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
+
+

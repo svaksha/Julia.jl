@@ -11,11 +11,10 @@
 * The [http://docs.julialang.org/en/latest/manual/packages/ Julia package manager manual]
 * Conditional loops and [http://docs.julialang.org/en/latest/manual/control-flow/ Control flow] constructs.
 * [http://docs.julialang.org/en/latest/manual/metaprogramming/ Meta Programming].
-* [http://docs.julialang.org/en/latest/manual/mathematical-operations/ Mathematical Operations]
 * [http://docs.julialang.org/en/latest/manual/parallel-computing/ Parallel Computing]
 
 
 == Packages ==
 * [http://docs.julialang.org/en/latest/packages/packagelist/ Julia Package] list.
 * METADATA.jl: The [https://github.com/JuliaLang/METADATA.jl official set of Julia packages]
-* SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
+
