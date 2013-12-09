@@ -21,15 +21,16 @@ Networking, Events frameworks and other Web related things go here:
 == HTTP ==
 * [https://github.com/hackerschool/HttpParser.jl Julia wrapper for Joyent's http-parser].
 * SimJulia.jl: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
+* A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
-* A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 
 
 == Networking ==
 * [https://github.com/loladiro/GnuTLS.jl Transport Level Security for Julia Streams provided by GnuTLS].
 * [https://github.com/kmsquire/Logging.jl Logging] module.
+* [https://github.com/pchronz/juliaflow JuliaFlow] is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0. 
 
 
 == UI/UX ==
