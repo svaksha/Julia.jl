@@ -7,3 +7,7 @@
 * Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM]
 * [https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598 Debian build log]
 
+
+== Digital Signal Processing (DSP) ==
+* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
+
