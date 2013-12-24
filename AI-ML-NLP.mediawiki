@@ -1,4 +1,8 @@
-AI, Machine Learning, Data Mining, NLP
+AI, Algorithms, Machine Learning, Data Mining, Data Structures, NLP, ...
+
+== Bloom Filters ==
+* [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+
 
 == Machine Learning, Data Mining ==
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
