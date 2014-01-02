@@ -1,5 +1,7 @@
 All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...
 
+== Style Guidelines ==
+* [https://github.com/johnmyleswhite/Style.jl Style guidelines for Julia programming].
 
 == Cookbooks ==
 

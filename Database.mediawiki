@@ -1,20 +1,27 @@
-
-== IO interfaces ==
+= IO interfaces =
 * [https://github.com/karbarcca/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
 
-== DataFormats ==
 
+= DataFormats =
 * Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
 * [https://github.com/timholy/HDF5.jl HDF5.jl]
 * [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
 
 
-== NoSQL ==
+= Database =
+* DBI.jl:: is an [https://github.com/johnmyleswhite/DBI.jl abstract DBI interface] to provide a database-independent API protocol that all database drivers can be expected to comply with.
 
-* [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
+=== MySQL ===
+* [https://github.com/johnmyleswhite/MySQL.jl MySQL DBI driver] that uses the C MySQL API and obeys the DBI.jl protocol.
+
+=== SQLite ===
+* Julia interface to the [https://github.com/karbarcca/SQLite.jl SQLite library] and support for operations on DataFrames.
+ 
+=== MongoDB ===
 * [https://github.com/Lytol/Mongo.jl Mongo bindings] for the Julia programming language.
 
+=== Redis ===
+* [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
 
-== RDBMS ==
-* Julia interface to the [https://github.com/karbarcca/SQLite.jl  SQLite library] and support for operations on DataFrames.
+
 
