@@ -1,10 +1,7 @@
 All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...
 
-== Style Guidelines ==
-* [https://github.com/johnmyleswhite/Style.jl Style guidelines for Julia programming].
 
 == Cookbooks ==
-
 * Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist] and in an [http://nbviewer.ipython.org/7210792 ipython viewer]
 * Subplot_example.jl in a [https://gist.github.com/gizmaa/7199540 github gist] and in an [http://nbviewer.ipython.org/7211037 ipython viewer]
 * Time-annotation_example.jl in a [https://gist.github.com/gizmaa/7199519 github gist] and in an [http://nbviewer.ipython.org/7211049 ipython viewer]
@@ -15,7 +12,6 @@ All the random stuff that does not have its own topic page goes here under vario
 
 
 == Cheatsheets ==
-
 * [http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf StevenJ's Julia cheatsheet]
 * John Myles White compares the [http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/ Julia and "R" language syntax]
 * Cheatsheet for [https://github.com/tanmaykm/julia_types Julia Types]

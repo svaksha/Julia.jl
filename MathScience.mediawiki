@@ -1,15 +1,8 @@
-== Cryptography ==
-* Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
-
 ==  Documentation ==
 * [http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/ Mathematical Operations] and a [https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19 list of all overloadable operators] in Julia.
 
 
-== Finance / Quant ==
-* [https://github.com/JuliaQuant Julia Quant] group.
-
-
-== Mathematics ==
+= MATH =
 * A hierarchy of [https://github.com/alrahimi/algebra/ abstract algebraic structures] in Julia.
 * [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
 * [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
@@ -34,6 +27,14 @@
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 
 
+== Cryptography ==
+* Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
+
+
+== Finance / Quant ==
+* [https://github.com/JuliaQuant Julia Quant] group.
+
+
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 
@@ -45,3 +46,7 @@
 * [https://github.com/dmbates/MixedModels.jl GLMM]
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
 
+
+== PHYSICS ==
+* [https://github.com/kofron/Codata.jl Codata.jl]
+* [https://github.com/ggggggggg/Physical.jl Physical.jl]
