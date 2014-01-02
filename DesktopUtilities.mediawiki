@@ -1,10 +1,15 @@
 = Software Utilities = 
+
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
+
+== Desktop Document processing == 
+* [https://github.com/aviks/Taro.jl Taro.jl] can process office documents in Julia. 
 
 
 
 = GUI widget toolkits =
+
 == GUI ==
 * The Julia interface for the [https://github.com/JuliaLang/Tk.jl Tk windowing toolkit].
 * Julia interface to the [https://github.com/JuliaLang/Gtk.jl GTK windowing toolkit].
@@ -12,8 +17,10 @@
 
 
 = Editor Tools = 
+
 == IJulia ==
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
+
 
 == Tools on the Cloud ==
 * Use [https://cloud.sagemath.com Julia on the SageMath cloud server].
@@ -22,12 +29,11 @@
 == IDE ==
 * A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
 
+
 === Julia-Studio ===
 * [http://forio.com/products/julia-studio/ Julia-Studio].
 * [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
 
 === Julia-Vim ===
 * [https://github.com/JuliaLang/julia-vim Julia-Vim]
-
-
 

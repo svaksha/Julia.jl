@@ -1,29 +1,26 @@
-Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, blog links, howto's, etc...
+Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, API's, libraries, packages, blog links, howto's, etc...
 
 == Topic Pages ==
-* [https://github.com/svaksha/julya/blob/master/Automation.mediawiki Automation]
+* [https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki AI-ML-NLP]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
-* [https://github.com/svaksha/julya/blob/master/Community.mediawiki Community]
 * [https://github.com/svaksha/julya/blob/master/Database.mediawiki Database]
-* [https://github.com/svaksha/julya/blob/master/Documentation.mediawiki Documentation]
-* [https://github.com/svaksha/julya/blob/master/Events.mediawiki Events, conferences, research papers,...]
-* [https://github.com/svaksha/julya/blob/master/MathStats.mediawiki Mathematics and Statistics]
-* [https://github.com/svaksha/julya/blob/master/Physics.mediawiki Physics]
+* [https://github.com/svaksha/julya/blob/master/DesktopUtilities.mediawiki Desktop Utilities]
+* [https://github.com/svaksha/julya/blob/master/GraphVisualization.mediawiki Graphs and Visualization tools]
+* [https://github.com/svaksha/julya/blob/master/Hardware.mediawiki Hardware]
+* [https://github.com/svaksha/julya/blob/master/JULYA.mediawiki JULYA]
+* [https://github.com/svaksha/julya/blob/master/LanguageAPI.mediawiki LanguageAPI]
+* [https://github.com/svaksha/julya/blob/master/MathScience.mediawiki Science, Mathematics and Statistics]
+* [https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki Networking-Web]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
-* [https://github.com/svaksha/julya/blob/master/README.mediawiki README]
-* [https://github.com/svaksha/julya/blob/master/Utilities.mediawiki Utilities]
-* [https://github.com/svaksha/julya/blob/master/Visualization.mediawiki Visualization]
-* [https://github.com/svaksha/julya/blob/master/Web.mediawiki Web]
+
 
 
 === Contributing ===
-
-* As per the topic, add your link (with notes) to the respective mediawiki file above.
+* As per the topic, add your link, with notes (if any) to the respective mediawiki files above.
 * Then, send a Pull Request to https://github.com/svaksha/julya/pulls
 
 
 === LICENSE ===
-
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 
