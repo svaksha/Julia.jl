@@ -7,16 +7,13 @@ Networking, Events frameworks and other Web related things go here:
 = Cloud =
 * [https://github.com/amitmurthy/AWS.jl AWS.jl] supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically.
 
-
 === Documentation ===
 * [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
 * [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
 
 
-== CI ==
-* Merge your Julia code with mainline to test it on a [https://travis-ci.org/JuliaLang/ Travis-CI] build server.
-
-
+== Parallel Computing ==
+* [https://github.com/amitmurthy/PTools.jl A collection of utilities for parallel computation in Julia].
 
 
 == GeSHI ==
@@ -31,7 +28,7 @@ Networking, Events frameworks and other Web related things go here:
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
-
+* Thin Julia [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL].
 
 == Networking ==
 * [https://github.com/loladiro/GnuTLS.jl Transport Level Security for Julia Streams provided by GnuTLS].
@@ -39,7 +36,7 @@ Networking, Events frameworks and other Web related things go here:
 * [https://github.com/pchronz/juliaflow JuliaFlow] is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0. 
 
 
-== UI/UX ==
+== Javascript UI/UX ==
 * GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
 * Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
 

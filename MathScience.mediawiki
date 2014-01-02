@@ -33,6 +33,7 @@
 
 == Finance / Quant ==
 * [https://github.com/JuliaQuant Julia Quant] group.
+* [https://github.com/aviks/Ito.jl ITO.jl]an open source toolkit for financial computing in Julia.
 
 
 == Operations Research ==
