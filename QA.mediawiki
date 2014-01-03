@@ -18,6 +18,10 @@ Benchmarks/ Optimization, Quality-Analysis(QA), CI, Test-Driven-Development (TDD
 * Merge your Julia code with mainline to test it on a [https://travis-ci.org/JuliaLang/ Travis-CI] build server.
 
 
+== Logging= 
+* Lumberjack.jl:: A [https://github.com/forio/Lumberjack.jl logging library] for Julia, by Westley Hennigh.
+
+
 == Optimization == 
 * [http://juliaopt.org/ JuliaOpt] is an umbrella group for Julia-based optimization-related projects.
 * [https://github.com/Staross/JuliaCMAES CMA-ES port] - a mix of the original minimal matlab implementation (purecmaes.m) and the full one (cmaes.m).
