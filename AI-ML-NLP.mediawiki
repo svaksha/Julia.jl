@@ -6,7 +6,7 @@ AI, Algorithms, Machine Learning, Data Mining, Data Structures, NLP, ...
 
 == Machine Learning, Data Mining ==
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
-
+* The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
 
 == NLP ==
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
