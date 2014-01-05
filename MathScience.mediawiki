@@ -47,7 +47,7 @@
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
 * [https://github.com/dmbates/MixedModels.jl GLMM]
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
-
+* [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
 
 == PHYSICS ==
 * [https://github.com/kofron/Codata.jl Codata.jl]
