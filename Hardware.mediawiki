@@ -2,6 +2,7 @@
 * [https://github.com/jakebolewski/OpenCL.jl OpenCL bindings for Julia] is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 ** Sample notebooks for: [http://nbviewer.ipython.org/7436359 GPU Julia], and [http://nbviewer.ipython.org/7436439 GPU Transpose].
 * PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
+* [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
 
 
 == ARM == 
