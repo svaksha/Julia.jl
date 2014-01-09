@@ -1,4 +1,8 @@
-AI, Algorithms, Machine Learning, Data Mining, Data Structures, NLP, ...
+AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine Learning, NLP, ...
+
+= Bioinformatics, Biotech =
+* [https://github.com/forio/GeneticAlgorithms.jl GeneticAlgorithms.jl] is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
+
 
 == Bloom Filters ==
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
