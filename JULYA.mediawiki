@@ -11,6 +11,7 @@
 * Alasdair McAndrew blogs about investigating the [https://amca01.wordpress.com/2014/01/08/meeting-julia/ fitting of an SIR model of disease spread to an outbreak of influenza] at a boarding school.
 * [http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language Getting comfortable with the julia programming language].
 * [http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia Cool things you can do in Julia].
+* How to [http://blog.leahhanson.us/julia-calling-python-calling-julia.html call Python libraries] in Julia.
 
 
 = DOCUMENTATION =
