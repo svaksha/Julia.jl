@@ -8,7 +8,7 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 * [https://github.com/svaksha/julya/blob/master/Graph-Visualization.mediawiki Graphs and Visualization tools]
 * [https://github.com/svaksha/julya/blob/master/Hardware.mediawiki Hardware]
 * [https://github.com/svaksha/julya/blob/master/JULYA.mediawiki JULYA]
-* [https://github.com/svaksha/julya/blob/master/Language-API.mediawiki LanguageAPI]
+* [https://github.com/svaksha/julya/blob/master/Language-API.mediawiki Language API]
 * [https://github.com/svaksha/julya/blob/master/Math-Science.mediawiki Science, Mathematics and Statistics]
 * [https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki Networking-Web]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
