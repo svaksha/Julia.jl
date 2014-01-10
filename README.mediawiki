@@ -4,12 +4,12 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 * [https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki AI-ML-NLP]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
 * [https://github.com/svaksha/julya/blob/master/Database.mediawiki Database]
-* [https://github.com/svaksha/julya/blob/master/DesktopUtilities.mediawiki Desktop Utilities]
-* [https://github.com/svaksha/julya/blob/master/GraphVisualization.mediawiki Graphs and Visualization tools]
+* [https://github.com/svaksha/julya/blob/master/Desktop-Utilities.mediawiki Desktop Utilities]
+* [https://github.com/svaksha/julya/blob/master/Graph-Visualization.mediawiki Graphs and Visualization tools]
 * [https://github.com/svaksha/julya/blob/master/Hardware.mediawiki Hardware]
 * [https://github.com/svaksha/julya/blob/master/JULYA.mediawiki JULYA]
-* [https://github.com/svaksha/julya/blob/master/LanguageAPI.mediawiki LanguageAPI]
-* [https://github.com/svaksha/julya/blob/master/MathScience.mediawiki Science, Mathematics and Statistics]
+* [https://github.com/svaksha/julya/blob/master/Language-API.mediawiki LanguageAPI]
+* [https://github.com/svaksha/julya/blob/master/Math-Science.mediawiki Science, Mathematics and Statistics]
 * [https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki Networking-Web]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
 
@@ -21,6 +21,6 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 
 
 === LICENSE ===
-This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+* This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Read the LICENSE file for full details.
 
 
