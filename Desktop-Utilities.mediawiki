@@ -18,6 +18,7 @@
 
 = REPL / Editor Tools = 
 
+* [https://github.com/loladiro/REPL.jl  Pure-julia REPL implementation]
 * [https://github.com/loladiro/REPLCompletions.jl  Tab completions for your Julia REPL].
 
 == IJulia ==
