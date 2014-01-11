@@ -2,6 +2,7 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 
 = Bioinformatics, Biotech =
 * [https://github.com/forio/GeneticAlgorithms.jl GeneticAlgorithms.jl] is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
+* Circuitscape.jl:: A [https://github.com/tanmaykm/Circuitscape.jl Julia implementation] of the [http://www.circuitscape.org/ Circuitscape] lib in Python, that uses electronic circuit theory to solve problems in landscape ecology.
 
 
 == Bloom Filters ==
@@ -11,6 +12,7 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 == Machine Learning, Data Mining ==
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
 * The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
+
 
 == NLP ==
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].

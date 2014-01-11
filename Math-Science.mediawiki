@@ -10,6 +10,7 @@
 * [https://github.com/natj/CellularAutomata.jl Cellular Automata] package.
 * A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
+* Blocks.jl:: is a framework to represent [https://github.com/tanmaykm/Blocks.jl chunks of entities and parallel methods on them].
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
