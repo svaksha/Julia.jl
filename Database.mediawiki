@@ -3,11 +3,12 @@
 
 
 = IO libraries for Data/File formats =
-* [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
-* Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
-* [https://github.com/timholy/HDF5.jl HDF5.jl]
-* [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
-* [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
+* DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
+* DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
+* HDF :: [https://github.com/timholy/HDF5.jl HDF5.jl]
+* JSON :: [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
+* MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
+* XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
 
 
 = Database =
