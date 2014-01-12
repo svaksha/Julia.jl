@@ -19,4 +19,11 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 * The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
 * [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
 
-
+== Statistics ==
+* [https://github.com/JuliaStats/Stats.jl Basic statistics functions for Julia].
+* The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
+* The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
+* [https://github.com/dmbates/MixedModels.jl GLMM]
+* [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
+* [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
+* MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods]. 
