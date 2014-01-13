@@ -3,8 +3,13 @@
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
 
+
 == Desktop Document processing == 
 * [https://github.com/aviks/Taro.jl Taro.jl] can process office documents in Julia. 
+
+
+== DVCS API ==
+* [https://github.com/jakebolewski/LibGit2.jl Julia bindings to the LibGit2 library], https://github.com/libgit2
 
 
 
