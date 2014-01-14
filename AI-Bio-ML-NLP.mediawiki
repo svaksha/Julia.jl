@@ -19,6 +19,11 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 * The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
 * [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
 
+
+== Nonlinear Optimization ==
+* NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
+
+
 == Statistics ==
 * [https://github.com/JuliaStats/Stats.jl Basic statistics functions for Julia].
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
