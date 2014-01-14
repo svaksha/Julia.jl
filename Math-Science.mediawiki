@@ -9,6 +9,7 @@
 * [https://github.com/johnmyleswhite/Calculus.jl Calculus.jl]
 * [https://github.com/jiahao/RandomMatrices.jl/ RandomMatrices.jl]
 * [https://github.com/natj/CellularAutomata.jl Cellular Automata] package.
+* GSL.jl:: Julia interface to the [https://github.com/jiahao/GSL.jl GNU Scientific Library] (GSL).
 * A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
 * Blocks.jl:: is a framework to represent [https://github.com/tanmaykm/Blocks.jl chunks of entities and parallel methods on them].
