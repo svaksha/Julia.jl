@@ -6,3 +6,4 @@ Various programming language wrapper API's.
 
 = Python =
 * [https://github.com/stevengj/PyCall.jl PyCall.jl] lets you call Python functions from the Julia language.
+* PyJulia:: [https://github.com/jakebolewski/pyjulia python interface to julia].
