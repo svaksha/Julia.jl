@@ -22,6 +22,7 @@
 * Julia [https://github.com/JuliaLang/julia/tree/master/examples Sample programs].
 * [https://github.com/twadleigh/ImmutableArrays.jl Immutable Arrays]
 * Iterators.jl: [https://github.com/JuliaLang/Iterators.jl Common functional iterator patterns]
+* [http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language Getting comfortable with the Julia programming language]
 
 
 == Style Guidelines ==

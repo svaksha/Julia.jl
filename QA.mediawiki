@@ -36,6 +36,8 @@ Benchmarks/ Optimization, Quality-Analysis(QA), CI, Test-Driven-Development (TDD
 == Profiling ==
 Profile your code
 * Use [http://docs.julialang.org/en/latest/stdlib/profile/ IProfile] in Base to profile your code.
+* [https://github.com/timholy/ProfileView.jl ProfileView.jl] A tool for visualizing profiling data collected with Julia's built-in sampling profiler.
+
 
 
 == Sandbox == 
