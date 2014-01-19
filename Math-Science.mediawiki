@@ -50,16 +50,16 @@
 
 
 == Statistics ==
-* [https://github.com/JuliaStats/Stats.jl Basic statistics functions for Julia].
+* StatsBase.jl:: [https://github.com/JuliaStats/StatsBase.jl Basic statistics functions for Julia].
+* Stats.jl:: [https://github.com/JuliaStats/Stats.jl Stats meta-package].
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
-* [https://github.com/dmbates/MixedModels.jl GLMM]
+* DataArrays.jl:: This package [https://github.com/JuliaStats/DataArrays.jl extends Julia by introducing data structures that can contain missing data].
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
 * [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods]. 
 * MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl  A Julia package for fitting (statistical) mixed-effects models].
 * Rmath.jl:: [https://github.com/dmbates/Rmath.jl  Archive of functions that emulate R's d-p-q-r functions for probability distributions].
-* Stats.jl:: [https://github.com/JuliaStats/Stats.jl Stats meta-package].
 
 
 

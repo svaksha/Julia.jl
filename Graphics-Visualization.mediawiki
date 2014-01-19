@@ -15,7 +15,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * [https://github.com/dcjones/Gadfly.jl Gadfly.jl]
   * Rendering to an [https://github.com/dcjones/Gadfly.jl#using-the-d3-backend SVG file using the D3 browser interface]
 * [https://github.com/stevengj/PyPlot.jl PyPlot.jl: Plotting for Julia based on matplotlib.pyplot]
-* [https://github.com/nolta/Winston.jl 2D plotting] for Julia.
+* Winston.jl:: [https://github.com/nolta/Winston.jl 2D plotting] for Julia.
 
 
 ==== Documentation ====
