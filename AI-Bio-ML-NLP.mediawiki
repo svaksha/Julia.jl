@@ -9,6 +9,10 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 
 
+== Clustering algorithms ==
+* Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl [clustering data: k-means, dp-means], etc..
+
+
 == Machine Learning, Data Mining ==
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
 * The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
