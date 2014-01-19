@@ -1,4 +1,4 @@
-==  Documentation ==
+= Documentation =
 * [http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/ Mathematical Operations] and a [https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19 list of all overloadable operators] in Julia.
 
 
@@ -29,9 +29,10 @@
 * GLM:: [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * NLreg.jl:: [https://github.com/dmbates/NLreg.jl  Nonlinear regression in Julia]
-* SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 * PowerSeries.jl:: [https://github.com/jwmerrill/PowerSeries.jl Truncated Power Series] for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
 * Quat.jl:: [https://github.com/forio/Quat.jl Quaternions, octonions and dual-quaternions].
+* SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
+* SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
 
 
 == Cryptography ==
@@ -56,9 +57,12 @@
 * [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
 * [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods]. 
+* MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl  A Julia package for fitting (statistical) mixed-effects models].
+* Rmath.jl:: [https://github.com/dmbates/Rmath.jl  Archive of functions that emulate R's d-p-q-r functions for probability distributions].
 * Stats.jl:: [https://github.com/JuliaStats/Stats.jl Stats meta-package].
 
 
-== PHYSICS ==
+
+= PHYSICS =
 * [https://github.com/kofron/Codata.jl Codata.jl]
 * [https://github.com/ggggggggg/Physical.jl Physical.jl]
