@@ -61,6 +61,7 @@
 * MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl  A Julia package for fitting (statistical) mixed-effects models].
 * Rmath.jl:: [https://github.com/dmbates/Rmath.jl  Archive of functions that emulate R's d-p-q-r functions for probability distributions].
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
+* TimeSeries.jl:: [https://github.com/JuliaStats/TimeSeries.jl Time-series toolkit] for Julia.
 
 
 = PHYSICS =

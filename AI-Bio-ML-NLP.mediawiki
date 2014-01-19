@@ -28,3 +28,6 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 * NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
 
 
+== Common Search Algorithms ==
+* NearestNeighbors.jl:: [https://github.com/johnmyleswhite/NearestNeighbors.jl Data structures for nearest neighbor search].
+* Loess.jl:: is a loess implementation based on the [https://github.com/dcjones/Loess.jl fast kd-tree based approximation algorithm], a space-partitioning data structure for organizing points in a k-dimensional space.
