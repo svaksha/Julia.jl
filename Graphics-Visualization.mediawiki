@@ -3,9 +3,11 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 == API ==
 * [https://plot.ly/api/julia/ Plotly Julia API] in an [http://nbviewer.ipython.org/7105191 IJulia notebook]
 
+
 == Graphics == 
 * Images.jl:: [https://github.com/timholy/Images.jl An image library] for Julia.
 * ImageView.jl:: An [https://github.com/timholy/ImageView.jl interactive display of images and movies].
+
 
 == Plotting ==
 * Gaston
@@ -13,7 +15,8 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * [https://github.com/dcjones/Gadfly.jl Gadfly.jl]
   * Rendering to an [https://github.com/dcjones/Gadfly.jl#using-the-d3-backend SVG file using the D3 browser interface]
 * [https://github.com/stevengj/PyPlot.jl PyPlot.jl: Plotting for Julia based on matplotlib.pyplot]
-* [https://github.com/nolta/Winston.jl Winston.jl]
+* [https://github.com/nolta/Winston.jl 2D plotting] for Julia.
+
 
 ==== Documentation ====
 * [https://github.com/john9631/JuliaDocs Gadfly Reference Cards]
@@ -26,6 +29,8 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * Interactive [https://github.com/GlenHertz/ProfileView.jl SVG flame graphs] for analyzing profiling to ProfileView. An HTML preview of the [http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg SVG example]
 * The interactive [http://johnmyleswhite.com/typetree/tree.html D3 visualization] of a Julia type tree and the [https://github.com/johnmyleswhite/TypeTree.jl source code for TypeTree].
 * [https://github.com/natj/matplot A MATLAB-like interface to Winston].
+* VTK.jl:: [https://github.com/ihnorton/VTK.jl VTK bindings] for the Julia language.
+
 
 ==== HowTo's Blogs ====
 Read other Julia users experiences with plotting

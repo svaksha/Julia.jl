@@ -1,4 +1,8 @@
-Various programming language wrapper API's.
+LLVM, compilers and other programming language wrapper API's.
+
+= LLVM =
+* Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator].
+
 
 = Java =
 * [http://aviks.github.io/JavaCall.jl/ JavaCall.jl] is a package that lets you call Java programs from Julia. 
