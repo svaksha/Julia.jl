@@ -7,6 +7,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 == Graphics == 
 * Images.jl:: [https://github.com/timholy/Images.jl An image library] for Julia.
 * ImageView.jl:: An [https://github.com/timholy/ImageView.jl interactive display of images and movies].
+* Compose.jl:: [https://github.com/dcjones/Compose.jl Declarative vector graphics].
 
 
 == Plotting ==
