@@ -50,8 +50,7 @@
 
 
 == Statistics ==
-* StatsBase.jl:: [https://github.com/JuliaStats/StatsBase.jl Basic statistics functions for Julia].
-* Stats.jl:: [https://github.com/JuliaStats/Stats.jl Stats meta-package].
+* StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl Stats meta-package for basic statistics functions] for Julia.
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
 * DataArrays.jl:: This package [https://github.com/JuliaStats/DataArrays.jl extends Julia by introducing data structures that can contain missing data].
