@@ -8,6 +8,8 @@ AI, Algorithms, Bioinformatics, Biotech, Data Mining, Data Structures, Machine L
 == Bloom Filters ==
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 
+== Data Structures ==
+* [http://julialang.org/Graphs.jl/index.html Documentation for Graphs.jl], a Julia package that provides graph types and algorithms.
 
 == Machine Learning, Data Mining ==
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
