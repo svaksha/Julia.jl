@@ -1,8 +1,8 @@
 LLVM, compilers and other programming language wrapper API's.
 
 = LLVM =
-* Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator].
-* CIndex.jl:: Julia access to the [https://github.com/vtjnash/CIndex.jl libclang interface of the LLVM Clang compiler].
+* Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator] and its fork [https://github.com/vtjnash/CIndex.jl CIndex.jl] to access the libclang interface of the LLVM Clang compiler.
+
 
 = Java =
 * [http://aviks.github.io/JavaCall.jl/ JavaCall.jl] is a package that lets you call Java programs from Julia. 

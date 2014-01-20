@@ -34,6 +34,7 @@
 * Quat.jl:: [https://github.com/forio/Quat.jl Quaternions, octonions and dual-quaternions].
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
+* Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
 
 
 == Cryptography ==
