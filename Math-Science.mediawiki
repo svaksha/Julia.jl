@@ -1,6 +1,6 @@
 ==  Documentation ==
 * [http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/ Mathematical Operations] and a [https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19 list of all overloadable operators] in Julia.
-* [http://julialang.org/Graphs.jl/index.html Documentation for Graphs.jl], a Julia package that provides graph types and algorithms.
+
 
 = MATH =
 * A hierarchy of [https://github.com/alrahimi/algebra/ abstract algebraic structures] in Julia.
