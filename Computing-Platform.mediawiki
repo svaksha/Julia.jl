@@ -1,0 +1,41 @@
+'''Hardware arch (ARM, MIPS, GPU), language API, HPC, software libraries and runtime libraries.'''
+
+
+= Programming/ Language API =
+== LLVM ==
+* Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator] and its fork [https://github.com/vtjnash/CIndex.jl CIndex.jl] to access the libclang interface of the LLVM Clang compiler.
+
+
+== Java ==
+* [http://aviks.github.io/JavaCall.jl/ JavaCall.jl] is a package that lets you call Java programs from Julia. 
+
+
+== Python ==
+* [https://github.com/stevengj/PyCall.jl PyCall.jl] lets you call Python functions from the Julia language.
+* PyJulia:: [https://github.com/jakebolewski/pyjulia python interface to julia].
+
+
+== OpenCL API ==
+* [https://github.com/jakebolewski/OpenCL.jl OpenCL bindings for Julia] is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
+
+
+
+= ARM, MIPS, GPU = 
+* Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM] and the [https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598 Debian build log]
+* [http://www.yeppp.info/ Yeppp!] is a low level, high performance library for vectorized operations, elementwise operation on arrays. It supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [https://bitbucket.org/MDukhan/yeppp source code is hosted on Bitbucket].
+* Sample notebooks for: [http://nbviewer.ipython.org/7436359 GPU Julia], and [http://nbviewer.ipython.org/7436439 GPU Transpose].
+
+
+== Digital Signal Processing (DSP) ==
+* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
+
+
+
+= Audio libs =
+* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
+* [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
+
+
+= OpenSlide =
+* OpenSlide.jl:: [https://github.com/ihnorton/OpenSlide.jl OpenSlide bindings] for Julia.
+
