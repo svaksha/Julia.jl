@@ -1,5 +1,8 @@
 All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...
 
+== Books =
+* Trends in Bayesian Methodology :: [https://github.com/scidom/hmc_and_zv_book_chapter.jl Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"] book.
+
 
 == Cookbooks ==
 * Errorbar_example.jl: in a [https://gist.github.com/gizmaa/7199563 github gist] and in an [http://nbviewer.ipython.org/7210792 ipython viewer]

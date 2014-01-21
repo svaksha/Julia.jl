@@ -35,7 +35,8 @@
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
-
+* AutoDiff.jl :: Juila package for [https://github.com/scidom/AutoDiff.jl performing automatic differentiation].
+* DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
 
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
@@ -70,3 +71,6 @@
 = PHYSICS =
 * [https://github.com/kofron/Codata.jl Codata.jl]
 * [https://github.com/ggggggggg/Physical.jl Physical.jl]
+
+= CHEMISTRY =
+* ChemicalKinetics.jl :: [https://github.com/scidom/ChemicalKinetics.jl Simulation, Bayesian inference and Bayesian model selection for chemical kinetics] in Julia.

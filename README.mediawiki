@@ -1,14 +1,13 @@
 Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, API's, libraries, packages, blog links, howto's, etc...
 
-== Topic Pages ==
+== Pages ==
 * [https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki AI-ML-NLP]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
 * [https://github.com/svaksha/julya/blob/master/Database.mediawiki Database]
 * [https://github.com/svaksha/julya/blob/master/Desktop-Utilities.mediawiki Desktop Utilities]
 * [https://github.com/svaksha/julya/blob/master/Graph-Visualization.mediawiki Graphs and Visualization tools]
-* [https://github.com/svaksha/julya/blob/master/Hardware.mediawiki Hardware]
 * [https://github.com/svaksha/julya/blob/master/JULYA.mediawiki JULYA]
-* [https://github.com/svaksha/julya/blob/master/Language-API.mediawiki Language API]
+* [https://github.com/svaksha/julya/blob/master/Computing-Platform.mediawiki Computing Platforms (ARM, MIPS, GPU), HPC and other libs]
 * [https://github.com/svaksha/julya/blob/master/Math-Science.mediawiki Science, Mathematics and Statistics]
 * [https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki Networking-Web]
 * [https://github.com/svaksha/julya/blob/master/QA.mediawiki QA]
@@ -17,7 +16,7 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 
 === Contributing ===
 * As per the topic, add your link, with notes (if any) to the respective mediawiki files above.
-* Then, send a Pull Request to https://github.com/svaksha/julya/pulls
+* Then, send a pull request (PR) to https://github.com/svaksha/julya/pulls
 
 
 === LICENSE ===
