@@ -1,5 +1,4 @@
 = Software Utilities = 
-
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
 
@@ -16,35 +15,22 @@
 
 
 
-
 = GUI widget toolkits =
-
 == GUI ==
 * The Julia interface for the [https://github.com/JuliaLang/Tk.jl Tk windowing toolkit].
 * Julia interface to the [https://github.com/JuliaLang/Gtk.jl GTK windowing toolkit].
 
 
-= REPL / Editor Tools = 
-
+= REPL, Text editors = 
+* IJulia:: [https://github.com/JuliaLang/IJulia.jl Julia kernel and magics for IPython].
 * [https://github.com/loladiro/REPL.jl  Pure-julia REPL implementation]
 * [https://github.com/loladiro/REPLCompletions.jl  Tab completions for your Julia REPL].
+* jEdit :: A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
+* [http://forio.com/products/julia-studio/ Julia-Studio] and [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
+* [https://github.com/JuliaLang/julia-vim Julia-Vim]
+* Sublime :: [https://github.com/karbarcca/Sublime-Julia Sublime Syntax, Build, Snippets, and REPL] for the Julia language.
 
-== IJulia ==
-* [IJulia](https://github.com/JuliaLang/IJulia.jl)
-
-
-== Tools on the Cloud ==
+=== REPL on the Cloud ===
 * Use [https://cloud.sagemath.com Julia on the SageMath cloud server].
 
-
-== IDE ==
-* A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
-
-
-=== Julia-Studio ===
-* [http://forio.com/products/julia-studio/ Julia-Studio].
-* [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
-
-=== Julia-Vim ===
-* [https://github.com/JuliaLang/julia-vim Julia-Vim]
 

@@ -37,6 +37,8 @@
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
 * AutoDiff.jl :: Juila package for [https://github.com/scidom/AutoDiff.jl performing automatic differentiation].
 * DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
+* Elliptic.jl :: [https://github.com/nolta/Elliptic.jl  Elliptic integral and Jacobi elliptic special functions].
+
 
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
@@ -67,10 +69,3 @@
 * TimeModels.jl:: [https://github.com/JuliaStats/TimeModels.jl Modeling time series] in Julia.
 * LM.jl:: [https://github.com/JuliaStats/LM.jl Linear models] in Julia.
 
-
-= PHYSICS =
-* [https://github.com/kofron/Codata.jl Codata.jl]
-* [https://github.com/ggggggggg/Physical.jl Physical.jl]
-
-= CHEMISTRY =
-* ChemicalKinetics.jl :: [https://github.com/scidom/ChemicalKinetics.jl Simulation, Bayesian inference and Bayesian model selection for chemical kinetics] in Julia.
