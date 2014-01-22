@@ -1,15 +1,16 @@
 All things Finance, Statistics, Numerical analysis, ....
 
 = JuliaQuant =
-* [https://github.com/JuliaQuant
-
 * [https://github.com/JuliaQuant Julia Quant] group.
-* [https://github.com/aviks/Ito.jl ITO.jl]an open source toolkit for financial computing in Julia.
 * Quandl.jl :: [https://github.com/milktrader/Quandl.jl  Julia api to Quandl open source financial, economic and social datasets].
+* TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl  Modeling the allocation of resources to markets based on the restraints of objective functions].
 
 
+= Finance packages =
+* Ito.jl :: An open source [https://github.com/aviks/Ito.jl toolkit for financial computing] in Julia.
 
-== Statistics ==
+
+= Statistics =
 * StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl Stats meta-package for basic statistics functions] for Julia.
 * The [http://juliastats.github.io/Distributions.jl/index.html Distributions] package.
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
