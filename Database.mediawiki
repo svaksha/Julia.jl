@@ -29,5 +29,7 @@ Encoding, Database, IO....
 === Redis ===
 * [https://github.com/msainz/Redis.jl Pure Julia implementation of a Redis client], largely based on redis-py.
 
+=== ODBC ===
+* ODBC.jl :: [https://github.com/karbarcca/ODBC.jl A low-level ODBC interface] for the Julia programming language.
 
 
