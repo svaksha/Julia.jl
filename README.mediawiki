@@ -18,8 +18,7 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 
 
 === Contributing ===
-* As per the topic, add your link, with notes (if any) to the respective mediawiki files above.
-* Then, send a pull request (PR) to https://github.com/svaksha/julya/pulls
+* As per the topic, add your link, with notes (if any) to the respective mediawiki files above and send a pull request (PR) to https://github.com/svaksha/julya/pulls
 '''Note:''' JULYA is a WIP, with frequent changes and reordering of files as new libraries are constantly being added to a new growing language.
 
 
