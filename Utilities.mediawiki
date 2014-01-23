@@ -22,13 +22,16 @@
 
 
 = REPL, Text editors = 
-* IJulia:: [https://github.com/JuliaLang/IJulia.jl Julia kernel and magics for IPython].
 * [https://github.com/loladiro/REPL.jl  Pure-julia REPL implementation]
 * [https://github.com/loladiro/REPLCompletions.jl  Tab completions for your Julia REPL].
 * jEdit :: A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
 * [http://forio.com/products/julia-studio/ Julia-Studio] and [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
 * [https://github.com/JuliaLang/julia-vim Julia-Vim]
 * Sublime :: [https://github.com/karbarcca/Sublime-Julia Sublime Syntax, Build, Snippets, and REPL] for the Julia language.
+
+=== IJulia === 
+* IJulia:: [https://github.com/JuliaLang/IJulia.jl Julia kernel and magics for IPython].
+* Hydra.jl :: [https://github.com/loladiro/Hydra.jl Hosted Multi-user IJulia distribution].
 
 === REPL on the Cloud ===
 * Use [https://cloud.sagemath.com Julia on the SageMath cloud server].
