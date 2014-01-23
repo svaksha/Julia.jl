@@ -11,6 +11,8 @@ Database, IO....
 * JSON :: [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
 * MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
 * XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
+* Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
+
 
 
 = Database =
