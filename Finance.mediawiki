@@ -3,10 +3,10 @@ All things Finance, Statistics, Numerical analysis, ....
 = JuliaQuant =
 * [https://github.com/JuliaQuant Julia Quant] group.
 * Quandl.jl :: [https://github.com/milktrader/Quandl.jl  Julia api to Quandl open source financial, economic and social datasets].
-* TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl  Modeling the allocation of resources to markets based on the restraints of objective functions].
 * Lazy.jl :: [https://github.com/one-more-minute/Lazy.jl  Functional programming] for Julia.
 * Ito.jl :: An open source [https://github.com/aviks/Ito.jl toolkit for financial computing] in Julia.
 * TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl Modeling the allocation of resources to markets based on the restraints of objective functions].
+* MarketTechnicals.jl :: [https://github.com/JuliaQuant/MarketTechnicals.jl Technical analysis of financial time series] in Julia.
 
 
 = Statistics =
