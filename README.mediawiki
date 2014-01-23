@@ -1,8 +1,8 @@
 Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning resources, API's, libraries, packages, blog links, howto's, etc...
 
-'''Git mirror:: [https://bitbucket.org/svaksha/julya https://bitbucket.org/svaksha/julya]'''.
+'''JULYA is also mirrored at [https://bitbucket.org/svaksha/julya https://bitbucket.org/svaksha/julya]'''.
 
-== Pages ==
+= Pages =
 * [https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki AI-ML-NLP]
 * [https://github.com/svaksha/julya/blob/master/Computing-Platform.mediawiki Computing Platforms (ARM, MIPS, GPU), HPC and other libs]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]

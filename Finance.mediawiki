@@ -7,6 +7,7 @@ All things Finance, Statistics, Numerical analysis, ....
 * Ito.jl :: An open source [https://github.com/aviks/Ito.jl toolkit for financial computing] in Julia.
 * TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl Modeling the allocation of resources to markets based on the restraints of objective functions].
 * MarketTechnicals.jl :: [https://github.com/JuliaQuant/MarketTechnicals.jl Technical analysis of financial time series] in Julia.
+* FinancialBlotter.jl :: [https://github.com/JuliaQuant/FinancialBlotter.jl Financial Instruments and Accounting] in Julia.
 
 
 = Statistics =
