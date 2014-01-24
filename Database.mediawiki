@@ -1,7 +1,7 @@
 Database, IO....
 
 = IO interfaces =
-* [https://github.com/karbarcca/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
+* [https://github.com/meggart/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
 
 
 = IO libraries for Data/File formats =

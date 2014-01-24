@@ -37,6 +37,7 @@
 * DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
 * Elliptic.jl :: [https://github.com/nolta/Elliptic.jl  Elliptic integral and Jacobi elliptic special functions].
 * Devectorize.jl :: A Julia framework for [https://github.com/lindahua/Devectorize.jl delayed expression evaluation].
+* Accelereval.jl :: [https://github.com/lindahua/Accelereval.jl  A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation].
 
 
 == Cryptography ==

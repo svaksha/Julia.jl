@@ -4,7 +4,7 @@ Curated bits and bytes of [https://github.com/JuliaLang Julia] language learning
 
 = Pages =
 * [https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki AI-ML-NLP]
-* [https://github.com/svaksha/julya/blob/master/Computing-Platform.mediawiki Computing Platforms (ARM, MIPS, GPU), HPC and other libs]
+* [https://github.com/svaksha/julya/blob/master/API.mediawiki API for Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.]
 * [https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki Cookbook]
 * [https://github.com/svaksha/julya/blob/master/Database.mediawiki Database]
 * [https://github.com/svaksha/julya/blob/master/Finance.mediawiki Finance, Quant, Statistics].
