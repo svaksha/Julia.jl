@@ -29,11 +29,3 @@ All the random stuff that does not have its own topic page goes here under vario
 
 
 
-== Julia Vs. OtherLanguages ==
-* [https://github.com/johnmyleswhite/JuliaVsR Julia Vs. R].
-
-
-
-== NLP ==
-* [https://gist.github.com/kmsquire/7569843 Peter Norvig's spelling corrector ported to Julia], which is now a part of the [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package.
-

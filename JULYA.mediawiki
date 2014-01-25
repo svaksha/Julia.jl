@@ -3,16 +3,6 @@
 * List of various [http://julialang.org/community/ mailing lists]
 * IRC chat on [http://webchat.freenode.net/?channels=julia #julia at irc.freenode.net]
 
-== Blogs ===
-* The official [http://julialang.org/blog/ Julia language blog]
-* The [http://juliablogs.com/ Julia Planet]
-* [http://blog.leahhanson.us/drafts/julia-helps.html  Leah Hanson's blog post about helpful Julia functions (help, methods, etc..)]
-* Using [http://iaindunning.com/2013/mip-callback.html JuMP to Solve a TSP with Lazy Constraints]	
-* Alasdair McAndrew blogs about investigating the [https://amca01.wordpress.com/2014/01/08/meeting-julia/ fitting of an SIR model of disease spread to an outbreak of influenza] at a boarding school.
-* [http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language Getting comfortable with the julia programming language].
-* [http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia Cool things you can do in Julia].
-* How to [http://blog.leahhanson.us/julia-calling-python-calling-julia.html call Python libraries] in Julia.
-
 
 = DOCUMENTATION =
 == Start with Julia ==
@@ -53,3 +43,20 @@ This section contains links to conference slides/videos, Press/ News reports, Re
 == Research Papers ==
 * [http://julialang.org/publications/ Julia language research publications]
  
+
+= NEWS = 
+* HN thread on Julia, [https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982]
+
+== Julia Vs. OtherLanguages ==
+* [https://github.com/johnmyleswhite/JuliaVsR Julia Vs. R].
+
+== Blogs ===
+* The official [http://julialang.org/blog/ Julia language blog]
+* The [http://juliablogs.com/ Julia Planet]
+* [http://blog.leahhanson.us/drafts/julia-helps.html  Leah Hanson's blog post about helpful Julia functions (help, methods, etc..)]
+* Using [http://iaindunning.com/2013/mip-callback.html JuMP to Solve a TSP with Lazy Constraints]	
+* Alasdair McAndrew blogs about investigating the [https://amca01.wordpress.com/2014/01/08/meeting-julia/ fitting of an SIR model of disease spread to an outbreak of influenza] at a boarding school.
+* [http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language Getting comfortable with the julia programming language].
+* [http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia Cool things you can do in Julia].
+* How to [http://blog.leahhanson.us/julia-calling-python-calling-julia.html call Python libraries] in Julia.
+

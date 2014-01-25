@@ -26,8 +26,8 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 
 = NLP =
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
-* The [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package also has Peter Norvig's spelling corrector ported to Julia as a default dictionary implementation.
 * [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
+* [https://gist.github.com/kmsquire/7569843 Peter Norvig's spelling corrector ported to Julia], which is now a part of the [https://github.com/lindahua/DataStructures.jl DataStructures.jl] package.
 
 == Unicode, Encodings ==
 * ICU.jl :: Julia wrapper for the [https://github.com/nolta/ICU.jl International Components for Unicode (ICU) library].
