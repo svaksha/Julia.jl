@@ -4,23 +4,27 @@
 
 = MATH =
 * A hierarchy of [https://github.com/alrahimi/algebra/ abstract algebraic structures] in Julia.
-* [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
-* [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
-* [https://github.com/johnmyleswhite/Calculus.jl Calculus.jl]
-* [https://github.com/jiahao/RandomMatrices.jl/ RandomMatrices.jl]
-* [https://github.com/natj/CellularAutomata.jl Cellular Automata] package.
-* GSL.jl:: Julia interface to the [https://github.com/jiahao/GSL.jl GNU Scientific Library] (GSL).
-* A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
-* GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
+* Accelereval.jl :: [https://github.com/lindahua/Accelereval.jl  A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation].
+* AutoDiff.jl :: Juila package for [https://github.com/scidom/AutoDiff.jl performing automatic differentiation].
 * Blocks.jl:: is a framework to represent [https://github.com/tanmaykm/Blocks.jl chunks of entities and parallel methods on them].
 * Church.jl:: helps you [https://github.com/LaurenceA/Church.jl perform inference in complex, and simple, probabilistic models].
+* [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
+* [https://github.com/johnmyleswhite/Calculus.jl Calculus.jl]
+* [https://github.com/natj/CellularAutomata.jl Cellular Automata] package.
+* Devectorize.jl :: A Julia framework for [https://github.com/lindahua/Devectorize.jl delayed expression evaluation].
+* DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
+* Elliptic.jl :: [https://github.com/nolta/Elliptic.jl  Elliptic integral and Jacobi elliptic special functions].
+* GSL.jl:: Julia interface to the [https://github.com/jiahao/GSL.jl GNU Scientific Library] (GSL).
+* GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
+* Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
 * [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [https://github.com/cfbaptista/KrylovSolvers.jl Krylov Solvers]
 * [https://github.com/lindahua/MATLAB.jl Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
+* MUMPS :: A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * NumericExtensions.jl: Julia extensions to provide high performance computational support for [https://github.com/lindahua/NumericExtensions.jl fast vectorized computation]
-* [https://github.com/cfbaptista/PolyMath.jl PolyMath.jl]: package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * [https://github.com/JuliaOpt/Optim.jl Optim.jl]: basic optimization algorithms implementation.
+* [https://github.com/cfbaptista/PolyMath.jl PolyMath.jl]: package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
@@ -30,14 +34,12 @@
 * Polynomial.jl:: [https://github.com/vtjnash/Polynomial.jl  Polynomial manipulations] and [https://gist.github.com/mathpup/8514578 PolyExt.jl], an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * PowerSeries.jl:: [https://github.com/jwmerrill/PowerSeries.jl Truncated Power Series] for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
 * Quat.jl:: [https://github.com/forio/Quat.jl Quaternions, octonions and dual-quaternions].
+* RandomMatrices.jl :: [https://github.com/jiahao/RandomMatrices.jl Random Matrices]
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
+* SemiringAlgebra.jl :: [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
-* Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
-* AutoDiff.jl :: Juila package for [https://github.com/scidom/AutoDiff.jl performing automatic differentiation].
-* DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
-* Elliptic.jl :: [https://github.com/nolta/Elliptic.jl  Elliptic integral and Jacobi elliptic special functions].
-* Devectorize.jl :: A Julia framework for [https://github.com/lindahua/Devectorize.jl delayed expression evaluation].
-* Accelereval.jl :: [https://github.com/lindahua/Accelereval.jl  A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation].
+* Sobol.jl :: is a [https://github.com/stevengj/Sobol.jl  generation of Sobol low-discrepancy sequence (LDS)] implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+
 
 
 == Cryptography ==
