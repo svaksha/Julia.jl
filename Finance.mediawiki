@@ -24,5 +24,4 @@ All things Finance, Statistics, Numerical analysis, ....
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
 * TimeSeries.jl:: [https://github.com/JuliaStats/TimeSeries.jl Time-series toolkit] for Julia.
 * TimeModels.jl:: [https://github.com/JuliaStats/TimeModels.jl Modeling time series] in Julia.
-* LM.jl:: [https://github.com/JuliaStats/LM.jl Linear models] in Julia.
 

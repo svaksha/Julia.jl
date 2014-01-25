@@ -32,7 +32,7 @@
 == ARM, MIPS, GPU ==
 * Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM] and the [https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598 Debian build log]
 * CUDA.jl :: [https://github.com/lindahua/CUDA.jl package wraps key functions in CUDA Driver API] for Julia.
-* [http://www.yeppp.info/ Yeppp!] is a low level, high performance library for vectorized operations, elementwise operation on arrays. It supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [https://bitbucket.org/MDukhan/yeppp source code is hosted on Bitbucket].
+* Yeppp.jl :: [https://github.com/JuliaLang/Yeppp.jl is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [https://bitbucket.org/MDukhan/yeppp source code is hosted on Bitbucket].
 * Sample notebooks for: [http://nbviewer.ipython.org/7436359 GPU Julia], and [http://nbviewer.ipython.org/7436439 GPU Transpose].
 
 
