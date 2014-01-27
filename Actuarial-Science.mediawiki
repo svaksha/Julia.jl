@@ -9,7 +9,7 @@ All things Finance, Statistics, Numerical analysis, ....
 * MarketTechnicals.jl :: [https://github.com/JuliaQuant/MarketTechnicals.jl Technical analysis of financial time series] in Julia.
 * FinancialBlotter.jl :: [https://github.com/JuliaQuant/FinancialBlotter.jl Financial Instruments and Accounting] in Julia.
 * GLM.jl :: [https://github.com/JuliaStats/GLM.jl Linear models (LM's) and generalized linear models (GLM's)] in Julia.
-
+* [https://github.com/malmaud/Pandas.jl Pandas.jl :: A Julia front-end to Python's Pandas package].
 
 = Statistics =
 * StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl Stats meta-package for basic statistics functions] for Julia.
@@ -24,4 +24,7 @@ All things Finance, Statistics, Numerical analysis, ....
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
 * TimeSeries.jl:: [https://github.com/JuliaStats/TimeSeries.jl Time-series toolkit] for Julia.
 * TimeModels.jl:: [https://github.com/JuliaStats/TimeModels.jl Modeling time series] in Julia.
+
+== Operations Research ==
+* [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 

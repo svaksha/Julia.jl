@@ -34,6 +34,7 @@
 === IJulia === 
 * IJulia:: [https://github.com/JuliaLang/IJulia.jl Julia kernel and magics for IPython].
 * Hydra.jl :: [https://github.com/loladiro/Hydra.jl Hosted Multi-user IJulia distribution].
+* Autoreload.jl :: [https://github.com/malmaud/Autoreload.jl  A package for autoreloading files for interactive work] - Modeled after IPython's autoreload extension.
 
 === REPL on the Cloud ===
 * Use [https://cloud.sagemath.com Julia on the SageMath cloud server].

@@ -25,6 +25,9 @@
 == R-lang ==
 * Rif.jl :: [https://github.com/lgautier/Rif.jl Interface to the R language].
 
+== MATLAB ==
+* [https://github.com/simonster/MAT.jl MAT.jl:: is a Julia module for reading MATLAB] files.
+
 
 
 = HW programming API =

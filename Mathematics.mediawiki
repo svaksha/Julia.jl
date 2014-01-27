@@ -31,6 +31,7 @@
 * GLM:: [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * NLreg.jl:: [https://github.com/dmbates/NLreg.jl  Nonlinear regression in Julia]
+* ols.jl:: [https://github.com/forio/ols.jl Julia type for multiple (multivariate) regression using OLS] - Performs least squared regression on linear equations of multiple independent variables.
 * Polynomial.jl:: [https://github.com/vtjnash/Polynomial.jl  Polynomial manipulations] and [https://gist.github.com/mathpup/8514578 PolyExt.jl], an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * PowerSeries.jl:: [https://github.com/jwmerrill/PowerSeries.jl Truncated Power Series] for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
 * Quat.jl:: [https://github.com/forio/Quat.jl Quaternions, octonions and dual-quaternions].
@@ -50,6 +51,4 @@
 * Monads.jl :: [https://github.com/pao/Monads.jl Monadic expressions and sequences] for Julia. Documentation at [https://monadsjl.readthedocs.org/ https://monadsjl.readthedocs.org/]
 
 
-== Operations Research ==
-* [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 
