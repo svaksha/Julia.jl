@@ -18,6 +18,8 @@ Benchmarks/ Optimization, Quality-Analysis(QA), Test-Driven-Development (TDD), B
 === Profiling ===
 Profile your code
 * Use [http://docs.julialang.org/en/latest/stdlib/profile/ IProfile] in Base to profile your code.
+* QuickCheck.jl:: [https://github.com/pao/QuickCheck.jl QuickCheck specification-based testing] for Julia. Documentation: [https://quickcheckjl.readthedocs.org/ https://quickcheckjl.readthedocs.org/]
+
 
 === Sandbox === 
 * [https://github.com/amitmurthy/JDock An IJulia sandboxed by Docker containers].
