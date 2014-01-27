@@ -26,6 +26,6 @@ Bioinformatics, Biotech, Genetics, ....
 
 = CHEMISTRY =
 * ChemicalKinetics.jl :: [https://github.com/scidom/ChemicalKinetics.jl Simulation, Bayesian inference and Bayesian model selection for chemical kinetics] in Julia.
-
+* Synchrony.jl:: [https://github.com/simonster/Synchrony.jl Coherence/phase-locking statistics] in Julia.
 
 
