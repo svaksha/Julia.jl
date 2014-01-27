@@ -32,7 +32,7 @@ Benchmarks/ Optimization, Quality-Analysis(QA), CI, Test-Driven-Development (TDD
 == Packaging ==
 * A [https://gist.github.com/IainNZ/6086173 Julep for package requirements and quality standards]
 * The [https://github.com/IainNZ/PackageEvaluator.jl Julia package evaluator] and the [http://iaindunning.com/PackageEval/ results]
-
+* WinRPM.jl :: [https://github.com/JuliaLang/WinRPM.jl RPM-md processing library] - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 == Profiling ==
 Profile your code

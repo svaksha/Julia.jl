@@ -11,19 +11,19 @@ Networking, Events frameworks and other Web related things go here:
 
 == HTTP ==
 * AWS.jl :: [https://github.com/amitmurthy/AWS.jl supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically].
-* The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services in the Julia language, with documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon.
+* The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon:
 ** HttpServer.jl :: [https://github.com/JuliaLang/HttpServer.jl a basic, non-blocking HTTP server] in Julia.
-** Meddle.jl :: is the [https://github.com/loladiro/Meddle.jl middleware stack for use with HttpServer.jl].
+** Meddle.jl :: is the [https://github.com/JuliaLang/Meddle.jl middleware stack for use with HttpServer.jl].
 ** Morsel.jl:: is a Sintra-like [https://github.com/JuliaLang/Morsel.jl micro framework for declaring routes and handling requests], built over HttpServer.jl and Meddle.jl.
 ** HttpCommon.jl :: [https://github.com/JuliaLang/HttpCommon.jl Provides types and helper functions for dealing with the HTTP protocol] in Julia.
 ** HttpParser.jl :: [https://github.com/JuliaLang/HttpParser.jl Julia wrapper for Joyent's http-parser].
 ** WebSockets.jl:: [https://github.com/JuliaLang/WebSockets.jl A WebSockets server library] for Julia.
-* SimJulia.jl: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
+* LibCURL.jl :: A thin [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL] in Julia.
+* SimJulia.jl :: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
-* Thin Julia [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL].
 
 
 ==== Docs, Blogs, ... ====
