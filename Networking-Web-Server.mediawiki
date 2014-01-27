@@ -1,20 +1,7 @@
 Networking, Events frameworks and other Web related things go here:
 
-== API ==
+= GIS API =
 * A Julia package to estimate the [https://github.com/johnmyleswhite/GeoIP.jl geographic location of IP addresses].
-
-
-= Cloud =
-* [https://github.com/amitmurthy/AWS.jl AWS.jl] supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically.
-
-=== Documentation ===
-* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
-* [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
-* The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services in the Julia language, with documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon.
-
-
-== Parallel Computing ==
-* [https://github.com/amitmurthy/PTools.jl A collection of utilities for parallel computation in Julia].
 
 
 == GeSHI ==
@@ -23,13 +10,25 @@ Networking, Events frameworks and other Web related things go here:
 
 
 == HTTP ==
-* [https://github.com/hackerschool/HttpParser.jl Julia wrapper for Joyent's http-parser].
+* AWS.jl :: [https://github.com/amitmurthy/AWS.jl supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically].
+* The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services in the Julia language, with documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon.
+** HttpServer.jl :: [https://github.com/JuliaLang/HttpServer.jl a basic, non-blocking HTTP server] in Julia.
+** Meddle.jl :: is the [https://github.com/loladiro/Meddle.jl middleware stack for use with HttpServer.jl].
+** Morsel.jl:: is a Sintra-like [https://github.com/JuliaLang/Morsel.jl micro framework for declaring routes and handling requests], built over HttpServer.jl and Meddle.jl.
+** HttpCommon.jl :: [https://github.com/JuliaLang/HttpCommon.jl Provides types and helper functions for dealing with the HTTP protocol] in Julia.
+** HttpParser.jl :: [https://github.com/JuliaLang/HttpParser.jl Julia wrapper for Joyent's http-parser].
+** WebSockets.jl:: [https://github.com/JuliaLang/WebSockets.jl A WebSockets server library] for Julia.
 * SimJulia.jl: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
 * Thin Julia [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL].
+
+
+==== Docs, Blogs, ... ====
+* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
+* [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
 
 
 == Networking ==

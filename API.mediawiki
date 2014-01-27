@@ -1,4 +1,4 @@
-'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, software libraries and runtime libraries.'''
+'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, Parallel computing, software libraries, runtime libraries.'''
 
 = Audio libs =
 * PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
@@ -8,6 +8,9 @@
 = OpenSlide =
 * OpenSlide.jl:: [https://github.com/ihnorton/OpenSlide.jl OpenSlide bindings] for Julia.
 
+
+= Parallel Computing =
+* [https://github.com/amitmurthy/PTools.jl A collection of utilities for parallel computation in Julia].
 
 
 = Language API =
