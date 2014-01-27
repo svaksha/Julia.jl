@@ -9,6 +9,7 @@ Pages
 * `Build automation, Build automation software, CI/CD, Packaging, RE/RM, SCM, ... <https://github.com/svaksha/julya/blob/master/Build-Automation.mediawiki>`_
 * `Cookbook <https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki>`_
 * `Database <https://github.com/svaksha/julya/blob/master/Database.mediawiki>`_
+* `File Formats <https://github.com/svaksha/julya/blob/master/File-Formats.mediawiki>`_
 * `Finance, economics, stochastic, insurance Statistics... <https://github.com/svaksha/julya/blob/master/Actuarial-Science.mediawiki>`_
 * `Graphics, Visualization tools, ... <https://github.com/svaksha/julya/blob/master/Graphics-Visualization.mediawiki>`_
 * `JULYA <https://github.com/svaksha/julya/blob/master/JULYA.mediawiki>`_

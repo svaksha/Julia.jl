@@ -32,7 +32,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * The interactive [http://johnmyleswhite.com/typetree/tree.html D3 visualization] of a Julia type tree and the [https://github.com/johnmyleswhite/TypeTree.jl source code for TypeTree].
 * [https://github.com/natj/matplot A MATLAB-like interface to Winston].
 * VTK.jl:: [https://github.com/ihnorton/VTK.jl VTK bindings] for the Julia language.
-
+* ECharts.jl:: [https://github.com/wlbksy/ECharts.jl  A julia package for ECharts (https://github.com/ecomfe/echarts)].
 
 ==== HowTo's Blogs ====
 Read other Julia users experiences with plotting

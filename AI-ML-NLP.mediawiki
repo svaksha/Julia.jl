@@ -7,6 +7,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 == Common Search Algorithms ==
 * NearestNeighbors.jl:: [https://github.com/johnmyleswhite/NearestNeighbors.jl Data structures for nearest neighbor search].
 * Loess.jl:: is a loess implementation based on the [https://github.com/dcjones/Loess.jl fast kd-tree based approximation algorithm], a space-partitioning data structure for organizing points in a k-dimensional space.
+* AhoCorasick.jl:: Julia implementation of the [https://github.com/gilesc/AhoCorasick.jl  Aho-Corasick algorithm for fast string searching].
 
 == Clustering algorithms ==
 * Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl [clustering data: k-means, dp-means], etc..

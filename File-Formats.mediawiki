@@ -1,3 +1,5 @@
+[http://en.wikipedia.org/wiki/List_of_file_formats WP list of file formats]
+
 = libraries for Data/File formats =
 * DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
 * DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].

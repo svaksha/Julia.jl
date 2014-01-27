@@ -1,21 +1,4 @@
-Database, IO....
-
-= IO interfaces =
-* [https://github.com/meggart/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
-
-
-= IO libraries for Data/File formats =
-* DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
-* DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
-* HDF :: [https://github.com/timholy/HDF5.jl HDF5.jl]
-* JSON :: [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
-* MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
-* XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
-* Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
-* StrPack.jl :: [https://github.com/pao/StrPack.jl for encoding and decoding binary data streams] and here is some [https://strpackjl.readthedocs.org/ documentation] at readthedocs.org.
-
-
-= Database =
+= DATABASE =
 * DBI.jl:: is an [https://github.com/johnmyleswhite/DBI.jl abstract DBI interface] to provide a database-independent API protocol that all database drivers can be expected to comply with.
 
 === MySQL ===
@@ -32,5 +15,4 @@ Database, IO....
 
 === ODBC ===
 * ODBC.jl :: [https://github.com/karbarcca/ODBC.jl A low-level ODBC interface] for the Julia programming language.
-
 
