@@ -12,7 +12,7 @@ Database, IO....
 * MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
 * XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
 * Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
-
+* StrPack.jl :: [https://github.com/pao/StrPack.jl for encoding and decoding binary data streams] and here is some [https://strpackjl.readthedocs.org/ documentation] at readthedocs.org.
 
 
 = Database =
