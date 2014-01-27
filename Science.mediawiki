@@ -1,7 +1,10 @@
 Astronomy, Biology, Physics, Chemistry, .....
 
 = ASTRONOMY =
+* Astrodynamics.jl:: [https://github.com/helgee/Astrodynamics.jl An astrodynamics library] in Julia.
 * Cosmology.jl :: [https://github.com/nolta/Cosmology.jl Cosmology calculator] for Julia.
+* JPLEphemeris.jl :: [https://github.com/helgee/JPLEphemeris.jl The JPL Development Ephemerides] are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
+
 
 
 = BIOLOGY ==
