@@ -14,6 +14,7 @@
 * Devectorize.jl :: A Julia framework for [https://github.com/lindahua/Devectorize.jl delayed expression evaluation].
 * DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
 * Elliptic.jl :: [https://github.com/nolta/Elliptic.jl  Elliptic integral and Jacobi elliptic special functions].
+* Geometry2D.jl:: [https://github.com/mroughan/Geometry2D.jl  2D computational geometry package] for Julia programming language.
 * GSL.jl:: Julia interface to the [https://github.com/jiahao/GSL.jl GNU Scientific Library] (GSL).
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
