@@ -1,4 +1,4 @@
-= Software Utilities = 
+= General Utilities = 
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
 
@@ -10,9 +10,11 @@
 == Document Generator == 
 * Judo.jl:: is a [https://github.com/dcjones/Judo.jl Julia document generator], which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
 
-== DVCS API ==
-* [https://github.com/jakebolewski/LibGit2.jl Julia bindings to the LibGit2 library], https://github.com/libgit2
 
+= DVCS =
+=== Git API ===
+* [https://github.com/jakebolewski/LibGit2.jl Julia bindings to the LibGit2 library], https://github.com/libgit2
+* Octokit.jl :: Julia Package to [https://github.com/loladiro/Octokit.jl access the GitHub API].
 
 
 = GUI widget toolkits =
