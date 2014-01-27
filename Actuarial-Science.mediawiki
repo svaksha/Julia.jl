@@ -27,6 +27,8 @@ Statistics, Finance, Numerical analysis, ....
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
 * TimeSeries.jl:: [https://github.com/JuliaStats/TimeSeries.jl Time-series toolkit] for Julia.
 * TimeModels.jl:: [https://github.com/JuliaStats/TimeModels.jl Modeling time series] in Julia.
+* Civecm.jl:: [https://github.com/andreasnoackjensen/Civecm.jl  Cointegration in Vector Error Correction Models] in Julia.
+
 
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].

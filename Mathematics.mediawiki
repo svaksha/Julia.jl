@@ -42,7 +42,6 @@
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
 * Sobol.jl :: is a [https://github.com/stevengj/Sobol.jl  generation of Sobol low-discrepancy sequence (LDS)] implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 
-
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
 
