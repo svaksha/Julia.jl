@@ -1,0 +1,14 @@
+= libraries for Data/File formats =
+* DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
+* DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
+* FastaIO.jl:: [https://github.com/carlobaldassi/FastaIO.jl Utilities to read/write FASTA format files] in Julia.
+* HDF :: [https://github.com/timholy/HDF5.jl HDF5.jl]
+* JSON :: [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
+* MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
+* NetCDF.jl:: [https://github.com/meggart/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
+* NIfTI.jl:: Julia [https://github.com/simonster/NIfTI.jl module for reading NIfTI MRI files].
+* Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
+* StrPack.jl :: [https://github.com/pao/StrPack.jl for encoding and decoding binary data streams] and here is some [https://strpackjl.readthedocs.org/ documentation] at readthedocs.org.
+* XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
+
+
