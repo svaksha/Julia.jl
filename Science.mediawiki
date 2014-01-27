@@ -13,7 +13,9 @@ Bioinformatics, Biotech, Genetics, ....
 * Bio-Julia group: [https://github.com/biojulia/biojulia https://github.com/biojulia/biojulia]
 * BioSeq.jl :: Julia's package for working on [https://github.com/diegozea/BioSeq.jl Bioinformatics with DNA, RNA and Protein Sequences].
 * Circuitscape.jl:: A [https://github.com/tanmaykm/Circuitscape.jl Julia implementation] of the [http://www.circuitscape.org/ Circuitscape] lib in Python, that uses electronic circuit theory to solve problems in landscape ecology.
+* GaussDCA.jl :: [https://github.com/carlobaldassi/GaussDCA.jl  Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families].
 * GeneticAlgorithms.jl:: is a [https://github.com/forio/GeneticAlgorithms.jl lightweight framework that simplifies the process of creating genetic algorithms] and running them in parallel.
+* FastaIO.jl:: [https://github.com/carlobaldassi/FastaIO.jl Utilities to read/write FASTA format files] in Julia.
 * Phylogenetics.jl:: The Julia package for [https://github.com/Ward9250/Phylogenetics.jl  analysis of evolution and phylogeny].
 
 
