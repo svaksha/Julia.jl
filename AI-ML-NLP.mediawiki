@@ -1,6 +1,5 @@
 AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 
-
 = ALGORITHMS =
 == Bloom Filters ==
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
