@@ -6,7 +6,11 @@
 
 === SQLite ===
 * Julia interface to the [https://github.com/karbarcca/SQLite.jl SQLite library] and support for operations on DataFrames.
- 
+* [https://github.com/johnmyleswhite/SQLite.jl https://github.com/johnmyleswhite/SQLite.jl]
+
+=== PostgreSQL ===
+* PostgreSQL.jl:: [https://github.com/iamed2/PostgreSQL.jl PostgreSQL] API.
+
 === MongoDB ===
 * [https://github.com/Lytol/Mongo.jl Mongo bindings] for the Julia programming language.
 
@@ -15,4 +19,7 @@
 
 === ODBC ===
 * ODBC.jl :: [https://github.com/karbarcca/ODBC.jl A low-level ODBC interface] for the Julia programming language.
+
+
+
 
