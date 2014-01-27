@@ -24,10 +24,11 @@
 
 
 
-
 = HW programming API =
 == LLVM ==
 * Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator] and its fork [https://github.com/vtjnash/CIndex.jl CIndex.jl] to access the libclang interface of the LLVM Clang compiler.
+* JITTools.jl :: [https://github.com/loladiro/JITTools.jl Tools for working with in-memory object]. 
+
 
 == ARM, MIPS, GPU ==
 * Bug status of the [https://github.com/JuliaLang/julia/issues/3134 Julia port to ARM] and the [https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598 Debian build log]
