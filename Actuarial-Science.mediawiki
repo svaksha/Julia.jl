@@ -1,4 +1,7 @@
-All things Finance, Statistics, Numerical analysis, ....
+Statistics, Finance, Numerical analysis, ....
+
+= GeoStatistics =
+* Krige.jl:: [https://github.com/njwilson23/Krige.jl Kriging estimators] in Julia.
 
 = JuliaQuant =
 * [https://github.com/JuliaQuant Julia Quant] group.
