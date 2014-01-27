@@ -9,7 +9,8 @@ Bioinformatics, Biotech, Genetics, ....
 
 * [https://github.com/forio/GeneticAlgorithms.jl GeneticAlgorithms.jl] is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
 * Circuitscape.jl:: A [https://github.com/tanmaykm/Circuitscape.jl Julia implementation] of the [http://www.circuitscape.org/ Circuitscape] lib in Python, that uses electronic circuit theory to solve problems in landscape ecology.
-
+* Bio-Julia group: [https://github.com/biojulia/biojulia https://github.com/biojulia/biojulia]
+* Phylogenetics.jl:: The Julia package for [https://github.com/Ward9250/Phylogenetics.jl  analysis of evolution and phylogeny].
 
 = PHYSICS =
 * [https://github.com/kofron/Codata.jl Codata.jl]
