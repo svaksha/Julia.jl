@@ -33,6 +33,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * [https://github.com/natj/matplot A MATLAB-like interface to Winston].
 * VTK.jl:: [https://github.com/ihnorton/VTK.jl VTK bindings] for the Julia language.
 * ECharts.jl:: [https://github.com/wlbksy/ECharts.jl  A julia package for ECharts (https://github.com/ecomfe/echarts)].
+* GL.jl:: [https://github.com/jayschwa/GL.jl Experimental OpenGL bindings] for Julia.
 
 ==== HowTo's Blogs ====
 Read other Julia users experiences with plotting
