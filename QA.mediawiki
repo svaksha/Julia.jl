@@ -6,6 +6,7 @@ Benchmarks/ Optimization, Quality-Analysis(QA), Test-Driven-Development (TDD), B
     ** [http://speed.julialang.org/timeline/ Timeline]
 * [https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl Raytracer in the Julia kernel]
 * More [https://github.com/jakebolewski/rays Raytracers].
+* Criterion.jl:: [https://github.com/jakebolewski/Criterion.jl A port of the Haskell's Criterion and Clojure's Criterium library] to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
 
 === Logging ===
 * Lumberjack.jl:: A [https://github.com/forio/Lumberjack.jl logging library] for Julia, by Westley Hennigh.
