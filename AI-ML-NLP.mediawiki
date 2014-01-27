@@ -20,6 +20,8 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 
+== Quantum Algorithms ==
+* Hadamard.jl:: [https://github.com/stevengj/Hadamard.jl  Fast multidimensional Walsh-Hadamard transforms].
 
 = ML, DATA SCIENCE =
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
