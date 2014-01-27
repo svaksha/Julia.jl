@@ -5,6 +5,7 @@
 * DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
 * FastaIO.jl:: [https://github.com/carlobaldassi/FastaIO.jl Utilities to read/write FASTA format files] in Julia.
 * HDF :: [https://github.com/timholy/HDF5.jl HDF5.jl]
+* IniFile.jl:: [https://github.com/JuliaLang/IniFile.jl Reading and writing Windows-style INI files].
 * JSON :: [https://github.com/JuliaLang/JSON.jl JSON parsing and printing].
 * MachO :: [https://github.com/loladiro/MachO.jl An implementation of the MachO file format].
 * NetCDF.jl:: [https://github.com/meggart/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.

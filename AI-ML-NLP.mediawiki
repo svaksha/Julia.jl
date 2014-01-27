@@ -1,8 +1,8 @@
 AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 
 = ALGORITHMS =
-== Bloom Filters ==
-* [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+== Markov models ==
+* Pagerank.jl:: [https://github.com/purzelrakete/Pagerank.jl An experiment in pagerank on graphs in the order of billions of edges] - Currently tested with over half a billion edges.
 
 == Common Search Algorithms ==
 * NearestNeighbors.jl:: [https://github.com/johnmyleswhite/NearestNeighbors.jl Data structures for nearest neighbor search].
@@ -13,9 +13,11 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl [clustering data: k-means, dp-means], etc..
 
 == (Array) Data Structures ==
-* [http://julialang.org/Graphs.jl/index.html Documentation for Graphs.jl], a Julia package that provides graph types and algorithms.
-* ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl explore a new system of array views].
+* [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+* FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl provides the ability to use arbitrary starting indices for arrays] in Julia programming language.
+* Graphs.jl:: [https://github.com/JuliaLang/Graphs.jl Working with graph types and algorithms in Julia. Documentation for the [http://julialang.org/Graphs.jl/index.html Graphs.jl package].
+* ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 
 
