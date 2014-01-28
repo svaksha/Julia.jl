@@ -22,7 +22,7 @@ Pages
 
 Contributing
 -------------
-* Add your link (as per the topic, including notes (if any)) to the respective mediawiki pages listed here, then submit a `pull request (PR) to <https://github.com/svaksha/julya/pulls>`_
+* Add your link (as per the topic, including notes (if any)) to the respective mediawiki pages listed here, then submit a `pull request (PR) <https://github.com/svaksha/julya/pulls>`_.
 '''Note:''' As a new language in the scientific computing scene, new libraries are constantly being added into Julia, so there will be frequent changes and reordering of the mediawiki pages.
 
 
