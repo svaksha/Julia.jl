@@ -18,6 +18,8 @@
 * Geometry2D.jl:: [https://github.com/mroughan/Geometry2D.jl  2D computational geometry package] for Julia programming language.
 * GSL.jl:: Julia interface to the [https://github.com/jiahao/GSL.jl GNU Scientific Library] (GSL).
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl points and weights of the Gauss quadrature rules].
+* GP.jl:: [https://github.com/pschulam/GP.jl Gaussian processes in Julia].
+* GLM:: [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
 * [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
@@ -30,7 +32,6 @@
 * Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
-* GLM:: [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * NLreg.jl:: [https://github.com/dmbates/NLreg.jl  Nonlinear regression in Julia]
 * NLsolve.jl:: [https://github.com/EconForge/NLsolve.jl  Julia solvers for systems of nonlinear equations].
