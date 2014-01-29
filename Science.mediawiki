@@ -23,7 +23,7 @@ Bioinformatics, Biotech, Genetics, ....
 = PHYSICS =
 * [https://github.com/kofron/Codata.jl Codata.jl]
 * [https://github.com/ggggggggg/Physical.jl Physical.jl]
-
+* Sparrow.jl:: [https://github.com/rennis250/Sparrow.jl Visual Psychophysics package] for Julia.
 
 = CHEMISTRY =
 * ChemicalKinetics.jl :: [https://github.com/scidom/ChemicalKinetics.jl Simulation, Bayesian inference and Bayesian model selection for chemical kinetics] in Julia.

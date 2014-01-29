@@ -32,6 +32,7 @@
 * GLM:: [https://github.com/simonster/Glmnet.jl Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * NLreg.jl:: [https://github.com/dmbates/NLreg.jl  Nonlinear regression in Julia]
+* NLsolve.jl:: [https://github.com/EconForge/NLsolve.jl  Julia solvers for systems of nonlinear equations].
 * ols.jl:: [https://github.com/forio/ols.jl Julia type for multiple (multivariate) regression using OLS] - Performs least squared regression on linear equations of multiple independent variables.
 * Polynomial.jl:: [https://github.com/vtjnash/Polynomial.jl  Polynomial manipulations] and [https://gist.github.com/mathpup/8514578 PolyExt.jl], an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * PowerSeries.jl:: [https://github.com/jwmerrill/PowerSeries.jl Truncated Power Series] for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
@@ -41,6 +42,8 @@
 * SemiringAlgebra.jl :: [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
 * Sobol.jl :: is a [https://github.com/stevengj/Sobol.jl  generation of Sobol low-discrepancy sequence (LDS)] implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+
+
 
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
