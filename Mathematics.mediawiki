@@ -10,6 +10,7 @@
 * Church.jl:: helps you [https://github.com/LaurenceA/Church.jl perform inference in complex, and simple, probabilistic models].
 * [https://github.com/timholy/Cartesian.jl Cartesian.jl]: Fast multidimensional algorithms.
 * [https://github.com/johnmyleswhite/Calculus.jl Calculus.jl]
+* CRF.jl:: [https://github.com/slyrz/CRF.jl Conditional Random Fields] in Julia.
 * [https://github.com/natj/CellularAutomata.jl Cellular Automata] package.
 * Devectorize.jl :: A Julia framework for [https://github.com/lindahua/Devectorize.jl delayed expression evaluation].
 * DualNumbers.jl :: Julia package for representing [https://github.com/scidom/DualNumbers.jl dual numbers and for performing dual algebra].
