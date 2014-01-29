@@ -30,6 +30,7 @@
 * [https://github.com/JuliaOpt/Optim.jl Optim.jl]: basic optimization algorithms implementation.
 * [https://github.com/cfbaptista/PolyMath.jl PolyMath.jl]: package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 * Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
+* RAD.jl:: [https://github.com/adamkapor/RAD.jl package defines a macro, @autodiff, for reverse-mode automatic differentiation (RAD)].
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
 * Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
