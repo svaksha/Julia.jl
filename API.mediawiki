@@ -31,6 +31,9 @@
 
 
 = HW programming API =
+
+* MPI.jl:: A basic Julia wrapper for the [https://github.com/lcw/MPI.jl portable message passing system Message Passing Interface (MPI)].
+
 == LLVM ==
 * Clang.jl:: Julia interface to [https://github.com/ihnorton/Clang.jl libclang and C wrapper generator] and its fork [https://github.com/vtjnash/CIndex.jl CIndex.jl] to access the libclang interface of the LLVM Clang compiler.
 * JITTools.jl :: [https://github.com/loladiro/JITTools.jl Tools for working with in-memory object]. 
