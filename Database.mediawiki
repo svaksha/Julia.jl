@@ -1,4 +1,5 @@
 = DATABASE =
+* [https://github.com/JuliaDB JuliaDB group]
 * DBI.jl:: is an [https://github.com/johnmyleswhite/DBI.jl abstract DBI interface] to provide a database-independent API protocol that all database drivers can be expected to comply with.
 
 === MySQL ===
