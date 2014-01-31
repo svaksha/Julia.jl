@@ -43,8 +43,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * Codecs.jl:: [https://github.com/dcjones/Codecs.jl Common data encoding algorithms].
 * [https://github.com/nolta/UnicodeExtras.jl UnicodeExtras.jl]
 * UTF16.jl :: [https://github.com/nolta/UTF16.jl  UTF16 string type] for Julia.
-= Nonlinear Optimization =
-* NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
+* TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl TypeChecker] for Julia.
 
 
 

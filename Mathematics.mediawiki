@@ -72,4 +72,5 @@
 * [https://github.com/robertfeldt/BlackBoxOptim.jl BlackBoxOptim.jl] is a (experimental, work-in-progress) global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 * CPLEXLink.jl:: [https://github.com/joehuchette/CPLEXLink.jl is a Julia interface for the CPLEX optimization software]. 
 * Mosek.jl:: [https://github.com/JuliaOpt/Mosek.jl Interface to the Mosek solver] in Julia.
+* NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
 
