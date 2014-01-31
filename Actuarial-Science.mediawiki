@@ -1,5 +1,8 @@
 Statistics, Finance, Numerical analysis, ....
 
+= Econometrics =
+* Econometrics.jl :: [https://github.com/cgroll/Econometrics.jl Econometric models in Julia].
+
 = GeoStatistics =
 * Krige.jl:: [https://github.com/njwilson23/Krige.jl Kriging estimators] in Julia.
 
