@@ -2,6 +2,7 @@
 
 = libraries for Data/File formats =
 * DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
+* DataRead.jl:: can read files from [https://github.com/WizardMac/DataRead.jl Stata, SAS, and SPSS].
 * DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].
 * FastaIO.jl:: [https://github.com/carlobaldassi/FastaIO.jl Utilities to read/write FASTA format files] in Julia.
 * HDF :: [https://github.com/timholy/HDF5.jl HDF5.jl]
@@ -14,5 +15,4 @@
 * Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
 * StrPack.jl :: [https://github.com/pao/StrPack.jl for encoding and decoding binary data streams] and here is some [https://strpackjl.readthedocs.org/ documentation] at readthedocs.org.
 * XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
-
 
