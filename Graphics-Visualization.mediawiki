@@ -10,6 +10,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * Compose.jl:: [https://github.com/dcjones/Compose.jl Declarative vector graphics].
 * ImageTerm.jl :: https://github.com/meggart/ImageTerm.jl Julia functions to plot colorful maps] in the terminal.
 * Meshes.jl :: [https://github.com/twadleigh/Meshes.jl  Generation and manipulation of triangular meshes] for a type of polygon mesh in computer graphics.
+* TIFF.jl:: is the [https://github.com/rephorm/TIFF.jl TIFF image file support] for Julia.
 
 == Plotting ==
 * Gaston
