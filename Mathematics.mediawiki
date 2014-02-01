@@ -1,5 +1,16 @@
+= Cryptography =
+* Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
+
+= Digital Signal Processing (DSP) =
+* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
+* NFFT.jl:: [https://github.com/tknopp/NFFT.jl Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)].
+
 = DOCS =
 * [http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/ Mathematical Operations] and a [https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19 list of all overloadable operators] in Julia.
+
+
+= Functional programming =
+* Monads.jl :: [https://github.com/pao/Monads.jl Monadic expressions and sequences] for Julia. Documentation at [https://monadsjl.readthedocs.org/ https://monadsjl.readthedocs.org/]
 
 
 = MATH =
@@ -48,33 +59,8 @@
 * Sobol.jl :: is a [https://github.com/stevengj/Sobol.jl  generation of Sobol low-discrepancy sequence (LDS)] implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 * SurfaceMesh.jl:: is a [https://github.com/michelk/SurfaceMesh.jl Finite element surface mesh manipulation library] to work with polygon-surface-meshes.
 * Tensors.jl:: [https://github.com/pgawron/Tensors.jl Julia package for tensor decompositions].
-
-== Cryptography ==
-* Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
-
-== Digital Signal Processing (DSP) ==
-* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
-* NFFT.jl:: [https://github.com/tknopp/NFFT.jl Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)].
-
-== Functional programming ==
-* Monads.jl :: [https://github.com/pao/Monads.jl Monadic expressions and sequences] for Julia. Documentation at [https://monadsjl.readthedocs.org/ https://monadsjl.readthedocs.org/]
+* Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl Uncertain quantities and error propagation] for the Julia language.
 
 
 
-= BENCHMARKS, OPTIMIZATION =
-* [http://speed.julialang.org Microbenchmark timings are on speed.julialang.org]
-    ** [http://speed.julialang.org/timeline/ Timeline]
-* [https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl Raytracer in the Julia kernel]
-* More [https://github.com/jakebolewski/rays Raytracers].
-* Criterion.jl:: [https://github.com/jakebolewski/Criterion.jl A port of the Haskell's Criterion and Clojure's Criterium library] to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
-* SortPerf.jl:: [https://github.com/kmsquire/SortPerf.jl  Julia module to test the performance of sorting algorithms].
-
-
-=== Optimization === 
-* [http://juliaopt.org/ JuliaOpt] is an umbrella group for Julia-based optimization-related projects.
-* [https://github.com/Staross/JuliaCMAES CMA-ES port] - a mix of the original minimal matlab implementation (purecmaes.m) and the full one (cmaes.m).
-* [https://github.com/robertfeldt/BlackBoxOptim.jl BlackBoxOptim.jl] is a (experimental, work-in-progress) global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
-* CPLEXLink.jl:: [https://github.com/joehuchette/CPLEXLink.jl is a Julia interface for the CPLEX optimization software]. 
-* Mosek.jl:: [https://github.com/JuliaOpt/Mosek.jl Interface to the Mosek solver] in Julia.
-* NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
 
