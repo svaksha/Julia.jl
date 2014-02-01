@@ -1,10 +1,4 @@
-'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, Parallel computing, software libraries, runtime libraries.'''
-
-= Audio libs =
-* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
-* [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
-* Bebop.jl :: [https://github.com/zhemao/Bebop.jl  An audio library for the Julia programming language.
-* https://github.com/JuliaLang/Sound.jl  Reading and writing from WAV files (.
+'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, Parallel computing, software libraries,..'''
 
 = OpenSlide =
 * OpenSlide.jl:: [https://github.com/ihnorton/OpenSlide.jl OpenSlide bindings] for Julia.

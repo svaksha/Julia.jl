@@ -1,3 +1,12 @@
+Desktop and other handy utilities.
+
+= Audio libs =
+* [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
+* Bebop.jl :: [https://github.com/zhemao/Bebop.jl  An audio library for the Julia programming language.
+* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
+* Sound.jl:: [https://github.com/JuliaLang/Sound.jl Reading and writing from WAV files].
+
+
 = General Utilities = 
 == File compression ==
 * [https://github.com/jvns/gzip.jl GZip in Julia].
@@ -9,6 +18,7 @@
 
 == Document Generator == 
 * Judo.jl:: is a [https://github.com/dcjones/Judo.jl Julia document generator], which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
+
 
 
 = DVCS =
