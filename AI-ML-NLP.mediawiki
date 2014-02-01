@@ -18,6 +18,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl provides the ability to use arbitrary starting indices for arrays] in Julia programming language.
 * Graphs.jl:: [https://github.com/JuliaLang/Graphs.jl Working with graph types and algorithms in Julia. Documentation for the [http://julialang.org/Graphs.jl/index.html Graphs.jl package].
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
+* Named.jl:: [https://github.com/HarlanH/Named.jl Julia named index and named vector types].
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 * OffsetArrays.jl:: [https://github.com/alsam/OffsetArrays.jl provides the ability to use arbitrary starting indices for arrays] in Julia.
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl temporary repo exploring the union of SeriesPair arrays into multicolumn arrays] with similar behavior.
@@ -27,9 +28,12 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 == Quantum Algorithms ==
 * Hadamard.jl:: [https://github.com/stevengj/Hadamard.jl  Fast multidimensional Walsh-Hadamard transforms].
 
+== Neural Networks ==
+* neural.jl:: [https://github.com/compressed/neural.jl is a Julia implementation of a neural network], based on Sergio Fierens ruby version.
+* neuralnetwork.jl:: [https://github.com/tomaskrehlik/neuralnetwork.jl is an implementation of label neural network] originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 
 
-= ML, DATA SCIENCE =
+= ML, DataScience Algorithms =
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
 * The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
 * MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl Machine Learning library package] that is an attempt to consolidate common machine learning algorithms written in pure Julia and presenting a consistent API.
@@ -47,6 +51,4 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * [https://github.com/nolta/UnicodeExtras.jl UnicodeExtras.jl]
 * UTF16.jl :: [https://github.com/nolta/UTF16.jl  UTF16 string type] for Julia.
 * TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl TypeChecker] for Julia.
-
-
 
