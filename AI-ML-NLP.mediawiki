@@ -31,6 +31,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 = ML, DATA SCIENCE =
 * [https://github.com/bensadeghi/DecisionTree.jl Decision Tree]
 * The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
+* MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl Machine Learning library package] that is an attempt to consolidate common machine learning algorithms written in pure Julia and presenting a consistent API.
 
 
 = NLP =
