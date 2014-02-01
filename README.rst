@@ -4,9 +4,10 @@ Curated bits and bytes of `Julia <https://github.com/JuliaLang>`_ language learn
 
 Pages
 ======
-* `Finance, economics, stochastic, insurance Statistics... <https://github.com/svaksha/julya/blob/master/Actuarial-Science.mediawiki>`_
+* `ActuarialSc.: Finance, economics, stochastic, insurance Statistics... <https://github.com/svaksha/julya/blob/master/Actuarial-Science.mediawiki>`_
 * `AI-ML-NLP <https://github.com/svaksha/julya/blob/master/AI-ML-NLP.mediawiki>`_
 * `API for Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries <https://github.com/svaksha/julya/blob/master/API.mediawiki>`_
+* `Benchmarks and Optimization <https://github.com/svaksha/julya/blob/master/Benchmarks-Optimization.mediawiki>`_
 * `Build automation, Build automation software, CI/CD, Packaging, RE/RM, SCM, ... <https://github.com/svaksha/julya/blob/master/Build-Automation.mediawiki>`_
 * `Cookbook <https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki>`_
 * `Database <https://github.com/svaksha/julya/blob/master/Database.mediawiki>`_
