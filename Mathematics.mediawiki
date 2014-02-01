@@ -3,7 +3,9 @@
 
 = Digital Signal Processing (DSP) =
 * The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
+* KDSP.jl:: [https://github.com/kofron/KDSP.jl is yet another implementation of common DSP routines] in Julia.
 * NFFT.jl:: [https://github.com/tknopp/NFFT.jl Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)].
+
 
 = DOCS =
 * [http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/ Mathematical Operations] and a [https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19 list of all overloadable operators] in Julia.
