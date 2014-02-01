@@ -18,10 +18,10 @@
 
 
 = GUI widget toolkits =
-
+* Gtk.jl:: Julia interface to the [https://github.com/JuliaLang/Gtk.jl GTK windowing toolkit].
+* JuliaTools.jl:: is a [https://github.com/tknopp/JuliaTools.jl JuliaTools.jl toolkit for viewing Julia packages, modules], etc....
+* Tk.jl:: The Julia interface for the [https://github.com/JuliaLang/Tk.jl Tk windowing toolkit].
 * XClipboard.jl:: are [https://github.com/kmsquire/XClipboard.jl xlib clipboard bindings to drag and drop in X11] (X-Window System for bitmap displays). 
-* The Julia interface for the [https://github.com/JuliaLang/Tk.jl Tk windowing toolkit].
-* Julia interface to the [https://github.com/JuliaLang/Gtk.jl GTK windowing toolkit].
 
 
 = REPL, Text editors = 
