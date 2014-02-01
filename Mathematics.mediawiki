@@ -52,6 +52,9 @@
 == Cryptography ==
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
 
+== Digital Signal Processing (DSP) ==
+* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
+* NFFT.jl:: [https://github.com/tknopp/NFFT.jl Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)].
 
 == Functional programming ==
 * Monads.jl :: [https://github.com/pao/Monads.jl Monadic expressions and sequences] for Julia. Documentation at [https://monadsjl.readthedocs.org/ https://monadsjl.readthedocs.org/]

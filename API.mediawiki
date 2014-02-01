@@ -47,10 +47,6 @@
 * Sample notebooks for: [http://nbviewer.ipython.org/7436359 GPU Julia], and [http://nbviewer.ipython.org/7436439 GPU Transpose].
 
 
-== Digital Signal Processing (DSP) ==
-* The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
-
-
 == OpenCL API ==
 * [https://github.com/jakebolewski/OpenCL.jl OpenCL bindings for Julia] is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
