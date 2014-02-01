@@ -18,6 +18,7 @@ Desktop and other handy utilities.
 
 == Document Generator == 
 * Judo.jl:: is a [https://github.com/dcjones/Judo.jl Julia document generator], which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
+* HelpTestbed.jl:: [https://github.com/tshort/HelpTestbed.jl This package is for exploring options for help when you add a Julia package]- when used from the REPL, the help commands fetches
 
 
 
