@@ -9,10 +9,10 @@ Pages
 * `API for Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries <https://github.com/svaksha/julya/blob/master/API.mediawiki>`_
 * `Benchmarks and Optimization <https://github.com/svaksha/julya/blob/master/Benchmarks-Optimization.mediawiki>`_
 * `Build automation, Build automation software, CI/CD, Packaging, RE/RM, SCM, ... <https://github.com/svaksha/julya/blob/master/Build-Automation.mediawiki>`_
+* `Computer Graphics: Plotting, Graphics and Visualization tools, ... <https://github.com/svaksha/julya/blob/master/Computer-Graphics.mediawiki>`_
 * `Cookbook <https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki>`_
 * `Database <https://github.com/svaksha/julya/blob/master/Database.mediawiki>`_
 * `File Formats <https://github.com/svaksha/julya/blob/master/File-Formats.mediawiki>`_
-* `Graphics, Visualization tools, ... <https://github.com/svaksha/julya/blob/master/Graphics-Visualization.mediawiki>`_
 * `JULYA <https://github.com/svaksha/julya/blob/master/JULYA.mediawiki>`_
 * `Algebra, Geometry, Math ... <https://github.com/svaksha/julya/blob/master/Mathematics.mediawiki>`_
 * `Networking-Web <https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki>`_

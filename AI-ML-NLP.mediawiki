@@ -45,7 +45,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
 * [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
 * [https://gist.github.com/kmsquire/7569843 Peter Norvig's spelling corrector ported to Julia], now a part of the [https://github.com/JuliaLang/DataStructures.jl DataStructures.jl] package.
-
+* Stemmers.jl:: [https://github.com/tanmaykm/Stemmers.jl  Interface for text stemmer implementations].
 
 == Unicode, Encodings ==
 * ICU.jl :: Julia wrapper for the [https://github.com/nolta/ICU.jl International Components for Unicode (ICU) library].
