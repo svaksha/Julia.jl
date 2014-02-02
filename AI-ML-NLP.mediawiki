@@ -17,6 +17,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl provides the ability to use arbitrary starting indices for arrays] in Julia programming language.
 * Graphs.jl:: [https://github.com/JuliaLang/Graphs.jl Working with graph types and algorithms in Julia. Documentation for the [http://julialang.org/Graphs.jl/index.html Graphs.jl package].
+* Grid.jl:: [https://github.com/timholy/Grid.jl Interpolation and related operations on grids] for the Julia language.
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * JSparse.jl :: [https://github.com/dmbates/JSparse.jl  A Julia implementation of functions in the CSparse and CXSparse libraries] developed by Tim Davis. 
 * Named.jl:: [https://github.com/HarlanH/Named.jl Julia named index and named vector types].

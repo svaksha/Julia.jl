@@ -21,10 +21,12 @@ Bioinformatics, Biotech, Genetics, ....
 * SpikeSorter.jl:: [https://github.com/grero/SpikeSorter.jl Spike sorting tool for experimental neuroscientists].
 * smoothlife-jl:: [https://github.com/jamak/smoothlife-jl is an implementation of the SmoothLife algorithm] in Julia.
 
+
 = PHYSICS =
 * [https://github.com/kofron/Codata.jl Codata.jl]
 * [https://github.com/ggggggggg/Physical.jl Physical.jl]
 * Sparrow.jl:: [https://github.com/rennis250/Sparrow.jl Visual Psychophysics package] for Julia.
+
 
 = CHEMISTRY =
 * ChemicalKinetics.jl :: [https://github.com/scidom/ChemicalKinetics.jl Simulation, Bayesian inference and Bayesian model selection for chemical kinetics] in Julia.
