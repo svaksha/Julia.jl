@@ -36,6 +36,7 @@
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl hexagonal grids].
 * [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl IterativeLinearSolvers.jl]
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl Modelling language for Linear, Integer, and Quadratic Programming]
+* LinearExpressions.jl:: is a Julia package [https://github.com/cdsousa/LinearExpressions.jl to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization].
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [https://github.com/cfbaptista/KrylovSolvers.jl Krylov Solvers]
 * [https://github.com/lindahua/MATLAB.jl Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
 * MUMPS :: A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
