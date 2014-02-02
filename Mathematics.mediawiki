@@ -15,6 +15,7 @@
 
 = Functional programming =
 * Monads.jl :: [https://github.com/pao/Monads.jl Monadic expressions and sequences] for Julia. Documentation at [https://monadsjl.readthedocs.org/ https://monadsjl.readthedocs.org/]
+* FunctionalUtils.jl:: [https://github.com/zachallaun/FunctionalUtils.jl Functional Julia – based on fogus/lemonad].
 
 
 = MATH =
