@@ -25,6 +25,7 @@ Distributed/ Cloud/ Cluster/ Parallel computing, GIS, Networking, frameworks and
 ** WebSockets.jl:: [https://github.com/JuliaLang/WebSockets.jl A WebSockets server library] for Julia.
 * LibCURL.jl :: A thin [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL] in Julia.
 * [https://github.com/mneudert/Laurence.jl Laurence.jl]
+* [https://github.com/mneudert/Romeo.jl https://github.com/mneudert/Romeo.jl]
 * Requests.jl :: [https://github.com/loladiro/Requests.jl Http client written in julia (depends on joyent/http-parser) for HTTP parsing]. 
 * SimJulia.jl :: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * A package to [https://github.com/randyzwitch/UAParser.jl parse user-agent strings] in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
