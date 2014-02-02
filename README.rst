@@ -16,11 +16,10 @@ Pages
 * `File Formats <https://github.com/svaksha/julya/blob/master/File-Formats.mediawiki>`_
 * `JULYA <https://github.com/svaksha/julya/blob/master/JULYA.mediawiki>`_
 * `Algebra, Geometry, Math ... <https://github.com/svaksha/julya/blob/master/Mathematics.mediawiki>`_
-* `Networking-Web <https://github.com/svaksha/julya/blob/master/Networking-Web.mediawiki>`_
-* `TDD, Benchmarks, profiling, ...  <https://github.com/svaksha/julya/blob/master/QA.mediawiki>`_
+* `Test Driven Development, Functional testing,...<https://github.com/svaksha/julya/blob/master/QA.mediawiki>`_
 * `Science (Physics, Chemistry, Biology, ...) <https://github.com/svaksha/julya/blob/master/Science.mediawiki>`_
-* `Utilities <https://github.com/svaksha/julya/blob/master/Utilities.mediawiki>`_
 * `UI / UX software <https://github.com/svaksha/julya/blob/master/UI-UX.mediawiki>`_
+* `Utilities <https://github.com/svaksha/julya/blob/master/Utilities.mediawiki>`_
 
 
 Contributing

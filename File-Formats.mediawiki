@@ -13,6 +13,7 @@
 * NetCDF.jl:: [https://github.com/meggart/NetCDF.jl  NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files], for the Julia programming language.
 * NIfTI.jl:: Julia [https://github.com/simonster/NIfTI.jl module for reading NIfTI MRI files].
 * NPZ.jl :: Julia package that provides support for [https://github.com/fhs/NPZ.jl [reading and writing Numpy .npy and .npz] files.
+* PLX.jl:: Julia module for [https://github.com/simonster/PLX.jl reading Plexon PLX files].
 * Shapefile.jl :: [https://github.com/loladiro/Shapefile.jl Parsing .shp files] in Julia.
 * StrPack.jl :: [https://github.com/pao/StrPack.jl for encoding and decoding binary data streams] and here is some [https://strpackjl.readthedocs.org/ documentation] at readthedocs.org.
 * XML :: [https://github.com/ihnorton/LibXML.jl XML parsing] in Julia.
