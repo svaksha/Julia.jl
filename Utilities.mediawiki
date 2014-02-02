@@ -10,7 +10,7 @@ Desktop and other handy utilities.
 
 = General Utilities = 
 == File compression ==
-* [https://github.com/jvns/gzip.jl GZip in Julia].
+* [https://github.com/jvns/gzip.jl GunZip in Julia].
 
 
 == Desktop Document processing == 
