@@ -20,6 +20,7 @@ Statistics, Finance, Numerical analysis, ....
 * The [http://juliastats.github.io/DataFrames.jl/io.html DataFrames manual section on IO]
 * DataArrays.jl:: This package [https://github.com/JuliaStats/DataArrays.jl extends Julia by introducing data structures that can contain missing data].
 * DiscreteInference.jl:: [https://github.com/lindahua/DiscreteInference.jl Viterbi algorithm]
+* HypothesisTests.jl :: [https://github.com/simonster/HypothesisTests.jl T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics] in Julia.
 * KSVM.jl:: [https://github.com/remusao/KSVM.jl Kernel Support Vector Machine (SVM)] written in Julia.
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods]. 
 * MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl  A Julia package for fitting (statistical) mixed-effects models].
@@ -28,6 +29,7 @@ Statistics, Finance, Numerical analysis, ....
 * SGDDemo.jl:: [https://github.com/johnmyleswhite/SGDDemo.jl Stochastic Gradient Descent (SGD) predictive models for large data sets] in Julia.
 * SmoothingKernels.jl:: [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
 * StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl Stats meta-package for basic statistics functions] for Julia.
+
 
 == Econometrics ==
 * Econometrics.jl :: [https://github.com/cgroll/Econometrics.jl Econometric models in Julia].
