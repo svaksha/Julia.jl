@@ -11,6 +11,7 @@
 = Language API =
 == Fortran ==
 * FortranIO.jl:: [https://github.com/rephorm/FortranIO.jl  Input/Output of fortran unformatted binary files].
+* TEOS.jl :: Julia wrapper for [https://github.com/njwilson23/TEOS.jl TEOS-10 Gibbs Seawater Oceanographic Toolbox].
 
 == Java ==
 * [http://aviks.github.io/JavaCall.jl/ JavaCall.jl] is a package that lets you call Java programs from Julia. 
