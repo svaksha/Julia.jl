@@ -1,11 +1,8 @@
-'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, Parallel computing, software libraries,..'''
+'''Hardware arch (ARM, MIPS, GPU, CUDA), language API, software libraries,..'''
 
 = OpenSlide =
 * OpenSlide.jl:: [https://github.com/ihnorton/OpenSlide.jl OpenSlide bindings] for Julia.
 
-
-= Parallel Computing =
-* [https://github.com/amitmurthy/PTools.jl A collection of utilities for parallel computation in Julia].
 
 
 = Language API =

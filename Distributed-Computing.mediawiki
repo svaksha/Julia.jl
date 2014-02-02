@@ -1,10 +1,16 @@
-Cluster computing, Networking, Events frameworks and other Web related things go here:
+Distributed/ Cloud/ Cluster/ Parallel computing, GIS, Networking, frameworks and other Web related things go here:
 
-= Clusters = 
+= Distributed/ Cloud/ Cluster/ Parallel = 
 * AWS.jl :: [https://github.com/amitmurthy/AWS.jl supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically].
 * LCJC.jl:: [https://github.com/amitmurthy/LCJC.jl Loosely Coupled Julia Clusters].
+* [https://github.com/amitmurthy/PTools.jl A collection of utilities for parallel computation in Julia].
  
  
+==== Docs, Blogs, ... ====
+* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
+* [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
+
+
 = GIS API =
 * A Julia package to estimate the [https://github.com/johnmyleswhite/GeoIP.jl geographic location of IP addresses].
 
@@ -24,11 +30,6 @@ Cluster computing, Networking, Events frameworks and other Web related things go
 * URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
 * WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
 * ZMQ.jl: [https://github.com/JuliaLang/ZMQ.jl Julia interface to ZeroMQ]
-
-
-==== Docs, Blogs, ... ====
-* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing How to use AWS EC2 machines via addprocs].
-* [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html TCP Sockets documentation for webstack.jl]
 
 
 == Networking ==
