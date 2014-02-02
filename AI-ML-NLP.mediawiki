@@ -45,12 +45,12 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * MLBase.jl:: [https://github.com/lindahua/MLBase.jl  A set of functions to support the development of machine learning algorithms].
 
 = NLP =
-* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
 * LTSV.jl:: [https://github.com/kshramt/LTSV.jl  Labeled Tab Separated Values (LTSV) parser] in Julia.
 * [https://github.com/iamed2/PyLexYacc.jl PyLexYacc.jl], an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
 * [https://gist.github.com/kmsquire/7569843 Peter Norvig's spelling corrector ported to Julia], now a part of the [https://github.com/JuliaLang/DataStructures.jl DataStructures.jl] package.
 * Stemmers.jl:: [https://github.com/tanmaykm/Stemmers.jl  Interface for text stemmer implementations].
 * TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl TypeChecker] for Julia.
+* Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
 
 == Unicode, Encodings ==
 * ASCIIByte.jl:: Julia package [https://github.com/Elin-/ASCIIByte.jl to deal with Characters of 8 bits].

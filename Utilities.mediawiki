@@ -9,13 +9,15 @@ Desktop and other handy utilities.
 
 
 = General Utilities = 
+
+== CLI ==
+* ArgParse.jl:: [https://github.com/carlobaldassi/ArgParse.jl  Package for parsing command-line arguments] to Julia programs.
+
 == File compression ==
 * [https://github.com/jvns/gzip.jl GunZip in Julia].
 
-
 == Desktop Document processing == 
 * [https://github.com/aviks/Taro.jl Taro.jl] can process office documents in Julia. 
-
 
 == Document Generator == 
 * Judo.jl:: is a [https://github.com/dcjones/Judo.jl Julia document generator], which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
