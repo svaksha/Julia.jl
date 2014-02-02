@@ -3,7 +3,7 @@ Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Developmen
 = TESTING =
 === Logging ===
 * Lumberjack.jl:: A [https://github.com/forio/Lumberjack.jl logging library] for Julia, by Westley Hennigh.
-
+* Stage.jl:: has [https://github.com/saltpork/Stage.jl stage macros, checkpoints and loggers] for Julia.
 
 === Profiling ===
 Profile your code
