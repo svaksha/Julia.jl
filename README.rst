@@ -12,6 +12,7 @@ Pages
 * `Computer Graphics: Plotting, Graphics and Visualization tools, ... <https://github.com/svaksha/julya/blob/master/Computer-Graphics.mediawiki>`_
 * `Cookbook <https://github.com/svaksha/julya/blob/master/Cookbook.mediawiki>`_
 * `Database <https://github.com/svaksha/julya/blob/master/Database.mediawiki>`_
+* `Distributed/Cloud/Cluster Computing, Networking, Servers, ... <https://github.com/svaksha/julya/blob/master/Distributed-Computing.mediawiki>`_
 * `File Formats <https://github.com/svaksha/julya/blob/master/File-Formats.mediawiki>`_
 * `JULYA <https://github.com/svaksha/julya/blob/master/JULYA.mediawiki>`_
 * `Algebra, Geometry, Math ... <https://github.com/svaksha/julya/blob/master/Mathematics.mediawiki>`_
@@ -19,6 +20,7 @@ Pages
 * `TDD, Benchmarks, profiling, ...  <https://github.com/svaksha/julya/blob/master/QA.mediawiki>`_
 * `Science (Physics, Chemistry, Biology, ...) <https://github.com/svaksha/julya/blob/master/Science.mediawiki>`_
 * `Utilities <https://github.com/svaksha/julya/blob/master/Utilities.mediawiki>`_
+* `UI / UX software <https://github.com/svaksha/julya/blob/master/UI-UX.mediawiki>`_
 
 
 Contributing

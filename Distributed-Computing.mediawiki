@@ -1,16 +1,15 @@
-Networking, Events frameworks and other Web related things go here:
+Cluster computing, Networking, Events frameworks and other Web related things go here:
 
+= Clusters = 
+* AWS.jl :: [https://github.com/amitmurthy/AWS.jl supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically].
+* LCJC.jl:: [https://github.com/amitmurthy/LCJC.jl Loosely Coupled Julia Clusters].
+ 
+ 
 = GIS API =
 * A Julia package to estimate the [https://github.com/johnmyleswhite/GeoIP.jl geographic location of IP addresses].
 
 
-== GeSHI ==
-* [https://github.com/JuliaLang/julia/blob/master/contrib/julia-mode.el#L79-L108 List of Julia keywords] and [https://github.com/JuliaLang/julia/commit/71c0aa3e5660258af5c042058d5d8d3b82d93efb here].
-* [https://github.com/john9631/JuliaDocs/blob/master/julia.php Julia language file for GeSHI].
-
-
 == HTTP ==
-* AWS.jl :: [https://github.com/amitmurthy/AWS.jl supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically].
 * The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon:
 ** HttpServer.jl :: [https://github.com/JuliaLang/HttpServer.jl a basic, non-blocking HTTP server] in Julia.
 ** Meddle.jl :: is the [https://github.com/JuliaLang/Meddle.jl middleware stack for use with HttpServer.jl].
@@ -39,7 +38,4 @@ Networking, Events frameworks and other Web related things go here:
 * [https://github.com/pchronz/juliaflow JuliaFlow] is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0. 
 
 
-== Javascript UI/UX ==
-* GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
-* Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
 

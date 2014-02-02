@@ -1,6 +1,7 @@
 [http://en.wikipedia.org/wiki/List_of_file_formats WP list of file formats]
 
 = libraries for Data/File formats =
+* BGZF.jl:: [https://github.com/kmsquire/BGZF.jl is a Julia package to read/write BGZF compressed files].
 * DF :: [https://github.com/johnmyleswhite/DataFramesIO.jl Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON].
 * DataRead.jl:: can read files from [https://github.com/WizardMac/DataRead.jl Stata, SAS, and SPSS].
 * DWARF :: Julia Package for parsing the [https://github.com/loladiro/DWARF.jl DWARF file format].

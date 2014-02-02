@@ -1,0 +1,8 @@
+== GeSHI ==
+* [https://github.com/JuliaLang/julia/blob/master/contrib/julia-mode.el#L79-L108 List of Julia keywords] and [https://github.com/JuliaLang/julia/commit/71c0aa3e5660258af5c042058d5d8d3b82d93efb here].
+* [https://github.com/john9631/JuliaDocs/blob/master/julia.php Julia language file for GeSHI].
+
+== Javascript UI/UX ==
+* GoogleCharts.jl: [https://github.com/jverzani/GoogleCharts.jl Julia interface to Google Chart Tools]
+* Mustache.jl: [https://github.com/jverzani/Mustache.jl Port of mustache.js to julia]
+
