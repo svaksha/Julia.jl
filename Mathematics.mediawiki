@@ -1,5 +1,7 @@
 = Cryptography =
+
 * Nettle is a [https://github.com/staticfloat/Nettle.jl  simple wrapper around libnettle, a cryptographic library].
+* Stupid.jl:: [https://github.com/andrewcooke/Stupid.jl Analysis of an 8 bit version of the cipher] at http://news.quelsolaar.com/#comments101.
 
 = Digital Signal Processing (DSP) =
 * The [https://github.com/JuliaDSP/DSP.jl DSP ver-0.0.1 package] includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/ documentation] is available via RTD.org.
