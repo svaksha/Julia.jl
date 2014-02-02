@@ -26,6 +26,7 @@ Statistics, Finance, Numerical analysis, ....
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
 * SmoothingKernels.jl:: [https://github.com/johnmyleswhite/SmoothingKernels.jl Smoothing kernels for use in kernel regression and kernel density estimation].
 * StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl Stats meta-package for basic statistics functions] for Julia.
+* SGDDemo.jl:: [https://github.com/johnmyleswhite/SGDDemo.jl Stochastic Gradient Descent (SGD) predictive models for large data sets] in Julia.
 
 == Econometrics ==
 * Econometrics.jl :: [https://github.com/cgroll/Econometrics.jl Econometric models in Julia].
