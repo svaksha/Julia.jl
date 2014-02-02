@@ -42,7 +42,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * The [https://github.com/johnmyleswhite/kNN.jl K-nearest neighbors] algorithm in Julia.
 * MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl Machine Learning library package] that is an attempt to consolidate common machine learning algorithms written in pure Julia and presenting a consistent API.
 * MDP.jl:: [https://github.com/khadiwala/MDP.jl Markov Decision Processes] in Julia.
-
+* MLBase.jl:: [https://github.com/lindahua/MLBase.jl  A set of functions to support the development of machine learning algorithms].
 
 = NLP =
 * Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl text analysis].
