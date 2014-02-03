@@ -41,4 +41,4 @@ Statistics, Finance, Numerical analysis, ....
 
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
-
+* SemidefiniteProgramming.jl:: This package provides a Julia interface for [https://github.com/daviddelaat/SemidefiniteProgramming.jl low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP].
