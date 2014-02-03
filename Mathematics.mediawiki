@@ -44,6 +44,7 @@
 * LinearExpressions.jl:: is a Julia package [https://github.com/cdsousa/LinearExpressions.jl to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization].
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [https://github.com/cfbaptista/KrylovSolvers.jl Krylov Solvers]
 * [https://github.com/lindahua/MATLAB.jl Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
+* Intervals.jl:: A pure Julia reimplementation of [https://github.com/andrioni/Intervals.jl MPFI, a multiple precision interval arithmetic library].
 * MPFR.jl :: [https://github.com/andrioni/MPFR.jl  A Julia package for the GNU MPFR library].
 * MUMPS :: A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * NumericExtensions.jl: Julia extensions to provide high performance computational support for [https://github.com/lindahua/NumericExtensions.jl fast vectorized computation]
