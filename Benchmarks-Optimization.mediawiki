@@ -14,4 +14,4 @@
 * CPLEXLink.jl:: [https://github.com/joehuchette/CPLEXLink.jl is a Julia interface for the CPLEX optimization software]. 
 * Mosek.jl:: [https://github.com/JuliaOpt/Mosek.jl Interface to the Mosek solver] in Julia.
 * NLopt.jl:: Package to call the [https://github.com/JuliaOpt/NLopt.jl NLopt nonlinear-optimization library] from the Julia language.
-
+* Ipopt.jl:: [https://github.com/JuliaOpt/Ipopt.jl is a Julia interface to the Ipopt nonlinear solver].
