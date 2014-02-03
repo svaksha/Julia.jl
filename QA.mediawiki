@@ -18,5 +18,6 @@ Profile your code
 === UnitTest ===
 * Fixtures.jl :: provides [https://github.com/burrowsa/Fixtures.jl fixtures, mocks, matchers and patching to improve your tests] with Julia.
 * FactCheck.jl::  Midje-like [https://github.com/zachallaun/FactCheck.jl testing framework] written for Julia.
+* Jig.jl:: [https://github.com/milktrader/Jig.jl  Testing framework] for Julia.
 * Saute.jl:: [https://github.com/milktrader/Saute.jl is another testing framework for Julia].
 
