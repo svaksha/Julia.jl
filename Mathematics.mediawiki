@@ -42,29 +42,30 @@
 * LinearExpressions.jl:: is a Julia package [https://github.com/cdsousa/LinearExpressions.jl to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization].
 * KrylovSolvers.jl: Solve sparse linear systems in an efficiently and iterative manner with [https://github.com/cfbaptista/KrylovSolvers.jl Krylov Solvers]
 * [https://github.com/lindahua/MATLAB.jl Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
+* MPFR.jl :: [https://github.com/andrioni/MPFR.jl  A Julia package for the GNU MPFR library].
 * MUMPS :: A wrapper for [https://github.com/lruthotto/MUMPS MUMPS (a MUltifrontal Massively Parallel sparse direct Solver of large linear systems)] in Julia.
 * NumericExtensions.jl: Julia extensions to provide high performance computational support for [https://github.com/lindahua/NumericExtensions.jl fast vectorized computation]
 * [https://github.com/JuliaOpt/Optim.jl Optim.jl]: basic optimization algorithms implementation.
 * [https://github.com/cfbaptista/PolyMath.jl PolyMath.jl]: package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
-* Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
-* RAD.jl:: [https://github.com/adamkapor/RAD.jl package defines a macro, @autodiff, for reverse-mode automatic differentiation (RAD)].
-* Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
-* [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
-* Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * NLreg.jl:: [https://github.com/dmbates/NLreg.jl  Nonlinear regression in Julia]
 * NLsolve.jl:: [https://github.com/EconForge/NLsolve.jl  Julia solvers for systems of nonlinear equations].
 * NumericalShadow.jl:: Library to calculate [https://github.com/pgawron/NumericalShadow.jl numerical shadows] in Julia language.
 * ols.jl:: [https://github.com/forio/ols.jl Julia type for multiple (multivariate) regression using OLS] - Performs least squared regression on linear equations of multiple independent variables.
 * Polynomial.jl:: [https://github.com/vtjnash/Polynomial.jl  Polynomial manipulations] and [https://gist.github.com/mathpup/8514578 PolyExt.jl], an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * PowerSeries.jl:: [https://github.com/jwmerrill/PowerSeries.jl Truncated Power Series] for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
+* Quadrature.jl: [https://github.com/kofron/Quadrature.jl Gauss quadrature in Base]
 * Quat.jl:: [https://github.com/forio/Quat.jl Quaternions, octonions and dual-quaternions].
 * RandomMatrices.jl :: [https://github.com/jiahao/RandomMatrices.jl Random Matrices]
+* RAD.jl:: [https://github.com/adamkapor/RAD.jl package defines a macro, @autodiff, for reverse-mode automatic differentiation (RAD)].
+* Roots.jl: [https://github.com/JuliaLang/Roots.jl Root finding functions for Julia]
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl extra sorting algorithms extending Julia's sorting API]
 * SemiringAlgebra.jl :: [https://github.com/ViralBShah/SemiringAlgebra.jl Semiring Algebra]
 * SuperLU.jl:: Julia interface to the [https://github.com/dmbates/SuperLU.jl SuperLU solver package for sparse systems].
 * Sobol.jl :: is a [https://github.com/stevengj/Sobol.jl  generation of Sobol low-discrepancy sequence (LDS)] implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 * SurfaceMesh.jl:: is a [https://github.com/michelk/SurfaceMesh.jl Finite element surface mesh manipulation library] to work with polygon-surface-meshes.
+* SymPy.jl:: [https://github.com/jverzani/SymPy.jl Julia interface to SymPy via PyCall]
 * Tensors.jl:: [https://github.com/pgawron/Tensors.jl Julia package for tensor decompositions].
+* TSne.jl:: Julia port of [https://github.com/lejon/TSne.jl  L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique]. Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html t-Distributed Stochastic Neighbor Embedding].
 * Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl Uncertain quantities and error propagation] for the Julia language.
 
 
