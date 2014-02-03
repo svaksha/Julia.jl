@@ -11,6 +11,7 @@
 
 === PostgreSQL ===
 * PostgreSQL.jl:: [https://github.com/iamed2/PostgreSQL.jl PostgreSQL] API.
+* libpq.jl:: [https://github.com/iamed2/libpq.jl A libpq interface] for Julia.
 
 === MongoDB ===
 * [https://github.com/Lytol/Mongo.jl Mongo bindings] for the Julia programming language.
