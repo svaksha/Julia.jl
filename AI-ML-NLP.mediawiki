@@ -22,6 +22,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * JSparse.jl :: [https://github.com/dmbates/JSparse.jl  A Julia implementation of functions in the CSparse and CXSparse libraries] developed by Tim Davis. 
 * Named.jl:: [https://github.com/HarlanH/Named.jl Julia named index and named vector types].
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
+* Networks.jl:: [https://github.com/daviddelaat/Networks.jl A library for working with Graphs] in Julia.
 * OffsetArrays.jl:: [https://github.com/alsam/OffsetArrays.jl provides the ability to use arbitrary starting indices for arrays] in Julia.
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl temporary repo exploring the union of SeriesPair arrays into multicolumn arrays] with similar behavior.
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl  Implementation of the trie data structure].
