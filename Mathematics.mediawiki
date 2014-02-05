@@ -72,5 +72,7 @@
 * Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl Uncertain quantities and error propagation] for the Julia language.
 
 
-
+=== Puzzles, problem solving games ===
+* Cbc.jl:: [https://github.com/JuliaOpt/Cbc.jl  Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library].
+* SudokuService:: [https://github.com/IainNZ/SudokuService Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver].
 
