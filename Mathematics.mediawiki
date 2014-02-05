@@ -75,5 +75,6 @@
 
 === Puzzles, problem solving games ===
 * Cbc.jl:: [https://github.com/JuliaOpt/Cbc.jl  Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library].
+* Game.jl:: is inspired by PyGame, to [https://github.com/IainNZ/Game.jl make 2D games easy in Julia].
 * SudokuService:: [https://github.com/IainNZ/SudokuService Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver].
 
