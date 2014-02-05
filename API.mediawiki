@@ -18,7 +18,7 @@
 * PyJulia:: [https://github.com/jakebolewski/pyjulia python interface to julia].
 
 == R-lang ==
-* Rif.jl :: [https://github.com/lgautier/Rif.jl Interface to the R language].
+* Rif.jl :: [https://github.com/lgautier/Rif.jl Interface to the R language] and its fork: [https://github.com/tshort/julio Julio].
 
 == MATLAB ==
 * [https://github.com/simonster/MAT.jl MAT.jl:: is a Julia module for reading MATLAB] files.
