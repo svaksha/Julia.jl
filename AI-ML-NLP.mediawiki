@@ -29,7 +29,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl  Implementation of the trie data structure].
 * LDA.jl:: [https://github.com/remusao/LDA.jl Linear Discriminant Analysis and Kernel Fisher Analysis].
 * DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl Metaprogramming tools for DataFrames].
-
+* Sims.jl:: [https://github.com/tshort/Sims.jl Non-causal, equation-based modeling] in Julia.
 
 == Quantum Algorithms ==
 * Hadamard.jl:: [https://github.com/stevengj/Hadamard.jl  Fast multidimensional Walsh-Hadamard transforms].
