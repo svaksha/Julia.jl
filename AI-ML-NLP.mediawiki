@@ -28,6 +28,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl temporary repo exploring the union of SeriesPair arrays into multicolumn arrays] with similar behavior.
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl  Implementation of the trie data structure].
 * LDA.jl:: [https://github.com/remusao/LDA.jl Linear Discriminant Analysis and Kernel Fisher Analysis].
+* DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl Metaprogramming tools for DataFrames].
 
 
 == Quantum Algorithms ==
