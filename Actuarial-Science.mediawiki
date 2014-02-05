@@ -24,6 +24,7 @@ Statistics, Finance, Numerical analysis, ....
 * KSVM.jl:: [https://github.com/remusao/KSVM.jl Kernel Support Vector Machine (SVM)] written in Julia.
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods]. 
 * MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl  A Julia package for fitting (statistical) mixed-effects models].
+* NLTester:: [https://github.com/IainNZ/NLTester Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling].
 * Rmath.jl:: [https://github.com/dmbates/Rmath.jl  Archive of functions that emulate R's d-p-q-r functions for probability distributions].
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl loading many of the data sets] available in R.
 * SGDDemo.jl:: [https://github.com/johnmyleswhite/SGDDemo.jl Stochastic Gradient Descent (SGD) predictive models for large data sets] in Julia.
@@ -42,3 +43,4 @@ Statistics, Finance, Numerical analysis, ....
 == Operations Research ==
 * [http://iaindunning.com/2013/combination-locks.html Solving a Combination Lock Puzzle with JuMP + Julia] and the [https://news.ycombinator.com/item?id=6425160 HackerNews thread].
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [https://github.com/daviddelaat/SemidefiniteProgramming.jl low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP].
+
