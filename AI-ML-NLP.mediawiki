@@ -15,20 +15,20 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 == (Array, Matrix) Data Structures ==
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl explore a new system of array views].
 * [https://github.com/johnmyleswhite/BloomFilters.jl Bloom filters] are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+* DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl Metaprogramming tools for DataFrames].
 * FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl provides the ability to use arbitrary starting indices for arrays] in Julia programming language.
 * Graphs.jl:: [https://github.com/JuliaLang/Graphs.jl Working with graph types and algorithms in Julia. Documentation for the [http://julialang.org/Graphs.jl/index.html Graphs.jl package].
 * Grid.jl:: [https://github.com/timholy/Grid.jl Interpolation and related operations on grids] for the Julia language.
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl Statically-sized immutable vectors and matrices].
 * InverseService:: [https://github.com/IainNZ/InverseService Matrix Inverse] as a Service.
 * JSparse.jl :: [https://github.com/dmbates/JSparse.jl  A Julia implementation of functions in the CSparse and CXSparse libraries] developed by Tim Davis. 
+* LDA.jl:: [https://github.com/remusao/LDA.jl Linear Discriminant Analysis and Kernel Fisher Analysis].
 * Named.jl:: [https://github.com/HarlanH/Named.jl Julia named index and named vector types].
 * [https://github.com/davidavdav/NamedArray NamedArray], a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 * Networks.jl:: [https://github.com/daviddelaat/Networks.jl A library for working with Graphs] in Julia.
 * OffsetArrays.jl:: [https://github.com/alsam/OffsetArrays.jl provides the ability to use arbitrary starting indices for arrays] in Julia.
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl temporary repo exploring the union of SeriesPair arrays into multicolumn arrays] with similar behavior.
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl  Implementation of the trie data structure].
-* LDA.jl:: [https://github.com/remusao/LDA.jl Linear Discriminant Analysis and Kernel Fisher Analysis].
-* DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl Metaprogramming tools for DataFrames].
 * Sims.jl:: [https://github.com/tshort/Sims.jl Non-causal, equation-based modeling] in Julia.
 
 == Quantum Algorithms ==
