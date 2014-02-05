@@ -48,7 +48,12 @@ This section contains links to conference slides/videos, Press/ News reports, Re
  
 
 = NEWS = 
+* [https://en.wikipedia.org/wiki/Julia_%28programming_language%29 Wikipedia entry].
 * HN thread on Julia, [https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982]
+
+==== Yellow Press ====
+* A [http://www.wired.com/wiredenterprise/2014/02/julia/ Wired article on Julia] gets some pushback from scientific programmers for [http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/ not getting the basics right].
+
 
 == Julia Vs. OtherLanguages ==
 * [https://github.com/johnmyleswhite/JuliaVsR Julia Vs. R].
