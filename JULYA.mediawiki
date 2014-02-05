@@ -5,7 +5,6 @@
 
 
 = DOCUMENTATION =
-
 * Roxygen.jl:: [https://github.com/johnmyleswhite/Roxygen.jl A Roxygen-like documentation package] for automatically generating documentation from Julia source files.
 
 == Start with Julia ==
@@ -32,6 +31,8 @@
 * [http://docs.julialang.org/en/latest/packages/packagelist/ Julia Package] list.
 * METADATA.jl: The [https://github.com/JuliaLang/METADATA.jl official set of Julia packages]
 
+== Tutorials ==
+* JuMPTutorial:: [https://github.com/IainNZ/JuMPTutorial MIT ORC Fall 13 JuMP tutorial].
 
 
 = EVENTS = 
@@ -52,7 +53,7 @@ This section contains links to conference slides/videos, Press/ News reports, Re
 * HN thread on Julia, [https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982]
 
 ==== Yellow Press ====
-* A [http://www.wired.com/wiredenterprise/2014/02/julia/ Wired article on Julia] gets some pushback from scientific programmers for [http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/ not getting the basics right].
+* A [http://www.wired.com/wiredenterprise/2014/02/julia/ Wired article on Julia] gets some pushback from scientific programmers for [http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/ not getting the basics right], which [http://www.wired.co.uk/news/archive/2014-02/04/julia then got a new title for the UK version, but retained the old article].
 
 
 == Julia Vs. OtherLanguages ==
