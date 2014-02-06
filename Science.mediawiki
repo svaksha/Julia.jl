@@ -10,7 +10,9 @@ Astronomy, Biology, Physics, Chemistry, .....
 = BIOLOGY ==
 Bioinformatics, Biotech, Genetics, ....
 
-* Bio-Julia group: [https://github.com/biojulia/biojulia https://github.com/biojulia/biojulia]
+* JuliaBio on github:: [https://github.com/JuliaBio https://github.com/JuliaBio]. The GoogleGroups mailing list/forums:: [https://groups.google.com/forum/#!forum/julia-bio https://groups.google.com/forum/#!forum/julia-bio]
+* BioJulia on github:: [https://github.com/BioJulia/ https://github.com/BioJulia/] 
+* Bio.jl:: [https://github.com/BioJulia/Bio.jl Bioinformatics and Computational Biology Infrastructure] for Julia.
 * BioSeq.jl :: Julia's package for working on [https://github.com/diegozea/BioSeq.jl Bioinformatics with DNA, RNA and Protein Sequences].
 * Circuitscape.jl:: A [https://github.com/tanmaykm/Circuitscape.jl Julia implementation] of the [http://www.circuitscape.org/ Circuitscape] lib in Python, that uses electronic circuit theory to solve problems in landscape ecology.
 * GaussDCA.jl :: [https://github.com/carlobaldassi/GaussDCA.jl  Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families].
