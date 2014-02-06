@@ -37,6 +37,7 @@ Desktop and other handy utilities.
 * jEdit :: A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
 * [http://forio.com/products/julia-studio/ Julia-Studio] and [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
 * [https://github.com/JuliaLang/julia-vim Julia-Vim]
+* Julietta.jl:: [https://github.com/tknopp/Julietta.jl is an integrated developement environment (IDE)] for the programming language Julia.
 * Sublime :: [https://github.com/karbarcca/Sublime-Julia Sublime Syntax, Build, Snippets, and REPL] for the Julia language.
 
 === IJulia === 

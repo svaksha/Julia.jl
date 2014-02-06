@@ -13,6 +13,7 @@ Statistics, Finance, Numerical analysis, ....
 * FinancialBlotter.jl :: [https://github.com/JuliaQuant/FinancialBlotter.jl Financial Instruments and Accounting] in Julia.
 * GLM.jl :: [https://github.com/JuliaStats/GLM.jl Linear models (LM's) and generalized linear models (GLM's)] in Julia.
 * [https://github.com/malmaud/Pandas.jl Pandas.jl :: A Julia front-end to Python's Pandas package].
+* MCInsurance.jl:: [https://github.com/mkriele/MCInsurance.jl This Julia package provides multi-period Monte Carlo simulations] for life insurance.
 
 = Statistics =
 * Civecm.jl:: [https://github.com/andreasnoackjensen/Civecm.jl  Cointegration in Vector Error Correction Models] in Julia.
