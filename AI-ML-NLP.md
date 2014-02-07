@@ -9,7 +9,7 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
     * [Neural Networks](#neural-networks)
 * [Machine Learning and DataScience](#machine-learning])
 * [NLP](#nlp)
-    * [Unicode Encodings](#unicode-encodings)
+    * [Data Types](#data-types)
 
     
 
@@ -67,13 +67,14 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * [https://gist.github.com/kmsquire/7569843](Peter Norvig's spelling corrector ported to Julia), is now a part of the [https://github.com/JuliaLang/DataStructures.jl](DataStructures.jl) package.
 * Stemmers.jl:: [https://github.com/tanmaykm/Stemmers.jl](Interface for text stemmer implementations).
 * TextAnalysis.jl:: is a Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl](text analysis).
-* TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl](type checker) for Julia.
 
 
-## Unicode, Encodings 
+## Data Types
 * ASCIIByte.jl:: Julia package [https://github.com/Elin-/ASCIIByte.jl](to deal with Characters of 8 bits).
 * Codecs.jl:: [https://github.com/dcjones/Codecs.jl](Common data encoding algorithms).
+* [https://github.com/StefanKarpinski/frange](frange)
 * ICU.jl:: Julia wrapper for the [https://github.com/nolta/ICU.jl](International Components for Unicode (ICU) library).
+* TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl](type checker) for Julia.
 * [https://github.com/nolta/UnicodeExtras.jl](UnicodeExtras.jl)
 * UTF16.jl:: [https://github.com/nolta/UTF16.jl](UTF16 string type) for Julia.
 
