@@ -1,5 +1,12 @@
 Statistics, Finance, Numerical analysis, ....
 
+* [GeoStatistics](#geostatistics)
+* [JuliaQuant](#julia-quant)
+* [Statistics](#statistics)
+    * [Econometrics](#econometrics) 
+    * [Operations Research](#Operations-Research)
+
+
 # GeoStatistics 
 * Krige.jl:: [https://github.com/njwilson23/Krige.jl](Kriging estimators) in Julia.
 
@@ -33,7 +40,7 @@ Statistics, Finance, Numerical analysis, ....
 * StatsBase.jl:: is the [https://github.com/JuliaStats/StatsBase.jl](Stats meta-package for basic statistics functions) for Julia.
 
 
-== Econometrics ==
+## Econometrics 
 * Econometrics.jl :: [https://github.com/cgroll/Econometrics.jl)[Econometric models in Julia).
 * GARCH.jl:: [https://github.com/AndreyKolev/GARCH.jl](Generalized Autoregressive Conditional Heteroskedastic (GARCH) models) for Julia.
 * TimeSeries.jl:: [https://github.com/JuliaStats/TimeSeries.jl)[Time-series toolkit) for Julia.
@@ -41,7 +48,7 @@ Statistics, Finance, Numerical analysis, ....
 * TimeData.jl:: [https://github.com/cgroll/TimeData.jl](package provides fast, robust and convenient representation of time series data).
 
 
-== Operations Research ==
+## Operations Research 
 * [http://iaindunning.com/2013/combination-locks.html](Solving a Combination Lock Puzzle with JuMP + Julia) and the [https://news.ycombinator.com/item?id=6425160](HackerNews thread).
 * SemidefiniteProgramming.jl:: package provides a Julia interface for [https://github.com/daviddelaat/SemidefiniteProgramming.jl](low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP).
 
