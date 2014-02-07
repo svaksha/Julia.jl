@@ -1,6 +1,6 @@
 Curated bits and bytes of `Julia <https://github.com/JuliaLang>`_ language learning resources, API's, libraries, packages, blog links, howto's, etc...
 
-'''JULYA is also mirrored at `https://bitbucket.org/svaksha/julya <https://bitbucket.org/svaksha/julya>`_'''.
+Now JULYA has a shiny [Github page](http://svaksha.github.io/julya) in addition to being mirrored at [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
 
 Pages
 ======
