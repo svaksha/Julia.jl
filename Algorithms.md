@@ -1,29 +1,27 @@
-AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
+ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...
 
-* [ALGORITHMS](#algorithms)
-    * [Markov Models](#markov-models)
-    * [Common Search Algorithms](#common-search-algorithms)
-    * [Clustering Algorithms](#clustering-algorithms)
-    * [Data Structures](#data-structures)
-    * [Quantum Algorithms](#quantum-algorithms)
-    * [Neural Networks](#neural-networks)
+* [Markov Models](#markov-models)
+* [Common Search Algorithms](#common-search-algorithms)
+* [Clustering Algorithms](#clustering-algorithms)
+* [Data Structures](#data-structures)
 * [MACHINE LEARNING](#machine-learning])
+* [NEURAL NETWORKS](#neural-networks)
 * [NLP](#nlp)
+* [Quantum Algorithms](#quantum-algorithms)
     
 
-# ALGORITHMS 
-## Markov Models
+# Markov Models
 * Pagerank.jl:: [https://github.com/purzelrakete/Pagerank.jl](An experiment in pagerank on graphs in the order of billions of edges) - Currently tested with over half a billion edges.
 
-## Common Search Algorithms 
+# Common Search Algorithms 
 * NearestNeighbors.jl:: [https://github.com/johnmyleswhite/NearestNeighbors.jl](Data structures for nearest neighbor search).
 * Loess.jl:: is a loess implementation based on the [https://github.com/dcjones/Loess.jl](fast kd-tree based approximation algorithm), a space-partitioning data structure for organizing points in a k-dimensional space.
 * AhoCorasick.jl:: Julia implementation of the [https://github.com/gilesc/AhoCorasick.jl](Aho-Corasick algorithm for fast string searching).
 
-## Clustering algorithms 
+# Clustering algorithms 
 * Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl](clustering data: k-means, dp-means), etc..
 
-## (Array, Matrix) Data Structures
+# (Array, Matrix, Tree) Data Structures
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl](explore a new system of array views).
 * [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
@@ -39,16 +37,10 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * [https://github.com/davidavdav/NamedArray](NamedArray), a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 * Networks.jl:: [https://github.com/daviddelaat/Networks.jl](A library for working with Graphs) in Julia.
 * OffsetArrays.jl:: [https://github.com/alsam/OffsetArrays.jl](provides the ability to use arbitrary starting indices for arrays) in Julia.
+* RedBlackTrees.jl:: [https://github.com/pygy/RedBlackTrees.jl](A red–black self-balancing binary search tree) in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl](temporary repo exploring the union of SeriesPair arrays into multicolumn arrays) with similar behavior.
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl](Implementation of the trie data structure).
 * Sims.jl:: [https://github.com/tshort/Sims.jl](Non-causal, equation-based modeling) in Julia.
-
-## Quantum Algorithms 
-* Hadamard.jl:: [https://github.com/stevengj/Hadamard.jl](Fast multidimensional Walsh-Hadamard transforms).
-
-## Neural Networks 
-* neural.jl:: [https://github.com/compressed/neural.jl](is a Julia implementation of a neural network), based on Sergio Fierens ruby version.
-* neuralnetwork.jl:: [https://github.com/tomaskrehlik/neuralnetwork.jl](is an implementation of label neural network) originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 
 
 # MACHINE LEARNING
@@ -57,6 +49,12 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl](Machine Learning library package) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * MDP.jl:: [https://github.com/khadiwala/MDP.jl](Markov Decision Processes) in Julia.
 * MLBase.jl:: [https://github.com/lindahua/MLBase.jl](A set of functions to support the development of machine learning algorithms).
+* SimpleML.jl:: [https://github.com/aviks/SimpleML.jl](Textbook implementations of some Machine Learning Algorithms) in Julia.
+
+
+# NEURAL NETWORKS
+* neural.jl:: [https://github.com/compressed/neural.jl](is a Julia implementation of a neural network), based on Sergio Fierens Ruby version.
+* neuralnetwork.jl:: [https://github.com/tomaskrehlik/neuralnetwork.jl](is an implementation of label neural network) originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 
 
 # NLP 
@@ -66,5 +64,6 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * Stemmers.jl:: [https://github.com/tanmaykm/Stemmers.jl](Interface for text stemmer implementations).
 * TextAnalysis.jl:: is a Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl](text analysis).
 
-
+# Quantum Algorithms 
+* Hadamard.jl:: [https://github.com/stevengj/Hadamard.jl](Fast multidimensional Walsh-Hadamard transforms).
 
