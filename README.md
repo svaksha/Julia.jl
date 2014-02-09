@@ -14,7 +14,6 @@ Join the [http://julialang.org/community/](mailing list) or head over to [http:/
 * [Distributed/Cloud/Cluster Computing, Networking, Servers,...](https://github.com/svaksha/julya/blob/master/Distributed-Computing.md)
 * [Algebra, Geometry, Math...](https://github.com/svaksha/julya/blob/master/Mathematics.md)
 * [NEWS](https://github.com/svaksha/julya/blob/master/NEWS.md)
-* [Packaging](https://github.com/svaksha/julya/blob/master/Packaging.md)
 * [Programming language concepts, data types, type system, etc..](https://github.com/svaksha/julya/blob/master/Programming-Concepts.md)
 * [Test Driven Development, Functional testing,...](https://github.com/svaksha/julya/blob/master/QA.md)
 * [Science (Physics, Chemistry, Biology,..](https://github.com/svaksha/julya/blob/master/Science.md)

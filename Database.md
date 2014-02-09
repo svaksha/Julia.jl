@@ -21,6 +21,7 @@
 
 ## SQLite
 * SQLite.jl:: Julia interface to the [https://github.com/karbarcca/SQLite.jl](SQLite library) with support for operations on DataFrames.
+* Sqlite3.jl:: A wrapper for the [https://github.com/PeetV/Sqlite3.jl](SQLite3 C API), to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
 
 # NoSQL
