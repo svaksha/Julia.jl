@@ -9,8 +9,6 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
     * [Neural Networks](#neural-networks)
 * [Machine Learning and DataScience](#machine-learning])
 * [NLP](#nlp)
-    * [Data Types](#data-types)
-
     
 
 # ALGORITHMS 
@@ -69,12 +67,4 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * TextAnalysis.jl:: is a Julia package for [https://github.com/johnmyleswhite/TextAnalysis.jl](text analysis).
 
 
-## Data Types
-* ASCIIByte.jl:: Julia package [https://github.com/Elin-/ASCIIByte.jl](to deal with Characters of 8 bits).
-* Codecs.jl:: [https://github.com/dcjones/Codecs.jl](Common data encoding algorithms).
-* [https://github.com/StefanKarpinski/frange](frange)
-* ICU.jl:: Julia wrapper for the [https://github.com/nolta/ICU.jl](International Components for Unicode (ICU) library).
-* TypeCheck.jl:: a [https://github.com/astrieanna/TypeCheck.jl](type checker) for Julia.
-* [https://github.com/nolta/UnicodeExtras.jl](UnicodeExtras.jl)
-* UTF16.jl:: [https://github.com/nolta/UTF16.jl](UTF16 string type) for Julia.
 

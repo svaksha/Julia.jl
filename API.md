@@ -1,14 +1,14 @@
 Hardware arch (ARM, MIPS, GPU, CUDA), language API, software libraries,..
 
-* [OpenSlide](#OpenSlide)
-* [Language API's](#Language-API)
+* [OpenSlide](#openslide)
+* [Language API's](#language-api)
     * [C++](#c++)
     * [Fortran](#fortran)
     * [Java](#java)
     * [MATLAB](#matlab)
     * [Python](#python)
     * [R](#r)
-* [# HW programming API](#hw-api)
+* [# HW programming API](#hwapi)
     * [LLVM](#llvm)
     * [OpenCL API](#opencl-api)
     * [ARM, GPU, MIPS](#arm-gpu-mips)

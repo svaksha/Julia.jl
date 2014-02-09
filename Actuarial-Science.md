@@ -1,10 +1,10 @@
 Statistics, Finance, Numerical analysis, ....
 
 * [GeoStatistics](#geostatistics)
-* [JuliaQuant](#julia-quant)
+* [JuliaQuant](#juliaquant)
 * [Statistics](#statistics)
     * [Econometrics](#econometrics) 
-    * [Operations Research](#Operations-Research)
+    * [Operations Research](#operationsresearch)
 
 
 # GeoStatistics 

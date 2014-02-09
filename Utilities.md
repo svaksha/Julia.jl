@@ -1,51 +1,61 @@
 Desktop and other handy utilities.
+* [Audio Libs](#audiolibs)
+* [General Utilities](#general-utilities)
+    * [CLI](#cli)
+    * [File Compression](#file-compression)  
+    * [Desktop Document Processing](#desktop-document-processing)
+    * [Document Generator](#document-generator) 
+* [DVCS](#dvcs)
+    * [GIT API](#git-api)
+* [REPL](#repl)    
+    * [IJulia](#ijulia)
+    * [WIDE](#wide)    
+    
 
-= Audio libs =
+# Audio libs
 * [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
-* Bebop.jl :: [https://github.com/zhemao/Bebop.jl  An audio library for the Julia programming language.
-* OSC.jl :: [https://github.com/fundamental/OSC.jl  Open Sound Control serialization library], a port of RTOSC for Julia.
-* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl Julia interface API] for the [http://en.wikipedia.org/wiki/PortAudio PortAudio] (audio) library.
-* Sound.jl:: [https://github.com/JuliaLang/Sound.jl Reading and writing from WAV files].
+* Bebop.jl :: [https://github.com/zhemao/Bebop.jl](An audio library) for the Julia programming language.
+* OSC.jl :: [https://github.com/fundamental/OSC.jl](Open Sound Control serialization library), a port of RTOSC for Julia.
+* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl](Julia interface API) for the [http://en.wikipedia.org/wiki/PortAudio](PortAudio) (audio) library.
+* Sound.jl:: [https://github.com/JuliaLang/Sound.jl](Reading and writing from WAV files).
 
 
-= General Utilities = 
+# General Utilities 
+## CLI 
+* ArgParse.jl:: [https://github.com/carlobaldassi/ArgParse.jl](Package for parsing command-line arguments) to Julia programs.
 
-== CLI ==
-* ArgParse.jl:: [https://github.com/carlobaldassi/ArgParse.jl  Package for parsing command-line arguments] to Julia programs.
+## File compression 
+* gzip.jl:: [https://github.com/jvns/gzip.jl](GunZip in Julia).
 
-== File compression ==
-* [https://github.com/jvns/gzip.jl GunZip in Julia].
+## Desktop Document processing 
+* Taro.jl:: [https://github.com/aviks/Taro.jl](can process office documents in Julia). 
 
-== Desktop Document processing == 
-* [https://github.com/aviks/Taro.jl Taro.jl] can process office documents in Julia. 
-
-== Document Generator == 
-* Judo.jl:: is a [https://github.com/dcjones/Judo.jl Julia document generator], which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
-* HelpTestbed.jl:: [https://github.com/tshort/HelpTestbed.jl This package is for exploring options for help when you add a Julia package]- when used from the REPL, the help commands fetches
-
+## Document Generator 
+* Judo.jl:: is a [https://github.com/dcjones/Judo.jl](Julia document generator), which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
+* HelpTestbed.jl:: [https://github.com/tshort/HelpTestbed.jl](package is for exploring options for help when you add a Julia package)- when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
 
 
-= DVCS =
-=== Git API ===
-* [https://github.com/jakebolewski/LibGit2.jl Julia bindings to the LibGit2 library], https://github.com/libgit2
-* Octokit.jl :: Julia Package to [https://github.com/loladiro/Octokit.jl access the GitHub API].
+# DVCS 
+### Git API 
+* LibGit2.jl:: [https://github.com/jakebolewski/LibGit2.jl](Julia bindings to the LibGit2 library).
+* Octokit.jl:: Julia Package to [https://github.com/loladiro/Octokit.jl](access the GitHub API).
 
 
-= REPL, Text editors = 
-* [https://github.com/loladiro/REPL.jl  Pure-julia REPL implementation]
-* [https://github.com/loladiro/REPLCompletions.jl  Tab completions for your Julia REPL].
-* jEdit :: A [https://github.com/tuckerkevin/jedit-julia jEdit mode] for Julia.
-* [http://forio.com/products/julia-studio/ Julia-Studio] and [https://github.com/forio/julia-tutorials Tutorials for Julia-Studio].
-* [https://github.com/JuliaLang/julia-vim Julia-Vim]
-* Julietta.jl:: [https://github.com/tknopp/Julietta.jl is an integrated developement environment (IDE)] for the programming language Julia.
-* Sublime :: [https://github.com/karbarcca/Sublime-Julia Sublime Syntax, Build, Snippets, and REPL] for the Julia language.
+# REPL, Text editors 
+* jEdit-julia :: A [https://github.com/tuckerkevin/jedit-julia](jEdit mode) for Julia.
+* JuliaStudio:: [http://forio.com/products/julia-studio/](Julia Studio by Forio.com) and [https://github.com/forio/julia-tutorials](Tutorials for Julia-Studio).
+* [https://github.com/JuliaLang/julia-vim](Julia-Vim).
+* Julietta.jl:: [https://github.com/tknopp/Julietta.jl](is an integrated developement environment (IDE)) for the programming language Julia.
+* REPL.jl:: [https://github.com/loladiro/REPL.jl](Pure-julia REPL implementation)
+* REPLCompletions.jl:: [https://github.com/loladiro/REPLCompletions.jl](Tab completions for your Julia REPL).
+* Sublime-Julia :: [https://github.com/karbarcca/Sublime-Julia](Sublime Syntax, Build, Snippets, and REPL) for the Julia language.
 
-=== IJulia === 
-* IJulia:: [https://github.com/JuliaLang/IJulia.jl Julia kernel and magics for IPython].
-* Hydra.jl :: [https://github.com/loladiro/Hydra.jl Hosted Multi-user IJulia distribution].
-* Autoreload.jl :: [https://github.com/malmaud/Autoreload.jl  A package for autoreloading files for interactive work] - Modeled after IPython's autoreload extension.
+### IJulia 
+* IJulia:: [https://github.com/JuliaLang/IJulia.jl](Julia kernel and magics for IPython)
+* Hydra.jl:: [https://github.com/loladiro/Hydra.jl](Hosted Multi-user IJulia distribution).
+* Autoreload.jl:: [https://github.com/malmaud/Autoreload.jl](A package for autoreloading files for interactive work) - Modeled after IPython's autoreload extension.
 
-=== REPL on the Cloud ===
-* Use [https://cloud.sagemath.com Julia on the SageMath cloud server].
-* koding.com has [https://koding.com/Julia an interactive REPL] online.
+### WIDE
+* Use [https://cloud.sagemath.com](Julia on the SageMath cloud server).
+* koding.com has [https://koding.com/Julia](an interactive REPL) online.
 
