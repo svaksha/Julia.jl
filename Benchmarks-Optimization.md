@@ -1,8 +1,8 @@
-* [BENCHMARKS, OPTIMIZATION](#benchmarks)
-    * [Optimization](#ptimization)
+* [BENCHMARKS](#benchmarks)
+    * [Optimization](#optimization)
     
     
-# BENCHMARKS, OPTIMIZATION 
+# BENCHMARKS 
 * [http://speed.julialang.org](Microbenchmark timings are on speed.julialang.org) and here is a [http://speed.julialang.org/timeline/](Timeline)
 * raytracer.jl:: [https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl](Raytracer in the Julia kernel) and other [https://github.com/jakebolewski/rays](raytracer packages).
 * Criterion.jl:: [https://github.com/jakebolewski/Criterion.jl](A port of the Haskell's Criterion and Clojure's Criterium library) to Julia, that runs benchmarks, analyzing the results using various statistical techniques.

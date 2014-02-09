@@ -2,9 +2,7 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 
 * [API](#api)
 * [Graphics](#graphics) 
-* [Plotting](#plotting)
-    * [Documentation](#documentation) 
-* [Visualization](#visualization)
+* [Visualization Plots](#visualization-plots)
     * [IJulia Blogs](#ijuliablog]
 
 
@@ -22,27 +20,20 @@ Graphics, Plots and other Visualization libraries and packages. Also includes bl
 * TIFF.jl:: is the [https://github.com/rephorm/TIFF.jl](TIFF image file support) for Julia.
 
 
-# Plotting
-* ASCIIPlots:: [https://github.com/johnmyleswhite/ASCIIPlots.jl](ASCIIPlots.jl)
-* [https://github.com/dcjones/Gadfly.jl](Gadfly.jl) and rendering to an [https://github.com/dcjones/Gadfly.jl#using-the-d3-backend](SVG file using the D3 browser interface).
-* PyPlot.jl:: [https://github.com/stevengj/PyPlot.jl](Plotting for Julia based on matplotlib, pyplot).
-* Winston.jl:: [https://github.com/nolta/Winston.jl](2D plotting) for Julia.
-
-### Documentation 
-* [https://github.com/john9631/JuliaDocs](Gadfly Reference Cards)
-
-
-
-# Visualization
+# Visualization Plots
+* ASCIIPlots.jl:: [https://github.com/johnmyleswhite/ASCIIPlots.jl](ASCIIPlots.jl)
 * Cairo.jl: [https://github.com/JuliaLang/Cairo.jl](Bindings for the Cairo graphics library).
 * Color.jl:: [https://github.com/JuliaLang/Color.jl](adds colour to your plots and graphs).
 * ECharts.jl:: [https://github.com/wlbksy/ECharts.jl](A julia package for ECharts: https://github.com/ecomfe/echarts ).
+* Gadfly.jl:: [https://github.com/dcjones/Gadfly.jl](Gadfly is a statistical graphics plotting and data visualization system) written in Julia. DOCS:: [https://github.com/john9631/JuliaDocs](Gadfly Reference Cards) and rendering to an [https://github.com/dcjones/Gadfly.jl#using-the-d3-backend](SVG file using the D3 browser interface).
 * GL.jl:: [https://github.com/jayschwa/GL.jl](Experimental OpenGL bindings) for Julia.
-* ProfileView.jl:: Interactive [https://github.com/GlenHertz/ProfileView.jl](SVG flame graphs) for analyzing/profiling. An HTML preview of the [http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg](SVG example)
 * matplot:: [https://github.com/natj/matplot](A MATLAB-like interface to Winston).
 * paper:: [https://github.com/andrewcooke/paper](Crumpled paper - PDF plot) in Julia.
+* ProfileView.jl:: Interactive [https://github.com/GlenHertz/ProfileView.jl](SVG flame graphs) for analyzing/profiling. An HTML preview of the [http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg](SVG example)
+* PyPlot.jl:: [https://github.com/stevengj/PyPlot.jl](Plotting for Julia based on matplotlib, pyplot).
 * TypeTree.jl:: [https://github.com/johnmyleswhite/TypeTree.jl](source code) and the [http://johnmyleswhite.com/typetree/tree.html](interactive D3 visualization] of a Julia type tree.
 * VTK.jl:: [https://github.com/ihnorton/VTK.jl](VTK bindings) for the Julia language.
+* Winston.jl:: [https://github.com/nolta/Winston.jl](2D plotting) for Julia.
 
 ### IJulia, Blogs 
 Read other Julia users experiences with visualization and plotting

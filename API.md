@@ -1,14 +1,14 @@
 Hardware arch (ARM, MIPS, GPU, CUDA), language API, software libraries,..
 
 * [OpenSlide](#openslide)
-* [Language API's](#language-api)
+* [Language API](#language-api)
     * [C++](#c++)
     * [Fortran](#fortran)
     * [Java](#java)
     * [MATLAB](#matlab)
     * [Python](#python)
     * [R](#r)
-* [# HW programming API](#hwapi)
+* [HW API](#hwapi)
     * [LLVM](#llvm)
     * [OpenCL API](#opencl-api)
     * [ARM, GPU, MIPS](#arm-gpu-mips)
@@ -31,6 +31,7 @@ Hardware arch (ARM, MIPS, GPU, CUDA), language API, software libraries,..
 
 ## MATLAB
 *  MAT.jl:: [https://github.com/simonster/MAT.jl](is a Julia module for reading MATLAB) files.
+* MATLAB.jl:: [https://github.com/lindahua/MATLAB.jl] Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
 
 ## Python
 * PyCall.jl:: [https://github.com/stevengj/PyCall.jl](lets you call Python functions) from the Julia language.
@@ -41,7 +42,7 @@ Hardware arch (ARM, MIPS, GPU, CUDA), language API, software libraries,..
 
 
 
-# HW programming API
+# HW API
 * MPI.jl:: A basic Julia wrapper for the [https://github.com/lcw/MPI.jl](portable message passing system Message Passing Interface (MPI)).
 
 ## LLVM 

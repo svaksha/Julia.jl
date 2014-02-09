@@ -1,8 +1,8 @@
-Curated bits and bytes of [Julia](https://github.com/JuliaLang) language learning resources, API's, libraries, packages, blog links, howto's, etc...
+[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated bits and bytes of [Julia](https://github.com/JuliaLang) language learning resources, API's, libraries, packages, blog links, howto's, etc... and it is mirrored on BB: [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
 
-Now JULYA has a shiny [Github page](http://svaksha.github.io/julya) in addition to being mirrored at [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
+Join the [http://julialang.org/community/](mailing list) or head over to [http://webchat.freenode.net/?channels=julia](#julia at irc.freenode.net) for a live chat.
 
-# Pages
+# PAGES
 * [ActuarialSc.: Finance, economics, stochastic, insurance Statistics...](https://github.com/svaksha/julya/blob/master/Actuarial-Science.md)
 * [AI-ML-NLP](https://github.com/svaksha/julya/blob/master/AI-ML-NLP.md)
 * [API for Hardware arch (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries](https://github.com/svaksha/julya/blob/master/API.md)
@@ -12,9 +12,10 @@ Now JULYA has a shiny [Github page](http://svaksha.github.io/julya) in addition 
 * [Cookbook](https://github.com/svaksha/julya/blob/master/Cookbook.md)
 * [Database](https://github.com/svaksha/julya/blob/master/Database.md)
 * [Distributed/Cloud/Cluster Computing, Networking, Servers,...](https://github.com/svaksha/julya/blob/master/Distributed-Computing.md)
-* [File Formats](https://github.com/svaksha/julya/blob/master/File-Formats.md)
-* [JULYA](https://github.com/svaksha/julya/blob/master/JULYA.md)
 * [Algebra, Geometry, Math...](https://github.com/svaksha/julya/blob/master/Mathematics.md)
+* [NEWS](https://github.com/svaksha/julya/blob/master/NEWS.md)
+* [Packaging](https://github.com/svaksha/julya/blob/master/Packaging.md)
+* [Programming language concepts, data types, type system, etc..](https://github.com/svaksha/julya/blob/master/Programming-Concepts.md)
 * [Test Driven Development, Functional testing,...](https://github.com/svaksha/julya/blob/master/QA.md)
 * [Science (Physics, Chemistry, Biology,..](https://github.com/svaksha/julya/blob/master/Science.md)
 * [UI / UX software](https://github.com/svaksha/julya/blob/master/UI-UX.md)
@@ -22,8 +23,9 @@ Now JULYA has a shiny [Github page](http://svaksha.github.io/julya) in addition 
 
 
 ### Contributing
-* Add your link (as per the topic, including notes (if any)) to the respective mediawiki pages listed here, then submit a [pull request (PR)](https://github.com/svaksha/julya/pulls)
-'''Note:''' As a new language in the scientific computing scene, new libraries are constantly being added into Julia, so there will be frequent changes and reordering of the mediawiki pages.
+* Add your link (as per the topic, including notes (if any)) to the respective mediawiki pages listed here, then submit a [pull request (PR)](https://github.com/svaksha/julya/pulls). For broken links submit a bug report and a PR if you have a URL to replace the broken one.
+
+NB:: As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and reordering of the pages.
 
 
 # LICENSE 

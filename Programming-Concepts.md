@@ -46,7 +46,7 @@ Libraries for Data/File formats.
 
 
 # Meta Programming
-* [http://docs.julialang.org/en/latest/manual/metaprogramming/ Meta Programming].
+* [http://docs.julialang.org/en/latest/manual/metaprogramming/](Meta Programming)
 
 
 # Style Guidelines 

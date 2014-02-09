@@ -51,9 +51,10 @@ Desktop and other handy utilities.
 * Sublime-Julia :: [https://github.com/karbarcca/Sublime-Julia](Sublime Syntax, Build, Snippets, and REPL) for the Julia language.
 
 ### IJulia 
-* IJulia:: [https://github.com/JuliaLang/IJulia.jl](Julia kernel and magics for IPython)
-* Hydra.jl:: [https://github.com/loladiro/Hydra.jl](Hosted Multi-user IJulia distribution).
 * Autoreload.jl:: [https://github.com/malmaud/Autoreload.jl](A package for autoreloading files for interactive work) - Modeled after IPython's autoreload extension.
+* Hydra.jl:: [https://github.com/loladiro/Hydra.jl](Hosted Multi-user IJulia distribution).
+* IJulia:: [https://github.com/JuliaLang/IJulia.jl](Julia kernel and magics for IPython)
+* WeavePynb.jl:: [https://github.com/jverzani/WeavePynb.jl](Simple package to convert markdown files to IJulia notebooks)
 
 ### WIDE
 * Use [https://cloud.sagemath.com](Julia on the SageMath cloud server).

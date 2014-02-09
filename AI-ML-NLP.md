@@ -1,18 +1,18 @@
 AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 
-* [ALGORITHMS](#ALGORITHMS )
-    * [Markov models](#Markov-models)
-    * [Common Search Algorithms](#Common-Search-Algorithms)
+* [ALGORITHMS](#algorithms)
+    * [Markov Models](#markov-models)
+    * [Common Search Algorithms](#common-search-algorithms)
     * [Clustering Algorithms](#clustering-algorithms)
     * [Data Structures](#data-structures)
     * [Quantum Algorithms](#quantum-algorithms)
     * [Neural Networks](#neural-networks)
-* [Machine Learning and DataScience](#machine-learning])
+* [MACHINE LEARNING](#machine-learning])
 * [NLP](#nlp)
     
 
 # ALGORITHMS 
-## Markov models
+## Markov Models
 * Pagerank.jl:: [https://github.com/purzelrakete/Pagerank.jl](An experiment in pagerank on graphs in the order of billions of edges) - Currently tested with over half a billion edges.
 
 ## Common Search Algorithms 
@@ -51,10 +51,10 @@ AI, Algorithms, Data Mining, (Array) Data Structures, Machine Learning, NLP, ...
 * neuralnetwork.jl:: [https://github.com/tomaskrehlik/neuralnetwork.jl](is an implementation of label neural network) originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 
 
-# Machine Learning and DataScience
-* [https://github.com/bensadeghi/DecisionTree.jl](Decision Tree).
-* kNN.jl:: The [https://github.com/johnmyleswhite/kNN.jl](K-nearest neighbors) algorithm in Julia.
-* MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl](Machine Learning library package) that is an attempt to consolidate common machine learning algorithms written in pure Julia and presenting a consistent API.
+# MACHINE LEARNING
+* DecisionTree.jl:: [https://github.com/bensadeghi/DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
+* kNN.jl:: The [https://github.com/johnmyleswhite/kNN.jl](k-Nearest Neighbors) algorithm in Julia.
+* MachineLearning.jl:: is a [https://github.com/benhamner/MachineLearning.jl](Machine Learning library package) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * MDP.jl:: [https://github.com/khadiwala/MDP.jl](Markov Decision Processes) in Julia.
 * MLBase.jl:: [https://github.com/lindahua/MLBase.jl](A set of functions to support the development of machine learning algorithms).
 
