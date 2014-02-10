@@ -1,11 +1,11 @@
 Desktop and other handy utilities.
+* [DVCS](#dvcs)
+    * [GIT API](#git-api)
 * [General Utilities](#general-utilities)
     * [CLI](#cli)
     * [File Compression](#file-compression)  
     * [Desktop Document Processing](#desktop-document-processing)
     * [Document Generator](#document-generator) 
-* [DVCS](#dvcs)
-    * [GIT API](#git-api)
 * [Language API](#language-api)
     * [C++](#c++)
     * [Fortran](#fortran)
@@ -16,6 +16,12 @@ Desktop and other handy utilities.
 * [REPL](#repl)    
     * [IJulia](#ijulia)
     * [WIDE](#wide)    
+
+
+# DVCS 
+### Git API 
+* LibGit2.jl:: [https://github.com/jakebolewski/LibGit2.jl](Julia bindings to the LibGit2 library).
+* Octokit.jl:: Julia Package to [https://github.com/loladiro/Octokit.jl](access the GitHub API).
 
 
 # General Utilities 
@@ -31,13 +37,6 @@ Desktop and other handy utilities.
 ## Document Generator 
 * Judo.jl:: is a [https://github.com/dcjones/Judo.jl](Julia document generator), which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
 * HelpTestbed.jl:: [https://github.com/tshort/HelpTestbed.jl](package is for exploring options for help when you add a Julia package)- when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
-
-
-# DVCS 
-### Git API 
-* LibGit2.jl:: [https://github.com/jakebolewski/LibGit2.jl](Julia bindings to the LibGit2 library).
-* Octokit.jl:: Julia Package to [https://github.com/loladiro/Octokit.jl](access the GitHub API).
-
 
 
 # Language API's

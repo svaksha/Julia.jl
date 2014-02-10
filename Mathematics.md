@@ -36,6 +36,7 @@
 * GaussQuadrature.jl: Another package that generates the [https://github.com/billmclean/GaussQuadrature.jl](points and weights of the Gauss quadrature rules)
 * GP.jl:: [https://github.com/pschulam/GP.jl](Gaussian processes in Julia)
 * GLM:: [https://github.com/simonster/Glmnet.jl](Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet).
+* GLPKMathProgInterface.jl:: [https://github.com/JuliaOpt/GLPKMathProgInterface.jl](Interface between the GLPK.jl wrapper and MathProgBase.jl).
 * Hexagons.jl:: Useful tools for working with [https://github.com/dcjones/Hexagons.jl](hexagonal grids).
 * IterativeLinearSolvers.jl:: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * JuMP.jl: [https://github.com/IainNZ/JuMP.jl](Modelling language for Linear, Integer, and Quadratic Programming) and the [https://github.com/IainNZ/JuMPTutorial](MIT-ORC Fall-2013 JuMP tutorial)
