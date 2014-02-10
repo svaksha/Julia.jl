@@ -24,7 +24,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # (Array, Matrix, Tree) Data Structures
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl](explore a new system of array views).
-* [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+* bloom.jl:: [https://github.com/boydgreenfield/bloom.jl](Bloom filter implementation in Julia).
+* BloomFilters.jl:: [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
 * DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
 * FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl](provides the ability to use arbitrary starting indices for arrays) in Julia programming language.
