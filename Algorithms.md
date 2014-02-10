@@ -20,6 +20,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # Clustering algorithms 
 * Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl](clustering data: k-means, dp-means), etc..
+* HClust.jl:: [https://github.com/davidavdav/HClust.jl](Hierarchical Clustering) for Julia, similar to R's hclust().
 
 # (Array, Matrix, Tree) Data Structures
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl](explore a new system of array views).
@@ -37,6 +38,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * [https://github.com/davidavdav/NamedArray](NamedArray), a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 * Networks.jl:: [https://github.com/daviddelaat/Networks.jl](A library for working with Graphs) in Julia.
 * OffsetArrays.jl:: [https://github.com/alsam/OffsetArrays.jl](provides the ability to use arbitrary starting indices for arrays) in Julia.
+* PETSc.jl:: [https://github.com/stevengj/PETSc.jl](sparse-matrix interface for the Julia language).
 * RedBlackTrees.jl:: [https://github.com/pygy/RedBlackTrees.jl](A red–black self-balancing binary search tree) in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
 * TimeArrays.jl :: [https://github.com/milktrader/TimeArrays.jl](temporary repo exploring the union of SeriesPair arrays into multicolumn arrays) with similar behavior.
 * Trie.jl :: [https://github.com/JuliaLang/Trie.jl](Implementation of the trie data structure).

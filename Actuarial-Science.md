@@ -33,6 +33,7 @@ Statistics, Finance, Numerical analysis, ....
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl](generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods). 
 * MixedModels.jl:: [https://github.com/dmbates/MixedModels.jl](A Julia package for fitting (statistical) mixed-effects models).
 * NLTester:: [https://github.com/IainNZ/NLTester](Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling).
+* Nonparametric.jl:: [https://github.com/panlanfeng/Nonparametric.jl](The julia package for nonparametric density estimate and regression).
 * Rmath.jl:: [https://github.com/dmbates/Rmath.jl](Archive of functions that emulate R's d-p-q-r functions for probability distributions).
 * RDatasets.jl:: Julia package for [https://github.com/johnmyleswhite/RDatasets.jl](loading many of the data sets) available in R.
 * SGDDemo.jl:: [https://github.com/johnmyleswhite/SGDDemo.jl](Stochastic Gradient Descent (SGD) predictive models for large data sets) in Julia.
