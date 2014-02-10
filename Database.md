@@ -20,6 +20,7 @@
 * libpq.jl:: [https://github.com/iamed2/libpq.jl](A libpq interface) for Julia.
 
 ## SQLite
+* DBDSQLite.jl:: [https://github.com/JuliaDB/DBDSQLite.jl](DBI-compliant driver for SQLite3).
 * SQLite.jl:: Julia interface to the [https://github.com/karbarcca/SQLite.jl](SQLite library) with support for operations on DataFrames.
 * Sqlite3.jl:: A wrapper for the [https://github.com/PeetV/Sqlite3.jl](SQLite3 C API), to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
@@ -33,8 +34,4 @@
 
 ## Redis
 * Redis.jl:: [https://github.com/msainz/Redis.jl](Pure Julia implementation of a Redis client), largely based on redis-py.
-
-
-
-
 
