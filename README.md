@@ -5,20 +5,20 @@ Join the [http://julialang.org/community/](mailing list) or head over to [http:/
 # PAGES
 * [ActuarialSc.: Finance, economics, stochastic, insurance Statistics...](https://github.com/svaksha/julya/blob/master/Actuarial-Science.md)
 * [Algorithms: AI, DataMining, Data Structures, ML, NLP, ...](https://github.com/svaksha/julya/blob/master/Algorithms.md)
-* [API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries](https://github.com/svaksha/julya/blob/master/API.md)
 * [Benchmarks and Optimization](https://github.com/svaksha/julya/blob/master/Benchmarks-Optimization.md)
-* [Build automation, Build automation software, CI/CD, Packaging, RE/RM, SCM,...](https://github.com/svaksha/julya/blob/master/Build-Automation.md)
+* [Build automation: CI, CD, Packaging, RE/RM, SCM,...](https://github.com/svaksha/julya/blob/master/Build-Automation.md)
 * [Computer Graphics: Plotting, Graphics and Visualization tools,...](https://github.com/svaksha/julya/blob/master/Computer-Graphics.md)
-* [Cookbook](https://github.com/svaksha/julya/blob/master/Cookbook.md)
+* [Cookbooks](https://github.com/svaksha/julya/blob/master/Cookbook.md)
 * [Database](https://github.com/svaksha/julya/blob/master/Database.md)
-* [Distributed, Networking, Servers,...](https://github.com/svaksha/julya/blob/master/Distributed-Computing.md)
-* [Algebra, Geometry, Math...](https://github.com/svaksha/julya/blob/master/Mathematics.md)
+* [Distributed Computing, Networking, Servers,...](https://github.com/svaksha/julya/blob/master/Distributed-Computing.md)
+* [Math: Algebra, Geometry,...](https://github.com/svaksha/julya/blob/master/Mathematics.md)
 * [NEWS](https://github.com/svaksha/julya/blob/master/NEWS.md)
 * [Programming language concepts: data types, type system, etc..](https://github.com/svaksha/julya/blob/master/Programming-Concepts.md)
 * [QA: Test Driven Development, Functional testing,...](https://github.com/svaksha/julya/blob/master/QA.md)
 * [Science: Physics, Chemistry, Biology,..](https://github.com/svaksha/julya/blob/master/Science.md)
-* [UI / UX software](https://github.com/svaksha/julya/blob/master/UI-UX.md)
+* [UI-UX software](https://github.com/svaksha/julya/blob/master/UI-UX.md)
 * [Utilities](https://github.com/svaksha/julya/blob/master/Utilities.md)
+* [Cross-Platform Software: API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries](https://github.com/svaksha/julya/blob/master/X-Platform-SW.md)
 
 
 ### Contributing

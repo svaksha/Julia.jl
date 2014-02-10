@@ -1,5 +1,4 @@
 Desktop and other handy utilities.
-* [Audio Libs](#audiolibs)
 * [General Utilities](#general-utilities)
     * [CLI](#cli)
     * [File Compression](#file-compression)  
@@ -7,17 +6,16 @@ Desktop and other handy utilities.
     * [Document Generator](#document-generator) 
 * [DVCS](#dvcs)
     * [GIT API](#git-api)
+* [Language API](#language-api)
+    * [C++](#c++)
+    * [Fortran](#fortran)
+    * [Java](#java)
+    * [MATLAB](#matlab)
+    * [Python](#python)
+    * [R](#r)
 * [REPL](#repl)    
     * [IJulia](#ijulia)
     * [WIDE](#wide)    
-    
-
-# Audio libs
-* [https://github.com/ssfrr/AudioIO.jl AudioIO.jl] is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
-* Bebop.jl :: [https://github.com/zhemao/Bebop.jl](An audio library) for the Julia programming language.
-* OSC.jl :: [https://github.com/fundamental/OSC.jl](Open Sound Control serialization library), a port of RTOSC for Julia.
-* PortAudio.jl:: [https://github.com/ssfrr/PortAudio.jl](Julia interface API) for the [http://en.wikipedia.org/wiki/PortAudio](PortAudio) (audio) library.
-* Sound.jl:: [https://github.com/JuliaLang/Sound.jl](Reading and writing from WAV files).
 
 
 # General Utilities 
@@ -39,6 +37,31 @@ Desktop and other handy utilities.
 ### Git API 
 * LibGit2.jl:: [https://github.com/jakebolewski/LibGit2.jl](Julia bindings to the LibGit2 library).
 * Octokit.jl:: Julia Package to [https://github.com/loladiro/Octokit.jl](access the GitHub API).
+
+
+
+# Language API's
+## C++ 
+* Cpp.jl:: [https://github.com/timholy/Cpp.jl](Utilities for calling C++ from Julia).
+
+## Fortran 
+* FortranIO.jl:: [https://github.com/rephorm/FortranIO.jl](Input/Output of fortran unformatted binary files).
+* TEOS.jl :: Julia wrapper for [https://github.com/njwilson23/TEOS.jl](TEOS-10 Gibbs Seawater Oceanographic Toolbox).
+
+## Java 
+* JavaCall.jl:: [http://aviks.github.io/JavaCall.jl](is a package that lets you call Java programs from Julia). 
+
+## MATLAB
+*  MAT.jl:: [https://github.com/simonster/MAT.jl](is a Julia module for reading MATLAB) files.
+* MATLAB.jl:: [https://github.com/lindahua/MATLAB.jl] Matlab.jl] and how to [https://github.com/lindahua/MATLAB.jl#readwrite-mat-files read-write MATLAB files].
+
+## Python
+* PyCall.jl:: [https://github.com/stevengj/PyCall.jl](lets you call Python functions) from the Julia language.
+* PyJulia:: [https://github.com/jakebolewski/pyjulia](python interface to julia).
+
+## R
+* Rif.jl:: An [https://github.com/lgautier/Rif.jl](interface to the R language) and its fork, [https://github.com/tshort/julio](Julio).
+
 
 
 # REPL, Text editors 
