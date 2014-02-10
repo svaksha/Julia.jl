@@ -69,7 +69,7 @@
 * Tensors.jl:: [https://github.com/pgawron/Tensors.jl](Julia package for tensor decompositions)
 * TSne.jl:: Julia port of [https://github.com/lejon/TSne.jl](L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique). Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html](t-Distributed Stochastic Neighbor Embedding)
 * Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl](Uncertain quantities and error propagation) for the Julia language.
-
+* univariate_opt.jl:: [https://github.com/matthewclegg/univariate_opt.jl](Univariate optimization and root-finding code) for Julia and its [https://github.com/EconForge/univariate_opt.jl](newly maintained fork).
 
 ### Puzzles, problem solving games 
 * Cbc.jl:: [https://github.com/JuliaOpt/Cbc.jl](Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library)
