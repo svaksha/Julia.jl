@@ -62,6 +62,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # NLP 
 * LTSV.jl:: [https://github.com/kshramt/LTSV.jl](Labeled Tab Separated Values (LTSV) parser) in Julia.
+* Parsimonious.jl:: [https://github.com/gitfoxi/Parsimonious.jl](A PEG parser generator for Julia).
 * PyLexYacc.jl:: [https://github.com/iamed2/PyLexYacc.jl](is an interface to Python Lex-Yacc package) that uses reflection for most of its processing. 
 * [https://gist.github.com/kmsquire/7569843](Peter Norvig's spelling corrector ported to Julia), is now a part of the [https://github.com/JuliaLang/DataStructures.jl](DataStructures.jl) package.
 * Stemmers.jl:: [https://github.com/tanmaykm/Stemmers.jl](Interface for text stemmer implementations).
