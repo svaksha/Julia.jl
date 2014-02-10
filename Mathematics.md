@@ -58,6 +58,7 @@
 * Quat.jl:: [https://github.com/forio/Quat.jl](Quaternions, octonions and dual-quaternions)
 * RandomMatrices.jl :: [https://github.com/jiahao/RandomMatrices.jl](Random Matrices)
 * RAD.jl:: [https://github.com/adamkapor/RAD.jl](package defines a macro, @autodiff, for reverse-mode automatic differentiation)
+* ReverseDiffSparse.jl:: [https://github.com/mlubin/ReverseDiffSparse.jl](Hessian algorithmic differentiation to compute hessian sparsity pattern).
 * Roots.jl: [https://github.com/JuliaLang/Roots.jl](Root finding functions for Julia)
 * SortingAlgorithms.jl: [https://github.com/JuliaLang/SortingAlgorithms.jl](extra sorting algorithms extending Julia's sorting API)
 * SemiringAlgebra.jl :: [https://github.com/ViralBShah/SemiringAlgebra.jl](Semiring Algebra)
