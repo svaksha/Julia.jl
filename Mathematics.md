@@ -69,6 +69,7 @@
 * SurfaceMesh.jl:: is a [https://github.com/michelk/SurfaceMesh.jl](Finite element surface mesh manipulation library) to work with polygon-surface-meshes.
 * SymPy.jl:: [https://github.com/jverzani/SymPy.jl](Julia interface to SymPy via PyCall)
 * Tensors.jl:: [https://github.com/pgawron/Tensors.jl](Julia package for tensor decompositions)
+* ToeplitzMatrices.jl: [https://github.com/andreasnoackjensen/ToeplitzMatrices.jl](Fast matrix multiplication and division for Toeplitz matrices) in Julia.
 * TSne.jl:: Julia port of [https://github.com/lejon/TSne.jl](L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique). Read about the [http://homepage.tudelft.nl/19j49/t-SNE.html](t-Distributed Stochastic Neighbor Embedding)
 * Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl](Uncertain quantities and error propagation) for the Julia language.
 * univariate_opt.jl:: [https://github.com/matthewclegg/univariate_opt.jl](Univariate optimization and root-finding code) for Julia and its [https://github.com/EconForge/univariate_opt.jl](newly maintained fork).
