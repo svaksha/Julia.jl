@@ -1,26 +1,15 @@
 Statistics, Finance, Numerical analysis, ....
 
 * [GeoStatistics](#geostatistics)
-* [JuliaQuant](#juliaquant)
 * [Statistics](#statistics)
     * [Econometrics](#econometrics) 
-    * [Operations Research](#operationsresearch)
+    * [Operations Research](#operations-research)
+* [Valuation](#valuation)
 
 
 # GeoStatistics 
 * Krige.jl:: [https://github.com/njwilson23/Krige.jl](Kriging estimators) in Julia.
 
-# JuliaQuant
-* [Julia Quant](https://github.com/JuliaQuant) group.
-* Quandl.jl :: [https://github.com/milktrader/Quandl.jl](Julia api to Quandl open source financial, economic and social datasets).
-* Lazy.jl :: [https://github.com/one-more-minute/Lazy.jl](Functional programming) for Julia.
-* Ito.jl :: An open source [https://github.com/aviks/Ito.jl](toolkit for financial computing) in Julia.
-* TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl](Modeling the allocation of resources to markets based on the restraints of objective functions).
-* MarketTechnicals.jl :: [https://github.com/JuliaQuant/MarketTechnicals.jl](Technical analysis of financial time series) in Julia.
-* FinancialBlotter.jl :: [https://github.com/JuliaQuant/FinancialBlotter.jl](Financial Instruments and Accounting) in Julia.
-* GLM.jl :: [https://github.com/JuliaStats/GLM.jl](Linear models (LM's) and generalized linear models (GLM's)) in Julia.
-* Pandas.jl :: [https://github.com/malmaud/Pandas.jl](A Julia front-end to Python's Pandas package).
-* MCInsurance.jl:: [https://github.com/mkriele/MCInsurance.jl](This Julia package provides multi-period Monte Carlo simulations) for life insurance.
 
 # Statistics
 * Civecm.jl:: [https://github.com/andreasnoackjensen/Civecm.jl](Cointegration in Vector Error Correction Models) in Julia.
@@ -52,4 +41,19 @@ Statistics, Finance, Numerical analysis, ....
 ## Operations Research 
 * [http://iaindunning.com/2013/combination-locks.html](Solving a Combination Lock Puzzle with JuMP + Julia) and the [https://news.ycombinator.com/item?id=6425160](HackerNews thread).
 * SemidefiniteProgramming.jl:: package provides a Julia interface for [https://github.com/daviddelaat/SemidefiniteProgramming.jl](low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP).
+
+
+# Valuation (Finance)
+* [Julia Quant](https://github.com/JuliaQuant) group.
+* Quandl.jl :: [https://github.com/milktrader/Quandl.jl](Julia api to Quandl open source financial, economic and social datasets).
+* Lazy.jl :: [https://github.com/one-more-minute/Lazy.jl](Functional programming) for Julia.
+* Ito.jl :: An open source [https://github.com/aviks/Ito.jl](toolkit for financial computing) in Julia.
+* TradeModels.jl :: [https://github.com/JuliaQuant/TradeModels.jl](Modeling the allocation of resources to markets based on the restraints of objective functions).
+* MarketTechnicals.jl :: [https://github.com/JuliaQuant/MarketTechnicals.jl](Technical analysis of financial time series) in Julia.
+* FinancialBlotter.jl :: [https://github.com/JuliaQuant/FinancialBlotter.jl](Financial Instruments and Accounting) in Julia.
+* GLM.jl :: [https://github.com/JuliaStats/GLM.jl](Linear models (LM's) and generalized linear models (GLM's)) in Julia.
+* Pandas.jl :: [https://github.com/malmaud/Pandas.jl](A Julia front-end to Python's Pandas package).
+* MCInsurance.jl:: [https://github.com/mkriele/MCInsurance.jl](This Julia package provides multi-period Monte Carlo simulations) for life insurance.
+* ZVSimulator.jl:: [https://github.com/scidom/ZVSimulator.jl](The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation).
+
 
