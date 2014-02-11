@@ -6,6 +6,7 @@
 # Cryptography 
 * BlockCipherSelfStudy.jl:: [https://github.com/andrewcooke/BlockCipherSelfStudy.jl](Blocks, and RC5)
 * Nettle is a [https://github.com/staticfloat/Nettle.jl](simple wrapper around libnettle, a cryptographic library)
+* RNGTest.jl:: [https://github.com/andreasnoackjensen/RNGTest.jl](is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers).
 * Stupid.jl:: [https://github.com/andrewcooke/Stupid.jl](Analysis of an 8 bit version of the cipher) at http://news.quelsolaar.com/#comments101.
 
 
