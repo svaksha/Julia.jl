@@ -8,27 +8,27 @@ Statistics, Finance, Numerical analysis, ....
 
 
 # GeoStatistics 
-* Krige.jl:: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
+* Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
 
 
 # Statistics
-* Civecm.jl:: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
-* Distributions.jl:: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+* Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
+* Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
 * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
-* DataArrays.jl:: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
-* DiscreteInference.jl:: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
-* GeometricMCMC.jl:: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
-* HypothesisTests.jl:: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
-* KSVM.jl:: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
-* MCMC.jl:: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
-* MixedModels.jl:: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
-* NLTester:: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
-* Nonparametric.jl:: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
-* Rmath.jl:: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
-* RDatasets.jl:: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
-* SGDDemo.jl:: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
-* SmoothingKernels.jl:: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
-* StatsBase.jl:: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
+* DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
+* DiscreteInference.jl :: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
+* GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
+* HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
+* KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
+* MCMC.jl :: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
+* MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
+* NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
+* Nonparametric.jl :: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
+* Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
+* RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
+* SGDDemo.jl :: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
+* SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
+* StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
 
 
 ## Econometrics 

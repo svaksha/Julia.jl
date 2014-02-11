@@ -21,6 +21,7 @@ Libraries for Data/File formats.
 * IniFile.jl:: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
 * JSON:: [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl).
 * LibXML.jl:: [XML parsing](https://github.com/ihnorton/LibXML.jl) in Julia.
+* LightXML.jl :: [A light-weight Julia package for XML based on libxml2](https://github.com/lindahua/LightXML.jl).
 * MachO.jl:: [An implementation of the MachO file format](https://github.com/loladiro/MachO.jl).
 * NetCDF.jl:: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
 * NIfTI.jl:: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
@@ -56,7 +57,7 @@ Libraries for Data/File formats.
 
 
 
-[CAT]
-http://en.wikipedia.org/wiki/Category:Programming_language_concepts
-http://en.wikipedia.org/wiki/List_of_file_formats
+*CAT*
+  http://en.wikipedia.org/wiki/Category:Programming_language_concepts
+  http://en.wikipedia.org/wiki/List_of_file_formats
 

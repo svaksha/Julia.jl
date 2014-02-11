@@ -11,25 +11,25 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
     
 
 # Markov Models
-* Pagerank.jl:: [https://github.com/purzelrakete/Pagerank.jl](An experiment in pagerank on graphs in the order of billions of edges) - Currently tested with over half a billion edges.
+* Pagerank.jl :: [An experiment in pagerank on graphs in the order of billions of edges](https://github.com/purzelrakete/Pagerank.jl) - Currently tested with over half a billion edges.
 
 # Common Search Algorithms 
-* NearestNeighbors.jl:: [https://github.com/johnmyleswhite/NearestNeighbors.jl](Data structures for nearest neighbor search).
-* Loess.jl:: is a loess implementation based on the [https://github.com/dcjones/Loess.jl](fast kd-tree based approximation algorithm), a space-partitioning data structure for organizing points in a k-dimensional space.
-* AhoCorasick.jl:: Julia implementation of the [https://github.com/gilesc/AhoCorasick.jl](Aho-Corasick algorithm for fast string searching).
+* NearestNeighbors.jl :: [Data structures for nearest neighbor search](https://github.com/johnmyleswhite/NearestNeighbors.jl).
+* Loess.jl :: is a loess implementation based on the [fast kd-tree based approximation algorithm](https://github.com/dcjones/Loess.jl), a space-partitioning data structure for organizing points in a k-dimensional space.
+* AhoCorasick.jl :: Julia implementation of the [Aho-Corasick algorithm for fast string searching](https://github.com/gilesc/AhoCorasick.jl).
 
 # Clustering algorithms 
-* Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl](clustering data: k-means, dp-means), etc..
-* HClust.jl:: [https://github.com/davidavdav/HClust.jl](Hierarchical Clustering) for Julia, similar to R's hclust().
+* Clustering.jl :: Basic functions for [clustering data: k-means, dp-means](https://github.com/johnmyleswhite/Clustering.jl), etc..
+* HClust.jl :: [Hierarchical Clustering](https://github.com/davidavdav/HClust.jl) for Julia, similar to R's hclust().
 
 # Data Structures 
 (Array, Matrix, Trees,..)
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl](explore a new system of array views).
-* bloom.jl:: [https://github.com/boydgreenfield/bloom.jl](Bloom filter implementation in Julia).
-* BloomFilters.jl:: [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
-* DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
-* DataFramesMeta.jl:: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
-* FArrayMod.jl:: [https://github.com/alsam/FArrayMod.jl](provides the ability to use arbitrary starting indices for arrays) in Julia programming language.
+* bloom.jl :: [https://github.com/boydgreenfield/bloom.jl](Bloom filter implementation in Julia).
+* BloomFilters.jl :: [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+* DataFramesMeta.jl :: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
+* DataFramesMeta.jl :: [https://github.com/tshort/DataFramesMeta.jl](Metaprogramming tools for DataFrames).
+* FArrayMod.jl :: [https://github.com/alsam/FArrayMod.jl](provides the ability to use arbitrary starting indices for arrays) in Julia programming language.
 * Graphs.jl:: [https://github.com/JuliaLang/Graphs.jl](Working with graph types and algorithms) in Julia. [http://julialang.org/Graphs.jl/index.html](Documentation for the Graphs.jl package).
 * Grid.jl:: [https://github.com/timholy/Grid.jl](Interpolation and related operations on grids) for the Julia language.
 * ImmutableArrays.jl:: [https://github.com/twadleigh/ImmutableArrays.jl](Statically-sized immutable vectors and matrices).
