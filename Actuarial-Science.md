@@ -17,6 +17,7 @@ Statistics, Finance, Numerical analysis, ....
 * The [http://juliastats.github.io/DataFrames.jl/io.html](DataFrames manual section on IO).
 * DataArrays.jl:: This package [https://github.com/JuliaStats/DataArrays.jl](extends Julia by introducing data structures that can contain missing data).
 * DiscreteInference.jl:: [https://github.com/lindahua/DiscreteInference.jl](Viterbi algorithm).
+* GeometricMCMC.jl:: [https://github.com/scidom/GeometricMCMC.jl](Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines).
 * HypothesisTests.jl :: [https://github.com/simonster/HypothesisTests.jl](T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics) in Julia.
 * KSVM.jl:: [https://github.com/remusao/KSVM.jl](Kernel Support Vector Machine (SVM)) written in Julia.
 * MCMC.jl:: is a [https://github.com/JuliaStats/MCMC.jl](generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods). 
