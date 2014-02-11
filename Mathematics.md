@@ -74,6 +74,7 @@
 * Uncertain.jl:: [https://github.com/rephorm/Uncertain.jl](Uncertain quantities and error propagation) for the Julia language.
 * univariate_opt.jl:: [https://github.com/matthewclegg/univariate_opt.jl](Univariate optimization and root-finding code) for Julia and its [https://github.com/EconForge/univariate_opt.jl](newly maintained fork).
 
+
 ### Puzzles, problem solving games 
 * Cbc.jl:: [https://github.com/JuliaOpt/Cbc.jl](Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library)
 * Game.jl:: is inspired by PyGame, to [https://github.com/IainNZ/Game.jl](make 2D games easy in Julia)

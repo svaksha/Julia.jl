@@ -4,8 +4,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * [Common Search Algorithms](#common-search-algorithms)
 * [Clustering Algorithms](#clustering-algorithms)
 * [Data Structures](#data-structures)
-* [MACHINE LEARNING](#machine-learning])
-* [NEURAL NETWORKS](#neural-networks)
+* [Machine Learning](#machine-learning])
+* [Neural Networks](#neural-networks)
 * [NLP](#nlp)
 * [Quantum Algorithms](#quantum-algorithms)
     
@@ -22,7 +22,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * Clustering.jl:: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl](clustering data: k-means, dp-means), etc..
 * HClust.jl:: [https://github.com/davidavdav/HClust.jl](Hierarchical Clustering) for Julia, similar to R's hclust().
 
-# (Array, Matrix, Tree) Data Structures
+# Data Structures 
+(Array, Matrix, Trees,..)
 * ArrayViews.jl :: A Julia package to [https://github.com/lindahua/ArrayViews.jl](explore a new system of array views).
 * bloom.jl:: [https://github.com/boydgreenfield/bloom.jl](Bloom filter implementation in Julia).
 * BloomFilters.jl:: [https://github.com/johnmyleswhite/BloomFilters.jl](Bloom filters) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
