@@ -1,19 +1,19 @@
-* [Cryptography ](#cryptography)
+* [Cryptography](#cryptography)
 * [DSP: Digital Signal Processing](#dsp)
 * [MATH ](#math)
     * [Puzzles](#puzzles)
 
 # Cryptography 
-* BlockCipherSelfStudy.jl:: [https://github.com/andrewcooke/BlockCipherSelfStudy.jl](Blocks, and RC5)
-* Nettle is a [https://github.com/staticfloat/Nettle.jl](simple wrapper around libnettle, a cryptographic library)
-* RNGTest.jl:: [https://github.com/andreasnoackjensen/RNGTest.jl](is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers).
-* Stupid.jl:: [https://github.com/andrewcooke/Stupid.jl](Analysis of an 8 bit version of the cipher) at http://news.quelsolaar.com/#comments101.
+* BlockCipherSelfStudy.jl:: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* Nettle is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
+* RNGTest.jl:: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
+* Stupid.jl:: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
 
 
 # DSP: Digital Signal Processing 
-* DSP.jl:: The [https://github.com/JuliaDSP/DSP.jl](DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering), works on Julia 0.2 and 0.3-prerelease. The [http://dspjl.readthedocs.org/en/latest/](documentation is available via RTD.org)
-* KDSP.jl:: [https://github.com/kofron/KDSP.jl](is yet another implementation of common DSP routines) in Julia.
-* NFFT.jl:: [https://github.com/tknopp/NFFT.jl](Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform).
+* DSP.jl:: The [DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering](https://github.com/JuliaDSP/DSP.jl), works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
+* KDSP.jl:: [is yet another implementation of common DSP routines](https://github.com/kofron/KDSP.jl) in Julia.
+* NFFT.jl:: [Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform](https://github.com/tknopp/NFFT.jl).
 
 
 # MATH 
