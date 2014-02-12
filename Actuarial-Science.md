@@ -13,6 +13,7 @@
 
 # Statistics
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
+* ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
 * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 * DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
