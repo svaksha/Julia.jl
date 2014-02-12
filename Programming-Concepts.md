@@ -15,6 +15,7 @@ Libraries for Data/File formats.
 * BGZF.jl :: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
 * DataFramesIO.jl :: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
 * DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
+* DICOM.jl :: [DICOM interface for the Julia language](https://github.com/ihnorton/DICOM.jl)
 * DWARF.jl :: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
 * FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
 * HDF5.jl :: [HDF5.jl](https://github.com/timholy/HDF5.jl)
