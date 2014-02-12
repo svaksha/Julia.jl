@@ -25,6 +25,7 @@ Bioinformatics, Biotech, Genetics, ....
 * Pagel.jl :: can [detect correlated evolution on phylogenies](https://github.com/porterjamesj/Pagel.jl)
 * SpikeSorter.jl :: [Spike sorting tool for experimental neuroscientists](https://github.com/grero/SpikeSorter.jl)
 * smoothlife-jl :: [is an implementation of the SmoothLife algorithm](https://github.com/jamak/smoothlife-jl) in Julia.
+* SeqUtils.jl :: [Seqencing analysis Utilities for Julia](https://github.com/nlhepler/SeqUtils.jl)
 
 
 # CHEMISTRY
