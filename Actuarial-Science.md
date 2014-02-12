@@ -28,6 +28,7 @@
 * Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
 * SGDDemo.jl :: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
+* SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
 
