@@ -27,23 +27,24 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/tshort/DataFramesMeta.jl).
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/tshort/DataFramesMeta.jl).
-* [https://github.com/kk49/julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
 * FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
 * Graphs.jl :: [Working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. [Documentation for the Graphs.jl package](http://julialang.org/Graphs.jl/index.html).
 * Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl) for the Julia language.
 * ImmutableArrays.jl:: [Statically-sized immutable vectors and matrices](https://github.com/twadleigh/ImmutableArrays.jl).
 * InverseService:: [Matrix Inverse](https://github.com/IainNZ/InverseService) as a Service.
 * JSparse.jl :: [A Julia implementation of functions in the CSparse and CXSparse libraries](https://github.com/dmbates/JSparse.jl) developed by Tim Davis. 
+* julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
 * LDA.jl:: [Linear Discriminant Analysis and Kernel Fisher Analysis](https://github.com/remusao/LDA.jl).
 * Named.jl:: [Julia named index and named vector types](https://github.com/HarlanH/Named.jl).
 * NamedArray :: is a [Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes](https://github.com/davidavdav/NamedArray).
 * Networks.jl :: [A library for working with Graphs](https://github.com/daviddelaat/Networks.jl) in Julia.
 * OffsetArrays.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/OffsetArrays.jl) in Julia.
+* ParallelSparseMatMul.jl :: [A Julia library for parallel sparse matrix multiplication](https://github.com/madeleineudell/ParallelSparseMatMul.jl) using shared memory.
 * PETSc.jl :: [sparse-matrix interface for the Julia language](https://github.com/stevengj/PETSc.jl).
 * RedBlackTrees.jl :: [A red–black self-balancing binary search tree](https://github.com/pygy/RedBlackTrees.jl) in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
+* Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 * TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
 * Trie.jl :: [Implementation of the trie data structure](https://github.com/JuliaLang/Trie.jl).
-* Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 
 
 # MACHINE LEARNING

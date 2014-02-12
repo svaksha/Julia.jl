@@ -1,4 +1,4 @@
-[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [deciban's](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources. 
+[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources. 
 
 It is mirrored on BB: [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
 
