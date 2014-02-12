@@ -8,6 +8,7 @@
 # ASTRONOMY 
 * Astrodynamics.jl :: [An astrodynamics library](https://github.com/helgee/Astrodynamics.jl) in Julia.
 * Cosmology.jl :: [Cosmology calculator](https://github.com/nolta/Cosmology.jl) for Julia.
+* DustExtinction.jl :: [Models for the interstellar extinction due to dust](https://github.com/kbarbary/DustExtinction.jl).
 * JPLEphemeris.jl :: [The JPL Development Ephemerides](https://github.com/helgee/JPLEphemeris.jl) are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 
 

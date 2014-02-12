@@ -11,7 +11,7 @@
 
 
 # Data Formats
-Libraries for Data/File formats.
+**Libraries for Data/File formats.**
 * BGZF.jl :: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
 * DataFramesIO.jl :: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
 * DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
@@ -27,6 +27,7 @@ Libraries for Data/File formats.
 * NetCDF.jl :: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
 * NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
 * NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
+* OpenSlide.jl:: [OpenSlide bindings](https://github.com/ihnorton/OpenSlide.jl) for Julia.
 * PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
 * Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
 * StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
