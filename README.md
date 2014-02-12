@@ -22,9 +22,9 @@ Join the [http://julialang.org/community/](mailing list) or head over to [#julia
 
 
 ### Contributing
-* Add your link (as per the topic, including notes (if any)) to the respective mediawiki pages listed here, then submit a [pull request (PR)](https://github.com/svaksha/julya/pulls). For broken links submit a bug report and a PR if you have a URL to replace the broken one.
+* Add your link as per the topic, with notes (if any) to the respective (.md) pages listed here, then submit a [pull request (PR)](https://github.com/svaksha/julya/pulls). For broken links submit a bug report, or replace the broken URI and send a PR.
 
-NB:: As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and reordering of the pages.
+**NB** :: As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and reordering of the pages.
 
 
 # LICENSE 
