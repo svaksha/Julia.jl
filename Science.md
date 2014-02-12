@@ -1,7 +1,8 @@
 * [ASTRONOMY](#astronomy)
 * [BIOLOGY](#biology)
-* [BIOLOGY](#biology)
 * [CHEMISTRY](#chemistry)
+* [METEOROLOGY](#meteorology)
+* [PHYSICS](#physics)
 
 
 # ASTRONOMY 
@@ -26,14 +27,20 @@ Bioinformatics, Biotech, Genetics, ....
 * smoothlife-jl :: [is an implementation of the SmoothLife algorithm](https://github.com/jamak/smoothlife-jl) in Julia.
 
 
+# CHEMISTRY
+* ChemicalKinetics.jl :: [Simulation, Bayesian inference and Bayesian model selection for chemical kinetics](https://github.com/scidom/ChemicalKinetics.jl) in Julia.
+* Qlab.jl :: is a [data manipulation and analysis tool based on the Savitzky–Golay filter](https://github.com/blakejohnson/Qlab.jl) - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the "Analytical Chemistry" journal.
+* Synchrony.jl :: [Coherence/phase-locking statistics](https://github.com/simonster/Synchrony.jl) in Julia.
+
+
+# METEOROLOGY
+* Scriabin.jl :: [Radiative transfer in Julia](https://github.com/jsbj/Scriabin.jl)
+
+
 # PHYSICS 
 * Codata.jl :: https://github.com/kofron/Codata.jl
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
 * Sparrow.jl :: [Visual Psychophysics package](https://github.com/rennis250/Sparrow.jl) for Julia.
 
 
-# CHEMISTRY
-* ChemicalKinetics.jl :: [Simulation, Bayesian inference and Bayesian model selection for chemical kinetics](https://github.com/scidom/ChemicalKinetics.jl) in Julia.
-* Qlab.jl :: is a [data manipulation and analysis tool based on the Savitzky–Golay filter](https://github.com/blakejohnson/Qlab.jl) - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the "Analytical Chemistry" journal.
-* Synchrony.jl :: [Coherence/phase-locking statistics](https://github.com/simonster/Synchrony.jl) in Julia.
 

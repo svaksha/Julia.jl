@@ -1,4 +1,6 @@
-Desktop and other handy utilities.
+*Desktop and other handy utilities*
+
+* [DOCUMENTATION](#documentation)
 * [DVCS](#dvcs)
     * [GIT API](#git-api)
 * [General Utilities](#general-utilities)
@@ -16,6 +18,11 @@ Desktop and other handy utilities.
 * [REPL](#repl)    
     * [IJulia](#ijulia)
     * [WIDE](#wide)    
+
+
+# DOCUMENTATION
+* [Julia Documentation README](https://github.com/JuliaLang/julia/blob/master/doc/README.md)
+* Roxygen.jl :: [A Roxygen-like documentation package for automatically generating documentation from Julia source files](https://github.com/johnmyleswhite/Roxygen.jl).
 
 
 # DVCS 

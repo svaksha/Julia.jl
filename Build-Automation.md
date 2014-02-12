@@ -1,15 +1,9 @@
 *Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...*
 
-* [DOCUMENTATION](#documentation)
 * [INSTALL](#install)
 * [PACKAGING](#packaging)
 * [BUILD AUTOMATION](#build-automation)
 * [CI](#ci)
-
-
-
-# DOCUMENTATION
-* Roxygen.jl:: [A Roxygen-like documentation package for automatically generating documentation from Julia source files](https://github.com/johnmyleswhite/Roxygen.jl).
 
 
 # INSTALL 
