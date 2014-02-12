@@ -1,4 +1,6 @@
-[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated bits and bytes of [Julia](https://github.com/JuliaLang) language learning resources, API's, libraries, packages, blog links, howto's, etc... and it is mirrored on BB: [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
+[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [deciban's](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources. 
+
+It is mirrored on BB: [https://bitbucket.org/svaksha/julya](https://bitbucket.org/svaksha/julya).
 
 Join the [http://julialang.org/community/](mailing list) or head over to [http://webchat.freenode.net/?channels=julia](#julia at irc.freenode.net) for a live chat.
 
