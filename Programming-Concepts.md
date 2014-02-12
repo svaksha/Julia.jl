@@ -7,43 +7,43 @@
 
 
 # Control Flow
-* DOCS: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
+* *DOCS* : Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
 
 
 # Data Formats
 Libraries for Data/File formats.
-* BGZF.jl:: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
-* DF:: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
-* DataRead.jl:: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
-* DWARF:: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
-* FastaIO.jl:: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
-* HDF:: [HDF5.jl](https://github.com/timholy/HDF5.jl)
-* IniFile.jl:: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
-* JSON:: [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl).
-* LibXML.jl:: [XML parsing](https://github.com/ihnorton/LibXML.jl) in Julia.
+* BGZF.jl :: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
+* DataFramesIO.jl :: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
+* DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
+* DWARF.jl :: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
+* FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
+* HDF5.jl :: [HDF5.jl](https://github.com/timholy/HDF5.jl)
+* IniFile.jl :: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
+* JSON.jl :: [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl).
+* LibXML.jl :: [XML parsing](https://github.com/ihnorton/LibXML.jl) in Julia.
 * LightXML.jl :: [A light-weight Julia package for XML based on libxml2](https://github.com/lindahua/LightXML.jl).
-* MachO.jl:: [An implementation of the MachO file format](https://github.com/loladiro/MachO.jl).
-* NetCDF.jl:: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
-* NIfTI.jl:: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
-* NPZ.jl:: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
-* PLX.jl:: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
-* Shapefile.jl:: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
-* StrPack.jl:: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+* MachO.jl :: [An implementation of the MachO file format](https://github.com/loladiro/MachO.jl).
+* NetCDF.jl :: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
+* NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
+* NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
+* PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
+* Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
+* StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 
 
 # Data Types
-* ASCIIByte.jl:: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
-* Codecs.jl:: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
-* frange:: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
-* ICU.jl:: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
-* TypeCheck.jl:: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
-* UnicodeExtras.jl:: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
-* Units.jl:: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
-* UTF16.jl:: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
+* ASCIIByte.jl :: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
+* Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
+* frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
+* ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
+* TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
+* UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
+* Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
+* UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
 
 # Functional Programming 
-* Monads.jl:: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. DOCS:: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
-* FunctionalUtils.jl:: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
+* Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. DOCS:: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
+* FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 
 
 # Meta Programming
@@ -51,9 +51,7 @@ Libraries for Data/File formats.
 
 
 # Style Guidelines 
-* Style.jl:: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
-
-
+* Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
 
 
 

@@ -1,4 +1,4 @@
-Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...
+*Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...*
 
 * [DOCUMENTATION](#documentation)
 * [INSTALL](#install)
@@ -9,36 +9,34 @@ Build automation software, continuous integration (CI), continuous delivery (CD)
 
 
 # DOCUMENTATION
-* Roxygen.jl:: [https://github.com/johnmyleswhite/Roxygen.jl](A Roxygen-like documentation package for automatically generating documentation from Julia source files).
+* Roxygen.jl:: [A Roxygen-like documentation package for automatically generating documentation from Julia source files](https://github.com/johnmyleswhite/Roxygen.jl).
 
 
 # INSTALL 
-* [http://julialang.org/downloads/](Download and install Julia on various Operating Systems)
-* List of [http://docs.julialang.org/en/latest/manual/modules/](Julia Modules).
-* [http://docs.julialang.org/en/latest/stdlib/](The Julia Standard Library)
-* Julia [https://github.com/JuliaLang/julia/tree/master/examples](Sample programs)
+* [Download and install Julia on various Operating Systems](http://julialang.org/downloads/)
+* List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
+* [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
+* Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples)
 
 
 # PACKAGING
-* Official [http://docs.julialang.org/en/latest/packages/packagelist/](Julia Package list).
-* METADATA.jl: The [https://github.com/JuliaLang/METADATA.jl](official set of Julia packages)
-* DOCS: The [http://docs.julialang.org/en/latest/manual/packages/](Julia package manager manual)
-* Julep:: A [https://gist.github.com/IainNZ/6086173](Julep for package requirements and quality standards).
-* PackageEvaluator.jl:: The [https://github.com/IainNZ/PackageEvaluator.jl](Julia package evaluator) and the [http://iaindunning.com/PackageEval/](results).
-* WinRPM.jl :: [https://github.com/JuliaLang/WinRPM.jl](RPM-md processing library) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
+* Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
+* METADATA.jl: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
+* DOCS: The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+* Julep:: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
+* PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
+* WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 
 # BUILD AUTOMATION
-* Jake.jl :: [https://github.com/nolta/Jake.jl](Rake for Julia).
-* Juke.jl:: [https://github.com/kshramt/Juke.jl](`make` in Julia).
-* MatlabCluster.jl:: [https://github.com/simonster/MatlabCluster.jl](Julia cluster manager for Matlab Job Scheduler)
+* Jake.jl :: [Rake for Julia](https://github.com/nolta/Jake.jl).
+* Juke.jl:: [`make` in Julia](https://github.com/kshramt/Juke.jl).
+* MatlabCluster.jl:: [Julia cluster manager for Matlab Job Scheduler](https://github.com/simonster/MatlabCluster.jl)
 * OpenStack.jl:: [https://github.com/loladiro/OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
-* SimJulia.jl:: [https://github.com/BenLauwens/SimJulia.jl](a process-oriented simulation library) written in Julia.
+* SimJulia.jl:: [a process-oriented simulation library](https://github.com/BenLauwens/SimJulia.jl) written in Julia.
 
 
 # CI 
-* [https://github.com/julia-ci](Julia-CI group) on Github.
-* Merge your Julia code with mainline to test it on a [https://travis-ci.org/JuliaLang/](Travis-CI build server).
-
-
+* [Julia-CI group](https://github.com/julia-ci) on Github.
+* Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
 

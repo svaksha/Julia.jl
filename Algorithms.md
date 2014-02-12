@@ -22,7 +22,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # Data Structures 
 (Arrays, Matrix, Trees,..)
-* ArrayViews.jl :: A Julia package to (https://github.com/lindahua/ArrayViews.jl)[explore a new system of array views].
+* ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/tshort/DataFramesMeta.jl).
@@ -54,8 +54,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
 
 ## Clustering algorithms 
-* Clustering.jl :: Basic functions for [https://github.com/johnmyleswhite/Clustering.jl](clustering data: k-means, dp-means), etc..
-* HClust.jl :: [https://github.com/davidavdav/HClust.jl](Hierarchical Clustering) for Julia, similar to R's hclust().
+* Clustering.jl :: Basic functions for [clustering data: k-means, dp-means](https://github.com/johnmyleswhite/Clustering.jl), etc..
+* HClust.jl :: [Hierarchical Clustering](https://github.com/davidavdav/HClust.jl) for Julia, similar to R's hclust().
 * NMF.jl :: [A Julia package for non-negative matrix factorization (NMF)](https://github.com/lindahua/NMF.jl).
 
 

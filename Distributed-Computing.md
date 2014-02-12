@@ -9,42 +9,42 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 
 # DISTRIBUTED
 (Cloud/ Cluster) 
-* AWS.jl:: [https://github.com/amitmurthy/AWS.jl](supports the EC2 and S3 API's, letting you start / stop EC2 instances dynamically)
-* LCJC.jl:: [https://github.com/amitmurthy/LCJC.jl](Loosely Coupled Julia Clusters)
+* AWS.jl :: [supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically](https://github.com/amitmurthy/AWS.jl)
+* LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
 
 # PARALLEL
-* PTools.jl:: [https://github.com/amitmurthy/PTools.jl](A collection of utilities for parallel computing in Julia)
-* DOCS: [http://docs.julialang.org/en/latest/manual/parallel-computing/](Parallel Computing)
-* [http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing](How to use AWS EC2 machines via addprocs for parallel computing].
+* PTools.jl :: [A collection of utilities for parallel computing in Julia](https://github.com/amitmurthy/PTools.jl)
+*DOCS*
+* [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
+* [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 
 
 # GIS 
-* GeoIP.jl:: is a Julia package that can estimate the [https://github.com/johnmyleswhite/GeoIP.jl](geographic location of IP addresses).
+* GeoIP.jl :: is a Julia package that can estimate the [geographic location of IP addresses](https://github.com/johnmyleswhite/GeoIP.jl).
 
 
 # HTTP 
-* LibCURL.jl :: A thin [https://github.com/amitmurthy/LibCURL.jl wrapper of libCURL] in Julia.
-* [https://github.com/mneudert/Laurence.jl Laurence.jl]
-* [https://github.com/mneudert/Romeo.jl https://github.com/mneudert/Romeo.jl]
-* Requests.jl:: [https://github.com/loladiro/Requests.jl Http client written in julia (depends on joyent/http-parser) for HTTP parsing]. 
-* SimJulia.jl:: https://github.com/BenLauwens/SimJulia.jl is a combined continuous time / discrete event process oriented simulation framework] written in Julia inspired by the Simula library DISCO and the Python library SimPy.
-* UAParser.jl:: A package to [https://github.com/randyzwitch/UAParser.jl](parse user-agent strings) in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
-* URIParser.jl: is a [https://github.com/loladiro/URIParser.jl URI parser] implemented in Julia.
-* WWWClient.jl: is a [https://github.com/loladiro/WWWClient.jl  HTTP client] written in julia (depends on joyent/http-parser) for HTTP parsing. 
-* ZMQ.jl:: [https://github.com/JuliaLang/ZMQ.jl](Julia interface to ZeroMQ)
-* WEBSTACK: The [http://juliawebstack.org Julia Webstack] is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon:
-   * HttpServer.jl :: [https://github.com/JuliaLang/HttpServer.jl a basic, non-blocking HTTP server] in Julia.
-   * Meddle.jl :: is the [https://github.com/JuliaLang/Meddle.jl middleware stack for use with HttpServer.jl].
-   * Morsel.jl:: is a Sintra-like [https://github.com/JuliaLang/Morsel.jl micro framework for declaring routes and handling requests], built over HttpServer.jl and Meddle.jl.
-   * HttpCommon.jl :: [https://github.com/JuliaLang/HttpCommon.jl Provides types and helper functions for dealing with the HTTP protocol] in Julia.
-   * HttpParser.jl :: [https://github.com/JuliaLang/HttpParser.jl Julia wrapper for Joyent's http-parser].
-   * WebSockets.jl:: [https://github.com/JuliaLang/WebSockets.jl A WebSockets server library] for Julia.
-   * DOCS: [http://blog.leahhanson.us/using-tcp-sockets-in-julia.html](TCP Sockets documentation for webstack.jl)
+* Laurence.jl :: https://github.com/mneudert/Laurence.jl
+* LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
+* Requests.jl:: [Http client written in julia (depends on joyent/http-parser) for HTTP parsing](https://github.com/loladiro/Requests.jl). 
+* Romeo.jl :: https://github.com/mneudert/Romeo.jl
+* SimJulia.jl:: [ is a combined continuous time / discrete event process oriented simulation framework](https://github.com/BenLauwens/SimJulia.jl) written in Julia inspired by the Simula library DISCO and the Python library SimPy.
+* UAParser.jl:: A package to [parse user-agent strings](https://github.com/randyzwitch/UAParser.jl) in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
+* URIParser.jl: is a [URI parser](https://github.com/loladiro/URIParser.jl) implemented in Julia.
+* WWWClient.jl: is a [HTTP client](https://github.com/loladiro/WWWClient.jl) written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
+* ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
+* WEBSTACK :: The [Julia Webstack](http://juliawebstack.org) is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon...
+   * *DOCS* :: [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
+   * HttpServer.jl :: [a basic, non-blocking HTTP server](https://github.com/JuliaLang/HttpServer.jl) in Julia.
+   * Meddle.jl :: is the [ middleware stack for use with HttpServer.jl](https://github.com/JuliaLang/Meddle.jl).
+   * Morsel.jl :: is a Sintra-like [micro framework for declaring routes and handling requests](https://github.com/JuliaLang/Morsel.jl), built over HttpServer.jl and Meddle.jl.
+   * HttpCommon.jl :: [Provides types and helper functions for dealing with the HTTP protocol]](https://github.com/JuliaLang/HttpCommon.jl) in Julia.
+   * HttpParser.jl :: [Julia wrapper for Joyent's http-parser]](https://github.com/JuliaLang/HttpParser.jl).
+   * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
+
 
 
 # NETWORKING
-* GnuTLS.jl:: [https://github.com/loladiro/GnuTLS.jl](Transport Level Security for Julia Streams provided by GnuTLS).
-* Juliaflow:: [https://github.com/pchronz/juliaflow](is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0]
-* SMTPClient.jl:: An [https://github.com/aviks/SMTPClient.jl SMTP client to send emails] from Julia.
-
-
+* GnuTLS.jl :: [Transport Level Security for Julia Streams provided by GnuTLS](https://github.com/loladiro/GnuTLS.jl).
+* Juliaflow :: [is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0](https://github.com/pchronz/juliaflow)
+* SMTPClient.jl :: An [SMTP client to send emails](https://github.com/aviks/SMTPClient.jl) from Julia.
