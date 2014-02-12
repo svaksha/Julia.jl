@@ -1,4 +1,4 @@
-Statistics, Finance, Numerical analysis, ....
+*Statistics, Finance, Numerical analysis, ....*
 
 * [GeoStatistics](#geostatistics)
 * [Statistics](#statistics)
@@ -41,6 +41,7 @@ Statistics, Finance, Numerical analysis, ....
 
 ## Operations Research 
 * [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
+* jlSimplex :: [Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia](https://github.com/mlubin/jlSimplex).
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
 
 
