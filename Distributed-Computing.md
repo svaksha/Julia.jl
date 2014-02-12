@@ -10,6 +10,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 # DISTRIBUTED
 (Cloud/ Cluster) 
 * AWS.jl :: [supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically](https://github.com/amitmurthy/AWS.jl)
+* ClusterManagers.jl :: [Support for different clustering technologies](https://github.com/nlhepler/ClusterManagers.jl)
 * LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
 
 # PARALLEL
