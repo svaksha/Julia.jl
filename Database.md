@@ -6,7 +6,7 @@
 * [RDBMS](#rdbms)
    * [MySQL](#mysql)
    * [PostgreSQL](#postgresql)
-   * [SQLite](sqlite)
+   * [SQLite](#sqlite)
    
 
 * JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
