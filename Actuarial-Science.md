@@ -47,17 +47,19 @@
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
 
 
-# Valuation (Finance)
+# Valuation 
+**(Finance)**
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
-* Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
-* Lazy.jl:: [Functional programming](https://github.com/one-more-minute/Lazy.jl) for Julia.
-* Ito.jl:: An open source [toolkit for financial computing](https://github.com/aviks/Ito.jl) in Julia.
-* TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
-* MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
+* AssetMgmt.jl :: [Asset Management](https://github.com/cgroll/AssetMgmt.jl)
 * FinancialBlotter.jl:: [Financial Instruments and Accounting](https://github.com/JuliaQuant/FinancialBlotter.jl) in Julia.
 * GLM.jl:: [Linear models (LM's) and generalized linear models (GLM's)](https://github.com/JuliaStats/GLM.jl) in Julia.
-* Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
+* Ito.jl:: An open source [toolkit for financial computing](https://github.com/aviks/Ito.jl) in Julia.
+* Lazy.jl:: [Functional programming](https://github.com/one-more-minute/Lazy.jl) for Julia.
+* MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
 * MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
+* Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
+* Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
+* TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
 * ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
 
 
