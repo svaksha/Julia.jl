@@ -18,6 +18,7 @@
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
+* SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
 
 
