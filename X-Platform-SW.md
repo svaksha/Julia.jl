@@ -12,7 +12,8 @@
 * OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
 ## Compilers
-* Clang.jl:: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
+* Clang.jl :: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
+* Eglib.jl :: [Clang.jl wrapping example](https://github.com/ihnorton/Eglib.jl), C code from @kindlmann.
 * JITTools.jl :: [Tools for working with in-memory object](https://github.com/loladiro/JITTools.jl). 
 
 ## Hardware
