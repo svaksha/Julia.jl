@@ -28,7 +28,7 @@
 * CRF.jl :: [Conditional Random Fields](https://github.com/slyrz/CRF.jl) in Julia.
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
 * Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
-* DOCS :: [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
+* *DOCS* :: [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
 * DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
 * Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
@@ -40,7 +40,9 @@
 * GLPKMathProgInterface.jl :: [Interface between the GLPK.jl wrapper and MathProgBase.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl).
 * Hexagons.jl :: Useful tools for working with [hexagonal grids](https://github.com/dcjones/Hexagons.jl).
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
-* JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) and the [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
+* JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
+  * *DOCS*
+  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
 * KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).
@@ -68,6 +70,7 @@
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
 * SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
 * Sobol.jl :: is a [generation of Sobol low-discrepancy sequence (LDS) implementation](https://github.com/stevengj/Sobol.jl), that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+* Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 * SurfaceMesh.jl :: is a [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl) to work with polygon-surface-meshes.
 * SymPy.jl :: [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)
@@ -82,4 +85,6 @@
 * Game.jl:: is inspired by PyGame, to [make 2D games easy in Julia](https://github.com/IainNZ/Game.jl)
 * sudoku.jl:: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
+
+
 

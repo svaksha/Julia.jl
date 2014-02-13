@@ -1,4 +1,4 @@
-All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...
+**All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...**
 
 * [Books](#books)
 * [Blogs](#blogs)
@@ -6,6 +6,7 @@ All the random stuff that does not have its own topic page goes here under vario
 * [ControlFlow](#controlflow)
 * [Cookbooks](#cookbooks)
 * [IJulia](#ijulia)
+
 
 
 # Books
@@ -52,6 +53,4 @@ All the random stuff that does not have its own topic page goes here under vario
 * [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 * [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
 
-# Repositories
-* ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
 
