@@ -31,7 +31,7 @@
 * SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
-
+* RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
 
 ## Econometrics 
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
