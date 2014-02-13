@@ -53,6 +53,7 @@
 * NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
 * NLsolve.jl :: [Julia solvers for systems of nonlinear equations](https://github.com/EconForge/NLsolve.jl)
 * NumericalShadow.jl:: Library to calculate [numerical shadows](https://github.com/pgawron/NumericalShadow.jl) in Julia language.
+* ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
 * ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * PowerSeries.jl :: [Truncated Power Series](https://github.com/jwmerrill/PowerSeries.jl) for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
