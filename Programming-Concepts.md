@@ -7,7 +7,9 @@
 
 
 # Control Flow
-* *DOCS* : Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
+*DOCS* 
+   * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
+* Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
 
 
 # Data Formats
