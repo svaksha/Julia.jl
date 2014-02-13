@@ -1,4 +1,4 @@
-*Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...*
+**Build automation software, continuous integration (CI), continuous delivery (CD), Packaging, Release engineering/ management tools, Software configuration management (SCM) software...**
 
 * [INSTALL](#install)
 * [PACKAGING](#packaging)
@@ -19,6 +19,7 @@
 * DOCS: The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
 * Julep:: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
 * PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
+* RPMmd.jl :: [RPM-md processing library](https://github.com/ihnorton/RPMmd.jl) - This is a front-end installer for RPM-md packages.
 * WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 
