@@ -14,10 +14,12 @@
 
 
 # PACKAGING
-* Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-* METADATA.jl: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
-* DOCS: The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
-* Julep:: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
+*DOCS* 
+   * The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+   * Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
+* METADATA.jl :: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
+* Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
+* jpm :: [Julia package manager](https://github.com/dirk/jpm)
 * PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
 * RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
 * WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
