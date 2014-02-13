@@ -50,8 +50,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 # MACHINE LEARNING
 * DecisionTree.jl :: [https://github.com/bensadeghi/DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
 * kNN.jl :: The [k-Nearest Neighbors](https://github.com/johnmyleswhite/kNN.jl) algorithm in Julia.
-* LIBSVM.jl :: [Julia bindings for LIBSVM](https://github.com/simonster/LIBSVM.jl)
-* MachineLearning.jl:: is a [Machine Learning library package](https://github.com/benhamner/MachineLearning.jl) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
+* MachineLearning.jl :: is a [Machine Learning library package](https://github.com/benhamner/MachineLearning.jl) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * MDP.jl :: [Markov Decision Processes](https://github.com/khadiwala/MDP.jl) in Julia.
 * MLBase.jl :: [A set of functions to support the development of machine learning algorithms](https://github.com/lindahua/MLBase.jl).
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.

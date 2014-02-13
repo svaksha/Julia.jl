@@ -21,17 +21,20 @@
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
 * KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
+* LIBSVM.jl :: [Julia bindings for LIBSVM](https://github.com/simonster/LIBSVM.jl)
 * MCMC.jl :: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
 * MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
 * NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
 * Nonparametric.jl :: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
 * Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
+* RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
 * SGDDemo.jl :: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
 * SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
-* RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
+* SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
+
 
 ## Econometrics 
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
