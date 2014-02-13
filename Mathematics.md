@@ -6,8 +6,10 @@
 # Cryptography 
 * BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
 * Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
+* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
 * RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
 * Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
+
 
 
 # DSP - Digital Signal Processing 
