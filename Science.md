@@ -42,7 +42,7 @@ Bioinformatics, Biotech, Genetics, ....
 # PHYSICS 
 * Codata.jl :: https://github.com/kofron/Codata.jl
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
+* Quantities.jl :: [Dimensions and Quantities](https://github.com/ElOceanografo/Quantities.jl)
 * Sparrow.jl :: [Visual Psychophysics package](https://github.com/rennis250/Sparrow.jl) for Julia.
-
 
 
