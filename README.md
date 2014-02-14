@@ -1,4 +1,4 @@
-[http://svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources, [mirrored at BB](https://bitbucket.org/svaksha/julya).
+[svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources, [mirrored at BB](https://bitbucket.org/svaksha/julya).
 
 Join the [http://julialang.org/community/](mailing list) or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
 
@@ -22,9 +22,12 @@ Join the [http://julialang.org/community/](mailing list) or head over to [#julia
 
 
 ### Contributing
-* Add your link as per the topic, with notes (if any) to the respective (.md) pages listed here, then submit a [pull request (PR)](https://github.com/svaksha/julya/pulls). For broken links submit a bug report, or replace the broken URI and send a PR.
+Some tips for submitting a [pull request (PR)](https://github.com/svaksha/julya/pulls):
+* Add your link as per the topic, with notes (if any) to the respective (.md) pages in the repo.
+* For broken links submit a bug report, or replace the broken URI, then submit a PR.
+* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *DOC*, else use the Cookbook.md page.
 
-**NB** :: As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and reordering of the pages.
+**NB** :: As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering.
 
 
 # LICENSE 

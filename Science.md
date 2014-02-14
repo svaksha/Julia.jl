@@ -44,5 +44,5 @@
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
 * Quantities.jl :: [Dimensions and Quantities](https://github.com/ElOceanografo/Quantities.jl)
 * Sparrow.jl :: [Visual Psychophysics package](https://github.com/rennis250/Sparrow.jl) for Julia.
-
+* ROOT.jl :: [A toy experiment interfacing ROOT and Julia through FWLite](https://github.com/jpata/ROOT.jl). [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 
