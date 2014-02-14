@@ -14,6 +14,7 @@
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
 * Ccv.jl:: (https://github.com/dhotson/Ccv.jl)[Julia bindings for libccv's SIFT image feature detection].
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
+* Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
