@@ -13,7 +13,7 @@
 
 
 # BIOLOGY 
-Bioinformatics, Biotech, Genetics, ....
+**Bioinformatics, Biotech, Genetics, ....**
 * BioJulia on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
 * JuliaBio on github :: [https://github.com/JuliaBio](https://github.com/JuliaBio). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/#!forum/julia-bio
 * Bio.jl :: [Bioinformatics and Computational Biology Infrastructure](https://github.com/BioJulia/Bio.jl) for Julia.

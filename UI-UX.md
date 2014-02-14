@@ -2,6 +2,7 @@
 
 * [GeSHI](#geshi)
 * [GUI](#gui)
+   * [GTK]#gtk)
 * [JAVASCRIPT](#javascript)
 
 # GeSHI 
@@ -9,13 +10,18 @@
 * [Julia language file for GeSHI](https://github.com/john9631/JuliaDocs/blob/master/julia.php)
 
 # GUI 
-Widget toolkits
-* Gtk.jl:: Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
+**Widget toolkits**
 * JGUI.jl:: [Simplified interface for making GUI's](https://github.com/jverzani/JGUI.jl) in Julia.
 * JuliaTools.jl:: is a [toolkit for viewing Julia packages, modules](https://github.com/tknopp/JuliaTools.jl), etc....
 * PySide.jl:: is a [julia interface for accessing Qt via PyCall and PySide](https://github.com/jverzani/PySide.jl).
 * Tk.jl:: The Julia interface for the [Tk windowing toolkit](https://github.com/JuliaLang/Tk.jl).
 * XClipboard.jl:: are [xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays)](https://github.com/kmsquire/XClipboard.jl). 
+
+### GTK
+**GIMP Toolkit**
+* GI.jl :: [Julia bindings using libgobject-introspection](https://github.com/bfredl/GI.jl)
+* Gtk.jl:: Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
+
 
 # JAVASCRIPT
 * GoogleCharts.jl: [Julia interface to Google Chart Tools](https://github.com/jverzani/GoogleCharts.jl)
