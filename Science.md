@@ -24,10 +24,10 @@ Bioinformatics, Biotech, Genetics, ....
 * GeneticAlgorithms.jl :: is a [lightweight framework that simplifies the process of creating genetic algorithms](https://github.com/forio/GeneticAlgorithms.jl) and running them in parallel.
 * Phylogenetics.jl :: The Julia package for [analysis of evolution and phylogeny](https://github.com/Ward9250/Phylogenetics.jl)
 * Pagel.jl :: can [detect correlated evolution on phylogenies](https://github.com/porterjamesj/Pagel.jl)
+* SeqUtils.jl :: [Seqencing analysis Utilities for Julia](https://github.com/nlhepler/SeqUtils.jl)
 * SpikeSorter.jl :: [Spike sorting tool for experimental neuroscientists](https://github.com/grero/SpikeSorter.jl)
 * smoothlife-jl :: [is an implementation of the SmoothLife algorithm](https://github.com/jamak/smoothlife-jl) in Julia.
-* SeqUtils.jl :: [Seqencing analysis Utilities for Julia](https://github.com/nlhepler/SeqUtils.jl)
-
+* StatGenData.jl :: [Statistical analysis of genomic data](https://github.com/dmbates/StatGenData.jl)
 
 # CHEMISTRY
 * ChemicalKinetics.jl :: [Simulation, Bayesian inference and Bayesian model selection for chemical kinetics](https://github.com/scidom/ChemicalKinetics.jl) in Julia.
