@@ -2,6 +2,7 @@
 
 * [API](#api)
 * [GRAPHICS](#graphics) 
+   * [Games](#games)
 * [VISUALIZATION](#visualization)
     * [IJulia](#ijulia]
 
@@ -22,6 +23,9 @@
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
+
+## Games
+* Quake2.jl :: [Experimental Quake 2 map graphics engine written with Julia and modern OpenGL](https://github.com/jayschwa/Quake2.jl)
 
 
 # VISUALIZATION
@@ -44,4 +48,6 @@
 *Read other Julia users experiences with visualization and plotting*
 * Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 * Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
+
+
 
