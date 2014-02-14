@@ -35,6 +35,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * JSparse.jl :: [A Julia implementation of functions in the CSparse and CXSparse libraries](https://github.com/dmbates/JSparse.jl) developed by Tim Davis. 
 * julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
 * LDA.jl:: [Linear Discriminant Analysis and Kernel Fisher Analysis](https://github.com/remusao/LDA.jl).
+* Metis.jl :: [Julia interface to the Metis graph-partitioning algorithms](https://github.com/dmbates/Metis.jl)
 * Named.jl:: [Julia named index and named vector types](https://github.com/HarlanH/Named.jl).
 * NamedArray :: is a [Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes](https://github.com/davidavdav/NamedArray).
 * Networks.jl :: [A library for working with Graphs](https://github.com/daviddelaat/Networks.jl) in Julia.
