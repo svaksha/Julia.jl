@@ -3,6 +3,7 @@
 * [INSTALL](#install)
 * [PACKAGING](#packaging)
 * [BUILD AUTOMATION](#build-automation)
+   * [DistrOS](#distros)
 * [CI](#ci)
 
 
@@ -24,6 +25,13 @@
 * RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
 * WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
+## DistrOS
+* Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
+#### Debian (Ubuntu)
+* Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
+#### Fedora / RHEL
+* Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/) (not up to date...).
+ 
 
 # BUILD AUTOMATION
 * Jake.jl :: [Rake for Julia](https://github.com/nolta/Jake.jl).
