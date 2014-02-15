@@ -19,4 +19,4 @@
 * JuliaCMAES:: [CMA-ES port](https://github.com/Staross/JuliaCMAES) - a mix of the original minimal matlab implementation (purecmaes.m) and the full one (cmaes.m).
 * Mosek.jl :: [Interface to the Mosek solver](https://github.com/JuliaOpt/Mosek.jl) in Julia.
 * NLopt.jl :: Package to call the [NLopt nonlinear-optimization library](https://github.com/JuliaOpt/NLopt.jl) from the Julia language.
-
+* SCIP.jl :: [is an optimization software for mixed-integer programs](https://github.com/mlubin/SCIP.jl)
