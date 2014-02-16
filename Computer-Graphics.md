@@ -4,7 +4,7 @@
 * [GRAPHICS](#graphics) 
    * [Games](#games)
 * [VISUALIZATION](#visualization)
-    * [IJulia](#ijulia]
+    * [CookBooks](#cookbooks]
 
 
 # API 
@@ -46,7 +46,7 @@
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
 
-### IJulia
+### CookBooks
 *Read other Julia users experiences with visualization and plotting*
 * Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 * Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).

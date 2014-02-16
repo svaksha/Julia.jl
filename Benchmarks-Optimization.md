@@ -3,7 +3,7 @@
     
     
 # BENCHMARKS 
-* [speed.julialang.org] :: [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
+* speed :: [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
 * raytracer.jl :: [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) and other [raytracer packages](https://github.com/jakebolewski/rays).
 * Criterion.jl :: [A port of the Haskell's Criterion and Clojure's Criterium library](https://github.com/jakebolewski/Criterion.jl) to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
 * SortPerf.jl :: [Julia module to test the performance of sorting algorithms](https://github.com/kmsquire/SortPerf.jl).
