@@ -1,21 +1,19 @@
 Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, frameworks and other Web related things go here:
 
-* [DISTRIBUTED](#distributed) 
-* [PARALLEL](#parallel)
+* [DISTRIBUTED-PARALLEL](#distributed-parallel) 
 * [GIS](#gis)
 * [HTTP](#http)
 * [NETWORKING](#networking)
 
 
-# DISTRIBUTED
-(Cloud/ Cluster) 
+# DISTRIBUTED-PARALLEL
+**Cloud/ Cluster**
 * AWS.jl :: [supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically](https://github.com/amitmurthy/AWS.jl)
 * ClusterManagers.jl :: [Support for different clustering technologies](https://github.com/nlhepler/ClusterManagers.jl)
 * LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
-
-# PARALLEL
 * PTools.jl :: [A collection of utilities for parallel computing in Julia](https://github.com/amitmurthy/PTools.jl)
-*DOCS*
+
+**DOCS**
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 * [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 
@@ -40,8 +38,8 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
    * HttpServer.jl :: [a basic, non-blocking HTTP server](https://github.com/JuliaLang/HttpServer.jl) in Julia.
    * Meddle.jl :: is the [ middleware stack for use with HttpServer.jl](https://github.com/JuliaLang/Meddle.jl).
    * Morsel.jl :: is a Sintra-like [micro framework for declaring routes and handling requests](https://github.com/JuliaLang/Morsel.jl), built over HttpServer.jl and Meddle.jl.
-   * HttpCommon.jl :: [Provides types and helper functions for dealing with the HTTP protocol]](https://github.com/JuliaLang/HttpCommon.jl) in Julia.
-   * HttpParser.jl :: [Julia wrapper for Joyent's http-parser]](https://github.com/JuliaLang/HttpParser.jl).
+   * HttpCommon.jl :: [Provides types and helper functions for dealing with the HTTP protocol](https://github.com/JuliaLang/HttpCommon.jl) in Julia.
+   * HttpParser.jl :: [Julia wrapper for Joyent's http-parser](https://github.com/JuliaLang/HttpParser.jl).
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
 
