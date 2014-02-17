@@ -27,6 +27,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 # HTTP 
 * Laurence.jl :: https://github.com/mneudert/Laurence.jl
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
+* PkgGithubRepo.jl :: [Get the Github repository information for a Julia package installed in Ubuntu](https://github.com/thiruk/PkgGithubRepo.jl)
 * Requests.jl:: [Http client written in julia (depends on joyent/http-parser) for HTTP parsing](https://github.com/loladiro/Requests.jl). 
 * Romeo.jl :: https://github.com/mneudert/Romeo.jl
 * SimJulia.jl:: [ is a combined continuous time / discrete event process oriented simulation framework](https://github.com/BenLauwens/SimJulia.jl) written in Julia inspired by the Simula library DISCO and the Python library SimPy.
