@@ -41,6 +41,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * Networks.jl :: [A library for working with Graphs](https://github.com/daviddelaat/Networks.jl) in Julia.
 * OffsetArrays.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/OffsetArrays.jl) in Julia.
 * ParallelSparseMatMul.jl :: [A Julia library for parallel sparse matrix multiplication](https://github.com/madeleineudell/ParallelSparseMatMul.jl) using shared memory.
+* PDMats.jl :: [Uniform Interface for positive definite matrices of various structures](https://github.com/lindahua/PDMats.jl)
 * PETSc.jl :: [sparse-matrix interface for the Julia language](https://github.com/stevengj/PETSc.jl).
 * RedBlackTrees.jl :: [A red–black self-balancing binary search tree](https://github.com/pygy/RedBlackTrees.jl) in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
 * Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
