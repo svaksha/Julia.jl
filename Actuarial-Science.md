@@ -67,6 +67,7 @@
 * MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
 * Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
 * Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
+* SDE.jl :: [Simulation and inference for Ito processes and diffusions](https://github.com/mschauer/SDE.jl)
 * TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
 * ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
 
