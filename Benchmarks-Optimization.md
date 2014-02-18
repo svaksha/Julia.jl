@@ -1,5 +1,6 @@
 * [BENCHMARKS](#benchmarks)
-    * [Optimization](#optimization)
+   * [Optimization](#optimization)
+   * [Preprocessor](#preprocessor)    
     
     
 # BENCHMARKS 
@@ -20,3 +21,7 @@
 * Mosek.jl :: [Interface to the Mosek solver](https://github.com/JuliaOpt/Mosek.jl) in Julia.
 * NLopt.jl :: Package to call the [NLopt nonlinear-optimization library](https://github.com/JuliaOpt/NLopt.jl) from the Julia language.
 * SCIP.jl :: [is an optimization software for mixed-integer programs](https://github.com/mlubin/SCIP.jl)
+
+### Preprocessor
+* Precompiler :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
+
