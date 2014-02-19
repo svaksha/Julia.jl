@@ -2,22 +2,24 @@
 
 * [DOCUMENTATION](#documentation)
 * [DVCS](#dvcs)
-    * [GIT API](#git-api)
+   * [GIT API](#git-api)
 * [General Utilities](#general-utilities)
-    * [CLI](#cli)
-    * [File Compression](#file-compression)  
-    * [Desktop Document Processing](#desktop-document-processing)
-    * [Document Generator](#document-generator) 
+   * [CLI](#cli)
+   * [File Compression](#file-compression)  
+   * [Desktop Document Processing](#desktop-document-processing)
+   * [Document Generator](#document-generator) 
 * [Language API](#language-api)
-    * [C++](#c++)
-    * [Fortran](#fortran)
-    * [Java](#java)
-    * [MATLAB](#matlab)
-    * [Python](#python)
-    * [R](#r)
-* [REPL](#repl)    
-    * [IJulia](#ijulia)
-    * [WIDE](#wide)    
+   * [C++](#c++)
+   * [Fortran](#fortran)
+   * [Java](#java)
+   * [MATLAB](#matlab)
+   * [Python](#python)
+   * [R](#r)
+* [ENVIRONMENTS](#environments)    
+   * [IDE](#ide)
+   * [IJulia](#ijulia)
+   * [WIDE](#wide)    
+   * [Shell](#shell)
 
 
 # DOCUMENTATION
@@ -28,7 +30,7 @@
 # DVCS 
 ### Git API 
 * LibGit2.jl :: [Julia bindings to the LibGit2 library](https://github.com/jakebolewski/LibGit2.jl).
-* Octokit.jl :: Julia Package to [access the GitHub API](https://github.com/loladiro/Octokit.jl).
+* Octokit.jl :: Julia package to [access the GitHub API](https://github.com/loladiro/Octokit.jl).
 
 
 # General Utilities 
@@ -75,13 +77,13 @@
 * runr :: [Run Julia from R](http://rpubs.com/yihui/julia-knitr) using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 
 
-# REPL, Text editors 
+# ENVIRONMENTS
+**REPL shells, IDE/Text editors, IJulia, WIDE, &c..**
+### IDE
 * jEdit-julia :: A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
 * Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
-* REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
-* REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
 * Sublime-Julia :: [Sublime Syntax, Build, Snippets, and REPL](https://github.com/karbarcca/Sublime-Julia) for the Julia language.
 
 ### IJulia 
@@ -89,6 +91,10 @@
 * Hydra.jl :: [Hosted Multi-user IJulia distribution](https://github.com/loladiro/Hydra.jl).
 * IJulia.jl :: [Julia kernel and magics for IPython](https://github.com/JuliaLang/IJulia.jl)
 * WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
+
+### Shell
+* REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
+* REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
 
 ### WIDE
 * Use [Julia on the SageMath cloud server](https://cloud.sagemath.com).
