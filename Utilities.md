@@ -45,7 +45,7 @@
 
 ## Document Generator 
 * Judo.jl :: is a [Julia document generator](https://github.com/dcjones/Judo.jl), which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
-* HelpTestbed.jl :: [https://github.com/tshort/HelpTestbed.jl](package is for exploring options for help when you add a Julia package)- when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
+* HelpTestbed.jl :: [package is for exploring options for help when you add a Julia package](https://github.com/tshort/HelpTestbed.jl) - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
 * Report.jl :: [A Markdown report writer for Julia](https://github.com/sveme/Report.jl)
 
 
@@ -76,8 +76,8 @@
 
 
 # REPL, Text editors 
-* jEdit-julia :: A [https://github.com/tuckerkevin/jedit-julia](jEdit mode) for Julia.
-* JuliaStudio :: [http://forio.com/products/julia-studio/](Julia Studio by Forio.com) and [https://github.com/forio/julia-tutorials](Tutorials for Julia-Studio).
+* jEdit-julia :: A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
+* Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
 * REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
