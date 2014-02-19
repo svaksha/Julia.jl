@@ -8,6 +8,7 @@
 
 
 # API
+* ChaosCommunications.jl :: [Simulation of chaos-based communication systems in Julia](https://github.com/scidom/ChaosCommunications.jl)
 * MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
 * OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
