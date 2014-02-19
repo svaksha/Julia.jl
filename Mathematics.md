@@ -1,7 +1,8 @@
 * [Cryptography](#cryptography)
 * [DSP](#dsp)
 * [MATH ](#math)
-    * [Puzzles](#puzzles)
+   * [Numerical Analysis](#numerical-analysis)
+   * [Puzzles](#puzzles)
 
 # Cryptography 
 * BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
@@ -81,6 +82,8 @@
 * Uncertain.jl:: [Uncertain quantities and error propagation](https://github.com/rephorm/Uncertain.jl) for the Julia language.
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 
+###    * [Numerical Analysis](#numerical-analysis)
+* DOCS :: [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 
 ### Puzzles, problem solving games 
 * Cbc.jl:: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)

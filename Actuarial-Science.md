@@ -1,4 +1,4 @@
-*Statistics, Finance, Numerical analysis, ....*
+*Statistics, Finance,....*
 
 * [GeoStatistics](#geostatistics)
 * [Statistics](#statistics)
