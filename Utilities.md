@@ -34,6 +34,7 @@
 # General Utilities 
 ## CLI 
 * ArgParse.jl:: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
+* MetaTools.jl :: [Handy MetaProgramming whatnots for Julia](https://github.com/burrowsa/MetaTools.jl)
 * ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
 
 ## File compression 
