@@ -1,14 +1,14 @@
-**Hardware arch (ARM, CUDA, GPU, MIPS), API fr Compilers, other software libraries,..**
+**Hardware arch (ARM, CUDA, GPU, MIPS), API for Compilers, other software libraries,..**
 
 * [API](#api)
     * [Compilers](#compilers)
     * [Hardware](#hardware)
 * [AUDIO](#audio)
+* [DSP](#dsp)
 
 
 
 # API
-* ChaosCommunications.jl :: [Simulation of chaos-based communication systems in Julia](https://github.com/scidom/ChaosCommunications.jl)
 * MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
 * OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
@@ -34,5 +34,13 @@
 * OSC.jl :: [Open Sound Control serialization library](https://github.com/fundamental/OSC.jl), a port of RTOSC for Julia.
 * PortAudio.jl:: [Julia interface API](https://github.com/ssfrr/PortAudio.jl) for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
 * Sound.jl:: [Reading and writing from WAV files](https://github.com/JuliaLang/Sound.jl).
+
+
+# DSP 
+**Digital Signal Processing**
+* ChaosCommunications.jl :: [Simulation of chaos-based communication systems in Julia](https://github.com/scidom/ChaosCommunications.jl)
+* DSP.jl :: The [DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering](https://github.com/JuliaDSP/DSP.jl), works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
+* KDSP.jl :: [is yet another implementation of common DSP routines](https://github.com/kofron/KDSP.jl) in Julia.
+* NFFT.jl :: [Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform](https://github.com/tknopp/NFFT.jl).
 
 

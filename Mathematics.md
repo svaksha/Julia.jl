@@ -1,5 +1,4 @@
 * [Cryptography](#cryptography)
-* [DSP](#dsp)
 * [MATH ](#math)
    * [Numerical Analysis](#numerical-analysis)
    * [Puzzles](#puzzles)
@@ -10,13 +9,6 @@
 * OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
 * RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
 * Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
-
-
-
-# DSP - Digital Signal Processing 
-* DSP.jl :: The [DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering](https://github.com/JuliaDSP/DSP.jl), works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
-* KDSP.jl :: [is yet another implementation of common DSP routines](https://github.com/kofron/KDSP.jl) in Julia.
-* NFFT.jl :: [Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform](https://github.com/tknopp/NFFT.jl).
 
 
 # MATH 
