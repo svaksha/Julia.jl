@@ -27,6 +27,7 @@
 * LightXML.jl :: [A light-weight Julia package for XML based on libxml2](https://github.com/lindahua/LightXML.jl).
 * MachO.jl :: [An implementation of the MachO file format](https://github.com/loladiro/MachO.jl).
 * MatrixMarket.jl :: [Julia package to read MatrixMarket file format](https://github.com/ViralBShah/MatrixMarket.jl)
+* MNIST.jl :: [Tools for working with the MNIST data set](https://github.com/johnmyleswhite/MNIST.jl) - This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
 * NetCDF.jl :: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
 * NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
 * NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
