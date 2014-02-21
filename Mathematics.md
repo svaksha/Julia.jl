@@ -1,14 +1,7 @@
-* [Cryptography](#cryptography)
 * [MATH ](#math)
-   * [Numerical Analysis](#numerical-analysis)
+   * [Control System](#control-system)
+   * [Cryptography](#cryptography)
    * [Puzzles](#puzzles)
-
-# Cryptography 
-* BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
-* Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
-* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
-* RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
-* Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
 
 
 # MATH 
@@ -75,8 +68,21 @@
 * Uncertain.jl:: [Uncertain quantities and error propagation](https://github.com/rephorm/Uncertain.jl) for the Julia language.
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 
-###    * [Numerical Analysis](#numerical-analysis)
+### Control System
+**Implementations of numerical algorithms for computations in systems and control theory.**
+* Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
+* LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
+* Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
 * DOCS :: [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
+
+
+### Cryptography 
+* BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
+* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
+* RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
+* Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
+
 
 ### Puzzles, problem solving games 
 * Cbc.jl:: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
