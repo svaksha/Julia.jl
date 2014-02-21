@@ -38,6 +38,7 @@
 
 # DSP 
 **Digital Signal Processing**
+* JuliaDSP :: [JuliaDSP group on Github](https://github.com/JuliaDSP)
 * ChaosCommunications.jl :: [Simulation of chaos-based communication systems in Julia](https://github.com/scidom/ChaosCommunications.jl)
 * DSP.jl :: The [DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering](https://github.com/JuliaDSP/DSP.jl), works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
 * KDSP.jl :: [is yet another implementation of common DSP routines](https://github.com/kofron/KDSP.jl) in Julia.
