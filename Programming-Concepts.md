@@ -40,6 +40,7 @@
 # Data Types
 * ASCIIByte.jl :: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
+* Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
 * ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
