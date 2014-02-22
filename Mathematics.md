@@ -62,6 +62,7 @@
 * Sobol.jl :: is a [generation of Sobol low-discrepancy sequence (LDS) implementation](https://github.com/stevengj/Sobol.jl), that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 * SurfaceMesh.jl :: is a [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl) to work with polygon-surface-meshes.
+* Symbolic.jl :: [Symbolic computations and computer algebra in Julia](https://github.com/scidom/Symbolic.jl)
 * SymPy.jl :: [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)
 * ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
