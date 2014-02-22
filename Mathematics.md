@@ -33,6 +33,7 @@
 * JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
   * *DOCS*
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
+* JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
 * KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).

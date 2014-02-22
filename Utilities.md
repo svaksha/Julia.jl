@@ -87,7 +87,7 @@
 * Sublime-Julia :: [Sublime Syntax, Build, Snippets, and REPL](https://github.com/karbarcca/Sublime-Julia) for the Julia language.
 
 ### IJulia 
-* Autoreload.jl :: [A package for autoreloading files for interactive work](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension.
+* Autoreload.jl :: [A package for autoreloading files for interactive work in IJulia](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
 * Hydra.jl :: [Hosted Multi-user IJulia distribution](https://github.com/loladiro/Hydra.jl).
 * IJulia.jl :: [Julia kernel and magics for IPython](https://github.com/JuliaLang/IJulia.jl)
 * WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
