@@ -21,7 +21,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # Data Structures 
-(Arrays, Matrix, Trees,..)
+(Arrays, Hash tables, Matrix, Trees,..)
 * ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
@@ -45,6 +45,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * rsk :: [Code for exploring the Robinson–Schensted–Knuth correspondence](https://github.com/JuliaX/rsk)
 * Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 * TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
+* TOML.jl :: [A TOML parser for Julia](https://github.com/pygy/TOML.jl)
 * Trie.jl :: [Implementation of the trie data structure](https://github.com/JuliaLang/Trie.jl).
 
 
