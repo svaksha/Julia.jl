@@ -38,6 +38,7 @@
 
 
 # METEOROLOGY
+* CAIRS.jl :: [Continous Assimilation of Integrating Rain Sensors](https://github.com/scheidan/CAIRS.jl)
 * Scriabin.jl :: [Radiative transfer in Julia](https://github.com/jsbj/Scriabin.jl)
 
 
