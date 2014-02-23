@@ -24,6 +24,7 @@
 * Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
+* KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
 * KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
 * LIBSVM.jl :: [Julia bindings for LIBSVM](https://github.com/simonster/LIBSVM.jl)
 * MCMC.jl :: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
