@@ -8,8 +8,8 @@
 # ASTRONOMY 
 * [JuliaAstro group on Github](https://github.com/JuliaAstro)
 * Astrodynamics.jl :: [An astrodynamics library](https://github.com/helgee/Astrodynamics.jl) in Julia.
-* Cosmology.jl :: [Cosmology calculator](https://github.com/nolta/Cosmology.jl) for Julia.
-* DustExtinction.jl :: [Models for the interstellar extinction due to dust](https://github.com/kbarbary/DustExtinction.jl).
+* Cosmology.jl :: [Cosmology library](https://github.com/JuliaAstro/Cosmology.jl) for Julia.
+* DustExtinction.jl :: [Models for the interstellar extinction due to dust](https://github.com/JuliaAstro/DustExtinction.jl).
 * FITSIO.jl :: [Flexible Image Transport System (FITS) support](https://github.com/JuliaAstro/FITSIO.jl) for Julia.
 * JPLEphemeris.jl :: [The JPL Development Ephemerides](https://github.com/helgee/JPLEphemeris.jl) are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 * julia-astro :: [astronomy-related Julia code: skycoords.jl, dustmap.jl](https://github.com/kbarbary/julia-astro)

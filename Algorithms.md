@@ -49,6 +49,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * PETSc.jl :: [sparse-matrix interface for the Julia language](https://github.com/stevengj/PETSc.jl).
 * RedBlackTrees.jl :: [A red–black self-balancing binary search tree](https://github.com/pygy/RedBlackTrees.jl) in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
 * rsk :: [Code for exploring the Robinson–Schensted–Knuth correspondence](https://github.com/JuliaX/rsk)
+* Series.jl :: [Series data structure in Julia](https://github.com/milktrader/Series.jl)
 * Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 * TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
 * TOML.jl :: [A TOML parser for Julia](https://github.com/pygy/TOML.jl)
