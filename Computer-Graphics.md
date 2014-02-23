@@ -44,6 +44,7 @@
 * ProfileView.jl :: Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
 * PyPlot.jl:: [Plotting for Julia based on matplotlib, pyplot](https://github.com/stevengj/PyPlot.jl)
 * TypeTree.jl:: [source code](https://github.com/johnmyleswhite/TypeTree.jl) and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
+* Vega.jl :: [A Julia package for generating visualizations in Vega](https://github.com/johnmyleswhite/Vega.jl)
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
 
