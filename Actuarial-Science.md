@@ -35,6 +35,7 @@
 * Nonparametric.jl :: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
 * NHST.jl :: [Null hypothesis significance tests](https://github.com/johnmyleswhite/NHST.jl)
 * ParallelSparseRegression.jl :: [A Julia library for parallel sparse regression](https://github.com/madeleineudell/ParallelSparseRegression.jl), that implements solvers for regression problems including least squares, ridge regression, lasso, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
+* ProbabilisticModeling.jl :: [A BUGS-like language for describing probabilistic models in Julia](https://github.com/johnmyleswhite/ProbabilisticModeling.jl)
 * Ridge.jl :: [Ridge regression and classification](https://github.com/johnmyleswhite/Ridge.jl)
 * Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
