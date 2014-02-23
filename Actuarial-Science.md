@@ -82,6 +82,7 @@
 * Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
 * SDE.jl :: [Simulation and inference for Ito processes and diffusions](https://github.com/mschauer/SDE.jl)
 * TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
+* TradingSystem.jl :: [Quantitative trading framework in Julia](https://github.com/milktrader/TradingSystem.jl)
 * ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
 
 
