@@ -42,6 +42,7 @@
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
+* TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl)
 
 
 ## Econometrics 
