@@ -22,6 +22,7 @@
 * [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
 * [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
+
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 * [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
