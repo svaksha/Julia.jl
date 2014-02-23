@@ -2,6 +2,7 @@
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
 * [Functional Programming](#functional-programming)
+* [Macros](#macros)
 * [Meta Programming](#meta-programming)
 * [Precompile](#precompile)
 * [Style Guidelines](#style-guidelines) 
@@ -65,6 +66,8 @@
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 * PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
 
+# Macros
+* TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
 # Meta Programming
 **DOCS**
