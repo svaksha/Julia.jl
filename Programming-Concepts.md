@@ -48,9 +48,11 @@
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
 
+
 # Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. DOCS:: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
+* PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
 
 
 # Meta Programming

@@ -8,17 +8,17 @@
 
 
 # API 
-* [https://plot.ly/api/julia/](Plotly Julia API) in an [http://nbviewer.ipython.org/7105191](IJulia notebook)
+* plot.ly :: [Plotly Julia API](https://plot.ly/api/julia/) in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 
 
 # GRAPHICS 
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
-* Ccv.jl:: (https://github.com/dhotson/Ccv.jl)[Julia bindings for libccv's SIFT image feature detection].
+* Ccv.jl:: [Julia bindings for libccv's SIFT image feature detection](https://github.com/dhotson/Ccv.jl).
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * GLFW.jl :: [GLFW bindings for Julia - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input](https://github.com/jayschwa/GLFW.jl)
    *DOCS*
-   * julia-opengl-demos :: [https://github.com/ssfrr/julia-opengl-demos](A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl)
+   * julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
@@ -34,9 +34,10 @@
 *Charts, Plots, Maps*
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
 * Cairo.jl :: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl).
-* Color.jl :: (https://github.com/JuliaLang/Color.jl)[https://github.com/JuliaLang/Color.jl].
+* Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
 * ECharts.jl :: [A julia package for ECharts: https://github.com/ecomfe/echarts](https://github.com/wlbksy/ECharts.jl).
-* Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. DOCS :: [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
+* Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
+   * DOCS :: [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
