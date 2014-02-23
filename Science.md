@@ -14,9 +14,9 @@
 
 
 # BIOLOGY 
-**Bioinformatics, Biotech, Genetics, ....**
 * BioJulia on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
 * JuliaBio on github :: [https://github.com/JuliaBio](https://github.com/JuliaBio). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/#!forum/julia-bio
+**Bioinformatics, Biotech, Genetics, ....**
 * Bio.jl :: [Bioinformatics and Computational Biology Infrastructure](https://github.com/BioJulia/Bio.jl) for Julia.
 * BioSeq.jl :: Julia's package for working on [Bioinformatics with DNA, RNA and Protein Sequences](https://github.com/diegozea/BioSeq.jl).
 * Circuitscape.jl :: The [Julia implementation](https://github.com/tanmaykm/Circuitscape.jl) of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.

@@ -4,6 +4,9 @@
 
 
 # MATH 
+**DOCS**
+* [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
+**Calculus, Geometry, Linear Algebra, etc...**
 * algebra :: A hierarchy of [abstract algebraic structures in Julia](https://github.com/alrahimi/algebra/)
 * Accelereval.jl :: [A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation](https://github.com/lindahua/Accelereval.jl)
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
@@ -15,7 +18,6 @@
 * CRF.jl :: [Conditional Random Fields](https://github.com/slyrz/CRF.jl) in Julia.
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
 * Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
-* *DOCS* :: [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
 * DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
 * DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
 * Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
@@ -30,8 +32,9 @@
 * Hexagons.jl :: Useful tools for working with [hexagonal grids](https://github.com/dcjones/Hexagons.jl).
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).
+* IntModN.jl :: [Ring(s) of Integers Modulo N](https://github.com/andrewcooke/IntModN.jl)
 * JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
-  * *DOCS*
+  **DOCS**
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
 * JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
 * KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
@@ -88,5 +91,4 @@
 * sudoku.jl:: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
 * TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
-
 
