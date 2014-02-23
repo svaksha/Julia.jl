@@ -75,6 +75,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # NLP 
+* Languages.jl :: [A package for working with human languages](https://github.com/johnmyleswhite/Languages.jl)
 * LTSV.jl :: [Labeled Tab Separated Values (LTSV) parser](https://github.com/kshramt/LTSV.jl) in Julia.
 * Parsimonious.jl :: [A PEG parser generator for Julia](https://github.com/gitfoxi/Parsimonious.jl).
 * PyLexYacc.jl :: [is an interface to Python Lex-Yacc package](https://github.com/iamed2/PyLexYacc.jl) that uses reflection for most of its processing. 
