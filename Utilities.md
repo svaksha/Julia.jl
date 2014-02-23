@@ -12,6 +12,7 @@
    * [C++](#c++)
    * [Fortran](#fortran)
    * [Java](#java)
+   * [JavaScript](#javascript)
    * [MATLAB](#matlab)
    * [Python](#python)
    * [R](#r)
@@ -61,6 +62,9 @@
 
 ## Java 
 * JavaCall.jl :: [is a package that lets you call Java programs from Julia](http://aviks.github.io/JavaCall.jl). 
+
+## JavaScript
+* JSTypes.jl :: [Mimic Javascript objects using Julian types](https://github.com/johnmyleswhite/JSTypes.jl)
 
 ## MATLAB
 * MAT.jl :: [is a Julia module for reading MATLAB](https://github.com/simonster/MAT.jl) files.
