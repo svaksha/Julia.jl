@@ -1,4 +1,4 @@
-* [Control Flow](#control-flow)
+* [Control System](#control-system)
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
 * [Functional Programming](#functional-programming)
@@ -6,10 +6,17 @@
 * [Style Guidelines](#style-guidelines) 
 
 
-# Control Flow
+# Control System
 *DOCS* 
    * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
+   * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
+
+**Implementations of numerical algorithms for computations in systems and control theory.**
+* Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
+* LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
+* Protobuf.jl :: [Julia protobuf implementation](https://github.com/tanmaykm/Protobuf.jl)
+* Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
 
 
 # Data Formats

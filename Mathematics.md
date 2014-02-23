@@ -1,5 +1,4 @@
 * [MATH ](#math)
-   * [Control System](#control-system)
    * [Cryptography](#cryptography)
    * [Puzzles](#puzzles)
 
@@ -72,13 +71,6 @@
 * TSne.jl :: Julia port of [L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique](https://github.com/lejon/TSne.jl). Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
 * Uncertain.jl:: [Uncertain quantities and error propagation](https://github.com/rephorm/Uncertain.jl) for the Julia language.
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
-
-### Control System
-**Implementations of numerical algorithms for computations in systems and control theory.**
-* Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
-* LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
-* Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
-* DOCS :: [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 
 
 ### Cryptography 
