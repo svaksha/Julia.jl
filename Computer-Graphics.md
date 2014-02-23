@@ -4,7 +4,7 @@
 * [GRAPHICS](#graphics) 
    * [Games](#games)
 * [VISUALIZATION](#visualization)
-   * [CookBooks](#cookbooks]
+   * [CookBooks](#cookbooks)
 
 
 # API 
@@ -35,7 +35,8 @@
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
 * Cairo.jl :: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl).
 * Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
-* ECharts.jl :: [A julia package for ECharts: https://github.com/ecomfe/echarts](https://github.com/wlbksy/ECharts.jl).
+* ECharts.jl :: https://github.com/wlbksy/ECharts.jl
+* echarts :: https://github.com/ecomfe/echarts
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
    **DOC**
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
