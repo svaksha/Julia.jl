@@ -3,7 +3,6 @@
 * [Books](#books)
 * [Blogs](#blogs)
 * [Cheatsheets](#cheatsheets)
-* [ControlFlow](#controlflow)
 * [Cookbooks](#cookbooks)
 * [IJulia](#ijulia)
 
@@ -35,13 +34,6 @@
 * Rosetta-Julia :: [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
 * JuliaDocs :: [John Lynch's Julia and Gadfly Cheatsheets](https://github.com/john9631/JuliaDocs)
 
-
-# ControlFlow
-* Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
-
-# Precompile
-* 
-https://github.com/JuliaLang/julia/blob/master/base/precompile.jl  and its documentation: http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile
 
 # Cookbooks 
 * Charts :: @malmaud 's bug chart (using Julia) of the [number of issues opened and closed each week for Julia as one metric of popularity](https://gist.github.com/malmaud/9025047). 

@@ -3,6 +3,7 @@
 * [Data Types](#data-types)
 * [Functional Programming](#functional-programming)
 * [Meta Programming](#meta-programming)
+* [Precompile](#precompile)
 * [Style Guidelines](#style-guidelines) 
 
 
@@ -12,10 +13,12 @@
    * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 **Implementations of numerical algorithms for computations in systems and control theory.**
 * Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
+* Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
 * LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
 * Protobuf.jl :: [Julia protobuf implementation](https://github.com/tanmaykm/Protobuf.jl)
 * Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
+
 
 
 # Data Formats
@@ -66,6 +69,12 @@
 # Meta Programming
 **DOCS**
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+
+
+# Precompile
+* precompile.jl :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl)
+**DOCS**
+   * [Precompilation documentation in Base](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
 
 
 # Style Guidelines 
