@@ -4,7 +4,7 @@
 * [GRAPHICS](#graphics) 
    * [Games](#games)
 * [VISUALIZATION](#visualization)
-    * [CookBooks](#cookbooks]
+   * [CookBooks](#cookbooks]
 
 
 # API 
@@ -37,7 +37,8 @@
 * Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
 * ECharts.jl :: [A julia package for ECharts: https://github.com/ecomfe/echarts](https://github.com/wlbksy/ECharts.jl).
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
-   * DOCS :: [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
+   **DOC**
+   * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
@@ -52,6 +53,4 @@
 *Read other Julia users experiences with visualization and plotting*
 * Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 * Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
-
-
 
