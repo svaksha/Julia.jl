@@ -26,7 +26,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
-* Graphs.jl :: [Working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. [Documentation for the Graphs.jl package](http://julialang.org/Graphs.jl/index.html).
+* Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
+   * [Documentation for the Graphs.jl package](http://julialang.org/Graphs.jl/index.html).
 * Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl) for the Julia language.
 * ImmutableArrays.jl:: [Statically-sized immutable vectors and matrices](https://github.com/twadleigh/ImmutableArrays.jl).
 * InverseService:: [Matrix Inverse](https://github.com/IainNZ/InverseService) as a Service.
@@ -34,6 +35,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
 * LDA.jl:: [Linear Discriminant Analysis and Kernel Fisher Analysis](https://github.com/remusao/LDA.jl).
 * Metis.jl :: [Julia interface to the Metis graph-partitioning algorithms](https://github.com/dmbates/Metis.jl)
+* MinimalPerfectHashes.jl :: [An implementation of minimal perfect hash function generation](https://github.com/soundcloud/MinimalPerfectHashes.jl) as described in Czech et. al. 1992.http://bit.ly/137iukS 
 * Named.jl:: [Julia named index and named vector types](https://github.com/HarlanH/Named.jl).
 * NamedArray :: is a [Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes](https://github.com/davidavdav/NamedArray).
 * Networks.jl :: [A library for working with Graphs](https://github.com/daviddelaat/Networks.jl) in Julia.
