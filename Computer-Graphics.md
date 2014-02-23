@@ -38,7 +38,8 @@
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
-   * DOC :: [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
+   **DOCS**
+   * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
@@ -46,6 +47,7 @@
 * PyPlot.jl:: [Plotting for Julia based on matplotlib, pyplot](https://github.com/stevengj/PyPlot.jl)
 * TypeTree.jl:: [source code](https://github.com/johnmyleswhite/TypeTree.jl) and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 * Vega.jl :: [A Julia package for generating visualizations in Vega](https://github.com/johnmyleswhite/Vega.jl)
+* VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
 
