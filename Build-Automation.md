@@ -20,10 +20,12 @@
    * Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
 * METADATA.jl :: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
 * Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
+* julia_package_system :: [A package system for Julia](https://github.com/johnmyleswhite/julia_package_system)
 * jpm :: [Julia package manager](https://github.com/dirk/jpm)
 * PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
 * RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
 * WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
+
 
 ## DistrOS
 * Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)

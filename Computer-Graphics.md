@@ -38,7 +38,7 @@
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
-   **DOC**
+*DOC*
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
