@@ -29,4 +29,4 @@ Profile your code.
 * Jig.jl :: [Testing framework](https://github.com/milktrader/Jig.jl) for Julia.
 * RunTests.jl :: [A test running framework](https://github.com/burrowsa/RunTests.jl) for Julia.
 * Saute.jl :: [is another testing framework for Julia](https://github.com/milktrader/Saute.jl)
-
+* UnitTest.jl :: [Another unit-testing library for Julia](https://github.com/analyzere/UnitTest.jl)

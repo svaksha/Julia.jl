@@ -9,16 +9,16 @@
 
 
 # Control System
-**DOCS**
-   * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
-   * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 **Implementations of numerical algorithms for computations in systems and control theory.**
 * Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
 * Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
 * LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
-* Protobuf.jl :: [Julia protobuf implementation](https://github.com/tanmaykm/Protobuf.jl)
+* Protobuf.jl :: [Julia protobuf parser implementation](https://github.com/tanmaykm/Protobuf.jl) 
 * Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
+   **DOCS**
+   * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
+   * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 
 
 
@@ -61,7 +61,7 @@
 
 # Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
-**DOCS**
+   **DOCS**
    * [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 * PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
@@ -70,13 +70,13 @@
 * TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
 # Meta Programming
-**DOCS**
-* [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+   **DOCS**
+   * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
 # Precompile
 * precompile.jl :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl)
-**DOCS**
+   **DOCS**
    * [Precompilation documentation in Base](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
 
 
