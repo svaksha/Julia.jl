@@ -1,5 +1,7 @@
 [svaksha.github.io/julya](http://svaksha.github.io/julya) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources, [mirrored at BB](https://bitbucket.org/svaksha/julya).
 
+Check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl).
+
 Join the [http://julialang.org/community/](mailing list) or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
 
 # PAGES
