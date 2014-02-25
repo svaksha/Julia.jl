@@ -30,6 +30,7 @@
 
 # DVCS 
 ### Git API 
+* GitHub.jl :: [A Julia package for interfacing with the GitHub API (v3)](https://github.com/WestleyArgentum/GitHub.jl)
 * LibGit2.jl :: [Julia bindings to the LibGit2 library](https://github.com/jakebolewski/LibGit2.jl).
 * Octokit.jl :: Julia package to [access the GitHub API](https://github.com/loladiro/Octokit.jl).
 
