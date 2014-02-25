@@ -16,7 +16,8 @@
 Profile your code.
 * IProfile :: Use [IProfile in Base to profile your code](http://docs.julialang.org/en/latest/stdlib/profile/).
 * QuickCheck.jl :: [QuickCheck specification-based testing](https://github.com/pao/QuickCheck.jl) for Julia. 
-  **DOCS** :: [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
+  **DOCS** 
+  * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 
 
 # SANDBOX
