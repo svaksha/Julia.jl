@@ -21,13 +21,14 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # Data Structures 
-(Arrays, Hash tables, Matrix, Trees,..)
+(Arrays / Hash tables / Matrix / Functional / Trees data structures,..)
 * ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
+* FingerTree.jl :: [Finger Tree in Julia](https://github.com/mschauer/FingerTree.jl)
 * Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
-   **DOCS**
+   * _*DOCS*_
    * [Documentation for the Graphs.jl package](http://julialang.org/Graphs.jl/index.html).
    * [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
 * GraphicalModels.jl :: [Data structures and parsing tools for representing graphical models](https://github.com/johnmyleswhite/GraphicalModels.jl) in Julia.
