@@ -13,7 +13,7 @@
 * FITSIO.jl :: [Flexible Image Transport System (FITS) support](https://github.com/JuliaAstro/FITSIO.jl) for Julia.
 * JPLEphemeris.jl :: [The JPL Development Ephemerides](https://github.com/helgee/JPLEphemeris.jl) are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 * julia-astro :: [astronomy-related Julia code: skycoords.jl, dustmap.jl](https://github.com/kbarbary/julia-astro)
-
+* SkyCoords.jl :: [Astronomical coordinate systems](https://github.com/kbarbary/SkyCoords.jl) in Julia.
 
 # BIOLOGY 
 * BioJulia on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
