@@ -15,7 +15,7 @@
 # PROFILING
 Profile your code.
 * IProfile :: Use [IProfile in Base to profile your code](http://docs.julialang.org/en/latest/stdlib/profile/).
-* QuickCheck.jl :: [QuickCheck specification-based testing](https://github.com/pao/QuickCheck.jl) for Julia. 
+* QuickCheck.jl :: is listed in METADATA and [based on QuickCheck specification-based randomized tester](https://github.com/pao/QuickCheck.jl) for Julia. 
   **DOCS** 
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 
@@ -28,6 +28,8 @@ Profile your code.
 * FactCheck.jl :: Midje-like [testing framework](https://github.com/zachallaun/FactCheck.jl) written for Julia.
 * Fixtures.jl :: provides [fixtures, mocks, matchers and patching to improve your tests](https://github.com/burrowsa/Fixtures.jl) with Julia.
 * Jig.jl :: [Testing framework](https://github.com/milktrader/Jig.jl) for Julia.
-* RunTests.jl :: [A test running framework](https://github.com/burrowsa/RunTests.jl) for Julia.
+* RunTests.jl :: [A test running framework](https://github.com/burrowsa/RunTests.jl) for Julia that extends Base.Test
 * Saute.jl :: [is another testing framework for Julia](https://github.com/milktrader/Saute.jl)
-* UnitTest.jl :: [Another unit-testing library for Julia](https://github.com/analyzere/UnitTest.jl)
+* testfast.jl :: [Automatically finds test files and runs them](https://github.com/Veraticus/testfast.jl)
+* UnitTest.jl :: [Another unit-testing library for Julia](https://github.com/analyzere/UnitTest.jl), that writes output to XML for Jenkins(?)
+
