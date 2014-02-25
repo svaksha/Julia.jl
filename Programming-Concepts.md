@@ -4,7 +4,6 @@
 * [Functional Programming](#functional-programming)
 * [Macros](#macros)
 * [Meta Programming](#meta-programming)
-* [Precompile](#precompile)
 * [Style Guidelines](#style-guidelines) 
 
 
@@ -16,7 +15,8 @@
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
 * Protobuf.jl :: [Julia protobuf parser implementation](https://github.com/tanmaykm/Protobuf.jl) 
 * Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
-   **DOCS**
+   
+**DOCS**
    * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
    * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 
@@ -50,6 +50,7 @@
 # Data Types
 * ASCIIByte.jl :: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
+* DictViews.jl :: [KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries](https://github.com/daviddelaat/DictViews.jl)
 * Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
 * ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
@@ -59,25 +60,20 @@
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
 
 
+
 # Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
-   **DOCS**
-   * [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
+   * _DOCS::_  [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 * PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
+
 
 # Macros
 * TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
+
 # Meta Programming
-   **DOCS**
-   * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
-
-
-# Precompile
-* precompile.jl :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl)
-   **DOCS**
-   * [Precompilation documentation in Base](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
+   * _DOCS::_  [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
 # Style Guidelines 
