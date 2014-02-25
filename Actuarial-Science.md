@@ -12,10 +12,11 @@
 
 
 # Statistics
+* Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * DataFrames.jl :: [A Library for working with tabular data in Julia](https://github.com/juliastats/DataFrames.jl)
-   **DOCS**
+   * _DOCS_::
    * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 * DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/JuliaStats/DataFramesMeta.jl).
@@ -64,7 +65,7 @@
 * jobshop :: [ The Jobshop (Open Shop Scheduling Problem (OSSP)) problem](https://github.com/stefan-k/jobshop) is solved with evolutionary strategies in Julia.
 * Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-   **DOCS**
+   * _DOCS_::
    * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
 
 

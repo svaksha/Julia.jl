@@ -1,7 +1,6 @@
 *Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Unit testing, ...*
 
 * [LOGGING](#logging)
-* [PROFILING](#profiling)
 * [SANDBOX](#sandbox)
 * [UNITTEST](#unittest)
 
@@ -10,14 +9,6 @@
 * Logging.jl :: [The Logging module](https://github.com/kmsquire/Logging.jl)
 * Lumberjack.jl :: A [logging library by Westley Hennigh](https://github.com/forio/Lumberjack.jl).
 * Stage.jl :: has [stage macros, checkpoints and loggers](https://github.com/saltpork/Stage.jl) for Julia.
-
-
-# PROFILING
-Profile your code.
-* IProfile :: Use [IProfile in Base to profile your code](http://docs.julialang.org/en/latest/stdlib/profile/).
-* QuickCheck.jl :: is listed in METADATA and [based on QuickCheck specification-based randomized tester](https://github.com/pao/QuickCheck.jl) for Julia. 
-  **DOCS** 
-  * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 
 
 # SANDBOX

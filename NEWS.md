@@ -9,10 +9,12 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 
 
 # CONFERENCES
-**2013**
+*2013*
 * [Slides of Iain Dunning's talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
+
 *ACM SPLASH 2013*
 * [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
+
 *StrangeLoop-2013*
 * Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" at 
 * Strange Loop conference-2013 video: Zach Allaun shows how to build a [http://www.infoq.com/presentations/julia-vectors-maps-sets](functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance). 
