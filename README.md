@@ -29,7 +29,7 @@ Some tips for submitting a [pull request (PR)](https://github.com/svaksha/julya/
 * For broken links submit a bug report, or replace the broken URI, then submit a PR.
 * For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *DOC*, else use the Cookbook.md page.
 
-**NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering; and this repo only provides a list (link) of Julia packages out in the wild, not an endorsment of its quality, software features, etc.. For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl). 
+**NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering; and this repo only provides a list (link) of Julia packages out in the wild, not an endorsment of its quality, software features, etc.. For Base packages, check if the package you seek is listed in the [built-in package manager on github](https://github.com/JuliaLang/METADATA.jl) or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
 
 
 # LICENSE 

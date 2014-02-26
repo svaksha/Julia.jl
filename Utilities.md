@@ -66,6 +66,7 @@
 
 ## JavaScript
 * JSTypes.jl :: [Mimic Javascript objects using Julian types](https://github.com/johnmyleswhite/JSTypes.jl)
+* DThree.jl :: [Simple interface to d3.js from Julia](https://github.com/jverzani/DThree.jl)
 
 ## MATLAB
 * MAT.jl :: [is a Julia module for reading MATLAB](https://github.com/simonster/MAT.jl) files.
