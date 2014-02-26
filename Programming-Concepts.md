@@ -54,6 +54,7 @@
 * Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
 * ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
+* Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
 * UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)

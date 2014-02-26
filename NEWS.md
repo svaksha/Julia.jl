@@ -8,6 +8,9 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 * [RESEARCH](#research)
 
 
+
+* NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
+
 # CONFERENCES
 *2013*
 * [Slides of Iain Dunning's talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
