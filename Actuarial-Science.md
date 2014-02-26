@@ -4,6 +4,7 @@
 * [Statistics](#statistics)
     * [Econometrics](#econometrics) 
     * [Operations Research](#operations-research)
+* [Statistical Tests](#stat-tests)
 * [Valuation](#valuation)
 
 
@@ -68,8 +69,12 @@
 * Predictors.jl :: https://github.com/dejakaymac/Predictors.jl
 * Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-   * _DOCS_::
+##### DOCS
    * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
+
+
+# Statistical Tests
+* StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
 
 
 # Valuation 
