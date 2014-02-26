@@ -27,6 +27,7 @@
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HyperLogLog.jl :: [A simple HyperLogLog implementation](https://github.com/johnmyleswhite/HyperLogLog.jl) in Julia.
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
+* IsingModels.jl :: [The Ising model as a Julian distribution](https://github.com/johnmyleswhite/IsingModels.jl)
 * JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
 * KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
 * KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
