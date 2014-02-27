@@ -15,6 +15,7 @@
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
 * Ccv.jl:: [Julia bindings for libccv's SIFT image feature detection](https://github.com/dhotson/Ccv.jl).
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
+* Curvelet.jl :: [Implementation of the Uniform Discrete Curvelet Transform (UDCT)](https://github.com/fundamental/Curvelet.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * GLFW.jl :: [GLFW bindings for Julia - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input](https://github.com/jayschwa/GLFW.jl)
    * DOCS
