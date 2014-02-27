@@ -89,6 +89,7 @@
 **REPL shells, IDE/Text editors, IJulia, WIDE, &c..**
 ### IDE
 * jEdit-julia :: A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
+* Jewel.jl :: [is the Julia package which handles communication with Light Table for Jewel](https://github.com/one-more-minute/Jewel.jl) 
 * Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
