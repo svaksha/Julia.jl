@@ -52,6 +52,3 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 * UUID.jl :: [A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process](https://github.com/forio/UUID.jl)
 
 
-### API
-* Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
-

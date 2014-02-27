@@ -9,8 +9,10 @@
 
 
 # API
+* Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
+* Mathematica.jl :: [is a package that provides an interface for using Wolfram Mathematica™ from the Julia language]( https://github.com/one-more-minute/Mathematica.jl)
 * MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
-* OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
+
 
 ## Compilers
 * Clang.jl :: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
