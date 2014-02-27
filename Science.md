@@ -46,6 +46,7 @@
 
 
 # PHYSICS 
+* auditory.jl :: [Auditory filterbanks in Julia](https://github.com/jfsantos/auditory.jl)
 * CMSSW.jl :: [A work-in-progress wrapper for ROOT.jl](https://github.com/jpata/CMSSW.jl)
 * Codata.jl :: https://github.com/kofron/Codata.jl
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
