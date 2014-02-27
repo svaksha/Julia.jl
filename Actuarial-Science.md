@@ -56,6 +56,7 @@
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
 * GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
 * julia__timeseries :: [Time-series analysis functions for Julia](https://github.com/ElOceanografo/julia_timeseries)
+* Loss.jl :: [General functions for estimating loss functions](https://github.com/johnmyleswhite/Loss.jl) inspired by Kaggle's release of code for many common metrics.
 * TimeSeries.jl:: [Time-series toolkit](https://github.com/JuliaStats/TimeSeries.jl) for Julia.
 * TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
 * TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
