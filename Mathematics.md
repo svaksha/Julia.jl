@@ -51,6 +51,7 @@
 * Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 * Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
+* quaternion.jl :: [Quaternion for Julia Language](https://github.com/peakbook/quaternion.jl)
 * Roots.jl :: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
 * SortingAlgorithms.jl :: [extra sorting algorithms extending Julia's sorting API](https://github.com/JuliaLang/SortingAlgorithms.jl)
 * SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
