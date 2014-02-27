@@ -97,6 +97,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * BSplines.jl :: [This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.](https://github.com/gusl/BSplines.jl)
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
+* VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
 
 
 

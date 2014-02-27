@@ -52,6 +52,7 @@
 * BigRationals.jl :: [is a BigRational package for Julia using GMP](https://github.com/andrioni/BigRationals.jl)
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
 * DictViews.jl :: [KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries](https://github.com/daviddelaat/DictViews.jl)
+* FixedPoint.jl :: [Fixed point types for Julia](https://github.com/JeffBezanson/FixedPoint.jl)
 * Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
 * ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
