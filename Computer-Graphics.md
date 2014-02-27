@@ -17,15 +17,17 @@
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * GLFW.jl :: [GLFW bindings for Julia - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input](https://github.com/jayschwa/GLFW.jl)
-
-   *DOCS*
+   * DOCS
    * julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
+* LineExtraction.jl :: [Line extraction from an image (using Markovian model and energy minimization)](https://github.com/remusao/LineExtraction.jl)
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
+
+
 
 ## Games
 * Quake2.jl :: [Experimental Quake 2 map graphics engine written with Julia and modern OpenGL](https://github.com/jayschwa/Quake2.jl)
