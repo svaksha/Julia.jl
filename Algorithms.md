@@ -79,11 +79,12 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # NLP 
+* [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 * Languages.jl :: [A package for working with human languages](https://github.com/johnmyleswhite/Languages.jl)
 * LTSV.jl :: [Labeled Tab Separated Values (LTSV) parser](https://github.com/kshramt/LTSV.jl) in Julia.
+* NGram.jl :: [Implement the NGram model in julia](https://github.com/remusao/NGram.jl)
 * Parsimonious.jl :: [A PEG parser generator for Julia](https://github.com/gitfoxi/Parsimonious.jl).
 * PyLexYacc.jl :: [is an interface to Python Lex-Yacc package](https://github.com/iamed2/PyLexYacc.jl) that uses reflection for most of its processing. 
-* [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 * Stemmers.jl :: [Interface for text stemmer implementations](https://github.com/tanmaykm/Stemmers.jl).
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
