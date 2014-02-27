@@ -24,8 +24,10 @@
 
 
 # DOCUMENTATION
+*Julia Documentation*
 * [Julia Documentation README](https://github.com/JuliaLang/julia/blob/master/doc/README.md)
 * Roxygen.jl :: [A Roxygen-like documentation package for automatically generating documentation from Julia source files](https://github.com/johnmyleswhite/Roxygen.jl).
+* Doc.jl :: [Daniel Carrera's modern documentation system for Julia.](https://github.com/dcarrera/Doc.jl)
 
 
 # DVCS 
