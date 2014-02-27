@@ -81,7 +81,7 @@
 
 ## R
 * Rif.jl :: An [interface to the R language](https://github.com/lgautier/Rif.jl) and its fork, [Julio](https://github.com/tshort/julio).
-**Julia from R*
+* ProjectTemplate.jl :: [is a draft port of the ProjectTemplate package for R to Julia](https://github.com/johnmyleswhite/ProjectTemplate.jl)
 * runr :: [Run Julia from R](http://rpubs.com/yihui/julia-knitr) using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 
 
