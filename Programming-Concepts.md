@@ -62,7 +62,7 @@
 * UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
-
+* YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
 
 
 # Functional Programming 
