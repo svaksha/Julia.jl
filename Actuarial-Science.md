@@ -1,18 +1,19 @@
 *Statistics, Finance,....*
 
-* [GeoStatistics](#geostatistics)
-* [Statistics](#statistics)
-    * [Econometrics](#econometrics) 
-    * [Operations Research](#operations-research)
-* [Statistical Tests](#stat-tests)
-* [Valuation](#valuation)
+* [GEOSTATISTICS](#geostatistics)
+* [STATISTICS](#statistics)
+   * [Econometrics](#econometrics) 
+   * [Operations Research](#operations-research)
+   * [Statistical Tests](#stat-tests)
+* [TUTORIALS](#tutorials)
+* [VALUATION](#valuation)
 
 
-# GeoStatistics 
+# GEOSTATISTICS
 * Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
 
 
-# Statistics
+# STATISTICS
 * Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
@@ -74,11 +75,15 @@
    * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
 
 
-# Statistical Tests
+## Statistical Tests
 * StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
 
 
-# Valuation 
+# TUTORIALS
+* DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
+
+
+# VALUATION
 **Finance**
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
 * AssetMgmt.jl :: [Asset Management](https://github.com/cgroll/AssetMgmt.jl)

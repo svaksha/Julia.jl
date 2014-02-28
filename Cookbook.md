@@ -54,4 +54,4 @@
 * DataGotham.jl :: [IJulia Notebook with material for DataGotham-2013 tutorial](https://github.com/johnmyleswhite/DataGotham.jl) on using Julia for data analysis.
 * IJuliaNotebooks :: [IJulia notebooks highlighting code features of Julia](https://github.com/JuliaX/IJuliaNotebooks)
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
-
+* JuliaHTML :: [@ppalmes Julia notebooks[(https://github.com/ppalmes/JuliaHTML)
