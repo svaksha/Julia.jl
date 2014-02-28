@@ -65,6 +65,9 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * MDP.jl (khadiwala/MDP.jl) :: [Markov Decision Processes](https://github.com/khadiwala/MDP.jl) in Julia.
 * MLBase.jl :: [A set of functions to support the development of machine learning algorithms](https://github.com/lindahua/MLBase.jl).
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
+##### Tutorials
+* ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
+
 
 ## Clustering algorithms 
 * Clustering.jl :: Basic functions for [clustering data: k-means, dp-means](https://github.com/johnmyleswhite/Clustering.jl), etc..
