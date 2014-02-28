@@ -1,29 +1,25 @@
 **Hardware arch (ARM, CUDA, GPU, MIPS), API for Compilers, other software libraries,..**
 
-* [API](#api)
-    * [Compilers](#compilers)
-    * [Hardware](#hardware)
+* [COMPILERS](#compilers)
+* [HARDWARE](#hardware)
 * [AUDIO](#audio)
 * [DSP](#dsp)
 
 
 
-# API
-* Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
-* Mathematica.jl :: [is a package that provides an interface for using Wolfram Mathematica™ from the Julia language]( https://github.com/one-more-minute/Mathematica.jl)
-* MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
 
-
-## Compilers
+# COMPILERS
 * Clang.jl :: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
 * Eglib.jl :: [Clang.jl wrapping example](https://github.com/ihnorton/Eglib.jl), C code from @kindlmann.
 * JITTools.jl :: [Tools for working with in-memory object](https://github.com/loladiro/JITTools.jl). 
 
-## Hardware
+
+## HARDWARE
 **ARM, CUDA, GPU, MIPS**
 * Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
 * CUDA.jl :: [package wraps key functions in CUDA Driver API](https://github.com/lindahua/CUDA.jl) for Julia.
 * julia-CuMatrix :: [CUDA Matrix library for julia](https://github.com/stefan-k/julia-CuMatrix)
+* MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
 * Yeppp.jl :: [is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures](https://github.com/JuliaLang/Yeppp.jl), and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 * Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
@@ -45,5 +41,4 @@
 * DSP.jl :: The [DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering](https://github.com/JuliaDSP/DSP.jl), works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
 * KDSP.jl :: [is yet another implementation of common DSP routines](https://github.com/kofron/KDSP.jl) in Julia.
 * NFFT.jl :: [Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform](https://github.com/tknopp/NFFT.jl).
-
 
