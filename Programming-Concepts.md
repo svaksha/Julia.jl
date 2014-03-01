@@ -59,6 +59,8 @@
 * MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
 * Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
+   * **DOCS::**
+   * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
 * UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
