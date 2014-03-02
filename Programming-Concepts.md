@@ -45,6 +45,8 @@
 * PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
 * Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
 * StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+* XPT.jl :: [The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames](https://github.com/lendle/XPT.jl)
+
 
 
 # Data Types
