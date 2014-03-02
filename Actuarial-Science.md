@@ -28,6 +28,7 @@
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HyperLogLog.jl :: [A simple HyperLogLog implementation](https://github.com/johnmyleswhite/HyperLogLog.jl) in Julia.
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
+* JAGS.jl: A Julia interface to [JAGS, to provide a shared library as an interface between Julia and JAGS](https://github.com/olofsen/JAGS.jl)
 * JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
 * KernSmooth.jl :: [is a direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.](https://github.com/lendle/KernSmooth.jl)
 * KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
