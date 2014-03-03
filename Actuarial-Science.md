@@ -5,7 +5,6 @@
    * [Econometrics](#econometrics) 
    * [Operations Research](#operations-research)
    * [Statistical Tests](#stat-tests)
-* [TUTORIALS](#tutorials)
 * [VALUATION](#valuation)
 
 
@@ -14,6 +13,7 @@
 
 
 # STATISTICS
+* BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
 * Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
@@ -55,10 +55,10 @@
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
 * TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl)
 
-##### 
-**Experimenting with a separate list for "R -> Julia" packages** 
-* BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
- 
+
+##### DOCS and TUTORIALS
+* DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
+
  
 ## Econometrics 
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
@@ -78,16 +78,15 @@
 * Predictors.jl :: https://github.com/dejakaymac/Predictors.jl
 * Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-##### DOCS
-   * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
+
+##### DOCS and TUTORIALS
+* ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
+* DG2012Tutorial.jl :: [Simple examples of SGD-style computations in Julia](https://github.com/johnmyleswhite/DG2012Tutorial.jl)
 
 
 ## Statistical Tests
 * StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
 
-
-# TUTORIALS
-* DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
 
 
 # VALUATION
