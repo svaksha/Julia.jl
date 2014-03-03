@@ -55,8 +55,11 @@
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
 * TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl)
 
-
-
+##### 
+**Experimenting with a separate list for "R -> Julia" packages** 
+* BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
+ 
+ 
 ## Econometrics 
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
 * GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
