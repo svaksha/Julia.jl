@@ -42,6 +42,8 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
    * HttpParser.jl :: [Julia wrapper for Joyent's http-parser](https://github.com/JuliaLang/HttpParser.jl).
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
+### WIDE
+* JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
 
 
 # NETWORKING
