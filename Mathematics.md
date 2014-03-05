@@ -38,6 +38,7 @@
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
 * JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
 * KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
+* MathLink.jl :: [provides bindings to the MathLink library, which is an interface for Mathematica.](https://github.com/simonbyrne/MathLink.jl)
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
 * MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
