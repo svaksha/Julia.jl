@@ -52,6 +52,7 @@
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
 * Quantities.jl :: [Dimensions and Quantities](https://github.com/ElOceanografo/Quantities.jl)
 * ROOT.jl :: [A toy experiment interfacing ROOT and Julia through FWLite](https://github.com/jpata/ROOT.jl). [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
+* SALT.jl :: [SALT (steady-state ab-initio laser theory) solver package for Julia](https://github.com/xdavidliu/SALT.jl)
 * Sparrow.jl :: [Visual Psychophysics package](https://github.com/rennis250/Sparrow.jl) for Julia.
 
 ### Statistical Mechanics
