@@ -117,6 +117,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 *Puzzles, problem solving games*
 * Cbc.jl:: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
 * Deepthought.jl :: https://github.com/dejakaymac/Deepthought.jl
+* euler :: [Project Euler solutions in Julia](https://github.com/somu/euler)
 * Game.jl:: is inspired by PyGame, to [make 2D games easy in Julia](https://github.com/IainNZ/Game.jl)
 * sudoku.jl:: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
