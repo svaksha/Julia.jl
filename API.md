@@ -1,4 +1,5 @@
 * [API](#api)
+   * [Math](#math)
    * [GIT API](#git-api)
 * [LANGUAGES](#languages)
    * [C++](#c++)
@@ -14,10 +15,14 @@
 
 # API
 * Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
-* Mathematica.jl :: [is a package that provides an interface for using Wolfram Mathematica™ from the Julia language]( https://github.com/one-more-minute/Mathematica.jl)
 * Twitter.jl :: [Julia package to access the Twitter API](https://github.com/randyzwitch/Twitter.jl)
 
-### Git API 
+## Math
+* MathLink.jl :: [provides bindings to the MathLink library, which is an interface for Mathematica.](https://github.com/simonbyrne/MathLink.jl)
+* Mathematica.jl :: [is a package that provides an interface for using Wolfram Mathematica™ from the Julia language]( https://github.com/one-more-minute/Mathematica.jl)
+
+
+## Git API 
 * GitHub.jl :: [A Julia package for interfacing with the GitHub API (v3)](https://github.com/WestleyArgentum/GitHub.jl)
 * LibGit2.jl :: [Julia bindings to the LibGit2 library](https://github.com/jakebolewski/LibGit2.jl).
 * Octokit.jl :: Julia package to [access the GitHub API](https://github.com/loladiro/Octokit.jl).

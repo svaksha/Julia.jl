@@ -22,6 +22,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 
 
 # HTTP 
+* JuliaWebServer :: [a webserver for julia](https://github.com/chzyer/JuliaWebServer)
 * Laurence.jl :: https://github.com/mneudert/Laurence.jl
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
 * PkgGithubRepo.jl :: [Get the Github repository information for a Julia package installed in Ubuntu](https://github.com/thiruk/PkgGithubRepo.jl)
