@@ -15,10 +15,12 @@
 
 
 # PACKAGING
-*DOCS* 
+##### DOCS
    * The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
    * Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-* METADATA.jl :: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
+   * METADATA.jl :: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
+   * packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
+   
 * Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
 * julia_package_system :: [A package system for Julia](https://github.com/johnmyleswhite/julia_package_system)
 * jpm :: [Julia package manager](https://github.com/dirk/jpm)
@@ -30,9 +32,9 @@
 
 ## DistrOS
 * Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
-#### Debian (Ubuntu)
+##### Debian (Ubuntu)
 * Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
-#### Fedora / RHEL
+##### Fedora / RHEL
 * Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/) (not up to date...).
  
 
