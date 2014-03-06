@@ -25,6 +25,7 @@
 * DiscreteInference.jl :: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
 * DimensionalityReduction.jl :: [Methods for dimensionality reduction](https://github.com/JuliaStats/DimensionalityReduction.jl)
 * Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+* DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HyperLogLog.jl :: [A simple HyperLogLog implementation](https://github.com/johnmyleswhite/HyperLogLog.jl) in Julia.
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
