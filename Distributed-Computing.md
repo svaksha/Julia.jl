@@ -9,6 +9,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 **Cloud/ Cluster**
 * AWS.jl :: [supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically](https://github.com/amitmurthy/AWS.jl)
 * ClusterManagers.jl :: [Support for different clustering technologies](https://github.com/nlhepler/ClusterManagers.jl)
+* HDFS.jl :: [HDFS interface for Julia as a wrapper over Hadoop HDFS library.](https://github.com/tanmaykm/HDFS.jl)
 * LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
 * PTools.jl :: [A collection of utilities for parallel computing in Julia](https://github.com/amitmurthy/PTools.jl)
 
