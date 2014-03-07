@@ -111,7 +111,9 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
 * RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
 * RNGTesting :: [Scripts for testing Julia's RNG's](https://github.com/johnmyleswhite/RNGTesting)
+* Sha256.jl :: [Sha256 hash algorithm for Julia](https://github.com/mad4alcohol/Sha256.jl)
 * Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
+
 
 
 # PUZZLES
