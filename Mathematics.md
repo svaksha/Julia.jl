@@ -111,6 +111,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
 * Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
 * OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
+* OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
 * RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
 * RNGTesting :: [Scripts for testing Julia's RNG's](https://github.com/johnmyleswhite/RNGTesting)
 * Sha256.jl :: [Sha256 hash algorithm for Julia](https://github.com/mad4alcohol/Sha256.jl)
