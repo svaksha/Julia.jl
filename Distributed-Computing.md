@@ -3,7 +3,9 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
 * [GIS](#gis)
 * [HTTP](#http)
+   * [WIDE](#wide)
 * [NETWORKING](#networking)
+
 
 # DISTRIBUTED-PARALLEL
 **Cloud/ Cluster**
@@ -13,7 +15,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
 * LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
 * PTools.jl :: [A collection of utilities for parallel computing in Julia](https://github.com/amitmurthy/PTools.jl)
 
-**DOCS**
+##### DOCS
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 * [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 
@@ -43,7 +45,7 @@ Distributed (Cloud/ Cluster) computing, Parallel computing, GIS, Networking, fra
    * HttpParser.jl :: [Julia wrapper for Joyent's http-parser](https://github.com/JuliaLang/HttpParser.jl).
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
-### WIDE
+## WIDE
 * JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
 
 
