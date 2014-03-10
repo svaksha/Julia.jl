@@ -60,7 +60,7 @@
 * WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
 
 ### Shell
-* Docopt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/Docopt.jl) and it is a port of docopt written in the Julia language.
+* DocOpt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/DocOpt.jl) and it is a port of DocOpt written in the Julia language.
 * REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
 * REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
 
