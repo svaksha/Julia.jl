@@ -62,6 +62,9 @@
 ## Perl
 * FileFind.jl :: [Minimal Implementation of Perl's File::Find in Julia](https://github.com/johnmyleswhite/FileFind.jl)
 
+## Processing
+* Processing.jl :: [A port of the Processing language](https://github.com/rennis250/Processing.jl), to Julia.
+
 ## Python
 * PyCall.jl :: [lets you call Python functions](https://github.com/stevengj/PyCall.jl) from the Julia language.
 * PyJulia :: [python interface to julia](https://github.com/jakebolewski/pyjulia).
