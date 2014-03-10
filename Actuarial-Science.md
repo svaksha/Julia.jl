@@ -29,6 +29,7 @@
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
 * HyperLogLog.jl :: [A simple HyperLogLog implementation](https://github.com/johnmyleswhite/HyperLogLog.jl) in Julia.
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
+* Isotonic.jl :: [This implements several algorithms for isotonic regression in Julia.](https://github.com/ajtulloch/Isotonic.jl)
 * ITC.jl :: [Code for modeling intertemporal choice](https://github.com/johnmyleswhite/ITC.jl) in Julia.
 * JAGS.jl: A Julia interface to [JAGS, to provide a shared library as an interface between Julia and JAGS](https://github.com/olofsen/JAGS.jl) - Just another Gibbs sampler.
 * JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
