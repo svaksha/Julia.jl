@@ -92,6 +92,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * SimpleParser.jl :: [A very simple hackable parser and lexer for simple languages](https://github.com/ordovician/SimpleParser.jl)
 * Stemmers.jl :: [Interface for text stemmer implementations](https://github.com/tanmaykm/Stemmers.jl).
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
+* Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
 
 # Quantum Algorithms 
