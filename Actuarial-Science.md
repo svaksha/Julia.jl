@@ -22,6 +22,7 @@
    * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 * DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/JuliaStats/DataFramesMeta.jl).
+* DiscreteFactor.jl :: [Discrete factor and its operations in Probabilistic Graphical Models](https://github.com/wlbksy/DiscreteFactor.jl)
 * DiscreteInference.jl :: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
 * DimensionalityReduction.jl :: [Methods for dimensionality reduction](https://github.com/JuliaStats/DimensionalityReduction.jl)
 * DiscriminantAnalysis.jl :: [Methods for discriminant analysis](https://github.com/johnmyleswhite/DiscriminantAnalysis.jl), in Julia.
