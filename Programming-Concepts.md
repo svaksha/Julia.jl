@@ -61,8 +61,8 @@
 * ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
 * MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
 * MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
+* MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
 * Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
-* SyncObjects.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/SyncObjects.jl)
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
    * **DOCS::**
    * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
