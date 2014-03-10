@@ -7,14 +7,13 @@
 
 
 
-
 # COMPILERS
 * Clang.jl :: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
 * Eglib.jl :: [Clang.jl wrapping example](https://github.com/ihnorton/Eglib.jl), C code from @kindlmann.
 * JITTools.jl :: [Tools for working with in-memory object](https://github.com/loladiro/JITTools.jl). 
 
 
-## HARDWARE
+# HARDWARE
 **ARM, CUDA, GPU, MIPS**
 * Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
 * CUDA.jl :: [package wraps key functions in CUDA Driver API](https://github.com/lindahua/CUDA.jl) for Julia.
@@ -23,6 +22,8 @@
 * Yeppp.jl :: [is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures](https://github.com/JuliaLang/Yeppp.jl), and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 * Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
+### Arduino
+* Arduino.jl :: [Basic Arduino interface for Julia](https://github.com/rennis250/Arduino.jl)
 
 
 # AUDIO
