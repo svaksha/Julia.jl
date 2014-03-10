@@ -31,7 +31,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
 * PkgGithubRepo.jl :: [Get the Github repository information for a Julia package installed in Ubuntu](https://github.com/thiruk/PkgGithubRepo.jl)
 * Requests.jl:: [Http client written in julia (depends on joyent/http-parser) for HTTP parsing](https://github.com/loladiro/Requests.jl). 
-* Romeo.jl :: https://github.com/mneudert/Romeo.jl
+* Romeo.jl :: [Another HTTP server to log requests, events, responses](https://github.com/mneudert/Romeo.jl)
 * SimJulia.jl:: [ is a combined continuous time / discrete event process oriented simulation framework](https://github.com/BenLauwens/SimJulia.jl) written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * UAParser.jl:: A package to [parse user-agent strings](https://github.com/randyzwitch/UAParser.jl) in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 * URIParser.jl: is a [URI parser](https://github.com/loladiro/URIParser.jl) implemented in Julia.

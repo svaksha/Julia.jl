@@ -45,6 +45,7 @@
 * MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
 * MixtureModels.jl :: [A Julia package for probabilistic mixture models](https://github.com/lindahua/MixtureModels.jl)
 * NaiveBayes.jl :: [The Gaussian Naive Bayes model](https://github.com/johnmyleswhite/NaiveBayes.jl) in Julia.
+* NaiveBayes.jl :: [Simple Naive Bayes implementation in Julia](https://github.com/nutsiepully/NaiveBayes.jl)
 * NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
 * Nonparametric.jl :: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
 * NHST.jl :: [Null hypothesis significance tests](https://github.com/johnmyleswhite/NHST.jl)
