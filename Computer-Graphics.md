@@ -28,6 +28,7 @@
 * LineExtraction.jl :: [Line extraction from an image (using Markovian model and energy minimization)](https://github.com/remusao/LineExtraction.jl)
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
 * OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
+* SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
 
