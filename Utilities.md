@@ -6,6 +6,7 @@
    * [File Compression](#file-compression)  
    * [Desktop Document Processing](#desktop-document-processing)
    * [Document Generator](#document-generator) 
+   * [Microsoft Windows](#microsoft-windows)
 * [ENVIRONMENTS](#environments)    
    * [IDE](#ide)
    * [IJulia](#ijulia)
@@ -37,6 +38,8 @@
 * HelpTestbed.jl :: [package is for exploring options for help when you add a Julia package](https://github.com/tshort/HelpTestbed.jl) - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
 * Report.jl :: [A Markdown report writer for Julia](https://github.com/sveme/Report.jl)
 
+## Microsoft Windows
+* COMCall.jl :: [COM Interface](https://github.com/ihnorton/COMCall.jl) for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
 
 
 # ENVIRONMENTS
