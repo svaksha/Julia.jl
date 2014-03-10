@@ -82,7 +82,8 @@
 
 
 # Meta Programming
-   * _DOCS::_  [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+##### DOCS
+* [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
 # Style Guidelines 
