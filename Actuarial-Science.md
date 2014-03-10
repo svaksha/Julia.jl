@@ -18,6 +18,7 @@
 * Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
+* ConjugatePriors.jl :: [Closed form expressions for conjugate priors in Julia](https://github.com/johnmyleswhite/ConjugatePriors.jl)
 * DataFrames.jl :: [A Library for working with tabular data in Julia](https://github.com/juliastats/DataFrames.jl)
    * _DOCS_::
    * The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
