@@ -14,6 +14,7 @@
 
 # STATISTICS
 * BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
+* BayesModels.jl :: [Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference](https://github.com/lindahua/BayesModels.jl)
 * Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
