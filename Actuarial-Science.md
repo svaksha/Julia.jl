@@ -24,6 +24,7 @@
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/JuliaStats/DataFramesMeta.jl).
 * DiscreteInference.jl :: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
 * DimensionalityReduction.jl :: [Methods for dimensionality reduction](https://github.com/JuliaStats/DimensionalityReduction.jl)
+* DiscriminantAnalysis.jl :: [Methods for discriminant analysis](https://github.com/johnmyleswhite/DiscriminantAnalysis.jl), in Julia.
 * Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
 * DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
