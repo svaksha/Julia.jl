@@ -4,7 +4,6 @@
    * [Math](#math)
    * [GIT API](#git-api)
 * [LANGUAGES](#languages)
-   * [C](#c)
    * [C++](#c++)
    * [Fortran](#fortran)
    * [Go](#go)
@@ -34,8 +33,6 @@
 
 
 # LANGUAGES
-## C
-* pyju :: [Python to Julia cffi bindings](https://github.com/felipecruz/pyju)
 
 ## C++ 
 * Cpp.jl :: [Utilities for calling C++ from Julia](https://github.com/timholy/Cpp.jl).
@@ -65,6 +62,7 @@
 ## Python
 * PyCall.jl :: [lets you call Python functions](https://github.com/stevengj/PyCall.jl) from the Julia language.
 * PyJulia :: [python interface to julia](https://github.com/jakebolewski/pyjulia).
+* pyju :: [Python to Julia cffi bindings](https://github.com/felipecruz/pyju)
 
 ## R
 * Rif.jl :: An [interface to the R language](https://github.com/lgautier/Rif.jl) and its fork, [Julio](https://github.com/tshort/julio).
