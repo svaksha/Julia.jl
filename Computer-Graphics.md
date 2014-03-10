@@ -45,10 +45,10 @@
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
-
-   **DOCS**
+   * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
+* julia-glplot :: [Opengl plotting](https://github.com/o-jasper/julia-glplot) - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
 * ProfileView.jl :: Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
@@ -58,6 +58,7 @@
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
+
 
 ### CookBooks
 *Read other Julia users experiences with visualization and plotting*
