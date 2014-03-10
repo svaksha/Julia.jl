@@ -42,6 +42,7 @@
 * NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
 * NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
 * OpenSlide.jl:: [OpenSlide bindings](https://github.com/ihnorton/OpenSlide.jl) for Julia.
+* PList.jl :: [A module for reading and writing OS X plist in ASCII format](https://github.com/ordovician/PList.jl). The binary and XML format is not supported presently.
 * PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
 * Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
 * StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
