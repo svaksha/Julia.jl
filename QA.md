@@ -19,6 +19,7 @@
 * FactCheck.jl :: Midje-like [testing framework](https://github.com/zachallaun/FactCheck.jl) written for Julia.
 * Fixtures.jl :: provides [fixtures, mocks, matchers and patching to improve your tests](https://github.com/burrowsa/Fixtures.jl) with Julia.
 * Jig.jl :: [Testing framework](https://github.com/milktrader/Jig.jl) for Julia.
+* PackageTesting.jl :: [A standard for testing Julia packages](https://github.com/johnmyleswhite/PackageTesting.jl)
 * RunTests.jl :: [A test running framework](https://github.com/burrowsa/RunTests.jl) for Julia that extends Base.Test
 * Saute.jl :: [is another testing framework for Julia](https://github.com/milktrader/Saute.jl)
 * testfast.jl :: [Automatically finds test files and runs them](https://github.com/Veraticus/testfast.jl)
