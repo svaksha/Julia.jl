@@ -4,6 +4,7 @@
    * [Math](#math)
    * [GIT API](#git-api)
 * [LANGUAGES](#languages)
+   * [C](#c)
    * [C++](#c++)
    * [Fortran](#fortran)
    * [Go](#go)
@@ -33,6 +34,9 @@
 
 
 # LANGUAGES
+## C
+* pyju :: [Python to Julia cffi bindings](https://github.com/felipecruz/pyju)
+
 ## C++ 
 * Cpp.jl :: [Utilities for calling C++ from Julia](https://github.com/timholy/Cpp.jl).
 
