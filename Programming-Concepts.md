@@ -28,6 +28,7 @@
 * DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
 * DICOM.jl :: [DICOM interface for the Julia language](https://github.com/ihnorton/DICOM.jl)
 * DWARF.jl :: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
+* ELF.jl :: [Julia Package for working with ELF files](https://github.com/loladiro/ELF.jl)
 * FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
 * HDF5.jl :: [HDF5.jl](https://github.com/timholy/HDF5.jl)
 * IniFile.jl :: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
