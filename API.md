@@ -33,6 +33,8 @@
 
 
 # LANGUAGES
+## C
+* julia-ffi :: [Julia ffi and C header parser](https://github.com/o-jasper/julia-ffi), for autoFFIing and generating FFI libraries from it.
 
 ## C++ 
 * Cpp.jl :: [Utilities for calling C++ from Julia](https://github.com/timholy/Cpp.jl).
