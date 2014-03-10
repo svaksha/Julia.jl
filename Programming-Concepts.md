@@ -68,6 +68,7 @@
    * **DOCS::**
    * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
 * Typeclass.jl :: [Prototype typeclasses for Julia](https://github.com/jasonmorton/Typeclass.jl)
+* TypeGraph.jl :: [Visualize the Julia type system](https://github.com/johnmyleswhite/TypeGraph.jl)
 * UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
