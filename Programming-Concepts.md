@@ -79,6 +79,7 @@
 
 
 # Macros
+* RegexVar.jl :: [A macro to fill variables straight from the string](https://github.com/o-jasper/RegexVar.jl)
 * TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
 
