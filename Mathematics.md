@@ -111,6 +111,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 
 #CRYPTOGRAPHY
 * BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* CRC32.jl :: [32-bit cyclic redundancy check (CRC-32) checksum implementation](https://github.com/fhs/CRC32.jl)
 * Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
 * OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
 * OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
