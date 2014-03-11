@@ -54,6 +54,7 @@
 * Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
 * quaternion.jl :: [Quaternion for Julia Language](https://github.com/peakbook/quaternion.jl)
 * Roots.jl :: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
+* SimilarityMetrics.jl :: [Standard similarity metrics in Julia](https://github.com/johnmyleswhite/SimilarityMetrics.jl)
 * SortingAlgorithms.jl :: [extra sorting algorithms extending Julia's sorting API](https://github.com/JuliaLang/SortingAlgorithms.jl)
 * SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
 * Sobol.jl :: is a [generation of Sobol low-discrepancy sequence (LDS) implementation](https://github.com/stevengj/Sobol.jl), that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
