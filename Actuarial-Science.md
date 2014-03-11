@@ -53,6 +53,7 @@
 * NHST.jl :: [Null hypothesis significance tests](https://github.com/johnmyleswhite/NHST.jl)
 * ParallelSparseRegression.jl :: [A Julia library for parallel sparse regression](https://github.com/madeleineudell/ParallelSparseRegression.jl), that implements solvers for regression problems including least squares, ridge regression, lasso, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 * ProbabilisticModeling.jl :: [A BUGS-like language for describing probabilistic models in Julia](https://github.com/johnmyleswhite/ProbabilisticModeling.jl)
+* ProbTopicModels.jl :: [Probabilistic topic models](https://github.com/lindahua/ProbTopicModels.jl)
 * QuantileRegression.jl :: [Quantile regression in the Julia language](https://github.com/vincentarelbundock/QuantileRegression.jl)
 * Queries :: [Composable queries for Julia DataFrames](https://github.com/carljv/Queries)
 * RandomProcesses.jl :: [Random processes (CRP, CRT) in Julia](https://github.com/johnmyleswhite/RandomProcesses.jl)
