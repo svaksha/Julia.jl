@@ -1,7 +1,6 @@
 Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networking, frameworks and other Web related things go here:
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
-* [GIS](#gis)
 * [HTTP](#http)
    * [WIDE](#wide)
 * [NETWORKING](#networking)
@@ -20,9 +19,6 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 * [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 
-
-# GIS 
-* GeoIP.jl :: is a Julia package that can estimate the [geographic location of IP addresses](https://github.com/johnmyleswhite/GeoIP.jl).
 
 
 # HTTP 
