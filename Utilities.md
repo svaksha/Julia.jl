@@ -27,6 +27,7 @@
 * ArgParse.jl:: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
 * MetaTools.jl :: [Handy MetaProgramming whatnots for Julia](https://github.com/burrowsa/MetaTools.jl)
 * ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
+* GMT-julia-headers :: (https://github.com/meggart/GMT-julia-headers)
 
 ## File compression 
 * gzip.jl:: [GunZip in Julia](https://github.com/jvns/gzip.jl).
