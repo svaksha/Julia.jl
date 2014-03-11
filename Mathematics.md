@@ -70,6 +70,7 @@
 ### Abstract Algebra
 * algebra :: A hierarchy of [abstract algebraic structures in Julia](https://github.com/alrahimi/algebra/)
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
+* OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)
 
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
