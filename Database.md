@@ -14,6 +14,7 @@
 # MiddlewareAPI
 * DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
 * ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
+* ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
 
 
 # NoSQL
