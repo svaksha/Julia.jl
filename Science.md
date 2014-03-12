@@ -52,6 +52,7 @@
 * GDALfuns.jl :: [GDAL wrapper for the Julia Programming language](https://github.com/meggart/GDALfuns.jl)
 * GIS.jl :: [A package for the visualization and manipulation of geographic data](https://github.com/wkearn/GIS.jl)
 * GeoIP.jl :: is a Julia package that can estimate the [geographic location of IP addresses](https://github.com/johnmyleswhite/GeoIP.jl).
+* hillerislambers :: [Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics](https://github.com/wkearn/hillerislambers)
 
 
 # METEOROLOGY
