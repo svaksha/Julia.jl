@@ -2,6 +2,7 @@
 
 * [COMPILERS](#compilers)
 * [HARDWARE](#hardware)
+   * [Robots](#robots)
 * [AUDIO](#audio)
 * [DSP](#dsp)
 
@@ -22,8 +23,9 @@
 * Yeppp.jl :: [is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures](https://github.com/JuliaLang/Yeppp.jl), and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 * Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
-### Arduino
+### Robots
 * Arduino.jl :: [Basic Arduino interface for Julia](https://github.com/rennis250/Arduino.jl)
+* Robotics.jl :: [Toolbox for (serial manipulator) robotics, focusing robot dynamics](https://github.com/cdsousa/Robotics.jl]
 
 
 # AUDIO

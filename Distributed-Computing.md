@@ -15,6 +15,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * LCJC.jl :: [Loosely Coupled Julia Clusters](https://github.com/amitmurthy/LCJC.jl)
 * PTools.jl :: [A collection of utilities for parallel computing in Julia](https://github.com/amitmurthy/PTools.jl)
 * SGEArrays.jl :: [SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays](https://github.com/davidavdav/SGEArrays.jl)
+
 ##### DOCS
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 * [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).

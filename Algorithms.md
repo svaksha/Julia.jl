@@ -67,6 +67,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * MDP.jl (khadiwala/MDP.jl) :: [Markov Decision Processes](https://github.com/khadiwala/MDP.jl) in Julia.
 * MLBase.jl :: [A set of functions to support the development of machine learning algorithms](https://github.com/lindahua/MLBase.jl).
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
+
 ##### Tutorials
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
 
@@ -95,6 +96,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
+
 
 # Quantum Algorithms 
 * Hadamard.jl :: [Fast multidimensional Walsh-Hadamard transforms](https://github.com/stevengj/Hadamard.jl).

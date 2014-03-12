@@ -2,7 +2,7 @@
 
 
 # PAGES
-* [ActuarialSc.: Finance, economics, stochastic, insurance Statistics...](https://github.com/svaksha/julya/blob/master/Actuarial-Science.md)
+* [Actuarial Sc.: Finance, economics, stochastic, insurance Statistics...](https://github.com/svaksha/julya/blob/master/Actuarial-Science.md)
 * [Algorithms: AI, DataMining, Data Structures, ML, NLP, ...](https://github.com/svaksha/julya/blob/master/Algorithms.md)
 * [API](https://github.com/svaksha/julya/blob/master/API.md)
 * [Benchmarks and Optimization](https://github.com/svaksha/julya/blob/master/Benchmarks-Optimization.md)
@@ -14,8 +14,8 @@
 * [Math: Algebra, Geometry,...](https://github.com/svaksha/julya/blob/master/Mathematics.md)
 * [NEWS](https://github.com/svaksha/julya/blob/master/NEWS.md)
 * [Programming language concepts: data types, type system, etc..](https://github.com/svaksha/julya/blob/master/Programming-Concepts.md)
-* [QA: Test Driven Development, Functional testing,...](https://github.com/svaksha/julya/blob/master/QA.md)
-* [Science: Physics, Chemistry, Biology,..](https://github.com/svaksha/julya/blob/master/Science.md)
+* [QA: Test Driven Development, Sandbox, Functional/ Unit testing,...](https://github.com/svaksha/julya/blob/master/QA.md)
+* [Science: Astronomy, Biology, Chemistry, GIS, Meteorology, Physics,..](https://github.com/svaksha/julya/blob/master/Science.md)
 * [UI-UX software](https://github.com/svaksha/julya/blob/master/UI-UX.md)
 * [Utilities](https://github.com/svaksha/julya/blob/master/Utilities.md)
 * [Cross-Platform Software: API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries](https://github.com/svaksha/julya/blob/master/X-Platform-SW.md)

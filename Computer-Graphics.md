@@ -32,10 +32,9 @@
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
 
-
-
 ## Games
 * Quake2.jl :: [Experimental Quake 2 map graphics engine written with Julia and modern OpenGL](https://github.com/jayschwa/Quake2.jl)
+
 
 
 # VISUALIZATION
@@ -59,7 +58,6 @@
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
-
 
 ### CookBooks
 *Read other Julia users experiences with visualization and plotting*

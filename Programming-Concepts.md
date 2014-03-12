@@ -1,10 +1,11 @@
 * [Control System](#control-system)
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
-* [Functional Programming](#functional-programming)
-* [Macros](#macros)
-* [Meta Programming](#meta-programming)
-* [Style Guidelines](#style-guidelines) 
+* [Programming](#programming)
+   * [Functional Programming](#functional-programming)
+   * [Macros](#macros)
+   * [Meta Programming](#meta-programming)
+   * [Style Guidelines](#style-guidelines) 
 
 
 # Control System
@@ -15,9 +16,11 @@
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
 * Protobuf.jl :: [Julia protobuf parser implementation](https://github.com/tanmaykm/Protobuf.jl) 
 * Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
+
 ##### DOCS
    * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
    * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
+
 
 
 # Data Formats
@@ -74,24 +77,23 @@
 * UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
 * YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
 
-# Functional Programming 
+
+# Programming 
+### Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
    * _DOCS::_  [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 * PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
 
-
-# Macros
+### Macros
 * RegexVar.jl :: [A macro to fill variables straight from the string](https://github.com/o-jasper/RegexVar.jl)
 * TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
-
-# Meta Programming
+### Meta Programming
 ##### DOCS
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
-
-# Style Guidelines 
+### Style Guidelines 
 * Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
 
 
