@@ -58,6 +58,7 @@
 * Autoreload.jl :: [A package for autoreloading files for interactive work in IJulia](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
 * Hydra.jl :: [Hosted Multi-user IJulia distribution](https://github.com/loladiro/Hydra.jl).
 * IJulia.jl :: [Julia kernel and magics for IPython](https://github.com/JuliaLang/IJulia.jl)
+* jlbox :: [uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.](https://github.com/compressed/jlbox)
 * WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
 
 ### Shell
