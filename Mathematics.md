@@ -1,5 +1,6 @@
 * [MATH ](#math)
    * [Abstract Algebra](#abstract-algebra)
+   * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
    * [Geometry](#geometry)
    * [Numerical Analysis](#numerical-analysis)
@@ -71,6 +72,9 @@
 * algebra :: A hierarchy of [abstract algebraic structures in Julia](https://github.com/alrahimi/algebra/)
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
 * OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)
+
+### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+* EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
 
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
