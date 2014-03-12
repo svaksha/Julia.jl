@@ -2,7 +2,7 @@
    * [Abstract Algebra](#abstract-algebra)
    * [Calculus](#calculus)
    * [Geometry](#geometry)
-   * [Linear Algebra](#linear-algebra)
+   * [Numerical Analysis](#numerical-analysis)
 * [CRYPTOGRAPHY](#cryptography)
 * [PUZZLES](#puzzles)
 
@@ -93,7 +93,7 @@
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)
 
 
-### [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra)
+### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
 * RandomMatrices.jl :: [Random Matrices](https://github.com/jiahao/RandomMatrices.jl)
 * juliaSpot :: [The Julia implementation of the Spot Linear Algebra Package](https://github.com/slimgroup/juliaSpot)
@@ -104,6 +104,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
 * PNLA__Julia :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision](https://github.com/kbatseli/PNLA_Julia) in Julia.
+* RK4.jl :: This package implements a fairly fast [Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver](https://github.com/ntezak/RK4.jl) that is not technically provably accurate, but works well for finite bandwidth SDE's.
 * SpecialMatrices.jl :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices](https://github.com/timbers/SpecialMatrices.jl)
 * ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
 * VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
