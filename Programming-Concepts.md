@@ -81,9 +81,11 @@
 # Programming 
 ### Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
-   * _DOCS::_  [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
+   * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 * FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
 * PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
+* Match.jl :: [Advanced Pattern Matching for Julia](https://github.com/kmsquire/Match.jl)
+   * _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
 ### Macros
 * RegexVar.jl :: [A macro to fill variables straight from the string](https://github.com/o-jasper/RegexVar.jl)
