@@ -56,8 +56,8 @@
 * Roots.jl :: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
 * SimilarityMetrics.jl :: [Standard similarity metrics in Julia](https://github.com/johnmyleswhite/SimilarityMetrics.jl)
 * SortingAlgorithms.jl :: [extra sorting algorithms extending Julia's sorting API](https://github.com/JuliaLang/SortingAlgorithms.jl)
-* SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
 * Sobol.jl :: is a [generation of Sobol low-discrepancy sequence (LDS) implementation](https://github.com/stevengj/Sobol.jl), that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+* SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
 * SurfaceMesh.jl :: is a [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl) to work with polygon-surface-meshes.
 * Symbolic.jl :: [Symbolic computations and computer algebra in Julia](https://github.com/scidom/Symbolic.jl)
 * SymPy.jl :: [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
@@ -104,6 +104,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
 * PNLA__Julia :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision](https://github.com/kbatseli/PNLA_Julia) in Julia.
+* SpecialMatrices.jl :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices](https://github.com/timbers/SpecialMatrices.jl)
 * ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
 * VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
 
