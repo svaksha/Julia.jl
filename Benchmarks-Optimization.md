@@ -27,8 +27,8 @@
 * QuickCheck.jl :: is listed in METADATA and [based on QuickCheck specification-based randomized tester](https://github.com/pao/QuickCheck.jl) for Julia. 
   * _DOCS_::
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
-* SCIP.jl :: [is an optimization software for mixed-integer programs](https://github.com/mlubin/SCIP.jl)
-
+* SCIP.jl by @mlubin :: [is an optimization software for mixed-integer programs](https://github.com/mlubin/SCIP.jl)
+* SCIP.jl by @ryanjoneil :: [is a Julia interface to the SCIP solver](https://github.com/ryanjoneil/SCIP.jl)
 
 ### Preprocessor
 * Precompiler :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
