@@ -53,6 +53,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * Juliaflow :: [is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0](https://github.com/pchronz/juliaflow)
 * [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
 * SMTPClient.jl :: An [SMTP client to send emails](https://github.com/aviks/SMTPClient.jl) from Julia.
+* StatsdClient.jl :: [A simple Julia implementation of a statsd client](https://github.com/forio/StatsdClient.jl)
 * UUID.jl :: [A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process](https://github.com/forio/UUID.jl)
 
 
