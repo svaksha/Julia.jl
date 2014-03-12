@@ -102,6 +102,7 @@
 
 
 ## Statistical Tests
+* RobustStats.jl :: [A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox](https://github.com/mrxiaohe/RobustStats.jl)
 * StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
 
 
