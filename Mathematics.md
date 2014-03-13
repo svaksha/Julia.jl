@@ -75,6 +75,7 @@
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 * EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
+* SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
 
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
