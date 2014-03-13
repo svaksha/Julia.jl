@@ -47,6 +47,7 @@
 * MCMC2.jl :: [Alternative MCMC package design demo](https://github.com/johnmyleswhite/MCMC2.jl)
 * MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
 * MixtureModels.jl :: [A Julia package for probabilistic mixture models](https://github.com/lindahua/MixtureModels.jl)
+* MultivariateAnalysis.jl :: [A Julia package for multivariate data analysis (e.g. dimension reduction)](https://github.com/lindahua/MultivariateAnalysis.jl)
 * NaiveBayes.jl :: [The Gaussian Naive Bayes model](https://github.com/johnmyleswhite/NaiveBayes.jl) in Julia.
 * NaiveBayes.jl :: [Simple Naive Bayes implementation in Julia](https://github.com/nutsiepully/NaiveBayes.jl)
 * NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
