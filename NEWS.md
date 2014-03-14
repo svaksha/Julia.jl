@@ -1,25 +1,33 @@
 This section contains links to Events (un)conferences, talks, slides/videos, Research papers, and other NEWS...
 
 * [CONFERENCES](#conferences)
+   * [JuliaCon](#juliacon)
+   * [ACM SPLASH](#acm-splash)
+   * [StrangeLoop](#strangeloop)
 * [DEVELOPMENT](#development)
    * [GSoC](#gsoc)
 * [MEDIA](#media)
    * [Yellow Press](#yellow-press)
-* [RESEARCH](#research)
+* [RESEARCH PAPERS](#research-papers)
 
 
 
 * NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
 
+
 # CONFERENCES
-*ACM SPLASH 2013*
-* [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
+## JuliaCon
+* 2014June26-27 :: JuliaCon in Chicago, Illinois.
 
-*StrangeLoop-2013*
-* Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" at 
-* Strange Loop conference-2013 video: Zach Allaun shows how to build a [http://www.infoq.com/presentations/julia-vectors-maps-sets](functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance). 
+## ACM SPLASH 
+* 2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
 
-##### Talks
+## StrangeLoop
+*2013*
+* Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
+* Strange Loop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
+
+##### LUG Talks, Slides.
 * SF.jl :: Slides for the SF Julia meetup](https://github.com/johnmyleswhite/SF.jl)
 * UCDavis.jl :: [Talk given at UC Davis on 2/27/2014](https://github.com/johnmyleswhite/UCDavis.jl)
 * [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
@@ -42,6 +50,6 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 * A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
 
 
-# RESEARCH 
+# RESEARCH PAPERS
 * [Julia language research publications](http://julialang.org/publications/).
 

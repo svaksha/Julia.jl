@@ -34,6 +34,7 @@
 * Chango:: [is a simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink](https://bitbucket.org/mbaz/chango).
 * OSC.jl :: [Open Sound Control serialization library](https://github.com/fundamental/OSC.jl), a port of RTOSC for Julia.
 * PortAudio.jl:: [Julia interface API](https://github.com/ssfrr/PortAudio.jl) for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
+* Radio.jl :: [A digital communications package for the Julia language](https://github.com/JayKickliter/Radio.jl)
 * Sound.jl:: [Reading and writing from WAV files](https://github.com/JuliaLang/Sound.jl).
 
 
