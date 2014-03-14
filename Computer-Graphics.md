@@ -17,9 +17,8 @@
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
 * Curvelet.jl :: [Implementation of the Uniform Discrete Curvelet Transform (UDCT)](https://github.com/fundamental/Curvelet.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
-* GLFW.jl :: [GLFW bindings for Julia - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input](https://github.com/jayschwa/GLFW.jl)
-   * DOCS
-   * julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
+* GLGraphics.jl :: [Advanced 3D and 2D graphics for Julia](https://github.com/SimonDanisch/GLGraphics.jl)
+* GLFW.jl :: [GLFW bindings for Julia](https://github.com/jayschwa/GLFW.jl) - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input.
 * GLUT.jl :: A Julia interface to [GLUT](https://github.com/rennis250/GLUT.jl). Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
@@ -32,6 +31,8 @@
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
+##### DOCS
+* julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
 
 ## Games
 * Quake2.jl :: [Experimental Quake 2 map graphics engine written with Julia and modern OpenGL](https://github.com/jayschwa/Quake2.jl)
