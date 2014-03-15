@@ -62,7 +62,6 @@
 * FixedPoint.jl :: [Fixed point types for Julia](https://github.com/JeffBezanson/FixedPoint.jl)
 * Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
-* ICU.jl :: Julia wrapper for the [International Components for Unicode (ICU) library](https://github.com/nolta/ICU.jl).
 * MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
 * MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
 * MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
@@ -72,9 +71,7 @@
    * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
 * Typeclass.jl :: [Prototype typeclasses for Julia](https://github.com/jasonmorton/Typeclass.jl)
 * TypeGraph.jl :: [Visualize the Julia type system](https://github.com/johnmyleswhite/TypeGraph.jl)
-* UnicodeExtras.jl :: [Another Unicode package](https://github.com/nolta/UnicodeExtras.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
-* UTF16.jl :: [UTF16 string type](https://github.com/nolta/UTF16.jl) for Julia.
 * YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
 
 
