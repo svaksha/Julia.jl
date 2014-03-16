@@ -44,6 +44,7 @@
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
 * Cairo.jl :: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl).
 * Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
+* Displaz.jl :: [is julia bindings](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
@@ -60,6 +61,7 @@
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
 * VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
+
 
 ### CookBooks
 *Read other Julia users experiences with visualization and plotting*
