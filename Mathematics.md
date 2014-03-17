@@ -111,6 +111,7 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * BSplines.jl :: [This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.](https://github.com/gusl/BSplines.jl)
 * IncrementalSVD.jl :: [Simon Funk's approach to collaborative filtering using the singular value decomposition](https://github.com/aaw/IncrementalSVD.jl), implemented in Julia.
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
+* NumericFunctors.jl :: [Typed functors for numerical computations](https://github.com/lindahua/NumericFunctors.jl)
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
 * PNLA__Julia :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision](https://github.com/kbatseli/PNLA_Julia) in Julia.
 * RK4.jl :: This package implements a fairly fast [Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver](https://github.com/ntezak/RK4.jl) that is not technically provably accurate, but works well for finite bandwidth SDE's.
