@@ -1,4 +1,7 @@
-The [svaksha.github.io/Julia.jl](http://svaksha.github.io/Julia.jl) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources, [mirrored at BB](https://bitbucket.org/svaksha/Julia.jl).
+The [svaksha.github.io/Julia.jl](http://svaksha.github.io/Julia.jl) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources.
+Mirrors:
+* [BitBucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
+* [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
 
 
 # PAGES
