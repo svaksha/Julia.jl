@@ -36,6 +36,7 @@
 * HyperLogLog.jl :: [A simple HyperLogLog implementation](https://github.com/johnmyleswhite/HyperLogLog.jl) in Julia.
 * HypothesisTests.jl :: [T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics](https://github.com/simonster/HypothesisTests.jl) in Julia.
 * Isotonic.jl :: [This implements several algorithms for isotonic regression in Julia.](https://github.com/ajtulloch/Isotonic.jl)
+   * @ajtulloch's blog on [speeding up Isotonic Regression with Julia](http://tullo.ch/articles/python-vs-julia/) and the [IJulia notebook](http://nbviewer.ipython.org/url/gist.githubusercontent.com/ajtulloch/9485996/raw/94b3d0e6bd67256f1f02eebb1463365dbc8b64fc/Julia.ipynb)
 * ITC.jl :: [Code for modeling intertemporal choice](https://github.com/johnmyleswhite/ITC.jl) in Julia.
 * JAGS.jl: A Julia interface to [JAGS, to provide a shared library as an interface between Julia and JAGS](https://github.com/olofsen/JAGS.jl) - Just another Gibbs sampler.
 * JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
