@@ -37,7 +37,8 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 # DEVELOPMENT
 ### GSoC
 * 2014: [GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
-
+   *Temporary placeholder for interesting student proposals until the final selection of candidates*
+   * UCIMLRepo :: [A small package to allow for easy access and download of datasets from UCI ML repository](https://github.com/siddhantjain/UCIMLRepo)
 
 
 # MEDIA
