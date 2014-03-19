@@ -68,6 +68,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * MLBase.jl :: [A set of functions to support the development of machine learning algorithms](https://github.com/lindahua/MLBase.jl).
 * MultiLabelNeuralNetwork.jl :: [A simple feed-forward neural network for multi-label classification](https://github.com/jperla/MultiLabelNeuralNetwork.jl)
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
+* SFA.jl :: [Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion)](https://github.com/makokal/SFA.jl) in Julia.
 
 ##### Tutorials
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
