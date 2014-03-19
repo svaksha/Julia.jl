@@ -20,7 +20,7 @@
 * SkyCoords.jl :: [Astronomical coordinate systems](https://github.com/kbarbary/SkyCoords.jl) in Julia.
 * WCS.jl :: [Julia wrapper for wcstools library](https://github.com/kbarbary/WCS.jl)
 * WCS.jl :: [wcslib wrapper for Julia](https://github.com/nolta/WCS.jl)
-
+* WCSLIB.jl :: [wcslib wrapper for Julia](https://github.com/nolta/WCSLIB.jl)
 
 # BIOLOGY 
 * BioJulia on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
