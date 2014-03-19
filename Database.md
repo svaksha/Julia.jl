@@ -1,3 +1,4 @@
+* [Datasets Databases](#datasets-databases)
 * [MiddlewareAPI](#middlewareapi)
 * [NoSQL](#nosql)
    * [FoundationDB](#foundationdb)
@@ -7,12 +8,16 @@
    * [MySQL](#mysql)
    * [PostgreSQL](#postgresql)
    * [SQLite](#sqlite)
-* [Free Databases](#free-databases)
 
 
-* JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
+# Datasets and Databases
+* RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
+* WorldBankData.jl :: [The World Bank provides free access to data about development at data.worldbank.org](https://github.com/4gh/WorldBankData.jl)
+
+
 
 # MiddlewareAPI
+* JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
 * DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
 * ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
 * ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
@@ -43,5 +48,4 @@
 * SQLite.jl :: Julia interface to the [SQLite library](https://github.com/karbarcca/SQLite.jl) with support for operations on DataFrames.
 * Sqlite3.jl :: A wrapper for the [SQLite3 C API](https://github.com/PeetV/Sqlite3.jl), to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
-# * Free Databases
-* WorldBankData.jl :: [The World Bank provides free access to data about development at data.worldbank.org](https://github.com/4gh/WorldBankData.jl)
+

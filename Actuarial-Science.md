@@ -60,7 +60,6 @@
 * QuantileRegression.jl :: [Quantile regression in the Julia language](https://github.com/vincentarelbundock/QuantileRegression.jl)
 * Queries :: [Composable queries for Julia DataFrames](https://github.com/carljv/Queries)
 * RandomProcesses.jl :: [Random processes (CRP, CRT) in Julia](https://github.com/johnmyleswhite/RandomProcesses.jl)
-* RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
 * Ridge.jl :: [Ridge regression and classification](https://github.com/johnmyleswhite/Ridge.jl)
 * Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
