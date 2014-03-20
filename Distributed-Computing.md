@@ -32,6 +32,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * SimJulia.jl:: [ is a combined continuous time / discrete event process oriented simulation framework](https://github.com/BenLauwens/SimJulia.jl) written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 * UAParser.jl:: A package to [parse user-agent strings](https://github.com/randyzwitch/UAParser.jl) in Julia, a Julia port of a multi-language port of a parser created by Browserscope, of which a YAML file has been provided under Apache License V2.0. To install, use Pkg.clone("https://github.com/randyzwitch/UAParser.jl"), as the package is yet to be a part of the Julia package repository in METADATA.jl.
 * URIParser.jl: is a [URI parser](https://github.com/loladiro/URIParser.jl) implemented in Julia.
+* URITemplate.jl :: [This package provides URI Template interpolation by implementing (RFC 6570)](https://github.com/loladiro/URITemplate.jl)
 * WWWClient.jl: is a [HTTP client](https://github.com/loladiro/WWWClient.jl) written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 * ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
 * WEBSTACK :: The [Julia Webstack](http://juliawebstack.org) is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon...
