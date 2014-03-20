@@ -52,6 +52,7 @@
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
+* GraphViz.jl :: [Julia bindings for the GraphViz library](https://github.com/loladiro/GraphViz.jl)
 * julia-glplot :: [Opengl plotting](https://github.com/o-jasper/julia-glplot) - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 * matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
