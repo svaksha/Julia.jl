@@ -17,6 +17,7 @@
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
 * Curvelet.jl :: [Implementation of the Uniform Discrete Curvelet Transform (UDCT)](https://github.com/fundamental/Curvelet.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
+* DelayedBuffer.jl :: [Delayed buffer view for Julia 1D arrays](https://github.com/jfsantos/DelayedBuffer.jl).
 * GLGraphics.jl :: [Advanced 3D and 2D graphics for Julia](https://github.com/SimonDanisch/GLGraphics.jl)
 * GLFW.jl :: [GLFW bindings for Julia](https://github.com/jayschwa/GLFW.jl) - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input.
 * GLUT.jl :: A Julia interface to [GLUT](https://github.com/rennis250/GLUT.jl). Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
