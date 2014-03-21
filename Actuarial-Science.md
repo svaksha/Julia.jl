@@ -54,6 +54,7 @@
 * NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
 * Nonparametric.jl :: [The julia package for nonparametric density estimate and regression](https://github.com/panlanfeng/Nonparametric.jl).
 * NHST.jl :: [Null hypothesis significance tests](https://github.com/johnmyleswhite/NHST.jl)
+* OpenPP.jl :: [Open Source Probabilistic Programming](https://github.com/JuliaStats/OpenPP.jl) in Julia.
 * ParallelSparseRegression.jl :: [A Julia library for parallel sparse regression](https://github.com/madeleineudell/ParallelSparseRegression.jl), that implements solvers for regression problems including least squares, ridge regression, lasso, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 * ProbabilisticModeling.jl :: [A BUGS-like language for describing probabilistic models in Julia](https://github.com/johnmyleswhite/ProbabilisticModeling.jl)
 * ProbTopicModels.jl :: [Probabilistic topic models](https://github.com/lindahua/ProbTopicModels.jl)
