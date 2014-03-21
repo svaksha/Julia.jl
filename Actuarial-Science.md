@@ -44,6 +44,7 @@
 * KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
 * KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
 * LIBSVM.jl :: [Julia bindings for LIBSVM](https://github.com/simonster/LIBSVM.jl)
+* LARS.jl :: [Least angle regression](https://github.com/simonster/LARS.jl)
 * MCMC.jl :: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
 * MCMC2.jl :: [Alternative MCMC package design demo](https://github.com/johnmyleswhite/MCMC2.jl)
 * MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
