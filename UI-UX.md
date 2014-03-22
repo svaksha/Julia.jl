@@ -28,7 +28,6 @@
 # JAVASCRIPT
 * GoogleCharts.jl: [Julia interface to Google Chart Tools](https://github.com/jverzani/GoogleCharts.jl)
 * j2d3.jl :: [trying to generate d3 statements from within julia](https://github.com/fredo-dedup/j2d3.jl)
-* Mustache.jl: [Port of mustache.js to julia]](https://github.com/jverzani/Mustache.jl)
 
 
 # MARKDOWN

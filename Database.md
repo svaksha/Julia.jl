@@ -14,6 +14,7 @@
 * CommonCrawl.jl :: [Interface to common crawl dataset on Amazon S3](https://github.com/tanmaykm/CommonCrawl.jl)
 * PublicSuffix.jl :: [Julia Interface for working with the Public Suffix List](https://github.com/tanmaykm/PublicSuffix.jl) at http://publicsuffix.org/.
 * RDatasets.jl :: Julia package for [loading many of the data sets](https://github.com/johnmyleswhite/RDatasets.jl) available in R.
+* UCIMLRepo.jl :: [A small package to allow for easy access and download of datasets from UCI ML repository](https://github.com/siddhantjain/UCIMLRepo.jl)
 * WorldBankData.jl :: [The World Bank provides free access to data about development at data.worldbank.org](https://github.com/4gh/WorldBankData.jl)
 
 
