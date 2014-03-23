@@ -17,6 +17,7 @@
 * Church.jl :: helps you [perform inference in complex, and simple, probabilistic models](https://github.com/LaurenceA/Church.jl)
 * Cartesian.jl :: [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
 * Calculus.jl :: [Calculus package](https://github.com/johnmyleswhite/Calculus.jl)
+* Calculus2.jl :: [A draft of a new interface for the Calculus package](https://github.com/johnmyleswhite/Calculus2.jl)
 * Catalan.jl :: [a combinatorics library](https://github.com/andrioni/Catalan.jl) for Julia.
 * CRF.jl :: [Conditional Random Fields](https://github.com/slyrz/CRF.jl) in Julia.
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
