@@ -1,5 +1,6 @@
 * [Datasets](#datasets)
 * [MiddlewareAPI](#middlewareapi)
+* [Memcached](#memcached)
 * [NoSQL](#nosql)
    * [FoundationDB](#foundationdb)
    * [MongoDB](#mongodb) 
@@ -23,6 +24,10 @@
 * DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
 * ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
 * ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
+
+
+# Memcached
+* Memcache.jl :: [Julia memcached client](https://github.com/tanmaykm/Memcache.jl)
 
 
 # NoSQL
