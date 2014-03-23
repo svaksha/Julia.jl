@@ -34,6 +34,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl) for the Julia language.
 * ImmutableArrays.jl:: [Statically-sized immutable vectors and matrices](https://github.com/twadleigh/ImmutableArrays.jl).
 * InverseService:: [Matrix Inverse](https://github.com/IainNZ/InverseService) as a Service.
+* JudyDicts.jl :: [Judy Array for Julia](https://github.com/tanmaykm/JudyDicts.jl)
 * JSparse.jl :: [A Julia implementation of functions in the CSparse and CXSparse libraries](https://github.com/dmbates/JSparse.jl) developed by Tim Davis. 
 * julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
 * L1DecisionTree.jl :: https://github.com/neggert/L1DecisionTree.jl

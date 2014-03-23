@@ -3,8 +3,6 @@
    * [ACM SPLASH](#acm-splash)
    * [StrangeLoop](#strangeloop)
 * [RESEARCH PAPERS](#research-papers)
-   * [About Julia](#about-julia)
-   * [Using Julia](#using-julia)
    
    
 # CONFERENCES
