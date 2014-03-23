@@ -31,6 +31,8 @@
 
 ## File compression 
 * gzip.jl:: [GunZip in Julia](https://github.com/jvns/gzip.jl).
+* ZipFile.jl :: [Read/Write ZIP archives in Julia](https://github.com/fhs/ZipFile.jl)
+   * DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 
 ## Desktop Document processing 
 * Taro.jl :: [can process office documents in Julia](https://github.com/aviks/Taro.jl).
