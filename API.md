@@ -19,6 +19,7 @@
 # API
 * Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
 * Twitter.jl :: [Julia package to access the Twitter API](https://github.com/randyzwitch/Twitter.jl)
+* Twilert.jl :: [A small SMS alert library for Julia.](https://github.com/glesica/Twilert.jl)
 
 ## Math
 * MathLink.jl :: [provides bindings to the MathLink library, which is an interface for Mathematica.](https://github.com/simonbyrne/MathLink.jl)
