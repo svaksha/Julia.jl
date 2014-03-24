@@ -23,6 +23,7 @@
 * Ipopt.jl :: [is a Julia interface to the Ipopt nonlinear solver](https://github.com/JuliaOpt/Ipopt.jl).
 * IProfile :: Use [IProfile in Base to profile your code](http://docs.julialang.org/en/latest/stdlib/profile/). It contains an "instrumenting profiler" for the Julia language and you can see the [IProfile.jl package on github](https://github.com/timholy/IProfile.jl).
 * JuliaCMAES:: [CMA-ES port](https://github.com/Staross/JuliaCMAES) - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
+* Junquo.jl :: stands for "[JUlia Nonconvex QUadratically constrained quadratic program Optimizer](http://github.com/IainNZ/Junquo.jl)", a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
 * Mosek.jl :: [Interface to the Mosek solver](https://github.com/JuliaOpt/Mosek.jl) in Julia.
 * NLopt.jl :: Package to call the [NLopt nonlinear-optimization library](https://github.com/JuliaOpt/NLopt.jl) from the Julia language.
 * Proximal.jl :: [Translation of Parikh and Boyd code for proximal algorithms](https://github.com/johnmyleswhite/Proximal.jl)
