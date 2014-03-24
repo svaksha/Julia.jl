@@ -8,7 +8,7 @@
 
 
 # ASTRONOMY 
-* [JuliaAstro group on Github](https://github.com/JuliaAstro)
+* [JuliaAstro group on Github](https://JuliaAstro.github.io)
 * Astrodynamics.jl :: [An astrodynamics library](https://github.com/helgee/Astrodynamics.jl) in Julia.
 * Cosmology.jl :: [Cosmology library](https://github.com/JuliaAstro/Cosmology.jl) for Julia.
 * DustExtinction.jl :: [Models for the interstellar extinction due to dust](https://github.com/JuliaAstro/DustExtinction.jl).
