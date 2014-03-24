@@ -83,8 +83,11 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # NEURAL NETWORKS
+* Julia_Neural_Network :: [Basic Neural Network written in JuliaLang](https://github.com/nwenzel/Julia_Neural_Network
+* mlpnnets.jl :: [Feed-forward MLP neural network implementation](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl)
 * neural.jl :: [is a Julia implementation of a neural network](https://github.com/compressed/neural.jl), based on Sergio Fierens Ruby version.
 * neuralnetwork.jl :: [is an implementation of label neural network](https://github.com/tomaskrehlik/neuralnetwork.jl) originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
+
 
 
 # NLP 
