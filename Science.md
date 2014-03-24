@@ -56,6 +56,7 @@
    * *Forks*
    * https://github.com/ihnorton/GMT.jl
 * hillerislambers :: [Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics](https://github.com/wkearn/hillerislambers)
+* SpatialStats.jl :: [Spatial Statistics](https://github.com/dchudz/SpatialStats.jl)
 
 
 # METEOROLOGY
