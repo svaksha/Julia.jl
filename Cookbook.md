@@ -54,6 +54,7 @@
 * iap2014 :: [MIT IAP Class 2014: 18.S096 Introduction to Julia Computing](https://github.com/JuliaX/iap2014)
 * DataGotham.jl :: [IJulia Notebook with material for DataGotham-2013 tutorial](https://github.com/johnmyleswhite/DataGotham.jl) on using Julia for data analysis.
 * IJuliaNotebooks :: [IJulia notebooks highlighting code features of Julia](https://github.com/JuliaX/IJuliaNotebooks)
+* IJulia_ PLEAC :: [IJulia version of PLEAC - Programming Language Examples Alike Cookbook](https://github.com/catawbasam/IJulia_PLEAC)
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks[(https://github.com/ppalmes/JuliaHTML)
 
