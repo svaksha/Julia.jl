@@ -16,6 +16,7 @@
 # Blogs 
 * The official [Julia language blog](http://julialang.org/blog/)
 * The [Julia Planet](http://juliablogs.com/)
+* [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
 * [Leah Hanson's blog post about helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html)
 * Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
 * Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
