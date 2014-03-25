@@ -70,6 +70,7 @@
 * SGDDemo.jl :: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
 * SGD2.jl :: [Stochastic gradient descent, a draft of new methods for SGD calculations](https://github.com/johnmyleswhite/SGD2.jl)
 * SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
+* SimpleNets :: [Simple neural nets implementions in Julia](https://github.com/rgehring/SimpleNets)
 * SimpleRL.jl :: [A bare-bones package for simulating RL models and estimating them from behavioral data](https://github.com/johnmyleswhite/SimpleRL.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
