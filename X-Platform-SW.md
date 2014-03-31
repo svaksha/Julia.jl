@@ -19,6 +19,7 @@
 * Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
 * CUDA.jl :: [package wraps key functions in CUDA Driver API](https://github.com/lindahua/CUDA.jl) for Julia.
 * CUDArt.jl :: [Julia wrapper for CUDA runtime API](https://github.com/timholy/CUDArt.jl)
+* CUFFT.jl :: [Wrapper for the CUDA FFT library](https://github.com/timholy/CUFFT.jl)
 * julia-CuMatrix :: [CUDA Matrix library for julia](https://github.com/stefan-k/julia-CuMatrix)
 * MPI.jl :: A basic Julia wrapper for the [portable message passing system Message Passing Interface (MPI)](https://github.com/lcw/MPI.jl).
 * Yeppp.jl :: [is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures](https://github.com/JuliaLang/Yeppp.jl), and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
