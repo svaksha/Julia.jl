@@ -53,7 +53,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 
 
 # NETWORKING
-* DT.jl :: [DateTime Rewrite](https://github.com/karbarcca/DT.jl)
+* Dates.jl :: [A Date and DateTime implementation for Julia](https://github.com/karbarcca/Dates.jl)
 * Juliaflow :: [is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0](https://github.com/pchronz/juliaflow)
 * [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
 * SMTPClient.jl :: An [SMTP client to send emails](https://github.com/aviks/SMTPClient.jl) from Julia.
