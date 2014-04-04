@@ -68,6 +68,7 @@
 * auditory.jl :: [Auditory filterbanks in Julia](https://github.com/jfsantos/auditory.jl)
 * CMSSW.jl :: [A work-in-progress wrapper for ROOT.jl](https://github.com/jpata/CMSSW.jl)
 * Codata.jl :: https://github.com/kofron/Codata.jl
+* HEP.jl :: [A collection of methods useful for HEP](https://github.com/jpata/HEP.jl)
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
 * Quantities.jl :: [Dimensions and Quantities](https://github.com/ElOceanografo/Quantities.jl)
 * ROOT.jl :: [A toy experiment interfacing ROOT and Julia through FWLite](https://github.com/jpata/ROOT.jl). [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
