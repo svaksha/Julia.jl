@@ -34,8 +34,10 @@
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TestImages.jl :: [Loading standard test images into Julia](https://github.com/timholy/TestImages.jl)
 * TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
+
 ##### DOCS
 * julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
+
 
 ## Games
 * Quake2.jl :: [Experimental Quake 2 map graphics engine written with Julia and modern OpenGL](https://github.com/jayschwa/Quake2.jl)

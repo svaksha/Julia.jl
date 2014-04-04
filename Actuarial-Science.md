@@ -84,6 +84,7 @@
 
  
 ## Econometrics 
+* DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
 * Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
 * GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
 * Jconometrics.jl :: [MATLAB to Julia port of Spatial Econometrics](https://github.com/adriantorrie/Jconometrics.jl)
