@@ -33,6 +33,7 @@
 * FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
 * GaussDCA.jl :: [Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families](https://github.com/carlobaldassi/GaussDCA.jl).
 * GeneticAlgorithms.jl :: is a [lightweight framework that simplifies the process of creating genetic algorithms](https://github.com/forio/GeneticAlgorithms.jl) and running them in parallel.
+* OBC.jl :: [Optimal Bayesian classification for RNA-Seq data](https://github.com/binarybana/OBC.jl)
 * pikaiaGAs.jl :: [Genetic algorithms](https://github.com/tmeits/pikaiaGAs.jl)
 * Phylogenetics.jl :: The Julia package for [analysis of evolution and phylogeny](https://github.com/Ward9250/Phylogenetics.jl)
 * Pagel.jl :: can [detect correlated evolution on phylogenies](https://github.com/porterjamesj/Pagel.jl)
