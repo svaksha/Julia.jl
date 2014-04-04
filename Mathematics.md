@@ -103,7 +103,7 @@
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
 * Geometry2D.jl :: [2D computational geometry package](https://github.com/mroughan/Geometry2D.jl) for Julia programming language.
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)
-
+* TensorOperations.jl :: [Julia package for tensor contractions and related operations](https://github.com/Jutho/TensorOperations.jl)
 
 ### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
