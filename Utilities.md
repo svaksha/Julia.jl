@@ -52,6 +52,7 @@
 ### IDE
 * emacs-ess-julia.el :: [ESS support for julia language](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el), includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
+* Debug.jl :: [Prototype interactive debugger for Julia](https://github.com/toivoh/Debug.jl)
 * jEdit-julia :: A [jEdit mode](https://github.com/tuckerkevin/jedit-julia) for Julia.
 * Jewel.jl :: [is the Julia package which handles communication with Light Table for Jewel](https://github.com/one-more-minute/Jewel.jl) 
 * Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
