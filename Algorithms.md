@@ -1,26 +1,22 @@
 ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...
 
-* [Markov Models](#markov-models)
-* [Common Search Algorithms](#common-search-algorithms)
-* [Data Structures](#data-structures)
-* [Machine Learning](#machine-learning])
+* [CHECKSUM ALGORITHMS](#checksum-algorithms)
+* [DATA STRUCTURES](#data-structures)
+* [MACHINE LEARNING](#machine-learning])
    * [Clustering Algorithms](#clustering-algorithms)
-* [Neural Networks](#neural-networks)
+* [MARKOV MODELS](#markov-models)
+* [NEURAL NETWORKS](#neural-networks)
 * [NLP](#nlp)
-* [Quantum Algorithms](#quantum-algorithms)
+* [QUANTUM ALGORITHMS](#quantum-algorithms)
+* [SEARCH ALGORITHMS](#common-search-algorithms)
     
 
-# Markov Models
-* Pagerank.jl :: [An experiment in pagerank on graphs in the order of billions of edges](https://github.com/purzelrakete/Pagerank.jl) - Currently tested with over half a billion edges.
+# CHECKSUM ALGORITHMS
+* CRC.jl :: [This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs)](https://github.com/andrewcooke/CRC.jl)
+* CRC32.jl :: [32-bit cyclic redundancy check (CRC-32) checksum implementation](https://github.com/fhs/CRC32.jl)
 
 
-# Common Search Algorithms 
-* AhoCorasick.jl :: Julia implementation of the [Aho-Corasick algorithm for fast string searching](https://github.com/gilesc/AhoCorasick.jl).
-* Loess.jl :: is a loess implementation based on the [fast kd-tree based approximation algorithm](https://github.com/dcjones/Loess.jl), a space-partitioning data structure for organizing points in a k-dimensional space.
-* NearestNeighbors.jl :: [Data structures for nearest neighbor search](https://github.com/johnmyleswhite/NearestNeighbors.jl).
-
-
-# Data Structures 
+# DATA STRUCTURES
 (Arrays / Hash tables / Matrix / Functional / Trees data structures,..)
 * ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
@@ -84,6 +80,10 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 
+# MARKOV MODELS
+* Pagerank.jl :: [An experiment in pagerank on graphs in the order of billions of edges](https://github.com/purzelrakete/Pagerank.jl) - Currently tested with over half a billion edges.
+
+
 # NEURAL NETWORKS
 * Julia_Neural_Network :: [Basic Neural Network written in JuliaLang](https://github.com/nwenzel/Julia_Neural_Network
 * mlpnnets.jl :: [Feed-forward MLP neural network implementation](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl)
@@ -106,6 +106,12 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
 
 
-# Quantum Algorithms 
+# QUANTUM ALGORITHMS
 * Hadamard.jl :: [Fast multidimensional Walsh-Hadamard transforms](https://github.com/stevengj/Hadamard.jl).
+
+
+# SEARCH ALGORITHMS
+* AhoCorasick.jl :: Julia implementation of the [Aho-Corasick algorithm for fast string searching](https://github.com/gilesc/AhoCorasick.jl).
+* Loess.jl :: is a loess implementation based on the [fast kd-tree based approximation algorithm](https://github.com/dcjones/Loess.jl), a space-partitioning data structure for organizing points in a k-dimensional space.
+* NearestNeighbors.jl :: [Data structures for nearest neighbor search](https://github.com/johnmyleswhite/NearestNeighbors.jl).
 
