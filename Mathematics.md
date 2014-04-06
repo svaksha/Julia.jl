@@ -23,8 +23,6 @@
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
 * Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
 * DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
-* DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
-* DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
 * Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
 * Entropy.jl :: [This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions](https://github.com/grero/Entropy.jl)
 * ForwardDiff.jl :: Juila package for [performing forward mode automatic differentiation](https://github.com/scidom/ForwardDiff.jl)
@@ -62,7 +60,6 @@
 * SurfaceMesh.jl :: is a [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl) to work with polygon-surface-meshes.
 * Symbolic.jl :: [Symbolic computations and computer algebra in Julia](https://github.com/scidom/Symbolic.jl)
 * SymPy.jl :: [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
-* TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
 * TSne.jl :: Julia port of [L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique](https://github.com/lejon/TSne.jl). Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
 * Uncertain.jl:: [Uncertain quantities and error propagation](https://github.com/rephorm/Uncertain.jl) for the Julia language.
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
@@ -86,6 +83,9 @@
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
 * ApproxFun :: [Julia IFun Implementation is a package for approximating functions](https://github.com/dlfivefifty/ApproxFun). It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
+* DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
+* DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
+* HyperNumbers.jl :: [Julia implementation of HyperNumbers](https://github.com/goedman/HyperNumbers.jl)
 * pdetools.jl :: [Toolbox for solving PDEs](https://github.com/GaZ3ll3/pdetools.jl)
 * PowerSeries.jl :: [Truncated Power Series](https://github.com/jwmerrill/PowerSeries.jl) for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
    * _Power Series Blog_::
@@ -94,6 +94,7 @@
 * RAD.jl:: [package defines a macro, @autodiff, for reverse-mode automatic differentiation](https://github.com/adamkapor/RAD.jl)
 * ReverseDiffSource.jl :: [Reverse automated differentiation from source](https://github.com/fredo-dedup/ReverseDiffSource.jl)
 * ReverseDiffSparse.jl :: [Hessian algorithmic differentiation to compute hessian sparsity pattern](https://github.com/mlubin/ReverseDiffSparse.jl).
+* TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
 
 **_Ordinary Differential Equations (ODE)_**
 * ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
