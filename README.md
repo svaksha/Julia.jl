@@ -1,4 +1,5 @@
 The [svaksha.github.io/Julia.jl](http://svaksha.github.io/Julia.jl) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources.
+
 Mirrors:
 * [BitBucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 * [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
@@ -22,7 +23,7 @@ Mirrors:
 * [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
 * [NEWS.md](https://github.com/svaksha/Julia.jl/blob/master/NEWS.md)
 * [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
-* [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, etc..
+* [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, file formats, etc..
 * [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
 * [UI-UX.md](https://github.com/svaksha/Julia.jl/blob/master/UI-UX.md) :: User Interface software in Julia.
 * [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits for your Desktop and other general utilities.

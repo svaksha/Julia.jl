@@ -57,6 +57,7 @@
 * ASCIIByte.jl :: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
 * AutoFormat.jl :: https://github.com/yulijia/AutoFormat.jl
 * BigRationals.jl :: [is a BigRational package for Julia using GMP](https://github.com/andrioni/BigRationals.jl)
+* JBDF.jl :: [Module to read Biosemi BDF files with the Julia programming language](https://github.com/sam81/JBDF.jl)
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
 * DictViews.jl :: [KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries](https://github.com/daviddelaat/DictViews.jl)
 * FixedPoint.jl :: [Fixed point types for Julia](https://github.com/JeffBezanson/FixedPoint.jl)
