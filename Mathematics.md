@@ -85,6 +85,7 @@
 * ApproxFun :: [Julia IFun Implementation is a package for approximating functions](https://github.com/dlfivefifty/ApproxFun). It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
 * DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
 * DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
+* HyperDualNumbers.jl :: [Hyper-Dual Numbers for Exact Second-Derivative Calculations](https://github.com/goedman/HyperDualNumbers.jl), is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 * HyperNumbers.jl :: [Julia implementation of HyperNumbers](https://github.com/goedman/HyperNumbers.jl)
 * pdetools.jl :: [Toolbox for solving PDEs](https://github.com/GaZ3ll3/pdetools.jl)
 * PowerSeries.jl :: [Truncated Power Series](https://github.com/jwmerrill/PowerSeries.jl) for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
