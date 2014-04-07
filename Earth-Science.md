@@ -1,5 +1,9 @@
+* [GEOSTATISTICS](#geostatistics)
 * [GIS](#gis)
 * [METEOROLOGY](#meteorology)
+
+# GEOSTATISTICS
+* Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
 
 # GIS 
 * GDAL.jl :: [Geospatial Data Analysis Library Wrapper for Julia](https://github.com/wkearn/GDAL.jl)
