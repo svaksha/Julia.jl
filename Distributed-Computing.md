@@ -1,9 +1,10 @@
 Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networking, frameworks and other Web related things go here:
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
-* [HTTP](#http)
-   * [WIDE](#wide)
+* [INTERNET](#internet)
    * [Template Engines](#template-engines)
+   * [WIDE](#wide)
+   * [WWW](#www)
 * [NETWORKING](#networking)
 
 
@@ -23,11 +24,19 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 
 
 
-# HTTP 
+# INTERNET
+## Template Engines
+* Mustache.jl: [Port of mustache.js to julia]](https://github.com/jverzani/Mustache.jl)
+
+## WIDE
+* JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
+
+## WWW
 * JuliaWebServer :: [a webserver for julia](https://github.com/chzyer/JuliaWebServer)
 * Laurence.jl :: https://github.com/mneudert/Laurence.jl
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
 * PkgGithubRepo.jl :: [Get the Github repository information for a Julia package installed in Ubuntu](https://github.com/thiruk/PkgGithubRepo.jl)
+* RestClient.jl :: [A simple REST client for Julia](https://github.com/analyzere/RestClient.jl)
 * Requests.jl:: [Http client written in julia (depends on joyent/http-parser) for HTTP parsing](https://github.com/loladiro/Requests.jl). 
 * Romeo.jl :: [Another HTTP server to log requests, events, responses](https://github.com/mneudert/Romeo.jl)
 * SimJulia.jl:: [ is a combined continuous time / discrete event process oriented simulation framework](https://github.com/BenLauwens/SimJulia.jl) written in Julia inspired by the Simula library DISCO and the Python library SimPy.
@@ -45,11 +54,6 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
    * HttpParser.jl :: [Julia wrapper for Joyent's http-parser](https://github.com/JuliaLang/HttpParser.jl).
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
-## WIDE
-* JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
-
-## Template Engines
-* Mustache.jl: [Port of mustache.js to julia]](https://github.com/jverzani/Mustache.jl)
 
 
 # NETWORKING
