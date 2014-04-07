@@ -67,6 +67,7 @@
 * MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
 * MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
 * MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
+* ProtoBuf.jl :: [is a Julia implementation for protocol buffers](https://github.com/tanmaykm/ProtoBuf.jl), a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
 * Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
    * **DOCS::**

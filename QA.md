@@ -23,5 +23,4 @@
 * RunTests.jl :: [A test running framework](https://github.com/burrowsa/RunTests.jl) for Julia that extends Base.Test
 * Saute.jl :: [is another testing framework for Julia](https://github.com/milktrader/Saute.jl)
 * testfast.jl :: [Automatically finds test files and runs them](https://github.com/Veraticus/testfast.jl)
-* UnitTest.jl :: [Another unit-testing library for Julia](https://github.com/analyzere/UnitTest.jl), that writes output to XML for Jenkins(?)
-
+* UnitTest.jl :: [Another unit-testing library for Julia](https://github.com/analyzere/UnitTest.jl), that provides nose test style output to the command line and is capable of producing an junit compatible xml result file.

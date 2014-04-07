@@ -1,6 +1,6 @@
-The [svaksha.github.io/Julia.jl](http://svaksha.github.io/Julia.jl) contains curated [decibans](http://en.wikipedia.org/wiki/Ban_%28information%29) of [Julia language](https://github.com/JuliaLang) learning resources.
+[Julia.jl](http://svaksha.github.io/Julia.jl) contains curated decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
-Mirrors:
+### Mirrors
 * [BitBucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 * [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
 
@@ -17,7 +17,7 @@ Mirrors:
 * [Conferences-Papers.md](https://github.com/svaksha/Julia.jl/blob/master/Conferences-Papers.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [Cookbook.md](https://github.com/svaksha/Julia.jl/blob/master/Cookbook.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, etc...
 * [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
-* [Distributed-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Distributed-Computing.md) :: Distributed Computing, Networking, Servers,...
+* [Distributed-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Distributed-Computing.md) :: WWW, HTTP, Distributed Computing, Networking, Servers, etc...
 * [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 * [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
 * [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
@@ -30,11 +30,11 @@ Mirrors:
 * [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
 
 
-**NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering. The *Julia.jl* repo only provides a list (of links) of Julia packages out in the wild, not an endorsment of the software quality/ features, etc.. 
+**NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not an endorsment of the software quality/ features, etc.. 
 
-For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
+For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
 
-Join the [http://julialang.org/community/](mailing list) or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
+Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
 
 
 ### Contributing
