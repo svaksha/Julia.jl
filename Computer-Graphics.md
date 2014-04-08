@@ -15,6 +15,7 @@
 * GLGraphics.jl :: [Advanced 3D and 2D graphics for Julia](https://github.com/SimonDanisch/GLGraphics.jl)
 * GLFW.jl :: [GLFW bindings for Julia](https://github.com/jayschwa/GLFW.jl) - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input.
 * GLUT.jl :: A Julia interface to [GLUT](https://github.com/rennis250/GLUT.jl). Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
+* GLUtil.jl :: [Utility package for ModernGL by @SimonDanisch](https://github.com/SimonDanisch/GLUtil.jl)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
