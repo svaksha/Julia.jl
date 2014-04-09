@@ -23,6 +23,9 @@
 
 
 # General Utilities 
+
+* Events.jl :: [Simple Event system](https://github.com/SimonDanisch/Events.jl)
+
 ## CLI 
 * ArgParse.jl:: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
 * GMT-julia-headers :: https://github.com/meggart/GMT-julia-headers
