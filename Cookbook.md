@@ -60,3 +60,4 @@
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks[(https://github.com/ppalmes/JuliaHTML)
 
+

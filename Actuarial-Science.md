@@ -7,7 +7,7 @@
    * [Operations Research](#operations-research)
    * [Statistical Tests](#stat-tests)
 * [VALUATION](#valuation)
-
+* [VIDEOS](#videos)
 
 # INFOGRAPHICS
 **Statistical Charts, Graphs, Plots, Histograms, Maps**
@@ -141,7 +141,6 @@
 * StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
 
 
-
 # VALUATION
 **Finance**
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
@@ -160,3 +159,5 @@
 * ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
 
 
+# VIDEOS
+* [Statistical Models in Julia video by Douglas Bates (@dmbates)](https://www.youtube.com/watch?v=v9Io-p_iymI)
