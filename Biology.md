@@ -1,12 +1,15 @@
+**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
+
 * [Biotechnology](#biotechnology)
+* [ComputationalSystemsBiology](#computationalsystemsbiology)
 * [Neuroscience](#neuroscience)
 
 
-* BioJulia on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
-* JuliaBio on github :: [https://github.com/JuliaBio](https://github.com/JuliaBio). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/#!forum/julia-bio
+* BioJulia group on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
+* JuliaBio group on github :: [https://github.com/JuliaBio](https://github.com/JuliaBio). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/#!forum/julia-bio
 
-### Biotechnology
-**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
+
+# Biotechnology
 * Bio.jl :: [Bioinformatics and Computational Biology Infrastructure](https://github.com/BioJulia/Bio.jl) for Julia.
 * BioSeq.jl :: Julia's package for working on [Bioinformatics with DNA, RNA and Protein Sequences](https://github.com/diegozea/BioSeq.jl).
 * Circuitscape.jl :: The [Julia implementation](https://github.com/tanmaykm/Circuitscape.jl) of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
@@ -22,7 +25,11 @@
 * smoothlife-jl :: [is an implementation of the SmoothLife algorithm](https://github.com/jamak/smoothlife-jl) in Julia.
 * StatGenData.jl :: [Statistical analysis of genomic data](https://github.com/dmbates/StatGenData.jl)
 
-### Neuroscience
+
+# Computational-Systems-Biology
+* Gillespie.jl :: [Stochastic Gillespie-type simulations using Julia](https://github.com/sdwfrost/Gillespie.jl)
+
+# Neuroscience
 * ElectroJulia.jl :: [Julia functions to process electroencephalographic recordings](https://github.com/sam81/ElectroJulia.jl)
 
 
