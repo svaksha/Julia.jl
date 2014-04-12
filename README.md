@@ -45,4 +45,4 @@ Some tips for submitting a [pull request (PR)](https://github.com/svaksha/Julia.
 
 
 # LICENSE 
-* This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. Read the LICENSE.md file for full details.
+* This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file for full details.

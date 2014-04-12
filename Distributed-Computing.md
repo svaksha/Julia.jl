@@ -32,6 +32,7 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
 
 ## WWW
+* ConfParser.jl :: [Julia package for parsing configuration files](https://github.com/dotslashb/ConfParser.jl) utilizing ini, http, and simple configuration syntaxes.
 * JuliaWebServer :: [a webserver for julia](https://github.com/chzyer/JuliaWebServer)
 * Laurence.jl :: https://github.com/mneudert/Laurence.jl
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
