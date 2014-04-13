@@ -13,6 +13,7 @@
 
 
 ### Optimization 
+* ampl.jl :: [Julia interface to the AMPL Solver Library (ASL)](https://github.com/dpo/ampl.jl)
 * JuliaOpt :: is an [umbrella group for Julia-based optimization-related projects](http://juliaopt.org/), with its own [julia-opt mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
 * BlackBoxOptim.jl :: [is an experimental, work-in-progress global optimization framework](https://github.com/robertfeldt/BlackBoxOptim.jl) for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 * CPLEX.jl :: [The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language](https://github.com/joehuchette/CPLEX.jl). You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
@@ -25,6 +26,7 @@
 * JuliaCMAES:: [CMA-ES port](https://github.com/Staross/JuliaCMAES) - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
 * Junquo.jl :: stands for "[JUlia Nonconvex QUadratically constrained quadratic program Optimizer](http://github.com/IainNZ/Junquo.jl)", a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
 * Mosek.jl :: [Interface to the Mosek solver](https://github.com/JuliaOpt/Mosek.jl) in Julia.
+* NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
 * NLopt.jl :: Package to call the [NLopt nonlinear-optimization library](https://github.com/JuliaOpt/NLopt.jl) from the Julia language.
 * Proximal.jl :: [Translation of Parikh and Boyd code for proximal algorithms](https://github.com/johnmyleswhite/Proximal.jl)
 * QuickCheck.jl :: is listed in METADATA and [based on QuickCheck specification-based randomized tester](https://github.com/pao/QuickCheck.jl) for Julia. 
