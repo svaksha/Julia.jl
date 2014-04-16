@@ -1,13 +1,26 @@
 *Statistics, Finance,....*
 
+* [ACTUARIAL SCIENCE](#actuarial-science)
+   * [Econometrics](#econometrics) 
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
 * [STATISTICS](#statistics)
-   * [Econometrics](#econometrics) 
-   * [Operations Research](#operations-research)
    * [Statistical Tests](#stat-tests)
-* [VALUATION](#valuation)
+   * [Valuation](#valuation)
 * [VIDEOS](#videos)
+
+
+# ACTUARIAL SCIENCE 
+### Econometrics 
+* DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
+* Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
+* GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
+* Jconometrics.jl :: [MATLAB to Julia port of Spatial Econometrics](https://github.com/adriantorrie/Jconometrics.jl)
+* julia__timeseries :: [Time-series analysis functions for Julia](https://github.com/ElOceanografo/julia_timeseries)
+* Loss.jl :: [General functions for estimating loss functions](https://github.com/johnmyleswhite/Loss.jl) inspired by Kaggle's release of code for many common metrics.
+* TimeSeries.jl:: [Time-series toolkit](https://github.com/JuliaStats/TimeSeries.jl) for Julia.
+* TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
+* TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
 
 
 # INFOGRAPHICS
@@ -46,6 +59,7 @@
 * Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * ConjugatePriors.jl :: [Closed form expressions for conjugate priors in Julia](https://github.com/johnmyleswhite/ConjugatePriors.jl)
+* CrossDecomposition.jl :: [Canonical-Correlation Analysis (CCA)](https://github.com/simonster/CrossDecomposition.jl)
 * DataFrames.jl :: [A Library for working with tabular data in Julia](https://github.com/juliastats/DataFrames.jl)
    * _DOCS_:: The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 * DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
@@ -109,32 +123,6 @@
 * DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
 
 
- 
-## Econometrics 
-* DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
-* Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
-* GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
-* Jconometrics.jl :: [MATLAB to Julia port of Spatial Econometrics](https://github.com/adriantorrie/Jconometrics.jl)
-* julia__timeseries :: [Time-series analysis functions for Julia](https://github.com/ElOceanografo/julia_timeseries)
-* Loss.jl :: [General functions for estimating loss functions](https://github.com/johnmyleswhite/Loss.jl) inspired by Kaggle's release of code for many common metrics.
-* TimeSeries.jl:: [Time-series toolkit](https://github.com/JuliaStats/TimeSeries.jl) for Julia.
-* TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
-* TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
-
-## Operations Research 
-* [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
-* CGRASP.jl :: [Continuous Greedy Randomized Adaptive Search Procedure (CGRASP)](https://github.com/tautologico/CGRASP.jl), in Julia.
-* CSDP.jl :: [Julia wrapper for the CSDP semidefinite programming solver](https://github.com/joehuchette/CSDP.jl)
-* jlSimplex :: [Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia](https://github.com/mlubin/jlSimplex).
-* jobshop :: [ The Jobshop (Open Shop Scheduling Problem (OSSP)) problem](https://github.com/stefan-k/jobshop) is solved with evolutionary strategies in Julia.
-* Predictors.jl :: https://github.com/dejakaymac/Predictors.jl
-* Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
-* SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-
-##### DOCS and TUTORIALS
-* ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
-* DG2012Tutorial.jl :: [Simple examples of SGD-style computations in Julia](https://github.com/johnmyleswhite/DG2012Tutorial.jl)
-
 
 ## Statistical Tests
 * RobustStats.jl :: [A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox](https://github.com/mrxiaohe/RobustStats.jl)
@@ -142,7 +130,7 @@
 
 
 
-# VALUATION
+## Valuation
 **Finance**
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
 * AssetMgmt.jl :: [Asset Management](https://github.com/cgroll/AssetMgmt.jl)

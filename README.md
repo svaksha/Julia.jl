@@ -6,7 +6,6 @@
 
 
 # PAGES
-* [Actuarial-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Actuarial-Science.md) :: Finance, economics, stochastic, insurance Statistics... packages.
 * [Algorithms.md](https://github.com/svaksha/Julia.jl/blob/master/Algorithms.md) :: AI, DataMining, Data Structures, ML, NLP, ...
 * [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
 * [Benchmarks-Optimization.md](https://github.com/svaksha/Julia.jl/blob/master/Benchmarks-Optimization.md) :: Benchmarks and Optimization toolkits.
@@ -25,6 +24,7 @@
 * [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 * [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, file formats, etc..
 * [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
+* [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics... packages.
 * [UI-UX.md](https://github.com/svaksha/Julia.jl/blob/master/UI-UX.md) :: User Interface software in Julia.
 * [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits for your Desktop and other general utilities.
 * [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.

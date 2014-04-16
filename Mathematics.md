@@ -1,11 +1,24 @@
+* [CRYPTOGRAPHY](#cryptography)
 * [MATH ](#math)
    * [Algebra](#algebra)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
    * [Geometry](#geometry)
    * [Numerical Analysis](#numerical-analysis)
-* [CRYPTOGRAPHY](#cryptography)
 * [PUZZLES](#puzzles)
+* [OPERATIONS RESEARCH](#operations-research)
+
+
+# CRYPTOGRAPHY
+* BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
+* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
+* OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
+* RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
+* RNGTesting :: [Scripts for testing Julia's RNG's](https://github.com/johnmyleswhite/RNGTesting)
+* Sha256.jl :: [Sha256 hash algorithm for Julia](https://github.com/mad4alcohol/Sha256.jl)
+* Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
+
 
 
 # MATH 
@@ -127,20 +140,8 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 
 
 
-#CRYPTOGRAPHY
-* BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
-* Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
-* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
-* OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
-* RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
-* RNGTesting :: [Scripts for testing Julia's RNG's](https://github.com/johnmyleswhite/RNGTesting)
-* Sha256.jl :: [Sha256 hash algorithm for Julia](https://github.com/mad4alcohol/Sha256.jl)
-* Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
-
-
-
 # PUZZLES
-*Puzzles, problem solving games*
+**Puzzles, problem solving games**
 * Cbc.jl:: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
 * Deepthought.jl :: https://github.com/dejakaymac/Deepthought.jl
 * euler :: [Project Euler solutions in Julia](https://github.com/somu/euler)
@@ -150,4 +151,18 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
 * Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles :: [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb)
 
+
+# OPERATIONS RESEARCH 
+* [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
+* CGRASP.jl :: [Continuous Greedy Randomized Adaptive Search Procedure (CGRASP)](https://github.com/tautologico/CGRASP.jl), in Julia.
+* CSDP.jl :: [Julia wrapper for the CSDP semidefinite programming solver](https://github.com/joehuchette/CSDP.jl)
+* jlSimplex :: [Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia](https://github.com/mlubin/jlSimplex).
+* jobshop :: [ The Jobshop (Open Shop Scheduling Problem (OSSP)) problem](https://github.com/stefan-k/jobshop) is solved with evolutionary strategies in Julia.
+* Predictors.jl :: https://github.com/dejakaymac/Predictors.jl
+* Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
+* SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
+
+##### DOCS and TUTORIALS
+* ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
+* DG2012Tutorial.jl :: [Simple examples of SGD-style computations in Julia](https://github.com/johnmyleswhite/DG2012Tutorial.jl)
 
