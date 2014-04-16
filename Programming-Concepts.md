@@ -89,8 +89,9 @@
 
 ### Macros
 * RegexVar.jl :: [A macro to fill variables straight from the string](https://github.com/o-jasper/RegexVar.jl)
-* TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 * Reexport.jl :: [Julia macro for re-exporting one module from another](https://github.com/simonster/Reexport.jl)
+* MacroUtils.jl :: [Collection of Julia macros](https://github.com/carlobaldassi/MacroUtils.jl)
+* TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
 
 ### Meta Programming
 ##### DOCS
