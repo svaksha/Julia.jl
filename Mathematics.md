@@ -134,7 +134,8 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
 * PNLA__Julia :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision](https://github.com/kbatseli/PNLA_Julia) in Julia.
 * RK4.jl :: This package implements a fairly fast [Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver](https://github.com/ntezak/RK4.jl) that is not technically provably accurate, but works well for finite bandwidth SDE's.
-* SpecialMatrices.jl :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices](https://github.com/timbers/SpecialMatrices.jl)
+* SpecialMatrices.jl :: [Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices](https://github.com/timbers/SpecialMatrices.jl)
+* SpecialMatrices.jl :: [Julia package for working with special matrix types](https://github.com/jiahao/SpecialMatrices.jl)
 * ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
 * VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
 
