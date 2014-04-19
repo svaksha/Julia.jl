@@ -28,7 +28,6 @@
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
 * ModernGL.jl :: [This package includes all definitions of OpenGL versions > 3.0.](https://github.com/SimonDanisch/ModernGL.jl), a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 * OpenGL.jl :: [Julia interface to OpenGL](https://github.com/rennis250/OpenGL.jl)
-* OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TestImages.jl :: [Loading standard test images into Julia](https://github.com/timholy/TestImages.jl)
