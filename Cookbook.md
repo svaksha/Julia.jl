@@ -58,6 +58,6 @@
 * IJuliaNotebooks :: [IJulia notebooks highlighting code features of Julia](https://github.com/JuliaX/IJuliaNotebooks)
 * IJulia_ PLEAC :: [IJulia version of PLEAC - Programming Language Examples Alike Cookbook](https://github.com/catawbasam/IJulia_PLEAC)
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
-* JuliaHTML :: [@ppalmes Julia notebooks[(https://github.com/ppalmes/JuliaHTML)
+* JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
 
 

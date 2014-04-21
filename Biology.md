@@ -5,8 +5,8 @@
 * [Neuroscience](#neuroscience)
 
 
-* BioJulia group on github :: [https://github.com/BioJulia/](https://github.com/BioJulia). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
-* JuliaBio group on github :: [https://github.com/JuliaBio](https://github.com/JuliaBio). The GoogleGroups mailing list/forums:: https://groups.google.com/forum/#!forum/julia-bio
+* [BioJulia group](https://github.com/BioJulia) on github, and the GoogleGroups mailing list:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
+* [JuliaBio](https://github.com/JuliaBio) group on github, and its GoogleGroups mailing list :: https://groups.google.com/forum/#!forum/julia-bio
 
 
 # Biotechnology

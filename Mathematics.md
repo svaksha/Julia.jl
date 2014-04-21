@@ -1,5 +1,5 @@
 * [CRYPTOGRAPHY](#cryptography)
-* [MATH ](#math)
+* [MATH](#math)
    * [Algebra](#algebra)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
@@ -11,6 +11,7 @@
 
 # CRYPTOGRAPHY
 * BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* Hashlib.jl :: [SHA1 implementation for Julia](https://github.com/samgre/Hashlib.jl)
 * Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
 * OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
 * OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
