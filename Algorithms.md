@@ -115,6 +115,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # SEARCH ALGORITHMS
 * AhoCorasick.jl :: Julia implementation of the [Aho-Corasick algorithm for fast string searching](https://github.com/gilesc/AhoCorasick.jl).
+* dfs.jl :: [Depth First Search](https://github.com/adlawson/dfs.jl)
 * Loess.jl :: is a loess implementation based on the [fast kd-tree based approximation algorithm](https://github.com/dcjones/Loess.jl), a space-partitioning data structure for organizing points in a k-dimensional space.
 * NearestNeighbors.jl :: [Data structures for nearest neighbor search](https://github.com/johnmyleswhite/NearestNeighbors.jl).
 * ReverseRegexes.jl :: [Adds functionality to reverse-search strings with regexes](https://github.com/carlobaldassi/ReverseRegexes.jl)
