@@ -45,7 +45,6 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
 * URIParser.jl: is a [URI parser](https://github.com/loladiro/URIParser.jl) implemented in Julia.
 * URITemplate.jl :: [This package provides URI Template interpolation by implementing (RFC 6570)](https://github.com/loladiro/URITemplate.jl)
 * WWWClient.jl: is a [HTTP client](https://github.com/loladiro/WWWClient.jl) written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
-* ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
 * WEBSTACK :: The [Julia Webstack](http://juliawebstack.org) is a family of modules for building web services, hosting the documentation for Morsel, Meddle, WebSockets, HttpServer, HttpParser, and HttpCommon...
    * *DOCS* :: [TCP Sockets documentation for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
    * HttpServer.jl :: [a basic, non-blocking HTTP server](https://github.com/JuliaLang/HttpServer.jl) in Julia.
@@ -54,6 +53,10 @@ Distributed (Cloud/ Cluster/ Grid) computing, Parallel computing, GIS, Networkin
    * HttpCommon.jl :: [Provides types and helper functions for dealing with the HTTP protocol](https://github.com/JuliaLang/HttpCommon.jl) in Julia.
    * HttpParser.jl :: [Julia wrapper for Joyent's http-parser](https://github.com/JuliaLang/HttpParser.jl).
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
+
+### Middleware
+* Nanomsg.jl :: [nanomsg wrapper](https://github.com/karbarcca/Nanomsg.jl) for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
+* ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
 
 
 
