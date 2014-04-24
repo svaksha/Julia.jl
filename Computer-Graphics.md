@@ -48,6 +48,8 @@
 * Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 * Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
 
+
+
 # INFOGRAPHICS
 **Statistical Charts, Graphs, Plots, Histograms, Maps**
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
@@ -56,6 +58,7 @@
 * Displaz.jl :: [is julia bindings](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
+* FalseColor.jl :: [A Julia package to turn gridded data into pretty images](https://github.com/ojwoodford/FalseColor.jl)
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
