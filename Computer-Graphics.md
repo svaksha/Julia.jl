@@ -62,6 +62,7 @@
 * Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
+* Gaston.jl :: [A julia front-end for gnuplot](https://github.com/mbaz/Gaston.jl)
 * GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
 * GraphViz.jl :: [Julia bindings for the GraphViz library](https://github.com/loladiro/GraphViz.jl)
 * Histograms.jl :: [Methods for handling histograms in Julia](https://github.com/jpata/Histograms.jl)
