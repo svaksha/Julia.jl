@@ -61,7 +61,6 @@
 * NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
 * NLsolve.jl :: [Julia solvers for systems of nonlinear equations](https://github.com/EconForge/NLsolve.jl)
 * NumericalShadow.jl:: Library to calculate [numerical shadows](https://github.com/pgawron/NumericalShadow.jl) in Julia language.
-* ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * Optim.jl :: [basic optimization algorithms implementation](https://github.com/JuliaOpt/Optim.jl).
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 * Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
@@ -79,7 +78,6 @@
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 
 
-
 ### Algebra
 * algebra :: A hierarchy of [abstract algebraic structures in Julia](https://github.com/alrahimi/algebra/)
 * CLBLAS.jl :: [CLBLAS integration for Julia](https://github.com/ekobir/CLBLAS.jl)
@@ -94,8 +92,12 @@
 * InterPol.jl :: [Interpolating polynomial for Julia](https://github.com/pwl/InterPol.jl)
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+* CurveFit.jl :: [Simple least squares and curve fitting functions](https://github.com/pjabardo/CurveFit.jl)
 * EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
+* ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
+
+
 
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
