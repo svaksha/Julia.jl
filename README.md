@@ -13,7 +13,6 @@
 * [Build-Automation.md](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
 * [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
 * [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
-* [Conferences-Papers.md](https://github.com/svaksha/Julia.jl/blob/master/Conferences-Papers.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [Cookbook.md](https://github.com/svaksha/Julia.jl/blob/master/Cookbook.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, etc...
 * [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
 * [Distributed-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Distributed-Computing.md) :: WWW, HTTP, Distributed Computing, Networking, Servers, etc...
@@ -23,6 +22,7 @@
 * [NEWS.md](https://github.com/svaksha/Julia.jl/blob/master/NEWS.md)
 * [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 * [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, file formats, etc..
+* [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
 * [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics... packages.
 * [UI-UX.md](https://github.com/svaksha/Julia.jl/blob/master/UI-UX.md) :: User Interface software in Julia.
