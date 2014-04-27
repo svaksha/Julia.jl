@@ -116,6 +116,7 @@
 
 **_Ordinary Differential Equations (ODE)_**
 * dassl.jl :: [Differential Algebraic System SoLver](https://github.com/pwl/dassl.jl) 
+* Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
 * ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
