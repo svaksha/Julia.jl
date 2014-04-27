@@ -86,10 +86,12 @@
 * MultiPoly.jl :: [Sparse multivariate polynomials in Julia](https://github.com/daviddelaat/MultiPoly.jl)
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
 * OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)
+
+##### Orthogonal polynomials
+* Jacobi.jl :: [Jacobi polynomials and Gauss quadrature related functions](https://github.com/pjabardo/Jacobi.jl)
 * Orthopolys.jl :: [Orthogonal Polynomials](https://github.com/daviddelaat/Orthopolys.jl) - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 * Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 * InterPol.jl :: [Interpolating polynomial for Julia](https://github.com/pwl/InterPol.jl)
-
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 * EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
