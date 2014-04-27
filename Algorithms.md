@@ -97,6 +97,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # NLP 
 * [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
+* GoodTuring.jl :: [A Julia implementation of Simple Good Turing smoothing](https://github.com/JoFrhwld/GoodTuring.jl), largely adapted from @maxbane.
 * Languages.jl :: [A package for working with human languages](https://github.com/johnmyleswhite/Languages.jl)
 * LTSV.jl :: [Labeled Tab Separated Values (LTSV) parser](https://github.com/kshramt/LTSV.jl) in Julia.
 * NGram.jl :: [Implement the NGram model in julia](https://github.com/remusao/NGram.jl)
