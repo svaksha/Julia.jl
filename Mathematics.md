@@ -94,6 +94,7 @@
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 * CurveFit.jl :: [Simple least squares and curve fitting functions](https://github.com/pjabardo/CurveFit.jl)
 * EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
+* FEM.jl :: [Simple finite elements in Julia](https://github.com/pjabardo/FEM.jl)
 * ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
 
