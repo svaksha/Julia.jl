@@ -21,7 +21,6 @@
 * TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
 * TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
 
-
 # STATISTICS
 * BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
 * BayesModels.jl :: [Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference](https://github.com/lindahua/BayesModels.jl)
@@ -106,6 +105,7 @@
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
 * AssetMgmt.jl :: [Asset Management](https://github.com/cgroll/AssetMgmt.jl)
 * FinancialBlotter.jl:: [Financial Instruments and Accounting](https://github.com/JuliaQuant/FinancialBlotter.jl) in Julia.
+* FinanceStats.jl :: [An experimental sandbox of functions that implement common statistical methods in finance](https://github.com/JuliaQuant/FinanceStats.jl)
 * GLM.jl:: [Linear models (LM's) and generalized linear models (GLM's)](https://github.com/JuliaStats/GLM.jl) in Julia.
 * Ito.jl:: An open source [toolkit for financial computing](https://github.com/aviks/Ito.jl) in Julia.
 * Lazy.jl:: [Functional programming](https://github.com/one-more-minute/Lazy.jl) for Julia.
