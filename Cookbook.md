@@ -43,6 +43,7 @@
 * Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
 * Euler.jl :: [Project Euler with julia language](https://github.com/moon6pence/Euler.jl)
 * julia-mit :: [Tutorials and information on the Julia language for MIT numerical-computation courses.](https://github.com/stevengj/julia-mit)
+* JuliaTutorial.jl :: [The Julia Tutorial series](https://github.com/abhi123link/JuliaTutorial.jl)
 * [Plotting Examples](https://gist.github.com/gizmaa/7214002)
 * Rosetta-Julia :: [Rosetta Code tasks](https://github.com/karbarcca/Rosetta-Julia) implemented in the Julia language.
 * Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
