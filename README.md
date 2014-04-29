@@ -33,8 +33,6 @@
 
 For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
 
-Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
-
 
 ### Contributing
 Some tips for submitting a [pull request (PR)](https://github.com/svaksha/Julia.jl/pulls):

@@ -1,5 +1,6 @@
 This section contains links to Events (un)conferences, talks, slides/videos, Research papers, and other NEWS...
 
+* [COMMUNITY](#community)
 * [DEVELOPMENT](#development)
    * [GSoC](#gsoc)
 * [MEDIA](#media)
@@ -9,6 +10,12 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 
 * NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
 
+# COMMUNITY
+Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
+### Julia Meetups
+* [Bangalore-JUG](http://www.meetup.com/Bangalore-JULIA-User-Group/)
+* [julia-cajun](http://www.meetup.com/julia-cajun/)
+* 
 
 # DEVELOPMENT
 ### GSoC
