@@ -6,6 +6,7 @@
 
 # AQUATIC ECOLOGY
 * Iceberg.jl :: [Ice-seawater interface calculations using level set methods](https://github.com/njwilson23/Iceberg.jl)
+* TEOS.jl :: Julia wrapper for [TEOS-10 Gibbs Seawater Oceanographic Toolbox](https://github.com/njwilson23/TEOS.jl).
 
 # GEOSTATISTICS
 * Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
