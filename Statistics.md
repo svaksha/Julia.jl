@@ -74,7 +74,7 @@
 * Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
 * RationalSimplex.jl :: [Pure Julia implementation of the simplex algorithm](https://github.com/IainNZ/RationalSimplex.jl)
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-
+* VRP :: [Vehicle Routing Problem (VRP)](https://github.com/IainNZ/VRP) is a combinatorial optimization and integer programming problem.
 
 ##### DOCS and TUTORIALS
 * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
