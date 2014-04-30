@@ -1,6 +1,7 @@
 This section contains links to Events (un)conferences, talks, slides/videos, Research papers, and other NEWS...
 
 * [COMMUNITY](#community)
+   * [Julia User Groups](#julia-user-groups)
 * [DEVELOPMENT](#development)
    * [GSoC](#gsoc)
 * [MEDIA](#media)
@@ -12,10 +13,22 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 
 # COMMUNITY
 Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
-### Julia Meetups
-* [Bangalore-JUG](http://www.meetup.com/Bangalore-JULIA-User-Group/)
-* [julia-cajun](http://www.meetup.com/julia-cajun/)
-* 
+
+### Julia User Groups
+
+##### India
+* [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
+
+##### UK
+* [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
+
+##### USA
+* [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
+* [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
+* [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
+* [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
+* [Triangle Julia Users, Raleigh, NC](http://www.meetup.com/Triangle-Julia-Users/)
+
 
 # DEVELOPMENT
 ### GSoC
