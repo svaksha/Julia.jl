@@ -88,6 +88,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # NEURAL NETWORKS
+* ANN.jl :: [Artifical Neural Networks](https://github.com/EricChiang/ANN.jl)
 * Julia_Neural_Network :: [Basic Neural Network written in JuliaLang](https://github.com/nwenzel/Julia_Neural_Network
 * mlpnnets.jl :: [Feed-forward MLP neural network implementation](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl)
 * neural.jl :: [is a Julia implementation of a neural network](https://github.com/compressed/neural.jl), based on Sergio Fierens Ruby version.
