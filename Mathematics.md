@@ -54,6 +54,7 @@
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
 * MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
+* MUMPS1.jl :: [An alternative implementation of a Julia interface to the sparse direct solver MUMPS](https://github.com/dmbates/MUMPS1.jl). A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 * NumericExtensions.jl :: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl).
    * _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
 * NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
