@@ -1,6 +1,11 @@
+* [AQUATIC ECOLOGY](#aquatic-ecology)
 * [GEOSTATISTICS](#geostatistics)
 * [GIS](#gis)
 * [METEOROLOGY](#meteorology)
+
+
+# AQUATIC ECOLOGY
+* Iceberg.jl :: [Ice-seawater interface calculations using level set methods](https://github.com/njwilson23/Iceberg.jl)
 
 # GEOSTATISTICS
 * Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
