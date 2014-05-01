@@ -5,7 +5,7 @@
 * [Cheatsheets](#cheatsheets)
 * [Cookbooks](#cookbooks)
 * [IJulia NoteBooks](#ijulia-notebooks)
-
+* [Tutorials](#tutorials) 
 
 
 # Books
@@ -62,4 +62,7 @@
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
 
+
+# Tutorials
+* julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
 

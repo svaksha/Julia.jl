@@ -5,6 +5,7 @@
    * [Functional Programming](#functional-programming)
    * [Macros](#macros)
    * [Meta Programming](#meta-programming)
+   * [Software Architecture](#software-architecture)
    * [Style Guidelines](#style-guidelines) 
 
 
@@ -98,8 +99,10 @@
 ##### DOCS
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
+
+### software architecture
+* dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+
 ### Style Guidelines 
 * Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
-
-
 
