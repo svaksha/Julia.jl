@@ -23,6 +23,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
 * FingerTree.jl :: A [Finger Tree is a functional data structure](https://github.com/mschauer/FingerTree.jl) that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
+* FunctionalCollections.jl :: [Functional and and persistent data structures for Julia](https://github.com/zachallaun/FunctionalCollections.jl)
 * Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
    * _DOCS_:: Documentation for the Graphs.jl package [on the Julia website](http://julialang.org/Graphs.jl/index.html), also mirrored on [graphsjl-docs.readthedocs.org](http://graphsjl-docs.readthedocs.org/en/latest/)
    * [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
