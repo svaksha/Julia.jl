@@ -30,6 +30,7 @@
 * SpikeSorter.jl :: [Spike sorting tool for experimental neuroscientists](https://github.com/grero/SpikeSorter.jl)
 * smoothlife-jl :: [is an implementation of the SmoothLife algorithm](https://github.com/jamak/smoothlife-jl) in Julia.
 * StatGenData.jl :: [Statistical analysis of genomic data](https://github.com/dmbates/StatGenData.jl)
+* taxize.jl :: [A taxonomic toolbelt for Julia](https://github.com/sckott/taxize.jl)
 
 
 # Computational-Systems-Biology
