@@ -76,6 +76,7 @@
 * SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
 * VRP :: [Vehicle Routing Problem (VRP)](https://github.com/IainNZ/VRP) is a combinatorial optimization and integer programming problem.
 
+
 ##### DOCS and TUTORIALS
 * ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
 * DG2012Tutorial.jl :: [Simple examples of SGD-style computations in Julia](https://github.com/johnmyleswhite/DG2012Tutorial.jl)
@@ -170,6 +171,7 @@
 * GLM.jl:: [Linear models (LM's) and generalized linear models (GLM's)](https://github.com/JuliaStats/GLM.jl) in Julia.
 * Ito.jl:: An open source [toolkit for financial computing](https://github.com/aviks/Ito.jl) in Julia.
 * Lazy.jl:: [Functional programming](https://github.com/one-more-minute/Lazy.jl) for Julia.
+* LibTrading.jl :: [The Julia LibTrading package is a wrapper for the libtrading library](https://github.com/StefanKarpinski/LibTrading.jl), which "is an open source API for high-performance, low-latency trading applications."
 * MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
 * MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
 * Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
