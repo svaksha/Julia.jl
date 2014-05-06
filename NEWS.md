@@ -15,7 +15,6 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
 
 ### Julia User Groups
-
 ##### India
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
 
