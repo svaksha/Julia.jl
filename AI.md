@@ -64,6 +64,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * HopfieldNets.jl :: Discrete and continuous Hopfield networks in Julia.](https://github.com/johnmyleswhite/HopfieldNets.jl)
 * KaggleDigitRecognizer.jl :: [Julia code for Kaggle's Digit Recognizer competition](https://github.com/benhamner/KaggleDigitRecognizer.jl)
 * kNN.jl :: The [k-Nearest Neighbors](https://github.com/johnmyleswhite/kNN.jl) algorithm in Julia.
+* liblinear.jl :: [Liblinear binding to Julia](https://github.com/tuzzeg/liblinear.jl)
 * MachineLearning.jl :: is a [Machine Learning library package](https://github.com/benhamner/MachineLearning.jl) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * Markov.jl :: [Trial Markov package](https://github.com/goedman/Markov.jl)
 * MDP.jl (adityam/MDP.jl) :: [Markov Decision Processes algorithms for Julia](https://github.com/adityam/MDP.jl)
