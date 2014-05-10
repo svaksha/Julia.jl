@@ -121,8 +121,8 @@
 * dassl.jl :: [Differential Algebraic System SoLver](https://github.com/pwl/dassl.jl) 
 * Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
 * ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
+* RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
-
 
 ### Geometry
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
