@@ -73,6 +73,8 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Orchestra.jl :: [Heterogeneous ensemble learning package](https://github.com/svs14/Orchestra.jl) for the Julia programming language.
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
 * SFA.jl :: [Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion)](https://github.com/makokal/SFA.jl) in Julia.
+* YCaret.jl :: [Machine learning utility functions](https://github.com/EricChiang/YCaret.jl) in Julia.
+
 
 ##### Tutorials
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
