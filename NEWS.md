@@ -18,6 +18,10 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 ##### India
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
 
+##### Switzerland
+* [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
+
+
 ##### UK
 * [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
