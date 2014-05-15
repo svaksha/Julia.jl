@@ -8,6 +8,8 @@
    * [Meta Programming](#meta-programming)
    * [Software Architecture](#software-architecture)
    * [Style Guidelines](#style-guidelines) 
+   * [Type Parameters](#type-parameters)
+
 
 
 # CAD-CAM
@@ -105,9 +107,12 @@
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
-### software architecture
+### Software Architecture
 * dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
 
 ### Style Guidelines 
 * Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
 
+### Type Parameters
+##### DOCS 
+* [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
