@@ -85,6 +85,7 @@
 * SimpleNets :: [Simple neural nets implementions in Julia](https://github.com/rgehring/SimpleNets)
 * SimpleRL.jl :: [A bare-bones package for simulating RL models and estimating them from behavioral data](https://github.com/johnmyleswhite/SimpleRL.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
+* Stan.jl :: [Julia package for using Stan](https://github.com/goedman/Stan.jl). [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29) is a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function.
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
