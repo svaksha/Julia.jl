@@ -1,3 +1,4 @@
+* [CAD-CAM](#cad-cam)
 * [Control System](#control-system)
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
@@ -5,7 +6,14 @@
    * [Functional Programming](#functional-programming)
    * [Macros](#macros)
    * [Meta Programming](#meta-programming)
+   * [Software Architecture](#software-architecture)
    * [Style Guidelines](#style-guidelines) 
+   * [Type Parameters](#type-parameters)
+
+
+
+# CAD-CAM
+* Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode)
 
 
 # Control System
@@ -47,6 +55,7 @@
 * OpenSlide.jl:: [OpenSlide bindings](https://github.com/ihnorton/OpenSlide.jl) for Julia.
 * PList.jl :: [A module for reading and writing OS X plist in ASCII format](https://github.com/ordovician/PList.jl). The binary and XML format is not supported presently.
 * PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
+* HarwellBoeing.jl :: [A reader for matrices and supplementary data written in the Harwell-Boeing format](https://github.com/dpo/HarwellBoeing.jl)
 * Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
 * StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 * XPT.jl :: [The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames](https://github.com/lendle/XPT.jl)
@@ -97,8 +106,13 @@
 ##### DOCS
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
+
+### Software Architecture
+* dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+
 ### Style Guidelines 
 * Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
 
-
-
+### Type Parameters
+##### DOCS 
+* [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)

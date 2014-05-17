@@ -43,7 +43,6 @@
 
 ## Fortran 
 * FortranIO.jl :: [Input/Output of fortran unformatted binary files](https://github.com/rephorm/FortranIO.jl).
-* TEOS.jl :: Julia wrapper for [TEOS-10 Gibbs Seawater Oceanographic Toolbox](https://github.com/njwilson23/TEOS.jl).
 
 ## Go
 * GoTMSupport.jl :: [Support for writing bundle commands for the Go programming language](https://github.com/ordovician/GoTMSupport.jl) in Julia.

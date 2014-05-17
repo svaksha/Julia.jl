@@ -6,14 +6,12 @@
 
 
 # PAGES
-* [Algorithms.md](https://github.com/svaksha/Julia.jl/blob/master/Algorithms.md) :: AI, DataMining, Data Structures, ML, NLP, ...
+* [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 * [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
-* [Benchmarks-Optimization.md](https://github.com/svaksha/Julia.jl/blob/master/Benchmarks-Optimization.md) :: Benchmarks and Optimization toolkits.
 * [Biology.md](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
 * [Build-Automation.md](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
 * [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
 * [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
-* [Conferences-Papers.md](https://github.com/svaksha/Julia.jl/blob/master/Conferences-Papers.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [Cookbook.md](https://github.com/svaksha/Julia.jl/blob/master/Cookbook.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, etc...
 * [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
 * [Distributed-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Distributed-Computing.md) :: WWW, HTTP, Distributed Computing, Networking, Servers, etc...
@@ -23,8 +21,9 @@
 * [NEWS.md](https://github.com/svaksha/Julia.jl/blob/master/NEWS.md)
 * [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 * [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, file formats, etc..
+* [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
-* [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics... packages.
+* [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
 * [UI-UX.md](https://github.com/svaksha/Julia.jl/blob/master/UI-UX.md) :: User Interface software in Julia.
 * [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits for your Desktop and other general utilities.
 * [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
@@ -33,8 +32,6 @@
 **NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not an endorsment of the software quality/ features, etc.. 
 
 For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
-
-Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
 
 
 ### Contributing

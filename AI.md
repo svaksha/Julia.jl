@@ -1,4 +1,4 @@
-ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neural, NLP, ...
+AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural networks, NLP, ...
 
 * [CHECKSUM ALGORITHMS](#checksum-algorithms)
 * [DATA STRUCTURES](#data-structures)
@@ -23,6 +23,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 * FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
 * FingerTree.jl :: A [Finger Tree is a functional data structure](https://github.com/mschauer/FingerTree.jl) that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
+* FunctionalCollections.jl :: [Functional and and persistent data structures for Julia](https://github.com/zachallaun/FunctionalCollections.jl)
 * Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
    * _DOCS_:: Documentation for the Graphs.jl package [on the Julia website](http://julialang.org/Graphs.jl/index.html), also mirrored on [graphsjl-docs.readthedocs.org](http://graphsjl-docs.readthedocs.org/en/latest/)
    * [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
@@ -59,9 +60,11 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 # MACHINE LEARNING
 * DAI.jl :: [A julia binding to the C++ discrete approximate inference library for graphical models: libDAI](https://github.com/binarybana/DAI.jl)
 * DecisionTree.jl :: [https://github.com/bensadeghi/DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
+* FeatureSelection.jl :: [Feature selection for Julia for use in machine learning and statistics.](https://github.com/svs14/FeatureSelection.jl)
 * HopfieldNets.jl :: Discrete and continuous Hopfield networks in Julia.](https://github.com/johnmyleswhite/HopfieldNets.jl)
 * KaggleDigitRecognizer.jl :: [Julia code for Kaggle's Digit Recognizer competition](https://github.com/benhamner/KaggleDigitRecognizer.jl)
 * kNN.jl :: The [k-Nearest Neighbors](https://github.com/johnmyleswhite/kNN.jl) algorithm in Julia.
+* liblinear.jl :: [Liblinear binding to Julia](https://github.com/tuzzeg/liblinear.jl)
 * MachineLearning.jl :: is a [Machine Learning library package](https://github.com/benhamner/MachineLearning.jl) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * Markov.jl :: [Trial Markov package](https://github.com/goedman/Markov.jl)
 * MDP.jl (adityam/MDP.jl) :: [Markov Decision Processes algorithms for Julia](https://github.com/adityam/MDP.jl)
@@ -71,6 +74,8 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 * Orchestra.jl :: [Heterogeneous ensemble learning package](https://github.com/svs14/Orchestra.jl) for the Julia programming language.
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
 * SFA.jl :: [Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion)](https://github.com/makokal/SFA.jl) in Julia.
+* YCaret.jl :: [Machine learning utility functions](https://github.com/EricChiang/YCaret.jl) in Julia.
+
 
 ##### Tutorials
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
@@ -88,6 +93,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 
 # NEURAL NETWORKS
+* ANN.jl :: [Artifical Neural Networks](https://github.com/EricChiang/ANN.jl)
 * Julia_Neural_Network :: [Basic Neural Network written in JuliaLang](https://github.com/nwenzel/Julia_Neural_Network
 * mlpnnets.jl :: [Feed-forward MLP neural network implementation](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl)
 * neural.jl :: [is a Julia implementation of a neural network](https://github.com/compressed/neural.jl), based on Sergio Fierens Ruby version.
@@ -97,6 +103,7 @@ ALGORITHMS: AI, Data Mining, Clustering, Data Structures, Machine Learning, Neur
 
 # NLP 
 * [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
+* GoodTuring.jl :: [A Julia implementation of Simple Good Turing smoothing](https://github.com/JoFrhwld/GoodTuring.jl), largely adapted from @maxbane.
 * Languages.jl :: [A package for working with human languages](https://github.com/johnmyleswhite/Languages.jl)
 * LTSV.jl :: [Labeled Tab Separated Values (LTSV) parser](https://github.com/kshramt/LTSV.jl) in Julia.
 * NGram.jl :: [Implement the NGram model in julia](https://github.com/remusao/NGram.jl)

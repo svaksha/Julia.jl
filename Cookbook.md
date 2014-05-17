@@ -5,7 +5,7 @@
 * [Cheatsheets](#cheatsheets)
 * [Cookbooks](#cookbooks)
 * [IJulia NoteBooks](#ijulia-notebooks)
-
+* [Tutorials](#tutorials) 
 
 
 # Books
@@ -23,6 +23,9 @@
 * [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
 * [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
+* [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
+
+
 
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
@@ -43,8 +46,10 @@
 * Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
 * Euler.jl :: [Project Euler with julia language](https://github.com/moon6pence/Euler.jl)
 * julia-mit :: [Tutorials and information on the Julia language for MIT numerical-computation courses.](https://github.com/stevengj/julia-mit)
+* JuliaTutorial.jl :: [The Julia Tutorial series](https://github.com/abhi123link/JuliaTutorial.jl)
 * [Plotting Examples](https://gist.github.com/gizmaa/7214002)
 * Rosetta-Julia :: [Rosetta Code tasks](https://github.com/karbarcca/Rosetta-Julia) implemented in the Julia language.
+* Spark.jl :: [Spark in Julia for MIT 6.824](https://github.com/d9w/Spark.jl)
 * Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
 * Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
 * Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
@@ -61,4 +66,7 @@
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
 
+
+# Tutorials
+* julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
 

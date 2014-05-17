@@ -1,6 +1,12 @@
+* [AQUATIC ECOLOGY](#aquatic-ecology)
 * [GEOSTATISTICS](#geostatistics)
 * [GIS](#gis)
 * [METEOROLOGY](#meteorology)
+
+
+# AQUATIC ECOLOGY
+* Iceberg.jl :: [Ice-seawater interface calculations using level set methods](https://github.com/njwilson23/Iceberg.jl)
+* TEOS.jl :: Julia wrapper for [TEOS-10 Gibbs Seawater Oceanographic Toolbox](https://github.com/njwilson23/TEOS.jl).
 
 # GEOSTATISTICS
 * Krige.jl :: [Kriging estimators](https://github.com/njwilson23/Krige.jl) in Julia.
@@ -19,5 +25,6 @@
 
 # METEOROLOGY
 * CAIRS.jl :: [Continous Assimilation of Integrating Rain Sensors](https://github.com/scheidan/CAIRS.jl)
+* Hotwire.jl:: [Hotwire anemometry related functions implemented in Julia](https://github.com/pjabardo/Hotwire.jl)
 * Scriabin.jl :: [Radiative transfer in Julia](https://github.com/jsbj/Scriabin.jl)
 

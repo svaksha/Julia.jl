@@ -6,7 +6,6 @@
    * [Geometry](#geometry)
    * [Numerical Analysis](#numerical-analysis)
 * [PUZZLES](#puzzles)
-* [OPERATIONS RESEARCH](#operations-research)
 
 
 # CRYPTOGRAPHY
@@ -25,7 +24,6 @@
 # MATH 
 **_DOCS_**
 * [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
-
 * Accelereval.jl :: [A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation](https://github.com/lindahua/Accelereval.jl)
 * Blocks.jl :: is a framework to represent [chunks of entities and parallel methods on them](https://github.com/tanmaykm/Blocks.jl).
 * Church.jl :: helps you [perform inference in complex, and simple, probabilistic models](https://github.com/LaurenceA/Church.jl)
@@ -56,12 +54,12 @@
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
 * MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
+* MUMPS1.jl :: [An alternative implementation of a Julia interface to the sparse direct solver MUMPS](https://github.com/dmbates/MUMPS1.jl). A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 * NumericExtensions.jl :: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl).
    * _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
 * NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
 * NLsolve.jl :: [Julia solvers for systems of nonlinear equations](https://github.com/EconForge/NLsolve.jl)
 * NumericalShadow.jl:: Library to calculate [numerical shadows](https://github.com/pgawron/NumericalShadow.jl) in Julia language.
-* ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * Optim.jl :: [basic optimization algorithms implementation](https://github.com/JuliaOpt/Optim.jl).
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 * Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
@@ -74,10 +72,10 @@
 * SurfaceMesh.jl :: is a [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl) to work with polygon-surface-meshes.
 * Symbolic.jl :: [Symbolic computations and computer algebra in Julia](https://github.com/scidom/Symbolic.jl)
 * SymPy.jl :: [Julia interface to SymPy via PyCall](https://github.com/jverzani/SymPy.jl)
+* TrussPlotter.jl :: [This is a package to plot trusses for finite element results.](https://github.com/sjkelly/TrussPlotter.jl)
 * TSne.jl :: Julia port of [L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique](https://github.com/lejon/TSne.jl). Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
 * Uncertain.jl:: [Uncertain quantities and error propagation](https://github.com/rephorm/Uncertain.jl) for the Julia language.
 * univariate__opt.jl:: [Univariate optimization and root-finding code](https://github.com/matthewclegg/univariate_opt.jl) for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
-
 
 
 ### Algebra
@@ -86,13 +84,21 @@
 * MultiPoly.jl :: [Sparse multivariate polynomials in Julia](https://github.com/daviddelaat/MultiPoly.jl)
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
 * OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)
+
+##### Orthogonal polynomials
+* Jacobi.jl :: [Jacobi polynomials and Gauss quadrature related functions](https://github.com/pjabardo/Jacobi.jl)
 * Orthopolys.jl :: [Orthogonal Polynomials](https://github.com/daviddelaat/Orthopolys.jl) - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 * Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
-
+* InterPol.jl :: [Interpolating polynomial for Julia](https://github.com/pwl/InterPol.jl)
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+* CurveFit.jl :: [Simple least squares and curve fitting functions](https://github.com/pjabardo/CurveFit.jl)
 * EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
+* FEM.jl :: [Simple finite elements in Julia](https://github.com/pjabardo/FEM.jl)
+* ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
 * SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
+
+
 
 ### Calculus
 * AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
@@ -113,9 +119,10 @@
 
 **_Ordinary Differential Equations (ODE)_**
 * dassl.jl :: [Differential Algebraic System SoLver](https://github.com/pwl/dassl.jl) 
+* Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
 * ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
+* RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
-
 
 ### Geometry
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
@@ -131,6 +138,7 @@
 _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems._
 * BSplines.jl :: [This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.](https://github.com/gusl/BSplines.jl)
 * IncrementalSVD.jl :: [Simon Funk's approach to collaborative filtering using the singular value decomposition](https://github.com/aaw/IncrementalSVD.jl), implemented in Julia.
+* InteriorPoint.jl :: [Primal-dual interior point solver for linear programs](https://github.com/IainNZ/InteriorPoint.jl)
 * IterativeLinearSolvers.jl :: [https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
 * NumericFunctors.jl :: [Typed functors for numerical computations](https://github.com/lindahua/NumericFunctors.jl)
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
@@ -153,19 +161,4 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
 * TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
 * Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles :: [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb)
-
-
-# OPERATIONS RESEARCH 
-* [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
-* CGRASP.jl :: [Continuous Greedy Randomized Adaptive Search Procedure (CGRASP)](https://github.com/tautologico/CGRASP.jl), in Julia.
-* CSDP.jl :: [Julia wrapper for the CSDP semidefinite programming solver](https://github.com/joehuchette/CSDP.jl)
-* jlSimplex :: [Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia](https://github.com/mlubin/jlSimplex).
-* jobshop :: [ The Jobshop (Open Shop Scheduling Problem (OSSP)) problem](https://github.com/stefan-k/jobshop) is solved with evolutionary strategies in Julia.
-* Predictors.jl :: https://github.com/dejakaymac/Predictors.jl
-* Ranking.jl :: [Tools for ranking in Julia](https://github.com/johnmyleswhite/Ranking.jl)
-* SemidefiniteProgramming.jl:: This package provides a Julia interface for [low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP](https://github.com/daviddelaat/SemidefiniteProgramming.jl).
-
-##### DOCS and TUTORIALS
-* ORSoftwareTools2014 :: [Repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research"](https://github.com/IainNZ/ORSoftwareTools2014)
-* DG2012Tutorial.jl :: [Simple examples of SGD-style computations in Julia](https://github.com/johnmyleswhite/DG2012Tutorial.jl)
 

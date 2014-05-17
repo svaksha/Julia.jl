@@ -16,6 +16,7 @@
 
 
 # UNITTEST 
+* Coverage.jl :: [Take the Julia test coverage results and bundle them up in JSON](https://github.com/IainNZ/Coverage.jl) - it process a .jl file and its matching .cov file, tracking your Julia packages for test coverage and works with Coveralls, which integrates with TravisCI.
 * FactCheck.jl :: Midje-like [testing framework](https://github.com/zachallaun/FactCheck.jl) written for Julia.
 * Fixtures.jl :: provides [fixtures, mocks, matchers and patching to improve your tests](https://github.com/burrowsa/Fixtures.jl) with Julia.
 * Jig.jl :: [Testing framework](https://github.com/milktrader/Jig.jl) for Julia.

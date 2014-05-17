@@ -28,6 +28,7 @@
 * CUDArt.jl :: [Julia wrapper for CUDA runtime API](https://github.com/timholy/CUDArt.jl)
 * CUFFT.jl :: [Wrapper for the CUDA FFT library](https://github.com/timholy/CUFFT.jl)
 * julia-CuMatrix :: [CUDA Matrix library for julia](https://github.com/stefan-k/julia-CuMatrix)
+* GPUArray.jl :: [GPU Array's for Julia](https://github.com/jakebolewski/GPUArray.jl)
 * OpenCL.jl :: [OpenCL bindings for Julia](https://github.com/jakebolewski/OpenCL.jl) is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
 ### Robots
