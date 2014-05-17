@@ -49,6 +49,7 @@
    * @ajtulloch's blog on [speeding up Isotonic Regression with Julia](http://tullo.ch/articles/python-vs-julia/) and the [IJulia notebook](http://nbviewer.ipython.org/url/gist.githubusercontent.com/ajtulloch/9485996/raw/94b3d0e6bd67256f1f02eebb1463365dbc8b64fc/Julia.ipynb)
 * ITC.jl :: [Code for modeling intertemporal choice](https://github.com/johnmyleswhite/ITC.jl) in Julia.
 * JAGS.jl: A Julia interface to [JAGS, to provide a shared library as an interface between Julia and JAGS](https://github.com/olofsen/JAGS.jl) - Just another Gibbs sampler.
+* Jags.jl :: [Julia package for using Just another Gibbs sampler](https://github.com/goedman/Jags.jl)
 * JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
 * KernSmooth.jl :: [is a direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.](https://github.com/lendle/KernSmooth.jl)
 * KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
