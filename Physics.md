@@ -17,6 +17,7 @@
 
 ### Fluid Dynamics 
 * hydro :: [Fairly simple, relatively small & mildly interesting hydrodynamic code](http://github.com/natj/hydro)
+   * [A video of the "hydro" code in use](https://vimeo.com/95607699)
 
 
 ### Statistical Mechanics
