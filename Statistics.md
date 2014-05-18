@@ -59,6 +59,7 @@
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 * SCIP.jl by @mlubin :: [is an optimization software for mixed-integer programs](https://github.com/mlubin/SCIP.jl)
 * SCIP.jl by @ryanjoneil :: [is a Julia interface to the SCIP solver](https://github.com/ryanjoneil/SCIP.jl)
+* SCS.jl :: [Julia Wrapper for SCS (https://github.com/cvxgrp/scs)](https://github.com/karanveerm/SCS.jl)
 
 ### Preprocessor
 * Precompiler :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
