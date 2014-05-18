@@ -20,6 +20,7 @@
 * GLText.jl :: [Text Rendering for OpenGL](https://github.com/SimonDanisch/GLText.jl)
 * GLUtil.jl :: [Utility package for ModernGL by @SimonDanisch](https://github.com/SimonDanisch/GLUtil.jl)
 * GLWindow.jl :: [Create a window with an OpenGL context](https://github.com/SimonDanisch/GLWindow.jl)
+* GreinerHormann.jl :: [An implementation of the Greiner-Hormann clipping algorithm in Julia](https://github.com/sjkelly/GreinerHormann.jl)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
