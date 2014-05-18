@@ -28,6 +28,7 @@
 * LMCLUS.jl :: [Julia's package for Linear Manifold Clustering](https://github.com/wildart/LMCLUS.jl)
 * LineExtraction.jl :: [Line extraction from an image (using Markovian model and energy minimization)](https://github.com/remusao/LineExtraction.jl)
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
+* MeshSlicer.jl :: [A package for slicing meshes into polygons using Julialang](https://github.com/sjkelly/MeshSlicer.jl)
 * ModernGL.jl :: [This package includes all definitions of OpenGL versions > 3.0.](https://github.com/SimonDanisch/ModernGL.jl), a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 * OpenGL.jl :: [Julia interface to OpenGL](https://github.com/rennis250/OpenGL.jl)
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
