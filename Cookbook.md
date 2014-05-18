@@ -25,8 +25,6 @@
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 * [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
 
-
-
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 * [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
@@ -68,5 +66,6 @@
 
 
 # Tutorials
+* algorithms.jl :: [Algorithms in Julia](https://github.com/cfusting/algorithms.jl)
 * julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
 
