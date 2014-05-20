@@ -23,7 +23,6 @@
 
 
 # General Utilities 
-
 * Events.jl :: [Simple Event system](https://github.com/SimonDanisch/Events.jl)
 
 ## CLI 
@@ -31,6 +30,7 @@
 * GMT-julia-headers :: https://github.com/meggart/GMT-julia-headers
 * MetaTools.jl :: [Handy MetaProgramming whatnots for Julia](https://github.com/burrowsa/MetaTools.jl)
 * ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
+* TerminalExtensions.jl :: [A package that makes Julia take advantage of cool terminal emulator features](https://github.com/loladiro/TerminalExtensions.jl)
 * toolbox.jl :: [Small tools and snippets used by @natj with julia](https://github.com/natj/toolbox.jl)
 
 ## File compression 
