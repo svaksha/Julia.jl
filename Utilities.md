@@ -51,7 +51,8 @@
 
 
 # ENVIRONMENTS
-**REPL shells, IDE/Text editors, IJulia, WIDE, &c..**
+**Braille, REPL shells, IDE/Text editors, IJulia, WIDE, &c..**
+
 ### IDE
 * emacs-ess-julia.el :: [ESS support for julia language](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el), includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
@@ -71,10 +72,11 @@
 * Sublime-IJulia :: [is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend](https://github.com/karbarcca/Sublime-IJulia)
 * WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
 
-### Shell
+### Shell Terminal
 * DocOpt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/DocOpt.jl) and it is a port of DocOpt written in the Julia language.
 * REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
 * REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
+* TextPlots.jl :: [Fancy terminal plotting for Julia using Braille characters](https://github.com/sunetos/TextPlots.jl)
 
 ### WIDE
 * Use [Julia on the SageMath cloud server](https://cloud.sagemath.com).

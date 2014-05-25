@@ -25,6 +25,11 @@
 * [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 * [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
+<<<<<<< HEAD
+* Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
+
+=======
+>>>>>>> 7ecbbf55d31cfb4910066898fbac1559e1f19114
 
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
