@@ -20,7 +20,7 @@
 * [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
 * [NEWS.md](https://github.com/svaksha/Julia.jl/blob/master/NEWS.md)
 * [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
-* [Programming-Concepts.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Concepts.md) :: Programming language concepts that are used in the type system, data types, file formats, etc..
+* [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
 * [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Julia-related Conferences (meetups, slides, talks, videos, etc..) and Research Papers (journal and conference publications).
 * [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
 * [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....

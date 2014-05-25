@@ -2,10 +2,11 @@
 * [Control System](#control-system)
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
-* [Programming](#programming)
+* [Programming Paradigms](#programming-paradigms)
    * [Functional Programming](#functional-programming)
    * [Macros](#macros)
    * [Meta Programming](#meta-programming)
+   * [Reactive Programming](#reactive-programming)
    * [Software Architecture](#software-architecture)
    * [Style Guidelines](#style-guidelines) 
    * [Type Parameters](#type-parameters)
@@ -87,7 +88,8 @@
 * YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
 
 
-# Programming 
+# Programming Paradigms
+
 ### Functional Programming 
 * Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
@@ -106,6 +108,8 @@
 ##### DOCS
 * [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
+### Reactive Programming
+* React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
 
 ### Software Architecture
 * dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
