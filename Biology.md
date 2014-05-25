@@ -4,11 +4,12 @@
 * [Biotechnology](#biotechnology)
 * [ComputationalSystemsBiology](#computationalsystemsbiology)
 * [Neuroscience](#neuroscience)
+* [Microbiology](#microbiology)
+
 
 
 * [BioJulia group](https://github.com/BioJulia) on github, and the GoogleGroups mailing list:: https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev
 * [JuliaBio](https://github.com/JuliaBio) group on github, and its GoogleGroups mailing list :: https://groups.google.com/forum/#!forum/julia-bio
-
 
 # Biostatistics
 * ROC.jl :: [Receiver Operating Characteristic (ROC) Curve](https://github.com/diegozea/ROC.jl) for Julia Language.
@@ -36,6 +37,8 @@
 # Computational-Systems-Biology
 * Gillespie.jl :: [Stochastic Gillespie-type simulations using Julia](https://github.com/sdwfrost/Gillespie.jl)
 
+# Microbiology
+* QSimulator.jl :: [Unitary and Lindbladian evolution of quantum states in Julia](https://github.com/BBN-Q/QSimulator.jl)
 
 # Neuroscience
 * ElectroJulia.jl :: [Julia functions to process electroencephalographic recordings](https://github.com/sam81/ElectroJulia.jl)
