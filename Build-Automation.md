@@ -34,6 +34,7 @@
 * Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
 
 ##### Debian (Ubuntu)
+* APT.jl :: [is a module to manipulate Debian Advanced Package Tool (APT)](https://github.com/bbshortcut/APT.jl). It comes with pnlt, an executable that allows to manage package name lists.
 * Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
 
 ##### Fedora / RHEL
