@@ -25,6 +25,7 @@
 
 # METEOROLOGY
 * CAIRS.jl :: [Continous Assimilation of Integrating Rain Sensors](https://github.com/scheidan/CAIRS.jl)
+* CERESViewer.jl :: [Visualize observations of the flows of energy in and out of the Earth](https://github.com/jsbj/CERESViewer.jl).
 * Hotwire.jl:: [Hotwire anemometry related functions implemented in Julia](https://github.com/pjabardo/Hotwire.jl)
 * Scriabin.jl :: [Radiative transfer in Julia](https://github.com/jsbj/Scriabin.jl)
 
