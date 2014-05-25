@@ -125,6 +125,7 @@
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 ### Geometry
+* ConicHulls.jl :: [Exact dynamic conic hulls of integer vectors](https://github.com/toivoh/ConicHulls.jl)
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
 * Geometry2D.jl :: [2D computational geometry package](https://github.com/mroughan/Geometry2D.jl) for Julia programming language.
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)

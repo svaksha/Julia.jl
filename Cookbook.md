@@ -11,6 +11,7 @@
 # Books
 * Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
 * Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
+* [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 
 
 # Blogs 
@@ -24,8 +25,6 @@
 * [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 * [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
-* Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
-
 
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
@@ -68,5 +67,6 @@
 
 
 # Tutorials
+* algorithms.jl :: [Algorithms in Julia](https://github.com/cfusting/algorithms.jl)
 * julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
 

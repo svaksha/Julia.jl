@@ -20,6 +20,7 @@
 * GLText.jl :: [Text Rendering for OpenGL](https://github.com/SimonDanisch/GLText.jl)
 * GLUtil.jl :: [Utility package for ModernGL by @SimonDanisch](https://github.com/SimonDanisch/GLUtil.jl)
 * GLWindow.jl :: [Create a window with an OpenGL context](https://github.com/SimonDanisch/GLWindow.jl)
+* GreinerHormann.jl :: [An implementation of the Greiner-Hormann clipping algorithm in Julia](https://github.com/sjkelly/GreinerHormann.jl)
 * Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
 * ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
 * ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
@@ -28,6 +29,7 @@
 * LMCLUS.jl :: [Julia's package for Linear Manifold Clustering](https://github.com/wildart/LMCLUS.jl)
 * LineExtraction.jl :: [Line extraction from an image (using Markovian model and energy minimization)](https://github.com/remusao/LineExtraction.jl)
 * Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
+* MeshSlicer.jl :: [A package for slicing meshes into polygons using Julialang](https://github.com/sjkelly/MeshSlicer.jl)
 * ModernGL.jl :: [This package includes all definitions of OpenGL versions > 3.0.](https://github.com/SimonDanisch/ModernGL.jl), a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 * OpenGL.jl :: [Julia interface to OpenGL](https://github.com/rennis250/OpenGL.jl)
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
@@ -55,6 +57,7 @@
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
 * Cairo.jl :: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl).
 * Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
+* ComposeVideo.jl :: [Video generator for Gadfly.jl](https://github.com/arnim/ComposeVideo.jl)
 * Displaz.jl :: [is julia bindings](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 * ECharts.jl :: https://github.com/wlbksy/ECharts.jl
 * echarts :: https://github.com/ecomfe/echarts
