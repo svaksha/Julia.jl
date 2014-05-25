@@ -133,6 +133,7 @@
 * TensorOperations.jl :: [Julia package for tensor contractions and related operations](https://github.com/Jutho/TensorOperations.jl)
 
 ### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+* InplaceOps.jl :: [Convenient macros for in-place matrix operations in Julia](https://github.com/simonbyrne/InplaceOps.jl)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
 * RandomMatrices.jl :: [Random Matrices](https://github.com/jiahao/RandomMatrices.jl)
 * juliaSpot :: [The Julia implementation of the Spot Linear Algebra Package](https://github.com/slimgroup/juliaSpot)
