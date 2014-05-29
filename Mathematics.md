@@ -135,8 +135,10 @@
 ### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 * InplaceOps.jl :: [Convenient macros for in-place matrix operations in Julia](https://github.com/simonbyrne/InplaceOps.jl)
 * LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
+* linop.jl :: [Basic linear operator package for Julia](https://github.com/dpo/linop.jl)
 * RandomMatrices.jl :: [Random Matrices](https://github.com/jiahao/RandomMatrices.jl)
 * juliaSpot :: [The Julia implementation of the Spot Linear Algebra Package](https://github.com/slimgroup/juliaSpot)
+
 
 _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems._
 * BSplines.jl :: [This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.](https://github.com/gusl/BSplines.jl)
