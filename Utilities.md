@@ -77,7 +77,6 @@
 * LineEdit.jl :: [Julia readline-like library](https://github.com/loladiro/LineEdit.jl)
 * REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
 * REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
-* TextPlots.jl :: [Fancy terminal plotting for Julia using Braille characters](https://github.com/sunetos/TextPlots.jl)
 
 ### WIDE
 * Use [Julia on the SageMath cloud server](https://cloud.sagemath.com).

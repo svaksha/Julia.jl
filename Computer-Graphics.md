@@ -74,6 +74,7 @@
 * paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
 * ProfileView.jl :: Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
 * PyPlot.jl:: [Plotting for Julia based on matplotlib, pyplot](https://github.com/stevengj/PyPlot.jl)
+* TextPlots.jl :: [Fancy terminal plotting for Julia using Braille characters](https://github.com/sunetos/TextPlots.jl)
 * TypeTree.jl:: [source code](https://github.com/johnmyleswhite/TypeTree.jl) and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 * Vega.jl :: [A Julia package for generating visualizations in Vega](https://github.com/johnmyleswhite/Vega.jl)
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
