@@ -75,6 +75,7 @@
 ### Shell Terminal
 * DocOpt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/DocOpt.jl) and it is a port of DocOpt written in the Julia language.
 * LineEdit.jl :: [Julia readline-like library](https://github.com/loladiro/LineEdit.jl)
+* NCurses.jl :: [NCurses bindings for Julia](https://github.com/loladiro/NCurses.jl)
 * REPL.jl :: [Pure-julia REPL implementation](https://github.com/loladiro/REPL.jl)
 * REPLCompletions.jl :: [Tab completions for your Julia REPL](https://github.com/loladiro/REPLCompletions.jl)
 
