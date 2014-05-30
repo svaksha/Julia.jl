@@ -119,7 +119,7 @@
 * TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
 
 **_Ordinary Differential Equations (ODE)_**
-* dassl.jl :: [Differential Algebraic System SoLver](https://github.com/pwl/dassl.jl) 
+* DASSL.jl :: An implementation of the [Differential Algebraic System SoLver](https://github.com/pwl/DASSL.jl) (DASSL) algorithm for solving algebraic differential equations.
 * Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
 * ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
 * RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
