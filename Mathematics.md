@@ -46,6 +46,7 @@
 * Hexagons.jl :: Useful tools for working with [hexagonal grids](https://github.com/dcjones/Hexagons.jl).
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).
 * IntModN.jl :: [Ring(s) of Integers Modulo N](https://github.com/andrewcooke/IntModN.jl)
+* IPPMath.jl :: [A Julia package for vectorized math computation based on Intel IPP](https://github.com/lindahua/IPPMath.jl)
 * JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
   * _JuMP DOCS_::
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
