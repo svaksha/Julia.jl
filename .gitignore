@@ -1,26 +1,39 @@
 # -*- coding: utf-8 -*-
+#Author: @SVAKSHA, Tuesday 21 January 2014 14:00:20 PM IST 
 
-"""
-Created on Tue Jan 21 14:00:20 2014
-Author: SVAKSHA
-"""
-
-# Translations
-*.mo
-
-# Logs, dvcs and databases
-*.log
-*.sql
-*.sqlite
+#DVCS
+#=====
 *.hg/
 
-# OS generated files
+#Databases/DB Ignore
+#==================
+*.sql
+*.sqlite
+ehthumbs.db
+Thumbs.db
+config/databases.yml
+cache
+
+# LOGS
+#=====
+log
+*.log
+*error_log.txt
+
+
+# OS generated junk files
+#=================
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+[Tt]humbs.db
 ehthumbs.db
 Thumbs.db
 
+
+# Translations
+#==================
+*.mo
 
