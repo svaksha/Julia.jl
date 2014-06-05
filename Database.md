@@ -1,7 +1,6 @@
-* [API](#api)
 * [DATABASE ENGINE](#database-engine}
 * [DATASETS](#datasets)
-* [MEMCACHED](#memcached)
+* [DB-API](#db-api)
 * [NOSQL](#nosql)
    * [FoundationDB](#foundationdb)
    * [MongoDB](#mongodb) 
@@ -12,17 +11,8 @@
    * [SQLite](#sqlite)
 
 
-# API
-**Middleware API's**
-* JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
-* DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
-* ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
-* ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
-
-
 # DATABASE ENGINE
 * kyotocabinet.jl :: [Implementation of Kyoto Cabinet in Julia language](https://github.com/tuzzeg/kyotocabinet.jl)
-
 
 
 # DATASETS
@@ -34,8 +24,17 @@
 
 
 
-# MEMCACHED
+# DB-API
+**Middleware API's**
+* JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
+* DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
 * Memcache.jl :: [Julia memcached client](https://github.com/tanmaykm/Memcache.jl)
+* ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
+   * __CookBooks__
+   * [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
+* ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
+
+
 
 
 
