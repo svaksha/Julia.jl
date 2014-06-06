@@ -22,6 +22,7 @@
    * packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
    * [Package Development](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
    
+* Docile.jl :: [Experimental Julia package documentation system](https://github.com/MichaelHatherly/Docile.jl)
 * Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
 * julia_package_system :: [A package system for Julia](https://github.com/johnmyleswhite/julia_package_system)
 * jpm :: [Julia package manager](https://github.com/dirk/jpm)
