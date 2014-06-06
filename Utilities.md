@@ -9,7 +9,6 @@
    * [Microsoft Windows](#microsoft-windows)
 * [ENVIRONMENTS](#environments)    
    * [IDE](#ide)
-   * [IJulia](#ijulia)
    * [WIDE](#wide)    
    * [Shell](#shell)
 
@@ -51,7 +50,7 @@
 
 
 # ENVIRONMENTS
-**Braille, REPL shells, IDE/Text editors, IJulia, WIDE, &c..**
+**Braille, REPL shells, IDE/Text editors, WIDE, &c..**
 
 ### IDE
 * emacs-ess-julia.el :: [ESS support for julia language](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el), includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
@@ -63,14 +62,6 @@
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
 * Sublime-Julia :: [Sublime Syntax, Build, Snippets, and REPL](https://github.com/karbarcca/Sublime-Julia) for the Julia language.
-
-### IJulia 
-* Autoreload.jl :: [A package for autoreloading files for interactive work in IJulia](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
-* Hydra.jl :: [Hosted Multi-user IJulia distribution](https://github.com/loladiro/Hydra.jl).
-* IJulia.jl :: [Julia kernel and magics for IPython](https://github.com/JuliaLang/IJulia.jl)
-* jlbox :: [uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.](https://github.com/compressed/jlbox)
-* Sublime-IJulia :: [is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend](https://github.com/karbarcca/Sublime-IJulia)
-* WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
 
 ### Shell Terminal
 * DocOpt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/DocOpt.jl) and it is a port of DocOpt written in the Julia language.
