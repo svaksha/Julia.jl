@@ -74,6 +74,7 @@
 * Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
 * frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
 * jenks.jl :: https://github.com/scw/jenks.jl
+* Lint.jl :: [A fairly basic lint tool for Julia code](https://github.com/tonyhffong/Lint.jl)
 * MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
 * MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
 * MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
