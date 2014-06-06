@@ -38,6 +38,7 @@
 
 # AUDIO
 * AudioIO.jl :: [is a Julia library for interfacing to audio streams](https://github.com/ssfrr/AudioIO.jl), which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
+* AV.jl :: [Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale](https://github.com/kmsquire/AV.jl); a fork of @ihnorton's [libAV.jl](https://github.com/ihnorton/libAV.jl)
 * Bebop.jl :: [An audio library](https://github.com/zhemao/Bebop.jl) for the Julia programming language.
 * Chango:: [is a simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink](https://bitbucket.org/mbaz/chango).
 * OSC.jl :: [Open Sound Control serialization library](https://github.com/fundamental/OSC.jl), a port of RTOSC for Julia.
