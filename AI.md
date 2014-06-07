@@ -60,7 +60,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 # MACHINE LEARNING
 * DAI.jl :: [A julia binding to the C++ discrete approximate inference library for graphical models: libDAI](https://github.com/binarybana/DAI.jl)
 * DecisionTree.jl :: [https://github.com/bensadeghi/DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
-* FeatureSelection.jl :: [Feature selection for Julia for use in machine learning and statistics.](https://github.com/svs14/FeatureSelection.jl)
 * HopfieldNets.jl :: Discrete and continuous Hopfield networks in Julia.](https://github.com/johnmyleswhite/HopfieldNets.jl)
 * KaggleDigitRecognizer.jl :: [Julia code for Kaggle's Digit Recognizer competition](https://github.com/benhamner/KaggleDigitRecognizer.jl)
 * kNN.jl :: The [k-Nearest Neighbors](https://github.com/johnmyleswhite/kNN.jl) algorithm in Julia.
