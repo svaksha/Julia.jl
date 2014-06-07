@@ -51,6 +51,7 @@
 * JuliaCMAES:: [CMA-ES port](https://github.com/Staross/JuliaCMAES) - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
 * Junquo.jl :: stands for "[JUlia Nonconvex QUadratically constrained quadratic program Optimizer](http://github.com/IainNZ/Junquo.jl)", a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
 * LSQ.jl :: [is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints](https://github.com/davidlizeng/LSQ.jl).
+* MOpt.jl :: [Parallel derivative-free Moment Optimization for Julia](https://github.com/floswald/MOpt.jl)
 * Mosek.jl :: [Interface to the Mosek solver](https://github.com/JuliaOpt/Mosek.jl) in Julia.
 * NLTester :: [Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling](https://github.com/IainNZ/NLTester).
 * NLopt.jl :: Package to call the [NLopt nonlinear-optimization library](https://github.com/JuliaOpt/NLopt.jl) from the Julia language.
