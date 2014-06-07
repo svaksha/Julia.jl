@@ -1,9 +1,8 @@
 [Julia.jl](http://svaksha.github.io/Julia.jl) contains curated decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
 ### Mirrors
-* [BitBucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 * [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
-
+* [Cloudhost](https://git.cloudhost.io/svaksha/Julia.jl) :: git clone git@git.cloudhost.io:svaksha/Julia.jl.git
 
 # PAGES
 * [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
