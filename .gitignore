@@ -4,6 +4,7 @@
 #DVCS
 #=====
 *.hg/
+.hgignore
 
 #Databases/DB Ignore
 #==================
