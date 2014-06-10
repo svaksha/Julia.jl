@@ -66,8 +66,8 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * liblinear.jl :: [Liblinear binding to Julia](https://github.com/tuzzeg/liblinear.jl)
 * MachineLearning.jl :: is a [Machine Learning library package](https://github.com/benhamner/MachineLearning.jl) that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 * Markov.jl :: [Trial Markov package](https://github.com/goedman/Markov.jl)
-* MDP.jl (adityam/MDP.jl) :: [Markov Decision Processes algorithms for Julia](https://github.com/adityam/MDP.jl)
-* MDP.jl (khadiwala/MDP.jl) :: [Markov Decision Processes](https://github.com/khadiwala/MDP.jl) in Julia.
+* MDP.jl (MDP.jl by @adityam) :: [Markov Decision Processes algorithms for Julia](https://github.com/adityam/MDP.jl)
+* MDP.jl (MDP.jl by @khadiwala) :: [Markov Decision Processes](https://github.com/khadiwala/MDP.jl) in Julia.
 * MLBase.jl :: [A set of functions to support the development of machine learning algorithms](https://github.com/lindahua/MLBase.jl).
 * MultiLabelNeuralNetwork.jl :: [A simple feed-forward neural network for multi-label classification](https://github.com/jperla/MultiLabelNeuralNetwork.jl)
 * Orchestra.jl :: [Heterogeneous ensemble learning package](https://github.com/svs14/Orchestra.jl) for the Julia programming language.
@@ -115,6 +115,10 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
+
+###### DOCS
+* Text-Benchmarks :: [Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/)
+
 
 
 # QUANTUM ALGORITHMS
