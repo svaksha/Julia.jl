@@ -35,6 +35,7 @@
 # Data Formats
 **Libraries for Data/File formats.**
 * BGZF.jl :: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
+* COFF.jl :: [A julia implementation of the PE/COFF file format](https://github.com/Keno/COFF.jl)
 * CSV.jl :: [reads CSV files](https://github.com/tanmaykm/CSV.jl)
 * DataFramesIO.jl :: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
 * DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
@@ -53,6 +54,7 @@
 * NetCDF.jl :: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
 * NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
 * NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
+* ObjFileBase.jl :: [Common functionality for Object Files](https://github.com/Keno/ObjFileBase.jl)
 * OpenSlide.jl:: [OpenSlide bindings](https://github.com/ihnorton/OpenSlide.jl) for Julia.
 * PList.jl :: [A module for reading and writing OS X plist in ASCII format](https://github.com/ordovician/PList.jl). The binary and XML format is not supported presently.
 * PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
