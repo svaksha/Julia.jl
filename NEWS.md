@@ -19,6 +19,9 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 #### India
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
 
+#### Japan
+* [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
+
 #### Switzerland
 * [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
