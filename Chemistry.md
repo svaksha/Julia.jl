@@ -6,4 +6,7 @@
 * Synchrony.jl :: [Coherence/phase-locking statistics](https://github.com/simonster/Synchrony.jl) in Julia.
 
 
+##### DOCS
+* [The colors of Chemistry](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) IJulia notebook by @jiahao.
+
 
