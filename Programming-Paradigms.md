@@ -43,6 +43,7 @@
 * DWARF.jl :: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
 * ELF.jl :: [Julia Package for working with ELF files](https://github.com/loladiro/ELF.jl)
 * FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
+* Grisu.jl :: [Port of Double-Conversion library to native Julia](https://github.com/quinnj/Grisu.jl)
 * HDF5.jl :: [HDF5.jl](https://github.com/timholy/HDF5.jl)
 * IniFile.jl :: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
 * JSON.jl :: [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl).
@@ -89,6 +90,8 @@
 * TypeGraph.jl :: [Visualize the Julia type system](https://github.com/johnmyleswhite/TypeGraph.jl)
 * Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
 * YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
+
+
 
 
 # Programming Paradigms
