@@ -16,7 +16,7 @@
 
 # Blogs 
 * The official [Julia language blog](http://julialang.org/blog/)
-* The [Julia Planet](http://juliablogs.com/)
+* The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
 * [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
 * [Leah Hanson's blog post about helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html)
 * Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
