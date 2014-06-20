@@ -22,6 +22,11 @@
 * UCIMLRepo.jl :: [A small package to allow for easy access and download of datasets from UCI ML repository](https://github.com/siddhantjain/UCIMLRepo.jl)
 * WorldBankData.jl :: [The World Bank provides free access to data about development at data.worldbank.org](https://github.com/4gh/WorldBankData.jl)
 
+### Other DataSets
+* Freebase :: [A community-curated database of well-known people, places, and things](http://www.freebase.com)
+* [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
+* [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
+
 
 
 # DB-API
