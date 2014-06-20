@@ -124,7 +124,7 @@
 * MCMC.jl :: is a [generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods](https://github.com/JuliaStats/MCMC.jl). 
 * MCMC2.jl :: [Alternative MCMC package design demo](https://github.com/johnmyleswhite/MCMC2.jl)
 * MCMCExampleRepository.jl :: [Repository for MCMC Julia examples](https://github.com/goedman/MCMCExampleRepository.jl)
-* MCMCsim.jl :: [Markov chain Monte Carlo simulation toolkit for julia](https://github.com/brian-j-smith/MCMCsim.jl)
+* Mamba.jl :: [Markov chain Monte Carlo simulation toolkit for julia](https://github.com/brian-j-smith/Mamba.jl)
 * MixedModels.jl :: [A Julia package for fitting (statistical) mixed-effects models](https://github.com/dmbates/MixedModels.jl).
 * MixtureModels.jl :: [A Julia package for probabilistic mixture models](https://github.com/lindahua/MixtureModels.jl)
 * MultivariateAnalysis.jl :: [A Julia package for multivariate data analysis (e.g. dimension reduction)](https://github.com/lindahua/MultivariateAnalysis.jl)
