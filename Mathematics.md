@@ -119,6 +119,10 @@
 * ReverseDiffSparse.jl :: [Hessian algorithmic differentiation to compute hessian sparsity pattern](https://github.com/mlubin/ReverseDiffSparse.jl).
 * TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
 
+###### Notebooks
+* An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
+
+
 **_Ordinary Differential Equations (ODE)_**
 * DASSL.jl :: An implementation of the [Differential Algebraic System SoLver](https://github.com/pwl/DASSL.jl) (DASSL) algorithm for solving algebraic differential equations.
 * Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
