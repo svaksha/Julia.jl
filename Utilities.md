@@ -25,7 +25,8 @@
 * Events.jl :: [Simple Event system](https://github.com/SimonDanisch/Events.jl)
 
 ## CLI 
-* ArgParse.jl:: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
+* AnsiColor.jl :: [Support for ANSI colored strings in Julia](https://github.com/Aerlinger/AnsiColor.jl). Supported in REPL/Shell environment for both Unix and Mac.
+* ArgParse.jl :: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
 * GMT-julia-headers :: https://github.com/meggart/GMT-julia-headers
 * MetaTools.jl :: [Handy MetaProgramming whatnots for Julia](https://github.com/burrowsa/MetaTools.jl)
 * ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
