@@ -37,7 +37,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 Some tips for submitting a [pull request (PR)](https://github.com/svaksha/Julia.jl/pulls):
 * Add your link as per the topic, with notes (if any) to the respective MarkDown (.md) pages in the repo.
 * For broken links submit a bug report, or replace the broken URI, then submit a PR.
-* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *DOC*, else use the [Cookbook.md](https://github.com/svaksha/Julia.jl/blob/master/Cookbook.md) page.
+* For Documentation and cookbooks, check if it matches the categories listed, if yes, then list it against *Resources / DOC*, else use the [Cookbook.md](https://github.com/svaksha/Julia.jl/blob/master/Cookbook.md) page.
 
 
 # LICENSE 
