@@ -67,7 +67,7 @@
 * IJulia_ PLEAC :: [IJulia version of PLEAC - Programming Language Examples Alike Cookbook](https://github.com/catawbasam/IJulia_PLEAC)
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
-* 100-julia-exercises :: The Julia version of Rougier's 100 numpy exercises as [100-julia-exercises](https://github.com/chezou/julia-100-exercises).
+* 100-julia-exercises :: @rougier's 100 numpy exercises as [100-julia-exercises](https://github.com/chezou/julia-100-exercises).
 
 
 # Tutorials

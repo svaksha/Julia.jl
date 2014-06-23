@@ -31,6 +31,7 @@
 # BENCHMARKS 
 * [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
 * Benchmark.jl :: [A package for computing simple benchmarks, comparing functions and packages](https://github.com/johnmyleswhite/Benchmark.jl)
+* BenchmarkLite.jl :: [A lightweight Julia package for simple performance benchmark](https://github.com/lindahua/BenchmarkLite.jl)
 * Criterion.jl :: [A port of the Haskell's Criterion and Clojure's Criterium library](https://github.com/jakebolewski/Criterion.jl) to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
 * raytracer.jl :: [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) and other [raytracer packages](https://github.com/jakebolewski/rays).
 * SimplexBenchmarks :: [Benchmarks comparing individual operations of the Simplex method for linear programming](https://github.com/mlubin/SimplexBenchmarks) in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
