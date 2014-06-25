@@ -20,6 +20,7 @@
 # Control System
 **Implementations of numerical algorithms for computations in systems and control theory.**
 * Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
+* Fontconfig.jl :: [Basic Julia bindings for fontconfig](https://github.com/dcjones/Fontconfig.jl)
 * Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
 * LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
@@ -109,6 +110,7 @@
 * Reexport.jl :: [Julia macro for re-exporting one module from another](https://github.com/simonster/Reexport.jl)
 * MacroUtils.jl :: [Collection of Julia macros](https://github.com/carlobaldassi/MacroUtils.jl)
 * TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
+
 
 ### Meta Programming
 ##### DOCS
