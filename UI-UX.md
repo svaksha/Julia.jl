@@ -24,7 +24,7 @@
 **GIMP Toolkit**
 * GI.jl :: [Julia bindings using libgobject-introspection](https://github.com/bfredl/GI.jl)
 * Gtk.jl:: Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
-
+* GtkApps.jl :: [GTK Apps](https://github.com/tknopp/GtkApps.jl) by @tknopp
 
 ### IJulia 
 * Autoreload.jl :: [A package for autoreloading files for interactive work in IJulia](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
