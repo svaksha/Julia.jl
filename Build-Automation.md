@@ -39,8 +39,7 @@
 * Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
 
 ##### Fedora / RHEL
-* Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/) (not up to date...).
- 
+* Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
 
 
 # BUILD AUTOMATION
