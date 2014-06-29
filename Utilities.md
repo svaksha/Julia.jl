@@ -63,8 +63,10 @@
 * Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
+* Jupiter-LT :: [A Julia environment built on Light Table](https://github.com/one-more-minute/Jupiter-LT)
 * Liclipse: [LiClipse, Eclipse plus some customizations, supports Julia](http://brainwy.github.io/liclipse/) 
 * Sublime-Julia :: [Sublime Syntax, Build, Snippets, and REPL](https://github.com/karbarcca/Sublime-Julia) for the Julia language.
+
 
 ### Shell Terminal
 * DocOpt.jl :: [generates a command-line arguments parser from human-readable usage patterns](https://github.com/bicycle1885/DocOpt.jl) and it is a port of DocOpt written in the Julia language.
