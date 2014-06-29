@@ -83,6 +83,6 @@
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
 
 ### API 
+* Bokeh.jl :: [Bokeh bindings for Julia](https://github.com/samuelcolvin/Bokeh.jl)
 * plot.ly :: [Plotly Julia API](https://plot.ly/api/julia/) in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
-
 
