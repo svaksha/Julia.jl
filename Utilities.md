@@ -63,6 +63,7 @@
 * Julia-Studio :: [Julia Studio by Forio.com](http://forio.com/products/julia-studio/) and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and [its source on github](https://github.com/forio/julia-tutorials).
 * [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 * Julietta.jl :: [is an integrated developement environment (IDE)](https://github.com/tknopp/Julietta.jl) for the programming language Julia.
+* Liclipse: [LiClipse (which is mostly Eclipse plus some customizations... see: http://brainwy.github.io/liclipse/) now has support for Julia](http://brainwy.github.io/liclipse/) 
 * Sublime-Julia :: [Sublime Syntax, Build, Snippets, and REPL](https://github.com/karbarcca/Sublime-Julia) for the Julia language.
 
 ### Shell Terminal
