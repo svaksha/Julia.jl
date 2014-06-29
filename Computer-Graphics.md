@@ -56,6 +56,7 @@
 # INFOGRAPHICS
 **Statistical Charts, Graphs, Plots, Histograms, Maps**
 * ASCIIPlots.jl :: https://github.com/johnmyleswhite/ASCIIPlots.jl
+* Bokeh.jl :: [Bokeh bindings for Julia](https://github.com/samuelcolvin/Bokeh.jl)
 * Cairo.jl :: [Bindings for the Cairo graphics library](https://github.com/JuliaLang/Cairo.jl).
 * Color.jl :: [https://github.com/JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
 * ComposeVideo.jl :: [Video generator for Gadfly.jl](https://github.com/arnim/ComposeVideo.jl)
@@ -84,6 +85,5 @@
 * Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
 
 ### API 
-* Bokeh.jl :: [Bokeh bindings for Julia](https://github.com/samuelcolvin/Bokeh.jl)
 * plot.ly :: [Plotly Julia API](https://plot.ly/api/julia/) in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 

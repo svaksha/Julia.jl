@@ -144,6 +144,8 @@
 * linop.jl :: [Basic linear operator package for Julia](https://github.com/dpo/linop.jl)
 * RandomMatrices.jl :: [Random Matrices](https://github.com/jiahao/RandomMatrices.jl)
 * juliaSpot :: [The Julia implementation of the Spot Linear Algebra Package](https://github.com/slimgroup/juliaSpot)
+* LinearMaps.jl :: A Julia package for [defining and working with linear maps](https://github.com/Jutho/LinearMaps.jl), also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
+
 
 
 _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems._
