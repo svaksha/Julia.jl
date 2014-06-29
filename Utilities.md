@@ -32,6 +32,7 @@
 * ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
 * TerminalExtensions.jl :: [A package that makes Julia take advantage of cool terminal emulator features](https://github.com/loladiro/TerminalExtensions.jl)
 * toolbox.jl :: [Small tools and snippets used by @natj with julia](https://github.com/natj/toolbox.jl)
+* TermWin.jl :: [NCurses based GUI helper and data navigators](https://github.com/tonyhffong/TermWin.jl)
 
 ## File compression 
 * gzip.jl:: [GunZip in Julia](https://github.com/jvns/gzip.jl).
