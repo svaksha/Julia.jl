@@ -11,6 +11,7 @@
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
 * Ccv.jl:: [Julia bindings for libccv's SIFT image feature detection](https://github.com/dhotson/Ccv.jl).
 * Compose.jl:: [Declarative vector graphics](https://github.com/dcjones/Compose.jl)
+* Contour.jl : [Calculating contour curves for 2D scalar fields in Julia](https://github.com/tlycken/Contour.jl)
 * Curvelet.jl :: [Implementation of the Uniform Discrete Curvelet Transform (UDCT)](https://github.com/fundamental/Curvelet.jl)
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * DelayedBuffer.jl :: [Delayed buffer view for Julia 1D arrays](https://github.com/jfsantos/DelayedBuffer.jl).
