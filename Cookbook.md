@@ -73,4 +73,5 @@
 # Tutorials
 * algorithms.jl :: [Algorithms in Julia](https://github.com/cfusting/algorithms.jl)
 * julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
+* JuliaByExample :: [Collection of Julia language examples](https://github.com/samuelcolvin/JuliaByExample)
 
