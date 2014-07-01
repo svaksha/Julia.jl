@@ -9,7 +9,10 @@
 # CONFERENCES
 ## JuliaCon
 * [JuliaCon](http://juliacon.org/) runs from 2014June26-27, Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
-
+   * __Blogs by JuliaCon attendees__
+   * http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/
+   
+   
 ## ACM SPLASH 
 * 2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
 

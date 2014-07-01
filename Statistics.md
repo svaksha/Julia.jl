@@ -148,6 +148,7 @@
 * Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
 * RunningStats.jl :: [Julia translation of John D. Cook's code for running moment statistics and univariate regressions](https://github.com/johnmyleswhite/RunningStats.jl)
+* Sampling.jl :: [Basic sampling algorithms](https://github.com/JuliaStats/Sampling.jl) package, that provides algorithmic support to statistics-related packages, including Distributions.jl
 * SGDDemo.jl :: [Stochastic Gradient Descent (SGD) predictive models for large data sets](https://github.com/johnmyleswhite/SGDDemo.jl) in Julia.
 * SGD2.jl :: [Stochastic gradient descent, a draft of new methods for SGD calculations](https://github.com/johnmyleswhite/SGD2.jl)
 * SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
