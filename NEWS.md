@@ -9,7 +9,6 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
    * [Yellow Press](#yellow-press)
 
 
-
 * NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
 
 # COMMUNITY
