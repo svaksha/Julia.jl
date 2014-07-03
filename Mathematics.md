@@ -168,11 +168,12 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 
 # PUZZLES
 **Puzzles, problem solving games**
-* Cbc.jl:: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
+* Cbc.jl :: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
 * Deepthought.jl :: https://github.com/dejakaymac/Deepthought.jl
 * euler :: [Project Euler solutions in Julia](https://github.com/somu/euler)
-* Game.jl:: is inspired by PyGame, to [make 2D games easy in Julia](https://github.com/IainNZ/Game.jl)
-* sudoku.jl:: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
+* Game.jl :: is inspired by PyGame, to [make 2D games easy in Julia](https://github.com/IainNZ/Game.jl)
+* sudoku.jl :: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
+* Sudoku.jl :: [A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia](https://github.com/hayd/Sudoku.jl)
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
 * TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
 * Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles :: [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb)
