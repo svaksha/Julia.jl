@@ -33,6 +33,7 @@
 * Catalan.jl :: [a combinatorics library](https://github.com/andrioni/Catalan.jl) for Julia.
 * CRF.jl :: [Conditional Random Fields](https://github.com/slyrz/CRF.jl) in Julia.
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
+* ContinuedFractions.jl :: [Types and functions for working with continued fractions in Julia](https://github.com/johnmyleswhite/ContinuedFractions.jl)
 * Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
 * DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
 * Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
@@ -47,15 +48,8 @@
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).
 * IntModN.jl :: [Ring(s) of Integers Modulo N](https://github.com/andrewcooke/IntModN.jl)
 * IPPMath.jl :: [A Julia package for vectorized math computation based on Intel IPP](https://github.com/lindahua/IPPMath.jl)
-* JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
-  * _JuMP DOCS_::
-  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
-* JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
-* KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
-* MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
-* MUMPS1.jl :: [An alternative implementation of a Julia interface to the sparse direct solver MUMPS](https://github.com/dmbates/MUMPS1.jl). A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 * NumericExtensions.jl :: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl).
    * _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
 * NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
@@ -131,12 +125,16 @@
 * RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 * Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
+
+
 ### Geometry
 * ConicHulls.jl :: [Exact dynamic conic hulls of integer vectors](https://github.com/toivoh/ConicHulls.jl)
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
 * Geometry2D.jl :: [2D computational geometry package](https://github.com/mroughan/Geometry2D.jl) for Julia programming language.
 * Tensors.jl :: [Julia package for tensor decompositions](https://github.com/pgawron/Tensors.jl)
 * TensorOperations.jl :: [Julia package for tensor contractions and related operations](https://github.com/Jutho/TensorOperations.jl)
+
+
 
 ### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 * InplaceOps.jl :: [Convenient macros for in-place matrix operations in Julia](https://github.com/simonbyrne/InplaceOps.jl)
@@ -149,8 +147,7 @@
 * NAG.jl :: Julia package to wrap the [NAG Numerical Library](https://github.com/StefanKarpinski/NAG.jl), a propreitary software library of numerical analysis routines, mathematical and statistical algorithms for linear algebra, optimization, quadrature, the solution of ordinary and partial differential equations, regression analysis, and time series analysis.
 
 
-
-_Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems._
+__Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__
 * BSplines.jl :: [This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.](https://github.com/gusl/BSplines.jl)
 * IncrementalSVD.jl :: [Simon Funk's approach to collaborative filtering using the singular value decomposition](https://github.com/aaw/IncrementalSVD.jl), implemented in Julia.
 * InteriorPoint.jl :: [Primal-dual interior point solver for linear programs](https://github.com/IainNZ/InteriorPoint.jl)
@@ -165,13 +162,22 @@ _Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerica
 * VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
 
 
+**Linear Algebra**
+* Cbc.jl :: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
+* JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
+  * _JuMP DOCS_::
+  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
+* JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
+* KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
+* MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
+* MUMPS1.jl :: [An alternative implementation of a Julia interface to the sparse direct solver MUMPS](https://github.com/dmbates/MUMPS1.jl). A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
+
+
 
 # PUZZLES
 **Puzzles, problem solving games**
-* Cbc.jl :: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
 * Deepthought.jl :: https://github.com/dejakaymac/Deepthought.jl
 * euler :: [Project Euler solutions in Julia](https://github.com/somu/euler)
-* Game.jl :: is inspired by PyGame, to [make 2D games easy in Julia](https://github.com/IainNZ/Game.jl)
 * sudoku.jl :: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
 * Sudoku.jl :: [A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia](https://github.com/hayd/Sudoku.jl)
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
