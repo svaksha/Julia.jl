@@ -45,6 +45,7 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 * 2014-01-23 :: Evan Miller's ["Why I’m Betting on Julia" blog post](http://www.evanmiller.org/why-im-betting-on-julia.html) hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
 * 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
 * 2014-03-12 :: [Interview with the Julia language creators in The Programmer magazine (Chinese)](http://www.csdn.net/article/2014-03-12/2818732)
+* 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
 
 ### Blogs
 * [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
