@@ -2,7 +2,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 * [CHECKSUM ALGORITHMS](#checksum-algorithms)
 * [DATA STRUCTURES](#data-structures)
-* [MACHINE LEARNING](#machine-learning])
+* [MACHINE LEARNING](#machine-learning)
    * [Clustering Algorithms](#clustering-algorithms)
 * [MARKOV MODELS](#markov-models)
 * [NEURAL NETWORKS](#neural-networks)
