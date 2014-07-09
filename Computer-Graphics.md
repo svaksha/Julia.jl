@@ -7,6 +7,8 @@
    * [API](#api)
 
 
+* [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
+
 # GRAPHICS 
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
 * Ccv.jl:: [Julia bindings for libccv's SIFT image feature detection](https://github.com/dhotson/Ccv.jl).
