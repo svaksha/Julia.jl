@@ -164,6 +164,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 **Linear Algebra**
 * Cbc.jl :: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
+* [CCJuMP.jl](https://github.com/mlubin/CCJuMP.jl)
 * JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
   * _JuMP DOCS_::
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
