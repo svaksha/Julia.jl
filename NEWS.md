@@ -1,6 +1,7 @@
 This section contains links to Events (un)conferences, talks, slides/videos, Research papers, and other NEWS...
 
 * [COMMUNITY](#community)
+   * [Forums](#forums)
    * [Julia User Groups](#julia-user-groups)
 * [DEVELOPMENT](#development)
    * [GSoC](#gsoc)
@@ -11,8 +12,14 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
 
 * NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
 
+
 # COMMUNITY
 Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
+
+## Forums
+* [Reddit](http://www.reddit.com/r/Julia/)
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
+
 
 ## Julia User Groups
 #### India
@@ -33,6 +40,7 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 * [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
 * [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
 * [Triangle Julia Users, Raleigh, NC](http://www.meetup.com/Triangle-Julia-Users/)
+
 
 
 # DEVELOPMENT
