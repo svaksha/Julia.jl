@@ -1,5 +1,11 @@
 **Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...**
+* [YAJO](#yajo)
 
+
+# YAJO
+* [JuliaQ](http://juliaq.github.io/)
+
+ 
 * ChemicalKinetics.jl :: [Simulation, Bayesian inference and Bayesian model selection for chemical kinetics](https://github.com/scidom/ChemicalKinetics.jl) in Julia.
 * MethylUtils.jl :: [Utilities for bisulfite sequencing data](https://github.com/nw11/MethylUtils.jl)
 * pyquante2 :: PyQuante is a Quantum Chemistry suite written in Python, with [Julia support](https://github.com/rpmuller/pyquante2/) for HF and methods for integrals. {ToDo: expand the functionality RSN.}
