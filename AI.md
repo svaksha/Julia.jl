@@ -81,7 +81,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * SimpleML.jl :: [Textbook implementations of some Machine Learning Algorithms](https://github.com/aviks/SimpleML.jl) in Julia.
 * SFA.jl :: [Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion)](https://github.com/makokal/SFA.jl) in Julia.
 * YCaret.jl :: [Machine learning utility functions](https://github.com/EricChiang/YCaret.jl) in Julia.
-
+* RegERMs.jl :: A package implementing several [machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression)](https://github.com/BigCrunsh/RegERMs.jl) in Julia.
 
 ##### Tutorials
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
