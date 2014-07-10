@@ -1,8 +1,9 @@
+* [YAJO](#yajo)
 * [AstroLibs](#astrolibs)
 * [Astronomical Imaging](#astronomicalimaging)
 
 
-
+# YAJO
 * [JuliaAstro group on Github](https://JuliaAstro.github.io)
 
 # AstroLibs

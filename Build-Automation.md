@@ -5,6 +5,8 @@
 * [BUILD AUTOMATION](#build-automation)
    * [DistrOS](#distros)
 * [CONTINUOUS INTEGRATION](#continuous-integration)
+   * [YAJO](#yajo)
+
 
 
 # INSTALL 
@@ -51,5 +53,8 @@
 
 
 # CONTINUOUS INTEGRATION
-* [Julia-CI group](https://github.com/julia-ci) on Github.
 * Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
+
+### YAJO
+* [Julia-CI group](https://github.com/julia-ci) on Github.
+

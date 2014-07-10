@@ -42,7 +42,6 @@
 
 
 
-
 # NOSQL
 ## FoundationDB
 * Catacomb.jl :: [A client-side elliptic curve cryptography layer for FoundationDB](https://github.com/wwilson/Catacomb.jl)

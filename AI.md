@@ -2,6 +2,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 * [CHECKSUM ALGORITHMS](#checksum-algorithms)
 * [DATA STRUCTURES](#data-structures)
+   * [YAJO](#yajo)
 * [MACHINE LEARNING](#machine-learning)
    * [Clustering Algorithms](#clustering-algorithms)
 * [MARKOV MODELS](#markov-models)
@@ -17,7 +18,12 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 
 # DATA STRUCTURES
-(Arrays / Hash tables / Matrix / Functional / Trees data structures,..)
+
+## YAJO
+* [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
+
+
+### Arrays / Hash tables / Matrix / Functional / Trees data structures
 * ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.

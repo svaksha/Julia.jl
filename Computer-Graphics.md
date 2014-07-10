@@ -1,5 +1,6 @@
 *Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.*
 
+* [YAJO](#yajo)
 * [GRAPHICS](#graphics) 
    * [Games](#games)
    * [CookBooks](#cookbooks)
@@ -7,6 +8,7 @@
    * [API](#api)
 
 
+# YAJO
 * [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
 
 # GRAPHICS 
