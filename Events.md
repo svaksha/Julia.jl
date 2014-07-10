@@ -24,7 +24,9 @@
 
 ## SciPy
 *2014*
-* July 6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) will have a Julia tutorial at SciPy 2014, on July 7th in Austin, Texas.
+* July 6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) had a Julia tutorial on July 7th in Austin, Texas by @dpsanders. The [4-hour Julia tutorial video](https://www.youtube.com/watch?v=vWkgEddb4-A) and the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia) are online.
+
+
 
 ##### LUG Talks, Slides.
 * SF.jl :: Slides for the SF Julia meetup](https://github.com/johnmyleswhite/SF.jl)
