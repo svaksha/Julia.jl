@@ -13,7 +13,7 @@
    * [Perl](#perl)
    * [Python](#python)
    * [R](#r)
-
+   * [Ruby](#ruby)
 
 
 # API
@@ -79,3 +79,5 @@
 * runr :: [Run Julia from R](http://rpubs.com/yihui/julia-knitr) using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 * utils.jl :: [Utility functions for Julia + R compatibility wrapper](https://github.com/johnmyleswhite/utils.jl)
 
+## Ruby
+* guard-julia :: [Guard plugin for Julia development](https://github.com/svs14/guard-julia). Julia guard automatically launches respective tests when Julia files are modified.
