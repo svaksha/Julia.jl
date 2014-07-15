@@ -48,6 +48,7 @@
 * Intervals.jl :: A pure Julia reimplementation of [MPFI, a multiple precision interval arithmetic library](https://github.com/andrioni/Intervals.jl).
 * IntModN.jl :: [Ring(s) of Integers Modulo N](https://github.com/andrewcooke/IntModN.jl)
 * IPPMath.jl :: [A Julia package for vectorized math computation based on Intel IPP](https://github.com/lindahua/IPPMath.jl)
+* LsqFit.jl :: [Simple curve fitting functionality from Optim.jl has been moved into its own package](https://github.com/JuliaOpt/LsqFit.jl)
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
 * NumericExtensions.jl :: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl).
