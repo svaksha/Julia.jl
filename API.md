@@ -20,6 +20,7 @@
 * Hydna.jl :: [Hydna Julia Client Library](https://github.com/jfd/Hydna.jl) implements support for the Hydna Push API.
 * Twitter.jl :: [Julia package to access the Twitter API](https://github.com/randyzwitch/Twitter.jl)
 * Twilert.jl :: [A small SMS alert library for Julia.](https://github.com/glesica/Twilert.jl)
+* MapLight.jl :: [A Julia package for using the MapLight API](https://github.com/WestleyArgentum/MapLight.jl). [MapLight](http://maplight.org/apis/bill-positions) has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
 
 ## Math
 * MathLink.jl :: [provides bindings to the MathLink library, which is an interface for Mathematica.](https://github.com/simonbyrne/MathLink.jl)
