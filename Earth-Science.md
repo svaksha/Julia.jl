@@ -1,7 +1,13 @@
+* [AERONAUTICS](#aeronautics)
 * [AQUATIC ECOLOGY](#aquatic-ecology)
 * [GEOSTATISTICS](#geostatistics)
 * [GIS](#gis)
 * [METEOROLOGY](#meteorology)
+
+
+# AERONAUTICS
+* Rotations.jl :: [Functions related to rotations of coordinate frames, angle2dcm, dcm2angle](https://github.com/ronisbr/Rotations.jl)
+* Quaternions.jl :: [A Julia module with quaternion and dual-quaternion functionality](https://github.com/forio/Quaternions.jl).
 
 
 # AQUATIC ECOLOGY

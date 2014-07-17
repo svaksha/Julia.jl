@@ -1,5 +1,5 @@
 * [Fluid Dynamics](#fluid-dynamics)
-* [Statistical Mechanics](#statisticalmechanics)
+* [Statistical Mechanics](#statistical-mechanics)
 
 
 * auditory.jl :: [Auditory filterbanks in Julia](https://github.com/jfsantos/auditory.jl)
