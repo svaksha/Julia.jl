@@ -3,7 +3,7 @@
 
 
 # YAJO
-* [JuliaQ](http://juliaq.github.io/)
+* [JuliaQuantum](http://juliaquantum.github.io/), is the umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
 
  
 * ChemicalKinetics.jl :: [Simulation, Bayesian inference and Bayesian model selection for chemical kinetics](https://github.com/scidom/ChemicalKinetics.jl) in Julia.
@@ -13,7 +13,7 @@
 * Synchrony.jl :: [Coherence/phase-locking statistics](https://github.com/simonster/Synchrony.jl) in Julia.
 
 
-##### DOCS
+###### Resources
 * [The colors of Chemistry](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) IJulia notebook by @jiahao.
 
 

@@ -9,7 +9,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * [NEURAL NETWORKS](#neural-networks)
 * [NLP](#nlp)
 * [QUANTUM ALGORITHMS](#quantum-algorithms)
-* [SEARCH ALGORITHMS](#common-search-algorithms)
+* [SEARCH ALGORITHMS](#search-algorithms)
     
 
 # CHECKSUM ALGORITHMS
@@ -18,7 +18,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 
 # DATA STRUCTURES
-
 ## YAJO
 * [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
 
@@ -83,7 +82,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * YCaret.jl :: [Machine learning utility functions](https://github.com/EricChiang/YCaret.jl) in Julia.
 * RegERMs.jl :: A package implementing several [machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression)](https://github.com/BigCrunsh/RegERMs.jl) in Julia.
 
-##### Tutorials
+###### Resources
 * ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
 
 
@@ -123,7 +122,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
 
-###### DOCS
+###### Resources
 * Text-Benchmarks :: [Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/)
 
 

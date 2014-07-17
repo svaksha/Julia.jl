@@ -14,7 +14,7 @@
 
 
 # CAD-CAM
-* Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode)
+* Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
 
 
 # Control System
