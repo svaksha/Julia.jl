@@ -21,6 +21,7 @@
 * [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 * GDAL.jl :: [Geospatial Data Analysis Library Wrapper for Julia](https://github.com/wkearn/GDAL.jl)
 * GDALfuns.jl :: [GDAL wrapper for the Julia Programming language](https://github.com/meggart/GDALfuns.jl)
+* Gaia.jl :: [Unified interface for observational datasets of the Earth's weather and climate](https://github.com/jsbj/Gaia.jl)
 * GIS.jl :: [A package for the visualization and manipulation of geographic data](https://github.com/wkearn/GIS.jl)
 * GeoIP.jl :: is a Julia package that can estimate the [geographic location of IP addresses](https://github.com/johnmyleswhite/GeoIP.jl).
 * GMT.jl :: is a [package containing Julia bindings for the Generic Mapping Tools Library](https://github.com/joa-quim/GMT.jl), a.k.a "libgmt" - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
