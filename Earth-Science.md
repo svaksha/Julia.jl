@@ -28,6 +28,7 @@
    * *Forks*
    * https://github.com/ihnorton/GMT.jl
 * hillerislambers :: [Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics](https://github.com/wkearn/hillerislambers)
+* Jultran.jl :: [Julia interface for the HITRAN database of spectral lines](https://github.com/jsbj/Jultran.jl), based on Ray Pierrehumbert's PyTran.
 * SpatialStats.jl :: [Spatial Statistics](https://github.com/dchudz/SpatialStats.jl)
 
 
