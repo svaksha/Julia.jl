@@ -129,6 +129,7 @@
 
 
 ### Geometry
+* AffineTransforms.jl :: [Computational geometry with affine transformations](https://github.com/timholy/AffineTransforms.jl)
 * ConicHulls.jl :: [Exact dynamic conic hulls of integer vectors](https://github.com/toivoh/ConicHulls.jl)
 * GeoAlg.jl :: [A basic geometric algebra library](https://github.com/andrioni/GeoAlg.jl) in Julia.
 * Geometry2D.jl :: [2D computational geometry package](https://github.com/mroughan/Geometry2D.jl) for Julia programming language.

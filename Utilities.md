@@ -14,7 +14,7 @@
 
 
 # DOCUMENTATION
-*Julia Documentation*
+*Julia Documentation tools*
 * [Julia Documentation README](https://github.com/JuliaLang/julia/blob/master/doc/README.md)
 * Doc.jl :: [Daniel Carrera's modern documentation system for Julia.](https://github.com/dcarrera/Doc.jl)
 * Jocco :: [is a simple literate-programming-style documentation generator](http://lcw.github.com/jocco/) for Julia.
