@@ -38,6 +38,7 @@
 * MeshSlicer.jl :: [A package for slicing meshes into polygons using Julialang](https://github.com/sjkelly/MeshSlicer.jl)
 * ModernGL.jl :: [This package includes all definitions of OpenGL versions > 3.0.](https://github.com/SimonDanisch/ModernGL.jl), a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 * OpenGL.jl :: [Julia interface to OpenGL](https://github.com/rennis250/OpenGL.jl)
+* PolygonClipping.jl :: [A Julia package for polygon clipping](https://github.com/sjkelly/PolygonClipping.jl)
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TestImages.jl :: [Loading standard test images into Julia](https://github.com/timholy/TestImages.jl)
