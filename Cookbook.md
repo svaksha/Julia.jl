@@ -28,7 +28,6 @@
 * Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
 * @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
 
-
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 * [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
@@ -49,6 +48,7 @@
 * Euler.jl :: [Project Euler with julia language](https://github.com/moon6pence/Euler.jl)
 * julia-mit :: [Tutorials and information on the Julia language for MIT numerical-computation courses.](https://github.com/stevengj/julia-mit)
 * JuliaTutorial.jl :: [The Julia Tutorial series](https://github.com/abhi123link/JuliaTutorial.jl)
+* lazysort.jl :: [Lazy quicksort snippet](https://gist.github.com/anj1/2fe551053c849f54677e).
 * [Plotting Examples](https://gist.github.com/gizmaa/7214002)
 * Rosetta-Julia :: [Rosetta Code tasks](https://github.com/karbarcca/Rosetta-Julia) implemented in the Julia language.
 * Spark.jl :: [Spark in Julia for MIT 6.824](https://github.com/d9w/Spark.jl)
