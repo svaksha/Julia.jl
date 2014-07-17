@@ -22,6 +22,7 @@
 * Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
 * Fontconfig.jl :: [Basic Julia bindings for fontconfig](https://github.com/dcjones/Fontconfig.jl)
 * Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
+   * Blog post on [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html).
 * LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
 * Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
 * Protobuf.jl :: [Julia protobuf parser implementation](https://github.com/tanmaykm/Protobuf.jl) 
