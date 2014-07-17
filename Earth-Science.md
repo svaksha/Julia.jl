@@ -29,6 +29,7 @@
    * https://github.com/ihnorton/GMT.jl
 * hillerislambers :: [Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics](https://github.com/wkearn/hillerislambers)
 * Jultran.jl :: [Julia interface for the HITRAN database of spectral lines](https://github.com/jsbj/Jultran.jl), based on Ray Pierrehumbert's PyTran.
+* OpenStreetMap.jl :: The Julia [OpenStreetMap package](https://github.com/tedsteiner/OpenStreetMap.jl) provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 * SpatialStats.jl :: [Spatial Statistics](https://github.com/dchudz/SpatialStats.jl)
 * Tyndall.jl :: [Radiative transfer](https://github.com/jsbj/Tyndall.jl) in Julia.
 
