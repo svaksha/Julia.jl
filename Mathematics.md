@@ -77,7 +77,6 @@
 ### Algebra
 * algebra :: A hierarchy of [abstract algebraic structures in Julia](https://github.com/alrahimi/algebra/)
 * CLBLAS.jl :: [CLBLAS integration for Julia](https://github.com/ekobir/CLBLAS.jl)
-* Cliffords.jl :: This library allows for [efficient calculation of Clifford circuits](https://github.com/BBN-Q/Cliffords.jl) by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 * MultiPoly.jl :: [Sparse multivariate polynomials in Julia](https://github.com/daviddelaat/MultiPoly.jl)
 * SemiringAlgebra.jl :: [Semiring Algebra](https://github.com/ViralBShah/SemiringAlgebra.jl)
 * OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)

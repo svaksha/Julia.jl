@@ -5,7 +5,6 @@
 * [Biotechnology](#biotechnology)
 * [ComputationalSystemsBiology](#computationalsystemsbiology)
 * [Neuroscience](#neuroscience)
-* [Microbiology](#microbiology)
 
 
 # YAJO
@@ -38,9 +37,6 @@
 
 # Computational-Systems-Biology
 * Gillespie.jl :: [Stochastic Gillespie-type simulations using Julia](https://github.com/sdwfrost/Gillespie.jl)
-
-# Microbiology
-* QSimulator.jl :: [Unitary and Lindbladian evolution of quantum states in Julia](https://github.com/BBN-Q/QSimulator.jl)
 
 # Neuroscience
 * ElectroJulia.jl :: [Julia functions to process electroencephalographic recordings](https://github.com/sam81/ElectroJulia.jl)
