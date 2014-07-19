@@ -21,7 +21,7 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 
 
-## Julia User Groups
+## [Julia User Groups](http://julia.meetup.com)
 ### ASIA
 ##### India
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)

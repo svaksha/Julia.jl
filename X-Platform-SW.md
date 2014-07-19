@@ -10,6 +10,7 @@
 
 
 # COMPILERS
+* CXX.jl :: [Julia LLVM Interface experiments](https://github.com/Keno/CXX.jl)
 * Clang.jl :: Julia interface to [libclang and C wrapper generator](https://github.com/ihnorton/Clang.jl) and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
 * Eglib.jl :: [Clang.jl wrapping example](https://github.com/ihnorton/Eglib.jl), C code from @kindlmann.
 * JITTools.jl :: [Tools for working with in-memory object](https://github.com/loladiro/JITTools.jl). 
