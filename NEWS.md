@@ -22,19 +22,23 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 
 
 ## Julia User Groups
-#### India
+### ASIA
+##### India
 * [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
-
-#### Japan
+##### Japan
 * [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
-#### Switzerland
+###EUROPE
+##### Switzerland
 * [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
-
-#### UK
+##### UK
 * [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
-#### USA
+### NORTH AMERICA
+##### Canada
+* [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario, Canada.
+##### USA
+* [Atlanta Julia Users Group](http://www.meetup.com/Atlanta-Julia-Users-Group/)
 * [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
 * [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
 * [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
