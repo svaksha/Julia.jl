@@ -21,6 +21,8 @@
 * Twitter.jl :: [Julia package to access the Twitter API](https://github.com/randyzwitch/Twitter.jl)
 * Twilert.jl :: [A small SMS alert library for Julia.](https://github.com/glesica/Twilert.jl)
 * MapLight.jl :: [A Julia package for using the MapLight API](https://github.com/WestleyArgentum/MapLight.jl). [MapLight](http://maplight.org/apis/bill-positions) has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
+* Sunlight.jl :: [A Julia package for interfacing with the Sunlight Foundation's API's](https://github.com/WestleyArgentum/Sunlight.jl). [Sunlight Foundation API](http://sunlightfoundation.com/api)
+
 
 ## Math
 * MathLink.jl :: [provides bindings to the MathLink library, which is an interface for Mathematica.](https://github.com/simonbyrne/MathLink.jl)
