@@ -110,6 +110,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 # NLP 
 * [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
+* [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 * GoodTuring.jl :: [A Julia implementation of Simple Good Turing smoothing](https://github.com/JoFrhwld/GoodTuring.jl), largely adapted from @maxbane.
 * Languages.jl :: [A package for working with human languages](https://github.com/johnmyleswhite/Languages.jl)
 * LTSV.jl :: [Labeled Tab Separated Values (LTSV) parser](https://github.com/kshramt/LTSV.jl) in Julia.
@@ -121,6 +122,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
+
 
 ###### Resources
 * Text-Benchmarks :: [Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/)
