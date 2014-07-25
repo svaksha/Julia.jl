@@ -35,6 +35,8 @@
 
 ## DistrOS
 * Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
+* julia-buildbot :: [Buildbot configuration for build.julialang.org](https://github.com/staticfloat/julia-buildbot). It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
+
 
 ##### Debian (Ubuntu)
 * APT.jl :: [is a module to manipulate Debian Advanced Package Tool (APT)](https://github.com/bbshortcut/APT.jl). It comes with pnlt, an executable that allows to manage package name lists.
