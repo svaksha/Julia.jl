@@ -84,8 +84,8 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * RegERMs.jl :: A package implementing several [machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression)](https://github.com/BigCrunsh/RegERMs.jl) in Julia.
 
 ###### Resources
-* ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
-
+- ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
+- [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 
 ## Clustering algorithms 
 * Clustering.jl :: Basic functions for [clustering data: k-means, dp-means](https://github.com/johnmyleswhite/Clustering.jl), etc..
