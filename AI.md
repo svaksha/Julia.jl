@@ -124,6 +124,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Stemmers.jl :: [Interface for text stemmer implementations](https://github.com/tanmaykm/Stemmers.jl).
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
+- Text.jl :: [Numerous tools for text processing](https://github.com/mit-nlp/Text.jl)
 * TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
 
 
