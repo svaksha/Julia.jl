@@ -147,9 +147,10 @@
 * ProbTopicModels.jl :: [Probabilistic topic models](https://github.com/lindahua/ProbTopicModels.jl)
 * QuantileRegression.jl :: [Quantile regression in the Julia language](https://github.com/vincentarelbundock/QuantileRegression.jl)
 * Queries :: [Composable queries for Julia DataFrames](https://github.com/carljv/Queries)
-* RandomProcesses.jl :: [Random processes (CRP, CRT) in Julia](https://github.com/johnmyleswhite/RandomProcesses.jl)
-* Ridge.jl :: [Ridge regression and classification](https://github.com/johnmyleswhite/Ridge.jl)
-* Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
+- RandomProcesses.jl :: [Random processes (CRP, CRT) in Julia](https://github.com/johnmyleswhite/RandomProcesses.jl)
+- Regression.jl :: [Algorithms for regression analysis (e.g. linear regression and logistic regression)](https://github.com/lindahua/Regression.jl)
+- Ridge.jl :: [Ridge regression and classification](https://github.com/johnmyleswhite/Ridge.jl)
+- Rmath.jl :: [Archive of functions that emulate R's d-p-q-r functions for probability distributions](https://github.com/dmbates/Rmath.jl)
 * RmathDist.jl :: [This package provides a julia interface to the distributions provided by the standalone Rmath library](https://github.com/JuliaStats/RmathDist.jl), which is part of the R project for statistical computing.
 * RunningStats.jl :: [Julia translation of John D. Cook's code for running moment statistics and univariate regressions](https://github.com/johnmyleswhite/RunningStats.jl)
 * Sampling.jl :: [Basic sampling algorithms](https://github.com/JuliaStats/Sampling.jl) package, that provides algorithmic support to statistics-related packages, including Distributions.jl
