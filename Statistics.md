@@ -1,15 +1,16 @@
 *Statistics, Finance,....*
 
-* [ACTUARIAL SCIENCE](#actuarial-science)
+- [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
-* [BENCHMARKS](#benchmarks)
+- [BENCHMARKS](#benchmarks)
    * [Optimization](#optimization)
    * [Preprocessor](#preprocessor)    
-* [OPERATIONS RESEARCH](#operations-research)
-* [STATISTICS](#statistics)
+- [OPERATIONS RESEARCH](#operations-research)
+- [STATISTICS](#statistics)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
-* [VIDEOS](#videos)
+- [VIDEOS](#videos)
+- [YAJO](#yajo)
 
 
 # ACTUARIAL SCIENCE 
@@ -202,3 +203,7 @@
 
 # VIDEOS
 * [Statistical Models in Julia video by Douglas Bates (@dmbates)](https://www.youtube.com/watch?v=v9Io-p_iymI)
+
+
+# YAJO
+- [JuliaStats group](https://github.com/JuliaStats/) and their [home page](https://github.com/JuliaStats/JuliaStats.github.io).
