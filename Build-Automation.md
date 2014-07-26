@@ -30,8 +30,9 @@
 * jpm :: [Julia package manager](https://github.com/dirk/jpm)
 * PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
 * PkgUtils.jl :: [Tools for analyzing Julia packages](https://github.com/johnmyleswhite/PkgUtils.jl)
-* RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
-* WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
+- Require.jl :: [A better module system for Julia](https://github.com/jkroso/Require.jl)
+- RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
+- WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 ## DistrOS
 * Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
