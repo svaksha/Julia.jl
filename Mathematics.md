@@ -25,6 +25,7 @@
 **_DOCS_**
 * [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
 * Accelereval.jl :: [A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation](https://github.com/lindahua/Accelereval.jl)
+- Bijections.jl :: [Bijection datatype for Julia](https://github.com/scheinerman/Bijections.jl)
 * Blocks.jl :: is a framework to represent [chunks of entities and parallel methods on them](https://github.com/tanmaykm/Blocks.jl).
 * Church.jl :: helps you [perform inference in complex, and simple, probabilistic models](https://github.com/LaurenceA/Church.jl)
 * Cartesian.jl :: [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
