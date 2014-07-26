@@ -9,6 +9,7 @@
 * Physical.jl :: https://github.com/ggggggggg/Physical.jl
 * Psychro.jl :: [Thermodynamic properties of moist air (real gas mixture)](https://github.com/pjabardo/Psychro.jl)
 * Quantities.jl :: [Dimensions and Quantities](https://github.com/ElOceanografo/Quantities.jl)
+- QuDOS.jl :: [Quantum Dynamics of Open Systems in Julia](https://github.com/acroy/QuDOS.jl).
 * ROOT.jl :: [A toy experiment interfacing ROOT and Julia through FWLite](https://github.com/jpata/ROOT.jl). [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 * ROOTDataFrames.jl :: [A wrapper for ROOT Trees through the Abstract DataFrame interface](https://github.com/jpata/ROOTDataFrames.jl)
 * SALT.jl :: [SALT (steady-state ab-initio laser theory) solver package for Julia](https://github.com/xdavidliu/SALT.jl)
