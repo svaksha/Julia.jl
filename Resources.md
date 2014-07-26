@@ -5,6 +5,7 @@
 * [Cheatsheets](#cheatsheets)
 * [Cookbooks](#cookbooks)
 * [IJulia NoteBooks](#ijulia-notebooks)
+* [MOOC](#mooc)
 * [Tutorials](#tutorials) 
 
 
@@ -68,6 +69,9 @@
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
 * 100-julia-exercises :: @rougier's 100 numpy exercises as [100-julia-exercises](https://github.com/chezou/julia-100-exercises).
+
+# MOOC
+- [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 
 
 # Tutorials
