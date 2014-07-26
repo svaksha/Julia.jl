@@ -125,8 +125,8 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Sumup.jl :: [Automatic multi-documents, multi-topics summarization based on topic extraction](https://github.com/remusao/Sumup.jl)
 * Treekenize.jl :: [Parser with beginners and enders and infix](https://github.com/o-jasper/Treekenize.jl)
 - Text.jl :: [Numerous tools for text processing](https://github.com/mit-nlp/Text.jl)
-* TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
-
+- TextAnalysis.jl :: is a Julia package for [text analysis](https://github.com/johnmyleswhite/TextAnalysis.jl).
+- TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl).
 
 ###### Resources
 * Text-Benchmarks :: [Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/)
