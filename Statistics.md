@@ -94,7 +94,8 @@
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * ConjugatePriors.jl :: [Closed form expressions for conjugate priors in Julia](https://github.com/johnmyleswhite/ConjugatePriors.jl)
 * CrossDecomposition.jl :: [Canonical-Correlation Analysis (CCA)](https://github.com/simonster/CrossDecomposition.jl)
-* DataFrames.jl :: [A Library for working with tabular data in Julia](https://github.com/juliastats/DataFrames.jl)
+- DA.jl :: [A package for linear and quadratic regularized Discriminant Analysis](https://github.com/trthatcher/DA.jl)
+- DataFrames.jl :: [A Library for working with tabular data in Julia](https://github.com/juliastats/DataFrames.jl)
    * _DOCS_:: The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 * DataArrays.jl :: This package [extends Julia by introducing data structures that can contain missing data](https://github.com/JuliaStats/DataArrays.jl).
 * DataFramesMeta.jl :: [Metaprogramming tools for DataFrames](https://github.com/JuliaStats/DataFramesMeta.jl).
