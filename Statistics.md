@@ -108,6 +108,7 @@
    * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
 * DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
 * Earth.jl :: is the wrapper for the stand-alone version of R's [earth package](https://github.com/lendle/Earth.jl). The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
+- FactorModels.jl :: [Factor models or diffusion index models](https://github.com/joidegn/FactorModels.jl).
 * FeldtLib.jl :: [Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests](https://github.com/robertfeldt/FeldtLib.jl)
 * GaussianProcesses.jl :: [A port of the Gaussian Processes toolkit to Julia](https://github.com/johnmyleswhite/GaussianProcesses.jl)
 * GeometricMCMC.jl :: [Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines](https://github.com/scidom/GeometricMCMC.jl).
