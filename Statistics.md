@@ -106,8 +106,9 @@
 * Distance.jl :: [A Julia package for evaluating distances(metrics) between vectors](https://github.com/JuliaStats/Distance.jl)
 * Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
    * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
-* DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
-* Earth.jl :: is the wrapper for the stand-alone version of R's [earth package](https://github.com/lendle/Earth.jl). The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
+- Divergences.jl :: [A Julia package for evaluating divergences](https://github.com/gragusa/Divergences.jl).
+- DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
+- Earth.jl :: is the wrapper for the stand-alone version of R's [earth package](https://github.com/lendle/Earth.jl). The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
 - FactorModels.jl :: [Factor models or diffusion index models](https://github.com/joidegn/FactorModels.jl).
 * FeldtLib.jl :: [Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests](https://github.com/robertfeldt/FeldtLib.jl)
 * GaussianProcesses.jl :: [A port of the Gaussian Processes toolkit to Julia](https://github.com/johnmyleswhite/GaussianProcesses.jl)
