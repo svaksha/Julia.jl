@@ -1,12 +1,13 @@
 **All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...**
 
-* [Books](#books)
-* [Blogs](#blogs)
-* [Cheatsheets](#cheatsheets)
-* [Cookbooks](#cookbooks)
-* [IJulia NoteBooks](#ijulia-notebooks)
-* [MOOC](#mooc)
-* [Tutorials](#tutorials) 
+- [Books](#books)
+- [Blogs](#blogs)
+- [Cheatsheets](#cheatsheets)
+- [Cookbooks](#cookbooks)
+- [IJulia NoteBooks](#ijulia-notebooks)
+- [Lists](#lists)
+- [MOOC](#mooc)
+- [Tutorials](#tutorials) 
 
 
 # Books
@@ -71,6 +72,10 @@
 * [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 * JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
 * 100-julia-exercises :: @rougier's 100 numpy exercises as [100-julia-exercises](https://github.com/chezou/julia-100-exercises).
+
+# Lists
+- [A curated list of awesome awesomeness - scroll down to the Julia section](https://github.com/bayandin/awesome-awesomeness)
+
 
 # MOOC
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
