@@ -38,11 +38,12 @@
 
 
 # Cheatsheets 
-* John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
-* Julia-cheatsheet.pdf :: [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
-* Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
-* Rosetta-Julia :: [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
-* JuliaDocs :: [John Lynch's Julia and Gadfly Cheatsheets](https://github.com/john9631/JuliaDocs)
+- John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
+- Julia-cheatsheet.pdf :: [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
+- Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
+- Rosetta-Julia :: [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
+- JuliaDocs :: [John Lynch's Julia and Gadfly Cheatsheets](https://github.com/john9631/JuliaDocs)
+- [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 
 
 # Cookbooks 
