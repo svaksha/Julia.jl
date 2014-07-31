@@ -22,11 +22,12 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
 
 
-### Arrays / Hash tables / Matrix / Functional / Trees data structures
+### Arrays / Graphs / Hash tables / Matrix / Functional / Trees data structures
 * ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
 * bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
 * BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
-* FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
+- brim.jl :: [BRIM modularity](https://github.com/tpoisot/brim.jl) - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
+- FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
 * FingerTree.jl :: A [Finger Tree is a functional data structure](https://github.com/mschauer/FingerTree.jl) that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
 * FunctionalCollections.jl :: [Functional and and persistent data structures for Julia](https://github.com/zachallaun/FunctionalCollections.jl)
 * Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
