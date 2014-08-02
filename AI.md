@@ -59,6 +59,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Series.jl :: [Series data structure in Julia](https://github.com/milktrader/Series.jl)
 * Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 * SizeArrays.jl :: [Julia array parametrised by size instead of dimension](https://github.com/andreasnoackjensen/SizeArrays.jl)
+- SuffixArrays.jl :: [Native Julia suffix array implementation](https://github.com/quinnj/SuffixArrays.jl). Derived from sais.
 * TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
 * TOML.jl :: [A TOML parser for Julia](https://github.com/pygy/TOML.jl)
 * Trie.jl :: [Implementation of the trie data structure](https://github.com/JuliaLang/Trie.jl).
