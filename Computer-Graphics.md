@@ -91,9 +91,10 @@
 * TypeTree.jl:: [source code](https://github.com/johnmyleswhite/TypeTree.jl) and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 * Vega.jl :: [A Julia package for generating visualizations in Vega](https://github.com/johnmyleswhite/Vega.jl)
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
-* VTK.jl:: [VTK bindings](https://github.com/ihnorton/VTK.jl) for the Julia language.
-* Winston.jl:: [2D plotting](https://github.com/nolta/Winston.jl) for Julia.
+- [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
+- [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
+- [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
 
 ### API 
-* plot.ly :: [Plotly Julia API](https://plot.ly/api/julia/) in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
+- [plot.ly](https://plot.ly/api/julia/) :: Plotly Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 
