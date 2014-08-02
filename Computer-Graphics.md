@@ -92,6 +92,7 @@
 * Vega.jl :: [A Julia package for generating visualizations in Vega](https://github.com/johnmyleswhite/Vega.jl)
 * VGPlot.jl :: [A knock-off of ggplot2 in Julia using Vega](https://github.com/johnmyleswhite/VGPlot.jl)
 - [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
+- [Wavelets](https://github.com/tomaskrehlik/Wavelets) :: Implementation of Wavelet methods in Julia.
 - [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
 - [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
 
