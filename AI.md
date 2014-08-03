@@ -13,8 +13,8 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
     
 
 # CHECKSUM ALGORITHMS
-* CRC.jl :: [This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs)](https://github.com/andrewcooke/CRC.jl)
-* CRC32.jl :: [32-bit cyclic redundancy check (CRC-32) checksum implementation](https://github.com/fhs/CRC32.jl)
+* [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
+* [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation
 
 
 # DATA STRUCTURES
@@ -23,27 +23,28 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 
 ### Arrays / Graphs / Hash tables / Matrix / Functional / Trees data structures
-* ArrayViews.jl :: A Julia package to [explore a new system of array views](https://github.com/lindahua/ArrayViews.jl).
-* bloom.jl :: [Bloom filter implementation in Julia](https://github.com/boydgreenfield/bloom.jl).
-* BloomFilters.jl :: [Bloom filters](https://github.com/johnmyleswhite/BloomFilters.jl) are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
-- brim.jl :: [BRIM modularity](https://github.com/tpoisot/brim.jl) - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
-- FArrayMod.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/FArrayMod.jl) in Julia programming language.
-* FingerTree.jl :: A [Finger Tree is a functional data structure](https://github.com/mschauer/FingerTree.jl) that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
-* FunctionalCollections.jl :: [Functional and and persistent data structures for Julia](https://github.com/zachallaun/FunctionalCollections.jl)
-* Graphs.jl :: [a package for working with graph types and algorithms](https://github.com/JuliaLang/Graphs.jl) in Julia. 
+- [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
+- [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
+- [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
+- [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+- [brim.jl](https://github.com/tpoisot/brim.jl) :: BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
+- [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
+- [FingerTree.jl](https://github.com/mschauer/FingerTree.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
+- [FunctionalCollections.jl](https://github.com/zachallaun/FunctionalCollections.jl) :: Functional and and persistent data structures for Julia.
+- [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) :: a package for working with graph types and algorithms in Julia. 
    * _DOCS_:: Documentation for the Graphs.jl package [on the Julia website](http://julialang.org/Graphs.jl/index.html), also mirrored on [graphsjl-docs.readthedocs.org](http://graphsjl-docs.readthedocs.org/en/latest/)
    * [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
-* GraphLayout.jl :: [Graph layout algorithms in pure Julia](https://github.com/IainNZ/GraphLayout.jl)
-* GraphicalModels.jl :: [Data structures and parsing tools for representing graphical models](https://github.com/johnmyleswhite/GraphicalModels.jl) in Julia.
-* Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl) for the Julia language.
-* ImmutableArrays.jl:: [Statically-sized immutable vectors and matrices](https://github.com/twadleigh/ImmutableArrays.jl).
-* InverseService:: [Matrix Inverse](https://github.com/IainNZ/InverseService) as a Service.
-* JuliaParser.jl :: [A rewrite of Julia's parser in Julia](https://github.com/jakebolewski/JuliaParser.jl)
-* JudyDicts.jl :: [Judy Array for Julia](https://github.com/tanmaykm/JudyDicts.jl)
-* JSparse.jl :: [A Julia implementation of functions in the CSparse and CXSparse libraries](https://github.com/dmbates/JSparse.jl) developed by Tim Davis. 
-* julia-delayed-matrix :: [Delayed processing of Vector / Matrix expression in Julia with various backends](https://github.com/kk49/julia-delayed-matrix)
-* L1DecisionTree.jl :: https://github.com/neggert/L1DecisionTree.jl
-* LDA.jl:: [Linear Discriminant Analysis and Kernel Fisher Analysis](https://github.com/remusao/LDA.jl).
+- [GraphLayout.jl](https://github.com/IainNZ/GraphLayout.jl) :: Graph layout algorithms in pure Julia.
+- [GraphicalModels.jl](https://github.com/johnmyleswhite/GraphicalModels.jl) :: Data structures and parsing tools for representing graphical models in Julia.
+- [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids for the Julia language.
+- [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
+- [InverseService](https://github.com/IainNZ/InverseService) :: Matrix Inverse as a Service.
+- [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
+- [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
+- [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
+- [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
+- [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
+- [LDA.jl](https://github.com/remusao/LDA.jl) :: Linear Discriminant Analysis and Kernel Fisher Analysis.
 * Metis.jl :: [Julia interface to the Metis graph-partitioning algorithms](https://github.com/dmbates/Metis.jl)
 * MinimalPerfectHashes.jl :: [An implementation of minimal perfect hash function generation](https://github.com/soundcloud/MinimalPerfectHashes.jl) as described in Czech et. al. 1992.http://bit.ly/137iukS 
 * Named.jl:: [Julia named index and named vector types](https://github.com/HarlanH/Named.jl).
@@ -60,9 +61,9 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 * Sims.jl :: [Non-causal, equation-based modeling](https://github.com/tshort/Sims.jl) in Julia.
 * SizeArrays.jl :: [Julia array parametrised by size instead of dimension](https://github.com/andreasnoackjensen/SizeArrays.jl)
 - SuffixArrays.jl :: [Native Julia suffix array implementation](https://github.com/quinnj/SuffixArrays.jl). Derived from sais.
-* TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
-* TOML.jl :: [A TOML parser for Julia](https://github.com/pygy/TOML.jl)
-* Trie.jl :: [Implementation of the trie data structure](https://github.com/JuliaLang/Trie.jl).
+- TimeArrays.jl :: [temporary repo exploring the union of SeriesPair arrays into multicolumn arrays](https://github.com/milktrader/TimeArrays.jl) with similar behavior.
+- TOML.jl :: [A TOML parser for Julia](https://github.com/pygy/TOML.jl)
+- Trie.jl :: [Implementation of the trie data structure](https://github.com/JuliaLang/Trie.jl).
 
 
 # MACHINE LEARNING
@@ -131,20 +132,19 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl).
 
 ###### Resources
-* Text-Benchmarks :: [Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/)
+- [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
 
 
 
 # QUANTUM ALGORITHMS
-* Hadamard.jl :: [Fast multidimensional Walsh-Hadamard transforms](https://github.com/stevengj/Hadamard.jl).
+- [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
 
 
 # SEARCH ALGORITHMS
-* AhoCorasick.jl :: Julia implementation of the [Aho-Corasick algorithm for fast string searching](https://github.com/gilesc/AhoCorasick.jl).
-* bfs.jl :: [Breadth First Search implementation in Julia](https://github.com/adlawson/bfs.jl)
-* dfs.jl :: [Depth First Search](https://github.com/adlawson/dfs.jl)
-* Loess.jl :: is a loess implementation based on the [fast kd-tree based approximation algorithm](https://github.com/dcjones/Loess.jl), a space-partitioning data structure for organizing points in a k-dimensional space.
-* NearestNeighbors.jl :: [Data structures for nearest neighbor search](https://github.com/johnmyleswhite/NearestNeighbors.jl).
-* ReverseRegexes.jl :: [Adds functionality to reverse-search strings with regexes](https://github.com/carlobaldassi/ReverseRegexes.jl)
-
+- [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
+- [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
+- [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search
+* [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
+- [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
+- [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
