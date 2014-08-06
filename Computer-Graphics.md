@@ -9,7 +9,8 @@
 
 
 # YAJO
-* [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
+- [JuliaGL](https://github.com/JuliaGL) :: Julia packages for the OpenGL API and ecosystem.
+- [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
 
 # GRAPHICS 
 * Bezier.jl :: [Julia functions for computing a Bezier curve](https://github.com/dronir/Bezier.jl)
@@ -20,8 +21,8 @@
 * Draw3D.jl :: [A 3D graphics package with a Julia API, built on OpenGL](https://github.com/ssfrr/Draw3D.jl)
 * DelayedBuffer.jl :: [Delayed buffer view for Julia 1D arrays](https://github.com/jfsantos/DelayedBuffer.jl).
 * GLGraphics.jl :: [Advanced 3D and 2D graphics for Julia](https://github.com/SimonDanisch/GLGraphics.jl)
-* GLFW.jl :: [GLFW bindings for Julia](https://github.com/jayschwa/GLFW.jl) - GLFW is a multi-platform library for opening a window, creating an OpenGL context, and managing input.
-* GLUT.jl :: A Julia interface to [GLUT](https://github.com/rennis250/GLUT.jl). Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
+- [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
+- [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
 * GLText.jl :: [Text Rendering for OpenGL](https://github.com/SimonDanisch/GLText.jl)
 * GLUtil.jl :: [Utility package for ModernGL by @SimonDanisch](https://github.com/SimonDanisch/GLUtil.jl)
 * GLWindow.jl :: [Create a window with an OpenGL context](https://github.com/SimonDanisch/GLWindow.jl)
