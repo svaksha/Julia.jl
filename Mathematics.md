@@ -9,16 +9,16 @@
 
 
 # CRYPTOGRAPHY
-- [BlockCipherSelfStudy.jl](https://github.com/andrewcooke/BlockCipherSelfStudy.jl) :: Blocks, and RC5
-- [Hashlib.jl](https://github.com/samgre/Hashlib.jl) :: SHA1 implementation for Julia.
-- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) :: is a simple wrapper around libnettle, a cryptographic library.
-- [OpenSSL.jl](https://github.com/dirk/OpenSSL.jl) :: WIP OpenSSL bindings for Julia.
-- [OpenSSLCrypto.jl](https://github.com/amitmurthy/OpenSSLCrypto.jl) :: Julia interface to the crypto API of openssl.
-- [RNGTest.jl](https://github.com/andreasnoackjensen/RNGTest.jl) :: is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers.
-- [RNGTesting](https://github.com/johnmyleswhite/RNGTesting) :: Scripts for testing Julia's RNG's.
+* BlockCipherSelfStudy.jl :: [Blocks, and RC5](https://github.com/andrewcooke/BlockCipherSelfStudy.jl)
+* Hashlib.jl :: [SHA1 implementation for Julia](https://github.com/samgre/Hashlib.jl)
+* Nettle.jl :: is a [simple wrapper around libnettle, a cryptographic library](https://github.com/staticfloat/Nettle.jl)
+* OpenSSL.jl :: [WIP OpenSSL bindings](https://github.com/dirk/OpenSSL.jl) for Julia.
+* OpenSSLCrypto.jl :: [Julia interface to the crypto API of openssl](https://github.com/amitmurthy/OpenSSLCrypto.jl)
+* RNGTest.jl :: [is a package that is a Julia interface to the test suite TestU01 of Pierre l'Ecuyer to test random numbers](https://github.com/andreasnoackjensen/RNGTest.jl).
+* RNGTesting :: [Scripts for testing Julia's RNG's](https://github.com/johnmyleswhite/RNGTesting)
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) :: a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
-- [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: Sha256 hash algorithm for Julia.
-- [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
+- Sha256.jl :: [Sha256 hash algorithm for Julia](https://github.com/mad4alcohol/Sha256.jl)
+* Stupid.jl :: [Analysis of an 8 bit version of the cipher](https://github.com/andrewcooke/Stupid.jl) at http://news.quelsolaar.com/#comments101.
 
 
 
@@ -37,8 +37,8 @@
 * CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
 * ContinuedFractions.jl :: [Types and functions for working with continued fractions in Julia](https://github.com/johnmyleswhite/ContinuedFractions.jl)
 * Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
-- DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
-- Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
+* DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
+* Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
 * Entropy.jl :: [This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions](https://github.com/grero/Entropy.jl)
 * ForwardDiff.jl :: Juila package for [performing forward mode automatic differentiation](https://github.com/scidom/ForwardDiff.jl)
 * GSL.jl :: Julia interface to the [GNU Scientific Library - GSL](https://github.com/jiahao/GSL.jl)
@@ -84,48 +84,48 @@
 * OrderedCollections.jl :: [OrderedDict and OrderedSet for Julia](https://github.com/kmsquire/OrderedCollections.jl)
 
 ##### Orthogonal polynomials
-- Jacobi.jl :: [Jacobi polynomials and Gauss quadrature related functions](https://github.com/pjabardo/Jacobi.jl)
-- Orthopolys.jl :: [Orthogonal Polynomials](https://github.com/daviddelaat/Orthopolys.jl) - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
-- Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
-- InterPol.jl :: [Interpolating polynomial for Julia](https://github.com/pwl/InterPol.jl)
+* Jacobi.jl :: [Jacobi polynomials and Gauss quadrature related functions](https://github.com/pjabardo/Jacobi.jl)
+* Orthopolys.jl :: [Orthogonal Polynomials](https://github.com/daviddelaat/Orthopolys.jl) - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
+* Polynomial.jl :: [Polynomial manipulations](https://github.com/vtjnash/Polynomial.jl) and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
+* InterPol.jl :: [Interpolating polynomial for Julia](https://github.com/pwl/InterPol.jl)
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-- CurveFit.jl :: [Simple least squares and curve fitting functions](https://github.com/pjabardo/CurveFit.jl)
-- EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
-- FEM.jl :: [Simple finite elements in Julia](https://github.com/pjabardo/FEM.jl)
-- ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
-- SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
+* CurveFit.jl :: [Simple least squares and curve fitting functions](https://github.com/pjabardo/CurveFit.jl)
+* EllipticCurves.jl :: [Elliptic Curves](https://github.com/wwilson/EllipticCurves.jl) in Julia.
+* FEM.jl :: [Simple finite elements in Julia](https://github.com/pjabardo/FEM.jl)
+* ols.jl :: [Julia type for multiple (multivariate) regression using OLS](https://github.com/forio/ols.jl) - Performs least squared regression on linear equations of multiple independent variables.
+* SurfaceMesh.jl :: [Finite element surface mesh manipulation library](https://github.com/michelk/SurfaceMesh.jl)
 
 
 
 ### Calculus
-- AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
-- ApproxFun :: [Julia IFun Implementation is a package for approximating functions](https://github.com/dlfivefifty/ApproxFun). It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
-- DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
-- DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
-- FeynmanKacSpde.jl :: [Feynman-Kac SPDE Inference](https://github.com/scidom/FeynmanKacSpde.jl)
-- HyperDualNumbers.jl :: [Hyper-Dual Numbers for Exact Second-Derivative Calculations](https://github.com/goedman/HyperDualNumbers.jl), is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
-- HyperNumbers.jl :: [Julia implementation of HyperNumbers](https://github.com/goedman/HyperNumbers.jl)
-- pdetools.jl :: [Toolbox for solving PDEs](https://github.com/GaZ3ll3/pdetools.jl)
-- PowerSeries.jl :: [Truncated Power Series](https://github.com/jwmerrill/PowerSeries.jl) for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
-   - _Power Series Blog_::
-   - Jason Merrill's blog series highlighting the basic aspects of floating point arithmetic with examples in Julia - [The first one, on bisecting floating point numbers](http://squishythinking.com/2014/02/22/bisecting-floats/)
-- PolyMath.jl :: [a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms](https://github.com/cfbaptista/PolyMath.jl) implemented in Julia.
-- RAD.jl:: [package defines a macro, @autodiff, for reverse-mode automatic differentiation](https://github.com/adamkapor/RAD.jl)
-- ReverseDiffSource.jl :: [Reverse automated differentiation from source](https://github.com/fredo-dedup/ReverseDiffSource.jl)
-- ReverseDiffSparse.jl :: [Hessian algorithmic differentiation to compute hessian sparsity pattern](https://github.com/mlubin/ReverseDiffSparse.jl).
-- TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
+* AutoDiff.jl :: Juila package for [performing automatic differentiation](https://github.com/scidom/AutoDiff.jl)
+* ApproxFun :: [Julia IFun Implementation is a package for approximating functions](https://github.com/dlfivefifty/ApproxFun). It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
+* DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
+* DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
+* FeynmanKacSpde.jl :: [Feynman-Kac SPDE Inference](https://github.com/scidom/FeynmanKacSpde.jl)
+* HyperDualNumbers.jl :: [Hyper-Dual Numbers for Exact Second-Derivative Calculations](https://github.com/goedman/HyperDualNumbers.jl), is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
+* HyperNumbers.jl :: [Julia implementation of HyperNumbers](https://github.com/goedman/HyperNumbers.jl)
+* pdetools.jl :: [Toolbox for solving PDEs](https://github.com/GaZ3ll3/pdetools.jl)
+* PowerSeries.jl :: [Truncated Power Series](https://github.com/jwmerrill/PowerSeries.jl) for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
+   * _Power Series Blog_::
+   * Jason Merrill's blog series highlighting the basic aspects of floating point arithmetic with examples in Julia - [The first one, on bisecting floating point numbers](http://squishythinking.com/2014/02/22/bisecting-floats/)
+* PolyMath.jl :: [a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms](https://github.com/cfbaptista/PolyMath.jl) implemented in Julia.
+* RAD.jl:: [package defines a macro, @autodiff, for reverse-mode automatic differentiation](https://github.com/adamkapor/RAD.jl)
+* ReverseDiffSource.jl :: [Reverse automated differentiation from source](https://github.com/fredo-dedup/ReverseDiffSource.jl)
+* ReverseDiffSparse.jl :: [Hessian algorithmic differentiation to compute hessian sparsity pattern](https://github.com/mlubin/ReverseDiffSparse.jl).
+* TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
 
 ###### Notebooks
-- An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
+* An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
 
 
 **_Ordinary Differential Equations (ODE)_**
-- DASSL.jl :: An implementation of the [Differential Algebraic System SoLver](https://github.com/pwl/DASSL.jl) (DASSL) algorithm for solving algebraic differential equations.
-- Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
-- ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
-- RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
-- Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
+* DASSL.jl :: An implementation of the [Differential Algebraic System SoLver](https://github.com/pwl/DASSL.jl) (DASSL) algorithm for solving algebraic differential equations.
+* Makhno.jl :: [Spectral element code implemented in Julia](https://github.com/pjabardo/Makhno.jl)
+* ODE.jl :: [Assorted basic Ordinary Differential Equation solvers](https://github.com/JuliaLang/ODE.jl)
+* RiemannHilbert.jl :: [Riemann–Hilbert problems](https://github.com/dlfivefifty/RiemannHilbert.jl), named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
+* Sundials.jl :: [is a Julia package that interfaces to the Sundials library](https://github.com/JuliaLang/Sundials.jl) and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 
 

@@ -47,10 +47,9 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [LDA.jl](https://github.com/remusao/LDA.jl) :: Linear Discriminant Analysis and Kernel Fisher Analysis.
 * Metis.jl :: [Julia interface to the Metis graph-partitioning algorithms](https://github.com/dmbates/Metis.jl)
 * MinimalPerfectHashes.jl :: [An implementation of minimal perfect hash function generation](https://github.com/soundcloud/MinimalPerfectHashes.jl) as described in Czech et. al. 1992.http://bit.ly/137iukS 
-- [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
-- [NamedArray](https://github.com/davidavdav/NamedArray) :: is a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
-- [NamedAxesArrays.jl](https://github.com/timholy/NamedAxesArrays.jl) :: Performant arrays where each axis can be named.
-- [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
+* Named.jl:: [Julia named index and named vector types](https://github.com/HarlanH/Named.jl).
+* NamedArray :: is a [Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes](https://github.com/davidavdav/NamedArray).
+* Networks.jl :: [A library for working with Graphs](https://github.com/daviddelaat/Networks.jl) in Julia.
 * OffsetArrays.jl :: [provides the ability to use arbitrary starting indices for arrays](https://github.com/alsam/OffsetArrays.jl) in Julia.
 * ParallelSparseMatMul.jl :: [A Julia library for parallel sparse matrix multiplication](https://github.com/madeleineudell/ParallelSparseMatMul.jl) using shared memory.
 * PDMats.jl :: [Uniform Interface for positive definite matrices of various structures](https://github.com/lindahua/PDMats.jl)
