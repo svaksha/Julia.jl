@@ -25,7 +25,7 @@
    - packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
        
-- [https://github.com/JuliaLang/Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
+- [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 - [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
 - [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
 - [jpm](https://github.com/dirk/jpm) :: Julia package manager.
