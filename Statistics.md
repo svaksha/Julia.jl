@@ -14,6 +14,7 @@
 
 
 # ACTUARIAL SCIENCE 
+
 ### Econometrics 
 * copula.jl :: [Julia Copula package implements the gaussian AR1 copula](https://github.com/floswald/copula.jl)
 * DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
@@ -26,7 +27,11 @@
 * TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
 * TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
 
-    
+###### Resources
+- Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo. 
+
+
+
 # BENCHMARKS 
 * [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
 * Benchmark.jl :: [A package for computing simple benchmarks, comparing functions and packages](https://github.com/johnmyleswhite/Benchmark.jl)
