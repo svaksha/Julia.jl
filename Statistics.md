@@ -172,7 +172,8 @@
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
-* TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl)
+- [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
+- [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
 ##### DOCS and TUTORIALS
 * DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
@@ -180,8 +181,8 @@
 
 
 ## Statistical Tests
-* RobustStats.jl :: [A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox](https://github.com/mrxiaohe/RobustStats.jl)
-* StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
+- [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
+- [StatTests.jl](https://github.com/i-kiwamu/StatTests.jl) :: [A set of statistical tests for Julia.
 
 
 
