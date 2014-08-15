@@ -3,18 +3,19 @@
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
 * [Programming Paradigms](#programming-paradigms)
-   * [Functional Programming](#functional-programming)
-   * [Macros](#macros)
-   * [Meta Programming](#meta-programming)
-   * [Reactive Programming](#reactive-programming)
-   * [Software Architecture](#software-architecture)
-   * [Style Guidelines](#style-guidelines) 
-   * [Type Parameters](#type-parameters)
+   - [Functional Programming](#functional-programming)
+   - [Grammatical Evolution](#grammatical-evolution)
+   - [Macros](#macros)
+   - [Meta Programming](#meta-programming)
+   - [Reactive Programming](#reactive-programming)
+   - [Software Architecture](#software-architecture)
+   - [Style Guidelines](#style-guidelines) 
+   - [Type Parameters](#type-parameters)
 
 
 
 # CAD-CAM
-* Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
+- Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
 
 
 # Control System
@@ -115,17 +116,25 @@
 
 ### Meta Programming
 ##### DOCS
-* [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+- [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+
+### Grammatical Evolution
+- [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
+
 
 ### Reactive Programming
-* React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
+- React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
+
 
 ### Software Architecture
-* dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+- dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+
 
 ### Style Guidelines 
-* Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
+- Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
+
 
 ### Type Parameters
 ##### DOCS 
-* [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+- [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+

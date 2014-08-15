@@ -107,19 +107,19 @@
    * _Power Series Blog_::
    * Jason Merrill's blog series highlighting the basic aspects of floating point arithmetic with examples in Julia - [The first one, on bisecting floating point numbers](http://squishythinking.com/2014/02/22/bisecting-floats/)
 * PolyMath.jl :: [a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms](https://github.com/cfbaptista/PolyMath.jl) implemented in Julia.
-* RAD.jl:: [package defines a macro, @autodiff, for reverse-mode automatic differentiation](https://github.com/adamkapor/RAD.jl)
-* ReverseDiffSource.jl :: [Reverse automated differentiation from source](https://github.com/fredo-dedup/ReverseDiffSource.jl)
-* ReverseDiffSparse.jl :: [Hessian algorithmic differentiation to compute hessian sparsity pattern](https://github.com/mlubin/ReverseDiffSparse.jl).
-* TaylorSeries.jl :: [A julia package for Taylor expansions in one independent variable.](https://github.com/lbenet/TaylorSeries.jl)
+- [RAD.jl](https://github.com/adamkapor/RAD.jl) :: package defines a macro, @autodiff, for reverse-mode automatic differentiation.
+- [ReverseDiffSource.jl](https://github.com/fredo-dedup/ReverseDiffSource.jl) :: Reverse automated differentiation from source.
+- [ReverseDiffSparse.jl](https://github.com/mlubin/ReverseDiffSparse.jl) :: Hessian algorithmic differentiation to compute hessian sparsity pattern.
+- [TaylorSeries.jl](https://github.com/lbenet/TaylorSeries.jl) :: A julia package for Taylor expansions in one independent variable.
 
 ###### Resources
-* An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
+- An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
 
 
 #### Ordinary Differential Equations (ODE)
 - [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
-* DualNumbers.jl :: Julia package for representing [dual numbers and for performing dual algebra](https://github.com/scidom/DualNumbers.jl)
-* DualNumbers2.jl :: [Another Julia implementation of dual numbers for automatic differentiation](https://github.com/johnmyleswhite/DualNumbers2.jl)
+- [DualNumbers.jl](https://github.com/scidom/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
+- [DualNumbers2.jl](https://github.com/johnmyleswhite/DualNumbers2.jl) :: Another Julia implementation of dual numbers for automatic differentiation.
 - [ForwardDiff.jl](https://github.com/scidom/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
 - [HyperDualNumbers.jl](https://github.com/goedman/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 - [Makhno.jl](https://github.com/pjabardo/Makhno.jl) :: Spectral element code implemented in Julia.
@@ -127,8 +127,6 @@
 - [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 - [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 - [YAJO : juliadiff.org](http://www.juliadiff.org/) on [github](https://github.com/JuliaDiff/)
-
-
 
 
 
@@ -177,16 +175,16 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 * JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
 * KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
 * MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
-* MUMPS1.jl :: [An alternative implementation of a Julia interface to the sparse direct solver MUMPS](https://github.com/dmbates/MUMPS1.jl). A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
+- [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 
 
 
 # PUZZLES
 **Puzzles, problem solving games**
-* Deepthought.jl :: https://github.com/dejakaymac/Deepthought.jl
-* euler :: [Project Euler solutions in Julia](https://github.com/somu/euler)
-* sudoku.jl :: [A simple Sudoku solver](https://github.com/johnmyleswhite/sudoku.jl) in Julia.
-* Sudoku.jl :: [A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia](https://github.com/hayd/Sudoku.jl)
+- [Deepthought.jl](https://github.com/dejakaymac/Deepthought.jl)
+- [euler](https://github.com/somu/euler) :: Project Euler solutions in Julia.
+- [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) :: A simple Sudoku solver in Julia.
+- [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia.
 * SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
 * TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
 * Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles :: [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb)
