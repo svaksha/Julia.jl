@@ -20,7 +20,8 @@
 ##### DOCS
    - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
    - Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-   - METADATA.jl :: The [official set of Julia packages](https://github.com/JuliaLang/METADATA.jl)
+   - [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
+   - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
    - [JuliaBox](https://github.com/JuliaLang/JuliaBox) : IJulia sandboxed by Docker containers.
