@@ -34,19 +34,20 @@
 * Konthe.jl :: [Collection of convenience function for plotting using the OpenGL package.](https://github.com/meggart/Konthe.jl)
 * Layout.jl :: [Graphics layout management for Julia](https://github.com/timholy/Layout.jl)
 * LMCLUS.jl :: [Julia's package for Linear Manifold Clustering](https://github.com/wildart/LMCLUS.jl)
-* LineExtraction.jl :: [Line extraction from an image (using Markovian model and energy minimization)](https://github.com/remusao/LineExtraction.jl)
-* Meshes.jl:: [Generation and manipulation of triangular meshes](https://github.com/twadleigh/Meshes.jl) for a type of polygon mesh in computer graphics.
-* MeshSlicer.jl :: [A package for slicing meshes into polygons using Julialang](https://github.com/sjkelly/MeshSlicer.jl)
-* ModernGL.jl :: [This package includes all definitions of OpenGL versions > 3.0.](https://github.com/SimonDanisch/ModernGL.jl), a WIP GSoC-2014 effort to get 3D Graphics into Julia.
-* OpenGL.jl :: [Julia interface to OpenGL](https://github.com/rennis250/OpenGL.jl)
+- [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
+- [Meshes.jl](https://github.com/twadleigh/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
+- [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
+- [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
+- [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 * PolygonClipping.jl :: [A Julia package for polygon clipping](https://github.com/sjkelly/PolygonClipping.jl)
 * SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
 * SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
 * TestImages.jl :: [Loading standard test images into Julia](https://github.com/timholy/TestImages.jl)
-* TIFF.jl:: is the [TIFF image file support](https://github.com/rephorm/TIFF.jl) for Julia.
+- [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
+- [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 
 ##### DOCS
-* julia-opengl-demos :: [A holding place for demos and tutorials as I learn OpenGL in Julia, using GLFW.jl and OpenGL.jl](https://github.com/ssfrr/julia-opengl-demos)
+* [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 
 
 ## Games
