@@ -27,19 +27,20 @@
 * GtkApps.jl :: [GTK Apps](https://github.com/tknopp/GtkApps.jl) by @tknopp
 
 ### IJulia 
-* Autoreload.jl :: [A package for autoreloading files for interactive work in IJulia](https://github.com/malmaud/Autoreload.jl) - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
-* Hydra.jl :: [Hosted Multi-user IJulia distribution](https://github.com/loladiro/Hydra.jl).
-* IJulia.jl :: [Julia kernel and magics for IPython](https://github.com/JuliaLang/IJulia.jl)
-* Interact.jl :: [Library for interactive widgets in IJulia](https://github.com/shashi/Interact.jl)
-* jlbox :: [uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.](https://github.com/compressed/jlbox)
-* Sublime-IJulia :: [is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend](https://github.com/karbarcca/Sublime-IJulia)
-* WeavePynb.jl :: [Simple package to convert markdown files to IJulia notebooks](https://github.com/jverzani/WeavePynb.jl)
+- [Autoreload.jl](https://github.com/malmaud/Autoreload.jl) :: A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
+- [Hydra.jl](https://github.com/loladiro/Hydra.jl) :: Hosted Multi-user IJulia distribution.
+- [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) :: Julia kernel and magics for IPython.
+- [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
+- [Interact.jl](https://github.com/shashi/Interact.jl) :: Library for interactive widgets in IJulia.
+- [jlbox](https://github.com/compressed/jlbox) :: uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
+- [Sublime-IJulia](https://github.com/karbarcca/Sublime-IJulia) :: is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
+- [WeavePynb.jl](https://github.com/jverzani/WeavePynb.jl) :: Simple package to convert markdown files to IJulia notebooks.
 
 
 # JAVASCRIPT
-* GoogleCharts.jl: [Julia interface to Google Chart Tools](https://github.com/jverzani/GoogleCharts.jl)
-* j2d3.jl :: [trying to generate d3 statements from within julia](https://github.com/fredo-dedup/j2d3.jl)
+- [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
+- [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 
 
 # MARKDOWN
-* Markdown.jl :: [Translate Markdown to HTML from Julia using Sundown](https://github.com/johnmyleswhite/Markdown.jl)
+- [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown
