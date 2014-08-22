@@ -8,6 +8,7 @@
    * [API](#api)
 
 
+
 # YAJO
 - [JuliaGL](https://github.com/JuliaGL) :: Julia packages for the OpenGL API and ecosystem.
 - [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
@@ -27,23 +28,26 @@
 * GLUtil.jl :: [Utility package for ModernGL by @SimonDanisch](https://github.com/SimonDanisch/GLUtil.jl)
 * GLWindow.jl :: [Create a window with an OpenGL context](https://github.com/SimonDanisch/GLWindow.jl)
 * GreinerHormann.jl :: [An implementation of the Greiner-Hormann clipping algorithm in Julia](https://github.com/sjkelly/GreinerHormann.jl)
-* Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl).
-* Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
-* ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
-* ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
-* Konthe.jl :: [Collection of convenience function for plotting using the OpenGL package.](https://github.com/meggart/Konthe.jl)
-* Layout.jl :: [Graphics layout management for Julia](https://github.com/timholy/Layout.jl)
-* LMCLUS.jl :: [Julia's package for Linear Manifold Clustering](https://github.com/wildart/LMCLUS.jl)
+- Grid.jl :: [Interpolation and related operations on grids](https://github.com/timholy/Grid.jl).
+- Images.jl:: [An image library](https://github.com/timholy/Images.jl) for Julia.
+- ImageView.jl:: An [interactive display of images and movies](https://github.com/timholy/ImageView.jl).
+- ImageTerm.jl:: [Julia functions to plot colorful maps](https://github.com/meggart/ImageTerm.jl) in the terminal.
+- Konthe.jl :: [Collection of convenience function for plotting using the OpenGL package.](https://github.com/meggart/Konthe.jl)
+- Layout.jl :: [Graphics layout management for Julia](https://github.com/timholy/Layout.jl)
+- [LMCLUS.jl](https://github.com/wildart/LMCLUS.jl) :: Julia's package for Linear Manifold Clustering.
 - [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
 - [Meshes.jl](https://github.com/twadleigh/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 - [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 - [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
-* PolygonClipping.jl :: [A Julia package for polygon clipping](https://github.com/sjkelly/PolygonClipping.jl)
-* SDL.jl :: [Julia interface to SDL](https://github.com/rennis250/SDL.jl)
-* SixelGraphics.jl :: [A module for Julia implementing simple Sixel graphics](https://github.com/olofsen/SixelGraphics.jl)
-* TestImages.jl :: [Loading standard test images into Julia](https://github.com/timholy/TestImages.jl)
+- [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) :: Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
+- [PolygonClipping.jl](https://github.com/sjkelly/PolygonClipping.jl) :: A Julia package for polygon clipping.
+- [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
+- [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
+- [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
 - [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
+- [TikzGraphs.jl](https://github.com/sisl/TikzGraphs.jl) :: Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
+- [TikzPictures.jl](https://github.com/sisl/TikzPictures.jl) :: Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.  
 - [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 
 ##### DOCS
