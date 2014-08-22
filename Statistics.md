@@ -95,10 +95,11 @@
 
 
 # STATISTICS
-* BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
-* BayesModels.jl :: [Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference](https://github.com/lindahua/BayesModels.jl)
-* Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
-* Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
+- [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R "basicspace" package to Julia.
+- [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
+- [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
+- [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
+- [Civecm.jl](https://github.com/andreasnoackjensen/Civecm.jl) :: Cointegration in Vector Error Correction Models in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * ConjugatePriors.jl :: [Closed form expressions for conjugate priors in Julia](https://github.com/johnmyleswhite/ConjugatePriors.jl)
 * CrossDecomposition.jl :: [Canonical-Correlation Analysis (CCA)](https://github.com/simonster/CrossDecomposition.jl)
