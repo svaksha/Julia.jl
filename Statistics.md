@@ -202,12 +202,13 @@
 * LibTrading.jl :: [The Julia LibTrading package is a wrapper for the libtrading library](https://github.com/StefanKarpinski/LibTrading.jl), which "is an open source API for high-performance, low-latency trading applications."
 * MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
 * MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
-* Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
-* Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
-* SDE.jl :: [Simulation and inference for Ito processes and diffusions](https://github.com/mschauer/SDE.jl)
-* TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
-* TradingSystem.jl :: [Quantitative trading framework in Julia](https://github.com/milktrader/TradingSystem.jl)
-* ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
+- [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
+- [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
+- [QuantEcon.jl](https://github.com/spencerlyon2/QuantEcon.jl) :: Julia implementation of QuantEcon routines.
+- [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
+- [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
+- [TradingSystem.jl](https://github.com/milktrader/TradingSystem.jl) :: Quantitative trading framework in Julia.
+- [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) :: The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 
 
 # VIDEOS
