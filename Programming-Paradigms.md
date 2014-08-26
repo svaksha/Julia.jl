@@ -3,18 +3,19 @@
 * [Data Formats](#data-formats)
 * [Data Types](#data-types)
 * [Programming Paradigms](#programming-paradigms)
-   * [Functional Programming](#functional-programming)
-   * [Macros](#macros)
-   * [Meta Programming](#meta-programming)
-   * [Reactive Programming](#reactive-programming)
-   * [Software Architecture](#software-architecture)
-   * [Style Guidelines](#style-guidelines) 
-   * [Type Parameters](#type-parameters)
+   - [Functional Programming](#functional-programming)
+   - [Grammatical Evolution](#grammatical-evolution)
+   - [Macros](#macros)
+   - [Meta Programming](#meta-programming)
+   - [Reactive Programming](#reactive-programming)
+   - [Software Architecture](#software-architecture)
+   - [Style Guidelines](#style-guidelines) 
+   - [Type Parameters](#type-parameters)
 
 
 
 # CAD-CAM
-* Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
+- Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
 
 
 # Control System
@@ -74,14 +75,15 @@
 * BigRationals.jl :: [is a BigRational package for Julia using GMP](https://github.com/andrioni/BigRationals.jl)
 * JBDF.jl :: [Module to read Biosemi BDF files with the Julia programming language](https://github.com/sam81/JBDF.jl)
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
-* DictViews.jl :: [KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries](https://github.com/daviddelaat/DictViews.jl)
-* FixedPoint.jl :: [Fixed point types for Julia](https://github.com/JeffBezanson/FixedPoint.jl)
-* Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
-* frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
-* jenks.jl :: https://github.com/scw/jenks.jl
-* Lint.jl :: [A fairly basic lint tool for Julia code](https://github.com/tonyhffong/Lint.jl)
-* MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
-* MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
+- [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
+- [FixedPoint.jl](https://github.com/JeffBezanson/FixedPoint.jl) :: Fixed point types for Julia.
+- [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
+- [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
+- [frange](https://github.com/StefanKarpinski/frange)
+- [jenks.jl](https://github.com/scw/jenks.jl)
+- [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A fairly basic lint tool for Julia code.
+- [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
+- [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
 * MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
 * ProtoBuf.jl :: [is a Julia implementation for protocol buffers](https://github.com/tanmaykm/ProtoBuf.jl), a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
 * Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
@@ -115,17 +117,25 @@
 
 ### Meta Programming
 ##### DOCS
-* [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+- [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
+
+### Grammatical Evolution
+- [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
+
 
 ### Reactive Programming
-* React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
+- React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
+
 
 ### Software Architecture
-* dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+- dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+
 
 ### Style Guidelines 
-* Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
+- Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
+
 
 ### Type Parameters
 ##### DOCS 
-* [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+- [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+

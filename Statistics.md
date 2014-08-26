@@ -13,7 +13,9 @@
 - [YAJO](#yajo)
 
 
+
 # ACTUARIAL SCIENCE 
+
 ### Econometrics 
 * copula.jl :: [Julia Copula package implements the gaussian AR1 copula](https://github.com/floswald/copula.jl)
 * DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
@@ -26,21 +28,26 @@
 * TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
 * TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
 
-    
+###### Resources
+- Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo. 
+
+
+
 # BENCHMARKS 
-* [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
-* Benchmark.jl :: [A package for computing simple benchmarks, comparing functions and packages](https://github.com/johnmyleswhite/Benchmark.jl)
-* BenchmarkLite.jl :: [A lightweight Julia package for simple performance benchmark](https://github.com/lindahua/BenchmarkLite.jl)
+- [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
+- [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) :: A package for computing simple benchmarks, comparing functions and packages.
+- [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) :: A lightweight Julia package for simple performance benchmark.
    * __TUT__ ::
    * [Notebook showing the usage of BenchmarkLite.jl](http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb)
-* Criterion.jl :: [A port of the Haskell's Criterion and Clojure's Criterium library](https://github.com/jakebolewski/Criterion.jl) to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
-* raytracer.jl :: [Raytracer in the Julia kernel](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) and other [raytracer packages](https://github.com/jakebolewski/rays).
-* SimplexBenchmarks :: [Benchmarks comparing individual operations of the Simplex method for linear programming](https://github.com/mlubin/SimplexBenchmarks) in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
-* SortPerf.jl :: [Julia module to test the performance of sorting algorithms](https://github.com/kmsquire/SortPerf.jl).
+- [Criterion.jl](https://github.com/jakebolewski/Criterion.jl) :: A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
+- [julia_qsortbenchmarks](https://github.com/illerucis/julia_qsortbenchmarks) ::  Suggested improvements to Julia's Quicksort implementation.
+- [raytracer.jl](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) :: Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
+- [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) :: Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
+- [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) :: Julia module to test the performance of sorting algorithms.
 
 
 ### Optimization 
-* ampl.jl :: [Julia interface to the AMPL Solver Library (ASL)](https://github.com/dpo/ampl.jl)
+- [ampl.jl](https://github.com/dpo/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
 * JuliaOpt :: is an [umbrella group for Julia-based optimization-related projects](http://juliaopt.org/), with its own [julia-opt mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
 * BlackBoxOptim.jl :: [is an experimental, work-in-progress global optimization framework](https://github.com/robertfeldt/BlackBoxOptim.jl) for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 * CPLEX.jl :: [The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language](https://github.com/joehuchette/CPLEX.jl). You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
@@ -88,10 +95,12 @@
 
 
 # STATISTICS
-* BasicSpace.jl :: [A port of the R "basicspace" package to Julia](https://github.com/johnmyleswhite/BasicSpace.jl
-* BayesModels.jl :: [Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference](https://github.com/lindahua/BayesModels.jl)
-* Causality.jl :: [A Julia Package for Causal Inference](https://github.com/tfgit/Causality.jl)
-* Civecm.jl :: [Cointegration in Vector Error Correction Models](https://github.com/andreasnoackjensen/Civecm.jl) in Julia.
+- [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R "basicspace" package to Julia.
+- [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
+- [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
+- [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
+- [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
+- [Civecm.jl](https://github.com/andreasnoackjensen/Civecm.jl) :: Cointegration in Vector Error Correction Models in Julia.
 * ConditionalRandomFields.jl :: [Scalable Conditional Random Fields](https://github.com/jperla/ConditionalRandomFields.jl) code for Julia.
 * ConjugatePriors.jl :: [Closed form expressions for conjugate priors in Julia](https://github.com/johnmyleswhite/ConjugatePriors.jl)
 * CrossDecomposition.jl :: [Canonical-Correlation Analysis (CCA)](https://github.com/simonster/CrossDecomposition.jl)
@@ -167,7 +176,8 @@
 * StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
-* TopicModels.jl :: [TopicModels for Julia](https://github.com/slycoder/TopicModels.jl)
+- [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
+- [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
 ##### DOCS and TUTORIALS
 * DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
@@ -175,8 +185,8 @@
 
 
 ## Statistical Tests
-* RobustStats.jl :: [A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox](https://github.com/mrxiaohe/RobustStats.jl)
-* StatTests.jl :: [A set of statistical tests for Julia](https://github.com/i-kiwamu/StatTests.jl)
+- [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
+- [StatTests.jl](https://github.com/i-kiwamu/StatTests.jl) :: [A set of statistical tests for Julia.
 
 
 
@@ -193,12 +203,13 @@
 * LibTrading.jl :: [The Julia LibTrading package is a wrapper for the libtrading library](https://github.com/StefanKarpinski/LibTrading.jl), which "is an open source API for high-performance, low-latency trading applications."
 * MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
 * MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
-* Pandas.jl:: [A Julia front-end to Python's Pandas package](https://github.com/malmaud/Pandas.jl).
-* Quandl.jl:: [Julia api to Quandl open source financial, economic and social datasets](https://github.com/milktrader/Quandl.jl).
-* SDE.jl :: [Simulation and inference for Ito processes and diffusions](https://github.com/mschauer/SDE.jl)
-* TradeModels.jl:: [Modeling the allocation of resources to markets based on the restraints of objective functions](https://github.com/JuliaQuant/TradeModels.jl).
-* TradingSystem.jl :: [Quantitative trading framework in Julia](https://github.com/milktrader/TradingSystem.jl)
-* ZVSimulator.jl:: [The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation](https://github.com/scidom/ZVSimulator.jl).
+- [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
+- [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
+- [QuantEcon.jl](https://github.com/spencerlyon2/QuantEcon.jl) :: Julia implementation of QuantEcon routines.
+- [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
+- [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
+- [TradingSystem.jl](https://github.com/milktrader/TradingSystem.jl) :: Quantitative trading framework in Julia.
+- [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) :: The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 
 
 # VIDEOS
