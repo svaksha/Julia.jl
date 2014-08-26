@@ -23,8 +23,7 @@
 
 
 # MATH 
-**_DOCS_**
-* [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
+- DOCS : [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
 * Accelereval.jl :: [A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation](https://github.com/lindahua/Accelereval.jl)
 - Bijections.jl :: [Bijection datatype for Julia](https://github.com/scheinerman/Bijections.jl)
 * Blocks.jl :: is a framework to represent [chunks of entities and parallel methods on them](https://github.com/tanmaykm/Blocks.jl).
@@ -52,9 +51,10 @@
 * LsqFit.jl :: [Simple curve fitting functionality from Optim.jl has been moved into its own package](https://github.com/JuliaOpt/LsqFit.jl)
 * MathProgBase.jl:: [Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming](https://github.com/JuliaOpt/MathProgBase.jl).
 * MPFR.jl :: [A Julia package for the GNU MPFR library](https://github.com/andrioni/MPFR.jl).
-* NumericExtensions.jl :: Julia extensions to provide high performance computational support for [fast vectorized computation](https://github.com/lindahua/NumericExtensions.jl).
+- [Multicombinations.jl](https://github.com/jlep/Multicombinations.jl) :: An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
+- [NumericExtensions.jl](https://github.com/lindahua/NumericExtensions.jl) :: Julia extensions to provide high performance computational support for fast vectorized computation.
    * _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
-* NLreg.jl :: [Nonlinear regression in Julia](https://github.com/dmbates/NLreg.jl)
+- [NLreg.jl](https://github.com/dmbates/NLreg.jl) :: Nonlinear regression in Julia.
 * NLsolve.jl :: [Julia solvers for systems of nonlinear equations](https://github.com/EconForge/NLsolve.jl)
 * NumericalShadow.jl:: Library to calculate [numerical shadows](https://github.com/pgawron/NumericalShadow.jl) in Julia language.
 * Optim.jl :: [basic optimization algorithms implementation](https://github.com/JuliaOpt/Optim.jl).

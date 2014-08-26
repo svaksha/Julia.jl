@@ -16,36 +16,36 @@
 
 # DOCUMENTATION
 *Julia Documentation tools*
-* [Julia Documentation README](https://github.com/JuliaLang/julia/blob/master/doc/README.md)
-* Doc.jl :: [Daniel Carrera's modern documentation system for Julia.](https://github.com/dcarrera/Doc.jl)
-* Jocco :: [is a simple literate-programming-style documentation generator](http://lcw.github.com/jocco/) for Julia.
-* Roxygen.jl :: [A Roxygen-like documentation package for automatically generating documentation from Julia source files](https://github.com/johnmyleswhite/Roxygen.jl).
+- [Julia Documentation README](https://github.com/JuliaLang/julia/blob/master/doc/README.md)
+- [Doc.jl](https://github.com/dcarrera/Doc.jl) :: Daniel Carrera's modern documentation system for Julia.
+- [Jocco](http://lcw.github.com/jocco/) :: is a simple literate-programming-style documentation generator for Julia.
+- [Roxygen.jl](https://github.com/johnmyleswhite/Roxygen.jl) :: A Roxygen-like documentation package for automatically generating documentation from Julia source files.
 
 
 # General Utilities 
-* Events.jl :: [Simple Event system](https://github.com/SimonDanisch/Events.jl)
+- [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
 
 ## CLI 
-* AnsiColor.jl :: [Support for ANSI colored strings in Julia](https://github.com/Aerlinger/AnsiColor.jl). Supported in REPL/Shell environment for both Unix and Mac.
-* ArgParse.jl :: [Package for parsing command-line arguments](https://github.com/carlobaldassi/ArgParse.jl) to Julia programs.
-* GMT-julia-headers :: https://github.com/meggart/GMT-julia-headers
-* MetaTools.jl :: [Handy MetaProgramming whatnots for Julia](https://github.com/burrowsa/MetaTools.jl)
-* ProgressMeter.jl :: [Progress meter for long-running computations](https://github.com/timholy/ProgressMeter.jl)
-* TerminalExtensions.jl :: [A package that makes Julia take advantage of cool terminal emulator features](https://github.com/loladiro/TerminalExtensions.jl)
-* toolbox.jl :: [Small tools and snippets used by @natj with julia](https://github.com/natj/toolbox.jl)
-* TermWin.jl :: [NCurses based GUI helper and data navigators](https://github.com/tonyhffong/TermWin.jl)
+- [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
+- [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) :: Package for parsing command-line arguments to Julia programs.
+- [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
+- [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
+- [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) :: Progress meter for long-running computations.
+- [TerminalExtensions.jl](https://github.com/loladiro/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
+- [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
+- [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
 
 ## File compression 
-* gzip.jl:: [GunZip in Julia](https://github.com/jvns/gzip.jl).
-* ZipFile.jl :: [Read/Write ZIP archives in Julia](https://github.com/fhs/ZipFile.jl)
+- [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
+- [ZipFile.jl](https://github.com/fhs/ZipFile.jl) :: Read/Write ZIP archives in Julia.
    * DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 
 ## Desktop Document processing 
-* Taro.jl :: [can process office documents in Julia](https://github.com/aviks/Taro.jl).
+- [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
 ## Document Generator 
-* Judo.jl :: is a [Julia document generator](https://github.com/dcjones/Judo.jl), which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
-* HelpTestbed.jl :: [package is for exploring options for help when you add a Julia package](https://github.com/tshort/HelpTestbed.jl) - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
+- [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
+- [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
 - [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
 
 ## Microsoft Windows
@@ -93,3 +93,4 @@
 - [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 - [koding](https://koding.com/Julia) has an interactive online Julia REPL.
 - [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
+

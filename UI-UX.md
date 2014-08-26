@@ -13,17 +13,17 @@
 
 # GUI 
 **Widget toolkits**
-* JGUI.jl:: [Simplified interface for making GUI's](https://github.com/jverzani/JGUI.jl) in Julia.
-* JuliaTools.jl:: is a [toolkit for viewing Julia packages, modules](https://github.com/tknopp/JuliaTools.jl), etc....
-* PySide.jl:: is a [julia interface for accessing Qt via PyCall and PySide](https://github.com/jverzani/PySide.jl).
-* Tk.jl:: The Julia interface for the [Tk windowing toolkit](https://github.com/JuliaLang/Tk.jl).
-* XClipboard.jl:: are [xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays)](https://github.com/kmsquire/XClipboard.jl). 
+- [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
+- [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: is a toolkit for viewing Julia packages, modules, etc....
+- [PySide.jl](https://github.com/jverzani/PySide.jl) :: is a julia interface for accessing Qt via PyCall and PySide.
+- [Tk.jl](https://github.com/JuliaLang/Tk.jl) :: The Julia interface for the Tk windowing toolkit.
+- [XClipboard.jl](https://github.com/kmsquire/XClipboard.jl) :: are xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays). 
 
 ### GTK
 **GIMP Toolkit**
-* GI.jl :: [Julia bindings using libgobject-introspection](https://github.com/bfredl/GI.jl)
-* Gtk.jl:: Julia interface to the [GTK windowing toolkit](https://github.com/JuliaLang/Gtk.jl)
-* GtkApps.jl :: [GTK Apps](https://github.com/tknopp/GtkApps.jl) by @tknopp
+- [GI.jl](https://github.com/bfredl/GI.jl) :: Julia bindings using libgobject-introspection.
+- [Gtk.jl](https://github.com/JuliaLang/Gtk.jl) :: Julia interface to the GTK windowing toolkit.
+- [GtkApps.jl](https://github.com/tknopp/GtkApps.jl) :: GTK Apps by @tknopp.
 
 
 
@@ -33,4 +33,6 @@
 
 
 # MARKDOWN
-- [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown
+- [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown.
+
+
