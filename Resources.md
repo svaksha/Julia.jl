@@ -22,7 +22,7 @@
 * The official [Julia language blog](http://julialang.org/blog/)
 * The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
 * [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
-* [Leah Hanson's blog post about helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html)
+* [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html) by Leah Hanson.
 * Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
 * Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
 * [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
@@ -30,7 +30,8 @@
 * How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
 * [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
 * Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
-* @randyzwitch's [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/)
+- [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch.
+- [Tabular Data I/O in Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch.
 
 **{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
 * [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
@@ -41,8 +42,8 @@
 - John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 - Julia-cheatsheet.pdf :: [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
 - Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
-- Rosetta-Julia :: [Rosetta Code task implementations](https://github.com/karbarcca/Rosetta-Julia) for the Julia language.
-- JuliaDocs :: [John Lynch's Julia and Gadfly Cheatsheets](https://github.com/john9631/JuliaDocs)
+- [Rosetta-Julia](https://github.com/karbarcca/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
+- [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 
 
