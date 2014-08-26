@@ -75,14 +75,15 @@
 * BigRationals.jl :: [is a BigRational package for Julia using GMP](https://github.com/andrioni/BigRationals.jl)
 * JBDF.jl :: [Module to read Biosemi BDF files with the Julia programming language](https://github.com/sam81/JBDF.jl)
 * Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
-* DictViews.jl :: [KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries](https://github.com/daviddelaat/DictViews.jl)
-* FixedPoint.jl :: [Fixed point types for Julia](https://github.com/JeffBezanson/FixedPoint.jl)
-* Formatting.jl :: [A Julia package to provide Python-like formatting support](https://github.com/lindahua/Formatting.jl)
-* frange :: [https://github.com/StefanKarpinski/frange](https://github.com/StefanKarpinski/frange)
-* jenks.jl :: https://github.com/scw/jenks.jl
-* Lint.jl :: [A fairly basic lint tool for Julia code](https://github.com/tonyhffong/Lint.jl)
-* MPFI.jl :: [A MPFI wrapper for Julia](https://github.com/andrioni/MPFI.jl)
-* MutableStrings.jl :: [Mutable string types](https://github.com/tanmaykm/MutableStrings.jl) for Julia.
+- [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
+- [FixedPoint.jl](https://github.com/JeffBezanson/FixedPoint.jl) :: Fixed point types for Julia.
+- [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
+- [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
+- [frange](https://github.com/StefanKarpinski/frange)
+- [jenks.jl](https://github.com/scw/jenks.jl)
+- [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A fairly basic lint tool for Julia code.
+- [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
+- [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
 * MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
 * ProtoBuf.jl :: [is a Julia implementation for protocol buffers](https://github.com/tanmaykm/ProtoBuf.jl), a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
 * Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
