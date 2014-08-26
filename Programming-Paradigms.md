@@ -70,11 +70,11 @@
 
 
 # Data Types
-* ASCIIByte.jl :: Julia package [to deal with Characters of 8 bits](https://github.com/Elin-/ASCIIByte.jl).
-* AutoFormat.jl :: https://github.com/yulijia/AutoFormat.jl
-* BigRationals.jl :: [is a BigRational package for Julia using GMP](https://github.com/andrioni/BigRationals.jl)
-* JBDF.jl :: [Module to read Biosemi BDF files with the Julia programming language](https://github.com/sam81/JBDF.jl)
-* Codecs.jl :: [Common data encoding algorithms](https://github.com/dcjones/Codecs.jl).
+- [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
+- [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
+- [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: is a BigRational package for Julia using GMP.
+- [JBDF.jl](https://github.com/sam81/JBDF.jl) :: Module to read Biosemi BDF files with the Julia programming language.
+- [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
 - [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 - [FixedPoint.jl](https://github.com/JeffBezanson/FixedPoint.jl) :: Fixed point types for Julia.
 - [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
@@ -90,10 +90,10 @@
 * TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
    * **DOCS::**
    * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
-* Typeclass.jl :: [Prototype typeclasses for Julia](https://github.com/jasonmorton/Typeclass.jl)
-* TypeGraph.jl :: [Visualize the Julia type system](https://github.com/johnmyleswhite/TypeGraph.jl)
-* Units.jl :: [Infrastructure for handling physical units for the Julia programming language](https://github.com/timholy/Units.jl)
-* YAML.jl :: [is a flexible data serialization format that is designed to be easily read and written by human beings](https://github.com/dcjones/YAML.jl)
+- [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
+- [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
+- [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
+- [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 
 
@@ -101,18 +101,18 @@
 # Programming Paradigms
 
 ### Functional Programming 
-* Monads.jl :: [Monadic expressions and sequences](https://github.com/pao/Monads.jl) for Julia. 
+- [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
-* FunctionalUtils.jl :: [Functional Julia – based on fogus/lemonad](https://github.com/zachallaun/FunctionalUtils.jl)
-* PatternDispatch.jl :: [Method dispatch based on pattern matching for Julia](https://github.com/toivoh/PatternDispatch.jl)
-* Match.jl :: [Advanced Pattern Matching for Julia](https://github.com/kmsquire/Match.jl)
+- [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
+- [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
+- [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
    * _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
 ### Macros
-* RegexVar.jl :: [A macro to fill variables straight from the string](https://github.com/o-jasper/RegexVar.jl)
-* Reexport.jl :: [Julia macro for re-exporting one module from another](https://github.com/simonster/Reexport.jl)
-* MacroUtils.jl :: [Collection of Julia macros](https://github.com/carlobaldassi/MacroUtils.jl)
-* TimeIt.jl :: [Timeit macro for Julia](https://github.com/kbarbary/TimeIt.jl)
+- [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
+- [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
+- [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
+- [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
 
 ### Meta Programming
@@ -124,15 +124,15 @@
 
 
 ### Reactive Programming
-- React.jl :: [Reactive programming primitives for Julia](https://github.com/shashi/React.jl)
+- [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
 
 
 ### Software Architecture
-- dataflow.jl :: [Introduction to dataflow analysis using julia](https://github.com/JeffBezanson/dataflow.jl)
+- [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 
 
 ### Style Guidelines 
-- Style.jl :: [Style guidelines for Julia programming](https://github.com/johnmyleswhite/Style.jl)
+- [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
 
 
 ### Type Parameters

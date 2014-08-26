@@ -9,6 +9,7 @@
    * [Microsoft Windows](#microsoft-windows)
 * [ENVIRONMENTS](#environments)    
    * [IDE](#ide)
+   * [Jupyter](#jupyter)
    * [WIDE](#wide)    
    * [Shell](#shell)
 
@@ -68,6 +69,17 @@
 - [Jupiter-LT](https://github.com/one-more-minute/Jupiter-LT) :: A Julia environment built on Light Table.
 - [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 - [Sublime-Julia](https://github.com/karbarcca/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
+
+### Jupyter
+- [Jupyter](http://jupyter.org) 'nee [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) :: Julia kernel and magics for IPython.
+   - [Jupyter on github](https://github.com/jupyter)
+- [Autoreload.jl](https://github.com/malmaud/Autoreload.jl) :: A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
+- [Hydra.jl](https://github.com/loladiro/Hydra.jl) :: Hosted Multi-user IJulia distribution.
+- [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
+- [Interact.jl](https://github.com/shashi/Interact.jl) :: Library for interactive widgets in IJulia.
+- [jlbox](https://github.com/compressed/jlbox) :: uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
+- [Sublime-IJulia](https://github.com/karbarcca/Sublime-IJulia) :: is an IJulia Frontend to run julia from within Sublime Text-3 through the IJulia backend.
+- [WeavePynb.jl](https://github.com/jverzani/WeavePynb.jl) :: Simple package to convert markdown files to IJulia notebooks.
 
 
 ### Shell Terminal

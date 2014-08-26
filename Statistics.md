@@ -17,16 +17,16 @@
 # ACTUARIAL SCIENCE 
 
 ### Econometrics 
-* copula.jl :: [Julia Copula package implements the gaussian AR1 copula](https://github.com/floswald/copula.jl)
-* DynamicFactorModels.jl :: [Dynamic Factor Models for Julia](https://github.com/joidegn/DynamicFactorModels.jl)
-* Econometrics.jl:: [Econometric models in Julia](https://github.com/cgroll/Econometrics.jl).
-* GARCH.jl:: [Generalized Autoregressive Conditional Heteroskedastic (GARCH) models](https://github.com/AndreyKolev/GARCH.jl) for Julia.
-* Jconometrics.jl :: [MATLAB to Julia port of Spatial Econometrics](https://github.com/adriantorrie/Jconometrics.jl)
-* julia__timeseries :: [Time-series analysis functions for Julia](https://github.com/ElOceanografo/julia_timeseries)
-* Loss.jl :: [General functions for estimating loss functions](https://github.com/johnmyleswhite/Loss.jl) inspired by Kaggle's release of code for many common metrics.
-* TimeSeries.jl:: [Time-series toolkit](https://github.com/JuliaStats/TimeSeries.jl) for Julia.
-* TimeModels.jl:: [Modeling time series](https://github.com/JuliaStats/TimeModels.jl) in Julia.
-* TimeData.jl:: [package provides fast, robust and convenient representation of time series data](https://github.com/cgroll/TimeData.jl).
+- [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
+- [DynamicFactorModels.jl](https://github.com/joidegn/DynamicFactorModels.jl) :: Dynamic Factor Models for Julia.
+- [Econometrics.jl](https://github.com/cgroll/Econometrics.jl) :: Econometric models in Julia.
+- [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
+- [Jconometrics.jl](https://github.com/adriantorrie/Jconometrics.jl) :: MATLAB to Julia port of Spatial Econometrics.
+- [julia__timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
+- [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) :: General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
+- [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
+- [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
+- [TimeData.jl](https://github.com/cgroll/TimeData.jl) :: This package provides fast, robust and convenient representation of time series data.
 
 ###### Resources
 - Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo. 
@@ -48,8 +48,8 @@
 
 ### Optimization 
 - [ampl.jl](https://github.com/dpo/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
-* JuliaOpt :: is an [umbrella group for Julia-based optimization-related projects](http://juliaopt.org/), with its own [julia-opt mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
-* BlackBoxOptim.jl :: [is an experimental, work-in-progress global optimization framework](https://github.com/robertfeldt/BlackBoxOptim.jl) for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
+- [JuliaOpt](http://juliaopt.org/) :: is an umbrella group for Julia-based optimization-related projects, with its own [julia-opt mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
+- [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) :: An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 * CPLEX.jl :: [The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language](https://github.com/joehuchette/CPLEX.jl). You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
 * CUTEst.jl :: [Julia interface for CUTEst](https://github.com/lpoo/CUTEst.jl)
 * CVX.jl :: [is a julia package for disciplined convex programming](https://github.com/madeleineudell/CVX.jl).
@@ -73,7 +73,7 @@
 * SCS.jl :: [Julia Wrapper for SCS (https://github.com/cvxgrp/scs)](https://github.com/karanveerm/SCS.jl)
 
 ### Preprocessor
-* Precompiler :: [Precompilation in Julia](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
+- [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
 
 
 # OPERATIONS RESEARCH 
@@ -129,11 +129,11 @@
 * Isotonic.jl :: [This implements several algorithms for isotonic regression in Julia.](https://github.com/ajtulloch/Isotonic.jl)
    * @ajtulloch's blog on [speeding up Isotonic Regression with Julia](http://tullo.ch/articles/python-vs-julia/) and the [IJulia notebook](http://nbviewer.ipython.org/url/gist.githubusercontent.com/ajtulloch/9485996/raw/94b3d0e6bd67256f1f02eebb1463365dbc8b64fc/Julia.ipynb)
 * ITC.jl :: [Code for modeling intertemporal choice](https://github.com/johnmyleswhite/ITC.jl) in Julia.
-* JAGS.jl: A Julia interface to [JAGS, to provide a shared library as an interface between Julia and JAGS](https://github.com/olofsen/JAGS.jl) - Just another Gibbs sampler.
-* Jags.jl :: [Julia package for using Just another Gibbs sampler](https://github.com/goedman/Jags.jl)
-* JuMPStoch.jl :: [A stochastic optimization framework for JuMP](https://github.com/joehuchette/JuMPStoch.jl
-* KernSmooth.jl :: [is a direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.](https://github.com/lendle/KernSmooth.jl)
-* KLDivergence.jl :: [KL-divergence estimation in Julia](https://github.com/johnmyleswhite/KLDivergence.jl)
+- [JAGS.jl](https://github.com/olofsen/JAGS.jl) :: A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
+- [Jags.jl](https://github.com/goedman/Jags.jl) :: Julia package for using Just another Gibbs sampler.
+- [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
+- [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
+- [KLDivergence.jl](https://github.com/johnmyleswhite/KLDivergence.jl) :: KL-divergence estimation in Julia.
 * KSVM.jl :: [Kernel Support Vector Machine (SVM)](https://github.com/remusao/KSVM.jl) written in Julia.
 * LIBSVM.jl :: [Julia bindings for LIBSVM](https://github.com/simonster/LIBSVM.jl)
 * LARS.jl :: [Least angle regression](https://github.com/simonster/LARS.jl)
@@ -173,8 +173,8 @@
 * SimpleMCMC.jl :: [Small framework for MCMC sampling and maximization on user-defined models](https://github.com/fredo-dedup/SimpleMCMC.jl)
 * SimpleRL.jl :: [A bare-bones package for simulating RL models and estimating them from behavioral data](https://github.com/johnmyleswhite/SimpleRL.jl)
 * SmoothingKernels.jl :: [Smoothing kernels for use in kernel regression and kernel density estimation](https://github.com/johnmyleswhite/SmoothingKernels.jl).
-* Stan.jl :: [Julia package for using Stan](https://github.com/goedman/Stan.jl). [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29) is a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function.
-* StatsBase.jl :: is the [Stats meta-package for basic statistics functions](https://github.com/JuliaStats/StatsBase.jl) for Julia.
+- [Stan.jl](https://github.com/goedman/Stan.jl) :: Julia package for using Stan. [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29) is a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function.
+- [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) :: The Stats meta-package for basic statistics functions for Julia.
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 * SVM.jl :: [Native Julia implementations of standard SVM algorithms](https://github.com/JuliaStats/SVM.jl)
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
@@ -193,16 +193,16 @@
 ## Valuation
 **Finance**
 * [Julia Quant group on Github](https://github.com/JuliaQuant).
-* AssetMgmt.jl :: [Asset Management](https://github.com/cgroll/AssetMgmt.jl)
-* FinancialBlotter.jl:: [Financial Instruments and Accounting](https://github.com/JuliaQuant/FinancialBlotter.jl) in Julia.
-* FinMarkets.jl :: [Describe and model financial markets objects](https://github.com/imanuelcostigan/FinMarkets.jl) using Julia.
-* FinanceStats.jl :: [An experimental sandbox of functions that implement common statistical methods in finance](https://github.com/JuliaQuant/FinanceStats.jl)
-* GLM.jl:: [Linear models (LM's) and generalized linear models (GLM's)](https://github.com/JuliaStats/GLM.jl) in Julia.
-* Ito.jl:: An open source [toolkit for financial computing](https://github.com/aviks/Ito.jl) in Julia.
-* Lazy.jl:: [Functional programming](https://github.com/one-more-minute/Lazy.jl) for Julia.
-* LibTrading.jl :: [The Julia LibTrading package is a wrapper for the libtrading library](https://github.com/StefanKarpinski/LibTrading.jl), which "is an open source API for high-performance, low-latency trading applications."
-* MarketTechnicals.jl:: [Technical analysis of financial time series](https://github.com/JuliaQuant/MarketTechnicals.jl) in Julia.
-* MCInsurance.jl:: [This Julia package provides multi-period Monte Carlo simulations](https://github.com/mkriele/MCInsurance.jl) for life insurance.
+- [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.
+- [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
+- [FinMarkets.jl](https://github.com/imanuelcostigan/FinMarkets.jl) :: Describe and model financial markets objects using Julia.
+- [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
+- [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM's) and generalized linear models (GLM's) in Julia.
+- [Ito.jl](https://github.com/aviks/Ito.jl) :: An open source toolkit for financial computing in Julia.
+- [Lazy.jl](https://github.com/one-more-minute/Lazy.jl) :: Functional programming for Julia.
+- [LibTrading.jl](https://github.com/StefanKarpinski/LibTrading.jl) :: The Julia LibTrading package is a wrapper for the libtrading library, which "is an open source API for high-performance, low-latency trading applications."
+- [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
+- [MCInsurance.jl](https://github.com/mkriele/MCInsurance.jl) :: This Julia package provides multi-period Monte Carlo simulations for life insurance.
 - [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
 - [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
 - [QuantEcon.jl](https://github.com/spencerlyon2/QuantEcon.jl) :: Julia implementation of QuantEcon routines.
