@@ -113,12 +113,13 @@
 * DiscreteFactor.jl :: [Discrete factor and its operations in Probabilistic Graphical Models](https://github.com/wlbksy/DiscreteFactor.jl)
 * DiscreteInference.jl :: [Viterbi algorithm](https://github.com/lindahua/DiscreteInference.jl).
 * DiscriminantAnalysis.jl :: [Methods for discriminant analysis](https://github.com/johnmyleswhite/DiscriminantAnalysis.jl), in Julia.
-* Distance.jl :: [A Julia package for evaluating distances(metrics) between vectors](https://github.com/JuliaStats/Distance.jl)
-* Distributions.jl :: The [Distributions](http://juliastats.github.io/Distributions.jl/index.html) package.
+- [Distance.jl](https://github.com/JuliaStats/Distance.jl) :: A Julia package for evaluating distances(metrics) between vectors.
+- [Distances.jl](https://github.com/JuliaStats/Distances.jl) ::  A Julia package for evaluating distances(metrics) between vectors.
+- [Distributions.jl](http://juliastats.github.io/Distributions.jl/index.html) :: The Distributions package.
    * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
-- Divergences.jl :: [A Julia package for evaluating divergences](https://github.com/gragusa/Divergences.jl).
-- DPMM.jl :: [Dirichlet Process Mixture Models in Julia](https://github.com/sbos/DPMM.jl)
-- Earth.jl :: is the wrapper for the stand-alone version of R's [earth package](https://github.com/lendle/Earth.jl). The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
+- [Divergences.jl](https://github.com/gragusa/Divergences.jl) :: A Julia package for evaluating divergences.
+- [DPMM.jl](https://github.com/sbos/DPMM.jl) :: Dirichlet Process Mixture Models in Julia.
+- [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
 - FactorModels.jl :: [Factor models or diffusion index models](https://github.com/joidegn/FactorModels.jl).
 * FeldtLib.jl :: [Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests](https://github.com/robertfeldt/FeldtLib.jl)
 * GaussianProcesses.jl :: [A port of the Gaussian Processes toolkit to Julia](https://github.com/johnmyleswhite/GaussianProcesses.jl)
@@ -180,8 +181,7 @@
 - [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
 ##### DOCS and TUTORIALS
-* DCStats.jl :: [IJulia Notebooks that provide a brief introduction to Julia for statistical programming](https://github.com/johnmyleswhite/DCStats.jl)
-
+* [DCStats.jl](https://github.com/johnmyleswhite/DCStats.jl) :: IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 
 
 ## Statistical Tests
