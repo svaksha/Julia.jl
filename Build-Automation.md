@@ -41,6 +41,7 @@
 - julia-buildbot :: [Buildbot configuration for build.julialang.org](https://github.com/staticfloat/julia-buildbot). It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 
 
+
 ##### Debian (Ubuntu)
 - APT.jl :: [is a module to manipulate Debian Advanced Package Tool (APT)](https://github.com/bbshortcut/APT.jl). It comes with pnlt, an executable that allows to manage package name lists.
 - Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
@@ -52,10 +53,10 @@
 # BUILD AUTOMATION
 - [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 - [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
+- [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines - create vagrant boxes and openstack images for performing builds and tests of Julia.
 - [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 - [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
 - [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: a process-oriented simulation library written in Julia.
-
 
 # CONTINUOUS INTEGRATION
 - Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
