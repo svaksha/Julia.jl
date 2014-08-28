@@ -42,7 +42,7 @@
 - John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 - Julia-cheatsheet.pdf :: [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
 - Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
-- [Rosetta-Julia](https://github.com/karbarcca/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
+- [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
 - [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 
@@ -56,7 +56,7 @@
 * JuliaTutorial.jl :: [The Julia Tutorial series](https://github.com/abhi123link/JuliaTutorial.jl)
 * lazysort.jl :: [Lazy quicksort snippet](https://gist.github.com/anj1/2fe551053c849f54677e).
 * [Plotting Examples](https://gist.github.com/gizmaa/7214002)
-* Rosetta-Julia :: [Rosetta Code tasks](https://github.com/karbarcca/Rosetta-Julia) implemented in the Julia language.
+* Rosetta-Julia :: [Rosetta Code tasks](https://github.com/quinnj/Rosetta-Julia) implemented in the Julia language.
 * Spark.jl :: [Spark in Julia for MIT 6.824](https://github.com/d9w/Spark.jl)
 * Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
 * Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)

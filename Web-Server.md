@@ -38,13 +38,13 @@ Networking, frameworks and other Web related things go here:
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
 ### Middleware
-* Nanomsg.jl :: [nanomsg wrapper](https://github.com/karbarcca/Nanomsg.jl) for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
+* Nanomsg.jl :: [nanomsg wrapper](https://github.com/quinnj/Nanomsg.jl) for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
 * ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
 
 
 
 # NETWORKING
-* Dates.jl :: [A Date and DateTime implementation for Julia](https://github.com/karbarcca/Dates.jl)
+* Dates.jl :: [A Date and DateTime implementation for Julia](https://github.com/quinnj/Dates.jl)
 * Juliaflow :: [is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0](https://github.com/pchronz/juliaflow)
 * [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
 * SMTPClient.jl :: An [SMTP client to send emails](https://github.com/aviks/SMTPClient.jl) from Julia.

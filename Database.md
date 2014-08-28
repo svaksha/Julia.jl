@@ -34,7 +34,7 @@
 * JuliaDB :: [JuliaDB group on Github](https://github.com/JuliaDB).
 * DBI.jl :: is an [abstract DBI interface](https://github.com/johnmyleswhite/DBI.jl) to provide a database-independent API protocol that all database drivers can be expected to comply with.
 * Memcache.jl :: [Julia memcached client](https://github.com/tanmaykm/Memcache.jl)
-* ODBC.jl :: [A low-level ODBC interface](https://github.com/karbarcca/ODBC.jl) for the Julia programming language.
+* ODBC.jl :: [A low-level ODBC interface](https://github.com/quinnj/ODBC.jl) for the Julia programming language.
    * __CookBooks__
    * [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
 * ViewDBI.jl :: [View-based DBI for Julia](https://github.com/kmsquire/ViewDBI.jl)
@@ -65,7 +65,7 @@
 
 ## SQLite
 * DBDSQLite.jl :: [DBI-compliant driver for SQLite3](https://github.com/JuliaDB/DBDSQLite.jl).
-* SQLite.jl :: Julia interface to the [SQLite library](https://github.com/karbarcca/SQLite.jl) with support for operations on DataFrames.
+* SQLite.jl :: Julia interface to the [SQLite library](https://github.com/quinnj/SQLite.jl) with support for operations on DataFrames.
 * Sqlite3.jl :: A wrapper for the [SQLite3 C API](https://github.com/PeetV/Sqlite3.jl), to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
 
