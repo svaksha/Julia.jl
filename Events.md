@@ -11,8 +11,8 @@
    *Public Slides*
    * [Presentations for JuliaCon](https://github.com/JuliaCon/presentations)
    *Blogs by JuliaCon attendees*
-   * http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/
-   
+   - [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
+   - [Julia-EuroSciPy14](https://github.com/stevengj/Julia-EuroSciPy14) :: Julia at EuroSciPy 2014.   
    
 ## ACM SPLASH 
 * 2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).

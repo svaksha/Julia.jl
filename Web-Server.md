@@ -8,14 +8,15 @@ Networking, frameworks and other Web related things go here:
 
 # INTERNET
 ## Template Engines
-* Mustache.jl: [Port of mustache.js to julia]](https://github.com/jverzani/Mustache.jl)
+- [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
 
 ## WIDE
-* JuliaWebRepl.jl :: https://github.com/vtjnash/JuliaWebRepl.jl
+- [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
+
 
 ## WWW
 * ConfParser.jl :: [Julia package for parsing configuration files](https://github.com/dotslashb/ConfParser.jl) utilizing ini, http, and simple configuration syntaxes.
-* GumboParser.jl :: [Julia wrapper around google's gumbo library for parsing HTML](https://github.com/porterjamesj/Gumbo.jl)
+- [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 * JuliaWebServer :: [a webserver for julia](https://github.com/chzyer/JuliaWebServer)
 * Laurence.jl :: https://github.com/mneudert/Laurence.jl
 * LibCURL.jl :: A thin [wrapper of libCURL](https://github.com/amitmurthy/LibCURL.jl) in Julia.
@@ -38,13 +39,13 @@ Networking, frameworks and other Web related things go here:
    * WebSockets.jl :: [A WebSockets server library](https://github.com/JuliaLang/WebSockets.jl) for Julia.
 
 ### Middleware
-* Nanomsg.jl :: [nanomsg wrapper](https://github.com/quinnj/Nanomsg.jl) for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
-* ZMQ.jl:: [Julia interface to ZeroMQ](https://github.com/JuliaLang/ZMQ.jl)
+- [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
+- [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
 
 
 
 # NETWORKING
-* Dates.jl :: [A Date and DateTime implementation for Julia](https://github.com/quinnj/Dates.jl)
+- [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
 * Juliaflow :: [is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0](https://github.com/pchronz/juliaflow)
 * [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
 * SMTPClient.jl :: An [SMTP client to send emails](https://github.com/aviks/SMTPClient.jl) from Julia.
