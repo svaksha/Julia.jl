@@ -56,9 +56,9 @@
 - [NumericExtensions.jl](https://github.com/lindahua/NumericExtensions.jl) :: Julia extensions to provide high performance computational support for fast vectorized computation.
    * _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
 - [NLreg.jl](https://github.com/dmbates/NLreg.jl) :: Nonlinear regression in Julia.
-* NLsolve.jl :: [Julia solvers for systems of nonlinear equations](https://github.com/EconForge/NLsolve.jl)
-* NumericalShadow.jl:: Library to calculate [numerical shadows](https://github.com/pgawron/NumericalShadow.jl) in Julia language.
-* Optim.jl :: [basic optimization algorithms implementation](https://github.com/JuliaOpt/Optim.jl).
+- [NLsolve.jl](https://github.com/EconForge/NLsolve.jl) :: Julia solvers for systems of nonlinear equations.
+- [NumericFuns.jl](https://github.com/lindahua/NumericFuns.jl) :: Math functions and functors for numerical computations.
+- [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
 * Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
 * Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
 * quaternion.jl :: [Quaternion for Julia Language](https://github.com/peakbook/quaternion.jl)
