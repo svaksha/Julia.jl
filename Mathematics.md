@@ -24,23 +24,24 @@
 
 # MATH 
 - DOCS : [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
-* Accelereval.jl :: [A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation](https://github.com/lindahua/Accelereval.jl)
-- Bijections.jl :: [Bijection datatype for Julia](https://github.com/scheinerman/Bijections.jl)
-* Blocks.jl :: is a framework to represent [chunks of entities and parallel methods on them](https://github.com/tanmaykm/Blocks.jl).
-* Church.jl :: helps you [perform inference in complex, and simple, probabilistic models](https://github.com/LaurenceA/Church.jl)
-* Cartesian.jl :: [Fast multidimensional algorithms](https://github.com/timholy/Cartesian.jl)
-* Calculus.jl :: [Calculus package](https://github.com/johnmyleswhite/Calculus.jl)
-* Calculus2.jl :: [A draft of a new interface for the Calculus package](https://github.com/johnmyleswhite/Calculus2.jl)
-* Catalan.jl :: [a combinatorics library](https://github.com/andrioni/Catalan.jl) for Julia.
-* CRF.jl :: [Conditional Random Fields](https://github.com/slyrz/CRF.jl) in Julia.
-* CellularAutomata.jl :: [Cellular Automata](https://github.com/natj/CellularAutomata.jl) package.
-* ContinuedFractions.jl :: [Types and functions for working with continued fractions in Julia](https://github.com/johnmyleswhite/ContinuedFractions.jl)
-* Devectorize.jl :: A Julia framework for [delayed expression evaluation](https://github.com/lindahua/Devectorize.jl)
-* DoubleDouble.jl :: [A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers](https://github.com/simonbyrne/DoubleDouble.jl).
-* Elliptic.jl :: [Elliptic integral and Jacobi elliptic special functions](https://github.com/nolta/Elliptic.jl)
-* Entropy.jl :: [This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions](https://github.com/grero/Entropy.jl)
-* GSL.jl :: Julia interface to the [GNU Scientific Library - GSL](https://github.com/jiahao/GSL.jl)
-* GaussQuadrature.jl: Another package that generates the [points and weights of the Gauss quadrature rules](https://github.com/billmclean/GaussQuadrature.jl)
+- [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) :: A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
+- [Bijections.jl](https://github.com/scheinerman/Bijections.jl) :: Bijection datatype for Julia.
+- [Blocks.jl](https://github.com/tanmaykm/Blocks.jl) :: is a framework to represent chunks of entities and parallel methods on them.
+- [Church.jl](https://github.com/LaurenceA/Church.jl) :: helps you perform inference in complex, and simple, probabilistic models.
+- [Cartesian.jl](https://github.com/timholy/Cartesian.jl) :: Fast multidimensional algorithms.
+- [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
+- [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
+- [Catalan.jl](https://github.com/andrioni/Catalan.jl) :: a combinatorics library for Julia.
+- [CRF.jl](https://github.com/slyrz/CRF.jl) :: Conditional Random Fields in Julia.
+- [CellularAutomata.jl](https://github.com/natj/CellularAutomata.jl) :: Cellular Automata package.
+- [ContinuedFractions.jl](https://github.com/johnmyleswhite/ContinuedFractions.jl) :: Types and functions for working with continued fractions in Julia.
+- [Devectorize.jl](https://github.com/lindahua/Devectorize.jl) :: A Julia framework for delayed expression evaluation.
+- [DoubleDouble.jl](https://github.com/simonbyrne/DoubleDouble.jl) :: A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
+- [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
+- [Entropy.jl](https://github.com/grero/Entropy.jl) :: This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions
+- [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) :: Fast "anonymous functions" for Julia.
+- [GSL.jl](https://github.com/jiahao/GSL.jl) :: Julia interface to the GNU Scientific Library - GSL.
+- [GaussQuadrature.jl](https://github.com/billmclean/GaussQuadrature.jl) :: Another package that generates the points and weights of the Gauss quadrature rules.
 - [GP.jl](https://github.com/pschulam/GP.jl) :: Gaussian processes in Julia.
 - [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 - [GLPKMathProgInterface.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl) :: Interface between the GLPK.jl wrapper and MathProgBase.jl.
@@ -143,12 +144,12 @@
 
 
 ### [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
-- Expokit.jl :: [A package that provides Julia implementations of some routines contained in EXPOKIT](https://github.com/acroy/Expokit.jl).
-- InplaceOps.jl :: [Convenient macros for in-place matrix operations in Julia](https://github.com/simonbyrne/InplaceOps.jl)
-- LinearExpressions.jl :: is a Julia package [to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization](https://github.com/cdsousa/LinearExpressions.jl).
-* LinearMaps.jl :: A Julia package [for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors](https://github.com/Jutho/LinearMaps.jl). The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
-* linop.jl :: [Basic linear operator package for Julia](https://github.com/dpo/linop.jl)
-* RandomMatrices.jl :: [Random Matrices](https://github.com/jiahao/RandomMatrices.jl)
+- [Expokit.jl](https://github.com/acroy/Expokit.jl) :: A package that provides Julia implementations of some routines contained in EXPOKIT.
+- [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
+- [LinearExpressions.jl](https://github.com/cdsousa/LinearExpressions.jl) :: is a Julia package to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization.
+- [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
+- [linop.jl](https://github.com/dpo/linop.jl) :: Basic linear operator package for Julia.
+- [RandomMatrices.jl](https://github.com/jiahao/RandomMatrices.jl) :: Random Matrices.
 * juliaSpot :: [The Julia implementation of the Spot Linear Algebra Package](https://github.com/slimgroup/juliaSpot)
 * LinearMaps.jl :: A Julia package for [defining and working with linear maps](https://github.com/Jutho/LinearMaps.jl), also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 * NAG.jl :: Julia package to wrap the [NAG Numerical Library](https://github.com/StefanKarpinski/NAG.jl), a propreitary software library of numerical analysis routines, mathematical and statistical algorithms for linear algebra, optimization, quadrature, the solution of ordinary and partial differential equations, regression analysis, and time series analysis.
@@ -163,20 +164,20 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 * ParallelLinalg.jl :: [Distributed Dense Linear Algebra](https://github.com/intirb/ParallelLinalg.jl) for Julia.
 * PNLA__Julia :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision](https://github.com/kbatseli/PNLA_Julia) in Julia.
 * RK4.jl :: This package implements a fairly fast [Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver](https://github.com/ntezak/RK4.jl) that is not technically provably accurate, but works well for finite bandwidth SDE's.
-* SpecialMatrices.jl :: [Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices](https://github.com/timbers/SpecialMatrices.jl)
-* SpecialMatrices.jl :: [Julia package for working with special matrix types](https://github.com/jiahao/SpecialMatrices.jl)
-* ToeplitzMatrices.jl :: [Fast matrix multiplication and division for Toeplitz matrices](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) in Julia.
-* VML.jl :: [Julia bindings for the Intel Vector Math Library](https://github.com/simonster/VML.jl)
+- [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
+- [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
+- [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
+- [VML.jl](https://github.com/simonster/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 
 
 **Linear Algebra**
-* Cbc.jl :: [Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library](https://github.com/JuliaOpt/Cbc.jl)
-* JuMP.jl :: [Modelling language for Linear, Integer, and Quadratic Programming](https://github.com/IainNZ/JuMP.jl) 
+- [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library.
+- [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
   * _JuMP DOCS_::
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
-* JuMPeR.jl :: [Julia for Mathematical Programming (JuMP) extension for Robust optimization](https://github.com/IainNZ/JuMPeR.jl)
-* KrylovSolvers.jl :: Solve [sparse linear systems in an efficient and iterative manner](https://github.com/cfbaptista/KrylovSolvers.jl) with  Krylov Solvers.
-* MUMPS :: A wrapper for [a MUltifrontal Massively Parallel sparse direct Solver of large linear systems](https://github.com/lruthotto/MUMPS) in Julia.
+- [JuMPeR.jl](https://github.com/IainNZ/JuMPeR.jl) :: Julia for Mathematical Programming (JuMP) extension for Robust optimization.
+- [KrylovSolvers.jl](https://github.com/cfbaptista/KrylovSolvers.jl) :: Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
+- [MUMPS](https://github.com/lruthotto/MUMPS) :: A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 
 
@@ -187,7 +188,8 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 - [euler](https://github.com/somu/euler) :: Project Euler solutions in Julia.
 - [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) :: A simple Sudoku solver in Julia.
 - [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia.
-* SudokuService:: [Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver](https://github.com/IainNZ/SudokuService).
-* TowerOfHanoi.jl :: [Solution to Tower Of Hanoi using Julia](https://github.com/thiruk/TowerOfHanoi.jl)
-* Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles :: [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb)
+- [SudokuService](https://github.com/IainNZ/SudokuService) :: Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
+- [TowerOfHanoi.jl](https://github.com/thiruk/TowerOfHanoi.jl) :: Solution to Tower Of Hanoi using Julia.
+- [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb) :: Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles.
+
 
