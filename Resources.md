@@ -45,12 +45,11 @@
 
 # CHEATSHEETS
 - John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
-- Julia-cheatsheet.pdf :: [StevenJ's Julia cheatsheet](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf)
+- [Julia-cheatsheet.pdf](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
 - Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
 - [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
 - [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
-
 
 
 # CONFERENCES
@@ -76,8 +75,8 @@
 
 
 ##### LUG Talks, Slides.
-- SF.jl :: Slides for the SF Julia meetup](https://github.com/johnmyleswhite/SF.jl)
-- UCDavis.jl :: [Talk given at UC Davis on 2/27/2014](https://github.com/johnmyleswhite/UCDavis.jl)
+- [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
+- [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 2/27/2014.
 - [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 
 
@@ -86,13 +85,13 @@
 - [Binary search in Julia](http://rosettacode.org/wiki/Binary_search#Julia)
 - Charts :: @malmaud 's bug chart (using Julia) of the [number of issues opened and closed each week for Julia as one metric of popularity](https://gist.github.com/malmaud/9025047). 
 - Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
-- Euler.jl :: [Project Euler with julia language](https://github.com/moon6pence/Euler.jl)
-- julia-mit :: [Tutorials and information on the Julia language for MIT numerical-computation courses.](https://github.com/stevengj/julia-mit)
-- JuliaTutorial.jl :: [The Julia Tutorial series](https://github.com/abhi123link/JuliaTutorial.jl)
-- lazysort.jl :: [Lazy quicksort snippet](https://gist.github.com/anj1/2fe551053c849f54677e).
+- [Euler.jl](https://github.com/moon6pence/Euler.jl) :: Project Euler with julia language.
+- [julia-mit](https://github.com/stevengj/julia-mit) :: Tutorials and information on the Julia language for MIT numerical-computation courses.
+- [JuliaTutorial.jl](https://github.com/abhi123link/JuliaTutorial.jl) :: The Julia Tutorial series.
+- [lazysort.jl](https://gist.github.com/anj1/2fe551053c849f54677e) :: Lazy quicksort snippet.
 - [Plotting Examples](https://gist.github.com/gizmaa/7214002)
-- Rosetta-Julia :: [Rosetta Code tasks](https://github.com/quinnj/Rosetta-Julia) implemented in the Julia language.
-- Spark.jl :: [Spark in Julia for MIT 6.824](https://github.com/d9w/Spark.jl)
+- [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code tasks implemented in the Julia language.
+- [Spark.jl](https://github.com/d9w/Spark.jl) :: Spark in Julia for MIT 6.824.
 - Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
 - Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
 - Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
@@ -102,13 +101,14 @@
 # JUPYTER NOTEBOOKS
 - [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 - [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
-- iap2014 :: [MIT IAP Class 2014: 18.S096 Introduction to Julia Computing](https://github.com/JuliaX/iap2014)
-- DataGotham.jl :: [IJulia Notebook with material for DataGotham-2013 tutorial](https://github.com/johnmyleswhite/DataGotham.jl) on using Julia for data analysis.
-- IJuliaNotebooks :: [IJulia notebooks highlighting code features of Julia](https://github.com/JuliaX/IJuliaNotebooks)
-- IJulia_ PLEAC :: [IJulia version of PLEAC - Programming Language Examples Alike Cookbook](https://github.com/catawbasam/IJulia_PLEAC)
+- [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
+- [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
+- [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
+- [IJulia_ PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
 - [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
-- JuliaHTML :: [@ppalmes Julia notebooks](https://github.com/ppalmes/JuliaHTML)
-- 100-julia-exercises :: @rougier's 100 numpy exercises as [100-julia-exercises](https://github.com/chezou/julia-100-exercises).
+- [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
+- [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
+
 
 # LISTS
 - [A curated list of awesome awesomeness - scroll down to the Julia section](https://github.com/bayandin/awesome-awesomeness)
@@ -119,7 +119,9 @@
 
 
 # TUTORIALS
-- algorithms.jl :: [Algorithms in Julia](https://github.com/cfusting/algorithms.jl)
-- julia-tutorial :: [Julia Tutorial from MIT IAP 2013](https://github.com/JuliaLang/julia-tutorial)
-- JuliaByExample :: [Collection of Julia language examples](http://www.scolvin.com/juliabyexample/) and the source code is available at [Github](https://github.com/samuelcolvin/JuliaByExample).
+- [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
+- [Julia3D-Demos](https://github.com/d2dev/Julia3D-Demos)
+- [julia-tutorial](https://github.com/JuliaLang/julia-tutorial) :: Julia Tutorial from MIT IAP 2013.
+- [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
+
 
