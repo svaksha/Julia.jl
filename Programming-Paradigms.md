@@ -1,8 +1,8 @@
-* [CAD-CAM](#cad-cam)
-* [Control System](#control-system)
-* [Data Formats](#data-formats)
-* [Data Types](#data-types)
-* [Programming Paradigms](#programming-paradigms)
+- [CAD-CAM](#cad-cam)
+- [Control System](#control-system)
+- [Data Formats](#data-formats)
+- [Data Types](#data-types)
+- [Programming Paradigms](#programming-paradigms)
    - [Functional Programming](#functional-programming)
    - [Grammatical Evolution](#grammatical-evolution)
    - [Macros](#macros)
@@ -15,7 +15,7 @@
 
 
 # CAD-CAM
-- Gcode.jl :: [A wrapper for writing Gcode from Julia easily](https://github.com/sjkelly/Gcode.jl). Gcode: http://en.wikipedia.org/wiki/Gcode
+- [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing Gcode from Julia easily. Gcode: http://en.wikipedia.org/wiki/Gcode
 
 
 # Control System
@@ -30,8 +30,8 @@
 * Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
 
 ##### DOCS
-   * control-flow :: Conditional loops and [Control flow](http://docs.julialang.org/en/latest/manual/control-flow/) constructs.
-   * [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
+   - [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
+   - [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
 
 
 
@@ -59,13 +59,13 @@
 * NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
 * NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
 * ObjFileBase.jl :: [Common functionality for Object Files](https://github.com/Keno/ObjFileBase.jl)
-* OpenSlide.jl:: [OpenSlide bindings](https://github.com/ihnorton/OpenSlide.jl) for Julia.
-* PList.jl :: [A module for reading and writing OS X plist in ASCII format](https://github.com/ordovician/PList.jl). The binary and XML format is not supported presently.
-* PLX.jl :: Julia module for [reading Plexon PLX files](https://github.com/simonster/PLX.jl)
-* HarwellBoeing.jl :: [A reader for matrices and supplementary data written in the Harwell-Boeing format](https://github.com/dpo/HarwellBoeing.jl)
-* Shapefile.jl :: [Parsing .shp files](https://github.com/loladiro/Shapefile.jl) in Julia.
-* StrPack.jl :: [for encoding and decoding binary data streams](https://github.com/pao/StrPack.jl) and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
-* XPT.jl :: [The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames](https://github.com/lendle/XPT.jl)
+- [OpenSlide.jl](https://github.com/ihnorton/OpenSlide.jl) :: OpenSlide bindings for Julia.
+- [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
+- [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
+- [HarwellBoeing.jl](https://github.com/dpo/HarwellBoeing.jl) :: A reader for matrices and supplementary data written in the Harwell-Boeing format.
+- [Shapefile.jl](https://github.com/loladiro/Shapefile.jl) :: Parsing .shp files in Julia.
+- [StrPack.jl](https://github.com/pao/StrPack.jl) :: for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+- [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
 
 
@@ -84,12 +84,13 @@
 - [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A fairly basic lint tool for Julia code.
 - [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
 - [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
-* MUtils.jl :: [channels(), tspaces(), kvspaces() and more](https://github.com/amitmurthy/MUtils.jl)
-* ProtoBuf.jl :: [is a Julia implementation for protocol buffers](https://github.com/tanmaykm/ProtoBuf.jl), a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
-* Quantity.jl :: [Numbers with units](https://github.com/rephorm/Quantity.jl)
-* TypeCheck.jl :: a [type checker](https://github.com/astrieanna/TypeCheck.jl) for Julia.
+- [MUtils.jl](https://github.com/amitmurthy/MUtils.jl) :: channels(), tspaces(), kvspaces() and more.
+- [ProtoBuf.jl](https://github.com/tanmaykm/ProtoBuf.jl) :: is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
+- [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
+- [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
    * **DOCS::**
-   * "% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
+   * ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
+- [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
 - [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
 - [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
 - [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
