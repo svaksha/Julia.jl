@@ -60,14 +60,15 @@
 - [NLsolve.jl](https://github.com/EconForge/NLsolve.jl) :: Julia solvers for systems of nonlinear equations.
 - [NumericFuns.jl](https://github.com/lindahua/NumericFuns.jl) :: Math functions and functors for numerical computations.
 - [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
-* Quadrature.jl: [Gauss quadrature in Base](https://github.com/kofron/Quadrature.jl)
-* Quat.jl:: [Quaternions, octonions and dual-quaternions](https://github.com/forio/Quat.jl)
-* quaternion.jl :: [Quaternion for Julia Language](https://github.com/peakbook/quaternion.jl)
-* Roots.jl :: [Root finding functions for Julia](https://github.com/JuliaLang/Roots.jl)
-* SimilarityMetrics.jl :: [Standard similarity metrics in Julia](https://github.com/johnmyleswhite/SimilarityMetrics.jl)
-* SortingAlgorithms.jl :: [extra sorting algorithms extending Julia's sorting API](https://github.com/JuliaLang/SortingAlgorithms.jl)
-* Sobol.jl :: is a [generation of Sobol low-discrepancy sequence (LDS) implementation](https://github.com/stevengj/Sobol.jl), that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
-* SuperLU.jl :: Julia interface to the [SuperLU solver package for sparse systems](https://github.com/dmbates/SuperLU.jl)
+- [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
+- [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
+- [quaternion.jl](https://github.com/peakbook/quaternion.jl) :: Quaternion for Julia Language.
+- [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
+- [SimilarityMetrics.jl](https://github.com/johnmyleswhite/SimilarityMetrics.jl) :: Standard similarity metrics in Julia.
+- [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
+- [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
+- [Sobol.jl](https://github.com/stevengj/Sobol.jl) :: is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
+- [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 - [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: is a Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 - [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 - [SymPy.jl](https://github.com/jverzani/SymPy.jl) :: Julia interface to SymPy via PyCall.
