@@ -24,7 +24,7 @@
 - [GI.jl](https://github.com/bfredl/GI.jl) :: Julia bindings using libgobject-introspection.
 - [Gtk.jl](https://github.com/JuliaLang/Gtk.jl) :: Julia interface to the GTK windowing toolkit.
 - [GtkApps.jl](https://github.com/tknopp/GtkApps.jl) :: GTK Apps by @tknopp.
-
+- [GtkInteract.jl](https://github.com/jverzani/GtkInteract.jl) :: Part of Interact.jl functionality with Gtk.
 
 
 # JAVASCRIPT
