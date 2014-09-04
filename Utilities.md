@@ -68,7 +68,7 @@
 - [Julia.tmbundle](https://github.com/nanoant/Julia.tmbundle) :: Julia language support for TextMate 2 (and Sublime Text).
 - [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 - [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
-- [Jupiter-LT](https://github.com/one-more-minute/Jupiter-LT) :: A Julia environment built on Light Table.
+- [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
 - [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 - [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
 
