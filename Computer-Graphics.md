@@ -29,6 +29,7 @@
 - [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
 - [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
 - [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids.
+- [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
 - [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 - [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
