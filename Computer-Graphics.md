@@ -74,29 +74,30 @@
 - [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
 - [Color.jl](https://github.com/JuliaLang/Color.jl)
 - [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl
-* Displaz.jl :: [is julia bindings](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
-* ECharts.jl :: https://github.com/wlbksy/ECharts.jl
-* echarts :: https://github.com/ecomfe/echarts
-* FalseColor.jl :: [A Julia package to turn gridded data into pretty images](https://github.com/ojwoodford/FalseColor.jl)
-* Gadfly.jl :: [Gadfly is a statistical graphics plotting and data visualization system](https://github.com/dcjones/Gadfly.jl) written in Julia. 
+- [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
+- [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
+- [echarts](https://github.com/ecomfe/echarts)
+- [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
+- [Gadfly.jl](https://github.com/dcjones/Gadfly.jl) :: Gadfly is a statistical graphics plotting and data visualization system written in Julia. 
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
-- Gaston.jl :: [A julia front-end for gnuplot](https://github.com/mbaz/Gaston.jl)
-- GL.jl :: [Experimental OpenGL bindings](https://github.com/jayschwa/GL.jl) for Julia.
-- GLAbstraction.jl :: [Abstraction library for OpenGL](https://github.com/SimonDanisch/GLAbstraction.jl)
-- GLPlot.jl :: [Plotting for Julia with OpenGL](https://github.com/SimonDanisch/GLPlot.jl)
-- GLWindow.jl :: [Simple package to create an OpenGL window with an OpenGL context](https://github.com/SimonDanisch/GLWindow.jl)
-- GraphViz.jl :: [Julia bindings for the GraphViz library](https://github.com/loladiro/GraphViz.jl)
-* Histograms.jl :: [Methods for handling histograms in Julia](https://github.com/jpata/Histograms.jl)
-* julia-glplot :: [Opengl plotting](https://github.com/o-jasper/julia-glplot) - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
-* matplot :: [A MATLAB-like interface to Winston](https://github.com/natj/matplot).
-* paper :: [Crumpled paper - PDF plot](https://github.com/andrewcooke/paper) in Julia.
-* ProfileView.jl :: Interactive [SVG flame graphs](https://github.com/GlenHertz/ProfileView.jl) for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
-* PyPlot.jl:: [Plotting for Julia based on matplotlib, pyplot](https://github.com/stevengj/PyPlot.jl)
-* Sparklines.jl :: [A Julia implementation of spark](https://github.com/mbauman/Sparklines.jl)
-* TextPlots.jl :: [Fancy terminal plotting for Julia using Braille characters](https://github.com/sunetos/TextPlots.jl)
+- [Gaston.jl](https://github.com/mbaz/Gaston.jl) :: A julia front-end for gnuplot.
+- [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
+- [GLAbstraction.jl](https://github.com/SimonDanisch/GLAbstraction.jl) :: Abstraction library for OpenGL.
+- [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
+- [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
+- [GraphViz.jl](https://github.com/loladiro/GraphViz.jl) :: Julia bindings for the GraphViz library.
+- [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
+- [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
+- [matplot](https://github.com/natj/matplot) :: A MATLAB-like interface to Winston.
+- [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
+- [ProfileView.jl](https://github.com/GlenHertz/ProfileView.jl) :: Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
+- [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
+- [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark.
+- [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
 - [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 - [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
+- [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
 - [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
 - [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
 - [Wavelets](https://github.com/tomaskrehlik/Wavelets) :: Implementation of Wavelet methods in Julia.
