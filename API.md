@@ -22,7 +22,7 @@
 - [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
 - [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
 - [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
-
+- [Yelp.jl](https://github.com/quinnj/Yelp.jl) :: Interface to the Yelp API 2.0 from Julia.
 
 ## Math
 - [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
