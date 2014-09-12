@@ -13,6 +13,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
 - [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
+(most of) my Tcl AWS library to Julia. See - https://github.com/samoconnor/OCAWS.jl
+
 
 ###### DOCS
 * [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
