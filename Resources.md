@@ -45,11 +45,13 @@
 
 # CHEATSHEETS
 - John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
-- [Julia-cheatsheet.pdf](http://math.mit.edu/%7Estevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
+- [Julia-cheatsheet.pdf](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
 - Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)
 - [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
 - [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
+- [Julia matrix cheatsheet](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia)
+- [Julia cheatsheet](http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
 
 
 # CONFERENCES
