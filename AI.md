@@ -121,6 +121,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 - [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
 - [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser in Julia.
+- [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
 - [NGram.jl](https://github.com/remusao/NGram.jl) :: Implement the NGram model in julia.
 - [Parsimonious.jl](https://github.com/gitfoxi/Parsimonious.jl) :: A PEG parser generator for Julia.
 - [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: is an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
