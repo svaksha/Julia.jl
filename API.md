@@ -56,8 +56,9 @@
 - [JavaCall.jl](http://aviks.github.io/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
 
 ## JavaScript
-- [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
 - [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
+- [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
+- [node-julia](https://github.com/waTeim/node-julia) :: Connecting node.js and Julia.
 
 ## MATLAB
 - [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.

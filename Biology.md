@@ -1,11 +1,13 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
-* [BIOINFORMATICS](#bioinformatics)
-* [BIOSTATISTICS](#bioinformatics)
-* [GENOMICS](#genomics)
-* [NEUROSCIENCE](#neuroscience)
-* [YAJO](#yajo)
+- [BIOINFORMATICS](#bioinformatics)
+- [BIOSTATISTICS](#bioinformatics)
+- [GENOMICS](#genomics)
+- [NEUROSCIENCE](#neuroscience)
    
+
+- [BioJulia group](https://github.com/BioJulia) on github, and the GoogleGroups mailing list:: [https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev](https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev)
+- [JuliaBio](https://github.com/JuliaBio) group on github, and the GoogleGroups mailing list :: [https://groups.google.com/forum/#!forum/julia-bio](https://groups.google.com/forum/#!forum/julia-bio)
 
 
 # BIOINFORMATICS
@@ -35,13 +37,7 @@
 
 
 # NEUROSCIENCE
-* ElectroJulia.jl :: [Julia functions to process electroencephalographic recordings](https://github.com/sam81/ElectroJulia.jl)
+- [ElectroJulia.jl](https://github.com/sam81/ElectroJulia.jl) :: Julia functions to process electroencephalographic recordings.
 - [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
-
-
-# YAJO
-- [BioJulia group](https://github.com/BioJulia) on github, and the GoogleGroups mailing list:: [https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev](https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev)
-- [JuliaBio](https://github.com/JuliaBio) group on github, and the GoogleGroups mailing list :: [https://groups.google.com/forum/#!forum/julia-bio](https://groups.google.com/forum/#!forum/julia-bio)
-
 
 
