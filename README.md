@@ -36,7 +36,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 
 ## Mirrors
 - [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
-- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/Julia.jl) :: ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/Julia.jl.git
+- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/Julia.jl) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/Julia.jl.git
 
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/Julia.jl/pulls)
