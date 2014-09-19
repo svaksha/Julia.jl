@@ -23,7 +23,7 @@
 - [Jconometrics.jl](https://github.com/adriantorrie/Jconometrics.jl) :: MATLAB to Julia port of Spatial Econometrics.
 - [julia__timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
 - [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) :: General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
-- [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: Julia implementation of QuantEcon routines.
+- [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: This package collects code for quantitative economic modeling. It is currently comprised of two main parts: 1. A toolbox of routines useful when doing economics and 2. Implementations of types and solution methods for common economic models.
 - [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
 - [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
 - [TimeData.jl](https://github.com/cgroll/TimeData.jl) :: This package provides fast, robust and convenient representation of time series data.
