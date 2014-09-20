@@ -113,7 +113,6 @@
 - [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl) :: a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
 - [RAD.jl](https://github.com/adamkapor/RAD.jl) :: package defines a macro, @autodiff, for reverse-mode automatic differentiation.
 - [RDE.jl](https://github.com/scidom/RDE.jl) :: Simulation and Bayesian Inference for Rough Differential Equations (RDEs).
-- [ReverseDiffSource.jl](https://github.com/fredo-dedup/ReverseDiffSource.jl) :: Reverse automated differentiation from source.
 - [ReverseDiffSparse.jl](https://github.com/mlubin/ReverseDiffSparse.jl) :: Hessian algorithmic differentiation to compute hessian sparsity pattern.
 - [TaylorSeries.jl](https://github.com/lbenet/TaylorSeries.jl) :: A julia package for Taylor expansions in one independent variable.
 
@@ -123,17 +122,17 @@
 
 #### Ordinary Differential Equations (ODE)
 - [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
-- [DualNumbers.jl](https://github.com/scidom/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
 - [DualNumbers2.jl](https://github.com/johnmyleswhite/DualNumbers2.jl) :: Another Julia implementation of dual numbers for automatic differentiation.
-- [ForwardDiff.jl](https://github.com/scidom/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
-- [HyperDualNumbers.jl](https://github.com/goedman/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 - [Makhno.jl](https://github.com/pjabardo/Makhno.jl) :: Spectral element code implemented in Julia.
 - [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
 - [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 - [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
-- [YAJO : juliadiff.org](http://www.juliadiff.org/) on [github](https://github.com/JuliaDiff/)
 
-
+##### YAJO :: http://www.juliadiff.org/ || https://github.com/JuliaDiff/
+- [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) :: Reverse automated differentiation from source.
+- [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
+- [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
+- [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
 
 ### Geometry
 - [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations
