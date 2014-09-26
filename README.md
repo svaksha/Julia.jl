@@ -1,7 +1,14 @@
 [Julia.jl](http://svaksha.github.io/Julia.jl) contains curated decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
+- [PAGES](#pages)
+- [LICENSE](#license)
+   - [Mirrors](#mirrors)
+   - [Contributing Guidelines](#contributing-guidelines)
+
 
 # PAGES
+**NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/), else use the built-in package manager to install it after checking the requirements for versions.
+
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 - [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
 - [Biology.md](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
@@ -24,11 +31,6 @@
 - [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
 - [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud  WWW, HTTP, Networking, Servers, etc... 
 - [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
-
-
-**NB:** As a new language in the scientific computing scene, new libraries are constantly being added, so there will be frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not an endorsment of the software quality/ features, etc.. 
-
-For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/)
 
 
 # LICENSE 
