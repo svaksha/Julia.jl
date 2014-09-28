@@ -1,12 +1,12 @@
 [Julia.jl](http://svaksha.github.io/Julia.jl) contains curated decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
-- [PAGES](#pages)
+- [INDEX](#index)
 - [LICENSE](#license)
    - [Mirrors](#mirrors)
    - [Contributing Guidelines](#contributing-guidelines)
 
 
-# PAGES
+# INDEX
 **NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/), else use the built-in package manager to install it after checking the requirements for versions.
 
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
