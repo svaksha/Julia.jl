@@ -78,10 +78,11 @@
 - July 6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) had a Julia tutorial on July 7th in Austin, Texas by @dpsanders. The [4-hour Julia tutorial video](https://www.youtube.com/watch?v=vWkgEddb4-A) and the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia) are online.
 
 
-##### LUG Talks, Slides.
+#### LUG Talks, Slides.
 - [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
 - [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 2/27/2014.
 - [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
+- [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
 
 
 
