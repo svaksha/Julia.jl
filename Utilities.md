@@ -25,6 +25,8 @@
 
 # General Utilities 
 - [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
+- [Humanize.jl](https://github.com/IainNZ/Humanize.jl) :: Humanize numbers, based on the Python package "[humanize](https://github.com/jmoiron/humanize)" by @jmoiron.
+
 
 ## CLI 
 - [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
