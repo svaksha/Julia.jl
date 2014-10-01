@@ -24,8 +24,7 @@
    - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
-   - [JuliaBox](https://github.com/JuliaLang/JuliaBox) : IJulia sandboxed by Docker containers.
-    
+       
 - Docile.jl :: [Experimental Julia package documentation system](https://github.com/MichaelHatherly/Docile.jl)
 - Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
 - julia_package_system :: [A package system for Julia](https://github.com/johnmyleswhite/julia_package_system)
