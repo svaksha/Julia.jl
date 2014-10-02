@@ -12,7 +12,7 @@
    - [Style Guidelines](#style-guidelines) 
    - [Type Parameters](#type-parameters)
 
-
+----
 
 # CAD-CAM
 - [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing Gcode from Julia easily. Gcode: http://en.wikipedia.org/wiki/Gcode
@@ -20,45 +20,45 @@
 
 # Control System
 **Implementations of numerical algorithms for computations in systems and control theory.**
-* Control.jl :: [Control Systems toolbox for Julialang](https://github.com/jcrist/Control.jl)
-* Fontconfig.jl :: [Basic Julia bindings for fontconfig](https://github.com/dcjones/Fontconfig.jl)
-* Iterators.jl :: [Common functional iterator patterns](https://github.com/JuliaLang/Iterators.jl)
-   * Blog post on [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html).
-* LinearControl.jl :: [Julia package for analysis and design of control strategies for linear systems](https://github.com/jemofthewest/LinearControl.jl)
-* Options.jl :: [A framework for providing optional arguments to functions](https://github.com/JuliaLang/Options.jl)
-* Protobuf.jl :: [Julia protobuf parser implementation](https://github.com/tanmaykm/Protobuf.jl) 
-* Slicot.jl :: [Julia wrapper for SLICOT Routines](https://github.com/jcrist/Slicot.jl)
+- [Control.jl](https://github.com/jcrist/Control.jl) :: Control Systems toolbox for Julialang.
+- [Fontconfig.jl](https://github.com/dcjones/Fontconfig.jl) :: Basic Julia bindings for fontconfig.
+- [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) :: Common functional iterator patterns.
+   - Blog post on [Tricked out iterators](http://slendermeans.org/julia-iterators.html) in Julia.
+- [LinearControl.jl](https://github.com/jemofthewest/LinearControl.jl) :: Julia package for analysis and design of control strategies for linear systems.
+- [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
+- [Protobuf.jl](https://github.com/tanmaykm/Protobuf.jl) :: Julia protobuf parser implementation.
+- [Slicot.jl](https://github.com/jcrist/Slicot.jl) :: Julia wrapper for SLICOT Routines.
 
 ##### DOCS
    - [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
-   - [Homer Reid's "Introduction to Numerical Analysis - Basic Numerical Programming in Julia" course](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets)
-
+   - Homer Reid's ["Introduction to Numerical Analysis - Basic Numerical Programming in Julia"](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course.
 
 
 # Data Formats
 **Libraries for Data/File formats.**
-* BGZF.jl :: [is a Julia package to read/write BGZF compressed files](https://github.com/kmsquire/BGZF.jl).
-* COFF.jl :: [A julia implementation of the PE/COFF file format](https://github.com/Keno/COFF.jl)
-* CSV.jl :: [reads CSV files](https://github.com/tanmaykm/CSV.jl)
-* DataFramesIO.jl :: [Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON](https://github.com/johnmyleswhite/DataFramesIO.jl).
-* DataRead.jl :: can read files from [Stata, SAS, and SPSS](https://github.com/WizardMac/DataRead.jl).
-* DICOM.jl :: [DICOM interface for the Julia language](https://github.com/ihnorton/DICOM.jl)
-* DWARF.jl :: Julia Package for parsing the [DWARF file format](https://github.com/loladiro/DWARF.jl).
-* ELF.jl :: [Julia Package for working with ELF files](https://github.com/loladiro/ELF.jl)
-* FastaIO.jl :: [Utilities to read/write FASTA format files](https://github.com/carlobaldassi/FastaIO.jl) in Julia.
-* Grisu.jl :: [Port of Double-Conversion library to native Julia](https://github.com/quinnj/Grisu.jl)
-* HDF5.jl :: [HDF5.jl](https://github.com/timholy/HDF5.jl)
-* IniFile.jl :: [Reading and writing Windows-style INI files](https://github.com/JuliaLang/IniFile.jl).
-* JSON.jl :: [JSON parsing and printing](https://github.com/JuliaLang/JSON.jl).
-* LibExpat.jl :: [is a Julia wrapper for libexpat](https://github.com/amitmurthy/LibExpat.jl)
-* LightXML.jl :: [A light-weight Julia package for XML based on libxml2](https://github.com/lindahua/LightXML.jl).
-* MachO.jl :: [An implementation of the MachO file format](https://github.com/loladiro/MachO.jl).
-* MatrixMarket.jl :: [Julia package to read MatrixMarket file format](https://github.com/ViralBShah/MatrixMarket.jl)
-* MNIST.jl :: [Tools for working with the MNIST data set](https://github.com/johnmyleswhite/MNIST.jl) - This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
-* NetCDF.jl :: [NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files](https://github.com/meggart/NetCDF.jl), for the Julia programming language.
-* NIfTI.jl :: Julia [module for reading NIfTI MRI files](https://github.com/simonster/NIfTI.jl).
-* NPZ.jl :: Julia package that provides support for [reading and writing Numpy .npy and .npz](https://github.com/fhs/NPZ.jl) files.
-* ObjFileBase.jl :: [Common functionality for Object Files](https://github.com/Keno/ObjFileBase.jl)
+- [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
+- [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jl)  Read Bruker data files.
+- [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
+- [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
+- [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
+- [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
+- [DICOM.jl](https://github.com/ihnorton/DICOM.jl) :: DICOM interface for the Julia language.
+- [DWARF.jl](https://github.com/loladiro/DWARF.jl) :: Julia Package for parsing the DWARF file format.
+- [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
+- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
+- [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
+- [HDF5.jl](https://github.com/timholy/HDF5.jl)
+- [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
+- [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
+- [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
+- [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
+- [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
+- [MatrixMarket.jl](https://github.com/ViralBShah/MatrixMarket.jl) :: Julia package to read MatrixMarket file format.
+- [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) :: Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
+- [NetCDF.jl](https://github.com/meggart/NetCDF.jl) :: NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
+- [NIfTI.jl](https://github.com/simonster/NIfTI.jl) :: Julia module for reading NIfTI MRI files.
+- [NPZ.jl](https://github.com/fhs/NPZ.jl) :: Julia package that provides support for reading and writing Numpy .npy and .npz files.
+- [ObjFileBase.jl](https://github.com/Keno/ObjFileBase.jl) :: Common functionality for Object Files.
 - [OpenSlide.jl](https://github.com/ihnorton/OpenSlide.jl) :: OpenSlide bindings for Julia.
 - [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
 - [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
@@ -89,7 +89,7 @@
 - [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
 - [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
    * **DOCS::**
-   * ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
+   - ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
 - [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
 - [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
 - [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
@@ -107,7 +107,7 @@
 - [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
 - [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
 - [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
-   * _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
+   - _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
 ### Macros
 - [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
