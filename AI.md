@@ -11,6 +11,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [QUANTUM ALGORITHMS](#quantum-algorithms)
 - [SEARCH ALGORITHMS](#search-algorithms)
     
+----
 
 # CHECKSUM ALGORITHMS
 - [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).

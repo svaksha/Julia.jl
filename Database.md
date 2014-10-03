@@ -1,14 +1,14 @@
-* [DATABASE ENGINE](#database-engine}
-* [DATASETS](#datasets)
-* [DB-API](#db-api)
-* [NOSQL](#nosql)
-   * [FoundationDB](#foundationdb)
-   * [MongoDB](#mongodb) 
-   * [Redis](#redis)
-* [RDBMS](#rdbms)
-   * [MySQL](#mysql)
-   * [PostgreSQL](#postgresql)
-   * [SQLite](#sqlite)
+- [DATABASE ENGINE](#database-engine}
+- [DATASETS](#datasets)
+- [DB-API](#db-api)
+- [NOSQL](#nosql)
+   - [FoundationDB](#foundationdb)
+   - [MongoDB](#mongodb) 
+   - [Redis](#redis)
+- [RDBMS](#rdbms)
+   - [MySQL](#mysql)
+   - [PostgreSQL](#postgresql)
+   - [SQLite](#sqlite)
 
 ----
 
@@ -36,8 +36,8 @@
 - [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 - [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
 - [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
-   * __CookBooks__
-   * [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
+   - __CookBooks__
+   - [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
 - [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
 

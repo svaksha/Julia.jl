@@ -5,9 +5,10 @@
    - [Mirrors](#mirrors)
    - [Contributing Guidelines](#contributing-guidelines)
 
+----
 
 # INDEX
-**NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/), else use the built-in package manager to install it after checking the requirements for versions.
+For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/), else use the built-in package manager to install it after checking the requirements for versions.
 
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 - [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
@@ -32,11 +33,15 @@
 - [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud  WWW, HTTP, Networking, Servers, etc... 
 - [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
 
+**NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. 
+
+----
 
 # LICENSE 
 - This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file for full details.
 
 ## Mirrors
+- [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 - [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
 - [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/Julia.jl) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/Julia.jl.git
 
