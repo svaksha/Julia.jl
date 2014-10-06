@@ -98,6 +98,7 @@
 
 # STATISTICS
 - [JuliaStats group](https://github.com/JuliaStats/) and their [home page](https://github.com/JuliaStats/JuliaStats.github.io) on github.
+- [ApproXD.jl](https://github.com/floswald/ApproXD.jl) ::  B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 - [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R "basicspace" package to Julia.
 - [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 - [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
