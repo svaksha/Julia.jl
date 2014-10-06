@@ -54,9 +54,11 @@ Networking, web security, frameworks and other Web related things go here!
 # NETWORKING
 - [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
 - [Juliaflow](https://github.com/pchronz/juliaflow) :: is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
+- [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
 - [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
 - [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
 - [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
+
 
 ## Security
 - [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
