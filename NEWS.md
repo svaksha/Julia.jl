@@ -9,9 +9,7 @@ This section contains links to Events (un)conferences, talks, slides/videos, Res
    - [Blogs](#blogs)
    - [Yellow Press](#yellow-press)
 
-
-- NEWS.md :: [Track the Julia release notes, changes, new language features, library improvements,...](https://github.com/JuliaLang/julia/blob/master/NEWS.md)
-
+----
 
 # COMMUNITY
 Join the [http://julialang.org/community/](mailing list), or head over to [#julia on irc.freenode.net](http://webchat.freenode.net/?channels=julia) for a live chat.
@@ -48,8 +46,10 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 
 
 # DEVELOPMENT
-### GSoC
-- 2014: [GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
+- [NEWS.md](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
+- [2014 GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
+- [ThisWeekInJulia](http://thisweekinjulia.github.io) :: A blog detailing major updates and changes to the Julia language.
+
 
 
 # MEDIA
