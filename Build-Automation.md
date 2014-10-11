@@ -25,25 +25,25 @@
    - packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
        
-- Docile.jl :: [Experimental Julia package documentation system](https://github.com/MichaelHatherly/Docile.jl)
-- Julep :: A [Julep for package requirements and quality standards](https://gist.github.com/IainNZ/6086173).
-- julia_package_system :: [A package system for Julia](https://github.com/johnmyleswhite/julia_package_system)
-- jpm :: [Julia package manager](https://github.com/dirk/jpm)
-- PackageEvaluator.jl:: The [Julia package evaluator](https://github.com/IainNZ/PackageEvaluator.jl) and the [results](http://iaindunning.com/PackageEval/).
-- PkgUtils.jl :: [Tools for analyzing Julia packages](https://github.com/johnmyleswhite/PkgUtils.jl)
-- Require.jl :: [A better module system for Julia](https://github.com/jkroso/Require.jl)
-- RPMmd.jl :: [is a front-end installer for RPM-md packages](https://github.com/ihnorton/RPMmd.jl) and a fork of WinRPM.jl.
-- WinRPM.jl :: [RPM-md processing library](https://github.com/JuliaLang/WinRPM.jl) - WinRPM is an installer for RPM packages provided by an RPM-md build system.
+- [https://github.com/JuliaLang/Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
+- [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
+- [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
+- [jpm](https://github.com/dirk/jpm) :: Julia package manager.
+- [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator and the [results](http://iaindunning.com/PackageEval/).
+- [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
+- [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
+- [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
+- [WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl) :: RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 ## DistrOS
-- Julia Ecosystem Status :: [Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages](http://status.julialang.org/)
-- julia-buildbot :: [Buildbot configuration for build.julialang.org](https://github.com/staticfloat/julia-buildbot). It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
+- [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
+- [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 
 
 
 ##### Debian (Ubuntu)
-- APT.jl :: [is a module to manipulate Debian Advanced Package Tool (APT)](https://github.com/bbshortcut/APT.jl). It comes with pnlt, an executable that allows to manage package name lists.
-- Debian :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with [just the packaging metadata](https://github.com/staticfloat/julia-debian), that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
+- [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with pnlt, an executable that allows to manage package name lists.
+- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
 
 ##### Fedora / RHEL
 - Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
