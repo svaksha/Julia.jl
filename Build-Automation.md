@@ -7,7 +7,7 @@
 - [CONTINUOUS INTEGRATION](#continuous-integration)
    - [YAJO](#yajo)
 
-
+----
 
 # INSTALL 
 - [Download and install Julia on various Operating Systems](http://julialang.org/downloads/)
