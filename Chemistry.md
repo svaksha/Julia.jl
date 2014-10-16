@@ -4,6 +4,7 @@
 * [Quantum Chemistry](#quantum-chemistry]
 * [YAJO](#yajo)
 
+----
  
 ## Chemistry 
 - [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.

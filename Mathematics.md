@@ -7,6 +7,7 @@
    * [Numerical Analysis](#numerical-analysis)
 * [PUZZLES](#puzzles)
 
+----
 
 # CRYPTOGRAPHY
 - [BlockCipherSelfStudy.jl](https://github.com/andrewcooke/BlockCipherSelfStudy.jl) :: Blocks, and RC5.
