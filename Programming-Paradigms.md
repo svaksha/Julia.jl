@@ -33,6 +33,7 @@
    - [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
    - Homer Reid's ["Introduction to Numerical Analysis - Basic Numerical Programming in Julia"](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course.
 
+----
 
 # Data Formats
 **Libraries for Data/File formats.**
@@ -97,6 +98,7 @@
 - [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 
+----
 
 
 # Programming Paradigms

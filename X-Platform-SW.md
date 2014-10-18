@@ -1,6 +1,6 @@
 **Hardware arch (ARM, CUDA, GPU, MIPS), API for Compilers, other software libraries,..**
 
-* [COMPILERS](#compilers)
+- [COMPILERS](#compilers)
 - [HARDWARE](#hardware)
    - [JuliaGPU](#juliagpu)
    - [Robots](#robots)

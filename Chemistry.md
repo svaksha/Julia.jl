@@ -1,8 +1,8 @@
 **Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...**
 
-* [Chemistry](#chemistry)
-* [Quantum Chemistry](#quantum-chemistry]
-* [YAJO](#yajo)
+- [Chemistry](#chemistry)
+- [Quantum Chemistry](#quantum-chemistry]
+- [YAJO](#yajo)
 
 ----
  
@@ -24,5 +24,5 @@
 
 
 # YAJO
-* [JuliaQuantum](http://juliaquantum.github.io/), is the umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
+- [JuliaQuantum](http://juliaquantum.github.io/), is the umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
 

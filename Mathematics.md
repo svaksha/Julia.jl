@@ -21,7 +21,7 @@
 - [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: [Sha256 hash algorithm for Julia.
 - [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
 
-
+----
 
 # MATH 
 - DOCS : [Mathematical Operations](http://docs.julialang.org/en/release-0.2/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
@@ -101,8 +101,7 @@
 - [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
 - [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 - [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: Finite element surface mesh manipulation library.
-
-
+- [VoronoiDelaunay.jl](https://github.com/skariel/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using GeometricalPredicates.jl package.
 
 ### Calculus
 - [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila package for performing automatic differentiation.
@@ -185,7 +184,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 - [MUMPS](https://github.com/lruthotto/MUMPS) :: A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 
-
+----
 
 # PUZZLES
 **Puzzles, problem solving games**
