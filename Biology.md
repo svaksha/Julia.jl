@@ -5,10 +5,12 @@
 - [GENOMICS](#genomics)
 - [NEUROSCIENCE](#neuroscience)
    
+----
 
 - [BioJulia group](https://github.com/BioJulia) on github, and the GoogleGroups mailing list:: [https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev](https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev)
 - [JuliaBio](https://github.com/JuliaBio) group on github, and the GoogleGroups mailing list :: [https://groups.google.com/forum/#!forum/julia-bio](https://groups.google.com/forum/#!forum/julia-bio)
 
+----
 
 # BIOINFORMATICS
 - [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
@@ -19,10 +21,12 @@
 - [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 - [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 
+----
 
 # BIOSTATISTICS
 - [ROC.jl](https://github.com/diegozea/ROC.jl) :: Receiver Operating Characteristic (ROC) Curve for Julia Language.
 
+----
 
 # GENOMICS
 - [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: [Utilities to read/write FASTA format files in Julia.
@@ -35,6 +39,7 @@
 - [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 - [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 
+----
 
 # NEUROSCIENCE
 - [ElectroJulia.jl](https://github.com/sam81/ElectroJulia.jl) :: Julia functions to process electroencephalographic recordings.

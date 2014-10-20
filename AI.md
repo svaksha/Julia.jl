@@ -67,6 +67,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser for Julia.
 - [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
 
+----
 
 # MACHINE LEARNING
 - [ConfidenceWeighted.jl](https://github.com/chezou/ConfidenceWeighted.jl) :: Confidence weighted, a machine learning algorithm.
@@ -98,11 +99,12 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
 - [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 
-
+----
 
 # MARKOV MODELS
 - [Pagerank.jl](https://github.com/purzelrakete/Pagerank.jl) :: An experiment in pagerank on graphs in the order of billions of edges - Currently tested with over half a billion edges.
 
+----
 
 # NEURAL NETWORKS 
 - [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
@@ -115,7 +117,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [neuralnetwork.jl](https://github.com/tomaskrehlik/neuralnetwork.jl) :: is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 - [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
 
-
+----
 
 # NLP 
 - [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
@@ -138,11 +140,12 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 ###### Resources
 - [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
 
-
+----
 
 # QUANTUM ALGORITHMS
 - [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
 
+----
 
 # SEARCH ALGORITHMS
 - [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
