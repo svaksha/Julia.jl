@@ -1,19 +1,19 @@
-*Desktop and other handy utilities*
+**Desktop and other handy utilities**
 
-* [DOCUMENTATION](#documentation)
-* [General Utilities](#general-utilities)
-   * [CLI](#cli)
-   * [File Compression](#file-compression)  
-   * [Desktop Document Processing](#desktop-document-processing)
-   * [Document Generator](#document-generator) 
-   * [Microsoft Windows](#microsoft-windows)
-* [ENVIRONMENTS](#environments)    
-   * [IDE](#ide)
-   * [Jupyter](#jupyter)
-   * [WIDE](#wide)    
-   * [Shell](#shell)
+- [DOCUMENTATION](#documentation)
+- [General Utilities](#general-utilities)
+   - [CLI](#cli)
+   - [File Compression](#file-compression)  
+   - [Desktop Document Processing](#desktop-document-processing)
+   - [Document Generator](#document-generator) 
+   - [Microsoft Windows](#microsoft-windows)
+- [ENVIRONMENTS](#environments)    
+   - [IDE](#ide)
+   - [Jupyter](#jupyter)
+   - [WIDE](#wide)    
+   - [Shell](#shell)
 
-
+----
         
 # DOCUMENTATION
 *Julia Documentation tools*
@@ -56,6 +56,7 @@
 - [COMCall.jl](https://github.com/ihnorton/COMCall.jl) :: COM Interface for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
 - [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 - [RawFile.jl](https://github.com/tknopp/RawFile.jl) :: Uses IniFile.jl
+- [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
 
 
 # ENVIRONMENTS
