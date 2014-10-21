@@ -14,6 +14,7 @@
 - [MOOC](#mooc)
 - [TUTORIALS](#tutorials) 
 
+----
 
 # BOOKS
 - Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
@@ -22,6 +23,7 @@
 - [List of free programming books](https://github.com/vhf/free-programming-books)
 - [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
 
+----
 
 # BLOGS 
 - The official [Julia language blog](http://julialang.org/blog/)
@@ -42,6 +44,7 @@
 - [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 - [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
 
+----
 
 # CHEATSHEETS
 - John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
@@ -53,6 +56,7 @@
 - [Julia matrix cheatsheet](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia)
 - [Julia cheatsheet](http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
 
+----
 
 # CONFERENCES
 ## JuliaCon
@@ -84,7 +88,7 @@
 - [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 - [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
 
-
+----
 
 # COOKBOOKS
 - [Binary search in Julia](http://rosettacode.org/wiki/Binary_search#Julia)
@@ -101,7 +105,7 @@
 - Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
 - Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
 
-
+----
 
 # JUPYTER NOTEBOOKS
 - [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox)
@@ -115,19 +119,22 @@
 - [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
 - [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
 
+----
 
 # LISTS
 - [A curated list of awesome awesomeness - scroll down to the Julia section](https://github.com/bayandin/awesome-awesomeness)
 
+----
 
 # MOOC
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 
+----
 
 # TUTORIALS
 - [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
 - [Julia3D-Demos](https://github.com/d2dev/Julia3D-Demos)
 - [julia-tutorial](https://github.com/JuliaLang/julia-tutorial) :: Julia Tutorial from MIT IAP 2013.
 - [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
-
+- [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
 
