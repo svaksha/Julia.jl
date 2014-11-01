@@ -20,6 +20,7 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 
 
 ## [Julia User Groups](http://julia.meetup.com)
+* http://julialang.org/community/
 ### ASIA
 ##### India
 - [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
@@ -43,14 +44,14 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 - [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
 - [Triangle Julia Users, Raleigh, NC](http://www.meetup.com/Triangle-Julia-Users/)
 
-
+----
 
 # DEVELOPMENT
 - [NEWS.md](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
 - [2014 GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
 - [ThisWeekInJulia](http://thisweekinjulia.github.io) :: A blog detailing major updates and changes to the Julia language.
 
-
+----
 
 # MEDIA
 - [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
