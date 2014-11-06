@@ -14,6 +14,7 @@
 - List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
 - [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 - Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples)
+- List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 
 
 # PACKAGING
