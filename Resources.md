@@ -60,6 +60,10 @@
 ----
 
 # CONFERENCES
+## EuroScipy
+- EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Stephen G. Johnson.
+
+
 ## JuliaCon
 - [JuliaCon](http://juliacon.org/) runs from 2014June26-27, Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
    **Public Slides**
@@ -134,7 +138,6 @@
 
 # TALKS
 - Slides from a [data science meetup talk by Galen O'Neil on Wednesday Nov 5th, in Broomfield, CO](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language)
-
 
 ----
 
