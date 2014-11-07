@@ -12,6 +12,7 @@
 - [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 - [LISTS](#lists)
 - [MOOC](#mooc)
+- [TALKS](#talks)
 - [TUTORIALS](#tutorials) 
 
 ----
@@ -128,6 +129,12 @@
 
 # MOOC
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
+
+----
+
+# TALKS
+- Slides from a [data science meetup talk by Galen O'Neil on Wednesday Nov 5th, in Broomfield, CO](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language)
+
 
 ----
 
