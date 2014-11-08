@@ -12,7 +12,6 @@
 - [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 - [LISTS](#lists)
 - [MOOC](#mooc)
-- [TALKS](#talks)
 - [TUTORIALS](#tutorials) 
 
 ----
@@ -61,7 +60,7 @@
 
 # CONFERENCES
 ## EuroScipy
-- EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Stephen G. Johnson.
+- EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 
 
 ## JuliaCon
@@ -92,6 +91,7 @@
 - [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 2/27/2014.
 - [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 - [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
+- Slides from a [data science meetup talk by Galen O'Neil on Wednesday Nov 5th, in Broomfield, CO](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language)
 
 ----
 
@@ -133,11 +133,6 @@
 
 # MOOC
 - [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
-
-----
-
-# TALKS
-- Slides from a [data science meetup talk by Galen O'Neil on Wednesday Nov 5th, in Broomfield, CO](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language)
 
 ----
 
