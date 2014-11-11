@@ -30,7 +30,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 - [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
 - [UI-UX.md](https://github.com/svaksha/Julia.jl/blob/master/UI-UX.md) :: User Interface software in Julia.
 - [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
-- [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud  WWW, HTTP, Networking, Servers, etc... 
+- [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc... 
 - [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
 
 **NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. 
@@ -38,7 +38,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 ----
 
 # LICENSE 
-- This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License - (CC-BY-SA-3.0). Read the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file for full details.
+* This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file.
 
 ## Mirrors
 - [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
