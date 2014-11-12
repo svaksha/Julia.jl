@@ -9,6 +9,6 @@
 - Picchini, Umberto, and Julie Lyng Forman. "Accelerating inference for diffusions observed with measurement error and large sample sizes using Approximate Bayesian Computation: A case study." arXiv preprint arXiv:1310.0973 (2013).
 - Lin, Dahua. "Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation." Advances in Neural Information Processing Systems. 2013.
 - Matthew Farrell, and David Taylor, Department of Computer Science, Urbana, IL: [Julia Paper](http://julia.lifehug.com/gqm/julia_paper.html) and the [PDF file can be download here](julia.lifehug.com/gqm/JuliaFeatureUsage.pdf).
-- Bezanson Jeff, et al. "[Julia: A fresh approach to numerical computing](http://arxiv.org/pdf/1411.1607v1.pdf)", 07-November-2014.
+- Bezanson Jeff, et al. "[Julia: A fresh approach to numerical computing](http://arxiv.org/abs/1411.1607)", 07-November-2014.
 
 
