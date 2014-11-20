@@ -4,7 +4,9 @@
    - [Math](#math)
    - [GIT API](#git-api)
 - [LANGUAGES](#languages)
+   - [C](#c)
    - [C++](#c++)
+   - [Erlang](#erlang)
    - [Fortran](#fortran)
    - [Go](#go)
    - [HTML-XML](#html-xml)
@@ -49,6 +51,9 @@
 ## C++ 
 - [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
 - [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Interface.
+
+## Erlang
+- [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.
 
 ## Fortran 
 - [FortranIO.jl](https://github.com/rephorm/FortranIO.jl) :: Input/Output of fortran unformatted binary files.
