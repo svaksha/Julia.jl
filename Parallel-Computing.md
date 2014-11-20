@@ -13,9 +13,9 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [HDFS.jl](https://github.com/tanmaykm/HDFS.jl) :: HDFS interface for Julia as a wrapper over Hadoop HDFS library.
 - [LCJC.jl]((https://github.com/amitmurthy/LCJC.jl)) :: Loosely Coupled Julia Clusters.
 - [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
+- [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
 - [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
 - [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
-
 
 ###### DOCS
 - [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
