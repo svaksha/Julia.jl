@@ -80,6 +80,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
 - [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 - [Markov.jl](https://github.com/goedman/Markov.jl) :: Trial Markov package.
+- [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 - [MDP.jl](https://github.com/adityam/MDP.jl) (by @adityam) :: Markov Decision Processes algorithms for Julia.
 - [MDP.jl](https://github.com/khadiwala/MDP.jl) (by @khadiwala) :: Markov Decision Processes in Julia.
 - [MLBase.jl](https://github.com/lindahua/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
