@@ -1,15 +1,11 @@
 *Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Unit testing, ...*
 
-- [BACKPORTS](#backports)
 - [LOGGING](#logging)
 - [SANDBOX](#sandbox)
 - [Static Program Analysis](#static-program-analysis)
 - [UNITTEST](#unittest)
 
 ----
-
-# BACKPORTS
-- [Julia-Backports](https://groups.google.com/forum/#!forum/julia-backports) Mailing list.
 
 ----
 
@@ -28,6 +24,14 @@
 
 # Static Program Analysis
 - [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
+- [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
+- [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
+   * **DOCS::**
+   - ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
+
+### Type Parameters
+##### DOCS 
+- [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
 
 ----
 
