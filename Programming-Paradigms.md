@@ -74,6 +74,8 @@
 
 # Programming Paradigms
 
+- [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
+
 ### Functional Programming 
 - [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
