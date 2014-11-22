@@ -20,6 +20,7 @@
 # GIS 
 - [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 - [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) :: A Julia Library for measuring approximate distance and location given latitudes and longitudes.
+- [FlowNetworks.jl](https://github.com/scheidan/FlowNetworks.jl) :: Types and function to represent hydrological flow networks.
 - [GDAL.jl](https://github.com/wkearn/GDAL.jl) :: Geospatial Data Analysis Library Wrapper for Julia.
 - [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper for the Julia Programming language.
 - [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
