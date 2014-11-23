@@ -15,20 +15,13 @@
 # DATABASE ENGINE
 - [kyotocabinet.jl](https://github.com/tuzzeg/kyotocabinet.jl) :: Implementation of Kyoto Cabinet in Julia language.
 
-
 # DATASETS
+NOTE: This only lists the packages that automate the loading process for specific datasets. See the **DataSets.md** file for links to more DataSets for which you may have to build your own package.
 - [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
 - [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the Public Suffix List at http://publicsuffix.org/.
 - [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the data sets available in R.
 - [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
-
-### Other DataSets
-- [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
-- [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
-- [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
-
-
 
 # DB-API
 **Middleware API's**
