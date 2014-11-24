@@ -65,7 +65,6 @@
 - [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 
 ### Kernel
-- [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The Julia package for various kernel estimation including kernel density estimation, kernel regression and kernel based goodness of fit test.
 
 ### Robots
 - [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
