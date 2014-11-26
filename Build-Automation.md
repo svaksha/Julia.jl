@@ -32,7 +32,6 @@
 - [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
 - [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
 - [jpm](https://github.com/dirk/jpm) :: Julia package manager.
-- [juliawithpackages](https://github.com/rened/juliawithpackages) :: "juliawithpackages", or jwp for short, allows you to declaratively specify Per-project, declarative Julia package installation which a project should use, with exact version or commit details.
 - [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator and the [results](http://iaindunning.com/PackageEval/).
 - [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 - [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
