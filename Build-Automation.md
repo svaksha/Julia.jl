@@ -29,7 +29,7 @@
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
        
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
-- [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declarativel specify which Julia packages are being used, with exact version or commit details.
+- [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 - [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
 - [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
 - [jpm](https://github.com/dirk/jpm) :: Julia package manager.
