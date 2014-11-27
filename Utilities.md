@@ -24,6 +24,7 @@
 - [Jocco](http://lcw.github.com/jocco/) :: is a simple literate-programming-style documentation generator for Julia.
 - [Roxygen.jl](https://github.com/johnmyleswhite/Roxygen.jl) :: A Roxygen-like documentation package for automatically generating documentation from Julia source files.
 
+----
 
 # General Utilities 
 - [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
@@ -47,6 +48,7 @@
    * DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 
 ## Desktop Document processing 
+- [JuliaReport.jl](https://github.com/mpastell/JuliaReport.jl) :: A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 - [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
 ## Document Generator 
@@ -60,6 +62,7 @@
 - [RawFile.jl](https://github.com/tknopp/RawFile.jl) :: Uses IniFile.jl
 - [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
 
+----
 
 # ENVIRONMENTS
 **Braille, REPL shells, IDE/Text editors, WIDE, &c..**
