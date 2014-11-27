@@ -8,7 +8,7 @@
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the [metadata for registered Julia packages](http://docs.julialang.org/en/latest/packages/packagelist/), else use the built-in package manager to install it after checking the requirements for versions.
+For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the metadata for [registered Julia packages](http://pkg.julialang.org/), and use the built-in package manager to install it after checking the requirements for versions. More interesting package statistics are easily available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage.
 
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 - [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
