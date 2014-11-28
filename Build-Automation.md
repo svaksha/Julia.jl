@@ -45,7 +45,12 @@
 
 ##### Debian (Ubuntu)
 - [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with pnlt, an executable that allows to manage package name lists.
-- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia.
+- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia on Debian/Ubuntu systems. In a terminal, type the following commands:
+   - sudo add-apt-repository ppa:staticfloat/juliareleases
+   - sudo add-apt-repository ppa:staticfloat/julia-deps
+   - sudo add-apt-repository ppa:staticfloat/julianightlies
+   - sudo apt-get update && sudo apt-get upgrade
+   - sudo apt-get install julia
 
 ##### Fedora / RHEL
 - Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
