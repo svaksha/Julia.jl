@@ -15,26 +15,30 @@
 # DATABASE ENGINE
 - [kyotocabinet.jl](https://github.com/tuzzeg/kyotocabinet.jl) :: Implementation of Kyoto Cabinet in Julia language.
 
+----
+
 # DATASETS
-NOTE: This only lists the packages that automate the loading process for specific datasets. See the **DataSets.md** file for links to more DataSets for which you may have to build your own package.
+NOTE: This only lists the packages that automate the loading process for specific datasets. See the **data-sets.md** file for links to more DataSets (for which you may have to write your own package).
 - [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
 - [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the Public Suffix List at http://publicsuffix.org/.
 - [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the data sets available in R.
 - [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
 
+----
+
 # DB-API
 **Middleware API's**
 - [JuliaDB](https://github.com/JuliaDB) group on Github.
 - [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
+- [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
 - [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
 - [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
-   - __CookBooks__
+   __CookBooks__
    - [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
 - [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
-
-
+----
 
 # NOSQL
 ## FoundationDB
@@ -47,7 +51,7 @@ NOTE: This only lists the packages that automate the loading process for specifi
 ## Redis
 - [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
 
-
+----
 
 # RDBMS
 ## MySQL
