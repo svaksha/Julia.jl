@@ -113,13 +113,12 @@
 ----
 
 # JUPYTER NOTEBOOKS
-- [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox)
 - [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
 - [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
 - [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
 - [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
 - [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
-- [IJulia_ PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
+- [IJulia PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
 - [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 - [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
 - [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.

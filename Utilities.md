@@ -101,6 +101,7 @@
 - [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 
 ### WIDE
+- [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
 - [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 - [koding](https://koding.com/Julia) has an interactive online Julia REPL.
 - [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
