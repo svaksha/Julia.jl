@@ -51,6 +51,9 @@ NOTE: This only lists the packages that automate the loading process for specifi
 ## Redis
 - [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
 
+## SciDB
+* [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
+
 ----
 
 # RDBMS
