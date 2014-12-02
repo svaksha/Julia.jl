@@ -22,6 +22,7 @@
 
 # Electromagnetism
 * [Dipole julia](https://github.com/manuamador/Dipole_julia) :: A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
+* [Reverb Julia](https://github.com/manuamador/Reverb_Julia) :: A julia version of an electromagnetic reverberation chamber model based on image theory.
 * [Stirrer](https://github.com/manuamador/Stirrer) :: A Julia and Python set of tools to model stirrers in reverberation chambers.
 
 ----
