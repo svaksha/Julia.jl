@@ -1,3 +1,4 @@
+- [PACKAGES](#datasets)
 * [Genome](#genome)
 * [General Datasets](#general-datasets)
 * [Machine Learning](#machine-learning)
@@ -5,6 +6,15 @@
 * [Pharma](#Pharma)
 * [Research Data](#research-data)
 
+----
+
+# PACKAGES
+**NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
+- [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
+- [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the Public Suffix List at http://publicsuffix.org/.
+- [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the data sets available in R.
+- [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
+- [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
 
 ----
 
