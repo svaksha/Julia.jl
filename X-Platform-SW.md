@@ -4,9 +4,7 @@
 - [Control System](#control-system)
 - [COMPILERS](#compilers)
    - [Transpiler](#transpiler)
-- [OS](#os)
-   - [JuliaGPU](#juliagpu)
-   - [Robots](#robots)
+- [Robots](#robots)
 - [AUDIO](#audio)
 - [DSP](#dsp)
 
@@ -45,31 +43,11 @@
 
 ----
 
-# OS
-
-### ARM, CUDA, GPU, MIPS
-- Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
-- [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
-- [MPI.jl](https://github.com/lcw/MPI.jl) :: A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
-- [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
-- [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
-- Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
-
-### JuliaGPU
-- [JuliaGPU](https://github.com/JuliaGPU) organization on GitHub.
-- [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API for Julia.
-- [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Julia wrapper for CUDA runtime API.
-- [CUFFT.jl](https://github.com/timholy/CUFFT.jl) :: Wrapper for the CUDA FFT library.
-- [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library for julia.
-- [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's for Julia.
-- [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
-
-### Kernel
-
-### Robots
+# Robots
 - [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
 - [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 
+----
 
 # AUDIO
 - [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) :: is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
@@ -81,6 +59,7 @@
 - [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
 - [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
 
+----
 
 # DSP 
 **Digital Signal Processing**
