@@ -14,7 +14,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
 - (https://bitbucket.org/eschnett/funhpc.jl/)
 - [HDFS.jl](https://github.com/tanmaykm/HDFS.jl) :: HDFS interface for Julia as a wrapper over Hadoop HDFS library.
-- [LCJC.jl]((https://github.com/amitmurthy/LCJC.jl)) :: Loosely Coupled Julia Clusters.
+- [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 - [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 - [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
 - [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
