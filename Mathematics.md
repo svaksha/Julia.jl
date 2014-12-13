@@ -1,4 +1,5 @@
 * [CRYPTOGRAPHY](#cryptography)
+   * [Cryptocurrency](#cryptocurrency)
 * [MATH](#math)
    * [Algebra](#algebra)
    * [Algebraic Geometry](#algebraic-geometry)
@@ -21,6 +22,9 @@
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) :: a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
 - [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: [Sha256 hash algorithm for Julia.
 - [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
+
+### Cryptocurrency 
+- Bit[Coin.jl](https://github.com/danielsuo/Coin.jl) :: A library for working with Bitcoin written in Julia.
 
 ----
 
