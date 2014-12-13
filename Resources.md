@@ -16,6 +16,8 @@
 
 ----
 
+- The official list of resources to [learn Julia](http://julialang.org/learning/).
+
 # BOOKS
 - Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
 - Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
