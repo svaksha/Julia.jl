@@ -24,6 +24,7 @@
 ----
 
 # BIOSTATISTICS
+- [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) :: Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
 - [ROC.jl](https://github.com/diegozea/ROC.jl) :: Receiver Operating Characteristic (ROC) Curve for Julia Language.
 
 ----
