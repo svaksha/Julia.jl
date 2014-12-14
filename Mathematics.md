@@ -95,6 +95,7 @@
 - [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
 - [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
 - [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
+- [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) :: Data types and methods for permutations.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
 ##### Orthogonal polynomials
