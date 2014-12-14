@@ -1,21 +1,41 @@
 AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural networks, NLP, ...
 
-- [CHECKSUM ALGORITHMS](#checksum-algorithms)
+- [ALGORITHMS](#algorithms)
+   - [Checksum](#checksum)
+   - [Clustering](#clustering)
+   - [Quantum](#quantum)
+   - [Search](#search)
 - [DATA STRUCTURES](#data-structures)
    - [YAJO](#yajo)
 - [MACHINE LEARNING](#machine-learning)
-   - [Clustering Algorithms](#clustering-algorithms)
 - [MARKOV MODELS](#markov-models)
 - [NEURAL NETWORKS](#neural-networks)
 - [NLP](#nlp)
-- [QUANTUM ALGORITHMS](#quantum-algorithms)
-- [SEARCH ALGORITHMS](#search-algorithms)
-    
+- [SPEECH RECOGNITION](#speech-recognition)
+   - [DSP](#dsp)
+       
 ----
 
-# CHECKSUM ALGORITHMS
+# ALGORITHMS
+### Checksum 
 - [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 - [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation
+
+### Clustering 
+- [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for [clustering data: k-means, dp-means, etc..
+- [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
+- [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
+
+### Quantum
+- [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
+
+### Search
+- [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
+- [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
+- [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search
+- [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
+- [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
+- [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
 ----
 
@@ -105,11 +125,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - ML4H.jl :: [Machine Learning for Hackers in Julia](https://github.com/johnmyleswhite/ML4H.jl)
 - [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 
-## Clustering algorithms 
-- [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for [clustering data: k-means, dp-means, etc..
-- [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
-- [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
-
 ----
 
 # MARKOV MODELS
@@ -153,16 +168,17 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 ----
 
-# QUANTUM ALGORITHMS
-- [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
+# SPEECH RECOGNITION
+- [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl)
 
-----
+### DSP 
+**Digital Signal Processing**
+- [JuliaDSP](https://github.com/JuliaDSP) group on Github.
+- [ChaosCommunications.jl](https://github.com/scidom/ChaosCommunications.jl) :: Simulation of chaos-based communication systems in Julia.
+- [CompressedSensing](https://github.com/dahlend/CompressedSensing) :: basic compressed sensing algorithms available via the official package list with [documentation](http://compressedsensing.readthedocs.org/en/latest/).
+- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :: The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
+- [KDSP.jl](https://github.com/kofron/KDSP.jl) :: Yet another implementation of common DSP routines in Julia.
+- [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
+- [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
 
-# SEARCH ALGORITHMS
-- [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
-- [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
-- [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search
-- [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
-- [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
-- [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 

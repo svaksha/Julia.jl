@@ -6,7 +6,6 @@
    - [Transpiler](#transpiler)
 - [Robots](#robots)
 - [AUDIO](#audio)
-- [DSP](#dsp)
 
 ----
 
@@ -59,17 +58,4 @@
 - [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
 - [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
 - [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
-
-----
-
-# DSP 
-**Digital Signal Processing**
-- [JuliaDSP](https://github.com/JuliaDSP) group on Github.
-- [ChaosCommunications.jl](https://github.com/scidom/ChaosCommunications.jl) :: Simulation of chaos-based communication systems in Julia.
-- [CompressedSensing](https://github.com/dahlend/CompressedSensing) :: basic compressed sensing algorithms available via the official package list with [documentation](http://compressedsensing.readthedocs.org/en/latest/).
-- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :: The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
-- [KDSP.jl](https://github.com/kofron/KDSP.jl) :: Yet another implementation of common DSP routines in Julia.
-- [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
-- [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
-
 

@@ -8,7 +8,7 @@
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the metadata for [registered Julia packages](http://pkg.julialang.org/), and use the built-in package manager to install it after checking the requirements for versions. More interesting package statistics are easily available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage.
+For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the METADATA for [registered Julia packages](http://pkg.julialang.org/), and use the built-in package manager to install it after checking the requirements for versions. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the the current core development on [github](https://github.com/JuliaLang/julia/pulse).
 
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 - [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
@@ -34,7 +34,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 - [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc... 
 - [X-Platform-SW.md](https://github.com/svaksha/Julia.jl/blob/master/X-Platform-SW.md) :: Cross-Platform Software and API for Hardware arch. (ARM, MIPS, GPU, CUDA), language API, HPC, and other libraries.
 
-**NB:** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. The **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, not to be considered an endorsment of the software quality/ features, etc.. 
+**DISCLAIMER :** As a new language in the scientific computing scene, new libraries are constantly being added resulting in frequent changes and page reordering. Since the **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsment of the software quality, technical features, coding style/organization, etc.. of any single package. 
 
 ----
 
@@ -49,7 +49,7 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 ## Contributing Guidelines
 ##### To submit a [PR](https://github.com/svaksha/Julia.jl/pulls)
 - Add your link as per the topic, in _alphabetical order_, with notes (if any) to the respective section in the markdown files.
-- For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR.
+- For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR. Please submit separate PR's for each link or change added.
 - For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
 - For those unable to use git, create a github account, fork the 'Julia.jl' repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
