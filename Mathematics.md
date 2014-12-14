@@ -95,6 +95,7 @@
 - [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
 - [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
 - [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
+- [PermPlain.jl](https://github.com/jlapeyre/PermPlain.jl) :: This package implements methods for manipulating permutations. The methods operate on data types in the Base module, or in modules providing generic data types. 
 - [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) :: Data types and methods for permutations.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
