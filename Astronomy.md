@@ -9,6 +9,7 @@
 
 # AstroLibs
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) :: An astrodynamics library in Julia.
+- [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) :: A Julia wrapper of CasaCore.
 - [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) :: Cosmology library for Julia.
 - [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) :: Models for the interstellar extinction due to dust.
 - [ERFA.jl](https://github.com/JuliaAstro/ERFA.jl) :: Julia wrapper for liberfa.
