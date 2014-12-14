@@ -1,5 +1,6 @@
 * [Electromagnetism](#electromagnetism)
 * [Fluid Dynamics](#fluid-dynamics)
+* [Laser Physics](#laser-physics)
 * [Statistical Mechanics](#statistical-mechanics)
 
 ----
@@ -8,13 +9,12 @@
 * [CMSSW.jl](https://github.com/jpata/CMSSW.jl) :: A work-in-progress wrapper for ROOT.jl.
 * [Codata.jl](https://github.com/kofron/Codata.jl)
 * [HEP.jl](https://github.com/jpata/HEP.jl) :: A collection of methods useful for HEP.
-* Physical.jl :: https://github.com/ggggggggg/Physical.jl
+* [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 * [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
 * [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) :: Dimensions and Quantities.
 * [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 * [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 * [ROOTDataFrames.jl](https://github.com/jpata/ROOTDataFrames.jl) :: A wrapper for ROOT Trees through the Abstract DataFrame interface.
-* [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
 * [Signals.jl](https://github.com/mbauman/Signals.jl) :: A high level Signal type with a common timebase and groups of channels.
 * [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: Visual Psychophysics package for Julia.
 
@@ -31,6 +31,12 @@
 # Fluid Dynamics 
 * [hydro](http://github.com/natj/hydro) :: Fairly simple, relatively small & mildly interesting hydrodynamic code.
    * [A video of the "hydro" code in use](https://vimeo.com/95607699)
+
+----
+
+# Laser Physics
+* [LaserOpticalCommunicationExperiments.jl](https://github.com/scidom/LaserOpticalCommunicationExperiments.jl) :: A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
+* [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
 
 ----
 
