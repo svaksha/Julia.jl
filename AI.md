@@ -170,6 +170,7 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 
 # SPEECH RECOGNITION
 - [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl)
+- [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters. 
 
 ### DSP 
 **Digital Signal Processing**
