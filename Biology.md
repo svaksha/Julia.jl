@@ -14,10 +14,8 @@
 
 # BIOINFORMATICS
 - [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
-- [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
 - [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 - [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
-- [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
 - [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 - [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 
@@ -30,10 +28,13 @@
 ----
 
 # GENOMICS
+- [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
+- [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
 - [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 - [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 - [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) :: is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
 - [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
+- [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
 - [Phylogenetics.jl](https://github.com/BioJulia/Phylogenetics.jl) :: The Julia package for analysis of evolution and phylogeny.
 - [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: can detect correlated evolution on phylogenies.
 - [pikaia.jl](https://github.com/tmeits/pikaia.jl) :: Genetic Algorithms (GA's).
