@@ -98,6 +98,7 @@
 - [PermPlain.jl](https://github.com/jlapeyre/PermPlain.jl) :: This package implements methods for manipulating permutations. The methods operate on data types in the Base module, or in modules providing generic data types. 
 - [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) :: Data types and methods for permutations.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
+- [SIE.jl](https://github.com/ApproxFun/SIE.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
 
 ##### Orthogonal polynomials
 - [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.
