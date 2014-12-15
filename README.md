@@ -1,4 +1,4 @@
-[Julia.jl](http://svaksha.github.io/Julia.jl) contains curated decibans of resources for the [Julia language](https://github.com/JuliaLang).
+[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
 - [INDEX](#index)
 - [LICENSE](#license)
@@ -8,7 +8,7 @@
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check the METADATA for [registered Julia packages](http://pkg.julialang.org/), and use the built-in package manager to install it after checking the requirements for versions. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the the current core development on [github](https://github.com/JuliaLang/julia/pulse).
+For Base packages, check if the package you seek is listed in their [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse).
 
 - [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, ML, NLP, ...
 - [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: API's for C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
