@@ -1,6 +1,7 @@
 * [Electromagnetism](#electromagnetism)
 * [Fluid Dynamics](#fluid-dynamics)
 * [Laser Physics](#laser-physics)
+* [Quantum Mechanics](#quantum-mechanics)
 * [Statistical Mechanics](#statistical-mechanics)
 
 ----
@@ -39,6 +40,11 @@
 # Laser Physics
 * [LaserOpticalCommunicationExperiments.jl](https://github.com/scidom/LaserOpticalCommunicationExperiments.jl) :: A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
 * [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
+
+----
+
+# Quantum Mechanics
+- [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 
 ----
 
