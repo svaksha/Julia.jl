@@ -1,6 +1,7 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, ...__
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
+* [GRID](#grid) 
 * [OS](#os)
    * [JuliaGPU](#juliagpu)
 
@@ -24,6 +25,9 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 - [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 - [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
+
+# GRID
+- [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
 
 ----
 

@@ -7,12 +7,13 @@
    - [JuliaCon](#juliacon)
    - [ACM SPLASH](#acm-splash)
    - [SciPy](#scipy)
-   - [StrangeLoop](#strangeloop)
+   - [StrangeLoop](#strangeloop)      
 - [COOKBOOKS](#cookbooks)
 - [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 - [LISTS](#lists)
 - [MOOC](#mooc)
 - [TUTORIALS](#tutorials) 
+- [VOLUNTEER](#volunteer)
 
 ----
 
@@ -144,3 +145,12 @@
 - [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
 - [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
 - [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
+
+----
+
+# VOLUNTEER
+**To contribute to the Julia language, take a look at these links to open BUGS on Github**
+* [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
+* The [up for grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_.
+
+
