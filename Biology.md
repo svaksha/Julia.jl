@@ -43,8 +43,9 @@
 ----
 
 # NEUROSCIENCE
-- [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) :: A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis.
+- [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) :: A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/).
 - [ElectroJulia.jl](https://github.com/sam81/ElectroJulia.jl) :: Julia functions to process electroencephalographic recordings.
 - [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
 - [NeuroAnalysis.jl](https://github.com/babaq/NeuroAnalysis.jl) :: Julia package for neural signal analysis.
+
 
