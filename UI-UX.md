@@ -4,7 +4,6 @@
 * [GUI](#gui)
    * [GTK]#gtk)
 * [JAVASCRIPT](#javascript)
-* [MARKDOWN](#markdown)
 
 
 # GeSHI 
@@ -31,8 +30,5 @@
 - [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
 - [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 
-
-# MARKDOWN
-- [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown.
 
 
