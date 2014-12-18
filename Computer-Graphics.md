@@ -33,6 +33,7 @@
 - [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 - [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
+- [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 - [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
 - [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 - [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
