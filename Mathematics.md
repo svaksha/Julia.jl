@@ -202,6 +202,9 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 - [MUMPS](https://github.com/lruthotto/MUMPS) :: A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 - [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 
+##### RESOURCES
+* [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
+
 ----
 
 # PUZZLES
