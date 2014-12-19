@@ -7,8 +7,6 @@
 
 ----
 
-----
-
 # LOGGING
 - [Logging.jl](https://github.com/kmsquire/Logging.jl) :: The Logging module.
 - [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) :: A logging library by Westley Hennigh.
@@ -41,6 +39,7 @@
 - [Fixtures.jl](https://github.com/burrowsa/Fixtures.jl) :: provides fixtures, mocks, matchers and patching to improve your tests with Julia.
 - [Jig.jl](https://github.com/milktrader/Jig.jl) :: Testing framework for Julia.
 - [JulieTest.jl](https://github.com/arypurnomoz/JulieTest.jl) :: A Julia testing framework inspired by javascript's Mocha. See the [Wiki](https://github.com/arypurnomoz/JulieTest.jl/wiki)
+- [microcoverage](https://github.com/StephenVavasis/microcoverage) :: This module computes code coverage for a Julia program at a more fine-grained level than the built-in coverage feature. Specifically, it provides coverage counts for each branch of the ||, && and ?: operators where they occur. It also counts the number of invocations to statement-functions.
 - [PackageTesting.jl](https://github.com/johnmyleswhite/PackageTesting.jl) :: A standard for testing Julia packages.
 - [RunTests.jl](https://github.com/burrowsa/RunTests.jl) :: A test running framework for Julia that extends Base.Test
 - [Saute.jl](https://github.com/milktrader/Saute.jl) :: is another testing framework for Julia.

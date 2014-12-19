@@ -96,8 +96,7 @@
 - [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark.
 - [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
 - [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
-- [Vega](https://github.com/jverzani/Vega) by @jverzani :: A simple interface to Vega (http://trifacta.github.com/vega/) from Julia.
-- [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) by @johnmyleswhite :: A Julia package for generating visualizations in Vega.
+- [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
 - [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
 - [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
 - [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
