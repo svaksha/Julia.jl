@@ -4,6 +4,7 @@
 - [GIS](#gis)
 - [METEOROLOGY](#meteorology)
 
+----
 
 # AERONAUTICS
 - [Rotations.jl](https://github.com/ronisbr/Rotations.jl) :: Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
@@ -13,6 +14,7 @@
 # AQUATIC ECOLOGY
 - [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
 - [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
+
 
 # GEOSTATISTICS
 - [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
