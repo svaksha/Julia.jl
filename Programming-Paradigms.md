@@ -53,13 +53,14 @@
 - [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 - [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 - [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: is a BigRational package for Julia using GMP.
-- [JBDF.jl](https://github.com/sam81/JBDF.jl) :: Module to read Biosemi BDF files with the Julia programming language.
 - [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
+- [DataStreams.jl](https://github.com/lindahua/DataStreams.jl) :: A Julia package to support streaming process of data .
 - [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 - [FixedPoint.jl](https://github.com/JeffBezanson/FixedPoint.jl) :: Fixed point types for Julia.
 - [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
 - [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 - [frange](https://github.com/StefanKarpinski/frange)
+- [JBDF.jl](https://github.com/sam81/JBDF.jl) :: Module to read Biosemi BDF files with the Julia programming language.
 - [jenks.jl](https://github.com/scw/jenks.jl)
 - [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
 - [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
