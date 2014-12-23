@@ -108,7 +108,6 @@
 
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-- [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) :: Simple least squares and curve fitting functions.
 - [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
 - [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
 - [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
