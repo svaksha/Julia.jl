@@ -17,6 +17,9 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 ----
 
 # ALGORITHMS
+### Association Rule
+* [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
+
 ### Checksum 
 - [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 - [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation
