@@ -7,6 +7,7 @@
 
 ----
 
+* [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
 * [auditory.jl](https://github.com/jfsantos/auditory.jl) :: Auditory filterbanks in Julia.
 * [CMSSW.jl](https://github.com/jpata/CMSSW.jl) :: A work-in-progress wrapper for ROOT.jl.
 * [Codata.jl](https://github.com/kofron/Codata.jl)
