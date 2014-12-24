@@ -9,6 +9,7 @@
    - [SQLite](#sqlite)
 - [DB-ENGINES](#database-engines}
 - [DB-API](#db-api)
+- [RESOURCES](#resources)
 
 ----
 
@@ -62,4 +63,7 @@
    - [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
 - [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
+----
 
+# RESOURCES
+* Blog on [The Lesser Known Normal Forms of Database Design](http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/)
