@@ -236,7 +236,7 @@
 
 ## Valuation
 **Finance**
-* [Julia Quant group on Github](https://github.com/JuliaQuant).
+- [Julia Quant group on Github](https://github.com/JuliaQuant).
 - [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.
 - [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
 - [FinMarkets.jl](https://github.com/imanuelcostigan/FinMarkets.jl) :: Describe and model financial markets objects using Julia.
@@ -247,6 +247,7 @@
 - [LibTrading.jl](https://github.com/StefanKarpinski/LibTrading.jl) :: The Julia LibTrading package is a wrapper for the libtrading library, which "is an open source API for high-performance, low-latency trading applications."
 - [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 - [MCInsurance.jl](https://github.com/mkriele/MCInsurance.jl) :: This Julia package provides multi-period Monte Carlo simulations for life insurance.
+- [OpenFiscaFrance.jl](https://github.com/openfisca/OpenFiscaFrance.jl) :: A port of OpenFisca-France to Julia. This is the OpenFisca package containing the formulas and parameters of the french tax-benefit system.
 - [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
 - [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
 - [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
