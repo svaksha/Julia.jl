@@ -81,6 +81,7 @@
 - [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 - [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
+* [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
 - [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
 - [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
    - _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
