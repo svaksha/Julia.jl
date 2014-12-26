@@ -6,7 +6,6 @@
 - [BUILD AUTOMATION](#build-automation)
    - [DistrOS](#distros)
 - [CONTINUOUS INTEGRATION](#continuous-integration)
-   - [YAJO](#yajo)
 
 ----
 
@@ -43,16 +42,19 @@
 - [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
 - [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 
-##### Debian (Ubuntu)
-- [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with pnlt, an executable that allows to manage package name lists.
+##### Debian-Ubuntu
+- [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
 - [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia on Debian/Ubuntu systems. In a terminal, type the following commands:
-   - sudo add-apt-repository ppa:staticfloat/juliareleases
-   - sudo add-apt-repository ppa:staticfloat/julia-deps
-   - sudo add-apt-repository ppa:staticfloat/julianightlies
-   - sudo apt-get update && sudo apt-get upgrade
-   - sudo apt-get install julia
 
-##### Fedora / RHEL
+```
+    sudo add-apt-repository ppa:staticfloat/juliareleases
+    sudo add-apt-repository ppa:staticfloat/julia-deps
+    sudo add-apt-repository ppa:staticfloat/julianightlies
+    sudo apt-get update && sudo apt-get upgrade
+    sudo apt-get install julia
+```
+
+##### Fedora-RHEL
 - Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
 
 ----
@@ -65,7 +67,7 @@
 # BUILD AUTOMATION
 - [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 - [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
-- [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines - create vagrant boxes and openstack images for performing builds and tests of Julia.
+- [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 - [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 - [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
 - [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: a process-oriented simulation library written in Julia.
@@ -73,8 +75,8 @@
 ----
 
 # CONTINUOUS INTEGRATION
+- [Julia-CI group](https://github.com/julia-ci) on Github.
 - Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
 
-### YAJO
-- [Julia-CI group](https://github.com/julia-ci) on Github.
+
 
