@@ -54,6 +54,7 @@
 
 ## Erlang
 - [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.
+- [FsBert](https://github.com/et4te/FsBert) :: A Julia library for encoding / decoding binary Erlang terms.
 
 ## Fortran 
 - [FortranIO.jl](https://github.com/rephorm/FortranIO.jl) :: Input/Output of fortran unformatted binary files.
