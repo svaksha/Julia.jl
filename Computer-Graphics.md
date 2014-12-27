@@ -7,11 +7,13 @@
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
 
-
+----
 
 # YAJO
 - [JuliaGL](https://github.com/JuliaGL) :: Julia packages for the OpenGL API and ecosystem.
 - [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
+
+----
 
 # GRAPHICS 
 - [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
@@ -43,6 +45,7 @@
 - [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 - [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) :: Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
 - [PolygonClipping.jl](https://github.com/sjkelly/PolygonClipping.jl) :: A Julia package for polygon clipping.
+- [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 - [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
 - [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
 - [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
@@ -66,7 +69,7 @@
 - Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 - Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
 
-
+----
 
 # INFOGRAPHICS
 **Statistical Charts, Graphs, Plots, Histograms, Maps**

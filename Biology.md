@@ -41,7 +41,7 @@
 - Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 
 #### Resources
-* [Data Analysis for Genomics](https://genomicsclass.github.io/book/) 
+* [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
 
 ----
 
