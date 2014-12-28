@@ -25,6 +25,11 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 - [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 - [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
+- Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
+   * Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
+   * An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
+
+----
 
 # GRID
 - [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
