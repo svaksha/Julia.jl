@@ -1,9 +1,10 @@
-- [DATABASE-ArrayDB](#database-arraydb)
-- [DATABASE-NOSQL](#database-nosql)
+- [DB-ArrayDB](#db-arraydb)
+- [DB-NOSQL](#db-nosql)
    - [FoundationDB](#foundationdb)
+   - [LMDB](#lmdb)
    - [MongoDB](#mongodb) 
    - [Redis](#redis)
-- [DATABASE-RDBMS](#database-rdbms)
+- [DB-RDBMS](#db-rdbms)
    - [MySQL](#mysql)
    - [PostgreSQL](#postgresql)
    - [SQLite](#sqlite)
@@ -13,19 +14,22 @@
 
 ----
 
-# DATABASE-ArrayDB
+# DB-ArrayDB
 ## SciDB
 * [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
 
 ----
 
-# DATABASE-NOSQL
+# DB-NOSQL
 
 * [Bjson](https://github.com/ddolgi/Bjson.jl)  :: JSON encoder/decoder on Julia. 
 
 ## FoundationDB
 - [Catacomb.jl](https://github.com/wwilson/Catacomb.jl) :: A client-side elliptic curve cryptography layer for FoundationDB.
 - [fdb.jl](https://github.com/wwilson/fdb.jl) :: Julia Bindings for FoundationDB.
+
+## LMDB
+* [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
 
 ## MongoDB 
 - [Mongo.jl](https://github.com/Lytol/Mongo.jl) :: Mongo bindings for the Julia programming language.
@@ -35,7 +39,7 @@
 
 ----
 
-# DATABASE-RDBMS
+# DB-RDBMS
 ## MySQL
 - [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 
