@@ -32,6 +32,7 @@
 - [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
 - [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids.
 - [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
+- [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
 - [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 - [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
