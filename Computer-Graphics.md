@@ -33,8 +33,9 @@
 - [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids.
 - [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
 - [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
-- [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
+- [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
+- [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 - [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 - [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
 - [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
