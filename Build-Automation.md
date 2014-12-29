@@ -77,6 +77,7 @@
 # CONTINUOUS INTEGRATION
 - [Julia-CI group](https://github.com/julia-ci) on Github.
 - Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
+- [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 
 
 

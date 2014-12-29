@@ -2,7 +2,7 @@
 
 - [LOGGING](#logging)
 - [SANDBOX](#sandbox)
-- [Static Program Analysis](#static-program-analysis)
+- [STATIC ANALYSIS](#static-analysis)
 - [UNITTEST](#unittest)
 
 ----
@@ -20,7 +20,8 @@
 
 ----
 
-# Static Program Analysis
+# STATIC ANALYSIS
+__Static Program Analysis__
 - [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 - [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
 - [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
