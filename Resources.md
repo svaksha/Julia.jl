@@ -63,19 +63,23 @@
 ----
 
 # CONFERENCES
+
 ## EuroScipy
 - EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
-
+   **Blogs by JuliaCon attendees**
+   - [Julia-EuroSciPy14](https://github.com/stevengj/Julia-EuroSciPy14) :: Julia at EuroSciPy 2014.   
 
 ## JuliaCon
-- [JuliaCon](http://juliacon.org/) runs from 2014June26-27, Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
+- 26-27/06/2014 [JuliaCon](http://juliacon.org/), Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
    **Public Slides**
    - [Presentations for JuliaCon](https://github.com/JuliaCon/presentations)
    **Blogs by JuliaCon attendees**
    - [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
-   - [Julia-EuroSciPy14](https://github.com/stevengj/Julia-EuroSciPy14) :: Julia at EuroSciPy 2014.   
    **Videos** 
-   - Video: [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson at JuliaCon 2014.   
+   - [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
+   - [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
+   - [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
+
    
 ## ACM SPLASH 
 - 2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
