@@ -105,6 +105,7 @@
 
 
 ### [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
+- [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of "Programming the FEM" by I M Smith, D V Griffiths.
 - [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
 - [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
 - [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
