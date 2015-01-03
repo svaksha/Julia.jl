@@ -5,4 +5,4 @@ __Repos that lack package clarity about the category or their classification is 
 * https://github.com/phobon/ROS.jl
 * https://github.com/Luthaf/Jumos.jl
 * https://github.com/mauro3/Traits.jl
- 
+- https://github.com/goedman/FinealeBook.jl
