@@ -44,7 +44,7 @@
 
 ##### Debian-Ubuntu
 - [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
-- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages nightlies, consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia nightlies if you are having build problems with Julia on Debian/Ubuntu systems. In a terminal, type the following commands:
+- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages [nightlies](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases), consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia [PPA releases](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases) if you are having build problems with Julia on Debian-Ubuntu systems. In a terminal, type the following commands:
 
 ```
     sudo add-apt-repository ppa:staticfloat/juliareleases
@@ -53,6 +53,8 @@
     sudo apt-get update && sudo apt-get upgrade
     sudo apt-get install julia
 ```
+
+__NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch from github, so if you are not interested in the unstable bleeding-edge version of JULIA, stick to the stable release versions that are usually tagged as `vX.X` branches.
 
 ##### Fedora-RHEL
 - Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
@@ -78,6 +80,5 @@
 - [Julia-CI group](https://github.com/julia-ci) on Github.
 - Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
 - [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
-
 
 
