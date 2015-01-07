@@ -188,8 +188,6 @@
 - [QuantileRegression.jl](https://github.com/vincentarelbundock/QuantileRegression.jl) :: Quantile regression in the Julia language.
 - [Queries](https://github.com/carljv/Queries) :: Composable queries for Julia DataFrames.
 - [RandomProcesses.jl](https://github.com/johnmyleswhite/RandomProcesses.jl) :: Random processes (CRP, CRT) in Julia.
-- [RCall.jl](https://github.com/JuliaStats/RCall.jl) :: Embedded R within Julia - ports all the `R` API functions from C into Julia.
-- [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
 - [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
 - [Ridge.jl](https://github.com/johnmyleswhite/Ridge.jl) :: Ridge regression and classification.
 - [Rmath.jl](https://github.com/dmbates/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
