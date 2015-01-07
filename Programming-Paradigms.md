@@ -29,6 +29,7 @@
 - [HDF5.jl](https://github.com/timholy/HDF5.jl)
 - [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 - [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
+- [Json2.jl](https://github.com/ddolgi/Json2.jl)  :: JSON encoder/decoder on Julia. 
 - [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 - [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 - [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.

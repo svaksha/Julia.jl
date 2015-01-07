@@ -22,8 +22,6 @@
 
 # DB-NOSQL
 
-* [Bjson](https://github.com/ddolgi/Bjson.jl)  :: JSON encoder/decoder on Julia. 
-
 ## FoundationDB
 - [Catacomb.jl](https://github.com/wwilson/Catacomb.jl) :: A client-side elliptic curve cryptography layer for FoundationDB.
 - [fdb.jl](https://github.com/wwilson/fdb.jl) :: Julia Bindings for FoundationDB.
