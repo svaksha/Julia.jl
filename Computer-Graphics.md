@@ -18,7 +18,7 @@
 # GRAPHICS 
 - [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 - [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
-- [Compose.jl](https://github.com/dcjones/Compose.jl) :: Declarative vector graphics.
+- [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
 - [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
 - [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
 - [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
