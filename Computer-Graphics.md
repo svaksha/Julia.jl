@@ -1,4 +1,4 @@
-*Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.*
+**Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
 * [YAJO](#yajo)
 * [GRAPHICS](#graphics) 
@@ -65,7 +65,7 @@
 ## Games
 - [Game.jl](https://github.com/IainNZ/Game.jl) :: is inspired by PyGame, to make 2D games easy in Julia.
 - [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
-
+- [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 
 ### CookBooks
 *Read other Julia users experiences with visualization and plotting*
