@@ -80,9 +80,11 @@
 - [Julia.tmbundle](https://github.com/nanoant/Julia.tmbundle) :: Julia language support for TextMate 2 (and Sublime Text).
 - [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 - [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
-- [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
+- [Juno-LT](http://junolab.org/docs/install.html) :: A Julia environment built on Light Table.
 - [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 - [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
+- [Kate](http://kate-editor.org/get-it/) - InBuilt support for Julia.  Highlighting from [this link](https://github.com/jgm/highlighting-kate) .
+- [Notepad++](https://github.com/JuliaLang/julia/blob/master/contrib/Julia_Notepad%2B%2B.xml) - Support for Notepad++
 
 ### Jupyter
 - [Jupyter](http://jupyter.org) 'nee [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) :: Julia kernel and magics for IPython.
