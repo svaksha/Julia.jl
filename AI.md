@@ -1,4 +1,4 @@
-AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural networks, NLP, ...
+**AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural networks, NLP, SR/Voice tools,...**
 
 - [ALGORITHMS](#algorithms)
    - [Checksum](#checksum)
@@ -50,7 +50,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 ## YAJO
 - [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
 
-
 ### Arrays / Graphs / Hash tables / Matrix / Functional / Trees data structures
 - [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 - [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
@@ -74,8 +73,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 - [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 - [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
-- [LDA.jl](https://github.com/remusao/LDA.jl) :: Linear Discriminant Analysis and Kernel Fisher Analysis.
-- [LMCLUS.jl](https://github.com/wildart/LMCLUS.jl) :: Julia's package for Linear Manifold Clustering.
 - [LSH.jl](https://github.com/Keno/LSH.jl) :: Locality Sensitive Hashing functions.
 - [MatrixDepot.jl](https://github.com/weijianzhang/MatrixDepot.jl) :: A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
 - [Metis.jl](https://github.com/dmbates/Metis.jl) :: Julia interface to the Metis graph-partitioning algorithms.
@@ -83,7 +80,6 @@ AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Ne
 - [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
 - [NamedArray](https://github.com/davidavdav/NamedArray) :: is a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 - [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
-- [NonuniformArray.jl](https://github.com/ReidAtcheson/NonuniformArray.jl) :: This library handles the case of "array of arrays" where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
 - [OffsetArrays.jl](https://github.com/alsam/OffsetArrays.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia.
 - [ParallelSparseMatMul.jl](https://github.com/madeleineudell/ParallelSparseMatMul.jl) :: A Julia library for parallel sparse matrix multiplication using shared memory.
 - [PDMats.jl](https://github.com/lindahua/PDMats.jl) :: Uniform Interface for positive definite matrices of various structures.
