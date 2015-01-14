@@ -102,6 +102,9 @@
 ### Grammatical Evolution
 - [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
 
+### Multi-Threading
+- [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
+
 ### Reactive Programming
 - [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
 
