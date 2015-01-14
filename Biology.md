@@ -34,6 +34,7 @@
 - [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 - [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 - [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
+- [ParallelGenocop.jl](https://github.com/display-none/ParallelGenocop.jl) :: Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
 - [Phylogenetics.jl](https://github.com/BioJulia/Phylogenetics.jl) :: The Julia package for analysis of evolution and phylogeny.
 - [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: can detect correlated evolution on phylogenies.
 - [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
