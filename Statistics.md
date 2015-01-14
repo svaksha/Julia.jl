@@ -10,6 +10,7 @@
 - [STATISTICS](#statistics)
    * [Bayesian](#bayesian)
    * [Gaussian](#gaussian)
+   * [Regression Analysis](#regression-analysis)
    * [Statistical Tests](#stat-tests)
    * [Valuation](#valuation)
 - [VIDEOS](#videos)
@@ -237,6 +238,9 @@
 - [GaussQuadrature.jl](https://github.com/billmclean/GaussQuadrature.jl) :: Another package that generates the points and weights of the Gauss quadrature rules.
 - [GaussianProcesses.jl](https://github.com/johnmyleswhite/GaussianProcesses.jl) :: A port of the Gaussian Processes toolkit to Julia.
 - [NaiveBayes.jl](https://github.com/johnmyleswhite/NaiveBayes.jl) :: The Gaussian Naive Bayes model in Julia.
+
+## Regression Analysis
+- [OutOfSampleBootstrap.jl](https://github.com/grayclhn/OutOfSampleBootstrap.jl) :: Regression model validation (out-of-sample) statistics.
 
 ## Statistical Tests
 - [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
