@@ -95,6 +95,7 @@
 - [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
 - [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
 - [GraphViz.jl](https://github.com/loladiro/GraphViz.jl) :: Julia bindings for the GraphViz library.
+- [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for HEALPix.
 - [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
 - [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 - [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
