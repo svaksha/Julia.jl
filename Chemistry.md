@@ -2,6 +2,7 @@
 
 - [Chemistry](#chemistry)
 - [Material Science](#material-science)
+- [Molecular Chemistry](#molecular-chemistry)
 - [Quantum Chemistry](#quantum-chemistry]
 
 ----
@@ -22,6 +23,11 @@
 # Material Science
 - [BucklingOfPipes.jl](https://github.com/goedman/BucklingOfPipes.jl) :: This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes.
 - [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course "AA432x Composite Materials Overview for Engineers" by K.Y.Lin.
+
+----
+
+# Molecular Chemistry
+- [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: Julia Molecular Simulation package.
 
 ---- 
 
