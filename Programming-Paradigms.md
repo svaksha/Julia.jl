@@ -70,7 +70,7 @@
 - [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
 - [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
 - [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
-- [TypeInheritance.jl](https://github.com/DANA-Laboratory/TypeInheritance.jl) :: Adds Inheritance to julia composite type.
+- [TypeInheritance.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) :: Adds Inheritance to julia composite type.
 - [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 - [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
