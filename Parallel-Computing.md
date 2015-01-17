@@ -53,4 +53,5 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library for julia.
 - [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's for Julia.
 - [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
+- [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
 
