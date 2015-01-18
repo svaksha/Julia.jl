@@ -142,6 +142,7 @@
 - [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
    - _CookBooks_::
    - Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
+- [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 - [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 - [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
 - [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) :: Feed-forward MLP neural network implementation.
