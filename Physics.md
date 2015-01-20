@@ -15,6 +15,7 @@
 * [HEP.jl](https://github.com/jpata/HEP.jl) :: A collection of methods useful for HEP.
 * [JLab.jl](https://github.com/amyascwk/JLab.jl) :: Some scripts used in MIT 8.13 Experimental Physics (Fall 2014).
 * [JuliBoots](https://github.com/mfpaulos/JuliBoots) :: Conformal bootstrap calculations
+* [LambertW.jl](https://github.com/robertdj/LambertW.jl) :: Lambert's W function in Julia.
 * [Mass.jl](https://github.com/ggggggggg/Mass.jl) :: An experimental frameworks for TES pulse analysis. 
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 * [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
