@@ -6,7 +6,6 @@
    - [Quantum](#quantum)
    - [Search](#search)
 - [DATA STRUCTURES](#data-structures)
-   - [YAJO](#yajo)
 - [MACHINE LEARNING](#machine-learning)
 - [MARKOV MODELS](#markov-models)
 - [NEURAL NETWORKS](#neural-networks)
@@ -47,10 +46,9 @@
 ----
 
 # DATA STRUCTURES
-## YAJO
 - [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
 
-### Arrays / Graphs / Hash tables / Matrix / Functional / Trees data structures
+### Arrays / Graphs / Hash tables / Linked List / Matrix / Functional / Trees data structures
 - [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 - [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 - [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
@@ -74,6 +72,7 @@
 - [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 - [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 - [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
+- [Lists.jl](https://github.com/adolgert/Lists.jl) :: Singly linked list and doubly linked list for Julia.
 - [LSH.jl](https://github.com/Keno/LSH.jl) :: Locality Sensitive Hashing functions.
 - [MatrixDepot.jl](https://github.com/weijianzhang/MatrixDepot.jl) :: A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
 - [Metis.jl](https://github.com/dmbates/Metis.jl) :: Julia interface to the Metis graph-partitioning algorithms.

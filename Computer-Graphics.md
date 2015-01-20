@@ -99,6 +99,7 @@
 - [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for HEALPix.
 - [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
 - [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
+- [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
 - [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
 - [ProfileView.jl](https://github.com/GlenHertz/ProfileView.jl) :: Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
 - [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
