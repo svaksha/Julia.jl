@@ -15,6 +15,7 @@
 # BIOINFORMATICS
 - [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
 - [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
+- [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
 - [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
 - [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 - [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
