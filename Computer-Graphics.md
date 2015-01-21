@@ -1,6 +1,5 @@
 **Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
-* [YAJO](#yajo)
 * [GRAPHICS](#graphics) 
    * [Games](#games)
    * [CookBooks](#cookbooks)
@@ -9,15 +8,15 @@
 
 ----
 
-# YAJO
 - [JuliaGL](https://github.com/JuliaGL) :: Julia packages for the OpenGL API and ecosystem.
-- [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl
+- [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, ...
 
 ----
 
 # GRAPHICS 
 - [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 - [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
+- [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
 - [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
 - [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
 - [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
