@@ -8,6 +8,7 @@
 ----
 
 # AstroLibs
+- [Astro.jl](https://github.com/cormullion/Astro.jl) :: Jan Meeus astronomical formulas and some time/date code in Julia.
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) :: An astrodynamics library in Julia.
 - [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) :: A Julia wrapper of CasaCore.
 - [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) :: Cosmology library for Julia.
