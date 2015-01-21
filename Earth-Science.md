@@ -24,13 +24,15 @@
 ----
 
 # GIS 
++ Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) or check for packages on the github org [JuliaGeo](https://github.com/JuliaGeo).
 - [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 - [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) :: A Julia Library for measuring approximate distance and location given latitudes and longitudes.
 - [FlowNetworks.jl](https://github.com/scheidan/FlowNetworks.jl) :: Types and function to represent hydrological flow networks.
+- [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
 - [GDAL.jl](https://github.com/wkearn/GDAL.jl) :: Geospatial Data Analysis Library Wrapper for Julia.
 - [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper for the Julia Programming language.
-- [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
 - [GIS.jl](https://github.com/wkearn/GIS.jl) :: A package for the visualization and manipulation of geographic data.
+- [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
 - [GeoIP.jl](https://github.com/johnmyleswhite/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
 - [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a "libgmt" - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
    * *Forks*
