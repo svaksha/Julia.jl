@@ -41,6 +41,7 @@
 - [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
 - [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 - [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
+- [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package. 
 - [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
 - [Meshes.jl](https://github.com/twadleigh/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
