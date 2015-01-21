@@ -42,6 +42,7 @@
 - [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 - [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 - Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
+- [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
 
 #### Resources
 * [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
