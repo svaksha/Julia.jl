@@ -215,7 +215,7 @@
 - [SVM.jl](https://github.com/JuliaStats/SVM.jl) :: Native Julia implementations of standard SVM algorithms.
 - [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
 - [VCOV.jl](https://github.com/gragusa/VCOV.jl) :: Build StatusHeteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation for Julia.
-
+- [VKL.jl](https://github.com/kzahedi/VKL.jl)
 
 ###### Resources
 * [DCStats.jl](https://github.com/johnmyleswhite/DCStats.jl) :: IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
