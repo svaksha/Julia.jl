@@ -47,7 +47,7 @@
 ----
 
 # Pharma
-* [OSDD - open source drug discovery](http://www.osdd.org/).
+* [OSDD - open source drug discovery](http://www.osdd.net/).
 
 ----
 
