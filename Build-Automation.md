@@ -21,18 +21,13 @@
 # PACKAGING
 ##### DOCS
    - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
-   - Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
+   - Official [Julia Package list](http://pkg.julialang.org/).
    - [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
-   - packages.julialang.org :: [Concept for a next-gen package listing](https://github.com/IainNZ/packages.julialang.org)
-   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
-       
+   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 - [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 - [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
-- [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
-- [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
-- [jpm](https://github.com/dirk/jpm) :: Julia package manager.
-- [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator and the [results](http://iaindunning.com/PackageEval/).
+- [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 - [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 - [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 - [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
