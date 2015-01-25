@@ -63,7 +63,6 @@
 
 
 ## Games
-- [Game.jl](https://github.com/IainNZ/Game.jl) :: is inspired by PyGame, to make 2D games easy in Julia.
 - [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 
 
