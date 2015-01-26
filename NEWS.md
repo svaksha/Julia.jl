@@ -18,24 +18,30 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 - [Reddit](http://www.reddit.com/r/Julia/)
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 
-
 ## [Julia User Groups](http://julia.meetup.com)
 * http://julialang.org/community/
+
 ### ASIA
+
 ##### India
 - [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
+
 ##### Japan
 - [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
 ###EUROPE
+
 ##### Switzerland
 - [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
+
 ##### UK
 - [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
 ### NORTH AMERICA
+
 ##### Canada
 - [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario, Canada.
+
 ##### USA
 - [Atlanta Julia Users Group](http://www.meetup.com/Atlanta-Julia-Users-Group/)
 - [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
@@ -47,7 +53,7 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 ----
 
 # DEVELOPMENT
-- [NEWS.md](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
+- [NEWS](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
 - [2014 GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
 - [ThisWeekInJulia](http://thisweekinjulia.github.io) :: A blog detailing major updates and changes to the Julia language.
 
