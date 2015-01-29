@@ -74,7 +74,6 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 - [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 - [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 - [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
-- [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: a process-oriented simulation library written in Julia.
 
 ----
 

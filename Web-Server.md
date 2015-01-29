@@ -30,7 +30,6 @@ Networking, web security, frameworks and other Web related things go here!
 - [PkgGithubRepo.jl](https://github.com/thiruk/PkgGithubRepo.jl) :: Get the Github repository information for a Julia package installed in Ubuntu.
 - [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 - [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
-- [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: is a combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 - [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 
 #### YAJO - JuliaWeb
