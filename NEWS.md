@@ -3,6 +3,7 @@ This section contains links to Events (un)conferences, talks, slides/videos and 
 - [COMMUNITY](#community)
    - [Forums](#forums)
    - [Julia User Groups](#julia-user-groups)
+- [CONFERENCES](#conferences)
 - [DEVELOPMENT](#development)
    - [GSoC](#gsoc)
 - [MEDIA](#media)
@@ -49,6 +50,14 @@ Join the [http://julialang.org/community/](mailing list), or head over to [#juli
 - [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
 - [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
 - [Triangle Julia Users, Raleigh, NC](http://www.meetup.com/Triangle-Julia-Users/)
+
+----
+
+# CONFERENCES
+
+## JuliaCon
++ [JuliaCon 2015](http://juliacon.org/) will be held from 24-28/June/2015 at the MIT Stata Center in Cambridge, Massachusetts, USA.
++ 26-27/06/2014 [JuliaCon](http://juliacon.org/), Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
 
 ----
 

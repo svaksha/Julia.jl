@@ -1,17 +1,12 @@
-**All the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...**
+**Useful learning resources and all the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...**
 
 - [BOOKS](#books)
 - [BLOGS](#blogs)
 - [CHEATSHEETS](#cheatsheets)
-- [CONFERENCES](#conferences)
-   - [JuliaCon](#juliacon)
-   - [ACM SPLASH](#acm-splash)
-   - [SciPy](#scipy)
-   - [StrangeLoop](#strangeloop)      
 - [COOKBOOKS](#cookbooks)
 - [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 - [LISTS](#lists)
-- [MOOC](#mooc)
+- [SLIDES](#slides)
 - [TUTORIALS](#tutorials) 
 - [VOLUNTEER](#volunteer)
 
@@ -43,8 +38,10 @@
 - Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
 - [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch.
 - [Tabular Data I/O in Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch.
+- [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
+- [Julia at EuroSciPy 2014](https://github.com/stevengj/Julia-EuroSciPy14).   
 
-**{NB: Language comparison goes here, but benchmarks go in the "Benchmarks-Optimization.md" page.}**
+**{NB: Language comparisons and general blogs are listed here, but blogs about benchmarking and Optimization will be listed under the relevant category page.}**
 - [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 - [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
 
@@ -59,46 +56,6 @@
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 - [Julia matrix cheatsheet](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia)
 - [Julia cheatsheet](http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
-
-----
-
-# CONFERENCES
-
-## EuroScipy
-- EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
-   **Blogs by JuliaCon attendees**
-   - [Julia-EuroSciPy14](https://github.com/stevengj/Julia-EuroSciPy14) :: Julia at EuroSciPy 2014.   
-
-## JuliaCon
-- 26-27/06/2014 [JuliaCon](http://juliacon.org/), Chicago, Illinois. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
-   **Public Slides**
-   - [Presentations for JuliaCon](https://github.com/JuliaCon/presentations)
-   **Blogs by JuliaCon attendees**
-   - [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
-   **Videos** 
-   - [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
-   - [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
-   - [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
-
-   
-## ACM SPLASH 
-- 2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
-
-## StrangeLoop
-*2013*
-- Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
-- Strange Loop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
-
-## SciPy
-*2014*
-- July 6-12 :: [SciPy](https://conference.scipy.org/scipy2014/) had a Julia tutorial on July 7th in Austin, Texas by @dpsanders. The [4-hour Julia tutorial video](https://www.youtube.com/watch?v=vWkgEddb4-A) and the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia) are online.
-
-
-#### LUG Talks, Slides.
-- [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
-- [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 2/27/2014.
-- [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
-- Slides from a [data science meetup talk by Galen O'Neil on Wednesday Nov 5th, in Broomfield, CO](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language)
 
 ----
 
@@ -136,11 +93,17 @@
 
 # LISTS
 - [A curated list of awesome awesomeness - scroll down to the Julia section](https://github.com/bayandin/awesome-awesomeness)
+- [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
 
 ----
-
-# MOOC
-- [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
+ 
+# SLIDES
++ [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
+- [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
+- [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 27/Feb/2014.
+- [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
+- Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
++ 2013 StrangeLoop :: Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
 
 ----
 
@@ -153,6 +116,17 @@
 - [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
 
 ----
+
+# VIDEOS
++ EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
++ JuliaCon-2014 ::
+   - [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
+   - [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
+   - [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
++ SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
++ 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
++ ACM-SPLASH-2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
+
 
 # VOLUNTEER
 **To contribute to the Julia language, take a look at these links to open BUGS on Github**

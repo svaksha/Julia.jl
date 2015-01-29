@@ -6,12 +6,14 @@
    - [Quantum](#quantum)
    - [Search](#search)
 - [DATA STRUCTURES](#data-structures)
+   + [Org-JuliaSparse](#org-juliasparse)
 - [MACHINE LEARNING](#machine-learning)
 - [MARKOV MODELS](#markov-models)
 - [NEURAL NETWORKS](#neural-networks)
 - [NLP](#nlp)
 - [SPEECH RECOGNITION](#speech-recognition)
    - [DSP](#dsp)
+      + [Org-JuliaDSP](#org-dsp)
        
 ----
 
@@ -47,7 +49,9 @@
 ----
 
 # DATA STRUCTURES
-- [JuliaSparse](https://github.com/JuliaSparse) for development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
+
+### Org-[JuliaSparse](https://github.com/JuliaSparse) 
+__For thedevelopment of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
 
 ### Arrays / Graphs / Hash tables / Linked List / Matrix / Functional / Trees data structures
 - [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
@@ -68,7 +72,6 @@
 - [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids for the Julia language.
 - [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 - [InfoTheory.jl](https://github.com/robertfeldt/InfoTheory.jl) :: Estimating information theoretic measures (entropy, mutual information etc) from data. 
-- [InverseService](https://github.com/IainNZ/InverseService) :: Matrix Inverse as a Service.
 - [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 - [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
 - [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
@@ -152,7 +155,6 @@
 - [NeuralNets.jl](https://github.com/anj1/NeuralNets.jl) :: Generic artificial neural networks in Julia.
 - [neuralnetwork.jl](https://github.com/tomaskrehlik/neuralnetwork.jl) :: is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class. 
 + [NeuralNetworks.jl](https://github.com/soumith/NeuralNetworks.jl) :: Various functions for Neural Networks implemented in Julia.
-+ [REIYFramework.jl](https://github.com/kzahedi/REIYFramework.jl) :: Framework for the artificial evolution of recurrent neural networks with YARS in Julia.
 + [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Random Neural Network.
 + [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
 
@@ -190,16 +192,17 @@
 - [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
 
 
-### DSP 
+## DSP 
 **Digital Signal Processing**
-- [JuliaDSP](https://github.com/JuliaDSP) group on Github.
 - [APES.jl](https://github.com/codles/APES.jl) :: Amplitude and Phase Estimation of a Sinusoid.
 - [ChaosCommunications.jl](https://github.com/scidom/ChaosCommunications.jl) :: Simulation of chaos-based communication systems in Julia.
 - [CompressedSensing](https://github.com/dahlend/CompressedSensing) :: basic compressed sensing algorithms available via the official package list with [documentation](http://compressedsensing.readthedocs.org/en/latest/).
-- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :: The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
 - [KDSP.jl](https://github.com/kofron/KDSP.jl) :: Yet another implementation of common DSP routines in Julia.
 - [KernelRecursiveLeastSquares.jl](https://github.com/the-moliver/KernelRecursiveLeastSquares.jl) :: Julia implementation of Kernel Recursive Least Squares algorithm.
 - [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 - [wavechaos](https://github.com/amyascwk/wavechaos) 
 - [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
+
+### Org-[JuliaDSP](https://github.com/JuliaDSP)
+- [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :: The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
 
