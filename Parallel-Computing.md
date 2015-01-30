@@ -3,7 +3,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
 * [GRID](#grid) 
 * [OS](#os)
-   * [JuliaGPU](#juliagpu)
+   * [Org-JuliaGPU](#org-juliagpu)
 
 ----
 
@@ -45,8 +45,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 - Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
-### JuliaGPU
-- [JuliaGPU](https://github.com/JuliaGPU) organization on GitHub.
+### Org-[JuliaGPU](https://github.com/JuliaGPU)
 - [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API for Julia.
 - [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Julia wrapper for CUDA runtime API.
 - [CUFFT.jl](https://github.com/timholy/CUFFT.jl) :: Wrapper for the CUDA FFT library.

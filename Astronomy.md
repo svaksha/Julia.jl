@@ -1,19 +1,14 @@
-- [AstroLibs](#astrolibs)
-- [Astronomical Imaging](#astronomicalimaging)
++ [AstroLibs](#astrolibs)
++ [Org-JuliaAstro](#org-juliaastro)
+   + [Astronomical Imaging](#astronomicalimaging)
  
-----
-
-* [JuliaAstro group on Github](https://JuliaAstro.github.io)
-
 ----
 
 # AstroLibs
 - [Astro.jl](https://github.com/cormullion/Astro.jl) :: Jan Meeus astronomical formulas and some time/date code in Julia.
 - [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) :: An astrodynamics library in Julia.
 - [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) :: A Julia wrapper of CasaCore.
-- [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) :: Cosmology library for Julia.
-- [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) :: Models for the interstellar extinction due to dust.
-- [ERFA.jl](https://github.com/JuliaAstro/ERFA.jl) :: Julia wrapper for liberfa.
+- [Celeste.jl](https://github.com/jeff-regier/Celeste.jl) :: Scalable inference for a generative model of astronomical images. 
 - [Jadex.jl](https://github.com/autocorr/Jadex.jl) :: Julia port of RADEX.
 - [JPLEphemeris.jl](https://github.com/helgee/JPLEphemeris.jl) :: The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 - [julia-astro](https://github.com/kbarbary/julia-astro) :: astronomy-related Julia code: skycoords.jl, dustmap.jl
@@ -25,6 +20,11 @@
 
 ----
 
-# Astronomical Imaging
+# Org-[JuliaAstro](https://JuliaAstro.github.io)
+- [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) :: Cosmology library for Julia.
+- [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) :: Models for the interstellar extinction due to dust.
+- [ERFA.jl](https://github.com/JuliaAstro/ERFA.jl) :: Julia wrapper for liberfa.
+
+### Astronomical Imaging
 - [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
 

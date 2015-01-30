@@ -5,11 +5,9 @@
    * [CookBooks](#cookbooks)
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
-
-----
-
-- [JuliaGL](https://github.com/JuliaGL) :: Julia packages for the OpenGL API and ecosystem.
-- [JuliaGraphics](https://www.github.com/JuliaGraphics) an umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, ...
+   * [Org-JuliaLang](#org-julialang)
+* [Org-JuliaGL](#org-juliagl)
+* [Org-JuliaGraphics](#org-juliagraphics) 
 
 ----
 
@@ -23,7 +21,6 @@
 - [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 - [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
 - [GLGraphics.jl](https://github.com/SimonDanisch/GLGraphics.jl) :: Advanced 3D and 2D graphics for Julia.
-- [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
 - [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
 - [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
 - [GLUtil.jl](https://github.com/SimonDanisch/GLUtil.jl) :: Utility package for ModernGL by @SimonDanisch.
@@ -78,8 +75,6 @@
 **Statistical Charts, Graphs, Plots, Histograms, Maps**
 - [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
 - [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
-- [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
-- [Color.jl](https://github.com/JuliaLang/Color.jl)
 - [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl
 - [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 - [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
@@ -118,3 +113,19 @@
 ### API 
 - [plot.ly](https://plot.ly/api/julia/) :: Plotly Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 - [YT.jl](https://github.com/jzuhone/YT.jl) :: A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
+
+### Org-JuliaLang
+- [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
+- [Color.jl](https://github.com/JuliaLang/Color.jl)
+
+----
+
+# Org-[JuliaGL](https://github.com/JuliaGL)
+Julia packages for the OpenGL API and ecosystem.
+- [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
+
+----
+
+# Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
+An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, ...
+

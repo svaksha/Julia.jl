@@ -3,15 +3,18 @@
 * [MATH](#math)
    * [Algebra](#algebra)
       + [Orthogonal Polynomials](#orthogonal-polynomials) 
+      + [Symbolic Computation](#symbolic-computation)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
       + [Ordinary Differential Equations](#ordinary-differential-equations)
+         + [Org-JuliaLang](#org-julialang)
          + [Org-JuliaDiff](#org-juliadiff)
    * [Discrete Math](#discrete-math)
    * [Geometry](#geometry)
    * [Numerical Analysis](#numerical-analysis)
       + [Numerical Linear Algebra](#numerical-linear-algebra)
 * [PUZZLES](#puzzles)
+
 
 ----
 
@@ -70,15 +73,12 @@
 - [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
 - [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
 - [quaternion.jl](https://github.com/peakbook/quaternion.jl) :: Quaternion for Julia Language.
-- [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
 - [Shannon.jl](https://github.com/kzahedi/Shannon.jl) :: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 - [SimilarityMetrics.jl](https://github.com/johnmyleswhite/SimilarityMetrics.jl) :: Standard similarity metrics in Julia.
 - [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
-- [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
 - [Sobol.jl](https://github.com/stevengj/Sobol.jl) :: is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates "quasi-random" sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 - [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 - [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: is a Finite element surface mesh manipulation library to work with polygon-surface-meshes.
-- [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 - [SymPy.jl](https://github.com/jverzani/SymPy.jl) :: Julia interface to SymPy via PyCall.
 - [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
 - [TSne.jl](https://github.com/lejon/TSne.jl) :: Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique. Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
@@ -108,6 +108,10 @@
 - [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) :: Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 - [Polynomial.jl](https://github.com/vtjnash/Polynomial.jl) :: Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 - [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
+
+### [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
++ [SJulia](https://github.com/jlapeyre/SJulia) :: A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
+- [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 
 ----
 
@@ -149,12 +153,17 @@
 - [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
 + [JFinEALE.jl](https://github.com/PetrKryslUCSD/JFinEALE.jl) :: A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
 + [Makhno.jl](https://github.com/pjabardo/Makhno.jl) :: Spectral element code implemented in Julia.
-+ [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
 + [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
-+ [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
+
 
 ####### Learning Resources
 + [FinealeBook.jl](https://github.com/goedman/FinealeBook.jl) :: Trying to understand Petr Krysl's FinEALE book.
+
+#### Org-JuliaLang
++ [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
+- [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
+- [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
++ [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 #### Org-[JuliaDiff](http://www.juliadiff.org/)
 + [JuliaDiff on Github](https://github.com/JuliaDiff/)

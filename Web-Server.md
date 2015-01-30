@@ -33,8 +33,7 @@ Networking, web security, frameworks and other Web related things go here!
 - [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
 - [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 
-### Org-JuliaWeb 
-- [JuliaWeb](https://github.com/JuliaWeb)
+### Org-[JuliaWeb](https://github.com/JuliaWeb)
    - [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
    - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) :: A WebSockets server library for Julia.
    - [HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl) :: Provides types and helper functions for dealing with the HTTP protocol in Julia.

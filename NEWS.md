@@ -1,4 +1,4 @@
-This section contains links to Events (un)conferences, talks, slides/videos and other NEWS...
+This section contains NEWS links for community and development, including events, (un)conferences, forums and meetup groups, etc..
 
 - [COMMUNITY](#community)
    - [Forums](#forums)

@@ -3,6 +3,7 @@
 - [GEOSTATISTICS](#geostatistics)
 - [GIS](#gis)
 - [METEOROLOGY](#meteorology)
+- [Org-JuliaGeo](#org-juliageo)
 
 ----
 
@@ -42,10 +43,6 @@
 + [Turf.jl](https://github.com/yeesian/Turf.jl) :: A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 + [Tyndall.jl](https://github.com/jsbj/Tyndall.jl) :: Radiative transfer in Julia.
 
-# Org-[JuliaGeo](https://github.com/JuliaGeo)
-Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) and view their  packages on the github org .
-+ [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
-
 ----
 
 # METEOROLOGY
@@ -55,4 +52,10 @@ Ask questions and discuss Geo-related Julia packages on the [geosciences mailing
 - [Met_Plots_Models.jl](https://github.com/zhujinxuan/Met_Plots_Models.jl) :: A simple wrapper of matlibplot for a meteorologist.
 - [Scriabin.jl](https://github.com/jsbj/Scriabin.jl) :: Radiative transfer in Julia.
 - [TTCal.jl](https://github.com/mweastwood/TTCal.jl) :: A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
+
+----
+
+# Org-[JuliaGeo](https://github.com/JuliaGeo)
+Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) and view their  packages on the github org .
++ [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
 
