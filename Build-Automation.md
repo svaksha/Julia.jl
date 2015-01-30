@@ -4,9 +4,10 @@
 - [PACKAGING](#packaging)
 - [BACKPORTS](#backports)
 - [BUILD AUTOMATION](#build-automation)
-   - [DistrOS](#distros)
+   + [DistrOS](#distros)
 - [CONTINUOUS INTEGRATION](#continuous-integration)
-
+   + [Org-Julia-CI](#org-julia-ci)
+   
 ----
 
 # INSTALL 
@@ -22,19 +23,23 @@
 - [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    
-#### Package/Infrastructure management tools and Documentation 
+### Package/Infrastructure management tools and Documentation 
    - Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
    - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
    - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
    - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
        
-- [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
-- [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
-- [Julep](https://gist.github.com/IainNZ/6086173) :: A Julep for package requirements and quality standards.
-- [julia_package_system](https://github.com/johnmyleswhite/julia_package_system) :: A package system for Julia.
-- [jpm](https://github.com/dirk/jpm) :: Julia package manager.
-- [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator and the [results](http://iaindunning.com/PackageEval/).
+##### DOCS
+   - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+   - Official [Julia Package list](http://pkg.julialang.org/).
+   - [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
+   - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
+   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
+
++ [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
++ [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
++ [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 - [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 - [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 - [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
@@ -44,9 +49,9 @@
 - [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
 - [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 
-##### Debian-Ubuntu
-- [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
-- [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages [nightlies](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases), consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia [PPA releases](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases) if you are having build problems with Julia on Debian-Ubuntu systems. In a terminal, type the following commands:
+#### Debian-Ubuntu
++ [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
++ [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages [nightlies](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases), consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia [PPA releases](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases) if you are having build problems with Julia on Debian-Ubuntu systems. In a terminal, type the following commands:
 
 ```
     sudo add-apt-repository ppa:staticfloat/juliareleases
@@ -58,7 +63,7 @@
 
 __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch from github, so if you are not interested in the unstable bleeding-edge version of JULIA, stick to the stable release versions that are usually tagged as `vX.X` branches.
 
-##### Fedora-RHEL
+#### Fedora-RHEL
 - Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
 
 ----
@@ -78,8 +83,10 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 ----
 
 # CONTINUOUS INTEGRATION
-- [Julia-CI group](https://github.com/julia-ci) on Github.
+
 - Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
+
+## Org-[Julia-CI](https://github.com/julia-ci)
 - [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 
 
