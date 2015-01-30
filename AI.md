@@ -162,6 +162,7 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 
 # NLP 
 - [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
+- [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser written in Julia.
 - [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 - [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 - [Jieba.jl](https://github.com/qinwf/Jieba.jl) ::  A package for Chinese text segmentation, keyword extraction and POS tagging.
