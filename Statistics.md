@@ -148,7 +148,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [j
 - [Civecm.jl](https://github.com/andreasnoackjensen/Civecm.jl) :: Cointegration in Vector Error Correction Models in Julia.
 - [ConditionalRandomFields.jl](https://github.com/jperla/ConditionalRandomFields.jl) :: Scalable Conditional Random Fields code for Julia.
 - [ConjugatePriors.jl](https://github.com/johnmyleswhite/ConjugatePriors.jl) :: Closed form expressions for conjugate priors in Julia.
-- [CRBM.jl](https://github.com/kzahedi/CRBM.jl) :: Condition RBMs package. 
+- [CRBM.jl](https://github.com/kzahedi/CRBM.jl) :: Conditional RBMs package. 
 - [CrossDecomposition.jl](https://github.com/simonster/CrossDecomposition.jl) :: Canonical-Correlation Analysis (CCA).
 - [CTDE.jl](https://github.com/adolgert/CTDE.jl) :: Continuous time, discrete event system in Julia.
 - [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) :: Simple least squares and curve fitting functions.
