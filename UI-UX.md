@@ -15,6 +15,7 @@
 
 # GUI 
 **Widget toolkits**
+- [Canvas.jl](https://github.com/shashi/Canvas.jl) :: Composable UIs in Julia.
 - [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
 - [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: is a toolkit for viewing Julia packages, modules, etc....
 - [PySide.jl](https://github.com/jverzani/PySide.jl) :: is a julia interface for accessing Qt via PyCall and PySide.

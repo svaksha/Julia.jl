@@ -1,6 +1,7 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, ...__
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
+   + [Org-JuliaParallel](#org-juliaparallel)
 * [GRID](#grid) 
 * [OS](#os)
    * [Org-JuliaGPU](#org-juliagpu)
@@ -28,6 +29,9 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
    * Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
    * An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
+
+## Org-[JuliaParallel](https://JuliaParallel.github.io)
++ [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) :: Support for different clustering technologies.
 
 ----
 
