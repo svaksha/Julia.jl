@@ -1,4 +1,4 @@
-*User Interface, GUI, etc..*
+**User Interface, GUI, etc..**
 
 * [GeSHI](#geshi)
 * [GUI](#gui)

@@ -20,11 +20,11 @@ Networking, web security, frameworks and other Web related things go here!
 ## Template Engines
 - [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
 
-## WIDE
+## [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 - [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
 ## Web
-- [ConfParser.jl](https://github.com/dotslashb/ConfParser.jl) :: Julia package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
+- [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 - [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 - [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
 - [Laurence.jl](https://github.com/mneudert/Laurence.jl)
