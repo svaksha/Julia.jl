@@ -8,7 +8,6 @@
 - [LISTS](#lists)
 - [SLIDES](#slides)
 - [TUTORIALS](#tutorials) 
-- [VOLUNTEER](#volunteer)
 
 ----
 
@@ -127,10 +126,5 @@
 + 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
 + ACM-SPLASH-2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
 
-
-# VOLUNTEER
-**To contribute to the Julia language, take a look at these links to open BUGS on Github**
-* [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
-* The [up for grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_.
 
 
