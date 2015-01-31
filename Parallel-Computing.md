@@ -1,10 +1,19 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, ...__
 
+* [ARM-CUDA](#arm-cuda)
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
-   + [Org-JuliaParallel](#org-juliaparallel)
 * [GRID](#grid) 
-* [OS](#os)
-   * [Org-JuliaGPU](#org-juliagpu)
+* [Org-JuliaGPU](#org-juliagpu)
++ [Org-JuliaParallel](#org-juliaparallel)
++ [Org-JuliaLang](#org-julialang)
+
+----
+
+# ARM-CUDA
+- Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
+- [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
+- [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
+- Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
 ----
 
@@ -15,7 +24,6 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
 - [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
 - [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
-- [HDFS.jl](https://github.com/tanmaykm/HDFS.jl) :: HDFS interface for Julia as a wrapper over Hadoop HDFS library.
 - [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 - [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 - [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
@@ -30,9 +38,6 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
    * Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
    * An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
 
-## Org-[JuliaParallel](https://JuliaParallel.github.io)
-+ [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) :: Support for different clustering technologies.
-
 ----
 
 # GRID
@@ -40,21 +45,28 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ----
 
-# OS
-### ARM, CUDA, GPU, MIPS
-- Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
-- [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
-- [MPI.jl](https://github.com/lcw/MPI.jl) :: A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
-- [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
-- [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: is a low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
-- Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
-
-### Org-[JuliaGPU](https://github.com/JuliaGPU)
-- [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API for Julia.
-- [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Julia wrapper for CUDA runtime API.
+# Org-[JuliaGPU](https://github.com/JuliaGPU)
+- [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
+- [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Wrapper for CUDA runtime API.
 - [CUFFT.jl](https://github.com/timholy/CUFFT.jl) :: Wrapper for the CUDA FFT library.
-- [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library for julia.
-- [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's for Julia.
+- [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
+- [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's.
 - [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
 - [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
+
+----
+
+# Org-[JuliaLang](https://github.com/JuliaLang)
+- [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
+
+----
+
+# Org-[JuliaParallel](https://JuliaParallel.github.io)
++ [Blocks.jl](https://github.com/tanmaykm/Blocks.jl) :: A framework to represent chunks of entities and parallel methods on them.
++ [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) :: Support for different clustering technologies.
++ [HDFS.jl](https://github.com/JuliaParallel/HDFS.jl) :: An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
++ [MessageUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) :: A collection of utilities for messaging.
++ [MPI.jl](https://github.com/JuliaParallel/MPI.jl) :: A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
++ [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) :: Scalable Linear Algebra PACKage.
+
 
