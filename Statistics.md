@@ -147,6 +147,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 - [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
 - [CauseMap.jl](https://github.com/cyrusmaher/CauseMap.jl) :: An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia.
 - [Civecm.jl](https://github.com/andreasnoackjensen/Civecm.jl) :: Cointegration in Vector Error Correction Models in Julia.
+- [Church.jl](https://github.com/LaurenceA/Church.jl) :: Perform MCMC inference in complex, and simple, probabilistic models.
 - [ConditionalRandomFields.jl](https://github.com/jperla/ConditionalRandomFields.jl) :: Scalable Conditional Random Fields code for Julia.
 - [ConjugatePriors.jl](https://github.com/johnmyleswhite/ConjugatePriors.jl) :: Closed form expressions for conjugate priors in Julia.
 - [CRBM.jl](https://github.com/kzahedi/CRBM.jl) :: Conditional RBMs package. 
