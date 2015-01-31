@@ -27,6 +27,7 @@
 - [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 - [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
 - [HDF5.jl](https://github.com/timholy/HDF5.jl)
+- [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 - [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 - [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
 - [Json2.jl](https://github.com/ddolgi/Json2.jl)  :: JSON encoder/decoder on Julia. 
