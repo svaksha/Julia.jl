@@ -5,6 +5,7 @@
    - [Mirrors](#mirrors)
 - [CONTRIBUTE](#contribute)
    - [Guidelines](#guidelines)
+   - [BugReport-PullRequest](#bugreport-pullrequest)
 
 ----
 
@@ -53,16 +54,17 @@ For Base packages, check if the package you seek is listed in their [built-in pa
 
 
 # CONTRIBUTE
+[Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
+
 ## Guidelines
 The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
++ References :
+   + https://github.com/JuliaLang/julialang.github.com/issues/200
+   + https://github.com/JuliaLang/julialang.github.com/issues/194
 
-References :
-+ https://github.com/JuliaLang/julialang.github.com/issues/200
-+ https://github.com/JuliaLang/julialang.github.com/issues/194
-
-#### To submit a [PR](https://github.com/svaksha/Julia.jl/pulls)
+## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
-2. For broken links or outdated information, submit a bug report, or make the necessary changes and submit a PR. Please submit separate PR's for each link or change added.
+2. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 3. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
-4. For those unable to use git, create a github account, fork the `Julia.jl` repo and edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+4. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
