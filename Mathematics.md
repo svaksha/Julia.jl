@@ -101,8 +101,6 @@
 - [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
-###### Learning Resources
-+ [Math55](https://github.com/Keno/Math55) :: Keno's notes from Harvard's [Math 55](http://en.wikipedia.org/wiki/Math_55) Honors course.
 
 ### Orthogonal Polynomials
 - [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.

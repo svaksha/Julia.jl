@@ -120,7 +120,6 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 - [MDP.jl](https://github.com/adityam/MDP.jl) (by @adityam) :: Markov Decision Processes algorithms for Julia.
 - [MDP.jl](https://github.com/khadiwala/MDP.jl) (by @khadiwala) :: Markov Decision Processes in Julia.
-- [MLBase.jl](https://github.com/lindahua/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
 - [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe. 
    - New tutorial on [unsupervised pre-training with stacked denoising auto-encoders](http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html).
    - An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb). 

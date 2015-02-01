@@ -44,7 +44,7 @@
 - [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 - [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 - [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
-- [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) :: Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots.
+- [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) :: Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots. Short [tutorial](http://nbviewer.ipython.org/github/sisl/PGFPlots.jl/blob/master/doc/PGFPlots.ipynb) notebook.
 - [PolygonClipping.jl](https://github.com/sjkelly/PolygonClipping.jl) :: A Julia package for polygon clipping.
 - [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 - [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
