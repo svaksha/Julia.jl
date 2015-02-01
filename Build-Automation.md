@@ -88,4 +88,6 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 ## Org-[Julia-CI](https://github.com/julia-ci)
 - [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 
+### Git-Hooks
++ [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 

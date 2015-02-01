@@ -35,9 +35,10 @@
 
 
 ## Git API 
-- [MechaJulia](https://github.com/MechaJulia/MechaJulia] is a little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
+it.
 - [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl) :: A Julia package for interfacing with the GitHub API (v3).
 - [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
+- [MechaJulia](https://github.com/MechaJulia/MechaJulia] :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of 
 - [Octokit.jl](https://github.com/loladiro/Octokit.jl) :: Julia package to access the GitHub API.
 
 ----
