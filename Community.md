@@ -20,7 +20,7 @@ The Julia [community](http://julialang.org/community/) is distributed over vario
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 
 #### HowTo Contribute
-To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page and take a look at these links to open BUGS on Github:
+To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page, the sections on [continuous integration](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#continuous-integration) and [git hooks](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#git-hooks) and the links to (open) BUGS on Github:
 + [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
 + The [up for grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_.
 + [Bug #9493](https://github.com/JuliaLang/julia/issues/9493) for more comprehensive test coverage. Check out the [coveralls](https://coveralls.io/r/timholy/julia) page for a quickview of ToDo tests.

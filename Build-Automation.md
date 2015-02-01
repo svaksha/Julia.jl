@@ -7,7 +7,8 @@
    + [DistrOS](#distros)
 - [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Org-Julia-CI](#org-julia-ci)
-   
+   + [Git-Hooks](#git-hooks)
+
 ----
 
 # INSTALL 
@@ -83,10 +84,10 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 ----
 
 # CONTINUOUS INTEGRATION
-- Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
++ Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
 
 ## Org-[Julia-CI](https://github.com/julia-ci)
-- [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
++ [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 
 ### Git-Hooks
 + [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
