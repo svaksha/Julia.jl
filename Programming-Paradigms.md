@@ -15,7 +15,7 @@
 **Libraries for Data serialization and File formats.**
 - [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 - [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
-- [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jl)  Read Bruker data files.
+- [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jwl)  Read Bruker data files.
 - [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
 - [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
 - [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.

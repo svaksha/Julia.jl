@@ -7,7 +7,7 @@ A page listing community and development links, including events, (un)conference
    - [Julia User Groups](#julia-user-groups)
 - [NEWS](#news)
    - [Blogs](#blogs)
-   - [Media]](#media)
+   - [Media](#media)
    - [Yellow Press](#yellow-press)
 
 ----
