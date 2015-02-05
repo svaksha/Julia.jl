@@ -53,8 +53,8 @@
 - [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
 - [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 - [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
-- [Julia matrix cheatsheet](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia)
 - [Julia cheatsheet](http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
+- [Numeric (Julia) matrix manipulation](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia) :: The cheat sheet for MATLAB, Python NumPy, R, and Julia.
 
 ----
 
