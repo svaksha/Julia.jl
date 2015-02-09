@@ -77,6 +77,7 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 - [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 - [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
+- [LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl) :: An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
 - [Lists.jl](https://github.com/adolgert/Lists.jl) :: Singly linked list and doubly linked list for Julia.
 - [LSH.jl](https://github.com/Keno/LSH.jl) :: Locality Sensitive Hashing functions.
 - [MatrixDepot.jl](https://github.com/weijianzhang/MatrixDepot.jl) :: A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
