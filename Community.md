@@ -42,10 +42,13 @@ __The official Julia conference and local meetup groups located around the world
 ## [Julia User Groups](http://julia.meetup.com)
 
 ### Asia-INDIA
-- [Bangalore Julia User Group](http://www.meetup.com/Bangalore-JULIA-User-Group/)
+- [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
 
 ### Asia-JAPAN
 - [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
+
+### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
++ [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
 
 ### Europe-SWITZERLAND
 - [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
@@ -54,15 +57,36 @@ __The official Julia conference and local meetup groups located around the world
 - [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
 ### NorthAmerica-CANADA
-- [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario, Canada.
+- [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
+- [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
+
+### NorthAmerica-MEXICO
++ [México City](http://www.meetup.com/julialang-mx/), Mexico.
 
 ### NorthAmerica-USA
-- [Atlanta Julia Users Group](http://www.meetup.com/Atlanta-Julia-Users-Group/)
-- [Bay Area Julia Users](http://www.meetup.com/Bay-Area-Julia-Users/)
+**CA**
++ [Bay Area](http://www.meetup.com/Bay-Area-Julia-Users/) Julia Users Group.
++ [Southern California](http://www.meetup.com/Southern-California-Julia-Users/) JUG.
+
+**GA**
+- [Atlanta](http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group.
+
+**IL**
+- [Chicago](http://www.meetup.com/JuliaChicago/) Julia Meetup group.
+
+**MA**
 - [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
-- [Chicago Julia Meetup](http://www.meetup.com/JuliaChicago/)
-- [NYC Julia User Group](http://www.meetup.com/NYC-Julia-User-Group/)
-- [Triangle Julia Users, Raleigh, NC](http://www.meetup.com/Triangle-Julia-Users/)
+
+**NC**
+- [Triangle Julia Users](http://www.meetup.com/Triangle-Julia-Users/), Raleigh.
+
+**NY**
+- [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
+
+### SouthAmerica-BRAZIL
++ [Campinas]http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
++ [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
++ [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
 
 ----
 
