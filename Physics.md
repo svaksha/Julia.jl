@@ -60,6 +60,6 @@
 
 # Statistical Mechanics
 * [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
-* [Boltzmann.jl](https://github.com/faithlessfriend/Boltzmann.jl) :: Restricted Bolzmann Machines in Julia.
+* [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann machines and deep belief networks.
 
 
