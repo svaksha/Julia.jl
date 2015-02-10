@@ -11,6 +11,7 @@
          + [Org-JuliaDiff](#org-juliadiff)
    * [Discrete Math](#discrete-math)
    * [Geometry](#geometry)
+         + [Org-JuliaGeometry](#juliageometry)
    * [Numerical Analysis](#numerical-analysis)
       + [Numerical Linear Algebra](#numerical-linear-algebra)
 * [PUZZLES](#puzzles)
@@ -200,6 +201,10 @@
 - [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 - [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
+
+#### Org-[JuliaGeometry](https://github.com/JuliaGeometry)
++ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
 
 ----
 
