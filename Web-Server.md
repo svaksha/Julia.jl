@@ -1,6 +1,7 @@
 Networking, web security, frameworks and other Web related things go here!
 
 * [FRAMEWORKS](#frameworks)
+   * [RoR](#ror)
 * [WWW](#www)
    * [Template Engines](#template-engines)
    * [WIDE](#wide)
@@ -12,6 +13,9 @@ Networking, web security, frameworks and other Web related things go here!
 
 # FRAMEWORKS
 * [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
+
+### RoR
+* [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) :: An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
 
 ----
 
