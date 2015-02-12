@@ -72,6 +72,7 @@
 # OPERATIONS RESEARCH 
 - [CGRASP.jl](https://github.com/tautologico/CGRASP.jl) :: Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia.
 - [CSDP.jl](https://github.com/joehuchette/CSDP.jl) :: Julia wrapper for the CSDP semidefinite programming solver.
+- [CutPools.jl](https://github.com/joehuchette/CutPools.jl) :: Pools of cutting planes for JuMP models.
 - [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
 - [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
   * _JuMP DOCS_::
