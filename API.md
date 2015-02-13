@@ -29,12 +29,12 @@
 - [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
 
 
-## Math
+### Math
 - [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
 - [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
 
-## Git API 
+### Git API 
 it.
 - [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl) :: A Julia package for interfacing with the GitHub API (v3).
 - [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
@@ -44,9 +44,13 @@ it.
 ----
 
 # LANGUAGES
+API's for programming languages and general server backend purposes
 ## C
 - [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
 - [julia-ffi](https://github.com/o-jasper/julia-ffi) :: Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
+
+###### Resources
++ Official documentation for [calling C code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
 
 ## C++ 
 - [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
@@ -60,7 +64,8 @@ it.
 - [FortranIO.jl](https://github.com/rephorm/FortranIO.jl) :: Input/Output of fortran unformatted binary files.
 
 ###### Resources
-- Notes on [Calling Fortran from Python, Julia and Matlab](http://maurow.bitbucket.org/notes/calling_fortran_from_misc.html).
++ Official documentation for [calling Fortran code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
++ Notes on [Calling Fortran from Python, Julia and Matlab](http://maurow.bitbucket.org/notes/calling_fortran_from_misc.html).
 
 ## Go
 - [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) :: Support for writing bundle commands for the Go programming language in Julia.
@@ -86,7 +91,7 @@ it.
 - [ObjectiveC.jl](https://github.com/one-more-minute/ObjectiveC.jl) :: A Julia module for Objective-C.
 
 ## Perl
-- [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) :: Minimal Implementation of Perl's File::Find in Julia.
+- [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) :: Minimal Implementation of Perl's `File::Find` in Julia.
 
 ## Processing
 - [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
