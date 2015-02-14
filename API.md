@@ -53,6 +53,7 @@ API's for programming languages and general server backend purposes
 + Official documentation for [calling C code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
 
 ## C++ 
+- [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
 - [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
 - [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Interface.
 
