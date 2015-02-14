@@ -78,7 +78,7 @@
 - [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
 - [echarts](https://github.com/ecomfe/echarts)
 - [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
-- [Gadfly.jl](https://github.com/dcjones/Gadfly.jl) :: Gadfly is a statistical graphics plotting and data visualization system written in Julia. 
+- [Gadfly.jl](http://gadflyjl.org/) :: [Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 - [Gaston.jl](https://github.com/mbaz/Gaston.jl) :: A julia front-end for gnuplot.

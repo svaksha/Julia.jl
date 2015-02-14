@@ -98,10 +98,11 @@
  
 # SLIDES
 + [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
-- [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
-- [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 27/Feb/2014.
-- [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
-- Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
++ [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
++ [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 27/Feb/2014.
++ [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/)
++ Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
++ Slides on [Modern Fortran & Julia](http://www.slideshare.net/krissiazawadzki/seminar-fortran-and-julia) by Krissia Zawadzki.
 + 2013 StrangeLoop :: Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
 
 ----
