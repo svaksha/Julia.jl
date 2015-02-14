@@ -1,4 +1,4 @@
-**AI :: Algorithms, Data Mining, Clustering, Data Structures, Machine Learning, Neural networks, NLP, SR/Voice tools,...**
+**AI :: Algorithms, Data Mining, Clustering, Data Structures (the CS bits of Mathematics), Machine Learning, Neural networks, NLP, SR/Voice tools,...**
 
 - [ALGORITHMS](#algorithms)
    - [Checksum](#checksum)
@@ -83,7 +83,8 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [Metis.jl](https://github.com/dmbates/Metis.jl) :: Julia interface to the Metis graph-partitioning algorithms.
 - [MinimalPerfectHashes.jl](https://github.com/soundcloud/MinimalPerfectHashes.jl) :: An implementation of minimal perfect hash function generation as described in Czech et. al. 1992.http://bit.ly/137iukS 
 - [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
-- [NamedArray](https://github.com/davidavdav/NamedArray) :: is a Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
+- [NamedArray](https://github.com/davidavdav/NamedArrays.jl) :: Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
+- [NamedAxesArrays.jl](https://github.com/timholy/NamedAxesArrays.jl) :: Performant arrays where each axis can be named. 
 - [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
 - [OffsetArrays.jl](https://github.com/alsam/OffsetArrays.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia.
 - [ParallelSparseMatMul.jl](https://github.com/madeleineudell/ParallelSparseMatMul.jl) :: A Julia library for parallel sparse matrix multiplication using shared memory.
