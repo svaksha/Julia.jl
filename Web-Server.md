@@ -28,6 +28,7 @@ Networking, web security, frameworks and other Web related things go here!
 - [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
 ## Web
+- [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
 - [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 - [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 - [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
