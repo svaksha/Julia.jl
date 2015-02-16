@@ -1,17 +1,28 @@
 **Hardware arch (ARM, CUDA, GPU, MIPS), Compilers (source-to-source compiler, transcompiler/ transpilers), other software libraries,..**
 
-- [CAD-CAM](#cad-cam)
-- [Control System](#control-system)
-- [COMPILERS](#compilers)
++ [ARM-CUDA](#arm-cuda)
++ [CAD-CAM](#cad-cam)
++ [Control System](#control-system)
++ [COMPILERS](#compilers)
    - [Transpiler](#transpiler)
-- [Robots](#robots)
-- [AUDIO](#audio)
++ [Robots](#robots)
++ [AUDIO](#audio)
+
+----
+
+# ARM-CUDA
++ [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
+   - Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
++ [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
++ [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
++ Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
 ----
 
 # CAD-CAM
-- [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing Gcode from Julia easily. Gcode: http://en.wikipedia.org/wiki/Gcode
++ [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing Gcode from Julia easily. Gcode: http://en.wikipedia.org/wiki/Gcode
 
+----
 
 # Control System
 **Implementations of numerical algorithms for computations in systems and control theory.**

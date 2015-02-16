@@ -81,40 +81,41 @@
 
 # Programming Paradigms
 
-- [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
++ [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
-- [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
++ [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
-- [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
-* [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
-- [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
-- [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
-   - _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
++ [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
++ [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
++ [Lazy.jl](https://github.com/one-more-minute/Lazy.jl) :: Functional programming for Julia.
++ [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
++ [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
+   + _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
 ### Macros
-- [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
-- [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
-- [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
-- [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
++ [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
++ [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
++ [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
++ [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
 
 ### Meta Programming
 ##### DOCS
-- [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
++ [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 ### Grammatical Evolution
-- [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
++ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
 
 ### Multi-Threading
-- [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
++ [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 
 ### Reactive Programming
-- [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
++ [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
 
 ### Software Architecture
-- [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
++ [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 
 ### Style Guidelines 
-- [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
++ [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
 
