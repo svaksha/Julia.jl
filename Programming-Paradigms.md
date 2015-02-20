@@ -4,7 +4,9 @@
    - [Functional Programming](#functional-programming)
    - [Grammatical Evolution](#grammatical-evolution)
    - [Macros](#macros)
+   - [Memory Management](#memory-management)
    - [Meta Programming](#meta-programming)
+   - [Multi Threading](#multi-threading)
    - [Reactive Programming](#reactive-programming)
    - [Software Architecture](#software-architecture)
    - [Style Guidelines](#style-guidelines) 
@@ -80,7 +82,7 @@
 ----
 
 # Programming Paradigms
-
+Packages and resources that support various programming styles and CS paradigms.
 + [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
@@ -93,19 +95,21 @@
 + [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
    + _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
+### Grammatical Evolution
++ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
+
 ### Macros
 + [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
 + [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
+### Memory Management
+* [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 
 ### Meta Programming
 ##### DOCS
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
-
-### Grammatical Evolution
-+ [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
 
 ### Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.

@@ -3,14 +3,14 @@
 - [DOCUMENTATION](#documentation)
 - [General Utilities](#general-utilities)
    - [CLI](#cli)
-   - [File Compression](#file-compression)  
+   - [File Compression](#file-compression)
    - [Desktop Document Processing](#desktop-document-processing)
    - [Document Generator](#document-generator) 
    - [Microsoft Windows](#microsoft-windows)
-- [ENVIRONMENTS](#environments)    
+- [ENVIRONMENTS](#environments)
    - [IDE](#ide)
    - [Jupyter](#jupyter)
-   - [WIDE](#wide)    
+   - [WIDE](#wide) 
    - [Shell](#shell)
 
 ----

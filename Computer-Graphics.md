@@ -133,7 +133,7 @@ An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindo
 + [PGFPlots.jl](https://github.com/sisl/PGFPlots.jl) :: Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots. Short [tutorial](http://nbviewer.ipython.org/github/sisl/PGFPlots.jl/blob/master/doc/PGFPlots.ipynb) notebook.
 + [Smile.jl](https://github.com/sisl/Smile.jl) :: A Julia wrapper for the Smile C++ Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks .
 + [TikzGraphs.jl](https://github.com/sisl/TikzGraphs.jl) :: Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
-+ [TikzPictures.jl](https://github.com/sisl/TikzPictures.jl) :: Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.  
++ [TikzPictures.jl](https://github.com/sisl/TikzPictures.jl) :: Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
 
 
 
