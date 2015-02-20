@@ -4,11 +4,10 @@
    - [Functional Programming](#functional-programming)
    - [Grammatical Evolution](#grammatical-evolution)
    - [Macros](#macros)
-   - [Memory Management](#memory-management)
    - [Meta Programming](#meta-programming)
    - [Multi Threading](#multi-threading)
+   - [Program Analysis](#program-analysis)
    - [Reactive Programming](#reactive-programming)
-   - [Software Architecture](#software-architecture)
    - [Style Guidelines](#style-guidelines) 
 
 ----
@@ -82,7 +81,7 @@
 ----
 
 # Programming Paradigms
-Packages and resources that support various programming styles and CS paradigms.
+Packages and resources that support various programming styles, Software Architecture and CS paradigms.
 + [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
 
 ### Functional Programming 
@@ -104,9 +103,6 @@ Packages and resources that support various programming styles and CS paradigms.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
-### Memory Management
-* [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
-
 ### Meta Programming
 ##### DOCS
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
@@ -114,11 +110,12 @@ Packages and resources that support various programming styles and CS paradigms.
 ### Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 
+### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
+* [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
+* [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
+
 ### Reactive Programming
 + [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
-
-### Software Architecture
-+ [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 
 ### Style Guidelines 
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
