@@ -104,6 +104,7 @@
 + Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
 + Slides on [Modern Fortran & Julia](http://www.slideshare.net/krissiazawadzki/seminar-fortran-and-julia) by Krissia Zawadzki.
 + 2013 StrangeLoop :: Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
++ [Julia language slides](http://wiki.scinethpc.ca/wiki/images/7/71/Scinet_julia.pdf) by Mike Nolta.
 
 ----
 
