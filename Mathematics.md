@@ -16,6 +16,7 @@
          + [Org-JuliaGeometry](#juliageometry)
    * [Numerical Analysis](#numerical-analysis)
       + [Numerical Linear Algebra](#numerical-linear-algebra)
+   * [Special Functions](#special-functions)   
 * [PUZZLES](#puzzles)
 
 
@@ -256,6 +257,9 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 ###### Learning Resources
 * [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
+
+## [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)
++ [LambertW.jl](https://github.com/jlapeyre/LambertW.jl) :: A package implementing the Lambert_W function and associated omega constant.
 
 ----
 
