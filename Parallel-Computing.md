@@ -8,6 +8,10 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ----
 
+* [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
+
+---- 
+
 # DISTRIBUTED-PARALLEL
 **Cloud/ Cluster**
 - [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
