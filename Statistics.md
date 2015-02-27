@@ -1,6 +1,6 @@
 **Statistics, OR, Finance, etc.**
 
-- [ANALYSIS](#analysis)
+- [COOKBOOKS](#cookbooks)
 - [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
 - [BENCHMARKS](#benchmarks)
@@ -21,9 +21,10 @@
 
 ----
 
-# ANALYSIS
-- [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
-- [Rational and Irrational Thought: The Thinking that IQ Tests Miss](http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/) 
+# COOKBOOKS
++ [Little Inference Book](https://github.com/bcaffo/LittleInferenceBook) :: A book for the coursera statistical inference class.
++ [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
++ [Rational and Irrational Thought: The Thinking that IQ Tests Miss](http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/) 
 
 ----
 
