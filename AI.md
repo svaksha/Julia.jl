@@ -6,6 +6,7 @@
    - [Quantum](#quantum)
    - [Search](#search)
 - [DATA STRUCTURES](#data-structures)
+   + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
 - [MACHINE LEARNING](#machine-learning)
 - [MARKOV MODELS](#markov-models)
@@ -50,10 +51,7 @@
 
 # DATA STRUCTURES
 
-### Org-[JuliaSparse](https://github.com/JuliaSparse) 
-__For thedevelopment of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
-
-### Arrays / Graphs / Hash tables / Linked List / Matrix / Functional / Trees data structures
+### [Arrays-Graphs](Hash tables / Linked List / Matrix / Functional / Trees data structures)
 - [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 - [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 - [BGraph.jl](https://github.com/adolgert/BGraph.jl) :: An adjacency list that uses typed properties for vertices, edges, and graphs.
@@ -70,6 +68,7 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [GraphLayout.jl](https://github.com/IainNZ/GraphLayout.jl) :: Graph layout algorithms in pure Julia.
 - [GraphicalModels.jl](https://github.com/johnmyleswhite/GraphicalModels.jl) :: Data structures and parsing tools for representing graphical models in Julia.
 - [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
+- [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
 - [InfoTheory.jl](https://github.com/robertfeldt/InfoTheory.jl) :: Estimating information theoretic measures (entropy, mutual information etc) from data. 
 - [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 - [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
@@ -103,6 +102,9 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 - [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser for Julia.
 - [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
+
+### Org-[JuliaSparse](https://github.com/JuliaSparse) 
+__For thedevelopment of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
 
 ----
 
