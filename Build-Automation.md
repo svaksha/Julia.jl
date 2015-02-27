@@ -41,10 +41,11 @@
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
-- [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
-- [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
-- [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
-- [WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl) :: RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
++ [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
++ [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
++ [Requires.jl](https://github.com/one-more-minute/Requires.jl) :: A Julia package that will quickly load your package dependencies.
++ [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
++ [WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl) :: RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 
 ## DistrOS
 - [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
