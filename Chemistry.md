@@ -36,7 +36,7 @@
 
 ### [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: JUlia MOlecular Simulation package.
-+ [AHN.jl](https://github.com/Ismael-VC/AHN.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
++ [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 
 ### Quantum Chemistry
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
