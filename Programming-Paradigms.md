@@ -15,42 +15,43 @@
 
 # Data Formats
 **Libraries for Data serialization and File formats.**
-- [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
-- [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
-- [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jwl)  Read Bruker data files.
-- [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
-- [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
-- [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
-- [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
-- [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
-- [DICOM.jl](https://github.com/ihnorton/DICOM.jl) :: DICOM interface for the Julia language.
-- [DWARF.jl](https://github.com/loladiro/DWARF.jl) :: Julia Package for parsing the DWARF file format.
-- [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
-- [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
-- [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
-- [HDF5.jl](https://github.com/timholy/HDF5.jl)
-- [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
-- [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
-- [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
-- [Json2.jl](https://github.com/ddolgi/Json2.jl)  :: JSON encoder/decoder on Julia. 
-- [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
-- [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
-- [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
-- [MatrixMarket.jl](https://github.com/ViralBShah/MatrixMarket.jl) :: Julia package to read MatrixMarket file format.
-- [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) :: Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
-- [NetCDF.jl](https://github.com/meggart/NetCDF.jl) :: NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
-- [NIfTI.jl](https://github.com/simonster/NIfTI.jl) :: Julia module for reading NIfTI MRI files.
-- [NPZ.jl](https://github.com/fhs/NPZ.jl) :: Julia package that provides support for reading and writing Numpy .npy and .npz files.
-- [ObjFileBase.jl](https://github.com/Keno/ObjFileBase.jl) :: Common functionality for Object Files.
-- [OpenSlide.jl](https://github.com/ihnorton/OpenSlide.jl) :: OpenSlide bindings for Julia.
-- [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
-- [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
-- [HarwellBoeing.jl](https://github.com/dpo/HarwellBoeing.jl) :: A reader for matrices and supplementary data written in the Harwell-Boeing format.
-- [Shapefile.jl](https://github.com/loladiro/Shapefile.jl) :: Parsing .shp files in Julia.
-- [StrPack.jl](https://github.com/pao/StrPack.jl) :: for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
-- [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
-- [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
-- [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
++ [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
++ [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
++ [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
++ [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jwl)  Read Bruker data files.
++ [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
++ [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
++ [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
++ [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
++ [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
++ [DICOM.jl](https://github.com/ihnorton/DICOM.jl) :: DICOM interface for the Julia language.
++ [DWARF.jl](https://github.com/loladiro/DWARF.jl) :: Julia Package for parsing the DWARF file format.
++ [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
++ [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
++ [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
++ [HDF5.jl](https://github.com/timholy/HDF5.jl)
++ [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
++ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
++ [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
++ [Json2.jl](https://github.com/ddolgi/Json2.jl)  :: JSON encoder/decoder on Julia. 
++ [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
++ [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
++ [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
++ [MatrixMarket.jl](https://github.com/ViralBShah/MatrixMarket.jl) :: Julia package to read MatrixMarket file format.
++ [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) :: Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
++ [NetCDF.jl](https://github.com/meggart/NetCDF.jl) :: NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
++ [NIfTI.jl](https://github.com/simonster/NIfTI.jl) :: Julia module for reading NIfTI MRI files.
++ [NPZ.jl](https://github.com/fhs/NPZ.jl) :: Julia package that provides support for reading and writing Numpy .npy and .npz files.
++ [ObjFileBase.jl](https://github.com/Keno/ObjFileBase.jl) :: Common functionality for Object Files.
++ [OpenSlide.jl](https://github.com/ihnorton/OpenSlide.jl) :: OpenSlide bindings for Julia.
++ [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
++ [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
++ [HarwellBoeing.jl](https://github.com/dpo/HarwellBoeing.jl) :: A reader for matrices and supplementary data written in the Harwell-Boeing format.
++ [Shapefile.jl](https://github.com/loladiro/Shapefile.jl) :: Parsing .shp files in Julia.
++ [StrPack.jl](https://github.com/pao/StrPack.jl) :: for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
++ [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
++ [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
++ [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 ----
 
@@ -117,8 +118,8 @@ Packages and resources that support various programming styles, Software Archite
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 
 ### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
-* [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
-* [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
++ [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
++ [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 
 ### Reactive Programming
 + [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
