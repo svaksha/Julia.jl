@@ -1,6 +1,7 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, ...__
 
 * [DISTRIBUTED-PARALLEL](#distributed-parallel) 
+   + [Job Scheduler](#job-scheduler)
 * [GRID](#grid) 
 * [Org-JuliaGPU](#org-juliagpu)
 + [Org-JuliaParallel](#org-juliaparallel)
@@ -16,10 +17,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 **Cloud/ Cluster**
 - [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 - [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) :: Few utility types over Julia Vector type.
-- [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
 - [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
 - [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
-- [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 - [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 - [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
 - [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
@@ -32,6 +31,12 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 - Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
    * Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
    * An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
+
+### [Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
++ [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
++ [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
++ [LoraMPI.jl](https://github.com/scidom/LoraMPI.jl) :: MPI Job Manager for Lora Parralel-Centric Runners.
++ [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 
 ----
 

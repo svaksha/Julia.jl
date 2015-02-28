@@ -1,8 +1,9 @@
 **AI :: Algorithms, Data Mining, Clustering, Data Structures (the CS bits of Mathematics), Machine Learning, Neural networks, NLP, SR/Voice tools,...**
 
 - [ALGORITHMS](#algorithms)
+   - [Association Rule](#association-rule)
    - [Checksum](#checksum)
-   - [Clustering](#clustering)
+   - [Algorithm Scheduling](#algorithm-scheduling)
    - [Quantum](#quantum)
    - [Search](#search)
 - [DATA STRUCTURES](#data-structures)
@@ -28,8 +29,8 @@
 - [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation
 - [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
 
-### Clustering 
-- [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for [clustering data: k-means, dp-means, etc..
+### [Algorithm Scheduling](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
+- [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
 - [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
 - [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 
