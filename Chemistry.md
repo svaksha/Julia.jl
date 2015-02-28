@@ -28,6 +28,7 @@
 
 # Molecular Chemistry
 + [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: JUlia MOlecular Simulation package.
++ [AHN.jl](https://github.com/Ismael-VC/AHN.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 
 ---- 
 
