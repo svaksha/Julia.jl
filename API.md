@@ -22,11 +22,12 @@
 ----
 
 # API
-- [Hydna.jl](https://github.com/jfd/Hydna.jl) :: Hydna Julia Client Library implements support for the Hydna Push API.
-- [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
-- [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
-- [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
-- [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
++ [Hydna.jl](https://github.com/jfd/Hydna.jl) :: Hydna Julia Client Library implements support for the Hydna Push API.
++ [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
++ [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
++ [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
++ [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) :: An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
++ [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
 
 
 ### Math
@@ -34,11 +35,10 @@
 + [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
 
-### Git API 
-it.
+### Git API
 - [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl) :: A Julia package for interfacing with the GitHub API (v3).
 - [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
-- [MechaJulia](https://github.com/MechaJulia/MechaJulia] :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of 
+- [MechaJulia](https://github.com/MechaJulia/MechaJulia) :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of 
 - [Octokit.jl](https://github.com/loladiro/Octokit.jl) :: Julia package to access the GitHub API.
 
 ----
