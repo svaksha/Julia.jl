@@ -43,6 +43,7 @@
 ## [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 + [CGP.jl](https://github.com/glesica/CGP.jl) :: Cartesian Genetic Programming (CGP) implemented in Julia. 
 + [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
++ [InformedDifferentialEvolution.jl](https://github.com/rened/InformedDifferentialEvolution.jl) :: Implementation of Differential Evolution with optional custom predictors.
 + [ParallelGenocop.jl](https://github.com/display-none/ParallelGenocop.jl) :: Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
 
 ----
