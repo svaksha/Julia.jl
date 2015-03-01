@@ -44,9 +44,10 @@
 - [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
 
 ## File compression 
-- [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
-- [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
-- [ZipFile.jl](https://github.com/fhs/ZipFile.jl) :: Read/Write ZIP archives in Julia.
++ [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
++ [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
++ [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) :: A Julia wrapper for the snappy library - a compression/decompression library focusing on speed.
++ [ZipFile.jl](https://github.com/fhs/ZipFile.jl) :: Read/Write ZIP archives in Julia.
    * DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 
 ## Desktop Document processing 
