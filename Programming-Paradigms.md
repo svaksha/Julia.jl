@@ -121,6 +121,7 @@ __Packages and resources that support various programming styles, Software Archi
 ### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
 + [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 + [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
++ [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) ::An implementation of a Least Recently Used (LRU) Cache.
 
 ### Reactive Programming
 + [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
