@@ -121,9 +121,12 @@ __Packages and resources that support various programming styles, Software Archi
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 
 ### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
+__Libs for memory management (malloc), bounds checking, literals and other base program analysis options.__ 
 + [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
++ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) :: A Julia package for reading compiler options.
 + [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
-+ [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) ::An implementation of a Least Recently Used (LRU) Cache.
++ [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) :: An implementation of a Least Recently Used (LRU) Cache.
+
 
 ### Reactive Programming
 + [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
