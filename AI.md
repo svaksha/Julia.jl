@@ -98,13 +98,14 @@
 - [rsk](https://github.com/JuliaX/rsk) :: Code for exploring the Robinson–Schensted–Knuth correspondence.
 - [Series.jl](https://github.com/milktrader/Series.jl) :: Series data structure in Julia.
 - [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
-- [Sims.jl](https://github.com/tshort/Sims.jl) :: Non-causal, equation-based modeling in Julia.
-- [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
-- [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
-- [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
-- [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
-- [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser for Julia.
-- [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
++ [Sims.jl](https://github.com/tshort/Sims.jl) :: Non-causal, equation-based modeling in Julia.
++ [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
++ [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
++ [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
++ [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
++ [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser for Julia.
++ [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
++ [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.
 
 ### Org-[JuliaSparse](https://github.com/JuliaSparse) 
 __For thedevelopment of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
