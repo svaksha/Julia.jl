@@ -30,8 +30,8 @@
 
 
 ### Math
-- [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
-- [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
++ [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
++ [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
 
 ### Git API 
@@ -46,23 +46,23 @@ it.
 # LANGUAGES
 API's for programming languages and general server backend purposes
 ## C
-- [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
-- [julia-ffi](https://github.com/o-jasper/julia-ffi) :: Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
++ [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
++ [julia-ffi](https://github.com/o-jasper/julia-ffi) :: Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
 
 ###### Resources
 + Official documentation for [calling C code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
 
 ## C++ 
-- [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
-- [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
-- [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Interface.
++ [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
++ [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
++ [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Interface.
 
 ## Erlang
-- [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.
-- [FsBert](https://github.com/et4te/FsBert) :: A Julia library for encoding / decoding binary Erlang terms.
++ [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.
++ [FsBert](https://github.com/et4te/FsBert) :: A Julia library for encoding / decoding binary Erlang terms.
 
 ## Fortran 
-- [FortranIO.jl](https://github.com/rephorm/FortranIO.jl) :: Input/Output of fortran unformatted binary files.
++ [FortranIO.jl](https://github.com/rephorm/FortranIO.jl) :: Input/Output of fortran unformatted binary files.
 
 ###### Resources
 + Official documentation for [calling Fortran code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
@@ -84,23 +84,24 @@ API's for programming languages and general server backend purposes
 - [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
 
 ## MATLAB
-- [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.
-- [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) :: library for Matlab files and how to [read-write MATLAB files]](https://github.com/lindahua/MATLAB.jl#readwrite-mat-files).
-- [Moonwalk.jl](https://github.com/diogo149/Moonwalk.jl) :: A partial MATLAB to Julia compiler, just to ease the transition of libraries.
++ [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.
++ [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) :: library for Matlab files and how to [read-write MATLAB files]](https://github.com/lindahua/MATLAB.jl#readwrite-mat-files).
++ [Mex.jl](https://github.com/twadleigh/Mex.jl) :: Call julia from matlab. 
++ [Moonwalk.jl](https://github.com/diogo149/Moonwalk.jl) :: A partial MATLAB to Julia compiler, just to ease the transition of libraries.
 
 ## ObjectiveC
-- [ObjectiveC.jl](https://github.com/one-more-minute/ObjectiveC.jl) :: A Julia module for Objective-C.
++ [ObjectiveC.jl](https://github.com/one-more-minute/ObjectiveC.jl) :: A Julia module for Objective-C.
 
 ## Perl
-- [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) :: Minimal Implementation of Perl's `File::Find` in Julia.
++ [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) :: Minimal Implementation of Perl's `File::Find` in Julia.
 
 ## Processing
-- [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
++ [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
 
 ## Python
-- [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: lets you call Python functions from the Julia language.
-- [PyJulia](https://github.com/jakebolewski/pyjulia) :: python interface to julia.
-- [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
++ [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: lets you call Python functions from the Julia language.
++ [PyJulia](https://github.com/jakebolewski/pyjulia) :: python interface to julia.
++ [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
 
 ## R
 - [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) :: is a draft port of the ProjectTemplate package for R to Julia.
@@ -112,6 +113,6 @@ API's for programming languages and general server backend purposes
 - [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
 
 ## Ruby
-- [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
++ [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 
 
