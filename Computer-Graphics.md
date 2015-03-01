@@ -70,15 +70,16 @@
 
 # INFOGRAPHICS
 **Statistical Charts, Graphs, Plots, Histograms, Maps**
-- [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
-- [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms. 
-- [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
-- [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl
-- [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
-- [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
-- [echarts](https://github.com/ecomfe/echarts)
-- [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
-- [Gadfly.jl](http://gadflyjl.org/) :: [Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
++ [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation. 
++ [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
++ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms. 
++ [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
++ [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl
++ [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
++ [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
++ [echarts](https://github.com/ecomfe/echarts)
++ [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
++ [Gadfly.jl](http://gadflyjl.org/) :: [Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 - [Gaston.jl](https://github.com/mbaz/Gaston.jl) :: A julia front-end for gnuplot.

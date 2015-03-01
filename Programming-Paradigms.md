@@ -18,7 +18,7 @@
 + [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
 + [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 + [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
-+ [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jwl)  Read Bruker data files.
++ [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jl) :: Read Bruker data files.
 + [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
 + [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
 + [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
@@ -29,11 +29,11 @@
 + [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
-+ [HDF5.jl](https://github.com/timholy/HDF5.jl)
++ [HDF5.jl](https://github.com/timholy/HDF5.jl) :: Lib to read HDF format files. HDF5 is a file format
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
-+ [Json2.jl](https://github.com/ddolgi/Json2.jl)  :: JSON encoder/decoder on Julia. 
++ [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia. 
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 + [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
@@ -85,8 +85,8 @@
 ----
 
 # Programming Paradigms
-Packages and resources that support various programming styles, Software Architecture and CS paradigms.
-+ [Programming Language Theory](https://github.com/steshaw/plt-study) : Mathematics, Compilers, Functional Programming, and other papers.
+__Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
++ [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
 * [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
