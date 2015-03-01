@@ -14,8 +14,8 @@
 - [NEURAL NETWORKS](#neural-networks)
 - [NLP](#nlp)
 - [SPEECH RECOGNITION](#speech-recognition)
-   - [DSP](#dsp)
-      + [Org-JuliaDSP](#org-dsp)
+   + [DSP](#dsp)
+   + [Org-JuliaDSP](#org-dsp)
        
 ----
 
@@ -203,7 +203,7 @@ __For thedevelopment of interfaces to sparse matrix solvers such as sequential M
 - [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
 
 
-## DSP 
+### DSP 
 **Digital Signal Processing**
 - [APES.jl](https://github.com/codles/APES.jl) :: Amplitude and Phase Estimation of a Sinusoid.
 - [ChaosCommunications.jl](https://github.com/scidom/ChaosCommunications.jl) :: Simulation of chaos-based communication systems in Julia.
