@@ -86,7 +86,8 @@ API's for programming languages and general server backend purposes
 ## MATLAB
 + [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.
 + [MATLAB.jl](https://github.com/lindahua/MATLAB.jl) :: library for Matlab files and how to [read-write MATLAB files]](https://github.com/lindahua/MATLAB.jl#readwrite-mat-files).
-+ [Mex.jl](https://github.com/twadleigh/Mex.jl) :: Call julia from matlab. 
++ [MATJulia](https://github.com/timholy/MATJulia) :: Call Julia from matlab. 
++ [Mex.jl](https://github.com/twadleigh/Mex.jl) :: Call Julia from matlab. 
 + [Moonwalk.jl](https://github.com/diogo149/Moonwalk.jl) :: A partial MATLAB to Julia compiler, just to ease the transition of libraries.
 
 ## ObjectiveC

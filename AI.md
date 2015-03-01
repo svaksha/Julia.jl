@@ -5,7 +5,7 @@
    - [Checksum](#checksum)
    - [Algorithm Scheduling](#algorithm-scheduling)
    - [Quantum](#quantum)
-   - [Search](#search)
+   - [Pattern Matching](#pattern-matching)
 - [DATA STRUCTURES](#data-structures)
    + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
@@ -37,11 +37,12 @@
 ### Quantum
 + [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
 
-### Search
+### Pattern Matching
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
 + [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
-+ [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search
++ [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
++ [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) :: Port of the jellyfish string comparison library.
 + [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
