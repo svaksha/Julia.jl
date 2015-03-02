@@ -23,12 +23,13 @@
 ----
 
 # BLOGS 
-- The official [Julia language blog](http://julialang.org/blog/)
-- The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
-- [Values vs. Bindings: The Map is Not the Territory](http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/)
-- [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
-- [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html) by Leah Hanson.
-- Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
++ The official [Julia language blog](http://julialang.org/blog/)
++ The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
++ [Julia Package Ecosystem Dependency Graphs](http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning.
++ [Values vs. Bindings: The Map is Not the Territory](http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/)
++ [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
++ [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html) by Leah Hanson.
++ Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
 - Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
 - [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
 - [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
@@ -41,8 +42,9 @@
 - [Julia at EuroSciPy 2014](https://github.com/stevengj/Julia-EuroSciPy14).   
 
 **{NB: Language comparisons and general blogs are listed here, but blogs about benchmarking and Optimization will be listed under the relevant category page.}**
-- [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
-- [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
++ [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
++ [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
+
 
 ----
 
