@@ -13,23 +13,24 @@
 ----
 
 # GRAPHICS 
-- [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
-- [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
-- [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
-- [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
-- [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
-- [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
-- [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
-- [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
-- [GLGraphics.jl](https://github.com/SimonDanisch/GLGraphics.jl) :: Advanced 3D and 2D graphics for Julia.
-- [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
-- [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
-- [GLUtil.jl](https://github.com/SimonDanisch/GLUtil.jl) :: Utility package for ModernGL by @SimonDanisch.
-- [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
-- [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
-- [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
-- [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
-- [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
++ [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
++ [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
++ [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
++ [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
++ [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
++ [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
++ [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
++ [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
++ [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
++ [GLGraphics.jl](https://github.com/SimonDanisch/GLGraphics.jl) :: Advanced 3D and 2D graphics for Julia.
++ [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
++ [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
++ [GLUtil.jl](https://github.com/SimonDanisch/GLUtil.jl) :: Utility package for ModernGL by @SimonDanisch.
++ [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
++ [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
++ [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
++ [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
++ [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
 - [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 - [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
@@ -43,12 +44,12 @@
 - [Meshes.jl](https://github.com/twadleigh/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 - [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 - [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
-- [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
-- [PolygonClipping.jl](https://github.com/sjkelly/PolygonClipping.jl) :: A Julia package for polygon clipping.
-- [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
-- [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
-- [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
-- [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
++ [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
++ [PolygonClipping.jl](https://github.com/sjkelly/PolygonClipping.jl) :: A Julia package for polygon clipping.
++ [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
++ [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
++ [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
++ [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
 + [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) :: Statistical shape models / point distribution models.
 + [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
