@@ -25,11 +25,11 @@
 
 # [Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 
-### [Colloidal Chemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry)
+## [Colloidal Chemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry)
 * [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes .
 
 
-### [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
+## [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 + [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: JUlia MOlecular Simulation package.
@@ -38,11 +38,17 @@
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
 
-### Quantum Chemistry
+## Quantum Chemistry
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
-+ [JuliaQuantum](http://juliaquantum.github.io/), is the umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
 + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
-                     
-                     
+
+#### [JuliaQuantum](http://juliaquantum.github.io/) 
+An umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
+
++ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
+
+###### Resources
++ [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
+

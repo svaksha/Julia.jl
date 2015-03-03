@@ -3,7 +3,6 @@
 * [Fluid Dynamics](#fluid-dynamics)
 * [Laser Physics](#laser-physics)
 * [Medical Physics](#medical-physics)
-* [Quantum Mechanics](#quantum-mechanics)
 * [Statistical Mechanics](#statistical-mechanics)
 * [Thermodynamics](#thermodynamics)
 
@@ -49,11 +48,6 @@
 
 # Medical Physics
 * [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database. 
-
-----
-
-# Quantum Mechanics
-- [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 
 ----
 
