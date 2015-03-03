@@ -125,6 +125,7 @@
 # Org-[JuliaGL](https://github.com/JuliaGL)
 Julia packages for the OpenGL API and ecosystem.
 + [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
++ [Vulkan.jl](https://github.com/JuliaGL/Vulkan.jl) :: Wrapper of Vulkan, Khronos next generation OpenGL API.
 
 ----
 
