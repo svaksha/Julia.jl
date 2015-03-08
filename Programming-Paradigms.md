@@ -1,6 +1,7 @@
-- [Data Formats](#data-formats)
-- [Data Types](#data-types)
-- [Programming Paradigms](#programming-paradigms)
++ [Data Formats](#data-formats)
+   + [Org-JuliaSparse](#org-juliasparse)
++ [Data Types](#data-types)
++ [Programming Paradigms](#programming-paradigms)
    - [Double Dispatch](#doubledispatch)
    - [Functional Programming](#functional-programming)
    - [Grammatical Evolution](#grammatical-evolution)
@@ -38,7 +39,6 @@
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 + [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
-+ [MatrixMarket.jl](https://github.com/ViralBShah/MatrixMarket.jl) :: Julia package to read MatrixMarket file format.
 + [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) :: Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
 + [NetCDF.jl](https://github.com/meggart/NetCDF.jl) :: NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
 + [NIfTI.jl](https://github.com/simonster/NIfTI.jl) :: Julia module for reading NIfTI MRI files.
@@ -55,6 +55,12 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
+
+
+### Org-[JuliaSparse](https://github.com/JuliaSparse) 
+__For the development of interfaces to sparse matrix solvers.__
++ [MatrixMarket.jl](https://github.com/JuliaSparse/MatrixMarket.jl) :: A package to read the MatrixMarket file format.
++ [HarwellRutherfordBoeing.jl](https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl) :: A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 
 ----
 
