@@ -13,10 +13,9 @@
          + [Org-JuliaDiff](#org-juliadiff)
    * [Discrete Math](#discrete-math)
    * [Geometry](#geometry)
-         + [Org-JuliaGeometry](#juliageometry)
    * [Numerical Analysis](#numerical-analysis)
       + [Numerical Linear Algebra](#numerical-linear-algebra)
-   * [Special Functions](#special-functions)   
+   * [Special Functions](#special-functions)
 * [PUZZLES](#puzzles)
 
 
@@ -125,7 +124,6 @@
 - [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
 - [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 - [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: Finite element surface mesh manipulation library.
-- [VoronoiDelaunay.jl](https://github.com/skariel/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using GeometricalPredicates.jl package.
 
 ----
 
@@ -201,14 +199,9 @@
 - [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
 - [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric algebra library in Julia.
 - [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
-- [GeometricalPredicates.jl](https://github.com/skariel/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
 - [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 - [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
 - [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
-
-#### Org-[JuliaGeometry](https://github.com/JuliaGeometry)
-+ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
-+ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
 
 ----
 

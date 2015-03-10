@@ -2,10 +2,11 @@
 
 * [GRAPHICS](#graphics) 
    * [Games](#games)
-   * [CookBooks](#cookbooks)
+   * [Org-JuliaLang](#org-julialang)
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
-   * [Org-JuliaLang](#org-julialang)
+   * [Org-JuliaLang](#Org-JuliaLang)
+* [Org-JuliaGeometry](#juliageometry)
 * [Org-JuliaGL](#org-juliagl)
 * [Org-JuliaGraphics](#org-juliagraphics) 
 * [Org-SISL](#org-sisl)
@@ -31,19 +32,18 @@
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
 + [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
-- [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
-- [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
-- [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
-- [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
-- [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
-- [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
-- [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
-- [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
-- [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package. 
-- [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
-- [Meshes.jl](https://github.com/twadleigh/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
-- [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
-- [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
++ [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
++ [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
++ [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
++ [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
++ [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
++ [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
++ [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
++ [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
++ [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package. 
++ [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
++ [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
++ [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 + [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 + [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
@@ -54,18 +54,23 @@
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 
-##### DOCS
-- [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
-
+###### Resources
++ [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 
 ## Games
-- [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
-- [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
++ [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
++ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 
-### CookBooks
-*Read other Julia users experiences with visualization and plotting*
-- Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
-- Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
+## Org-[JuliaGeometry](https://github.com/JuliaGeometry)
+[Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
+
++ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
++ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
++ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
++ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional "bounding boxes", a.k.a "orthotopes", which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
++ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
++ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
 
 ----
 
@@ -110,26 +115,30 @@
 + [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
 + [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
 
-
-### API 
+## API 
 + [plot.ly](https://plot.ly/api/julia/) :: Plotly Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [YT.jl](https://github.com/jzuhone/YT.jl) :: A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 
-### Org-JuliaLang
+## Org-JuliaLang
 + [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
 + [Color.jl](https://github.com/JuliaLang/Color.jl)
+
+###### Resources
+__Read other Julia-users experiences with visualization and plotting.__
++ Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
++ Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
 
 ----
 
 # Org-[JuliaGL](https://github.com/JuliaGL)
-Julia packages for the OpenGL API and ecosystem.
+__Julia packages for the OpenGL API ecosystem.__
 + [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
 + [Vulkan.jl](https://github.com/JuliaGL/Vulkan.jl) :: Wrapper of Vulkan, Khronos next generation OpenGL API.
 
 ----
 
 # Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
-An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, ...
+__An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, etc..__
 
 ----
 
