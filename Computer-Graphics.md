@@ -95,7 +95,7 @@
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
 + [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
 + [GraphViz.jl](https://github.com/loladiro/GraphViz.jl) :: Julia bindings for the GraphViz library.
-+ [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for HEALPix.
++ [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for <a href="http://healpix.jpl.nasa.gov/">HEALPix</a>.
 + [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
 + [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 + [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
