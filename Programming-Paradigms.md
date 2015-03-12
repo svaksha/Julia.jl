@@ -1,16 +1,15 @@
 + [Data Formats](#data-formats)
-   + [Org-JuliaSparse](#org-juliasparse)
 + [Data Types](#data-types)
 + [Programming Paradigms](#programming-paradigms)
-   - [Double Dispatch](#doubledispatch)
-   - [Functional Programming](#functional-programming)
-   - [Grammatical Evolution](#grammatical-evolution)
-   - [Macros](#macros)
-   - [Meta Programming](#meta-programming)
-   - [Multi Threading](#multi-threading)
-   - [Program Analysis](#program-analysis)
-   - [Reactive Programming](#reactive-programming)
-   - [Style Guidelines](#style-guidelines) 
+   + [Double Dispatch](#doubledispatch)
+   + [Functional Programming](#functional-programming)
+   + [Grammatical Evolution](#grammatical-evolution)
+   + [Macros](#macros)
+   + [Meta Programming](#meta-programming)
+   + [Multi Threading](#multi-threading)
+   + [Program Analysis](#program-analysis)
+   + [Reactive Programming](#reactive-programming)
+   + [Style Guidelines](#style-guidelines) 
 
 ----
 
@@ -55,12 +54,6 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
-
-
-### Org-[JuliaSparse](https://github.com/JuliaSparse) 
-__For the development of interfaces to sparse matrix solvers.__
-+ [MatrixMarket.jl](https://github.com/JuliaSparse/MatrixMarket.jl) :: A package to read the MatrixMarket file format.
-+ [HarwellRutherfordBoeing.jl](https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl) :: A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 
 ----
 
