@@ -1,11 +1,10 @@
-A page listing community and development links, including events, (un)conferences, forums/ meetup groups, NEWS, etc..
+A page listing community and development links, including events, (un)conferences, forums/ meetup groups, NEWS, social networks, etc..
 
-- [COMMUNITY](#community)
-   - [Forums](#forums)
-- [CONFERENCES](#conferences)
++ [COMMUNITY](#community)
++ [CONFERENCES](#conferences)
    - [JuliaCon](#juliacon)
    - [Julia User Groups](#julia-user-groups)
-- [NEWS](#news)
++ [NEWS](#news)
    - [Blogs](#blogs)
    - [Media](#media)
    - [Yellow Press](#yellow-press)
@@ -13,11 +12,12 @@ A page listing community and development links, including events, (un)conference
 ----
 
 # COMMUNITY
-The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. You can join the [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats or head over to the [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) and [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) mailing list(s).
-
-## Forums
-- [Reddit](http://www.reddit.com/r/Julia/)
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
+The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. You can join them on:
++ IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
++ Mailing lists :: 
+   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) and 
+   + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) mailing list(s).
+Smaller special interest groups (SIG) have their own mailing lists and github orgs, which are linked in the respective pages.
 
 #### HowTo Contribute
 To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page, the sections on [continuous integration](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#continuous-integration) and [git hooks](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#git-hooks) and the links to (open) BUGS on Github:
@@ -91,16 +91,20 @@ __The official Julia conference and local meetup groups located around the world
 ----
 
 # NEWS
-- [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
+NEWS from social networks and communities, QA sites and Twitter.
++ [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
++ [Reddit](http://www.reddit.com/r/Julia/)
++ [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
++ [Julialang news on Twitter](https://twitter.com/julialang_news)
 
 ### Blogs
-- [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
++ [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
 
 ### Media
-- 2014-01-23 :: Evan Miller's ["Why I’m Betting on Julia"](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
-- 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
-- 2014-03-12 :: [Interview with the Julia language creators in The Programmer magazine (Chinese)](http://www.csdn.net/article/2014-03-12/2818732)
-- 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
++ 2014-01-23 :: Evan Miller's ["Why I’m Betting on Julia"](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
++ 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
++ 2014-03-12 :: [Interview with the Julia language creators in The Programmer magazine (Chinese)](http://www.csdn.net/article/2014-03-12/2818732)
++ 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
 
 ### Yellow Press 
 - A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
