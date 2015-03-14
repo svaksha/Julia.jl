@@ -46,6 +46,7 @@
 + [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 + [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
++ [Painter.jl](https://github.com/andferrari/Painter.jl) :: A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
 + [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 + [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
 + [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
