@@ -4,6 +4,7 @@
    * [Cryptocurrency](#cryptocurrency)
 * [MATH](#math)
    * [Algebra](#algebra)
+      + [Boolean Algebra](#boolean-algebra)
       + [Orthogonal Polynomials](#orthogonal-polynomials) 
       + [Symbolic Computation](#symbolic-computation)
    * [Algebraic Geometry](#algebraic-geometry)
@@ -92,7 +93,6 @@
 ## Algebra
 - [algebra](https://github.com/alrahimi/algebra/) :: A hierarchy of abstract algebraic structures in Julia.
 - [AMVW.jl](https://github.com/andreasnoackjensen/AMVW.jl) :: Fast and backward stable computation of roots of polynomials in Julia
-- [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
 - [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
 - [Cuhre.jl](https://github.com/tflovorn/Cuhre.jl) :: Simplified Julia interface to Cuhre integration routine.
 - [DeepConvert.jl](https://github.com/jlapeyre/DeepConvert.jl) :: This package provides convenient literal construction of values of large data types.
@@ -102,6 +102,9 @@
 - [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 - [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
+### [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
++ [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
++ [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) :: Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 
 ### Orthogonal Polynomials
 - [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.

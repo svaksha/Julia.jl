@@ -48,7 +48,6 @@
 ###### Learning Resources
 + [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) :: Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 
-
 ----
 
 # DATA STRUCTURES
