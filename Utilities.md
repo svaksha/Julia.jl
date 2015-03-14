@@ -56,16 +56,17 @@
 + [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
 ## Document Generator 
-- [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
-- [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
-- [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
++ [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
++ [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
++ [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
++ [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
 
 ## Microsoft Windows
-- [COMCall.jl](https://github.com/ihnorton/COMCall.jl) :: COM Interface for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
-- [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
-- [IUP.jl](https://github.com/joa-quim/IUP.jl) :: Julia interface to IUP windowing toolkit.
-- [RawFile.jl](https://github.com/tknopp/RawFile.jl) :: Uses IniFile.jl
-- [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
++ [COMCall.jl](https://github.com/ihnorton/COMCall.jl) :: COM Interface for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
++ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
++ [IUP.jl](https://github.com/joa-quim/IUP.jl) :: Julia interface to IUP windowing toolkit.
++ [RawFile.jl](https://github.com/tknopp/RawFile.jl) :: Uses IniFile.jl
++ [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
 
 ----
 
@@ -103,15 +104,15 @@
 
 
 ### Shell Terminal
-- [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
-- [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
-- [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
-- [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
-- [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
++ [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
++ [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
++ [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
++ [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
++ [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 
 ### WIDE
-- [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
-- [Julia on the SageMath cloud server](https://cloud.sagemath.com).
-- [koding](https://koding.com/Julia) has an interactive online Julia REPL.
-- [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
++ [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
++ [Julia on the SageMath cloud server](https://cloud.sagemath.com).
++ [koding](https://koding.com/Julia) has an interactive online Julia REPL.
++ [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
 
