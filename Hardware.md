@@ -61,12 +61,14 @@
 ----
 
 # AUDIO
-- [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) :: is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
-- [AV.jl](https://github.com/kmsquire/AV.jl) :: Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale.
-- [Bebop.jl](https://github.com/zhemao/Bebop.jl) :: An audio library for the Julia programming language.
-- [Chango](https://bitbucket.org/mbaz/chango) :: is a simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink.
-- [OSC.jl](https://github.com/fundamental/OSC.jl) :: Open Sound Control serialization library, a port of RTOSC for Julia.
-- [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
-- [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
-- [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
++ [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) :: is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
++ [AV.jl](https://github.com/kmsquire/AV.jl) :: Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale.
++ [Bebop.jl](https://github.com/zhemao/Bebop.jl) :: An audio library for the Julia programming language.
++ [Chango](https://bitbucket.org/mbaz/chango) :: is a simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink.
++ [OSC.jl](https://github.com/fundamental/OSC.jl) :: Open Sound Control serialization library, a port of RTOSC for Julia.
++ [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
++ [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
++ [Rasim.jl](https://github.com/maemre/Rasim.jl) :: A time-slot based radio network simulator written in Julia. 
++ [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
+
 
