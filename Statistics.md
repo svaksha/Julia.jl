@@ -60,6 +60,7 @@
 ## Org-[JuliaQuant](https://github.com/JuliaQuant)
 + [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
 + [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
++ [Grist.jl](https://github.com/JuliaQuant/Grist.jl) :: Financial blotter. 
 + [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 + [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
 + [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values. 
