@@ -1,10 +1,10 @@
-
-* [Electromagnetism](#electromagnetism)
-* [Fluid Dynamics](#fluid-dynamics)
-* [Laser Physics](#laser-physics)
-* [Medical Physics](#medical-physics)
-* [Statistical Mechanics](#statistical-mechanics)
-* [Thermodynamics](#thermodynamics)
++ [Electromagnetism](#electromagnetism)
++ [Fluid Dynamics](#fluid-dynamics)
++ [Laser Physics](#laser-physics)
++ [Medical Physics](#medical-physics)
++ [Quantum Mechanics](#quantum-mechanics)
++ [Statistical Mechanics](#statistical-mechanics)
++ [Thermodynamics](#thermodynamics)
 
 ----
 
@@ -18,7 +18,6 @@
 * [Mass.jl](https://github.com/ggggggggg/Mass.jl) :: An experimental frameworks for TES pulse analysis. 
 * [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 * [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) :: Dimensions and Quantities.
-* [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 * [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 * [ROOTDataFrames.jl](https://github.com/jpata/ROOTDataFrames.jl) :: A wrapper for ROOT Trees through the Abstract DataFrame interface.
 * [Signals.jl](https://github.com/mbauman/Signals.jl) :: A high level Signal type with a common timebase and groups of channels.
@@ -47,17 +46,26 @@
 ----
 
 # Medical Physics
-* [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database. 
++ [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database. 
+
+----
+
+# Quantum Mechanics
+* [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
+
+### [JuliaQuantum](http://juliaquantum.github.io/) 
+An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
++ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 
 ----
 
 # Statistical Mechanics
-* [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
-* [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann machines and deep belief networks.
++ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann machines and deep belief networks.
++ [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
 
 ----
 
 # [Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
-* [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
++ [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
 + [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) :: Thermodynamics table for critical values, heat capacity, etc..
 

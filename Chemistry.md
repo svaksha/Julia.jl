@@ -26,8 +26,7 @@
 # [Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 
 ## [Colloidal Chemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry)
-* [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes .
-
++ [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes .
 
 ## [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
@@ -46,8 +45,6 @@
 
 #### [JuliaQuantum](http://juliaquantum.github.io/) 
 An umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
-
-+ [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 + [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing quantum mechanics using Dirac notation. 
 
 ###### Resources
