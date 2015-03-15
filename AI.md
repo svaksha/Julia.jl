@@ -122,6 +122,7 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 Machine learning and statistics are closely related fields, so do check out the Statistics.md page for more packages.
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
 + [ConfidenceWeighted.jl](https://github.com/chezou/ConfidenceWeighted.jl) :: Confidence weighted, a machine learning algorithm.
++ [Contingency.jl](https://github.com/svs14/Contingency.jl) :: Assorted techniques for the purpose of enabling automated machine learning.
 + [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
