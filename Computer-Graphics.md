@@ -6,7 +6,7 @@
    * [Org-JuliaIO](#org-juliaio)
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
-   * [Org-JuliaLang](#Org-JuliaLang)
+   * [Org-JuliaLang](#org-julialang)
 * [Org-JuliaGeometry](#juliageometry)
 * [Org-JuliaGL](#org-juliagl)
 * [Org-JuliaGraphics](#org-juliagraphics) 
