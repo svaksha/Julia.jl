@@ -2,14 +2,13 @@
 
 * [GRAPHICS](#graphics) 
    * [Games](#games)
-   * [Org-JuliaLang](#org-julialang)
-   * [Org-JuliaIO](#org-juliaio)
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
-   * [Org-JuliaLang](#org-julialang)
-* [Org-JuliaGeometry](#juliageometry)
 * [Org-JuliaGL](#org-juliagl)
 * [Org-JuliaGraphics](#org-juliagraphics) 
+* [Org-JuliaGeometry](#juliageometry)
+* [Org-JuliaIO](#org-juliaio)
+* [Org-JuliaLang](#org-julialang)
 * [Org-SISL](#org-sisl)
 
 ----
@@ -19,6 +18,7 @@
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 + [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
 + [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
++ [ColorTypes.jl](https://github.com/SimonDanisch/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
 + [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
 + [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
 + [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
@@ -57,30 +57,12 @@
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 
-###### Resources
-+ [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
-
 ## Games
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 
-## Org-[JuliaGeometry](https://github.com/JuliaGeometry)
-[Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
-+ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
-+ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
-+ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
-+ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional "bounding boxes", a.k.a "orthotopes", which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
-+ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
-+ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
-+ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
-
-## Org-[JuliaIO](https://github.com/JuliaIO)
-+ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: Main Package for IO, loading all different kind of files.
-+ [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
-+ [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
-+ [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes. 
-+ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO. 
-+ [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
+###### Resources
++ [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 
 ----
 
@@ -129,10 +111,6 @@
 + [plot.ly](https://plot.ly/api/julia/) :: Plotly Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [YT.jl](https://github.com/jzuhone/YT.jl) :: A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 
-## Org-JuliaLang
-+ [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
-+ [Color.jl](https://github.com/JuliaLang/Color.jl)
-
 ###### Resources
 __Read other Julia-users experiences with visualization and plotting.__
 + Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
@@ -149,6 +127,35 @@ __Julia packages for the OpenGL API ecosystem.__
 
 # Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
 __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, etc..__
+
+----
+
+# Org-[JuliaGeometry](https://github.com/JuliaGeometry)
+Computational Geometry with Julia. [Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
++ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
++ [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
++ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
++ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
++ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional "bounding boxes", a.k.a "orthotopes", which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
++ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
++ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
+----
+
+# Org-[JuliaIO](https://github.com/JuliaIO)
++ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: Main Package for IO, loading all different kind of files.
++ [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
++ [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
++ [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes. 
++ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO. 
++ [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
+
+----
+
+# Org-JuliaLang
++ [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
++ [Color.jl](https://github.com/JuliaLang/Color.jl)
 
 ----
 
