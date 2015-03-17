@@ -19,7 +19,6 @@
    * [Special Functions](#special-functions)
 * [PUZZLES](#puzzles)
 
-
 ----
 
 # CRYPTOGRAPHY
