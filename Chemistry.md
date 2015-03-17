@@ -43,10 +43,6 @@
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 
-#### [JuliaQuantum](http://juliaquantum.github.io/) 
-An umbrella Org for Quantum chemistry, Lindblad dynamics, Quantum tensor network, information and computation, etc...
-+ [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing quantum mechanics using Dirac notation. 
-
 ###### Resources
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
 

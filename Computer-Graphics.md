@@ -3,6 +3,7 @@
 * [GRAPHICS](#graphics) 
    * [Games](#games)
    * [Org-JuliaLang](#org-julialang)
+   * [Org-JuliaIO](#org-juliaio)
 * [INFOGRAPHICS](#infographics)
    * [API](#api)
    * [Org-JuliaLang](#Org-JuliaLang)
@@ -33,7 +34,6 @@
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
 + [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
-+ [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
 + [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 + [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
@@ -66,7 +66,6 @@
 
 ## Org-[JuliaGeometry](https://github.com/JuliaGeometry)
 [Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
-
 + [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
 + [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 + [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
@@ -74,6 +73,14 @@
 + [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
 + [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
 + [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
+## Org-[JuliaIO](https://github.com/JuliaIO)
++ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: Main Package for IO, loading all different kind of files.
++ [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
++ [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
++ [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes. 
++ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO. 
++ [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
 
 ----
 

@@ -3,6 +3,7 @@
 + [Laser Physics](#laser-physics)
 + [Medical Physics](#medical-physics)
 + [Quantum Mechanics](#quantum-mechanics)
+   + [Julia Quantum](#juliaquantum) 
 + [Statistical Mechanics](#statistical-mechanics)
 + [Thermodynamics](#thermodynamics)
 
@@ -53,9 +54,10 @@
 # Quantum Mechanics
 * [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 
-### [JuliaQuantum](http://juliaquantum.github.io/) 
+### [Julia Quantum](http://juliaquantum.github.io/) 
 An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
 + [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
++ [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing quantum mechanics using Dirac notation. 
 
 ----
 
