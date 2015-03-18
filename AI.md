@@ -188,24 +188,25 @@ Machine learning and statistics are closely related fields, so do check out the 
 ----
 
 # NLP 
-- [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
-- [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
-- [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
-- [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
-- [Jieba.jl](https://github.com/qinwf/Jieba.jl) ::  A package for Chinese text segmentation, keyword extraction and POS tagging.
-- [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
-- [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
-- [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
-- [NGram.jl](https://github.com/remusao/NGram.jl) :: Implement the NGram model.
-- [Parsimonious.jl](https://github.com/gitfoxi/Parsimonious.jl) :: A PEG parser generator.
-- [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: is an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
-- [SimpleParser.jl](https://github.com/ordovician/SimpleParser.jl) :: A very simple hackable parser and lexer for simple languages.
-- [Stemmers.jl](https://github.com/tanmaykm/Stemmers.jl) :: Interface for text stemmer implementations.
-- [Sumup.jl](https://github.com/remusao/Sumup.jl) :: Automatic multi-documents, multi-topics summarization based on topic extraction.
-- [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) :: Parser with beginners and enders and infix.
-- [Text.jl](https://github.com/mit-nlp/Text.jl) :: Numerous tools for text processing.
-- [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: is a Julia package for text analysis.
-- [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels.
++ [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
++ [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
++ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
++ [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
++ [Jieba.jl](https://github.com/qinwf/Jieba.jl) ::  A package for Chinese text segmentation, keyword extraction and POS tagging.
++ [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors. 
++ [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
++ [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
++ [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
++ [NGram.jl](https://github.com/remusao/NGram.jl) :: Implement the NGram model.
++ [Parsimonious.jl](https://github.com/gitfoxi/Parsimonious.jl) :: A PEG parser generator.
++ [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: is an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
++ [SimpleParser.jl](https://github.com/ordovician/SimpleParser.jl) :: A very simple hackable parser and lexer for simple languages.
++ [Stemmers.jl](https://github.com/tanmaykm/Stemmers.jl) :: Interface for text stemmer implementations.
++ [Sumup.jl](https://github.com/remusao/Sumup.jl) :: Automatic multi-documents, multi-topics summarization based on topic extraction.
++ [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) :: Parser with beginners and enders and infix.
++ [Text.jl](https://github.com/mit-nlp/Text.jl) :: Numerous tools for text processing.
++ [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: is a Julia package for text analysis.
++ [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels.
 
 ###### Resources
 + [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
