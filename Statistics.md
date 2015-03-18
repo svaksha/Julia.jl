@@ -161,6 +161,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
++ [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools. 
 + [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 + [OutOfSampleBootstrap.jl](https://github.com/grayclhn/OutOfSampleBootstrap.jl) :: Regression model validation (out-of-sample) statistics.
