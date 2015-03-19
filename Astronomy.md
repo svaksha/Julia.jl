@@ -18,6 +18,9 @@
 - [WCS.jl](https://github.com/nolta/WCS.jl) :: wcslib wrapper for Julia.
 - [WCSLIB.jl](https://github.com/nolta/WCSLIB.jl) :: wcslib wrapper for Julia.
 
+###### Resources
++ [ioa-julia-tutorials](https://github.com/swt30/ioa-julia-tutorials) :: An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge 
+
 ----
 
 # Org-[JuliaAstro](https://JuliaAstro.github.io)
