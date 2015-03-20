@@ -1,15 +1,35 @@
-__HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, ...__
+__HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels, Compilers (source-to-source compiler, transcompiler/ transpilers)__
 
-* [DISTRIBUTED-PARALLEL](#distributed-parallel) 
++ [ARM-CUDA](#arm-cuda)
++ [COMPILERS](#compilers)
+   + [Transpiler](#transpiler)
++ [DISTRIBUTED-PARALLEL](#distributed-parallel) 
    + [Job Scheduler](#job-scheduler)
-* [GRID](#grid) 
-* [Org-JuliaGPU](#org-juliagpu)
++ [GRID](#grid) 
++ [Org-JuliaGPU](#org-juliagpu)
 + [Org-JuliaParallel](#org-juliaparallel)
 + [Org-JuliaLang](#org-julialang)
 
 ----
 
-* [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
+# ARM-CUDA
++ [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
+   - Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
++ [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
++ [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
++ Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
+
+----
+
+# COMPILERS
+- [CXX.jl](https://github.com/Keno/CXX.jl) :: Julia LLVM Interface experiments
+- [Clang.jl](https://github.com/ihnorton/Clang.jl) :: Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
+- [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
+- [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
+- [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
+
+### Transpiler
+* [Julia2C](https://github.com/IntelLabs/julia/tree/j2c) :: A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
 
 ---- 
 
@@ -41,18 +61,22 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ----
 
 # GRID
-- [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
++ [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
 
 ----
 
 # Org-[JuliaGPU](https://github.com/JuliaGPU)
-- [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
-- [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Wrapper for CUDA runtime API.
-- [CUFFT.jl](https://github.com/timholy/CUFFT.jl) :: Wrapper for the CUDA FFT library.
-- [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
-- [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's.
-- [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
-- [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
++ [CUDA.jl](https://github.com/lindahua/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
++ [CUDArt.jl](https://github.com/timholy/CUDArt.jl) :: Wrapper for CUDA runtime API.
++ [CUFFT.jl](https://github.com/timholy/CUFFT.jl) :: Wrapper for the CUDA FFT library.
++ [GPUArray.jl](https://github.com/jakebolewski/GPUArray.jl) :: GPU Array's.
++ [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
++ [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
++ [OpenCL.jl](https://github.com/jakebolewski/OpenCL.jl) :: OpenCL bindings for Julia is a cross platform API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others; similar in scope to PyOpenCL. 
++ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
+
+###### Resources
++ Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
 
 ----
 

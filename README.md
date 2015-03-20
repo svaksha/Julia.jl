@@ -1,11 +1,11 @@
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of resources for the [Julia language](https://github.com/JuliaLang).
 
-- [INDEX](#index)
-- [LICENSE](#license)
-   - [Mirrors](#mirrors)
-- [CONTRIBUTE](#contribute)
-   - [Guidelines](#guidelines)
-   - [BugReport-PullRequest](#bugreport-pullrequest)
++ [INDEX](#index)
++ [LICENSE](#license)
+   + [Mirrors](#mirrors)
++ [CONTRIBUTE](#contribute)
+   + [Guidelines](#guidelines)
+   + [BugReport-PullRequest](#bugreport-pullrequest)
 
 ----
 
@@ -23,10 +23,10 @@ For Base packages, check if the package you seek is listed in the [built-in pack
 + [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
 + [DataSets.md](https://github.com/svaksha/Julia.jl/blob/master/DataSets.md) :: Data Sets.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
-+ [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for Hardware architectures like ARM, MIPS, GPU, CUDA, cross-platform software and other API libraries.
++ [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware and other API libraries.
++ [HPC.md](https://github.com/svaksha/Julia.jl/blob/master/HPC.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
-+ [Parallel-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Parallel-Computing.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, etc...
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).

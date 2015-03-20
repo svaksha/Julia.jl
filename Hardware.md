@@ -1,21 +1,8 @@
-**Hardware arch (ARM, CUDA, GPU, MIPS), Compilers (source-to-source compiler, transcompiler/ transpilers), other software libraries,..**
+**Other software libraries,..**
 
-+ [ARM-CUDA](#arm-cuda)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
-+ [COMPILERS](#compilers)
-   - [Transpiler](#transpiler)
-+ [Robots](#robots)
 + [AUDIO](#audio)
-
-----
-
-# ARM-CUDA
-+ [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
-   - Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
-+ [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
-+ [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
-+ Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
 ----
 
@@ -38,25 +25,6 @@
 ##### DOCS
    - [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
    - Homer Reid's ["Introduction to Numerical Analysis - Basic Numerical Programming in Julia"](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course.
-
-----
-
-# COMPILERS
-- [CXX.jl](https://github.com/Keno/CXX.jl) :: Julia LLVM Interface experiments
-- [Clang.jl](https://github.com/ihnorton/Clang.jl) :: Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
-- [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
-- [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
-- [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
-
-### Transpiler
-* [Julia2C](https://github.com/IntelLabs/julia/tree/j2c) :: A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
-
-----
-
-# Robots
-- [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
-- [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
-- [RobotOS.jl](https://github.com/phobon/RobotOS.jl) :: Julia interface to ROS (Robot Operating System).
 
 ----
 
