@@ -9,6 +9,7 @@
 + [DATA STRUCTURES](#data-structures)
    + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
+   + [Publications](#publications)
 + [MACHINE LEARNING](#machine-learning)
 + [MARKOV MODELS](#markov-models)
 + [NEURAL NETWORKS](#neural-networks)
@@ -117,6 +118,9 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 + [MultiFrontalCholesky.jl](https://github.com/JuliaSparse/MultiFrontalCholesky.jl) :: The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
 + [MUMPS.jl](https://github.com/JuliaSparse/MUMPS.jl) :: An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
 + [MUMPSseq.jl](https://github.com/JuliaSparse/MUMPSseq.jl) :: Alternative Julia interface to MUMPS sparse system solver. 
+
+### Publications
++ [julia-paper-arrays](https://github.com/jiahao/julia-paper-arrays :: Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/) .
  
 ----
 
