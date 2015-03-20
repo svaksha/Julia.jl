@@ -9,6 +9,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [Org-JuliaGPU](#org-juliagpu)
 + [Org-JuliaParallel](#org-juliaparallel)
 + [Org-JuliaLang](#org-julialang)
++ [Publications](#publications)
 
 ----
 
@@ -93,4 +94,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [MPI.jl](https://github.com/JuliaParallel/MPI.jl) :: A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
 + [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) :: Scalable Linear Algebra PACKage.
 
+----
 
+# Publications
++ [Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof](http://jiahao.github.io/parallel-prefix/) :: A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
