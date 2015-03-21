@@ -70,3 +70,4 @@ Their [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-
 + [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) :: Macaque brain and skull extraction tools.
 + [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
 
+
