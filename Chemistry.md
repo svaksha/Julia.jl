@@ -20,6 +20,7 @@
 # Material Science
 + [BucklingOfPipes.jl](https://github.com/goedman/BucklingOfPipes.jl) :: This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes.
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course "AA432x Composite Materials Overview for Engineers" by K.Y.Lin.
++ [Dimers.jl](https://github.com/sswatson/Dimers.jl) :: Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29
 
 ----
 

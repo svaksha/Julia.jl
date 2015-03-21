@@ -17,7 +17,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [skeleton-webapp.jl](https://bitbucket.org/jocklawrie/skeleton-webapp.jl) :: This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
 
 ### RoR
-* [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) :: An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
++ [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) :: An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
 
 ### Org-[OpenFisca](https://github.com/openfisca/)
 + [OpenFiscaWebApi.jl](https://github.com/openfisca/OpenFiscaWebApi.jl) :: A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
@@ -27,14 +27,14 @@ Networking, web security, frameworks and other Web related things go here!
 # WWW
 
 ## Middleware
-- [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
-- [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
++ [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
++ [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
 
 ## Template Engines
-- [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
++ [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
 
 ## [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
-- [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
++ [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
 ## Web
 - [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
@@ -67,14 +67,14 @@ Networking, web security, frameworks and other Web related things go here!
 ----
 
 # NETWORKING
-- [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
-- [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
-- [Juliaflow](https://github.com/pchronz/juliaflow) :: is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
-- [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
-- [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
-- [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
-- [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
++ [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
++ [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
++ [Juliaflow](https://github.com/pchronz/juliaflow) :: is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
++ [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
++ [PosixCalendar.jl ::](https://github.com/dejakaymac/PosixCalendar.jl)
++ [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
++ [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
 
 ## Security
-- [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
++ [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
 
