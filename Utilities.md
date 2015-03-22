@@ -119,6 +119,7 @@
 + [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
 + [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 + [Media.jl](https://github.com/one-more-minute/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
++ [NeoVim.jl](https://github.com/Sean1708/NeoVim.jl) :: A client for writing NeoVim plugins in Julia. 
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
 
 ### Jupyter
