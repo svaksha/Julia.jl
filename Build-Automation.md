@@ -66,12 +66,12 @@
 __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch from github, so if you are not interested in the unstable bleeding-edge version of JULIA, stick to the stable release versions that are usually tagged as `vX.X` branches.
 
 #### Fedora-RHEL
-- Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
++ Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
 
 ----
 
 # BACKPORTS
-- [Julia-Backports](https://groups.google.com/forum/#!forum/julia-backports) Mailing list.
++ [Julia-Backports](https://groups.google.com/forum/#!forum/julia-backports) Mailing list.
 
 ----
 
@@ -91,4 +91,6 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 
 ### Git-Hooks
 + [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
+
+
 

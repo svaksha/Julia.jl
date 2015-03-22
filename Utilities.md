@@ -1,4 +1,4 @@
-**Desktop and other handy utilities**
+**Utilities.md :: Desktop User Interface, GUI and other handy utilities, Web browser UI-UX, etc..**
 
 + [DOCUMENTATION](#documentation)
 + [General Utilities](#general-utilities)
@@ -7,11 +7,15 @@
    - [Document Processors](#document-processors)
    - [Document Generator](#document-generator) 
    - [Microsoft Windows](#microsoft-windows)
++ [GeSHI](#geshi)
++ [GUI](#gui)
+   * [GTK]#gtk)
 + [ENVIRONMENTS](#environments)
    - [IDE](#ide)
    - [Jupyter](#jupyter)
    - [WIDE](#wide) 
    - [Shell](#shell)
++ [JAVASCRIPT](#javascript)
 
 ----
         
@@ -49,7 +53,7 @@
 + [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
 + [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) :: A Julia wrapper for the snappy library - a compression/decompression library focusing on speed.
 + [ZipFile.jl](https://github.com/fhs/ZipFile.jl) :: Read/Write ZIP archives in Julia.
-   * DOCS :: https://zipfilejl.readthedocs.org/en/latest/
+   + DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 
 ## Document Processors 
 + [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
@@ -72,6 +76,33 @@
 
 ----
 
+# GeSHI 
++ [List of Julia keywords](https://github.com/JuliaLang/julia/blob/master/contrib/julia-mode.el#L79-L108) and [here is another list](https://github.com/JuliaLang/julia/commit/71c0aa3e5660258af5c042058d5d8d3b82d93efb)
++ [Julia language file for GeSHI](https://github.com/john9631/JuliaDocs/blob/master/julia.php)
+
+----
+
+# GUI 
+**Widget toolkits and other graphical user interfaces**
++ [Canvas.jl](https://github.com/shashi/Canvas.jl) :: Composable UIs in Julia.
++ [DevTools.jl](https://github.com/one-more-minute/DevTools.jl) :: Dev tools that uses the `Media.jl` display system.
++ [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
++ [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: is a toolkit for viewing Julia packages, modules, etc....
++ [PySide.jl](https://github.com/jverzani/PySide.jl) :: is a julia interface for accessing Qt via PyCall and PySide.
++ [Table.jl](https://github.com/cpritcha/Table.jl) :: Display Tables in plain text, HTML, LaTex.
++ [Tk.jl](https://github.com/JuliaLang/Tk.jl) :: The Julia interface for the Tk windowing toolkit.
++ [XClipboard.jl](https://github.com/kmsquire/XClipboard.jl) :: are xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays). 
+
+
+### GTK
+**GIMP Toolkit**
++ [GI.jl](https://github.com/bfredl/GI.jl) :: Julia bindings using libgobject-introspection.
++ [Gtk.jl](https://github.com/JuliaLang/Gtk.jl) :: Julia interface to the GTK windowing toolkit.
++ [GtkApps.jl](https://github.com/tknopp/GtkApps.jl) :: GTK Apps by @tknopp.
++ [GtkInteract.jl](https://github.com/jverzani/GtkInteract.jl) :: Part of Interact.jl functionality with Gtk.
+
+----
+
 # ENVIRONMENTS
 **Braille, REPL shells, IDE/Text editors, WIDE, &c..**
 
@@ -87,6 +118,7 @@
 + [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
 + [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
 + [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
++ [Media.jl](https://github.com/one-more-minute/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
 
 ### Jupyter
@@ -111,9 +143,16 @@
 + [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
 + [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 
-### WIDE
+### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
 + [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 + [koding](https://koding.com/Julia) has an interactive online Julia REPL.
 + [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
+
+----
+
+# JAVASCRIPT
++ [Blink.jl](https://github.com/one-more-minute/Blink.jl) :: A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
++ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
++ [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 
