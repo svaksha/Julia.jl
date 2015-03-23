@@ -61,6 +61,8 @@
 + [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: is a BigRational package for Julia using GMP.
++ [BDF.jl](https://github.com/sam81/BDF.jl) :: Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
+   + [BDF.jl fork](https://github.com/codles/BDF.jl) by @codles :: A fork of BDF.jl that has started to add support for [EDF files](http://www.edfplus.info/specs/edf.html).
 + [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
 + [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) :: Types for continuous variables or parameters.
 + [DataStreams.jl](https://github.com/lindahua/DataStreams.jl) :: A Julia package to support streaming process of data .
@@ -72,7 +74,6 @@
 + [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
 + [frange](https://github.com/StefanKarpinski/frange)
-+ [JBDF.jl](https://github.com/sam81/JBDF.jl) :: Module to read Biosemi BDF files with the Julia programming language.
 + [jenks.jl](https://github.com/scw/jenks.jl)
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
 + [LHEF.jl](https://github.com/Keno/LHEF.jl) :: Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
