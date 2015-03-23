@@ -11,7 +11,7 @@
 
 ----
 
-- The official list of resources to [learn Julia](http://julialang.org/learning/).
++ The official list of resources to [learn Julia](http://julialang.org/learning/).
 
 # BOOKS
 + The book "[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)" by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
@@ -122,6 +122,7 @@
 ----
 
 # VIDEOS
++ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. Australia, Dec/2014.
 + EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 + JuliaCon-2014 ::
    - [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
