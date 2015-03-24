@@ -122,7 +122,7 @@
 ----
 
 # VIDEOS
-+ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. Australia, Dec/2014.
++ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
 + EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 + JuliaCon-2014 ::
    - [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.

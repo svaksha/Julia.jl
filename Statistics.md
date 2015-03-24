@@ -1,4 +1,4 @@
-**Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning (ML) and Statistics are closely related fields, so do check out the AI.md page for ML packages.**
+**Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning (ML) and Statistics are closely related fields, so do check out the [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) page for ML packages.**
 
 + [ACTUARIAL SCIENCE](#actuarial-science)
    * [Econometrics](#econometrics) 
