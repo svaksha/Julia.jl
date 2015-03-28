@@ -143,6 +143,7 @@
 + [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
 + [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
 + [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
++ [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl.).
 
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
@@ -158,5 +159,4 @@
 + [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 
 
-.jl (https://github.com/jgoldfar/Termbox.jl) is a wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl.)
 
