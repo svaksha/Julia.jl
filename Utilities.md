@@ -157,3 +157,6 @@
 + [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
 + [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 
+
+.jl (https://github.com/jgoldfar/Termbox.jl) is a wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl.)
+

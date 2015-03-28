@@ -1,4 +1,4 @@
-A page listing community and development links, including events, (un)conferences, forums/ meetup groups, NEWS, social networks, etc..
+List of communities, development links, including events, (un)conferences, forums/ meetup groups, NEWS, social networks, etc..
 
 + [COMMUNITY](#community)
 + [CONFERENCES](#conferences)
@@ -18,6 +18,11 @@ The Julia [community](http://julialang.org/community/) is distributed over vario
    + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) and 
    + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) mailing list(s).
 Smaller special interest groups (SIG) have their own mailing lists and github orgs, which are linked in the respective pages.
+__NEWS from social networking communities, QA sites and Twitter.__
++ [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
++ [Reddit](http://www.reddit.com/r/Julia/)
++ [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
++ [Julialang news on Twitter](https://twitter.com/julialang_news)
 
 #### HowTo Contribute
 To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page, the sections on [continuous integration](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#continuous-integration) and [git hooks](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#git-hooks) and the links to (open) BUGS on Github:
@@ -42,23 +47,23 @@ __The official Julia conference and local meetup groups located around the world
 ## [Julia User Groups](http://julia.meetup.com)
 
 ### Asia-INDIA
-- [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
++ [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
 
 ### Asia-JAPAN
-- [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
++ [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
 ### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
 + [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
 
 ### Europe-SWITZERLAND
-- [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
++ [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
 ### Europe-UK
-- [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
++ [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
 ### NorthAmerica-CANADA
-- [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
-- [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
++ [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
++ [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
 
 ### NorthAmerica-MEXICO
 + [México City](http://www.meetup.com/julialang-mx/), Mexico.
@@ -69,33 +74,28 @@ __The official Julia conference and local meetup groups located around the world
 + [Southern California](http://www.meetup.com/Southern-California-Julia-Users/) JUG.
 
 **GA**
-- [Atlanta](http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group.
++ [Atlanta](http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group.
 
 **IL**
-- [Chicago](http://www.meetup.com/JuliaChicago/) Julia Meetup group.
++ [Chicago](http://www.meetup.com/JuliaChicago/) Julia Meetup group.
 
 **MA**
-- [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
++ [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
 
 **NC**
-- [Triangle Julia Users](http://www.meetup.com/Triangle-Julia-Users/), Raleigh.
++ [Triangle Julia Users](http://www.meetup.com/Triangle-Julia-Users/), Raleigh.
 
 **NY**
-- [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
++ [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
 
 ### SouthAmerica-BRAZIL
-+ [Campinas]http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
++ [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
 + [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
 + [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
 
 ----
 
 # NEWS
-NEWS from social networks and communities, QA sites and Twitter.
-+ [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
-+ [Reddit](http://www.reddit.com/r/Julia/)
-+ [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
-+ [Julialang news on Twitter](https://twitter.com/julialang_news)
 
 ### Blogs
 + [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
@@ -107,6 +107,6 @@ NEWS from social networks and communities, QA sites and Twitter.
 + 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
 
 ### Yellow Press 
-- A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
++ A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
 
 
