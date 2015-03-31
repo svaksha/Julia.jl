@@ -13,7 +13,7 @@
 
 # Control System
 **Implementations of numerical algorithms for computations in systems and control theory.**
-- [Control.jl](https://github.com/jcrist/Control.jl) :: Control Systems toolbox for Julialang.
++ [Control.jl](https://github.com/JuliaControl/Control.jl) :: Control Systems toolbox for Julialang.
 - [Fontconfig.jl](https://github.com/dcjones/Fontconfig.jl) :: Basic Julia bindings for fontconfig.
 - [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) :: Common functional iterator patterns.
    - Blog post on [Tricked out iterators](http://slendermeans.org/julia-iterators.html) in Julia.
