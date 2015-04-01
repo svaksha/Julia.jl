@@ -2,12 +2,12 @@ List of communities, development links, including events, (un)conferences, forum
 
 + [COMMUNITY](#community)
 + [CONFERENCES](#conferences)
-   - [JuliaCon](#juliacon)
-   - [Julia User Groups](#julia-user-groups)
+   + [JuliaCon](#juliacon)
+   + [Julia User Groups](#julia-user-groups)
 + [NEWS](#news)
-   - [Blogs](#blogs)
-   - [Media](#media)
-   - [Yellow Press](#yellow-press)
+   + [Blogs](#blogs)
+   + [Media](#media)
+   + [Yellow Press](#yellow-press)
 
 ----
 

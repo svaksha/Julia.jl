@@ -121,6 +121,7 @@ __Read other Julia-users experiences with visualization and plotting.__
 # Org-[JuliaGL](https://github.com/JuliaGL)
 __Julia packages for the OpenGL API ecosystem.__
 + [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
++ [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl) :: Visualization library written in Julia and OpenGL.
 + [Vulkan.jl](https://github.com/JuliaGL/Vulkan.jl) :: Wrapper of Vulkan, Khronos next generation OpenGL API.
 
 ----
