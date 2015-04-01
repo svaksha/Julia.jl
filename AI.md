@@ -14,7 +14,6 @@
 + [MARKOV MODELS](#markov-models)
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
-+ [Robots](#robots)
 + [SPEECH RECOGNITION](#speech-recognition)
    + [DSP](#dsp)
    + [Org-JuliaDSP](#org-dsp)
@@ -225,13 +224,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 ###### Resources
 + [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
-
-----
-
-# Robots
-+ [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
-+ [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
-+ [RobotOS.jl](https://github.com/phobon/RobotOS.jl) :: Julia interface to ROS (Robot Operating System).
 
 ----
 
