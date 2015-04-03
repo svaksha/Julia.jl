@@ -119,7 +119,7 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 + [MUMPSseq.jl](https://github.com/JuliaSparse/MUMPSseq.jl) :: Alternative Julia interface to MUMPS sparse system solver. 
 
 ### Publications
-+ [julia-paper-arrays](https://github.com/jiahao/julia-paper-arrays :: Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/) .
++ [julia-paper-arrays](https://github.com/jiahao/julia-paper-arrays) :: Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
 
 ###### RESOURCES
 + [Benchmarking Matrix Multiplication](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.335/Matrix-multiplication-experiments.ipynb)

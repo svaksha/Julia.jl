@@ -31,6 +31,7 @@
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
 + [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: Detect correlated evolution on phylogenies.
++ [ProgressiveAligner.jl](https://github.com/latticetower/ProgressiveAligner.jl) :: Progressive alignment scripts for protein sequences.
 + [PseudoGenomes.jl](https://github.com/nw11/PseudoGenomes.jl) :: Read alleles without a VCF parser.
 + [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
