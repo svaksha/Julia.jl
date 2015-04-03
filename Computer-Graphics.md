@@ -41,6 +41,7 @@
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
 + [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
++ [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) ::  Package to calculate Leaf Area Index from Hemisperical Images.
 + [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
 + [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package. 
 + [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
