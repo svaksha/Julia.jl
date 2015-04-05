@@ -102,8 +102,6 @@ __Packages and resources that support various programming styles, Software Archi
 + [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
 + [Lazy.jl](https://github.com/one-more-minute/Lazy.jl) :: Functional programming for Julia.
 + [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
-+ [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
-   + _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 
 ### Grammatical Evolution
 + [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: package for Julia, an evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
