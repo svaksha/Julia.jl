@@ -91,6 +91,7 @@
 # Programming Paradigms
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
++ [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
 * [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
