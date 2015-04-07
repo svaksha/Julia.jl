@@ -111,10 +111,11 @@
 
 ### Orthogonal Polynomials
 + [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.
++ [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
 + [Jacobi.jl](https://github.com/pjabardo/Jacobi.jl) :: Jacobi polynomials and Gauss quadrature related functions.
 + [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) :: Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 + [Polynomial.jl](https://github.com/vtjnash/Polynomial.jl) :: Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
-+ [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
++ [TempInterp.jl](https://github.com/cc7768/TempInterp.jl) :: Evaluation of Chebyshev polynomials and splines.
 
 ### [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
 + [SJulia](https://github.com/jlapeyre/SJulia) :: A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
