@@ -9,6 +9,7 @@ Networking, web security, frameworks and other Web related things go here!
    * [Web](#web)
       + [Org-JuliaWeb](org-juliaweb)
 * [NETWORKING](#networking)
+   + [Security](#security)
 
 ----
 
@@ -77,4 +78,5 @@ Networking, web security, frameworks and other Web related things go here!
 
 ## Security
 + [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
++ [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
 
