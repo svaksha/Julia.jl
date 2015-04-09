@@ -1,11 +1,11 @@
 **Build automation software, continuous integration (CI), continuous delivery (CD), Infrastructure management, Packaging, Release engineering/ management tools, Software configuration management (SCM) software...**
 
-- [INSTALL](#install)
-- [PACKAGING](#packaging)
-- [BACKPORTS](#backports)
-- [BUILD AUTOMATION](#build-automation)
++ [INSTALL](#install)
++ [PACKAGING](#packaging)
++ [BACKPORTS](#backports)
++ [BUILD AUTOMATION](#build-automation)
    + [DistrOS](#distros)
-- [CONTINUOUS INTEGRATION](#continuous-integration)
++ [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Org-Julia-CI](#org-julia-ci)
    + [Git-Hooks](#git-hooks)
 

@@ -38,7 +38,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 **Cloud/ Cluster**
 - [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 - [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) :: Few utility types over Julia Vector type.
-- [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
++ [Elly.jl](https://github.com/tanmaykm/Elly.jl) :: A Hadoop HDFS and Yarn client.
++ [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
 - [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
 - [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 - [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
