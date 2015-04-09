@@ -1,6 +1,5 @@
 - [DB-ArrayDB](#db-arraydb)
 - [DB-NOSQL](#db-nosql)
-   - [FoundationDB](#foundationdb)
    - [LMDB](#lmdb)
    - [MongoDB](#mongodb) 
    - [Redis](#redis)
@@ -22,10 +21,6 @@
 ----
 
 # DB-NOSQL
-
-## FoundationDB
-- [Catacomb.jl](https://github.com/wwilson/Catacomb.jl) :: A client-side elliptic curve cryptography layer for FoundationDB.
-- [fdb.jl](https://github.com/wwilson/fdb.jl) :: Julia Bindings for FoundationDB.
 
 ## LMDB
 * [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
