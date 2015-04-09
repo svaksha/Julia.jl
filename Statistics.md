@@ -213,6 +213,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [KLDivergence.jl](https://github.com/johnmyleswhite/KLDivergence.jl) :: KL-divergence estimation in Julia.
 + [KSVM.jl](https://github.com/remusao/KSVM.jl) :: Kernel Support Vector Machine (SVM) written in Julia.
 + [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
++ [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) :: A julia package for modeling and fitting generalized low rank models. 
 + [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) :: A Julia package for manifold learning and non-linear dimensionality reduction.
    + [Documentation](http://manifoldlearningjl.readthedocs.org/en/latest/index.html)
 + [MCMC2.jl](https://github.com/johnmyleswhite/MCMC2.jl) :: Alternative MCMC package design demo.
