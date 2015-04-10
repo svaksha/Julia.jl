@@ -239,6 +239,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Ridge.jl](https://github.com/johnmyleswhite/Ridge.jl) :: Ridge regression and classification.
 + [Rmath.jl](https://github.com/dmbates/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 + [RunningStats.jl](https://github.com/johnmyleswhite/RunningStats.jl) :: Julia translation of John D. Cook's code for running moment statistics and univariate regressions.
++ [SGD.jl](https://github.com/lindahua/SGD.jl) by @lindahua :: A julia package for Stochastic Gradient Descent.
 + [SGD.jl](https://github.com/johnmyleswhite/SGD.jl) by @johnmyleswhite :: Fit models using SGD in Julia.
 + [SDP.jl](https://github.com/trthatcher/SDP.jl) by @trthatcher :: Statistical Data Processing.
 + [SGDDemo.jl](https://github.com/johnmyleswhite/SGDDemo.jl) :: Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.
