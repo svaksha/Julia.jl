@@ -258,8 +258,8 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 
-
-###### Learning Resources
+###### Resources
++ [Video of Andreas Noack and Jiahoa Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford on Thursday, 09Ar2015. 
 + [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
 
 ## [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)

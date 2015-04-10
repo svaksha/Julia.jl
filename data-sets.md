@@ -21,15 +21,18 @@
 
 # Genome
 + Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
-+ [WormBase](http://www.wormbase.org/species/all#0--10) :: Species genomes with standardized sequence and annotations.
-+ [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from "neglected taxa" using the PartiGene suite of programmes.
-+ [Nematode Transcriptome Analyses](http://www.nematodes.org/nembase4/)
 * [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
 * [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
 * [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
 * The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
 * NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
 * [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
+
+### Worms, Virus, Nematodes
++ The central [MANUELA database](http://www.marbef.org/projects/Manuela/data.php), a.k.a. __M__eiobenthic __A__nd __N__ematode biodiversity __U__nravelling __E__cological and __L__atitudinal __A__spects database is compiled by capturing the available data on meiobenthos on a broad European scale.
++ [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from "neglected taxa" using the PartiGene suite of programmes.
++ [Nematode Transcriptome Analyses](http://www.nematodes.org/nembase4/).
++ [WormBase](http://www.wormbase.org/species/all#0--10) :: Species genomes with standardized sequence and annotations.
 
 ----
 
