@@ -22,7 +22,8 @@
 ----
 
 # GEOSTATISTICS
-- [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
++ [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
++ [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
 
 ----
 
