@@ -39,7 +39,6 @@
 + [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
-+ [IQSIM.jl](https://github.com/juliohm/IQSIM.jl) :: 3D image quilting simulation.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
 + [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) ::  Package to calculate Leaf Area Index from Hemisperical Images.

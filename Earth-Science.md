@@ -24,6 +24,7 @@
 # GEOSTATISTICS
 + [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
 + [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
++ [IQSIM.jl](https://github.com/juliohm/IQSIM.jl) :: 3D image quilting simulation for Geostatistics.
 
 ----
 
