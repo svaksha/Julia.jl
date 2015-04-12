@@ -61,6 +61,7 @@
 ## Games
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
++ [zyedidia/SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML. 
 
 ###### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
