@@ -259,7 +259,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 
 ###### Resources
-+ [Video of Andreas Noack and Jiahoa Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford on Thursday, 09Ar2015. 
++ 2015APR09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford. [Notebook presentation of the talk](http://andreasnoack.github.io/talks/2015AprilStanford_AndreasNoack.ipynb).
 + [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
 
 ## [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)
