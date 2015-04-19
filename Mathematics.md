@@ -1,12 +1,13 @@
-**Only Mathematical libraries and packages**
+**Only [Mathematical](http://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries and packages**
 
 * [CRYPTOGRAPHY](#cryptography)
    * [Cryptocurrency](#cryptocurrency)
 * [MATH](#math)
    * [Algebra](#algebra)
-      + [Boolean Algebra](#boolean-algebra)
-      + [Orthogonal Polynomials](#orthogonal-polynomials) 
-      + [Symbolic Computation](#symbolic-computation)
+        + [Abstract Algebra](#abstract-algebra)
+        + [Boolean Algebra](#boolean-algebra)
+        + [Orthogonal Polynomials](#orthogonal-polynomials) 
+        + [Symbolic Computation](#symbolic-computation)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
       + [Ordinary Differential Equations](#ordinary-differential-equations)
@@ -105,6 +106,9 @@
 + [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
+
+### [Abstract Algebra](http://en.wikipedia.org/wiki/Abstract_algebra)
++ [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) :: LLL lattice reduction, sphere decoder, and related lattice tools.
 
 ### [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
 + [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
