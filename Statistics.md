@@ -260,6 +260,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 
 ## Org-[JuliaStats](https://JuliaStats.github.io).
++ [ConjugatePriors.jl](https://github.com/JuliaStats/ConjugatePriors.jl) :: A package to support conjugate prior distributions.
 + [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl) :: A Library for working with tabular data in Julia.
    * _DOCS_:: The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
 + [DataArrays.jl](https://github.com/JuliaStats/DataArrays.jl) :: This package extends Julia by introducing data structures that can contain missing data.
