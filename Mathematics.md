@@ -108,7 +108,6 @@
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
 ### [Abstract Algebra](http://en.wikipedia.org/wiki/Abstract_algebra)
-+ [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) :: LLL lattice reduction, sphere decoder, and related lattice tools.
 
 ### [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
 + [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
@@ -229,7 +228,6 @@
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [LinearOperators.jl](https://github.com/dpo/LinearOperators.jl) :: Linear Operators for Julia.
 + [RandomMatrices.jl](https://github.com/jiahao/RandomMatrices.jl) :: Random Matrices.
-+ [juliaSpot](https://github.com/slimgroup/juliaSpot) :: The Julia implementation of the Spot Linear Algebra Package.
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [MovcolN.jl](https://github.com/pwl/MovcolN.jl) :: Moving collocation method to solve one dimensional partial differential equations.
@@ -254,8 +252,10 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 **Linear Algebra**
 + [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
++ [juliaSpot](https://github.com/slimgroup/juliaSpot) :: The Julia implementation of the Spot Linear Algebra Package.
 + [KrylovSolvers.jl](https://github.com/cfbaptista/KrylovSolvers.jl) :: Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
 + [LDA.jl](https://github.com/remusao/LDA.jl) :: Linear Discriminant Analysis and Kernel Fisher Analysis.
++ [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) :: LLL lattice reduction, sphere decoder, and related lattice tools.
 + [LMCLUS.jl](https://github.com/wildart/LMCLUS.jl) :: Julia's package for Linear Manifold Clustering.
 + [MUMPS](https://github.com/lruthotto/MUMPS) :: A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 + [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
