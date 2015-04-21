@@ -1,10 +1,10 @@
-- [PACKAGES](#datasets)
-* [Genome](#genome)
-* [General Datasets](#general-datasets)
-* [Machine Learning](#machine-learning)
-* [Neuroscience](#neuroscience)
-* [Pharma](#Pharma)
-* [Research Data](#research-data)
++ [PACKAGES](#datasets)
++ [Genome](#genome)
++ [General Datasets](#general-datasets)
++ [Machine Learning](#machine-learning)
++ [Neuroscience](#neuroscience)
++ [Pharma](#Pharma)
++ [Research Data](#research-data)
 
 ----
 
@@ -37,32 +37,31 @@
 ----
 
 # General Datasets
-* [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
-* [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
++ [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
++ [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
++ [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
 
 ----
 
 # Machine Learning
-* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
++ [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 ----
 
 # Neuroscience
-* [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
-* [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
-* [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
++ [OpenfMRI.org](https://openfmri.org) :: is a project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
++ [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
++ [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
 
 ----
 
 # Pharma
-* [OSDD - open source drug discovery](http://www.osdd.net/).
++ [OSDD - open source drug discovery](http://www.osdd.net/).
 
 ----
 
 # Research Data
-* [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
++ [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
 
 ----
-
-
 
