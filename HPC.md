@@ -3,6 +3,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [ARM-CUDA](#arm-cuda)
 + [COMPILERS](#compilers)
    + [Transpiler](#transpiler)
++ [Computer Performance](#computer-performance)
 + [DISTRIBUTED-PARALLEL](#distributed-parallel) 
    + [Job Scheduler](#job-scheduler)
 + [GRID](#grid) 
@@ -34,6 +35,11 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ---- 
 
+# Computer Performance
++ [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) :: Amodule for CPU timing. 
++ [USERTime.jl](https://github.com/christianpeel/USERTime.jl) :: A Julia package for measuring elapsed user time. 
+
+----
 # DISTRIBUTED-PARALLEL
 **Cloud/ Cluster**
 - [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
