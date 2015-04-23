@@ -1,7 +1,7 @@
 **Only [Mathematical](http://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries and packages**
 
-* [CRYPTOGRAPHY](#cryptography)
-   * [Cryptocurrency](#cryptocurrency)
++ [CRYPTOGRAPHY](#cryptography)
+   + [Cryptocurrency](#cryptocurrency)
 * [MATH](#math)
    * [Algebra](#algebra)
         + [Abstract Algebra](#abstract-algebra)
@@ -228,6 +228,7 @@
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [LinearOperators.jl](https://github.com/dpo/LinearOperators.jl) :: Linear Operators for Julia.
 + [RandomMatrices.jl](https://github.com/jiahao/RandomMatrices.jl) :: Random Matrices.
+   + [Video](https://www.youtube.com/watch?v=68yy33jOkOs) of Jiahao and Andreas talk on __Free probability, random matrices and disorder in organic semiconductors__ at MIT CSAIL.
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [MovcolN.jl](https://github.com/pwl/MovcolN.jl) :: Moving collocation method to solve one dimensional partial differential equations.
