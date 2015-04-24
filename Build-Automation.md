@@ -2,9 +2,10 @@
 
 + [INSTALL](#install)
 + [PACKAGING](#packaging)
+   + [Containers](#containers)
+   + [DistrOS](#distros)
 + [BACKPORTS](#backports)
 + [BUILD AUTOMATION](#build-automation)
-   + [DistrOS](#distros)
 + [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Org-Julia-CI](#org-julia-ci)
    + [Git-Hooks](#git-hooks)
@@ -47,9 +48,14 @@
    - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
+
+## Containers
++ [Docker](https://registry.hub.docker.com/_/julia/) image for Julia.
++ [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
+
 ## DistrOS
-- [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
-- [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
++ [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
++ [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 
 #### Debian-Ubuntu
 + [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
@@ -78,8 +84,8 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 # BUILD AUTOMATION
 - [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 - [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
-- [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 - [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
+
 
 ----
 
