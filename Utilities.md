@@ -145,7 +145,7 @@
 + [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
 + [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
 + [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
-+ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Function piping in Julia.
++ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 + [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
 + [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 + [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl.).
@@ -169,3 +169,4 @@
 
 # VoIP
 + [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) :: A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
+
