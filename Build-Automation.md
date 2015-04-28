@@ -9,6 +9,7 @@
 + [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Org-Julia-CI](#org-julia-ci)
    + [Git-Hooks](#git-hooks)
++ [NEWS](#news)
 
 ----
 
@@ -99,4 +100,8 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 + [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 
 
+----
+
+# NEWS
++ [Devops Weekly](http://www.devopsweekly.com/)
 
