@@ -88,7 +88,6 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 + [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
 + [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
 
-
 ----
 
 # CONTINUOUS INTEGRATION
