@@ -103,7 +103,7 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 
 # DEVELOPMENT
 Helper tools for core `julia` language development.
-+ [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to test and rebuild the base Julia system image.
++ [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to reload and test modifications to base without recompiling the full system image.
 
 ----
 
