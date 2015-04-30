@@ -9,6 +9,7 @@
 + [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Org-Julia-CI](#org-julia-ci)
    + [Git-Hooks](#git-hooks)
++ [DEVELOPMENT](#development)
 + [NEWS](#news)
 
 ----
@@ -23,8 +24,8 @@
 ----
 
 # PACKAGING
-- [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
-   - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
++ [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
+   + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
 + [BinDeps.jl](https://github.com/JuliaLang/BinDeps.jl) :: Tool for building binary dependencies for Julia modules.
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
@@ -83,9 +84,9 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 ----
 
 # BUILD AUTOMATION
-- [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
-- [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
-- [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
++ [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
++ [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
++ [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
 
 
 ----
@@ -99,6 +100,11 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 ### Git-Hooks
 + [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 
+----
+
+# DEVELOPMENT
+Helper tools for core `julia` language development.
++ [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to test and rebuild the base Julia system image.
 
 ----
 
