@@ -5,7 +5,7 @@
    + [Finance](#finance)
    + [Org-JuliaQuant](#org-juliaquant)
 + [BENCHMARKS](#benchmarks)
-   * [Preprocessor](#preprocessor)
+   + [Preprocessor](#preprocessor)
 + [OPERATIONS RESEARCH](#operations-research)
    * [Optimization](#optimization)
    * [Org-JuliaOpt](#org-juliaopt)
@@ -82,7 +82,7 @@
 - [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) :: Julia module to test the performance of sorting algorithms.
 
 ### Preprocessor
-- [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
++ [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
 
 ----
 
@@ -91,11 +91,6 @@
 + [CSDP.jl](https://github.com/joehuchette/CSDP.jl) :: Julia wrapper for the CSDP semidefinite programming solver.
 + [CutPools.jl](https://github.com/joehuchette/CutPools.jl) :: Pools of cutting planes for JuMP models.
 + [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
-+ [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
-  * _JuMP DOCS_::
-  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
-+ [JuMPeR.jl](https://github.com/IainNZ/JuMPeR.jl) :: Julia for Mathematical Programming (JuMP) extension for Robust optimization.
-+ [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
 + [jobshop](https://github.com/stefan-k/jobshop) :: The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
 + [MinFinder.jl](https://github.com/Ken-B/MinFinder.jl) :: The MinFinder algorithm to find all the minima for a differentiable function inside a bounded domain.
 + [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) :: Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
@@ -110,8 +105,7 @@
 ###### Resources
 + [ORSoftwareTools2014](https://github.com/IainNZ/ORSoftwareTools2014) :: This is the repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research".
 + [DG2012Tutorial.jl](https://github.com/johnmyleswhite/DG2012Tutorial.jl) :: Simple examples of SGD-style computations in Julia.
-+ [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
-+ [CMU-notebooks](https://github.com/joehuchette/CMU-notebooks) :: IJulia notebooks for the JuMP tutorial at CMU. 
+
 
 ## Optimization 
 + [ampl.jl](https://github.com/dpo/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
@@ -126,6 +120,14 @@
 + [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) :: is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
 + [IProfile](https://github.com/timholy/IProfile.jl) :: Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an "instrumenting profiler" for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)
 + [JuliaCMAES](https://github.com/Staross/JuliaCMAES) :: CMA-ES port - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
++ [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
+  * __Resources::JuMP__::
+  + [JuMPSupplement](https://github.com/mlubin/JuMPSupplement) :: Repository containing supplementary materials and code for "JuMP: A Modeling Language for Mathematical Optimization" by I. Dunning, J. Huchette, and M. Lubin.
+  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
+  + [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
+  + [CMU-notebooks](https://github.com/joehuchette/CMU-notebooks) :: IJulia notebooks for the JuMP tutorial at CMU. 
++ [JuMPeR.jl](https://github.com/IainNZ/JuMPeR.jl) :: Julia for Mathematical Programming (JuMP) extension for Robust optimization.
++ [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
 + [Junquo.jl](http://github.com/IainNZ/Junquo.jl) :: stands for "JUlia Nonconvex QUadratically constrained quadratic program Optimizer", a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
 + [LossFuns.jl](https://github.com/lindahua/LossFuns.jl) :: An implementation of loss functions for empirical risk minimization. 
 + [LSQ.jl](https://github.com/davidlizeng/LSQ.jl) :: is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
