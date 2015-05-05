@@ -113,6 +113,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
++ https://github.com/davidagold/MetaMerge.jl :: Merge functions with identical names from distinct modules 
 
 ### Meta Programming
 ##### DOCS

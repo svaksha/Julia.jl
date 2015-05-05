@@ -268,6 +268,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 ###### Resources
 + 2015APR09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford. [Notebook presentation of the talk](http://andreasnoack.github.io/talks/2015AprilStanford_AndreasNoack.ipynb).
++ Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
 + [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
 
 ## [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)
