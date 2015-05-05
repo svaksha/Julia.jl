@@ -112,8 +112,8 @@ __Packages and resources that support various programming styles, Software Archi
 + [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
 + [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
++ [MetaMerge.jl](https://github.com/davidagold/MetaMerge.jl) :: Merge functions with identical names from distinct modules.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
-+ https://github.com/davidagold/MetaMerge.jl :: Merge functions with identical names from distinct modules 
 
 ### Meta Programming
 ##### DOCS
