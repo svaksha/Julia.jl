@@ -15,7 +15,9 @@ Networking, web security, frameworks and other Web related things go here!
 
 # FRAMEWORKS
 + [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
++ [Pythia.jl](https://github.com/Keno/Pythia.jl) :: Julia wrappers for the Pythia event generator. 
 + [skeleton-webapp.jl](https://bitbucket.org/jocklawrie/skeleton-webapp.jl) :: This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
+
 
 ### RoR
 + [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) :: An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
