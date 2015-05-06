@@ -150,7 +150,7 @@
 + [SGD.jl](https://github.com/johnmyleswhite/SGD.jl) by @johnmyleswhite :: Fit models using SGD in Julia.
 + [SGDDemo.jl](https://github.com/johnmyleswhite/SGDDemo.jl) :: Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.
 + [SGD2.jl](https://github.com/johnmyleswhite/SGD2.jl) :: Stochastic gradient descent, a draft of new methods for SGD calculations.
-
++ [simplex.jl](https://github.com/davidagold/simplex.jl) :: Practice project program that performs the simplex algorithm. 
 
 ### Org-[JuliaOpt](http://juliaopt.org/) 
 An umbrella group for Julia-based optimization-related projects, with its own [mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
