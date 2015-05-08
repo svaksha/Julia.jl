@@ -1,11 +1,14 @@
 + [PACKAGES](#packages)
+* [Crystallography](#crystallography)
 + [Genome](#genome)
 + [General Datasets](#general-datasets)
+* [Genetics-Medicine](#genetics-medicine)
 + [Machine Learning](#machine-learning)
 + [Molecular Biology](#molecular-biology)
 + [Neuroscience](#neuroscience)
 + [Pharma](#Pharma)
 + [Research Data](#research-data)
+* [Scientific Databases](#scientific-databases)
 
 ----
 
@@ -17,6 +20,13 @@
 - [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
 - [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 - [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
+
+----
+
+# Crystallography
+* [Crystallographic databases](http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP.
+* [Protein Data Bank](http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP.
+* [Inorganic Crystal Structure Database](http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database) 
 
 ----
 
@@ -41,6 +51,12 @@
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
 + [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
+
+----
+
+# Genetics-Medicine
+* [Resources for Genetics and Medicine](https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/]
+* [HIV-1, Human Protein Interaction Database](http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/) :: A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data.
 
 ----
 
@@ -70,4 +86,8 @@
 + [Registry of Research Data Repositories](http://www.re3data.org/) :: provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web.
 
 ----
+
+# Scientific Databases
+* [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
+* [Chemical DB](http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP.
 
