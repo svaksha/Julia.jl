@@ -50,6 +50,7 @@
 ----
 
 # CHEATSHEETS
++ [Noteworthy Differences from other Languages](http://docs.julialang.org/en/release-0.3/manual/noteworthy-differences/)
 + John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 + [Julia-cheatsheet.pdf](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
 + Cheatsheet for [Julia Types](https://github.com/tanmaykm/julia_types)

@@ -59,7 +59,6 @@
 + [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
 + [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
 + [Grist.jl](https://github.com/JuliaQuant/Grist.jl) :: Financial blotter. 
-+ [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 + [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
 + [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values. 
 
@@ -218,7 +217,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Jags.jl](https://github.com/goedman/Jags.jl) :: Julia package for using Just another Gibbs sampler.
 + [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
 + [KLDivergence.jl](https://github.com/johnmyleswhite/KLDivergence.jl) :: KL-divergence estimation in Julia.
-+ [KSVM.jl](https://github.com/remusao/KSVM.jl) :: Kernel Support Vector Machine (SVM) written in Julia.
 + [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
 + [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) :: A julia package for modeling and fitting generalized low rank models. 
 + [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) :: A Julia package for manifold learning and non-linear dimensionality reduction.
@@ -232,7 +230,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
 + [NaiveBayes.jl](https://github.com/nutsiepully/NaiveBayes.jl) :: Simple Naive Bayes implementation in Julia.
 + [NURBS.jl](https://github.com/TheBB/NURBS.jl) :: A Julia package for manipulating NURBS objects (curves, surfaces, volumes, etc.).
-+ [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The julia package for nonparametric density estimate and regression.
 + [NHST.jl](https://github.com/johnmyleswhite/NHST.jl) :: Null hypothesis significance tests.
 + [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
 + [PGM0.jl](https://github.com/micklat/PGM0.jl) :: A bottom-up approach to probabilistic graphical models.
@@ -251,7 +248,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [SpecialFunctions.jl](https://github.com/nolta/SpecialFunctions.jl) :: Functions for AMOS, a statistical software package for [structural equation modeling](http://en.wikipedia.org/wiki/Structural_equation_modeling), produced by SPSS.
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
 + [SimpleRL.jl](https://github.com/johnmyleswhite/SimpleRL.jl) :: A bare-bones package for simulating RL models and estimating them from behavioral data.
-+ [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) :: Smoothing kernels for use in kernel regression and kernel density estimation.
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
 + [Turing.jl](https://github.com/LaurenceA/Turing.jl) :: A Turing complete probabilistic programming language embedded in Julia.
 + [VCOV.jl](https://github.com/gragusa/VCOV.jl) :: Build StatusHeteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation for Julia.
@@ -274,7 +270,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Distributions.jl](http://juliastats.github.io/Distributions.jl/index.html) :: The Distributions package.
    * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
 + [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM's) and generalized linear models (GLM's) in Julia.
-+ [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators that can handle univariate and bivariate data, but only continuous variables. 
 + [Lora.jl](https://github.com/JuliaStats/Lora.jl) :: is a generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods. 
 + [MLBase.jl](https://github.com/JuliaStats/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
 + [PGM.jl](https://github.com/JuliaStats/PGM.jl) :: A Julia framework for probabilistic graphical models.
@@ -284,8 +279,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 + [StreamStats.jl](https://github.com/johnmyleswhite/StreamStats.jl) :: Compute statistics over data streams.
 + [SVM.jl](https://github.com/JuliaStats/SVM.jl) :: Native Julia implementations of standard SVM algorithms.
-+ [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
-+ [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
+
 
 ### Probabilistic Programming
 + [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
@@ -314,6 +308,18 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
 + [StatTests.jl](https://github.com/i-kiwamu/StatTests.jl) :: [A set of statistical tests for Julia.
 
+## [TimeSeries](https://en.wikipedia.org/wiki/Time_series] Analysis
++ [DependentBootstrap](https://github.com/colintbowers/DependentBootstrap.jl) :: A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
++ [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators that can handle univariate and bivariate data, but only continuous variables. 
++ [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The julia package for nonparametric density estimate and regression.
++ [KernelStat](https://github.com/colintbowers/KernelStat.jl) :: A module for the Julia language for kernel-function based statistics.
++ [KSVM.jl](https://github.com/remusao/KSVM.jl) :: Kernel Support Vector Machine (SVM) written in Julia.
++ [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
++ [RARIMA](https://github.com/colintbowers/RARIMA.jl) :: An ARIMA (Autoregressive Integrated Moving Average) module for the Julia language that uses libraries from the R-language.
++ [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) :: Smoothing kernels for use in kernel regression and kernel density estimation.
++ [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
++ [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
+
 ----
 
 # RESOURCES
@@ -325,5 +331,4 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 ### Videos
 + [Statistical Models in Julia video by Douglas Bates (@dmbates)](https://www.youtube.com/watch?v=v9Io-p_iymI)
-
 
