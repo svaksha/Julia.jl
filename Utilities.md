@@ -78,6 +78,7 @@
 + [Media.jl](https://github.com/one-more-minute/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
 + [NeoVim.jl](https://github.com/Sean1708/NeoVim.jl) :: A client for writing NeoVim plugins in Julia. 
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
+   + [JuliaCompletions](https://github.com/jakeconnor/JuliaCompletions) :: Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 + [vim-notebook](https://github.com/baruchel/vim-notebook) :: Vim users can use Julia from the `vim-notebook` plugin. 
 
 
