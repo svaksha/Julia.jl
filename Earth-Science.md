@@ -1,23 +1,30 @@
-- [AERONAUTICS](#aeronautics)
-- [AQUATIC ECOLOGY](#aquatic-ecology)
-- [GEOSTATISTICS](#geostatistics)
-- [CARTOGRAPHY](#cartography)
-  - [GIS](#gis)
-  - [GPS](#gps)
-- [METEOROLOGY](#meteorology)
-- [Org-JuliaGeo](#org-juliageo)
++ [AERONAUTICS](#aeronautics)
++ [ECOLOGY](#ecology)
+   + [Agronomy](#agronomy)
+   + [Aquatic Ecology](#aquatic-ecology)
++ [GEOSTATISTICS](#geostatistics)
++ [CARTOGRAPHY](#cartography)
+  + [GIS](#gis)
+  + [GPS](#gps)
++ [METEOROLOGY](#meteorology)
++ [Org-JuliaGeo](#org-juliageo)
 
 ----
 
 # AERONAUTICS
-- [Rotations.jl](https://github.com/ronisbr/Rotations.jl) :: Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
-- [Quaternions.jl](https://github.com/forio/Quaternions.jl) :: A Julia module with quaternion and dual-quaternion functionality.
++ [Rotations.jl](https://github.com/ronisbr/Rotations.jl) :: Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
++ [Quaternions.jl](https://github.com/forio/Quaternions.jl) :: A Julia module with quaternion and dual-quaternion functionality.
 
 ----
 
-# AQUATIC ECOLOGY
-- [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
-- [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
+# [ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology)
+
+### [Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
++ [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :: Package to calculate Leaf Area Index from Hemisperical Images.
+
+### Aquatic Ecology
++ [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
++ [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
 
 ----
 
@@ -55,12 +62,12 @@
 ----
 
 # METEOROLOGY
-- [CAIRS.jl](https://github.com/scheidan/CAIRS.jl) :: Continous Assimilation of Integrating Rain Sensors.
-- [CERESViewer.jl](https://github.com/jsbj/CERESViewer.jl) :: Visualize observations of the flows of energy in and out of the Earth.
-- [Hotwire.jl](https://github.com/pjabardo/Hotwire.jl) :: Hotwire anemometry related functions implemented in Julia.
-- [Met_Plots_Models.jl](https://github.com/zhujinxuan/Met_Plots_Models.jl) :: A simple wrapper of matlibplot for a meteorologist.
-- [Scriabin.jl](https://github.com/jsbj/Scriabin.jl) :: Radiative transfer in Julia.
-- [TTCal.jl](https://github.com/mweastwood/TTCal.jl) :: A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
++ [CAIRS.jl](https://github.com/scheidan/CAIRS.jl) :: Continous Assimilation of Integrating Rain Sensors.
++ [CERESViewer.jl](https://github.com/jsbj/CERESViewer.jl) :: Visualize observations of the flows of energy in and out of the Earth.
++ [Hotwire.jl](https://github.com/pjabardo/Hotwire.jl) :: Hotwire anemometry related functions implemented in Julia.
++ [Met_Plots_Models.jl](https://github.com/zhujinxuan/Met_Plots_Models.jl) :: A simple wrapper of matlibplot for a meteorologist.
++ [Scriabin.jl](https://github.com/jsbj/Scriabin.jl) :: Radiative transfer in Julia.
++ [TTCal.jl](https://github.com/mweastwood/TTCal.jl) :: A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 
 ----
 
