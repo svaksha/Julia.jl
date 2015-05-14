@@ -19,6 +19,7 @@ The Julia [community](http://julialang.org/community/) is distributed over vario
    + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) mailing list(s).
    + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) mailing list.
 Smaller special interest groups (SIGs) have their own mailing lists and github orgs, which are linked in the respective pages.
+
 __NEWS from social networking communities, QA sites and Twitter.__
 + [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
 + [Reddit](http://www.reddit.com/r/Julia/)
