@@ -129,6 +129,8 @@
 # UTILS
 + [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
 + [Humanize.jl](https://github.com/IainNZ/Humanize.jl) :: Humanize numbers, based on the Python package "[humanize](https://github.com/jmoiron/humanize)" by @jmoiron.
++ [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
+   + List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
 
 ## Terminal

@@ -19,7 +19,7 @@
 - List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
 - [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 - Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples)
-- List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
+
 
 ----
 
@@ -31,6 +31,7 @@
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
++ Getting Julia to build on [PowerPC under Linux](https://github.com/JuliaLang/julia/blob/master/Make.powerpc).
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/one-more-minute/Requires.jl) :: A Julia package that will quickly load your package dependencies.
 + [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
