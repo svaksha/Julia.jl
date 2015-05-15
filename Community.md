@@ -98,8 +98,10 @@ __The official Julia conference, and local meetup groups located around the worl
 
 ----
 
-# [Julia Summer of Code]
-+ TBA
+# Julia Summer of Code
++ __Program__:: JSoC projects will be similar in scope and nature to that of GSoC. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line.
++ __FinAid__:: Compensation is similar to GSoC - USD5500.00
++ __Deadline__:: ASAP.
 
 ----
 
