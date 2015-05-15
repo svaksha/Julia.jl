@@ -4,6 +4,7 @@ List of communities, development links, including events, (un)conferences, forum
 + [CONFERENCES](#conferences)
    + [JuliaCon](#juliacon)
    + [Julia User Groups](#julia-user-groups)
++ [Julia Summer of Code](#julia-summer-of-code)
 + [NEWS](#news)
    + [Blogs](#blogs)
    + [Media](#media)
@@ -94,6 +95,11 @@ __The official Julia conference, and local meetup groups located around the worl
 + [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
 + [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
 + [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
+
+----
+
+# [Julia Summer of Code]
++ TBA
 
 ----
 
