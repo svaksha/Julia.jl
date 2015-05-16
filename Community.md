@@ -16,7 +16,7 @@ List of communities, development links, including events, (un)conferences, forum
 The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. You can join them on:
 + IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
 + Mailing lists :: 
-   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : A users starting point for community support.
+   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programmign discussions.
    + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussions
    + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here.
 Smaller Special Interest Groups (SIGs) have their own mailing lists and github orgs, which are linked in the respective pages.
@@ -27,7 +27,7 @@ __NEWS from social networking communities, QA sites and Twitter.__
 + [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
 + [Julialang news on Twitter](https://twitter.com/julialang_news)
 
-#### HowTo Contribute
+### Contributing to Julia core development
 To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page, the sections on [continuous integration](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#continuous-integration) and [git hooks](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#git-hooks) and the links to (open) BUGS on Github:
 + [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
 + The [up for grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_.
@@ -52,7 +52,7 @@ __The official Julia conference, and local meetup groups located around the worl
 ### Asia-INDIA
 + [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
 
-### Asia-JAPAN
+### Asia-JAPAN 
 + [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
 ### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
