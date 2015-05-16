@@ -4,7 +4,7 @@ List of communities, development links, including events, (un)conferences, forum
 + [CONFERENCES](#conferences)
    + [JuliaCon](#juliacon)
    + [Julia User Groups](#julia-user-groups)
-+ [Julia Summer of Code](#julia-summer-of-code)
++ [JSoC](#jsoc)
 + [NEWS](#news)
    + [Blogs](#blogs)
    + [Media](#media)
@@ -16,10 +16,10 @@ List of communities, development links, including events, (un)conferences, forum
 The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. You can join them on:
 + IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
 + Mailing lists :: 
-   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) and 
-   + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) mailing list(s).
-   + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) mailing list.
-Smaller special interest groups (SIGs) have their own mailing lists and github orgs, which are linked in the respective pages.
+   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : A users starting point for community support.
+   + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussions
+   + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here.
+Smaller Special Interest Groups (SIGs) have their own mailing lists and github orgs, which are linked in the respective pages.
 
 __NEWS from social networking communities, QA sites and Twitter.__
 + [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
@@ -98,10 +98,10 @@ __The official Julia conference, and local meetup groups located around the worl
 
 ----
 
-# Julia Summer of Code
-+ __Program__:: JSoC projects will be similar in scope and nature to that of GSoC. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line.
+### JSoC
++ __Program__:: Julia Summer of Code (JSoC) projects will be similar in scope and nature to that of GSoC, and is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0)
 + __FinAid__:: Compensation is similar to GSoC - USD5500.00
-+ __Deadline__:: ASAP.
++ __Deadline__:: ASAP, May-Aug of each year.
 
 ----
 
