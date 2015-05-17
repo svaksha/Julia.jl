@@ -1,4 +1,4 @@
-List of communities, development links, including events, (un)conferences, forums/ meetup groups, NEWS, social networks, etc..
+List of communities, development links, JSoC, events, (un)conferences, forums/ meetup groups, NEWS, social networks, etc..
 
 + [COMMUNITY](#community)
 + [CONFERENCES](#conferences)
@@ -13,13 +13,13 @@ List of communities, development links, including events, (un)conferences, forum
 ----
 
 # COMMUNITY
-The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. You can join them on:
+The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. Smaller Special Interest Groups (SIGs) have their own mailing lists and github orgs, linked in the respective sections. You can join them on:
 + IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
 + Mailing lists :: 
-   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programmign discussions.
+   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programming discussions.
    + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussions
    + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here.
-Smaller Special Interest Groups (SIGs) have their own mailing lists and github orgs, which are linked in the respective pages.
+
 
 __NEWS from social networking communities, QA sites and Twitter.__
 + [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
