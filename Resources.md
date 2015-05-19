@@ -64,34 +64,35 @@
 ----
 
 # COOKBOOKS
-- [Binary search in Julia](http://rosettacode.org/wiki/Binary_search#Julia)
-- Charts :: @malmaud 's bug chart (using Julia) of the [number of issues opened and closed each week for Julia as one metric of popularity](https://gist.github.com/malmaud/9025047). 
-- Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
-- [Euler.jl](https://github.com/moon6pence/Euler.jl) :: Project Euler with julia language.
-- A wikibooks page [Introducing Julia](http://en.wikibooks.org/wiki/Introducing_Julia).
-- [julia-mit](https://github.com/stevengj/julia-mit) :: Tutorials and information on the Julia language for MIT numerical-computation courses.
-- [JuliaTutorial.jl](https://github.com/abhi123link/JuliaTutorial.jl) :: The Julia Tutorial series.
-- [lazysort.jl](https://gist.github.com/anj1/2fe551053c849f54677e) :: Lazy quicksort snippet.
-- [Plotting Examples](https://gist.github.com/gizmaa/7214002)
-- [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code tasks implemented in the Julia language.
-- [Spark.jl](https://github.com/d9w/Spark.jl) :: Spark in Julia for MIT 6.824.
-- Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
-- Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
-- Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
++ [Binary search in Julia](http://rosettacode.org/wiki/Binary_search#Julia)
++ Charts :: @malmaud 's bug chart (using Julia) of the [number of issues opened and closed each week for Julia as one metric of popularity](https://gist.github.com/malmaud/9025047). 
++ Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
++ [Euler.jl](https://github.com/moon6pence/Euler.jl) :: Project Euler with julia language.
++ A wikibooks page [Introducing Julia](http://en.wikibooks.org/wiki/Introducing_Julia).
++ [julia-mit](https://github.com/stevengj/julia-mit) :: Tutorials and information on the Julia language for MIT numerical-computation courses.
++ [JuliaTutorial.jl](https://github.com/abhi123link/JuliaTutorial.jl) :: The Julia Tutorial series.
++ [lazysort.jl](https://gist.github.com/anj1/2fe551053c849f54677e) :: Lazy quicksort snippet.
++ [Plotting Examples](https://gist.github.com/gizmaa/7214002)
++ [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code tasks implemented in the Julia language.
++ [Spark.jl](https://github.com/d9w/Spark.jl) :: Spark in Julia for MIT 6.824.
++ Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
++ Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
++ Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
 
 ----
 
 # JUPYTER NOTEBOOKS
-- [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
-- [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
-- [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
-- [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
-- [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
-- [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
-- [IJulia PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
-- [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
-- [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
-- [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
++ [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
++ [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
++ [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
++ [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
++ [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
++ [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
++ [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
++ [IJulia PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
++ [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
++ [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
++ [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
 
 ----
 
