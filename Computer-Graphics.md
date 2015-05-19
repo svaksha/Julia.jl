@@ -52,6 +52,7 @@
 + [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 + [Romeo.jl](https://github.com/SimonDanisch/Romeo.jl) :: 3D visualizations and editing in Julia + OpenGL.
    + A fork maintained for the current Julia-0.4 (master) by @AlainLich : https://github.com/AlainLich/Romeo.jl
++ [SignedDistanceFields.jl](https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation. 
 + [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
 + [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
 + [Skia.jl](https://github.com/dcjones/Skia.jl) :: Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.

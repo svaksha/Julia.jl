@@ -4,7 +4,7 @@
 + [Material Science](#material-science)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
-   + [Solid-State Chemistry](#solid-state-chemistry)
+   + [Solid State Chemistry](#solid-state-chemistry)
    + [Quantum Chemistry](#quantum-chemistry)
 
 ----
@@ -29,7 +29,7 @@
 ## [Colloidal Chemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry)
 + [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes .
 
-## [Solid-State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
+## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 + [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: JUlia MOlecular Simulation package.
