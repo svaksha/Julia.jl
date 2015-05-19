@@ -30,6 +30,7 @@ Networking, web security, frameworks and other Web related things go here!
 # WWW
 
 ## Middleware
++ [JuliaWebAPI.jl](https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP.
 + [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
 + [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
 
@@ -40,14 +41,14 @@ Networking, web security, frameworks and other Web related things go here!
 + [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
 ## Web
-- [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
-- [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
-- [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
-- [Laurence.jl](https://github.com/mneudert/Laurence.jl)
-- [PkgGithubRepo.jl](https://github.com/thiruk/PkgGithubRepo.jl) :: Get the Github repository information for a Julia package installed in Ubuntu.
-- [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
-- [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
-- [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
++ [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
++ [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
++ [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
++ [Laurence.jl](https://github.com/mneudert/Laurence.jl)
++ [PkgGithubRepo.jl](https://github.com/thiruk/PkgGithubRepo.jl) :: Get the Github repository information for a Julia package installed in Ubuntu.
++ [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
++ [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
++ [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 
 ### Org-[JuliaWeb](https://github.com/JuliaWeb)
    - [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
@@ -82,4 +83,5 @@ Networking, web security, frameworks and other Web related things go here!
 ## Security
 + [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
 + [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
+
 
