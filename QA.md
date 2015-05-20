@@ -1,11 +1,15 @@
 *Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Unit testing, ...*
 
++ [BBT](#bbt)
 + [LOGGING](#logging)
 + [SANDBOX](#sandbox)
 + [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
 ----
+
+# [BBT](http://en.wikipedia.org/wiki/Black-box_testing)
++ [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
 
 # LOGGING
 + [Logging.jl](https://github.com/kmsquire/Logging.jl) :: The Logging module.
