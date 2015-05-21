@@ -11,6 +11,8 @@
 # [BBT](http://en.wikipedia.org/wiki/Black-box_testing)
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
 
+----
+
 # LOGGING
 + [Logging.jl](https://github.com/kmsquire/Logging.jl) :: The Logging module.
 + [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) :: A logging library by Westley Hennigh.

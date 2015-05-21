@@ -55,6 +55,9 @@ __The official Julia conference, and local meetup groups located around the worl
 ### Asia-JAPAN 
 + [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
+### Asia-SINGAPORE
++ 2015June05 :: Tutorial on High Performance Cloud Computing Technologies: Julia & OpenTuner, Alan Edelman, Saman P. Amarasinghe, and Jiahao Chen. [Register here](https://www.eventbrite.com/e/tutorial-on-high-performance-cloud-computing-technologies-julia-opentuner-tickets-4866645267)
+
 ### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
 + [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
 
