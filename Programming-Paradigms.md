@@ -125,6 +125,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
 ### Meta Programming
+
 ##### DOCS
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
@@ -141,6 +142,9 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 
 ### Reactive Programming
 + [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
+
+### Serialization
++ [Spock.jl](https://github.com/jey/Spock.jl) :: An interface to Apache Spark for the Julia language.
 
 ### Style Guidelines 
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
