@@ -109,6 +109,7 @@
 + [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
 + [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
 + [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
++ [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
 + [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
 + [Wavelets](https://github.com/tomaskrehlik/Wavelets) :: Implementation of Wavelet methods in Julia.
 + [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
