@@ -33,6 +33,7 @@
 + [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: Detect correlated evolution on phylogenies.
 + [ProgressiveAligner.jl](https://github.com/latticetower/ProgressiveAligner.jl) :: Progressive alignment scripts for protein sequences.
 + [PseudoGenomes.jl](https://github.com/nw11/PseudoGenomes.jl) :: Read alleles without a VCF parser.
++ [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
 + [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
