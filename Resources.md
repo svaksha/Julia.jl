@@ -1,19 +1,20 @@
 **Useful learning resources and all the random stuff that does not have its own topic page goes here under various sub-section titles. For example, code that is not a package, interesting code snippets, etc...**
 
-- [BOOKS](#books)
-- [BLOGS](#blogs)
-- [CHEATSHEETS](#cheatsheets)
-- [COOKBOOKS](#cookbooks)
-- [JUPYTER NOTEBOOKS](#jupyter-notebooks)
-- [LISTS](#lists)
-- [SLIDES](#slides)
-- [TUTORIALS](#tutorials) 
++ [BOOKS](#books)
++ [BLOGS](#blogs)
++ [CHEATSHEETS](#cheatsheets)
++ [COOKBOOKS](#cookbooks)
++ [JUPYTER NOTEBOOKS](#jupyter-notebooks)
++ [LISTS](#lists)
++ [SLIDES](#slides)
++ [TUTORIALS](#tutorials) 
 
 ----
 
 + The official list of resources to [learn Julia](http://julialang.org/learning/).
 
 # BOOKS
++ [julia_for_programmers.jl](https://github.com/optimusbrine/julia_for_programmers.jl) :: A guide to writing reusable software with the Julia programming language. 
 + The book "[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)" by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
 + Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
@@ -31,16 +32,16 @@
 + [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
 + [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html) by Leah Hanson.
 + Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
-- Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
-- [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
-- [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
-- How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
-- [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
-- Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
-- [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch.
-- [Tabular Data I/O in Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch.
-- [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
-- [Julia at EuroSciPy 2014](https://github.com/stevengj/Julia-EuroSciPy14).   
++ Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
++ [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
++ [Cool things you can do in Julia](http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia)
++ How to [call Python libraries](http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia.
++ [Exploratory-type functions/tools](http://blog.leahhanson.us/julia-helps.html)
++ Another opinion on [Julia first impressions](http://eyeballtrees.com/posts/julia-impressions.html)
++ [Fun With Just-In-Time Compiling: Julia, Python, R and pqR](http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch.
++ [Tabular Data I/O in Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch.
++ [John Myles White recounts his JuliaCon experience](http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/)
++ [Julia at EuroSciPy 2014](https://github.com/stevengj/Julia-EuroSciPy14).   
 
 **{NB: Language comparisons and general blogs are listed here, but blogs about benchmarking and Optimization will be listed under the relevant category page.}**
 + [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
