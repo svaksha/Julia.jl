@@ -147,5 +147,6 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [Spock.jl](https://github.com/jey/Spock.jl) :: An interface to Apache Spark for the Julia language.
 
 ### Style Guidelines 
++ [Official Julia style guide](https://julia.readthedocs.org/en/latest/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
 

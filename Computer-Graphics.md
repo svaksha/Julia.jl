@@ -16,6 +16,7 @@
 # GRAPHICS 
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
++ [Blending.jl](https://github.com/dejakaymac/Blending.jl).
 + [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
 + [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
 + [ColorTypes.jl](https://github.com/SimonDanisch/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
