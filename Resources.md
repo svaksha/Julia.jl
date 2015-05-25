@@ -104,6 +104,7 @@
 ----
  
 # SLIDES
++ [Matrices in Julia](http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides.
 + [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
 + [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
 + [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 27/Feb/2014.
@@ -116,12 +117,12 @@
 ----
 
 # TUTORIALS
-- [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
-- [Julia3D-Demos](https://github.com/d2dev/Julia3D-Demos)
-- [julia-tutorial](https://github.com/JuliaLang/julia-tutorial) :: Julia Tutorial from MIT IAP 2013.
-- [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
-- [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
-- [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
++ [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
++ [Julia3D-Demos](https://github.com/d2dev/Julia3D-Demos)
++ [julia-tutorial](https://github.com/JuliaLang/julia-tutorial) :: Julia Tutorial from MIT IAP 2013.
++ [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
++ [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
++ [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
 
 ----
 
