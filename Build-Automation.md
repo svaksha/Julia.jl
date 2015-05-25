@@ -11,6 +11,7 @@
    + [Git-Hooks](#git-hooks)
 + [DEVELOPMENT](#development)
 + [NEWS](#news)
++ [Virtualization](#virtualization)
 
 ----
 
@@ -112,3 +113,8 @@ Helper tools for core `julia` language development.
 # NEWS
 + [Devops Weekly](http://www.devopsweekly.com/)
 
+----
+
+# [Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
++ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
++ [RudeOil.jl](https://github.com/UCL/RudeOil.jl) :: A package to easily interact with docker and docker-machine.

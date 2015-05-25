@@ -11,7 +11,6 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [Org-JuliaParallel](#org-juliaparallel)
 + [Org-JuliaLang](#org-julialang)
 + [Publications](#publications)
-+ [Virtualization](#virtualization)
 
 ----
 
@@ -109,7 +108,3 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 # Publications
 + [Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof](http://jiahao.github.io/parallel-prefix/) :: A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 
-----
-
-# [Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
-+ [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
