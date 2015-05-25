@@ -27,23 +27,23 @@
 ----
 
 # Electromagnetism
-* [Dipole julia](https://github.com/manuamador/Dipole_julia) :: A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
-* [Reverb Julia](https://github.com/manuamador/Reverb_Julia) :: A julia version of an electromagnetic reverberation chamber model based on image theory.
-* [Stirrer](https://github.com/manuamador/Stirrer) :: A Julia and Python set of tools to model stirrers in reverberation chambers.
-* [Z](https://github.com/manuamador/Z) :: Wave impedance in a reverberation chamber.
++ [Dipole julia](https://github.com/manuamador/Dipole_julia) :: A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
++ [Reverb Julia](https://github.com/manuamador/Reverb_Julia) :: A julia version of an electromagnetic reverberation chamber model based on image theory.
++ [Stirrer](https://github.com/manuamador/Stirrer) :: A Julia and Python set of tools to model stirrers in reverberation chambers.
++ [Z](https://github.com/manuamador/Z) :: Wave impedance in a reverberation chamber.
 
 ----
 
 # Fluid Dynamics 
-* [hydro](http://github.com/natj/hydro) :: Fairly simple, relatively small & mildly interesting hydrodynamic code.
-   * [A video of the "hydro" code in use](https://vimeo.com/95607699)
++ [hydro](http://github.com/natj/hydro) :: Fairly simple, relatively small & mildly interesting hydrodynamic code.
+   + [A video of the "hydro" code in use](https://vimeo.com/95607699)
 + [LatBo.jl](https://github.com/UCL/LatBo.jl) :: Lattice-Boltzmann implementation in Julia. 
 
 ----
 
 # Laser Physics
-* [LaserOpticalCommunicationExperiments.jl](https://github.com/scidom/LaserOpticalCommunicationExperiments.jl) :: A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
-* [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
++ [LaserOpticalCommunicationExperiments.jl](https://github.com/scidom/LaserOpticalCommunicationExperiments.jl) :: A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
++ [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
 
 ----
 
@@ -53,7 +53,7 @@
 ----
 
 # Quantum Mechanics
-* [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
++ [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 
 ### [Julia Quantum](http://juliaquantum.github.io/) 
 An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
