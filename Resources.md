@@ -14,7 +14,6 @@
 + The official list of resources to [learn Julia](http://julialang.org/learning/).
 
 # BOOKS
-+ [julia_for_programmers.jl](https://github.com/optimusbrine/julia_for_programmers.jl) :: A guide to writing reusable software with the Julia programming language. 
 + The book "[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)" by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
 + Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
