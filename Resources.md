@@ -29,7 +29,7 @@
 + [Julia Package Ecosystem Dependency Graphs](http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning.
 + [Values vs. Bindings: The Map is Not the Territory](http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/)
 + [Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/)
-+ [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/drafts/julia-helps.html) by Leah Hanson.
++ [Helpful Julia functions: help, methods, etc..](http://blog.leahhanson.us/julia-helps.html) by Leah Hanson.
 + Using [JuMP to Solve a TSP with Lazy Constraints](http://iaindunning.com/2013/mip-callback.html)	
 + Alasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza](https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school.
 + [Getting comfortable with the julia programming language](http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language)
