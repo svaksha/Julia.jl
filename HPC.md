@@ -31,7 +31,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
 
 ### Transpiler
-* [Julia2C](https://github.com/IntelLabs/julia/tree/j2c) :: A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
++ [Julia2C](https://github.com/IntelLabs/julia/tree/j2c) :: A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
 
 ---- 
 
