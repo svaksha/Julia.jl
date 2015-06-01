@@ -220,7 +220,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
 + [NGram.jl](https://github.com/remusao/NGram.jl) :: Implement the NGram model.
-+ [ParComb.jl](https://github.com/andrewcooke/ParComb.jl) :: A simple parser library for Julia. 
++ [ParserCombinator.jl](https://github.com/andrewcooke/ParserCombinator.jl) :: A parser combinator library.
 + [Parsimonious.jl](https://github.com/gitfoxi/Parsimonious.jl) :: A PEG parser generator.
 + [PEGParser.jl](https://github.com/abeschneider/PEGParser.jl) :: A PEG Parser for Julia with Packrat capabilties, inspired by pyparsing, parsimonious, boost::spirit, as well as several others.
 + [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: is an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
