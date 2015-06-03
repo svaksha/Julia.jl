@@ -101,7 +101,7 @@ API's for programming languages and general server backend purposes
 + [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
 
 ## Python
-+ [Polyglot.jl](https://github.com/wavexx/Polyglot.jl) :: Transparent remote/recursive evaluation between languages.
++ [Polyglot.jl](https://github.com/wavexx/Polyglot.jl) :: Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript.
 + [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: lets you call Python functions from the Julia language.
 + [PyJulia](https://github.com/jakebolewski/pyjulia) :: python interface to julia.
 + [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
