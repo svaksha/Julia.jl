@@ -1,9 +1,9 @@
 **API's for programming languages and general server backend purposes stay here. Special library API's (say, Statistics, GUI/Desktop/HTTP, etc..) should be listed in their respective pages.**
 
-- [API](#api)
++ [API](#api)
    - [Math](#math)
    - [GIT API](#git-api)
-- [LANGUAGES](#languages)
++ [LANGUAGES](#languages)
    - [C](#c)
    - [C++](#c++)
    - [Erlang](#erlang)
@@ -69,19 +69,19 @@ API's for programming languages and general server backend purposes
 + Notes on [Calling Fortran from Python, Julia and Matlab](http://maurow.bitbucket.org/notes/calling_fortran_from_misc.html).
 
 ## Go
-- [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) :: Support for writing bundle commands for the Go programming language in Julia.
++ [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) :: Support for writing bundle commands for the Go programming language in Julia.
 
 ## HTML-XML
-- [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
++ [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
 
 ## Java 
-- [JavaCall.jl](http://aviks.github.io/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
++ [JavaCall.jl](http://aviks.github.io/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
 
 ## JavaScript
-- [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
-- [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
-- [node-julia](https://github.com/waTeim/node-julia) :: Connecting node.js and Julia.
-- [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
++ [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
++ [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
++ [node-julia](https://github.com/waTeim/node-julia) :: Connecting node.js and Julia.
++ [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
 
 ## MATLAB
 + [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.
@@ -101,18 +101,19 @@ API's for programming languages and general server backend purposes
 + [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
 
 ## Python
++ [Polyglot.jl](https://github.com/wavexx/Polyglot.jl) :: Transparent remote/recursive evaluation between languages.
 + [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: lets you call Python functions from the Julia language.
 + [PyJulia](https://github.com/jakebolewski/pyjulia) :: python interface to julia.
 + [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
 
 ## R
-- [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) :: is a draft port of the ProjectTemplate package for R to Julia.
-- [RCall.jl](https://github.com/JuliaStats/RCall.jl) :: Embedded R within Julia - ports all the `R` API functions from C into Julia.
-- [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
-- [Rif.jl](https://github.com/lgautier/Rif.jl) :: An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
-- [RJulia](https://github.com/armgong/RJulia) :: R package to call Julia - Use Julia embedded API to write a packege for R.
-- [runr](http://rpubs.com/yihui/julia-knitr) :: allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
-- [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
++ [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) :: is a draft port of the ProjectTemplate package for R to Julia.
++ [RCall.jl](https://github.com/JuliaStats/RCall.jl) :: Embedded R within Julia - ports all the `R` API functions from C into Julia.
++ [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
++ [Rif.jl](https://github.com/lgautier/Rif.jl) :: An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
++ [RJulia](https://github.com/armgong/RJulia) :: R package to call Julia - Use Julia embedded API to write a packege for R.
++ [runr](http://rpubs.com/yihui/julia-knitr) :: allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
++ [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
 
 ## Ruby
 + [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
