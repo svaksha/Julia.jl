@@ -8,7 +8,8 @@
    + [Preprocessor](#preprocessor)
 + [OPERATIONS RESEARCH](#operations-research)
    * [Optimization](#optimization)
-   * [Org-JuliaOpt](#org-juliaopt)
+     + [Genetic Programming](#genetic-programming)
+     + [Org-JuliaOpt](#org-juliaopt)
    * [Regression Analysis](#regression-analysis)
 + [STATISTICS](#statistics)
    * [Org-JuliaStats](#org-juliastats)
@@ -150,6 +151,13 @@
 + [SGDDemo.jl](https://github.com/johnmyleswhite/SGDDemo.jl) :: Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.
 + [SGD2.jl](https://github.com/johnmyleswhite/SGD2.jl) :: Stochastic gradient descent, a draft of new methods for SGD calculations.
 + [simplex.jl](https://github.com/davidagold/simplex.jl) :: Practice project program that performs the simplex algorithm. 
+
+### [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
++ [CGP.jl](https://github.com/glesica/CGP.jl) :: Cartesian Genetic Programming (CGP) implemented in Julia. 
++ [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
++ [InformedDifferentialEvolution.jl](https://github.com/rened/InformedDifferentialEvolution.jl) :: Implementation of Differential Evolution with optional custom predictors.
++ [ParallelGenocop.jl](https://github.com/display-none/ParallelGenocop.jl) :: Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
+
 
 ### Org-[JuliaOpt](http://juliaopt.org/) 
 An umbrella group for Julia-based optimization-related projects, with its own [mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups. 
