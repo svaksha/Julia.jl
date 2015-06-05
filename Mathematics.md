@@ -3,21 +3,21 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 + [MATH](#math)
 + [Algebra](#algebra)
-        + [Abstract Algebra](#abstract-algebra)
-        + [Boolean Algebra](#boolean-algebra)
-        + [Orthogonal Polynomials](#orthogonal-polynomials) 
-        + [Symbolic Computation](#symbolic-computation)
-   * [Algebraic Geometry](#algebraic-geometry)
-+ [Calculus](#calculus)
-   * [Functions](#functions)
+   + [Abstract Algebra](#abstract-algebra)
+   + [Boolean Algebra](#boolean-algebra)
+   + [Orthogonal Polynomials](#orthogonal-polynomials) 
+   + [Symbolic Computation](#symbolic-computation)
++ [Calculus & Applied Math](#calculus-&-applied-math)
+   + [Functions](#functions)
       + [Ordinary Differential Equation](#ordinary-differential-equation)
          + [Org-JuliaLang](#org-julialang)
          + [Org-JuliaDiff](#org-juliadiff)
       + [Special Functions](#special-functions)   
-   * [Discrete Math](#discrete-math)
-   * [Geometry](#geometry)
-   * [Numerical Analysis](#numerical-analysis)
-      + [Numerical Linear Algebra](#numerical-linear-algebra) 
++ [Discrete Math](#discrete-math)
++ [Geometry](#geometry)
+   + [Algebraic Geometry](#algebraic-geometry)
++ [Numerical Analysis](#numerical-analysis)
+   + [Numerical Linear Algebra](#numerical-linear-algebra) 
 + [CRYPTOGRAPHY](#cryptography)
    + [Cryptocurrency](#cryptocurrency)
 + [PUZZLES](#puzzles)
@@ -109,17 +109,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 ----
 
-## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-+ [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of "Programming the FEM" by I M Smith, D V Griffiths.
-+ [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
-+ [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
-+ [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
-+ [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
-+ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: Finite element surface mesh manipulation library.
-
-----
-
-# Calculus
+# Calculus & [Applied Math](http://en.wikipedia.org/wiki/Applied_mathematics)
 + [ApproxFun](https://github.com/dlfivefifty/ApproxFun) :: Julia IFun Implementation is a package for approximating functions. It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
@@ -178,7 +168,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 ----
 
-## [Discrete Math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
+# [Discrete Math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
 + [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
 + [Intervals.jl](https://github.com/andrioni/Intervals.jl) :: A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library.
 + [IntModN.jl](https://github.com/andrewcooke/IntModN.jl) :: Ring(s) of Integers Modulo-N.
@@ -194,7 +184,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 ----
 
-## Geometry
+# [Geometry](http://en.wikipedia.org/wiki/Geometry)
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations
 + [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
 + [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
@@ -204,9 +194,17 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
 + [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
 
+## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
++ [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of "Programming the FEM" by I M Smith, D V Griffiths.
++ [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
++ [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
++ [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
++ [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
++ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: Finite element surface mesh manipulation library.
+
 ----
 
-## [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
+# [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 + [Dopri.jl](https://github.com/helgee/Dopri.jl) :: A Julia wrapper for the DOPRI5 and DOP853 integrators.
 + [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) :: A Julia wrapper of the Fortran library "eiscor" (Fortran 90 subroutines for structured matrix eigenvalue problems using 2x2 unitary matrices) for efficiently solving structured matrix eigenvalue problems using unitary core transformations 
 + [Expokit.jl](https://github.com/acroy/Expokit.jl) :: A package that provides Julia implementations of some routines contained in EXPOKIT.
