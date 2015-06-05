@@ -10,7 +10,7 @@
         + [Symbolic Computation](#symbolic-computation)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
-      + [Ordinary Differential Equations](#ordinary-differential-equations)
+      + [Ordinary Differential Equations (ODE)](#ordinary-differential-equations-(ode))
          + [Org-JuliaLang](#org-julialang)
          + [Org-JuliaDiff](#org-juliadiff)
    * [Discrete Math](#discrete-math)

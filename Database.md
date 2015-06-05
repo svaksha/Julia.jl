@@ -1,24 +1,20 @@
 For downloading various data sets, visit the [data-sets.md](https://github.com/svaksha/Julia.jl/blob/master/data-sets.md) page.
 
-- [DB-ArrayDB](#db-arraydb)
-- [DB-NOSQL](#db-nosql)
-   - [LMDB](#lmdb)
-   - [MongoDB](#mongodb) 
-   - [Redis](#redis)
-- [DB-RDBMS](#db-rdbms)
-   - [MySQL](#mysql)
-   - [PostgreSQL](#postgresql)
-   - [SQLite](#sqlite)
-- [DB-ENGINES](#database-engines}
-- [DB-API](#db-api)
-- [Org-JuliaDB](#org-juliadb)
-- [RESOURCES](#resources)
 
-----
++ [DB-NOSQL](#db-nosql)
+   + [LMDB](#lmdb)
+   + [MongoDB](#mongodb) 
+   + [Redis](#redis)
+   + [SciDB ArrayDB](#scidb-arraydb)
++ [DB-RDBMS](#db-rdbms)
+   + [MySQL](#mysql)
+   + [PostgreSQL](#postgresql)
+   + [SQLite](#sqlite)
++ [DB-ENGINES](#database-engines}
++ [DB-API](#db-api)
++ [Org-JuliaDB](#org-juliadb)
++ [RESOURCES](#resources)
 
-# DB-ArrayDB
-## SciDB
-+ [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
 
 ----
 
@@ -32,6 +28,9 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 
 ## Redis
 + [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
+
+## SciDB [ArrayDB](http://en.wikipedia.org/wiki/Array_DBMS)
++ [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
 
 ----
 
@@ -56,13 +55,13 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 
 # DB-API
 **Middleware API's**
-- [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
-- [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
-- [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
-- [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
++ [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
++ [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
++ [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
++ [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
    __CookBooks__
-   - [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
-- [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
+   + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
++ [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
 ----
 

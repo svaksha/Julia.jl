@@ -90,6 +90,7 @@
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
++ [Traits.jl](https://github.com/mauro3/Traits.jl) :: Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
 + [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
    + **DOCS**
    + ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
@@ -107,7 +108,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
-* [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
++ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
 
 ### Functional Programming 
 + [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
