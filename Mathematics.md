@@ -10,7 +10,7 @@
         + [Symbolic Computation](#symbolic-computation)
    * [Algebraic Geometry](#algebraic-geometry)
    * [Calculus](#calculus)
-      + [Ordinary Differential Equations (ODE)](#ordinary-differential-equations-(ode))
+      + [Ordinary Differential Equations](#ordinary-differential-equations)
          + [Org-JuliaLang](#org-julialang)
          + [Org-JuliaDiff](#org-juliadiff)
    * [Discrete Math](#discrete-math)
@@ -161,7 +161,7 @@
 + An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
 
 
-### Ordinary Differential Equations (ODE)
+### [Ordinary Differential Equations](http://en.wikipedia.org/wiki/Ordinary_differential_equation)
 + [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
 + [DualNumbers2.jl](https://github.com/johnmyleswhite/DualNumbers2.jl) :: Another Julia implementation of dual numbers for automatic differentiation.
 + [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
