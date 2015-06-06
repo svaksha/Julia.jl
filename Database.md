@@ -31,7 +31,8 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 
 ## SciDB [ArrayDB](http://en.wikipedia.org/wiki/Array_DBMS)
 + [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
-
+   + [TAQ](https://github.com/Paradigm4/TAQ) :: Example finance trade and quote queries for SciDB. 
+   
 ----
 
 # DB-RDBMS
