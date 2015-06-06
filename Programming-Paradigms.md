@@ -90,6 +90,7 @@
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
++ [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
 + [Traits.jl](https://github.com/mauro3/Traits.jl) :: Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
 + [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
    + **DOCS**
