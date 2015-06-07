@@ -92,6 +92,7 @@
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
 + [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
 + [Traits.jl](https://github.com/mauro3/Traits.jl) :: Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
++ [TupleTypes.jl](https://github.com/mbauman/TupleTypes.jl) :: A testbed for an API to access Tuple parameters.
 + [TypeCheck.jl](https://github.com/astrieanna/TypeCheck.jl) :: a type checker for Julia.
    + **DOCS**
    + ["% coverage" for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)

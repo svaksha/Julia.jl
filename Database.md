@@ -31,7 +31,8 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 
 ## SciDB [ArrayDB](http://en.wikipedia.org/wiki/Array_DBMS)
 + [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
-   + [TAQ](https://github.com/Paradigm4/TAQ) :: Example finance trade and quote queries for SciDB. 
+   + __RESOURCES__
+   + [TAQ](https://github.com/Paradigm4/TAQ) :: Example SciDB queries for finance trade and quote data.
    
 ----
 
@@ -60,7 +61,7 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
 + [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
 + [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
-   __CookBooks__
+   + __RESOURCES__
    + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
 + [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
