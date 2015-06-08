@@ -108,6 +108,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 ## [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
 + [SJulia](https://github.com/jlapeyre/SJulia) :: A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
++ [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
 
 ----
 
