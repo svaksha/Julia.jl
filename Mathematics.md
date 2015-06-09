@@ -141,8 +141,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Fdtd.jl](https://github.com/nantonel/Fdtd.jl) :: 3D Room Acoustics Finite Difference Time Domain (FDTD) Simulator.
 + [KDSP.jl](https://github.com/kofron/KDSP.jl) :: Yet another implementation of common DSP routines in Julia.
 + [KernelRecursiveLeastSquares.jl](https://github.com/the-moliver/KernelRecursiveLeastSquares.jl) :: Julia implementation of Kernel Recursive Least Squares algorithm.
-+ [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
++ [MDCT.jl](https://github.com/stevengj/MDCT.jl) :: This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
 + [Multirate.jl](https://github.com/JayKickliter/Multirate.jl) :: Streaming polyphase DSP filters with sample rate conversion.
++ [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 + [RIM.jl](https://github.com/nantonel/RIM.jl) :: Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 + [wavechaos](https://github.com/amyascwk/wavechaos) 
 + [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
