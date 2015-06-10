@@ -1,23 +1,24 @@
 **API's for programming languages and general server backend purposes stay here. Special library API's (say, Statistics, GUI/Desktop/HTTP, etc..) should be listed in their respective pages.**
 
 + [API](#api)
-   - [Math](#math)
-   - [GIT API](#git-api)
+   + [Math](#math)
+   + [GIT API](#git-api)
 + [LANGUAGES](#languages)
-   - [C](#c)
-   - [C++](#c++)
-   - [Erlang](#erlang)
-   - [Fortran](#fortran)
-   - [Go](#go)
-   - [HTML-XML](#html-xml)
-   - [Java](#java)
-   - [JavaScript](#javascript)
-   - [MATLAB](#matlab)
-   - [ObjectiveC](#objectivec)    
-   - [Perl](#perl)
-   - [Python](#python)
-   - [R](#r)
-   - [Ruby](#ruby)
+   + [C](#c)
+   + [C++](#c++)
+   + [Erlang](#erlang)
+   + [Fortran](#fortran)
+   + [Go](#go)
+   + [HTML-XML](#html-xml)
+   + [Java](#java)
+   + [JavaScript](#javascript)
+   + [MATLAB](#matlab)
+   + [ObjectiveC](#objectivec)    
+   + [Perl](#perl)
+   + [Python](#python)
+   + [R](#r)
+   + [Ruby](#ruby)
++ [RESOURCES](#resources)
 
 ----
 
@@ -45,6 +46,7 @@
 
 # LANGUAGES
 API's for programming languages and general server backend purposes
+
 ## C
 + [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
 + [julia-ffi](https://github.com/o-jasper/julia-ffi) :: Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
@@ -117,5 +119,11 @@ API's for programming languages and general server backend purposes
 
 ## Ruby
 + [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
+
+----
+
+# RESOURCES
+
++ [FFIExamples.jl](https://github.com/johnmyleswhite/FFIExamples.jl) :: Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
 
 

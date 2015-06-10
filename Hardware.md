@@ -1,10 +1,16 @@
 **Other software libraries,..**
 
++ [Architectures](#architectures)
 + [AUDIO](#audio)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
 + [Robots](#robots)
 + [TouchScreen](#touchscreen)
+
+----
+
+# Architectures
++ [DIDebug.jl](https://github.com/Keno/DIDebug.jl] :: Debug the destination index in an x86 computer architecture using the standardized [DWARF/ ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
 
 ----
 
@@ -24,7 +30,7 @@
 ----
 
 # CAD-CAM
-+ [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing Gcode from Julia easily. Gcode: http://en.wikipedia.org/wiki/Gcode
++ [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 
 ----
 
