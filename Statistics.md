@@ -7,16 +7,16 @@
 + [BENCHMARKS](#benchmarks)
    + [Preprocessor](#preprocessor)
 + [OPERATIONS RESEARCH](#operations-research)
-   * [Optimization](#optimization)
+   + [Optimization](#optimization)
       + [Genetic Programming](#genetic-programming)
-   * [Org-JuliaOpt](#org-juliaopt)
-   * [Regression Analysis](#regression-analysis)
+   + [Org-JuliaOpt](#org-juliaopt)
+   + [Regression Analysis](#regression-analysis)
 + [STATISTICS](#statistics)
-   * [Org-JuliaStats](#org-juliastats)
+   + [Org-JuliaStats](#org-juliastats)
       + [Probabilistic Programming](#probabilistic-programming)
-   * [Bayesian](#bayesian)
-   * [Gaussian](#gaussian)
-   * [Statistical Tests](#stat-tests)
+   + [Bayesian](#bayesian)
+   + [Gaussian](#gaussian)
+   + [Statistical Tests](#stat-tests)
 + [RESOURCES](#resources)
    + [Cookbooks](#cookbooks)
    + [Videos](#videos)
@@ -70,17 +70,17 @@
 ----
 
 # BENCHMARKS 
-- [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
-- [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) :: A package for computing simple benchmarks, comparing functions and packages.
-- [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) :: A lightweight Julia package for simple performance benchmark.
++ [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
++ [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) :: A package for computing simple benchmarks, comparing functions and packages.
++ [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) :: A lightweight Julia package for simple performance benchmark.
    __Resources__ ::
    * [Notebook showing the usage of BenchmarkLite.jl](http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb)
-- [Criterion.jl](https://github.com/jakebolewski/Criterion.jl) :: A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
-- [julia_qsortbenchmarks](https://github.com/illerucis/julia_qsortbenchmarks) ::  Suggested improvements to Julia's Quicksort implementation.
-- [JuliaBenchmarks](https://github.com/kapiliitr/JuliaBenchmarks) :: Porting HPC Challenge benchmarks to Julia.
-- [raytracer.jl](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) :: Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
-- [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) :: Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
-- [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) :: Julia module to test the performance of sorting algorithms.
++ [Criterion.jl](https://github.com/jakebolewski/Criterion.jl) :: A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
++ [julia_qsortbenchmarks](https://github.com/illerucis/julia_qsortbenchmarks) ::  Suggested improvements to Julia's Quicksort implementation.
++ [JuliaBenchmarks](https://github.com/kapiliitr/JuliaBenchmarks) :: Porting HPC Challenge benchmarks to Julia.
++ [raytracer.jl](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) :: Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
++ [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) :: Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
++ [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) :: Julia module to test the performance of sorting algorithms.
 
 ### Preprocessor
 + [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
@@ -337,6 +337,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Little Inference Book](https://github.com/bcaffo/LittleInferenceBook) :: A book for the coursera statistical inference class.
 + [General guidelines (table) for choosing a statistical analysis](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from [Choosing the Correct Statistic](http://bama.ua.edu/~jleeper/627/choosestat.html) developed by James D. Leeper, Ph.D.
 + [Rational and Irrational Thought: The Thinking that IQ Tests Miss](http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/) 
+
 
 ### Slides
 + [Julia For R Programmers](http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates.

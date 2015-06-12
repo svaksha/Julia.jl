@@ -107,6 +107,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [hwloc.jl](https://github.com/JuliaParallel/hwloc.jl) :: The Portable Hardware Locality (hwloc) package wraps the hwloc library to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading. 
 + [MessageUtils.jl](https://github.com/JuliaParallel/MessageUtils.jl) :: A collection of utilities for messaging.
 + [MPI.jl](https://github.com/JuliaParallel/MPI.jl) :: A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
+   + [JuliaMPIMonteCarlo](https://github.com/mcreel/JuliaMPIMonteCarlo) :: Illustrative examples using Julia and MPI to do Markov Chain Monte Carlo (MCMC) methods.
 + [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) :: Scalable Linear Algebra PACKage.
 
 ----
