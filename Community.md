@@ -61,6 +61,9 @@ __The official Julia conference, and local meetup groups located around the worl
 ### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
 + [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
 
+### Europe-AUSTRIA
++ [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
+
 ### Europe-SWITZERLAND
 + [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
