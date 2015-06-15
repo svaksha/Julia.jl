@@ -110,6 +110,7 @@
 
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
+   + [JuliaBoxUtils.jl](https://github.com/tanmaykm/JuliaBoxUtils.jl) :: JuliaBox utility methods.
 + [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 + [koding](https://koding.com/Julia) has an interactive online Julia REPL.
 + [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
