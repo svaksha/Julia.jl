@@ -45,7 +45,7 @@
 ----
 
 # LANGUAGES
-API's for programming languages and general server backend purposes
+Wrappers's and programming API for other languages and general backend server purposes.
 
 ## C
 + [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
@@ -57,7 +57,7 @@ API's for programming languages and general server backend purposes
 ## C++ 
 + [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
 + [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
-+ [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Interface.
++ [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Foreign Function Interface (FFI).
 
 ## Erlang
 + [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.

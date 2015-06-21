@@ -24,7 +24,6 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ----
 
 # COMPILERS
-+ [CXX.jl](https://github.com/Keno/CXX.jl) :: Julia LLVM Interface experiments
 + [Clang.jl](https://github.com/ihnorton/Clang.jl) :: Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
 + [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
 + [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
