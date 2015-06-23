@@ -299,6 +299,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Stochy.jl](https://github.com/null-a/Stochy.jl) :: Probabilistic Programming in Julia.
 
 ## Bayesian 
++ [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
 + [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
