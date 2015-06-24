@@ -6,6 +6,7 @@
    + [Julia Quantum](#juliaquantum) 
 + [Statistical Mechanics](#statistical-mechanics)
 + [Thermodynamics](#thermodynamics)
++ [Miscellaneous](#miscellaneous)
 
 ----
 
@@ -73,3 +74,7 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
 + [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) :: Thermodynamics table for critical values, heat capacity, etc..
 
+----
+
+# Miscellaneous
++ [fys](https://github.com/jhlq/fys) :: Physics and misc unmaintained Julia code.
