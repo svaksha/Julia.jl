@@ -90,6 +90,7 @@
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
++ [Parameters.jl](https://github.com/mauro3/Parameters.jl) :: Types with default field values, keyword constructors and (un-)pack macros.
 + [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
 + [Traits.jl](https://github.com/mauro3/Traits.jl) :: Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
 + [TupleTypes.jl](https://github.com/mbauman/TupleTypes.jl) :: A testbed for an API to access Tuple parameters.
