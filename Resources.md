@@ -83,6 +83,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
