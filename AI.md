@@ -168,6 +168,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
 
 ###### Resources
++ [juliastreetview](https://github.com/evq/juliastreetview) :: Updated sample code for the Kaggle Julia Street View Character Recognition Tutorial. 
 + [ML4H.jl](https://github.com/johnmyleswhite/ML4H.jl) :: Machine Learning for Hackers in Julia.
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 
