@@ -83,6 +83,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
 + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
