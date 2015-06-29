@@ -1,4 +1,4 @@
-**AI :: Algorithms, Data Mining, Clustering, Data Structures (the CS bits of Mathematics), Machine Learning, Neural networks, NLP, Roboitics, SR/Voice tools,...**
+**AI :: Algorithms, Data Mining, Clustering, Data Structures (the CS bits of Mathematics), HMM, Machine Learning, Neural networks, NLP, Roboitics, SR/Voice tools,...**
 
 + [ALGORITHMS](#algorithms)
    + [Association Rule](#association-rule)
@@ -10,8 +10,8 @@
    + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
    + [Publications](#publications)
++ [HMM](#hmm)
 + [MACHINE LEARNING](#machine-learning)
-+ [MARKOV MODELS](#markov-models)
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
 + [SPEECH RECOGNITION](#speech-recognition)
@@ -126,6 +126,17 @@
 
 ----
 
+# [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
++ [hmm.jl](https://github.com/nfoti/hmm.jl) :: Julia implementation of Hidden Markov Models.
++ [Lora.jl](https://github.com/JuliaStats/Lora.jl) :: is a generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods. 
++ [Mamba.jl](https://github.com/brian-j-smith/Mamba.jl) :: Markov chain Monte Carlo simulation toolkit for julia.
++ [Markov.jl](https://github.com/goedman/Markov.jl) :: Trial Markov package.
++ [MDP.jl](https://github.com/adityam/MDP.jl) (by @adityam) :: Markov Decision Processes algorithms for Julia.
++ [MDP.jl](https://github.com/khadiwala/MDP.jl) (by @khadiwala) :: Markov Decision Processes in Julia.
++ [Pagerank.jl](https://github.com/purzelrakete/Pagerank.jl) :: An experiment in pagerank on graphs in the order of billions of edges - Currently tested with over half a billion edges.
+
+----
+
 # MACHINE LEARNING
 Machine learning and statistics are closely related fields, so do check out the [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia. 
@@ -150,9 +161,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [LIBSVM.jl](https://github.com/simonster/LIBSVM.jl) :: Julia bindings for LIBSVM.
 + [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
-+ [Markov.jl](https://github.com/goedman/Markov.jl) :: Trial Markov package.
-+ [MDP.jl](https://github.com/adityam/MDP.jl) (by @adityam) :: Markov Decision Processes algorithms for Julia.
-+ [MDP.jl](https://github.com/khadiwala/MDP.jl) (by @khadiwala) :: Markov Decision Processes in Julia.
 + [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
 + [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe. 
@@ -171,11 +179,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [juliastreetview](https://github.com/evq/juliastreetview) :: Updated sample code for the Kaggle Julia Street View Character Recognition Tutorial. 
 + [ML4H.jl](https://github.com/johnmyleswhite/ML4H.jl) :: Machine Learning for Hackers in Julia.
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
-
-----
-
-# MARKOV MODELS
-+ [Pagerank.jl](https://github.com/purzelrakete/Pagerank.jl) :: An experiment in pagerank on graphs in the order of billions of edges - Currently tested with over half a billion edges.
 
 ----
 
