@@ -61,6 +61,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
 + [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
 + [quaternion.jl](https://github.com/peakbook/quaternion.jl) :: Quaternion for Julia Language.
++ [Sieve of Atkin](https://gist.github.com/Ismael-VC/179790a53c549609b3ce) :: Implemented by @Ismael-VC as per the [WP pseudocode](https://en.wikipedia.org/wiki/Sieve_of_Atkin#Pseudocode).
 + [Shannon.jl](https://github.com/kzahedi/Shannon.jl) :: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 + [SimilarityMetrics.jl](https://github.com/johnmyleswhite/SimilarityMetrics.jl) :: Standard similarity metrics in Julia.
 + [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
