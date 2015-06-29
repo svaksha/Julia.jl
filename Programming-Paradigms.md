@@ -132,6 +132,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 
 ### Meta Programming
++ [Sugar.jl](https://github.com/bramtayl/Sugar.jl).
 
 ##### DOCS
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
