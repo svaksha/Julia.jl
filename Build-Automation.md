@@ -32,7 +32,6 @@
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
-+ Getting Julia to build on [PowerPC under Linux](https://github.com/JuliaLang/julia/blob/master/Make.powerpc).
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/one-more-minute/Requires.jl) :: A Julia package that will quickly load your package dependencies.
 + [RPMmd.jl](https://github.com/ihnorton/RPMmd.jl) :: is a front-end installer for RPM-md packages and a fork of WinRPM.jl.
@@ -84,6 +83,9 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 #### Fedora-RHEL
 + Fedora :: Milan Bouchet-Valat (@nalimilan on github) maintains the builds for [Fedora 19 and 20](http://nalimilan.perso.neuf.fr/transfert/), a mirror is also available from the [Fedoraprojet](http://copr-be.cloud.fedoraproject.org/results/nalimilan/julia/) site.
 
+#### PowerPC
++ Getting Julia to build on [PowerPC under Linux](https://github.com/JuliaLang/julia/blob/master/Make.powerpc) and the [devel thread](https://groups.google.com/forum/#!topic/julia-dev/BYVCyUlNR8c) on julia-dev.
+
 ----
 
 # BACKPORTS
@@ -123,3 +125,4 @@ Helper tools for core `julia` language development.
 # [Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 + [RudeOil.jl](https://github.com/UCL/RudeOil.jl) :: A package to easily interact with docker and docker-machine.
+
