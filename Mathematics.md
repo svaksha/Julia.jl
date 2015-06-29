@@ -282,6 +282,7 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 + [HarwellRutherfordBoeing.jl](https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl) :: A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 + [MatrixMarket.jl](https://github.com/JuliaSparse/MatrixMarket.jl) :: A package to read the MatrixMarket file format.
 + [Metis.jl](https://github.com/JuliaSparse/Metis.jl) :: Julia interface to the Metis graph-partitioning algorithms.
++ [MKLSparse.jl](https://github.com/JuliaSparse/MKLSparse.jl) :: Override sparse-dense operations when MKL is available.
 + [MultiFrontalCholesky.jl](https://github.com/JuliaSparse/MultiFrontalCholesky.jl) :: The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
 + [MUMPS.jl](https://github.com/JuliaSparse/MUMPS.jl) :: An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
 + [MUMPSseq.jl](https://github.com/JuliaSparse/MUMPSseq.jl) :: Alternative Julia interface to MUMPS sparse system solver. 
@@ -289,7 +290,7 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 
 
 ###### Resources
-+ 2015APR09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford. [Notebook presentation of the talk](http://andreasnoack.github.io/talks/2015AprilStanford_AndreasNoack.ipynb).
++ 2015Apr09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford. [Notebook presentation of the talk](http://andreasnoack.github.io/talks/2015AprilStanford_AndreasNoack.ipynb).
 + Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
 + [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/)
 
