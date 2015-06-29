@@ -214,6 +214,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
++ [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 
 + [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
 + [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
 
