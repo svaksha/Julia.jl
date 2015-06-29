@@ -48,6 +48,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [FloorLayout.jl](https://github.com/joehuchette/FloorLayout.jl) ::  Framework and various drivers for floor layout formulation analysis.
 + [GSL.jl](https://github.com/jiahao/GSL.jl) :: Julia interface to the GNU Scientific Library - GSL.
 + [Hexagons.jl](https://github.com/dcjones/Hexagons.jl) :: Useful tools for working with hexagonal grids.
++ [Measures.jl](https://github.com/dcjones/Measures.jl) :: Unified measure and coordinates types.
 + [MPFR.jl](https://github.com/andrioni/MPFR.jl) :: A Julia package for the GNU MPFR library.
 + [Multicombinations.jl](https://github.com/jlep/Multicombinations.jl) :: An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
 + [NaNMath.jl](https://github.com/mlubin/NaNMath.jl) :: Julia math built-ins which return NaN.
@@ -61,7 +62,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
 + [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
 + [quaternion.jl](https://github.com/peakbook/quaternion.jl) :: Quaternion for Julia Language.
-+ [Sieve of Atkin](https://gist.github.com/Ismael-VC/179790a53c549609b3ce) :: Implemented by @Ismael-VC as per the [WP pseudocode](https://en.wikipedia.org/wiki/Sieve_of_Atkin#Pseudocode).
++ [Sieve of Atkin](https://gist.github.com/Ismael-VC/179790a53c549609b3ce) :: Implemented by @Ismael-VC as per the [WP pseudocode](https://en.wikipedia.org/wiki/Sieve_of_Atkin#Pseudocode) with a comparision of ["atkin" with "Base.primes"](http://nbviewer.ipython.org/gist/Ismael-VC/25b1a0c1e11f306a40ae), tested on JuliaBox version `0.4.0-dev+5491`.
 + [Shannon.jl](https://github.com/kzahedi/Shannon.jl) :: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 + [SimilarityMetrics.jl](https://github.com/johnmyleswhite/SimilarityMetrics.jl) :: Standard similarity metrics in Julia.
 + [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
