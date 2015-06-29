@@ -297,6 +297,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 ## Bayesian 
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
++ [ABCDistances.jl](https://github.com/dennisprangle/ABCDistances.jl) :: Performs approximate Bayesian computation (ABC) using various distance functions.
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
 + [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
