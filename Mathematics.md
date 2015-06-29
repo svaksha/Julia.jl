@@ -283,6 +283,8 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__
++ [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) :: Finite Element method solver.
++ [MiniBall.jl](https://github.com/JuliaFEM/MiniBall.jl).
 + [TetGen.jl](https://github.com/JuliaFEM/TetGen.jl) :: Finite Element method solver.
 
 #### Org-[JuliaSparse](https://github.com/JuliaSparse) 
