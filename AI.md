@@ -138,7 +138,7 @@
 ----
 
 # MACHINE LEARNING
-Machine learning and statistics are closely related fields, so do check out the [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
+Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia. 
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
 + [ConfidenceWeighted.jl](https://github.com/chezou/ConfidenceWeighted.jl) :: Confidence weighted, a machine learning algorithm.
@@ -146,6 +146,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
++ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in "Playing Atari with Deep Reinforcement Learning".
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
