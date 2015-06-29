@@ -19,7 +19,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Geometry](#geometry)
    + [Algebraic Geometry](#algebraic-geometry)
 + [Numerical Analysis](#numerical-analysis)
-   + [Numerical Linear Algebra](#numerical-linear-algebra) 
+   + [Numerical Linear Algebra](#numerical-linear-algebra)
+        + [Org-JuliaFEM](#org-juliafem)
         + [Org-JuliaSparse](#org-juliasparse) 
 + [CRYPTOGRAPHY](#cryptography)
    + [Cryptocurrency](#cryptocurrency)
@@ -279,6 +280,10 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [NonuniformArray.jl](https://github.com/ReidAtcheson/NonuniformArray.jl) :: This library handles the case of "array of arrays" where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
+
+#### Org-[JuliaFEM](https://github.com/JuliaFEM)
+__Finite element methods__
++ [TetGen.jl](https://github.com/JuliaFEM/TetGen.jl) :: Finite Element method solver.
 
 #### Org-[JuliaSparse](https://github.com/JuliaSparse) 
 __For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
