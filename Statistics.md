@@ -51,7 +51,6 @@
 + [OpenFiscaCore.jl](https://github.com/openfisca/OpenFiscaCore.jl) :: A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data. 
 + [OpenFiscaFrance.jl](https://github.com/openfisca/OpenFiscaFrance.jl) :: A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system.
 + [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
-+ [QuantProfiling.jl](https://github.com/multidis/QuantProfiling.jl) :: Profiling JuliaQuant building blocks. 
 + [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
 + [TradingSystem.jl](https://github.com/milktrader/TradingSystem.jl) :: Quantitative trading framework in Julia.
 + [WorldBankDataTd.jl](https://github.com/JuliaFinMetriX/WorldBankDataTd.jl) :: Accessing World Bank Data. 
