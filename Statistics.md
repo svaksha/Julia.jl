@@ -62,8 +62,10 @@
 + [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
 + [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
 + [Grist.jl](https://github.com/JuliaQuant/Grist.jl) :: Financial blotter. 
-+ [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
 + [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values. 
++ [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
++ [TradingLogic.jl](https://github.com/JuliaQuant/TradingLogic.jl) :: An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
+
 
 ###### Learning Resources
 + [Self-Study Plan for Becoming a Quantitative Developer](http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
