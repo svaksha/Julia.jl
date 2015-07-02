@@ -178,9 +178,14 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
 
 ###### Resources
++ [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) :: Classical equations and diagrams in machine learning by @soulmachine.
++ Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
++ [Machine Learning cheatsheet](http://eferm.com/machine-learning-cheat-sheet/).
++ [Big Data Machine Learning Patterns for Predictive Analytics](http://refcardz.dzone.com/refcardz/machine-learning-predictive) By Ricky Ho.
 + [juliastreetview](https://github.com/evq/juliastreetview) :: Updated sample code for the Kaggle Julia Street View Character Recognition Tutorial. 
 + [ML4H.jl](https://github.com/johnmyleswhite/ML4H.jl) :: Machine Learning for Hackers in Julia.
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
++ A HN site for [ML](http://news.startup.ml/).
 
 ----
 
