@@ -39,7 +39,8 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 # DB-RDBMS
 ## MySQL
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
-
++ [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
+   
 ## PostgreSQL
 + [PostgreSQL.jl](https://github.com/iamed2/PostgreSQL.jl) :: PostgreSQL API.
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
