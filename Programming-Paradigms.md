@@ -33,6 +33,7 @@
 + [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
 + [HDF5.jl](https://github.com/timholy/HDF5.jl) :: Lib to read HDF format files. HDF5 is a file format
    + [JLDArchives.jl](https://github.com/timholy/JLDArchives.jl) :: A repository of Julia *.jld files for testing backwards compatibility. __NotaBene: This is NOT a library package.__
+   + [JLD2](https://github.com/simonster/JLD2) :: HDF5-compatible file format in pure Julia.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
