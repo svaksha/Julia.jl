@@ -137,6 +137,7 @@
 ## Terminal
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 + [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) :: Package for parsing command-line arguments to Julia programs.
++ [FTPClient.jl](https://github.com/invenia/FTPClient.jl) :: An FTP Client.
 + [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
 + [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
 + [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) :: Progress meter for long-running computations.
