@@ -30,7 +30,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 # MATH 
 + DOCS : [Mathematical Operations](http://docs.julialang.org/en/release-0.3/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
-+ [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) :: A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 + [AppleAccelerate.jl](https://github.com/simonbyrne/AppleAccelerate.jl) :: Julia interface to OS X's Accelerate framework.
 + [BasisFunctions.jl](https://github.com/daanhb/BasisFunctions.jl) :: A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package.
 + [Bijections.jl](https://github.com/scheinerman/Bijections.jl) :: Bijection datatype for Julia.
@@ -49,19 +48,16 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Equations.jl](https://github.com/jhlq/Equations.jl) :: Derive mathematical relations.
 + [FastGauss.jl](https://github.com/ajt60gaibb/FastGauss.jl) :: Computes Gauss quadrature rules to 16-digit precision (so far Legendre, Jacobi, Lobatto, Radau).
 + [FloorLayout.jl](https://github.com/joehuchette/FloorLayout.jl) ::  Framework and various drivers for floor layout formulation analysis.
++ [FrameFuns.jl](https://github.com/daanhb/FrameFuns.jl) :: Exploring practical possibilities of approximating functions with frames rather than with a basis.
 + [GSL.jl](https://github.com/jiahao/GSL.jl) :: Julia interface to the GNU Scientific Library - GSL.
 + [Hexagons.jl](https://github.com/dcjones/Hexagons.jl) :: Useful tools for working with hexagonal grids.
 + [Measures.jl](https://github.com/dcjones/Measures.jl) :: Unified measure and coordinates types.
 + [MPFR.jl](https://github.com/andrioni/MPFR.jl) :: A Julia package for the GNU MPFR library.
 + [Multicombinations.jl](https://github.com/jlep/Multicombinations.jl) :: An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
 + [NaNMath.jl](https://github.com/mlubin/NaNMath.jl) :: Julia math built-ins which return NaN.
-+ [NumericExtensions.jl](https://github.com/lindahua/NumericExtensions.jl) :: Julia extensions to provide high performance computational support for fast vectorized computation.
-   + _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
 + [NLreg.jl](https://github.com/dmbates/NLreg.jl) :: Nonlinear regression in Julia.
 + [NLsolve.jl](https://github.com/EconForge/NLsolve.jl) :: Julia solvers for systems of nonlinear equations.
 + [nrmm.jl](https://github.com/juho-lee/nrmm.jl) :: Posterior inference algorithms for normalized random measure mixtures.
-+ [NumericFuns.jl](https://github.com/lindahua/NumericFuns.jl) :: Math functions and functors for numerical computations.
-+ [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
 + [OEIS.jl](https://github.com/MurrayT/OEIS.jl) :: A basic wrapper to allow access to OEIS from within Julia. 
 + [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
 + [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
@@ -78,7 +74,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Uncertain.jl](https://github.com/rephorm/Uncertain.jl) :: Uncertain quantities and error propagation for the Julia language.
 + [univariate__opt.jl](https://github.com/matthewclegg/univariate_opt.jl) :: Univariate optimization and root-finding code for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
-+ [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
 
 ----
 
@@ -254,11 +249,16 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 
 ### Numerical Linear Algebra (NLA)
 __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__
++ [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) :: A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 + [BSplines.jl](https://github.com/gusl/BSplines.jl) :: This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
 + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) :: A Julia interface to the Elemental linear algebra library : http://libelemental.org/
 + [IncrementalSVD.jl](https://github.com/aaw/IncrementalSVD.jl) :: Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
 + [InteriorPoint.jl](https://github.com/IainNZ/InteriorPoint.jl) :: Primal-dual interior point solver for linear programs.
 + [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
++ [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
++ [NumericExtensions.jl](https://github.com/lindahua/NumericExtensions.jl) :: Julia extensions to provide high performance computational support for fast vectorized computation.
+   + _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
++ [NumericFuns.jl](https://github.com/lindahua/NumericFuns.jl) :: Math functions and functors for numerical computations.
 + [NumericFunctors.jl](https://github.com/lindahua/NumericFunctors.jl) :: Typed functors for numerical computations.
 + [ParallelLinalg.jl](https://github.com/intirb/ParallelLinalg.jl) :: Distributed Dense Linear Algebra for Julia.
 + [PNLA_Julia](https://github.com/kbatseli/PNLA_Julia) :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision in Julia.
@@ -266,6 +266,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
++ [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
 + [VML.jl](https://github.com/simonster/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 
 **Linear Algebra**
