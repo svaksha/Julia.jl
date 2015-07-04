@@ -24,6 +24,7 @@
 ----
 
 # GENOMICS
++ [Ensemble.jl](https://github.com/farr/Ensemble.jl) :: Ensemble Samplers for Julia.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [GenomicTiles.jl](https://github.com/nw11/GenomicTiles.jl)
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
