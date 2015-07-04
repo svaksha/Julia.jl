@@ -10,16 +10,17 @@
 ----
 
 # BIOINFORMATICS
-- [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
-- [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
-- [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
-- [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
++ [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
++ [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
++ [MIToS.jl](https://github.com/diegozea/MIToS.jl).
++ [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
++ [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 
 ----
 
 # BIOSTATISTICS
-- [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) :: Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
-- [ROC.jl](https://github.com/diegozea/ROC.jl) :: Receiver Operating Characteristic (ROC) Curve for Julia Language.
++ [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) :: Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
++ [ROC.jl](https://github.com/diegozea/ROC.jl) :: Receiver Operating Characteristic (ROC) Curve for Julia Language.
 
 ----
 
