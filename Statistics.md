@@ -244,6 +244,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [NURBS.jl](https://github.com/TheBB/NURBS.jl) :: A Julia package for manipulating NURBS objects (curves, surfaces, volumes, etc.).
 + [NHST.jl](https://github.com/johnmyleswhite/NHST.jl) :: Null hypothesis significance tests.
 + [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
++ [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
 + [PGM0.jl](https://github.com/micklat/PGM0.jl) :: A bottom-up approach to probabilistic graphical models.
 + [ProbabilisticModeling.jl](https://github.com/johnmyleswhite/ProbabilisticModeling.jl) :: A BUGS-like language for describing probabilistic models in Julia.
 + [ProbTopicModels.jl](https://github.com/lindahua/ProbTopicModels.jl) :: Probabilistic topic models.
