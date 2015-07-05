@@ -13,6 +13,7 @@
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 + [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
++ [Rosalind.jl](https://github.com/PilgrimShadow/Rosalind.jl) :: A bioinformatics library for solving problems from rosalind.info.
 + [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 + [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 
