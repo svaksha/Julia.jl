@@ -3,9 +3,10 @@
 + [ALGORITHMS](#algorithms)
    + [Association Rule](#association-rule)
    + [Checksum](#checksum)
-   + [Algorithm Scheduling](#algorithm-scheduling)
+   + [Scheduling Algorithm](#scheduling-algorithm)
    + [Quantum](#quantum)
    + [Pattern Matching](#pattern-matching)
+   + [Time](#time)
 + [DATA STRUCTURES](#data-structures)
    + [Arrays-Graphs](#arrays-graphs)
    + [Org-JuliaSparse](#org-juliasparse)
@@ -27,10 +28,10 @@
 
 ### Checksum 
 + [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
-+ [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation
++ [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation.
 + [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
 
-### [Algorithm Scheduling](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
+### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
 + [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
 
 ### Quantum
@@ -47,6 +48,9 @@
    + _DOCS_ :: https://matchjl.readthedocs.org/en/latest/
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
+
+### Time
++ [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) :: A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 
 ###### RESOURCES
 + [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) :: Snippets from Problem Solving with Algorithms and Data Structures in Julia.
@@ -233,15 +237,15 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ParserCombinator.jl](https://github.com/andrewcooke/ParserCombinator.jl) :: A parser combinator library.
 + [Parsimonious.jl](https://github.com/gitfoxi/Parsimonious.jl) :: A PEG parser generator.
 + [PEGParser.jl](https://github.com/abeschneider/PEGParser.jl) :: A PEG Parser for Julia with Packrat capabilties, inspired by pyparsing, parsimonious, boost::spirit, as well as several others.
-+ [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: is an interface to Python Lex-Yacc package that uses reflection for most of its processing. 
++ [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: An interface to Python Lex-Yacc package that uses reflection for most of its processing. 
 + [SimpleParser.jl](https://github.com/ordovician/SimpleParser.jl) :: A very simple hackable parser and lexer for simple languages.
 + [Stemmers.jl](https://github.com/tanmaykm/Stemmers.jl) :: Interface for text stemmer implementations.
 + [Sumup.jl](https://github.com/remusao/Sumup.jl) :: Automatic multi-documents, multi-topics summarization based on topic extraction.
 + [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) :: Parser with beginners and enders and infix.
 + [Text.jl](https://github.com/mit-nlp/Text.jl) :: Numerous tools for text processing.
-+ [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: is a Julia package for text analysis.
-+ [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels.
-+ [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser for Julia.
++ [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: A Julia package for text analysis.
++ [TopicModels.jl](https://github.com/slycoder/TopicModels.jl).
++ [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
 
 ###### Resources
 + [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
@@ -250,7 +254,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 # SPEECH RECOGNITION
 + [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) :: It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia. 
-+ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl)
++ [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 + [SPTK.jl](https://github.com/r9y9/SPTK.jl) :: A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 + [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters. 
 + [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
