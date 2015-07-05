@@ -3,6 +3,7 @@ __Useful learning resources and all other random resources that does not have it
 + [BOOKS](#books)
 + [BLOGS](#blogs)
 + [CHEATSHEETS](#cheatsheets)
++ [CONF PRESENTATIONS](#conf presentations)
 + [COOKBOOKS](#cookbooks)
 + [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 + [LISTS](#lists)
@@ -64,6 +65,22 @@ __Useful learning resources and all other random resources that does not have it
 
 ----
 
+# CONF PRESENTATIONS
++ [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
++ [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
++ [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
++ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
++ EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
++ JuliaCon-2014 ::
+   + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
+   + [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
+   + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
++ SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
++ 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
++ ACM-SPLASH-2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
+
+----
+
 # COOKBOOKS
 + [Binary search in Julia](http://rosettacode.org/wiki/Binary_search#Julia)
 + [Brainstorm.jl](https://github.com/Samayel/Brainstorm.jl) :: Project Euler and more.
@@ -84,8 +101,6 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
-+ [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
-+ [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
@@ -129,19 +144,5 @@ __Useful learning resources and all other random resources that does not have it
 + [JuliaByExample](http://www.scolvin.com/juliabyexample/) :: Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
 + [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
 + [Learn Julia in Y minutes](http://learnxinyminutes.com/docs/julia/).
-
-----
-
-# VIDEOS
-+ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
-+ EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
-+ JuliaCon-2014 ::
-   + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
-   + [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
-   + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
-+ SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
-+ 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
-+ ACM-SPLASH-2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
-
 
 

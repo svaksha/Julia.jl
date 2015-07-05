@@ -105,9 +105,9 @@ __The official Julia conference, and local meetup groups located around the worl
 ----
 
 ### JSoC
-+ __Program__:: Julia Summer of Code (JSoC) projects will be similar in scope and nature to that of GSoC, and is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send it to Stefan Karpinski <stefan@karpinski.org> and Viral Shah <viral@mayin.org> with "JSoC proposal:" in the subject line. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0)
++ __Program__:: Julia Summer of Code (JSoC) will run from 2015Jun15-Sep15 and the projects will be similar in scope and nature to that of GSoC. It is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send an email to juliasoc@googlegroups.com for feedback and approval. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0) and the [blog post](http://julialang.org/blog/2015/05/jsoc-cfp/).
 + __FinAid__:: Compensation is similar to GSoC - USD5500.00
-+ __Deadline__:: ASAP, May-Aug of each year.
++ __Deadline__:: 2015Jun01.
 
 ----
 
