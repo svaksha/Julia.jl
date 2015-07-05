@@ -158,7 +158,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) :: Julia bindings for AMD's clFFT library.
 + [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) :: Wrapper for the CUDA FFT library.
 + [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
-+ [SnJulia.jl](https://github.com/GDPlumb/SnJulia.jl) :: A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn. 
++ [SnFFT.jl](https://github.com/GDPlumb/SnFFT.jl) :: A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn. 
 
 
 ## [Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
