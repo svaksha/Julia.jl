@@ -11,6 +11,7 @@
 ----
 
 + [auditory.jl](https://github.com/jfsantos/auditory.jl) :: Auditory filterbanks in Julia.
++ [Chipmunk.jl](https://github.com/zyedidia/Chipmunk.jl) :: A binding of the physics engine Chipmunk for Julia. 
 + [CMSSW.jl](https://github.com/jpata/CMSSW.jl) :: A work-in-progress wrapper for ROOT.jl.
 + [Codata.jl](https://github.com/kofron/Codata.jl)
 + [HEP.jl](https://github.com/jpata/HEP.jl) :: A collection of methods useful for HEP.
