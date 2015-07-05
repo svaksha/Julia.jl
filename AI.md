@@ -16,8 +16,6 @@
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
 + [SPEECH RECOGNITION](#speech-recognition)
-   + [DSP](#dsp)
-   + [Org-JuliaDSP](#org-dsp)
        
 ----
 

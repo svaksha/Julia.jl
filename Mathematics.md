@@ -10,6 +10,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Calculus & Applied Math](#calculus-&-applied-math)
    + [DSP](#dsp)
       + [Org-JuliaDSP](#org-juliadsp)
+      + [FFT](#fft) 
    + [Functions](#functions)
       + [Ordinary Differential Equation](#ordinary-differential-equation)
          + [Org-JuliaLang](#org-julialang)
@@ -145,13 +146,19 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [KernelRecursiveLeastSquares.jl](https://github.com/the-moliver/KernelRecursiveLeastSquares.jl) :: Julia implementation of Kernel Recursive Least Squares algorithm.
 + [MDCT.jl](https://github.com/stevengj/MDCT.jl) :: This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
 + [Multirate.jl](https://github.com/JayKickliter/Multirate.jl) :: Streaming polyphase DSP filters with sample rate conversion.
-+ [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 + [RIM.jl](https://github.com/nantonel/RIM.jl) :: Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
 + [wavechaos](https://github.com/amyascwk/wavechaos) 
 + [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
 
 ### Org-[JuliaDSP](https://github.com/JuliaDSP)
 + [DSP.jl](https://github.com/JuliaDSP/DSP.jl) :: The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
+
+### [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
++ [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) :: Julia bindings for AMD's clFFT library.
++ [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) :: Wrapper for the CUDA FFT library.
++ [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
++ [SnJulia.jl](https://github.com/GDPlumb/SnJulia.jl) :: A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn. 
+
 
 ## [Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
 + [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
