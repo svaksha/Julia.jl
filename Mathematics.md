@@ -117,7 +117,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 ----
 
 # Calculus & [Applied Math](http://en.wikipedia.org/wiki/Applied_mathematics)
-+ [ApproxFun](https://github.com/dlfivefifty/ApproxFun) :: Julia IFun Implementation is a package for approximating functions. It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
@@ -132,7 +131,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [ReverseDiffOverload.jl](https://github.com/LaurenceA/ReverseDiffOverload.jl) :: Reverse mode differentiation for pre-defined functions.
 + [ReverseDiffSparse.jl](https://github.com/mlubin/ReverseDiffSparse.jl) :: Hessian algorithmic differentiation to compute hessian sparsity pattern.
 + [RiemannComplexNumbers.jl](https://github.com/scheinerman/RiemannComplexNumbers.jl) :: The RiemannComplexNumbers module is an alternative Complex type for Julia (with a single complex infinity value). 
-+ [SIE.jl](https://github.com/ApproxFun/SIE.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
 + [TaylorSeries.jl](https://github.com/lbenet/TaylorSeries.jl) :: A julia package for Taylor expansions in one independent variable.
 
 ###### Learning Resources
@@ -164,6 +162,11 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 ## [Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
 + [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
 + [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) :: Fast "anonymous functions" for Julia.
+
+### [Integral Equation](https://en.wikipedia.org/wiki/Integral_equation)
++ [ApproxFun](https://github.com/dlfivefifty/ApproxFun) :: Julia IFun Implementation is a package for approximating functions. It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
++ [SIE.jl](https://github.com/ApproxFun/SIE.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
++ [SingularIntegralEquations.jl](https://github.com/ApproxFun/SingularIntegralEquations.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems.
 
 ### [Ordinary Differential Equation](http://en.wikipedia.org/wiki/Ordinary_differential_equation)
 + [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila package for performing automatic differentiation.
