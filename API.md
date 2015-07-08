@@ -78,6 +78,7 @@ Wrappers's and programming API for other languages and general backend server pu
 
 ## Java 
 + [JavaCall.jl](http://aviks.github.io/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
++ [JDBC.jl](https://github.com/aviks/JDBC.jl) :: Julia interface to Java database drivers.
 
 ## JavaScript
 + [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
