@@ -43,6 +43,7 @@
 + [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
 + [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
++ [ExpressionMatch.jl](https://github.com/one-more-minute/ExpressionMatch.jl) :: A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally. 
 + [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) :: Port of the jellyfish string comparison library.
 + [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 + [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
@@ -59,9 +60,7 @@
 ----
 
 # [COMPUTATIONAL PROBLEMS](https://en.wikipedia.org/wiki/Category:Computational_problems)
-
 ## [NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
-
 ### [SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 + [dReal.jl](https://github.com/zenna/dReal.jl) :: Nonlinear SMT solving using dReal.
 + [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) :: Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.

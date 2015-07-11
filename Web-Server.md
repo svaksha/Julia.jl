@@ -73,7 +73,7 @@ Networking, web security, frameworks and other Web related things go here!
 # NETWORKING
 + [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
 + [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
-+ [Juliaflow](https://github.com/pchronz/juliaflow) :: is a controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
++ [Juliaflow](https://github.com/pchronz/juliaflow) :: A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
 + [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
 + [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) :: Libpcap implementation for Julia language.
 + [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
