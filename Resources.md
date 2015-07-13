@@ -133,7 +133,7 @@ __Useful learning resources and all other random resources that does not have it
 + 2013 StrangeLoop :: Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
 + [Julia language slides](http://wiki.scinethpc.ca/wiki/images/7/71/Scinet_julia.pdf) by Mike Nolta.
 
-### Slides from JuliaTokyo meetups
+### Slides from [JuliaTokyo meetups](https://github.com/JuliaTokyo/julia-wakalang)
 + [JuliaTokyoTutorial](https://github.com/chezou/JuliaTokyoTutorial) and slides from the [4th meetup](http://juliatokyo.connpass.com/event/16570/presentation/).
 + [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/).
 
