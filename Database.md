@@ -26,7 +26,7 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 ## MongoDB 
 + [LibMongo.jl](https://github.com/pzion/LibMongo.jl) :: Mongo bindings for the Julia programming language.
 + [Mongo.jl](https://github.com/pzion/Mongo.jl) :: Mongo bindings for the Julia programming language.
-+ [Mongo.jl](https://github.com/Lytol/Mongo.jl) {UnMaintained} :: Mongo bindings for the Julia programming language.
++ [Mongo.jl](https://github.com/Lytol/Mongo.jl) {__UnMaintained__} :: Mongo bindings for the Julia programming language.
 
 ## Redis
 + [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.

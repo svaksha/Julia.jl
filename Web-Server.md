@@ -2,12 +2,12 @@ Networking, web security, frameworks and other Web related things go here!
 
 * [FRAMEWORKS](#frameworks)
    * [RoR](#ror)
-* [WWW](#www)
-   * [Middleware](#middleware)
-   * [Template Engines](#template-engines)
-   * [WIDE](#wide)
-   * [Web](#web)
-        + [Org-JuliaWeb](org-juliaweb)
+* [Middleware](#middleware)
+* [Template Engines](#template-engines)
+* [WIDE](#wide)
+   + [Org-JunoLab](#org-junolab)
+* [Web](#web)
+   + [Org-JuliaWeb](org-juliaweb)
 + [NETWORKING](#networking)
    + [Security](#security)
 
@@ -27,22 +27,31 @@ Networking, web security, frameworks and other Web related things go here!
 
 ----
 
-# WWW
-
-## Middleware
+# Middleware
 + [JuliaWebAPI.jl](https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP.
-+ [Mux.jl](https://github.com/one-more-minute/Mux.jl) :: Middleware for Julia.
 + [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
 + [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
    + Thread on building a [web app for enterprise risk management](https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g)
+
+----
    
-## Template Engines
+# Template Engines
 + [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
 
-## [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
+----
+
+# [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
-## Web
+## Org-[JunoLab](https://github.com/JunoLab/)
++ [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl) :: A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
++ [DevTools.jl](https://github.com/JunoLab/DevTools.jl) :: Dev tools that uses the `Media.jl` display system.
++ [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) :: A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
++ [Mux.jl](https://github.com/JunoLab/Mux.jl) :: Middleware for Julia.
+
+----
+
+# Web
 + [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
@@ -52,7 +61,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
 + [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 
-### Org-[JuliaWeb](https://github.com/JuliaWeb)
+## Org-[JuliaWeb](https://github.com/JuliaWeb)
 + [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
 + [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) :: A WebSockets server library for Julia.
 + [HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl) :: Provides types and helper functions for dealing with the HTTP protocol in Julia.

@@ -95,7 +95,7 @@ Wrappers's and programming API for other languages and general backend server pu
 + [Moonwalk.jl](https://github.com/diogo149/Moonwalk.jl) :: A partial MATLAB to Julia compiler, just to ease the transition of libraries.
 
 ## ObjectiveC
-+ [ObjectiveC.jl](https://github.com/one-more-minute/ObjectiveC.jl) :: A Julia module for Objective-C.
++ [ObjectiveC.jl](https://github.com/JunoLab/ObjectiveC.jl) :: A Julia library that allows you to call Objective-C methods using native syntax.
 
 ## Perl
 + [FileFind.jl](https://github.com/johnmyleswhite/FileFind.jl) :: Minimal Implementation of Perl's `File::Find` in Julia.
