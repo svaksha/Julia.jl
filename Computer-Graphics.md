@@ -102,6 +102,7 @@
 + [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
 + [ProfileView.jl](https://github.com/GlenHertz/ProfileView.jl) :: Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
++ [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.
 + [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark.
 + [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
 + [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
