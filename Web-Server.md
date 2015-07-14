@@ -1,15 +1,16 @@
 Networking, web security, frameworks and other Web related things go here!
 
-* [FRAMEWORKS](#frameworks)
++ [FRAMEWORKS](#frameworks)
    * [RoR](#ror)
-* [Middleware](#middleware)
-* [Template Engines](#template-engines)
-* [WIDE](#wide)
-   + [Org-JunoLab](#org-junolab)
-* [Web](#web)
-   + [Org-JuliaWeb](org-juliaweb)
++ [JAVASCRIPT](#javascript)
++ [Middleware](#middleware)
 + [NETWORKING](#networking)
    + [Security](#security)
++ [Template Engines](#template-engines)
++ [WEB](#web)
+   + [Org-JuliaWeb](org-juliaweb)
++ [WIDE](#wide)
+   + [Org-JunoLab](#org-junolab)
 
 ----
 
@@ -27,11 +28,37 @@ Networking, web security, frameworks and other Web related things go here!
 
 ----
 
+# JAVASCRIPT
++ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
++ [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
++ [jlbox](https://github.com/compressed/jlbox) :: Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket. 
++ [ijulia_d3_tutorial](https://github.com/cgroll/ijulia_d3_tutorial) :: A step by step guide to d3.js chart usage in ijulia notebooks.
+
+----
+
 # Middleware
 + [JuliaWebAPI.jl](https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP.
 + [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
 + [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
    + Thread on building a [web app for enterprise risk management](https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g)
+
+----
+
+# NETWORKING
++ [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
++ [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
++ [Juliaflow](https://github.com/pchronz/juliaflow) :: A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
++ [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
++ [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) :: Libpcap implementation for Julia language.
++ [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
++ [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
+
+## Security
++ [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
++ [GnuTLS.jl](https://github.com/JuliaWeb/GnuTLS.jl) :: Transport Level Security for Julia Streams provided by GnuTLS.
++ [Morsel.jl](https://github.com/JuliaLang/Morsel.jl) :: A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
++ [HttpServer.jl](https://github.com/JuliaLang/HttpServer.jl) :: a basic, non-blocking HTTP server in Julia.
++ [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
 
 ----
    
@@ -40,18 +67,7 @@ Networking, web security, frameworks and other Web related things go here!
 
 ----
 
-# [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
-+ [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
-
-## Org-[JunoLab](https://github.com/JunoLab/)
-+ [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl) :: A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
-+ [DevTools.jl](https://github.com/JunoLab/DevTools.jl) :: Dev tools that uses the `Media.jl` display system.
-+ [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) :: A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
-+ [Mux.jl](https://github.com/JunoLab/Mux.jl) :: Middleware for Julia.
-
-----
-
-# Web
+# WEB
 + [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
@@ -79,20 +95,16 @@ Networking, web security, frameworks and other Web related things go here!
 
 ----
 
-# NETWORKING
-+ [Dates.jl](https://github.com/quinnj/Dates.jl) :: A Date and DateTime implementation for Julia.
-+ [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
-+ [Juliaflow](https://github.com/pchronz/juliaflow) :: A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
-+ [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
-+ [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) :: Libpcap implementation for Julia language.
-+ [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
-+ [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
+# [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
++ [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
 
-## Security
-+ [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
-+ [GnuTLS.jl](https://github.com/JuliaWeb/GnuTLS.jl) :: Transport Level Security for Julia Streams provided by GnuTLS.
-+ [Morsel.jl](https://github.com/JuliaLang/Morsel.jl) :: A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
-+ [HttpServer.jl](https://github.com/JuliaLang/HttpServer.jl) :: a basic, non-blocking HTTP server in Julia.
-+ [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
-
+## Org-[JunoLab](https://github.com/JunoLab/)
++ [Blink.jl](https://github.com/JunoLab/Blink.jl) :: A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
++ [CodeTools.jl](https://github.com/JunoLab/CodeTools.jl) :: A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
++ [DevTools.jl](https://github.com/JunoLab/DevTools.jl) :: Dev tools that uses the `Media.jl` display system.
++ [Hiccup.jl](https://github.com/JunoLab/Hiccup.jl) :: A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
++ [LNR.jl](https://github.com/JunoLab/LNR.jl) :: Line numbering reader.
++ [Media.jl](https://github.com/JunoLab/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
++ [MethImp.jl](https://github.com/JunoLab/MethImp.jl) :: Method Importing.
++ [Mux.jl](https://github.com/JunoLab/Mux.jl) :: Middleware for Julia.
 

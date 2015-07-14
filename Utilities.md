@@ -9,7 +9,6 @@
    + [Org-Jupyter](#org-jupyter)
    + [WIDE](#wide) 
    + [Shell](#shell)
-+ [JAVASCRIPT](#javascript)
 + [UTILS](#utils)
    + [Terminal](#terminal)
    + [File Compression](#file-compression)
@@ -73,7 +72,6 @@
 + [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: is an integrated developement environment (IDE) for the programming language Julia.
 + [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
 + [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
-+ [Media.jl](https://github.com/one-more-minute/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
 + [Neovim.jl](https://github.com/bfredl/Neovim.jl) by @bfredl :: Neovim client for Julia.
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
    + [JuliaCompletions](https://github.com/jakeconnor/JuliaCompletions) :: Make all of Julia's UTF-8 autocompletions available in Sublime Text.
@@ -112,15 +110,6 @@
 + [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 + [koding](https://koding.com/Julia) has an interactive online Julia REPL.
 + [CodeBunk](http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud.
-
-----
-
-# JAVASCRIPT
-+ [Blink.jl](https://github.com/one-more-minute/Blink.jl) :: A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
-+ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
-+ [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
-+ [jlbox](https://github.com/compressed/jlbox) :: Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket. 
-+ [ijulia_d3_tutorial](https://github.com/cgroll/ijulia_d3_tutorial) :: A step by step guide to d3.js chart usage in ijulia notebooks.
 
 ----
 
