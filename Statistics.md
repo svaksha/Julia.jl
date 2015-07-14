@@ -45,6 +45,7 @@
 ## Finance
 + [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.
 + [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) :: Analysis of high frequency quantitative data. 
+   + flashcrash-ui](https://github.com/shashi/flashcrash-ui) :: UI for `BigFinance.jl`.
 + [BusinessDays.jl](https://github.com/felipenoris/BusinessDays.jl) :: A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
 + [EodData.jl](https://github.com/adriantorrie/EodData.jl) :: Julia package for connecting to the [EodData.com XML Web Service](http://eoddata.com/products/webservice.aspx).
 + [FinMarkets.jl](https://github.com/imanuelcostigan/FinMarkets.jl) :: Describe and model financial markets objects using Julia.
