@@ -1,4 +1,5 @@
 + [Data Formats](#data-formats)
+  + [Org-JuliaLang](#org-julialang)
 + [Data Types](#data-types)
 + [Programming Paradigms](#programming-paradigms)
    + [Double Dispatch](#doubledispatch)
@@ -32,11 +33,8 @@
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
 + [HDF5.jl](https://github.com/timholy/HDF5.jl) :: Lib to read HDF format files. HDF5 is a file format
-   + [JLDArchives.jl](https://github.com/timholy/JLDArchives.jl) :: A repository of Julia *.jld files for testing backwards compatibility. __NotaBene: This is NOT a library package.__
    + [JLD2](https://github.com/simonster/JLD2) :: HDF5-compatible file format in pure Julia.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
-+ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
-+ [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
 + [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia. 
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
@@ -59,6 +57,12 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
+
+## Org-[JuliaLang](https://github.com/JuliaLang)
++ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
++ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
++ [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
+
 
 ----
 
