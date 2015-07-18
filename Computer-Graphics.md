@@ -81,6 +81,7 @@
 + [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
 + [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl.
 + [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
++ [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) :: This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 + [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
 + [echarts](https://github.com/ecomfe/echarts)
 + [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
