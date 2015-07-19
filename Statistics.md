@@ -306,6 +306,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
 + [ABCDistances.jl](https://github.com/dennisprangle/ABCDistances.jl) :: Performs approximate Bayesian computation (ABC) using various distance functions.
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
++ [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Code accompanying the paper Frank van der Meulen, Moritz Schauer: Bayesian estimation of discretely observed multi-dimensional diffusion processes using guided proposals : http://arxiv.org/abs/1406.4704
 + [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
 + [Bolstad2.jl](https://github.com/goedman/Bolstad2.jl) :: Julia functions from W.M. Bolstad's "Understanding Computational Bayesian Statistics".
