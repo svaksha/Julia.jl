@@ -151,6 +151,7 @@
 
 # [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 + [hmm.jl](https://github.com/nfoti/hmm.jl) :: Julia implementation of Hidden Markov Models.
++ [HMM.jl](https://github.com/ahwillia/HMM.jl) :: A module for fitting Hidden Markov Models in Julia.
 + [Lora.jl](https://github.com/JuliaStats/Lora.jl) :: is a generic engine for implementing Bayesian statistical models using Markov Chain Monte Carlo (MCMC) methods. 
 + [Mamba.jl](https://github.com/brian-j-smith/Mamba.jl) :: Markov chain Monte Carlo simulation toolkit for julia.
 + [Markov.jl](https://github.com/goedman/Markov.jl) :: Trial Markov package.
