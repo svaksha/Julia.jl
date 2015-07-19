@@ -320,6 +320,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [GaussQuadrature.jl](https://github.com/billmclean/GaussQuadrature.jl) :: Another package that generates the points and weights of the Gauss quadrature rules.
 + [GaussianProcesses.jl](https://github.com/johnmyleswhite/GaussianProcesses.jl) :: A port of the Gaussian Processes toolkit to Julia.
 + [NaiveBayes.jl](https://github.com/johnmyleswhite/NaiveBayes.jl) :: The Gaussian Naive Bayes model in Julia.
++ [Schauder.jl](https://github.com/mschauer/Schauder.jl) :: A graphical perspective on Gauss-Markov process priors and fast sparse Cholesky for hierarchically structured (generalized arrow) matrices.
 
 ## [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Method
 + [Augur.jl](https://github.com/AugurProject/Augur.jl) :: Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm.
