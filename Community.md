@@ -20,7 +20,6 @@ The Julia [community](http://julialang.org/community/) is distributed over vario
    + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussions
    + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here.
 
-
 __NEWS from social networking communities, QA sites and Twitter.__
 + [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
 + [Reddit](http://www.reddit.com/r/Julia/)

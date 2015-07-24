@@ -4,6 +4,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [COMPILERS](#compilers)
    + [Transpiler](#transpiler)
 + [Computer Performance](#computer-performance)
++ [CONCURRENCY](#concurrency)
 + [DISTRIBUTED-PARALLEL](#distributed-parallel) 
    + [Job Scheduler](#job-scheduler)
 + [GRID](#grid) 
@@ -39,6 +40,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [USERTime.jl](https://github.com/christianpeel/USERTime.jl) :: A Julia package for measuring elapsed user time. 
 
 ----
+
 # DISTRIBUTED-PARALLEL
 **Cloud/ Cluster**
 + [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
@@ -60,11 +62,17 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
    + Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
    + An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
 
+----
+
+# [CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
+
 ### [Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 + [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
 + [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 + [LoraMPI.jl](https://github.com/scidom/LoraMPI.jl) :: MPI Job Manager for Lora Parralel-Centric Runners.
 + [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
++ [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
++ [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 
 ----
 
