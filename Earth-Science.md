@@ -19,6 +19,8 @@
 
 # [ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology)
 
++ [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) :: Measure various aspects of the structure of ecological networks in Julia.
+
 ### [Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :: Package to calculate Leaf Area Index from Hemisperical Images.
 + [LAIscript](https://github.com/ETC-UA/LAIscript) :: scripts to automatically run LAI calculations with ODBC link to custom database. 
