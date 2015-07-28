@@ -67,8 +67,11 @@ __Useful learning resources and all other random resources that does not have it
 
 # CONF PRESENTATIONS
 + [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
-+ [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
-+ [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
++ [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
++ JuliaCon-2015 ::
+   + [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
+   + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
+   + [JuliaCon2015 by @simonster](https://github.com/simonster/JuliaCon2015) :: Slides from my presentations at JuliaCon 2015.
 + Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
 + EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 + JuliaCon-2014 ::
@@ -77,7 +80,8 @@ __Useful learning resources and all other random resources that does not have it
    + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
 + SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
 + 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
-+ ACM-SPLASH-2013 :: [Stefan, Jeff, and Viral's talk](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013).
++ [ACM-SPLASH-2013](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013) :: Stefan, Jeff, and Viral's talk.
++ [2013 StrangeLoop]((http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)) :: Stefan Karpinski's talk notes on "The Design Impact of Multiple Dispatch". 
 
 ----
 
@@ -125,12 +129,10 @@ __Useful learning resources and all other random resources that does not have it
 # SLIDES
 + [Setting up Julia for EE103](https://web.stanford.edu/class/ee103/slides/julia_ee103_slides.pdf) slides, Stanford.
 + [Matrices in Julia](http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides, Stanford.
-+ [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
 + [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
 + [UCDavis.jl](https://github.com/johnmyleswhite/UCDavis.jl) :: Talk given at UC Davis on 27/Feb/2014.
 + Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
 + Slides on [Modern Fortran & Julia](http://www.slideshare.net/krissiazawadzki/seminar-fortran-and-julia) by Krissia Zawadzki.
-+ 2013 StrangeLoop :: Stefan Karpinski's talk notes on "[The Design Impact of Multiple Dispatch](http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)" 
 + [Julia language slides](http://wiki.scinethpc.ca/wiki/images/7/71/Scinet_julia.pdf) by Mike Nolta.
 
 ### Slides from [JuliaTokyo meetups](https://github.com/JuliaTokyo/julia-wakalang)
