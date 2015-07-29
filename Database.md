@@ -29,8 +29,9 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [Mongo.jl](https://github.com/Lytol/Mongo.jl) {__UnMaintained__} :: Mongo bindings for the Julia programming language.
 
 ## Redis
++ [Redis.jl](https://github.com/jkaye2012/Redis.jl) :: Pure Julia implementation of a Redis client (actively maintained).
 + [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
-
+ 
 ## SciDB [ArrayDB](http://en.wikipedia.org/wiki/Array_DBMS)
 + [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
    + __RESOURCES__
