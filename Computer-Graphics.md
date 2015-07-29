@@ -62,6 +62,7 @@
 + [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
++ [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
 
 ## Games
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
