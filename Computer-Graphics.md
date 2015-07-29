@@ -152,7 +152,10 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 + [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional "bounding boxes", a.k.a "orthotopes", which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
 + [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
 + [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
++ [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
 + [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
+
 
 ----
 
