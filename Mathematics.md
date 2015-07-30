@@ -77,6 +77,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies.
 + [Uncertain.jl](https://github.com/rephorm/Uncertain.jl) :: Uncertain quantities and error propagation for the Julia language.
 + [univariate__opt.jl](https://github.com/matthewclegg/univariate_opt.jl) :: Univariate optimization and root-finding code for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 + [Unums.jl](https://github.com/goedman/Unums.jl) :: Unum test repository. 
+    + [UnumTests.jl](https://github.com/goedman/UnumTests.jl) :: Some experiments with Unums.
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
 
 ----
