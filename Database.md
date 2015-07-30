@@ -24,6 +24,7 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
 
 ## MongoDB 
++ [LibBSON.jl](https://github.com/pzion/LibBSON.jl) :: libbson bindings for the Julia programming language.
 + [LibMongo.jl](https://github.com/pzion/LibMongo.jl) :: Mongo bindings for the Julia programming language.
 + [Mongo.jl](https://github.com/pzion/Mongo.jl) :: Mongo bindings for the Julia programming language.
 + [Mongo.jl](https://github.com/Lytol/Mongo.jl) {__UnMaintained__} :: Mongo bindings for the Julia programming language.
