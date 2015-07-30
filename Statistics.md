@@ -184,7 +184,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
-+ [BasePerfTests.jl](https://github.com/IainNZ/BasePerfTests.jl) :: A collection of performance regression tests for the Julia language.
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
 + [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools. 
 + [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
