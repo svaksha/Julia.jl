@@ -62,6 +62,7 @@
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
 ## IDE
++ [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) :: A Julia language support package for the Atom editor.
 + [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
 + [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
@@ -71,7 +72,6 @@
 + [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 + [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: An integrated developement environment (IDE) for the programming language Julia.
 + [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
-+ [language-julia](https://github.com/tpoisot/language-julia) :: Julia language support and snippets for Atom, forked from the (unmaintained) atom-language-julia package.
 + [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 + [Neovim.jl](https://github.com/bfredl/Neovim.jl) by @bfredl :: Neovim client for Julia.
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
