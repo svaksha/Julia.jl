@@ -8,7 +8,6 @@
    + [IDE](#ide)
    + [Org-Jupyter](#org-jupyter)
    + [WIDE](#wide) 
-   + [Shell](#shell)
 + [UTILS](#utils)
    + [Terminal](#terminal)
    + [File Compression](#file-compression)
@@ -95,16 +94,6 @@
 + How to create a [Custom IJulia Widget](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/avrahamruderman/116845471f0d79942aff/raw/fb1f659e635f4585ebb449aa2519deffd15aba31/writing-custom-ijulia-widgets.ipynb)
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
 
-
-### Shell Terminal
-+ [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
-+ [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
-+ [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
-+ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
-+ [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
-+ [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
-+ [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl.).
-
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia in the browser. [Source code](https://github.com/JuliaLang/JuliaBox) and a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) for juliabox.org.
    + [JuliaBoxUtils.jl](https://github.com/tanmaykm/JuliaBoxUtils.jl) :: JuliaBox utility methods.
@@ -125,14 +114,22 @@
 ## Terminal
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 + [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) :: Package for parsing command-line arguments to Julia programs.
++ [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
 + [FTPClient.jl](https://github.com/invenia/FTPClient.jl) :: An FTP Client.
 + [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
++ [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
 + [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
++ [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
++ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 + [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) :: Progress meter for long-running computations.
++ [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
++ [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 + [SaveREPL.jl](https://github.com/sjkelly/SaveREPL.jl) :: A package for saving entries in the Jula REPL. 
 + [TerminalExtensions.jl](https://github.com/loladiro/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
 + [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
++ [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl).
++ [TerminalUI.jl](https://github.com/Keno/TerminalUI.jl) :: Terminal User Interface.
 
 ## File Compression 
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
