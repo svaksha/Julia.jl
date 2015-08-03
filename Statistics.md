@@ -185,13 +185,13 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
++ [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
 + [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools. 
 + [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 + [OutOfSampleBootstrap.jl](https://github.com/grayclhn/OutOfSampleBootstrap.jl) :: Regression model validation (out-of-sample) statistics.
 + [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
-
 
 ###### Resources
 + [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
