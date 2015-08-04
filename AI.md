@@ -25,6 +25,8 @@
 
 # ALGORITHMS
 
++ [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: A Julia framework to support the simulation of distributed computing algorithms.
+
 ### Association Rule
 + [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
 
