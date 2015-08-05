@@ -5,8 +5,8 @@ __Useful learning resources and all other random resources that does not have it
 + [CHEATSHEETS](#cheatsheets)
 + [CONF PRESENTATIONS](#conf presentations)
 + [COOKBOOKS](#cookbooks)
++ [GENERAL RESOURCES](#general-resources)
 + [JUPYTER NOTEBOOKS](#jupyter-notebooks)
-+ [LISTS](#lists)
 + [SLIDES](#slides)
 + [TUTORIALS](#tutorials) 
 
@@ -104,6 +104,13 @@ __Useful learning resources and all other random resources that does not have it
 
 ----
 
+# GENERAL RESOURCES
++ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
++ [A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - scroll down to the Julia section.
++ [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses).
+
+----
+
 # JUPYTER NOTEBOOKS
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
@@ -120,12 +127,6 @@ __Useful learning resources and all other random resources that does not have it
 
 ----
 
-# LISTS
-+ [A curated list of awesome awesomeness - scroll down to the Julia section](https://github.com/bayandin/awesome-awesomeness)
-+ [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses)
-
-----
- 
 # SLIDES
 + [Setting up Julia for EE103](https://web.stanford.edu/class/ee103/slides/julia_ee103_slides.pdf) slides, Stanford.
 + [Matrices in Julia](http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides, Stanford.
@@ -138,7 +139,6 @@ __Useful learning resources and all other random resources that does not have it
 ### Slides from [JuliaTokyo meetups](https://github.com/JuliaTokyo/julia-wakalang)
 + [JuliaTokyoTutorial](https://github.com/chezou/JuliaTokyoTutorial) and slides from the [4th meetup](http://juliatokyo.connpass.com/event/16570/presentation/).
 + [JuliaTokyo second meetup slides](http://juliatokyo.connpass.com/event/8010/presentation/).
-
 
 ----
 
