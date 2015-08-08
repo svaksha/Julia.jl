@@ -67,7 +67,6 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 ----
 
 # Statistical Mechanics
-+ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann machines and deep belief networks.
 + [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
 
 ----
