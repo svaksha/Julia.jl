@@ -6,6 +6,7 @@
    + [Org-JuliaQuant](#org-juliaquant)
 + [BENCHMARKS](#benchmarks)
    + [Preprocessor](#preprocessor)
++ [DATA SCIENCE](#data-science)
 + [OPERATIONS RESEARCH](#operations-research)
    + [Optimization](#optimization)
       + [Genetic Programming](#genetic-programming)
@@ -94,6 +95,14 @@
 
 ### Preprocessor
 + [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
+
+----
+
+# DATASCIENCE
++ [DataScienceBestPractices](https://github.com/AllenDowney/DataScienceBestPractices) :: Supporting code for a video series on best practices for exploratory data analysis. 
+
+###### Learning Resources
++ [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 
 ----
 
@@ -202,7 +211,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 # STATISTICS
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation.
 + [AD_StatTest-julia](https://github.com/manuamador/AD_StatTest-julia) :: An implementation of the Anderson Darling statistical test for exponential or Rayleigh distributions in Julia.
-+ [ApproXD.jl](https://github.com/floswald/ApproXD.jl) :: B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 + [ASH.jl](https://github.com/joshday/ASH.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R "basicspace" package to Julia.
 + [Bootstrap.jl](https://github.com/julian-gehring/Bootstrap.jl) :: Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
