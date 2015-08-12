@@ -50,7 +50,6 @@ Wrappers's and programming API for other languages and general backend server pu
 ## C
 + [GetC.jl](https://github.com/rennis250/GetC.jl) :: package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
 + [julia-ffi](https://github.com/o-jasper/julia-ffi) :: Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
-+ [MPI2.jl](https://github.com/andreasnoack/MPI2.jl) :: Some exploration of the MPI C API.
 
 ###### Resources
 + Official documentation for [calling C code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
