@@ -1,7 +1,7 @@
-* [RESEARCH PAPERS](#research-papers)
-
++ [RESEARCH PAPERS](#research-papers)
+ 
 ----  
-   
+
 # RESEARCH PAPERS
 + [How to write, publish, and review scientific papers in the early 21st Century](https://github.com/swcarpentry/modern-scientific-authoring) 
 + [Julia language research publications](http://julialang.org/publications/).
@@ -13,4 +13,6 @@
 + Matthew Farrell, and David Taylor, Department of Computer Science, Urbana, IL: [Julia Paper](http://julia.lifehug.com/gqm/julia_paper.html) and the [PDF file can be download here](julia.lifehug.com/gqm/JuliaFeatureUsage.pdf).
 + Bezanson Jeff, et al. "[Julia: A fresh approach to numerical computing](http://arxiv.org/abs/1411.1607)", 07-November-2014.
 
+### Open Portals
++ [GitXiv](http://gitxiv.com) :: Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 
