@@ -151,4 +151,28 @@ __Useful learning resources and all other random resources that does not have it
 + [JuliaIntro.jl](https://github.com/scidom/JuliaIntro.jl) :: An Introduction to Julia (Tutorial and Toy Examples).
 + [Learn Julia in Y minutes](http://learnxinyminutes.com/docs/julia/).
 
+----
+
+# VIDEOS
++ [2015-JuliaCon Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM)
+   * Jeff Bezanson : [Julia - The base language, future directions and speculations](https://www.youtube.com/watch?v=xUP3cSKb8sI)
+   * Sebastien Martin : [Taxi fleet simulation and visualization](http://youtu.be/MjERK9Xajrg?a)
+   * Bob Carpenter : [Stan.jl - Statistical Modeling and Inference Made Easy](http://youtu.be/YdgMJ37CDws?a)
+   * Pontus Stenetorp : [Suitably Naming a Child with Multiple Nationalities](http://youtu.be/MJzRf3Exlqc?a)
+   * Chiyuan Zhang : [Mocha.jl - Deep Learning for Julia](http://youtu.be/ljySoebYylE?a)
+   * Kiran Pamnany and Ranjan Anantharaman : [Multi-threading Julia](http://youtu.be/GvLhseZ4D8M?a)
+   * St. Louis University - Text Mining Research Group : [TextMining.jl](http://youtu.be/dgfIIZ5yA4E?a)
+   * Zachary Yedidia : [SFML.jl - Julia bindings for the Simple Fast](http://youtu.be/UKfM7EopMe0?a)
+   * Mauro Werder : [Interfaces for Julia - Traits.jl](http://youtu.be/j9w8oHfG1Ic?a)
+   * David Gold : [Nullable arrays](http://youtu.be/2v5k28F80BQ?a)
+   * Jacob Quinn : [Composable streams for data transfer and processing](http://t.co/DPuN42F3Qu)
+   * Tanmay Mohapatra : [Interfacing Julia with Complex systems using Protocol Buffers](http://t.co/Ddxj60KL7g)
+   * Eric Davies : [Towards A Consistent Database Interface](http://t.co/vdQwFRp7aD)
+   * Viral Shah : [The present and future of sparse matrices in Julia](http://t.co/WVQY89GsiT)
+   * Jake Bolewski : [Staged programming in Julia](http://t.co/XlYl2XGB9O)
+   * Robert Moss : [Julia as a Specification Language for the next-generation Airborne Collision Avoidance System](http://t.co/QJN2ZfP1ZI)
+   * Avik Sengupta : [A practical guide to exposing Julia APIs on the web](http://youtu.be/o40OpLe2k7Q?a)
+   * Hongbo Rong : [Accelerating sparse matrix kernels in Julia](http://youtu.be/k40K2zJVv0A?a)
+   * Luis Benet : [Taylor series expansions in Julia](http://youtu.be/6zrQuq5mODQ?a)
+   * Westley Hennigh : [Who optimizes the optimizers](http://youtu.be/Qito5AGSv4s?a)
 

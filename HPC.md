@@ -82,6 +82,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ----
 
 # Org-[JuliaGPU](https://github.com/JuliaGPU)
+Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [AbstractGPUArray.jl](https://github.com/JuliaGPU/AbstractGPUArray.jl) :: An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
 + [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
 + [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
