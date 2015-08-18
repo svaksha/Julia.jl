@@ -19,7 +19,6 @@
 + [Blending.jl](https://github.com/dejakaymac/Blending.jl).
 + [Ccv.jl](https://github.com/dhotson/Ccv.jl) :: Julia bindings for libccv's SIFT image feature detection.
 + [ColorBrewer.jl](https://github.com/timothyrenner/ColorBrewer.jl) :: A Julia library for generating color brewer color schemes.
-+ [ColorTypes.jl](https://github.com/SimonDanisch/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
 + [Compose.jl](http://composejl.org/) :: A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
 + [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
 + [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
@@ -140,6 +139,8 @@ __Julia packages for the OpenGL API ecosystem.__
 
 # Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
 __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, etc..__
++ [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
++ [ColorVectorSpace.jl](https://github.com/JuliaGraphics/ColorVectorSpace.jl) :: This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
 
 ----
 
