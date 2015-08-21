@@ -31,6 +31,7 @@ To contribute to the Julia language, read the [how-to contribute](https://github
 + [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
 + The [up for grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_.
 + [Bug #9493](https://github.com/JuliaLang/julia/issues/9493) for more comprehensive test coverage. Check out the [coveralls](https://coveralls.io/r/timholy/julia) page for a quickview of ToDo tests.
++ IainNZ lists [Ways to contribute to the Julia ecosystem](https://github.com/IainNZ/ContributeToJulia)
 
 __For development news, see the following links :__
 + [NEWS](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
