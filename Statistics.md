@@ -131,6 +131,7 @@
 ## Optimization 
 + [ampl.jl](https://github.com/dpo/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
 + [AMPLMathProgInterface.jl](https://github.com/mlubin/AMPLMathProgInterface.jl) :: Wrapper for MathProgBase.jl {see the `JuliaOpt` section below}.
++ [AmplNLReader.jl](https://github.com/dpo/AmplNLReader.jl) :: A Julia Interface to AMPL.
 + [AmplNLWriter.jl](https://github.com/JackDunnNZ/AmplNLWriter.jl) ::  Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
 + [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) :: An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
@@ -230,7 +231,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
 + [FactorModels.jl](https://github.com/joidegn/FactorModels.jl) :: Factor models or diffusion index models.
 + [FeldtLib.jl](https://github.com/robertfeldt/FeldtLib.jl) :: Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
-+ [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects
++ [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects.
 + [Hotspot.jl](https://github.com/jzelner/Hotspot.jl) :: Hotspot modeling.
 + [HyperLogLog.jl](https://github.com/johnmyleswhite/HyperLogLog.jl) :: A simple HyperLogLog implementation in Julia.
 + [HypothesisTests.jl](https://github.com/simonster/HypothesisTests.jl) :: T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
