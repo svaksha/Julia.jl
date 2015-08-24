@@ -140,6 +140,7 @@ __Julia packages for the OpenGL API ecosystem.__
 
 # Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
 __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, etc..__
++ [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) will replace [Color.jl](https://github.com/JuliaLang/Color.jl) from ver-0.4 onwards.
 + [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
 + [ColorVectorSpace.jl](https://github.com/JuliaGraphics/ColorVectorSpace.jl) :: This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
 
@@ -171,7 +172,6 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 
 # Org-JuliaLang
 + [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
-+ [Color.jl](https://github.com/JuliaLang/Color.jl)
 
 ----
 

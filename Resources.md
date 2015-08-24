@@ -53,7 +53,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # CHEATSHEETS
-+ Ian Hellström's Julia [cheatsheet](https://dl.dropboxusercontent.com/u/8252984/julia.html). 
++ [The Fast Track to Julia](https://dl.dropboxusercontent.com/u/8252984/julia.html), a cheatsheet by Ian Hellström. The source is [available on BB](https://bitbucket.org/hell316/dbline/src/).
 + [Julia-cheatsheet.pdf](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
 + A [Julia Types](https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay.
 + [Julia cheatsheet](http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski.
