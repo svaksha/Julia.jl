@@ -94,6 +94,7 @@
 + [GLAbstraction.jl](https://github.com/SimonDanisch/GLAbstraction.jl) :: Abstraction library for OpenGL.
 + [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
++ [GR](https://github.com/jheinen/gr) framework :: A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
 + [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
 + [GraphViz.jl](https://github.com/loladiro/GraphViz.jl) :: Julia bindings for the GraphViz library.
 + [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for <a href="http://healpix.jpl.nasa.gov/">HEALPix</a>.
