@@ -138,6 +138,7 @@
 + [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SparseData.jl](https://github.com/lindahua/SparseData.jl) :: A Julia package to support working with sparse data sets (e.g. text corpus).
++ [SparseFactorModels.jl](https://github.com/matthieugomez/SparseFactorModels.jl) :: Estimate factor models on sparse datasets.
 + [SparseGrids.jl](https://github.com/Zac12345/SparseGrids.jl).
 + [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
