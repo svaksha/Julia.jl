@@ -166,6 +166,7 @@ __Useful learning resources and all other random resources that does not have it
    * Eric Davies : [Towards A Consistent Database Interface](http://t.co/vdQwFRp7aD)
    * Hongbo Rong : [Accelerating sparse matrix kernels in Julia](http://youtu.be/k40K2zJVv0A?a)
    * Iain Dunning : [JuliaOpt - Optimization related projects in Julia](http://youtu.be/ZibQdqR6gqc?a)
+        + Slides for the [Optimization](http://iaindunning.com/talks/JuliaCon15JuliaOpt.pdf) talk.
    * Isaiah Norton : [Automatic ccall wrapper generation with Clang.jl](http://youtu.be/Jt5sv-8iRGc?a)
    * John Myles White : [What needs to be done to move JuliaStats forward](http://youtu.be/lf1_FhMR7xA?a)
    * Jacob Quinn : [Managing Data in Julia Old Tricks, New Tricks](http://youtu.be/QLWhsZ3yzBk?a)
