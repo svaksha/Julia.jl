@@ -95,6 +95,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 + [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
 + [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
++ [RasterIO.jl](https://github.com/wkearn/RasterIO.jl) :: Simple Raster Formats for Julia.
 + [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
 + [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
 + [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
