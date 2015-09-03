@@ -3,7 +3,8 @@
 * [GRAPHICS](#graphics) 
    * [Games](#games)
 * [INFOGRAPHICS](#infographics)
-   * [API](#api)
+   * [Non-Graphical Plotting](#non-graphical-plotting)
+   * [Graphical Plotting](#graphical-plotting)
 * [Org-JuliaGL](#org-juliagl)
 * [Org-JuliaGraphics](#org-juliagraphics) 
 * [Org-JuliaGeometry](#juliageometry)
@@ -34,10 +35,8 @@
 + [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
-+ [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
 + [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
-+ [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
@@ -75,55 +74,61 @@
 ----
 
 # INFOGRAPHICS
-**Statistical Charts, Graphs, Plots, Histograms, Maps**
+__Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
+
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation. 
-+ [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
 + [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms. 
-+ [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
 + [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl.
 + [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 + [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) :: This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 + [GainPatternsTex.jl](https://github.com/dressel/GainPatternsTex.jl) :: Plotting gain patterns.
 + [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
 + [echarts](https://github.com/ecomfe/echarts)
++ [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
++ [GLAbstraction.jl](https://github.com/SimonDanisch/GLAbstraction.jl) :: Abstraction library for OpenGL.
++ [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
++ [GR](https://github.com/jheinen/gr) framework :: A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
++ [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
++ [GraphViz.jl](https://github.com/Keno/GraphViz.jl) :: Julia bindings for the GraphViz library.
++ [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
++ [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
++ [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
++ [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
++ [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
++ [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
++ [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
++ [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
++ [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
++ [Wavelets](https://github.com/tomaskrehlik/Wavelets) :: Implementation of Wavelet methods in Julia.
++ [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
+
+### Graphical Plotting
++ [Bokeh.jl](https://github.com/samuelcolvin/Bokeh.jl) :: Bokeh bindings for Julia.
 + [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
 + [Gadfly.jl](http://gadflyjl.org/) :: [Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
    * _DOCS_
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 + [Gaston.jl](https://github.com/mbaz/Gaston.jl) :: A julia front-end for gnuplot.
-+ [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
-+ [GLAbstraction.jl](https://github.com/SimonDanisch/GLAbstraction.jl) :: Abstraction library for OpenGL.
 + [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
-+ [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
-+ [GR](https://github.com/jheinen/gr) framework :: A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
-+ [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
-+ [GraphViz.jl](https://github.com/loladiro/GraphViz.jl) :: Julia bindings for the GraphViz library.
-+ [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for <a href="http://healpix.jpl.nasa.gov/">HEALPix</a>.
-+ [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
-+ [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
-+ [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
-+ [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
++ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: The Julia interface to Google Chart Tools. 
 + [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
 + [PLplot.jl](https://github.com/wildart/PLplot.jl) :: A cross-platform software package for creating scientific plots.
-+ [ProfileView.jl](https://github.com/GlenHertz/ProfileView.jl) :: Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
++ [Plotly.jl](https://github.com/plotly/Plotly.jl) :: A Julia wrapper for the plot.ly REST API. 
+    + The [plot.ly](https://plot.ly/api/julia/) Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
 + [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.
-+ [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark.
-+ [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
-+ [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 + [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
-+ [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
-+ [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
-+ [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
 + [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
-+ [VTK.jl](https://github.com/ihnorton/VTK.jl) :: VTK bindings for the Julia language.
-+ [Wavelets](https://github.com/tomaskrehlik/Wavelets) :: Implementation of Wavelet methods in Julia.
-+ [Wavelets.jl](https://github.com/gummif/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
 + [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
-
-## API 
-+ [plot.ly](https://plot.ly/api/julia/) :: Plotly Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [YT.jl](https://github.com/jzuhone/YT.jl) :: A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
+
+### Non-Graphical Plotting
++ [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
++ [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
++ [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
++ [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark: simple printing of unicode trendlines.
++ [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
++ [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) :: Unicode plotting for the REPL in Julia.
 
 ###### Resources
 __Read other Julia-users experiences with visualization and plotting.__

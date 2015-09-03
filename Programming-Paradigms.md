@@ -93,6 +93,7 @@
 + [MUtils.jl](https://github.com/amitmurthy/MUtils.jl) :: channels(), tspaces(), kvspaces() and more.
 + [ReTerms.jl](https://github.com/dmbates/ReTerms.jl) :: Package providing abstract random-effects terms and specific types.
 + [Ratios.jl](https://github.com/timholy/Ratios.jl) :: Faster Rational-like types for Julia.
++ [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 + [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
