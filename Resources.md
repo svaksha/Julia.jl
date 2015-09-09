@@ -137,6 +137,8 @@ __Useful learning resources and all other random resources that does not have it
 + Slides from a [data science meetup talk by Galen O'Neil](http://datascienceassn.org/content/2014-11-05-spark-gotchas-and-anti-patterns-julia-language) on Wednesday, 05/Nov/2014 at Broomfield, CO, USA.
 + Slides on [Modern Fortran & Julia](http://www.slideshare.net/krissiazawadzki/seminar-fortran-and-julia) by Krissia Zawadzki.
 + [Julia language slides](http://wiki.scinethpc.ca/wiki/images/7/71/Scinet_julia.pdf) by Mike Nolta.
++ [Julia introduction](https://github.com/projectbanana/projectbanana.github.io/tree/master/presentations/julia) by M. Schauer.
+
 
 ### Slides from [JuliaTokyo meetups](https://github.com/JuliaTokyo/julia-wakalang)
 + [JuliaTokyoTutorial](https://github.com/chezou/JuliaTokyoTutorial) and slides from the [4th meetup](http://juliatokyo.connpass.com/event/16570/presentation/).
