@@ -114,10 +114,11 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [Fractals](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/fractals.ipynb) in Julia.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
-+ [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia-notebooks).
++ [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia).
 + [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
 + [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
 + [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
