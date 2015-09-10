@@ -138,6 +138,7 @@ __Useful learning resources and all other random resources that does not have it
 + Slides on [Modern Fortran & Julia](http://www.slideshare.net/krissiazawadzki/seminar-fortran-and-julia) by Krissia Zawadzki.
 + [Julia language slides](http://wiki.scinethpc.ca/wiki/images/7/71/Scinet_julia.pdf) by Mike Nolta.
 + [Julia introduction](https://github.com/projectbanana/projectbanana.github.io/tree/master/presentations/julia) by M. Schauer.
++ Carlos Becker's Julia presentation [comparing Julia with Matlab](https://sites.google.com/site/carlosbecker/a-few-notes).
 
 
 ### Slides from [JuliaTokyo meetups](https://github.com/JuliaTokyo/julia-wakalang)
