@@ -58,7 +58,7 @@ Wrappers's and programming API for other languages and general backend server pu
 + [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
 + [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
 + [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Foreign Function Interface (FFI).
-+ [Gallium.jl](https://github.com/Keno/Gallium.jl) :: The Julia debugger for CPP. 
++ [Gallium.jl](https://github.com/Keno/Gallium.jl) :: The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 
 ## Erlang
 + [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.
