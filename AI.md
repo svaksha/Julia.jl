@@ -206,6 +206,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SimpleML.jl](https://github.com/aviks/SimpleML.jl) :: Textbook implementations of some Machine Learning Algorithms in Julia.
 + [SFA.jl](https://github.com/makokal/SFA.jl) :: Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe. 
++ [SupervisedLearning.jl](https://github.com/Evizero/SupervisedLearning.jl) :: Front-end interface for supervised machine learning. 
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
