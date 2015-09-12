@@ -36,6 +36,10 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ---- 
 
 # Computer Performance
+### Code Analyzer
++ [IACA.jl](https://github.com/carnaval/IACA.jl) :: A wrapper around intel's arch code analyzer for Julia. 
+
+### Time
 + [CPUTime.jl](https://github.com/schmrlng/CPUTime.jl) :: Amodule for CPU timing. 
 + [USERTime.jl](https://github.com/christianpeel/USERTime.jl) :: A Julia package for measuring elapsed user time. 
 
