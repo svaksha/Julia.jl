@@ -153,6 +153,7 @@ __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWin
 + [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) will replace [Color.jl](https://github.com/JuliaLang/Color.jl) from ver-0.4 onwards.
 + [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
 + [ColorVectorSpace.jl](https://github.com/JuliaGraphics/ColorVectorSpace.jl) :: This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
++ [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) :: Dive deeper into your data with interactive graphics.
 
 ----
 
