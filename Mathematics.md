@@ -357,11 +357,12 @@ __For the development of interfaces to sparse matrix solvers such as sequential 
 **Puzzles, problem solving games**
 + [Deepthought.jl](https://github.com/dejakaymac/Deepthought.jl)
 + [euler](https://github.com/somu/euler) :: Project Euler solutions in Julia.
++ [PlayingCards.jl](https://github.com/DataWookie/PlayingCards.jl) :: Package for simulating Playing Cards games in Julia.
++ [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb) :: Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles.
 + [sudoku](https://github.com/Alexander-N/sudoku) :: Reimplementing the Python version of Peter Norvig's Sudoku solver in Julia by @Alexander-N.
 + [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) :: A simple Sudoku solver in Julia by @johnmyleswhite.
 + [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's "Solving Every Sudoku Puzzle" to Julia by @hayd.
 + [SudokuService](https://github.com/IainNZ/SudokuService) :: Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
 + [TowerOfHanoi.jl](https://github.com/thiruk/TowerOfHanoi.jl) :: Solution to Tower Of Hanoi using Julia.
-+ [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb) :: Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles.
 
 
