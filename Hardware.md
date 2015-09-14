@@ -21,6 +21,7 @@
 + [Chango](https://bitbucket.org/mbaz/chango) :: A simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink.
 + [FLAC.jl](https://github.com/dmbates/FLAC.jl) :: Julia bindings for libFLAC. 
 + [gr-juliaffi](https://github.com/JayKickliter/gr-juliaffi) :: A GNU Radio package that lets you write custom signal processing blocks in Julia.
++ [Midi.jl](https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files. 
 + [OSC.jl](https://github.com/fundamental/OSC.jl) :: Open Sound Control serialization library, a port of RTOSC for Julia.
 + [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
 + [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
