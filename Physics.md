@@ -69,6 +69,7 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 
 # Statistical Mechanics
 + [IsingModels.jl](https://github.com/johnmyleswhite/IsingModels.jl) :: The Ising model as a Julian distribution.
++ [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) :: A naive and first try to implement a 2D Square Ising Model using Julia. 
 
 ----
 
