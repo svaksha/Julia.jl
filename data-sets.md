@@ -4,6 +4,7 @@
 + [General Datasets](#general-datasets)
 * [Genetics-Medicine](#genetics-medicine)
 + [Machine Learning](#machine-learning)
++ [Math](#math)
 + [Molecular Biology](#molecular-biology)
 + [Neuroscience](#neuroscience)
 + [Pharma](#Pharma)
@@ -66,6 +67,11 @@
 
 # Machine Learning
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+
+----
+
+# Math
++ [Juliaset.jl](https://github.com/tanmaykm/Juliaset.jl) :: Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
 
 ----
 
