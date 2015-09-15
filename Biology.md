@@ -6,6 +6,7 @@
 + [Org-BioJulia](#org-biojulia)
 + [Org-JuliaBio](#org-juliabio)
 + [NEUROSCIENCE](#neuroscience)
++ [Resources-Teaching](#resources-teaching)
 
 ----
 
@@ -69,5 +70,17 @@ Their [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-
 + [NeuroAnalysis.jl](https://github.com/babaq/NeuroAnalysis.jl) :: Julia package for neural signal analysis.
 + [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) :: Macaque brain and skull extraction tools.
 + [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
+
+----
+
+# Resources-Teaching
+__NotaBene__:: Some resources and teaching aids listed here are not Julia language specific but you may be able to find something common and useful that can be reused and shared with attribution if it is CC-licensed.
+
++ A google document listing [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) by Lenny Teytelman (@lteytelman on twitter). 
++ [Train online](https://www.ebi.ac.uk/training/online/) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes.
++ [TrainingPhyloIntro](https://github.com/aidanbudd/trainingPhyloIntro) :: Practical exercises and slides for teaching computational molecular evolution.
++ [capetown2014](https://github.com/aidanbudd/capetown2014) :: Teaching material for EMBO Practical Course on Computational analysis of protein-protein interactions - From sequences to networks run in Cape Town 2014.
++ [course_EMBO_at_TGAC_PPI_Sep2015](https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015) :: Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015.
++ Ian Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio](http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions).
 
 
