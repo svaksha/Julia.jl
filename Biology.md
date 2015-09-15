@@ -76,7 +76,9 @@ Their [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-
 # Resources-Teaching
 __NotaBene__:: Some resources and teaching aids listed here are not Julia language specific but you may be able to find something common and useful that can be reused and shared with attribution if it is CC-licensed.
 
++ [Common Bioinformatics Teaching Resources](http://www.embl.de/~seqanal/courses/commonCourseContent/indexCommonCourseContent.html) by Aidan Budd at EMBL.
 + A google document listing [Python for biologists resources](https://docs.google.com/spreadsheets/d/1BjKsN0B1hqd4dJW5slZ5KPuToCjSMRyA7Bl8MwWrbS4/edit#gid=0) by Lenny Teytelman (@lteytelman on twitter). 
++ [Software Carpentry](https://software-carpentry.org/lessons.html) teaching material.
 + [Train online](https://www.ebi.ac.uk/training/online/) provides free courses on Europe's most widely used data resources, created by experts at EMBL-EBI and collaborating institutes.
 + [TrainingPhyloIntro](https://github.com/aidanbudd/trainingPhyloIntro) :: Practical exercises and slides for teaching computational molecular evolution.
 + [capetown2014](https://github.com/aidanbudd/capetown2014) :: Teaching material for EMBO Practical Course on Computational analysis of protein-protein interactions - From sequences to networks run in Cape Town 2014.
