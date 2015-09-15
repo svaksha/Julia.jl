@@ -12,10 +12,6 @@
 
 ----
 
-+ WP's list of [biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases).
-
-----
-
 # PACKAGES
 **NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
 + [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
@@ -54,6 +50,8 @@
 ----
 
 # General Datasets
++ [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) :: Repository for CWL Specfications.
++ WP's list of [biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases).
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
 + [World Bank Open Data](http://data.worldbank.org) :: Free and open access to data about development in countries around the globe.
