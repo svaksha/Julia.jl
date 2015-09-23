@@ -19,6 +19,7 @@
 + [MACHINE LEARNING](#machine-learning)
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
+   + [Japanese](#japanese)
 + [SPEECH RECOGNITION](#speech-recognition)
        
 ----
@@ -274,6 +275,9 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: A Julia package for text analysis.
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl).
 + [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
+
+### Japanese
++ [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
 
 ###### Resources
 + [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
