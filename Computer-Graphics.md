@@ -55,6 +55,7 @@
 + [SignedDistanceFields.jl](https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation. 
 + [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
 + [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
++ [ShaderToy.jl](https://github.com/SimonDanisch/ShaderToy.jl) :: Shade objects in Julia, created with GLVisualize.jl + OpenGL.
 + [Skia.jl](https://github.com/dcjones/Skia.jl) :: Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 + [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
 + [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) :: Statistical shape models / point distribution models.
