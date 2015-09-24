@@ -52,6 +52,7 @@
 ----
 
 # Medical Physics
++ [Psychosis.jl](https://github.com/rennis250/Psychosis.jl) :: A Julia package for visual psychophysics that mimics the Processing environment. 
 + [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database.
 
 ----

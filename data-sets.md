@@ -27,7 +27,7 @@
 ----
 
 # [Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
-+ [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, tools, and resources.
++ [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa).
 
 ## AstroPhysics
 + [sndatasets](https://github.com/kbarbary/sndatasets) :: Download and normalize published supernova photometric data.
