@@ -1,4 +1,5 @@
-+ [PACKAGES](#packages)
++ [SOFTWARE](#software)
++ [Astronomy](#astronomy)
 * [Crystallography](#crystallography)
 + [Genome](#genome)
 + [General Datasets](#general-datasets)
@@ -7,13 +8,13 @@
 + [Math](#math)
 + [Molecular Biology](#molecular-biology)
 + [Neuroscience](#neuroscience)
-+ [Pharma](#Pharma)
++ [Pharma](#pharma)
 + [Research Data](#research-data)
 * [Scientific Databases](#scientific-databases)
 
 ----
 
-# PACKAGES
+# SOFTWARE
 **NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
 + [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
 + [Faker.jl](https://github.com/codeneomatrix/Faker.jl) :: A package that generates fake data.
@@ -22,6 +23,14 @@
 + [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
 + [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 + [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
+
+----
+
+# [Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
++ [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, tools, and resources.
+
+## AstroPhysics
++ [sndatasets](https://github.com/kbarbary/sndatasets) :: Download and normalize published supernova photometric data.
 
 ----
 
