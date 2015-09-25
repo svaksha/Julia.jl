@@ -43,7 +43,6 @@
 + [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) :: Common functional iterator patterns.
    + Blog post on [Tricked out iterators](http://slendermeans.org/julia-iterators.html) in Julia.
 + [LinearControl.jl](https://github.com/jemofthewest/LinearControl.jl) :: Julia package for analysis and design of control strategies for linear systems.
-+ [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
 + [ProtoBuf.jl](https://github.com/tanmaykm/ProtoBuf.jl) :: is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
 + [Slicot.jl](https://github.com/jcrist/Slicot.jl) :: Julia wrapper for SLICOT Routines.
 

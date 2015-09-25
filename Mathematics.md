@@ -51,7 +51,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 # MATH 
 + DOCS : [Mathematical Operations](http://docs.julialang.org/en/release-0.3/manual/mathematical-operations/) and a [list of all overloadable operators](https://github.com/JuliaLang/julia/blob/master/src/julia-parser.scm#L1-L19) in Julia.
-+ [AppleAccelerate.jl](https://github.com/simonbyrne/AppleAccelerate.jl) :: Julia interface to OS X's Accelerate framework.
 + [BasisFunctions.jl](https://github.com/daanhb/BasisFunctions.jl) :: A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package.
 + [Bijections.jl](https://github.com/scheinerman/Bijections.jl) :: Bijection datatype for Julia.
 + [Church.jl](https://github.com/LaurenceA/Church.jl) :: helps you perform inference in complex, and simple, probabilistic models.
@@ -206,7 +205,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [FinealeBook.jl](https://github.com/goedman/FinealeBook.jl) :: Trying to understand Petr Krysl's FinEALE book.
 
 #### Org-JuliaLang
++ [AppleAccelerate.jl](https://github.com/JuliaLang/AppleAccelerate.jl) :: Julia interface to OS X's Accelerate framework.
 + [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
++ [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
 + [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
 + [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
 + [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
@@ -292,7 +293,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [green-fairy](https://github.com/carnaval/green-fairy) :: Lattice trees.
 + [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
 + [IDRsSolver.jl](https://github.com/mschauer/IDRsSolver.jl) :: Induced Dimension Reduction method [IDR(s)] for solving general linear equations. 
-+ [IterativeSolvers.jl](https://github.com/JuliaLang/IterativeSolvers.jl) :: Implement Arnoldi and Lanczos methods for svds and eigs. 
 + [juliaSpot](https://github.com/slimgroup/juliaSpot) :: The Julia implementation of the Spot Linear Algebra Package.
 + [KrylovSolvers.jl](https://github.com/cfbaptista/KrylovSolvers.jl) :: Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
 + [LinearAlgebra.jl](https://github.com/andreasnoack/LinearAlgebra.jl) :: Eigenvalue and -vector calculations in Julia.
@@ -313,7 +313,8 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) :: A Julia interface to the Elemental linear algebra library : http://libelemental.org/
 + [IncrementalSVD.jl](https://github.com/aaw/IncrementalSVD.jl) :: Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
 + [InteriorPoint.jl](https://github.com/IainNZ/InteriorPoint.jl) :: Primal-dual interior point solver for linear programs.
-+ [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl)
++ [IterativeLinearSolvers.jl](https://github.com/andreasnoackjensen/IterativeLinearSolvers.jl).
++ [IterativeSolvers.jl](https://github.com/JuliaLang/IterativeSolvers.jl) :: Implement Arnoldi and Lanczos methods for svds and eigs. 
 + [NumericalShadow.jl](https://github.com/pgawron/NumericalShadow.jl) :: Library to calculate numerical shadows in Julia language.
 + [NumericExtensions.jl](https://github.com/lindahua/NumericExtensions.jl) :: Julia extensions to provide high performance computational support for fast vectorized computation.
    + _DOCS_:: are available at [numericextensionsjl.readthedocs.org](http://numericextensionsjl.readthedocs.org/en/latest/)
