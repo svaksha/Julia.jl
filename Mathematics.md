@@ -108,6 +108,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Digits.jl](https://github.com/greenflash1357/Digits.jl) :: A module for integer digit manipulation.
 + [DeepConvert.jl](https://github.com/jlapeyre/DeepConvert.jl) :: This package provides convenient literal construction of values of large data types.
 + [ErrorFreeTransforms.jl](https://github.com/dsiem/ErrorFreeTransforms.jl) :: Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
++ [Hecke](https://github.com/thofma/hecke) :: A package for algebraic number theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Juniper.jl](https://github.com/jcrist/Juniper.jl) :: A simple computer algebra system.
 + [Lifts.jl](https://github.com/scheinerman/Lifts.jl) :: Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation. 
 + [Mods.jl](https://github.com/scheinerman/Mods.jl) :: Easy modular arithmetic for Julia.
