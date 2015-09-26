@@ -37,7 +37,7 @@
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/one-more-minute/Requires.jl) :: A Julia package that will quickly load your package dependencies.
-+ [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) :: An adaptation of the rsvg lib for cross OS testing for packages.
+
 
 ## Binaries
 __Pre-compiled Binaries__
