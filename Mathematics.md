@@ -293,6 +293,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ### Linear Algebra
 + [AxisAlgorithms.jl](https://github.com/timholy/AxisAlgorithms.jl) :: Efficient filtering and linear algebra routines for multidimensional arrays.
 + [CUSPARSE.jl](https://github.com/kshyatt/CUSPARSE.jl) :: Julia interface to NVIDIA's CUSPARSE library.
++ [CUSOLVER.jl](https://github.com/kshyatt/CUSOLVER.jl) :: Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
 + [green-fairy](https://github.com/carnaval/green-fairy) :: Lattice trees.
 + [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
 + [IDRsSolver.jl](https://github.com/mschauer/IDRsSolver.jl) :: Induced Dimension Reduction method [IDR(s)] for solving general linear equations. 
