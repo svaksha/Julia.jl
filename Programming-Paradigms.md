@@ -83,6 +83,7 @@
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
 + [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) :: A Julian abstraction layer over FreeType.jl.
 + [frange](https://github.com/StefanKarpinski/frange)
++ [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) :: Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia. 
 + [jenks.jl](https://github.com/scw/jenks.jl)
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
 + [LHEF.jl](https://github.com/Keno/LHEF.jl) :: Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
