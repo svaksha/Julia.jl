@@ -67,6 +67,7 @@
 ----
 
 # [Data Types](http://en.wikipedia.org/wiki/Data_type)
++ [AndorSIF.jl](https://github.com/JuliaIO/AndorSIF.jl) :: This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
 + [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: is a BigRational package for Julia using GMP.
