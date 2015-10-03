@@ -174,6 +174,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
 + [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
++ [FirthRegression.jl](https://github.com/simonster/FirthRegression.jl) :: Firth penalized logistic/Poisson regression. 
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
 + [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools.
 + [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
