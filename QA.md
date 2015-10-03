@@ -15,6 +15,7 @@
 
 # LOGGING
 + [Logging.jl](https://github.com/kmsquire/Logging.jl) :: The Logging module.
++ [Log4jl.jl](https://github.com/wildart/Log4jl.jl) :: A comprehensive and flexible logging framework for Julia programs.
 + [Lumberjack.jl](https://github.com/forio/Lumberjack.jl) :: A logging library by Westley Hennigh.
 + [Stage.jl](https://github.com/saltpork/Stage.jl) :: has stage macros, checkpoints and loggers for Julia.
 
