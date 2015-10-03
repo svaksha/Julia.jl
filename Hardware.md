@@ -9,8 +9,12 @@
 
 ----
 
++ [ZenFab.jl](https://github.com/FactoryOS/ZenFab.jl) :: Software for using digital manufacturing devices. 
+
+----
+
 # Architectures
-+ [DIDebug.jl](https://github.com/Keno/DIDebug.jl] :: Debug the destination index in an x86 computer architecture using the standardized [DWARF/ ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
++ [DIDebug.jl](https://github.com/Keno/DIDebug.jl] :: Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
 
 ----
 
