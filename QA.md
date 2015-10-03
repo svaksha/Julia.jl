@@ -35,6 +35,7 @@ __Static Program Analysis__
 ----
 
 # UNITTEST 
++ [BaseTestDeprecated.jl](https://github.com/IainNZ/BaseTestDeprecated.jl) :: Provides the `Base.Test` functionality removed in `Julia v0.5`.
 + [CoverageBase.jl](https://github.com/timholy/CoverageBase.jl) :: Measuring internal test coverage of the Julia programming language.
 + [Coverage.jl](https://github.com/IainNZ/Coverage.jl) :: Take the Julia test coverage results and bundle them up in JSON - it processes a .jl file and its matching .cov file, tracking your Julia packages for test coverage and works with Coveralls, which integrates with TravisCI.
 + [Debug.jl](https://github.com/toivoh/Debug.jl) :: Prototype interactive debugger for Julia.
