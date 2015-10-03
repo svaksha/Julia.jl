@@ -21,6 +21,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Discrete Math](#discrete-math)
 + [Geometry](#geometry)
    + [Algebraic Geometry](#algebraic-geometry)
+   + [Solid Geometry](#solid-geometry)
 + [Numerical Analysis](#numerical-analysis)
    + [Linear Algebra](#linear-algebra)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
@@ -263,6 +264,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
 + [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 + [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: Finite element surface mesh manipulation library.
+
+## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry]
++ [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
 
 ----
 
