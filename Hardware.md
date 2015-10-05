@@ -1,6 +1,9 @@
 **Other software libraries,..**
 
 + [Architectures](#architectures)
+    + [FTDI](#ftdi)
+    + [National Instruments](#national-instruments)
+    + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
 + [AUDIO](#audio)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
@@ -9,12 +12,18 @@
 
 ----
 
-+ [ZenFab.jl](https://github.com/FactoryOS/ZenFab.jl) :: Software for using digital manufacturing devices. 
-
-----
-
 # Architectures
 + [DIDebug.jl](https://github.com/Keno/DIDebug.jl] :: Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
++ [ZenFab.jl](https://github.com/FactoryOS/ZenFab.jl) :: Software for using digital manufacturing devices. 
+
+### FTDI
++ [FTD2XX.jl](https://github.com/cstook/FTD2XX.jl) :: Wrapper for FTDI FTD2XX library. 
+
+### National Instruments
++ [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
+
+### Virtual Instrument Software Architecture
++ [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
 
 ----
 
