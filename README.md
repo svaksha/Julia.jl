@@ -52,17 +52,17 @@ For package creators, here is a [sample Julia package](https://github.com/JuliaL
 ## Mirrors
 + [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 + [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git 
-+ [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksha/Julia.jl) :: git clone ssh://git@gitlab.devlabs.linuxassist.net:608/svaksha/Julia.jl.git
++ [NotABug](https://notabug.org/svaksha/julia.jl) :: git clone git@notabug.org:svaksha/julia.jl.git
 
 
 # CONTRIBUTE
 [Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
 
 ## Guidelines
-The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
+The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sub>{1} and {2}</sub> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
 + References :
-   + https://github.com/JuliaLang/julialang.github.com/issues/200
-   + https://github.com/JuliaLang/julialang.github.com/issues/194
+   {1} https://github.com/JuliaLang/julialang.github.com/issues/200
+   {2} https://github.com/JuliaLang/julialang.github.com/issues/194
 
 ## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
