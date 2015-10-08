@@ -15,7 +15,6 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
-
 ----
 
 # DB-NOSQL
@@ -44,8 +43,9 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 # DB-RDBMS
 ## MySQL
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
++ [MySQL.jl](https://github.com/JuliaComputing/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
 + [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
-   
+
 ## PostgreSQL
 + [PostgreSQL.jl](https://github.com/iamed2/PostgreSQL.jl) :: PostgreSQL API.
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
