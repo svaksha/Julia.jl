@@ -59,10 +59,10 @@ For package creators, here is a [sample Julia package](https://github.com/JuliaL
 [Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
 
 ## Guidelines
-The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sub>{1} and {2}</sub> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
+The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
 + References :
-   {1} https://github.com/JuliaLang/julialang.github.com/issues/200
-   {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+   + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
+   + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
 
 ## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
