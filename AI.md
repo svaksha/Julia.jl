@@ -79,6 +79,7 @@
 
 ### [Arrays-Graphs](Hash tables / Linked List / Matrix / Functional / Trees data structures)
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
++ [AMD.jl](https://github.com/dpo/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
 + [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 + [ArrayViewsAPL.jl](https://github.com/timholy/ArrayViewsAPL.jl) :: Generic array-view type with APL indexing semantics.
 + [Arrowhead.jl](https://github.com/ivanslapnicar/Arrowhead.jl) :: Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
