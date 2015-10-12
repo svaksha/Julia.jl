@@ -211,6 +211,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SALSA.jl](https://github.com/jumutc/SALSA.jl) :: _S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
 + [SimpleML.jl](https://github.com/aviks/SimpleML.jl) :: Textbook implementations of some Machine Learning Algorithms in Julia.
 + [SFA.jl](https://github.com/makokal/SFA.jl) :: Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
++ [SoftConfidenceWeighted.jl](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl) :: Exact Soft Confidence-Weighted Learning.
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe. 
 + [SupervisedLearning.jl](https://github.com/Evizero/SupervisedLearning.jl) :: Front-end interface for supervised machine learning. 
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files. 
