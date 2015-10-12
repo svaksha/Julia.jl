@@ -6,7 +6,7 @@
    + [GTK]#gtk)
 + [ENVIRONMENTS](#environments)
    + [IDE](#ide)
-   + [Org-Jupyter](#org-jupyter)
+   + [Jupyter](#jupyter)
    + [WIDE](#wide) 
 + [UTILS](#utils)
    + [Terminal](#terminal)
@@ -80,10 +80,11 @@
    + [JuliaCompletions](https://github.com/jakeconnor/JuliaCompletions) :: Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 + [vim-notebook](https://github.com/baruchel/vim-notebook) :: Vim users can use Julia from the `vim-notebook` plugin. 
 
-## Org-[Jupyter](https://github.com/jupyter)
+## [Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org) 'nee [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) :: Julia kernel and magics for IPython.
 + [Autoreload.jl](https://github.com/malmaud/Autoreload.jl) :: A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
++ [ErrorLineNumber.jl](https://github.com/StephenVavasis/ErrorLineNumber.jl) :: Address line number bug in Julia 0.4 error reporting.
 + [Hydra.jl](https://github.com/loladiro/Hydra.jl) :: Hosted Multi-user IJulia distribution.
 + [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
 + [Interact.jl](https://github.com/JuliaLang/Interact.jl) :: Library for interactive widgets in IJulia.
