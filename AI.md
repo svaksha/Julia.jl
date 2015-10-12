@@ -191,6 +191,8 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [KDTrees.jl](https://github.com/KristofferC/KDTrees.jl) :: KD Trees.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning.
 + [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
++ [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: Kernel Support Vector Machine (SVM) written in Julia. 
++ [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: Support Vector Machines in pure Julia.
 + [Learn.jl](https://github.com/Rory-Finnegan/Learn.jl) :: Base framework library for machine learning packages. 
 + [LearnBase.jl](https://github.com/Evizero/LearnBase.jl) :: Abstractions for Julia Machine Learning Packages.
 + [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
