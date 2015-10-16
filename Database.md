@@ -75,6 +75,7 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 
 # Org-[JuliaDB](https://github.com/JuliaDB)
 + [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
++ [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
 
 ----
 
