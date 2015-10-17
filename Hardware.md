@@ -4,7 +4,7 @@
     + [FTDI](#ftdi)
     + [National Instruments](#national-instruments)
     + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
-+ [AUDIO](#audio)
++ [AUDIO-VIDEO](#audio-video)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
 + [Robots](#robots)
@@ -27,7 +27,7 @@
 
 ----
 
-# AUDIO
+# AUDIO-VIDEO
 + [AudioIO.jl](https://github.com/ssfrr/AudioIO.jl) :: is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported.
 + [AV.jl](https://github.com/kmsquire/AV.jl) :: Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale.
 + [Bebop.jl](https://github.com/zhemao/Bebop.jl) :: An audio library for the Julia programming language.
@@ -40,6 +40,7 @@
 + [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
 + [Rasim.jl](https://github.com/maemre/Rasim.jl) :: A time-slot based radio network simulator written in Julia. 
 + [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
++ [Tablo.jl](https://github.com/dmbates/Tablo.jl) :: Julia interface to the Tablo over-the-air digital video recorder.
 
 ----
 
