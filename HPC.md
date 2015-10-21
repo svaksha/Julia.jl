@@ -48,6 +48,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 # COMPILERS
 + [Clang.jl](https://github.com/ihnorton/Clang.jl) :: Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
++ [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) :: The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
++ [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) :: A Julia package for reading compiler options.
 + [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
 + [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
