@@ -114,6 +114,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [Invitation to Julia](https://github.com/dpsanders/invitation_to_julia) :: A scientific computing introductory workshop on Julia at JuliaCon 2015.
 + [Fractals](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/fractals.ipynb) in Julia.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
