@@ -160,6 +160,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # VIDEOS
++ A video of [Spencer Lyon's talk on Julia](https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup.
 + [2015-JuliaCon Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM)
    * Avik Sengupta : [A practical guide to exposing Julia APIs on the web](http://youtu.be/o40OpLe2k7Q?a)
    * Blake Johnson : [Quickly building simulations of quantum systems](http://youtu.be/kogTKuytg1g?a)
