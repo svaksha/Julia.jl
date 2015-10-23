@@ -74,6 +74,7 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 ----
 
 # Org-[JuliaDB](https://github.com/JuliaDB)
++ [DBPerf.jl](https://github.com/JuliaDB/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
 + [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
 + [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
 
