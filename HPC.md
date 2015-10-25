@@ -1,17 +1,19 @@
 __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels, Compilers (source-to-source compiler, transcompiler/ transpilers)__
 
 + [ARM-CUDA](#arm-cuda)
+   + [GPU](#gpu)
+        + [Org-JuliaGPU](#org-juliagpu)
 + [BENCHMARKS](#benchmarks)
 + [COMPILERS](#compilers)
    + [Preprocessor](#preprocessor)
    + [Transpiler](#transpiler)
 + [Computer Performance](#computer-performance)
 + [CONCURRENCY](#concurrency)
-+ [DISTRIBUTED-PARALLEL](#distributed-parallel) 
+   + [Distributed Computing](#distributed-computing)
+   + [Grid Computing](#grid-computing)
    + [Job Scheduler](#job-scheduler)
-+ [GRID](#grid) 
-+ [Org-JuliaGPU](#org-juliagpu)
-+ [Org-JuliaParallel](#org-juliaparallel)
+   + [Parallel Computing](#parallel-computing)
+        + [Org-JuliaParallel](#org-juliaparallel)
 + [Org-JuliaLang](#org-julialang)
 + [Publications](#publications)
 
@@ -20,10 +22,28 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 # ARM-CUDA
 + [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
    + Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
+
+## GPU
++ [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
 + [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
 
+### Org-[JuliaGPU](https://github.com/JuliaGPU)
+Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
++ [AbstractGPUArray.jl](https://github.com/JuliaGPU/AbstractGPUArray.jl) :: An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
++ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
++ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
++ [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
++ [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
++ [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
++ [CURAND.jl](https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library. 
++ [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
++ [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
++ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
++ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
+
 ###### Resources
++ Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
 + Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
 ----
@@ -74,7 +94,9 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 
 ----
 
-# DISTRIBUTED-PARALLEL
+# [CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
+
+## [Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing)
 **Cloud/ Cluster**
 + [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 + [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) :: Few utility types over Julia Vector type.
@@ -87,59 +109,22 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
 + [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
+## Grid Computing
++ [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
 
-###### Resources
-+ [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
-+ [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
-+ [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
-+ Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
-   + Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
-   + An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
-
-----
-
-# [CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
-
-### [Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
+## [Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 + [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
++ [Collectl.jl](https://github.com/ranjanan/Collectl.jl) :: Plotting information from Collectl in julia.
 + [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 + [LoraMPI.jl](https://github.com/scidom/LoraMPI.jl) :: MPI Job Manager for Lora Parralel-Centric Runners.
 + [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 + [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
 + [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 
-----
+## [Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
++ [MT-Workloads](https://github.com/ranjanan/MT-Workloads) :: Multi-threaded workloads in Julia.
 
-# GRID
-+ [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
-
-----
-
-# Org-[JuliaGPU](https://github.com/JuliaGPU)
-Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
-+ [AbstractGPUArray.jl](https://github.com/JuliaGPU/AbstractGPUArray.jl) :: An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
-+ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
-+ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
-+ [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
-+ [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
-+ [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
-+ [CURAND.jl](https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library. 
-+ [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
-+ [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
-+ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
-+ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-
-###### Resources
-+ Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
-
-----
-
-# Org-[JuliaLang](https://github.com/JuliaLang)
-+ [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
-
-----
-
-# Org-[JuliaParallel](https://JuliaParallel.github.io)
+### Org-[JuliaParallel](https://JuliaParallel.github.io)
 + [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) :: A framework to represent chunks of entities and parallel methods on them.
 + [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) :: Support for different clustering technologies.
 + [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl) :: Distributed Arrays in Julia.
@@ -153,6 +138,19 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 
 ###### Resources
 + [JuliaCon2015_Workshop](https://github.com/JuliaParallel/JuliaCon2015_Workshop) :: Notebooks from the JuliaCon2015 Workshop.
++ [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
++ [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
++ [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
++ Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
+   + Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
+   + An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
+
+
+----
+
+# Org-[JuliaLang](https://github.com/JuliaLang)
++ [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
+
 
 ----
 
