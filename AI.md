@@ -257,6 +257,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 ----
 
 # NLP 
++ [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation in Julia.
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
 + [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
