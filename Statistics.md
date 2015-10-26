@@ -135,6 +135,7 @@
 + [LSQ.jl](https://github.com/davidlizeng/LSQ.jl) :: is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
 + [Memoize.jl](https://github.com/simonster/Memoize.jl) :: Easy memoization for Julia.
 + [MOpt.jl](https://github.com/floswald/MOpt.jl) :: Parallel derivative-free Moment Optimization for Julia.
++ [Munkres.jl](https://github.com/FugroRoames/Munkres.jl) :: Munkres algorithm for the optimal assignment problem. 
 + [NEOS.jl](https://github.com/odow/NEOS.jl) :: A Julia interface for the NEOS Optimisation Server.
 + [NLTester](https://github.com/IainNZ/NLTester) :: Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.
 + [pikaia.jl](https://github.com/tmeits/pikaia.jl) :: Genetic Algorithms (GA's).
