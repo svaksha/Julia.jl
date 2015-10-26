@@ -116,7 +116,8 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 
 ## Packaging
 + [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
-+ [JuliaPackageMirrors](https://github.com/JuliaPackageMirrors) :: An organization that mirrors and tracks all the official Julia packages.
++ [JuliaPackageMirrors](https://github.com/JuliaPackageMirrors) :: An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
+https://github.com/JuliaPackageMirrors/mirror-updater
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
