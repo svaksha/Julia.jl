@@ -254,6 +254,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [VStatistic.jl](https://github.com/dostodabsi/VStatistic.jl) :: Implements the v-statistic, a measure that compares the estimation accuracy of the ordinary least squares estimator against a random benchmark.
 
 ###### Resources
++ [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [DCStats.jl](https://github.com/johnmyleswhite/DCStats.jl) :: IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
 
