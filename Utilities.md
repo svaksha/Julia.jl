@@ -41,11 +41,12 @@
 **Widget toolkits and other graphical user interfaces**
 + [Canvas.jl](https://github.com/shashi/Canvas.jl) :: Composable UIs in Julia.
 + [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
-+ [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: is a toolkit for viewing Julia packages, modules, etc....
-+ [PySide.jl](https://github.com/jverzani/PySide.jl) :: is a julia interface for accessing Qt via PyCall and PySide.
++ [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: A toolkit for viewing Julia packages, modules, etc....
++ [PySide.jl](https://github.com/jverzani/PySide.jl) :: A julia interface for accessing Qt via PyCall and PySide.
 + [Table.jl](https://github.com/cpritcha/Table.jl) :: Display Tables in plain text, HTML, LaTex.
++ [Tealeaf.jl](https://github.com/rennis250/Tealeaf.jl) :: A simple GUI package for Julia that is based on Processing.jl and Reactive.jl.
 + [Tk.jl](https://github.com/JuliaLang/Tk.jl) :: The Julia interface for the Tk windowing toolkit.
-+ [XClipboard.jl](https://github.com/kmsquire/XClipboard.jl) :: are xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays). 
++ [XClipboard.jl](https://github.com/kmsquire/XClipboard.jl) :: Xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays). 
 
 
 ### GTK
