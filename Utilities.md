@@ -62,6 +62,7 @@
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
 ## IDE
++ [Atom.jl](https://github.com/JunoLab/Atom.jl) :: Julia Client for Atom.
 + Atom : [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) :: A Julia language support package for the Atom editor.
    + [atom-julia-client](https://github.com/JunoLab/atom-julia-client) :: Julia Eval in Atom.
    + [Electron.jl](https://github.com/jkroso/Electron.jl) :: Provides easy access to atom/electron from Julia.
