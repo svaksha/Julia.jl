@@ -58,6 +58,7 @@ Wrappers's and programming API for other languages and general backend server pu
 + [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
 + [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
 + [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Foreign Function Interface (FFI).
++ [CxxROOT.jl](https://github.com/Keno/CxxROOT.jl) :: A Cxx.jl based interface to CERN's ROOT. 
 + [Gallium.jl](https://github.com/Keno/Gallium.jl) :: The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 
 ## Erlang
