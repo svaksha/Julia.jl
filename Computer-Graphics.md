@@ -93,6 +93,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Simple package to create an OpenGL window with an OpenGL context.
 + [GR](https://github.com/jheinen/gr) framework :: A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
 + [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
++ [GraphPlot.jl](https://github.com/afternone/GraphPlot.jl) :: Graph visualization for Julia.
 + [GraphViz.jl](https://github.com/Keno/GraphViz.jl) :: Julia bindings for the GraphViz library.
 + [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
 + [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
