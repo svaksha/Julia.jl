@@ -132,6 +132,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # SLIDES
++ [BAJU-WhatsNew](https://github.com/tkelman/BAJU-WhatsNew) :: Bay Area Julia Users talk from Oct 29th 2015. 
 + [Setting up Julia for EE103](https://web.stanford.edu/class/ee103/slides/julia_ee103_slides.pdf) slides, Stanford.
 + [Matrices in Julia](http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides, Stanford.
 + [SF.jl](https://github.com/johnmyleswhite/SF.jl) :: Slides for the SF Julia meetup.
