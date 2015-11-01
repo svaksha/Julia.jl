@@ -127,7 +127,7 @@ __NotaBene__: The PPA `julianightlies` will pull the `master` (unstable) branch 
 https://github.com/JuliaPackageMirrors/mirror-updater
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
-   + [Julia Deprecated](https://github.com/JuliaDeprecated) organisation contains all the abandoned packages.
+   + [JuliaArchive](https://JuliaArchive.github.io) :: Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.

@@ -14,7 +14,8 @@
 # INDEX
 For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs! 
 
-To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages are listed in the [Julia Deprecated](https://github.com/JuliaDeprecated) organisation.
+To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
+
 
 + [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
 + [Astronomy.md](https://github.com/svaksha/Julia.jl/blob/master/Astronomy.md) :: Astronomy and Imaging packages.
