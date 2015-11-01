@@ -334,6 +334,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 
 ## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
 + [DependentBootstrap](https://github.com/colintbowers/DependentBootstrap.jl) :: A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
++ [DFA.jl](https://github.com/afternone/DFA.jl) :: Detrended fluctuation analysis in Julia.
 + [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators that can handle univariate and bivariate data, but only continuous variables.
 + [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The julia package for nonparametric density estimate and regression.
 + [KernelStat](https://github.com/colintbowers/KernelStat.jl) :: A module for the Julia language for kernel-function based statistics.
