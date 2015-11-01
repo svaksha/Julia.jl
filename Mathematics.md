@@ -143,6 +143,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ----
 
 # Calculus & [Applied Math](http://en.wikipedia.org/wiki/Applied_mathematics)
++ [ad4julia](https://github.com/bsxfan/ad4julia) :: Some automatic diffferentiation coding experiments in Julia. 
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
