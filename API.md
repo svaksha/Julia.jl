@@ -35,7 +35,6 @@
 + [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
 ### Git API
-+ [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl) :: A Julia package for interfacing with the GitHub API (v3).
 + [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
 + [MechaJulia](https://github.com/MechaJulia/MechaJulia) :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
 + [PkgGithubRepo.jl](https://github.com/thiruk/PkgGithubRepo.jl) :: Get the Github repository information for a Julia package installed in Ubuntu.

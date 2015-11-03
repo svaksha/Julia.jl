@@ -253,6 +253,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [RecurrentNN.jl](https://github.com/Andy-P/RecurrentNN.jl) :: Deep RNN and LSTM in Julia. 
 + [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Recurrent Neural Networks.
 + [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
++ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia. 
 + [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to "deep" stacks of neural network units that can be trained using gradient descent over defined error measures.
 
 ----
