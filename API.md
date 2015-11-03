@@ -24,11 +24,12 @@
 
 # API
 + [Hydna.jl](https://github.com/jfd/Hydna.jl) :: Hydna Julia Client Library implements support for the Hydna Push API.
-+ [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
-+ [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
++ [Mandrill.jl](https://github.com/aviks/Mandrill.jl) :: Mandrill API in Julia.
 + [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
 + [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) :: An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
 + [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
++ [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
++ [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
 
 
 ### Math
@@ -40,6 +41,7 @@
 + [GitHub.jl](https://github.com/WestleyArgentum/GitHub.jl) :: A Julia package for interfacing with the GitHub API (v3).
 + [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
 + [MechaJulia](https://github.com/MechaJulia/MechaJulia) :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
++ [PkgGithubRepo.jl](https://github.com/thiruk/PkgGithubRepo.jl) :: Get the Github repository information for a Julia package installed in Ubuntu.
 + [Octokit.jl](https://github.com/loladiro/Octokit.jl) :: Julia package to access the GitHub API.
 
 ----
