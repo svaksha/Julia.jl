@@ -124,6 +124,7 @@
 + [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
 + [FTPClient.jl](https://github.com/invenia/FTPClient.jl) :: An FTP Client.
 + [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
++ [LibArchive.jl](https://github.com/yuyichao/LibArchive.jl) :: Wrapper for [libarchive](http://www.libarchive.org/). 
 + [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
 + [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
 + [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.

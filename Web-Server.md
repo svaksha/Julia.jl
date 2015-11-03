@@ -8,6 +8,7 @@ Networking, web security, frameworks and other Web related things go here!
    + [Security](#security)
 + [Template Engines](#template-engines)
 + [WEB](#web)
+   + [Email](#email)
    + [Org-JuliaWeb](#org-juliaweb)
 + [WIDE](#wide)
    + [Org-JunoLab](#org-junolab)
@@ -79,6 +80,10 @@ Networking, web security, frameworks and other Web related things go here!
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
 + [WWWClient.jl](https://github.com/loladiro/WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
 
+## Email
++ [Mandrill.jl](https://github.com/aviks/Mandrill.jl) :: Mandrill API in Julia.
++ [SMTPClient.jl](https://github.com/JuliaWeb/SMTPClient.jl) :: An SMTP client to send emails from Julia.
+
 ## Org-[JuliaWeb](https://github.com/JuliaWeb)
 + [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
 + [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) :: A WebSockets server library for Julia.
@@ -86,7 +91,6 @@ Networking, web security, frameworks and other Web related things go here!
 + [HTTPClient.jl](https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcurl
 + [HttpParser.jl](https://github.com/JuliaWeb/HttpParser.jl) :: Julia wrapper for Joyent's http-parser.
 + [Meddle.jl](https://github.com/JuliaWeb/Meddle.jl) :: is the middleware stack for use with HttpServer.jl.
-+ [SMTPClient.jl](https://github.com/JuliaWeb/SMTPClient.jl) :: An SMTP client to send emails from Julia.
 + [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) :: This package provides URI Template interpolation by implementing (RFC 6570).
 + [UAParser.jl](https://github.com/JuliaWeb/UAParser.jl) :: UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 + [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) :: Pure julia URI parser.
