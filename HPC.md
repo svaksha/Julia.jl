@@ -37,6 +37,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
 + [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
 + [CURAND.jl](https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library. 
++ [HSA.jl](https://github.com/JuliaGPU/HSA.jl) :: Julia Bindings for the HSA Runtime.
 + [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
 + [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
 + [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
