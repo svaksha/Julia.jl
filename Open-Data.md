@@ -94,7 +94,7 @@
 ## DATA-General
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) :: Repository for CWL Specfications.
-+ [datasets](https://github.com/ali-ce/datasets) :: Original data or Aggregated / cleaned / restructured existing datasets. Released here under Creative Commons Attribution-ShareAlike 4.0 International License.
++ [datasets](https://github.com/ali-ce/datasets) :: Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
 + [Freebase](http://www.freebase.com) :: A community-curated database of well-known people, places, and things.
 + [Wikidata](https://www.wikidata.org/) :: A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines.
    + [SPARQL endpoints to Wikidata](https://www.wikidata.org/wiki/Wikidata:Data_access#SPARQL_endpoints) with a [general introduction](http://www.slideshare.net/_Emw/an-ambitious-wikidata-tutorial) to Wikidata and its data model.
