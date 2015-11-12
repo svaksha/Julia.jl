@@ -16,7 +16,7 @@
 
 ----
 
-# INSTALL 
+# INSTALL
 + [Download and install Julia on various Operating Systems](http://julialang.org/downloads/)
 + List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
 + [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
@@ -59,28 +59,27 @@ Helper tools for core `julia` language development.
 __Pre-compiled Binaries__
 + [BinDeps.jl](https://github.com/JuliaLang/BinDeps.jl) :: Tool for building binary dependencies for Julia modules.
 + [Conda.jl](https://github.com/Luthaf/Conda.jl) :: Conda managing Julia binary dependencies.
-+ [Julia-0.3.9 for Linux 64-bit](https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball. 
++ [Julia-0.3.9 for Linux 64-bit](https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball.
 + Build an executable binary with [this script](https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl)
 
-### Package/Infrastructure management tools and Documentation 
-   - Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-   - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+### Package/Infrastructure management tools and Documentation
+- Official [Julia Package list](http://pkg.julialang.org/).
+- [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
+- [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
    - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
 
 ##### DOCS
-   - The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
-   - Official [Julia Package list](http://pkg.julialang.org/).
-   - [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
-   - [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
-   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
+- Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
+- The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+      - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
 
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
 ### Ansible
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
-+ [julia-ansible-scripts](https://github.com/staticfloat/julia-ansible-scripts) :: Various julia ansible scripts for provisioning servers, buildbots etc... 
++ [julia-ansible-scripts](https://github.com/staticfloat/julia-ansible-scripts) :: Various julia ansible scripts for provisioning servers, buildbots etc...
 
 ### Docker
 + [Docker](https://registry.hub.docker.com/_/julia/) image for Julia.
@@ -142,5 +141,3 @@ https://github.com/JuliaPackageMirrors/mirror-updater
 
 # NEWS
 + [Devops Weekly](http://www.devopsweekly.com/)
-
-
