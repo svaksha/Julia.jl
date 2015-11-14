@@ -51,6 +51,9 @@
 Helper tools for core `julia` language development.
 + [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to reload and test modifications to base without recompiling the full system image.
 
+## Security
++ [PkgVerifierPrototype](https://github.com/LachlanGunn/PkgVerifierPrototype) ::
+
 ----
 
 # [Operating System Technology](http://en.wikipedia.org/wiki/Category:Operating_system_technology)
