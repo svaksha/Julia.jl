@@ -32,7 +32,7 @@
 # BUILD AUTOMATION
 + [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 + [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
-+ [OpenStack.jl](https://github.com/loladiro/OpenStack.jl)
++ [OpenStack.jl](https://github.com/loladiro/OpenStack.jl).
 
 ----
 
@@ -52,7 +52,7 @@ Helper tools for core `julia` language development.
 + [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to reload and test modifications to base without recompiling the full system image.
 
 ## Security
-+ [PkgVerifierPrototype](https://github.com/LachlanGunn/PkgVerifierPrototype) ::
++ [PkgVerifierPrototype](https://github.com/LachlanGunn/PkgVerifierPrototype) :: Julia package verifier prototype.
 
 ----
 
