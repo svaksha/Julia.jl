@@ -117,6 +117,7 @@ __The official Julia conference, and local meetup groups located around the worl
 + [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
 
 ### Media
++ 2015-11-15 :: HN post on [Julia Computing Granted $600k by Moore Foundation](https://news.ycombinator.com/item?id=10565940). 
 + [Why the creators of the Julia programming language just launched a startup](http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/).
 + 2014-01-23 :: Evan Miller's ["Why I’m Betting on Julia"](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
 + 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
