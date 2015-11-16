@@ -1,4 +1,4 @@
-__Useful learning resources and all other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, lets say, "Julia for Statistics" tutorial would be listed on the Statistics page.__ 
+__Useful learning resources and all other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, say, a "Julia for Statistics" tutorial would be listed on the Statistics page.__ 
 
 + [BOOKS](#books)
 + [BLOGS](#blogs)
@@ -114,6 +114,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
 + [Invitation to Julia](https://github.com/dpsanders/invitation_to_julia) :: A scientific computing introductory workshop on Julia at JuliaCon 2015.
 + [Fractals](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/fractals.ipynb) in Julia.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.

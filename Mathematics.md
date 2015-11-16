@@ -197,6 +197,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SIE.jl](https://github.com/ApproxFun/SIE.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
 + [SingularIntegralEquations.jl](https://github.com/ApproxFun/SingularIntegralEquations.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems.
 
+###### Resources
++ [NumericalMath’s documentation for Integration](http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html).
+
 ### [Ordinary Differential Equation](http://en.wikipedia.org/wiki/Ordinary_differential_equation)
 + [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila package for performing automatic differentiation.
 + [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
@@ -209,7 +212,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [odesolver](https://github.com/insideloop/odesolver) :: Collection of solvers for Ordinary Differential Equations.
 + [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
 
-###### Learning Resources
+###### Resources
 + [FinealeBook.jl](https://github.com/goedman/FinealeBook.jl) :: Trying to understand Petr Krysl's FinEALE book.
 
 #### Org-JuliaLang
