@@ -87,6 +87,9 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 ---- 
 
 # Computer Performance
+
++ [ISPC.jl](https://github.com/damiendr/ISPC.jl) :: Tools to work with [ISPC](https://ispc.github.io/) in Julia.
+
 ### Code Analyzer
 + [IACA.jl](https://github.com/carnaval/IACA.jl) :: A wrapper around intel's arch code analyzer for Julia. 
 
