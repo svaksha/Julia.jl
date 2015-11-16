@@ -17,6 +17,7 @@
    + [Publications](#publications)
 + [HMM](#hmm)
 + [MACHINE LEARNING](#machine-learning)
+   + [Org-JuliaML](#org-juliaml)
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
    + [Japanese](#japanese)
@@ -222,6 +223,9 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
+
+## Org-[JuliaML](https://github.com/JuliaML)
++ [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 
 ###### Resources
 + [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.

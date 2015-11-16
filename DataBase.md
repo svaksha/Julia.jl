@@ -1,11 +1,11 @@
-For downloading various data sets, visit the [data-sets.md](https://github.com/svaksha/Julia.jl/blob/master/data-sets.md) page.
+For downloading various data sets, visit the [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) page.
 
-
++ [DB-Distributed](#db-distributed)
+   + [SciDB](#scidb)
 + [DB-NOSQL](#db-nosql)
    + [LMDB](#lmdb)
    + [MongoDB](#mongodb) 
    + [Redis](#redis)
-   + [SciDB ArrayDB](#scidb-arraydb)
 + [DB-RDBMS](#db-rdbms)
    + [MySQL](#mysql)
    + [PostgreSQL](#postgresql)
@@ -14,6 +14,16 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [DB-API](#db-api)
 + [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
+
+====
+
+# DB-[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)
++ 
+
+## SciDB 
++ [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
+   + __RESOURCES__
+   + [TAQ](https://github.com/Paradigm4/TAQ) :: Example SciDB queries for finance trade and quote data.
 
 ----
 
@@ -33,11 +43,6 @@ For downloading various data sets, visit the [data-sets.md](https://github.com/s
 + [Redis.jl](https://github.com/jkaye2012/Redis.jl) :: Pure Julia implementation of a Redis client (actively maintained).
 + [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
  
-## SciDB [ArrayDB](http://en.wikipedia.org/wiki/Array_DBMS)
-+ [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations.
-   + __RESOURCES__
-   + [TAQ](https://github.com/Paradigm4/TAQ) :: Example SciDB queries for finance trade and quote data.
-   
 ----
 
 # DB-RDBMS

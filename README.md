@@ -25,13 +25,13 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
 + [Community.md](https://github.com/svaksha/Julia.jl/blob/master/Community.md) :: List of community and development links, including events, (un)conferences, forums/ meetup groups, NEWS, etc..
 + [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
-+ [Data-Base.md](https://github.com/svaksha/Julia.jl/blob/master/Data-Base.md) :: NoSQL, RDBMS and Middleware API's.
++ [DataBase.md](https://github.com/svaksha/Julia.jl/blob/master/DataBase.md) :: NoSQL, RDBMS and Middleware API's.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware and other API libraries.
 + [HPC.md](https://github.com/svaksha/Julia.jl/blob/master/HPC.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
-+ [Open-Data.md](https://github.com/svaksha/Julia.jl/blob/master/Open-Data.md) :: OpenData, Free Data-Sets.
++ [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData, Free Data Sets.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
