@@ -18,7 +18,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ====
 
 # DB-[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)
-+ 
++ [Accumulo.jl](https://github.com/JuliaDB/Accumulo.jl) :: Apache Accumulo client. 
 
 ## SciDB 
 + [SciDB-Julia](https://github.com/Paradigm4/SciDB-Julia) :: The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
