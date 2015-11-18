@@ -114,6 +114,7 @@ __Useful learning resources and all other random resources that does not have it
 ----
 
 # JUPYTER NOTEBOOKS
++ [ijulia-notebooks](https://github.com/jiahao/ijulia-notebooks) :: Demo-ready IJulia notebooks and [assorted IJulia notebooks](https://github.com/jiahao/ijulia-notebooks-assorted) in various stages of usefulness for public consumption.
 + [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
 + [Invitation to Julia](https://github.com/dpsanders/invitation_to_julia) :: A scientific computing introductory workshop on Julia at JuliaCon 2015.
 + [Fractals](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/fractals.ipynb) in Julia.
