@@ -1,7 +1,7 @@
 **Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning (ML) and Statistics are closely related fields, so do check out the [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) page for ML packages.**
 
 + [ACTUARIAL SCIENCE](#actuarial-science)
-   * [Econometrics](#econometrics)
+   + [Econometrics](#econometrics)
    + [Finance](#finance)
    + [Org-JuliaQuant](#org-juliaquant)
 + [DATA SCIENCE](#data-science)
@@ -32,6 +32,7 @@
 + [DynamicFactorModels.jl](https://github.com/joidegn/DynamicFactorModels.jl) :: Dynamic Factor Models for Julia.
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
 + [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
++ [GrowthModels](https://github.com/NYUEcon/GrowthModels) :: This is a repository that contains solutions to many growth models that are of the same class.
 + [Jconometrics.jl](https://github.com/adriantorrie/Jconometrics.jl) :: MATLAB to Julia port of Spatial Econometrics.
 + [julia_timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
 + [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) :: General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
