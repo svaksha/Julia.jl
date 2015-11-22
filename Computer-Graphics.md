@@ -28,7 +28,7 @@
 + [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 + [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
 + [GLGraphics.jl](https://github.com/SimonDanisch/GLGraphics.jl) :: Advanced 3D and 2D graphics for Julia.
-+ [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit)
++ [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
 + [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
 + [GLUtil.jl](https://github.com/SimonDanisch/GLUtil.jl) :: Utility package for ModernGL by @SimonDanisch.
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
@@ -64,7 +64,7 @@
 + [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) :: Statistical shape models / point distribution models.
 + [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
-+ [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO.  The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
++ [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
 
 ## Games
@@ -74,6 +74,7 @@
 
 ###### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
++ [Videre](https://github.com/Gnimuc/Videre) :: OpenGL examples written in Julia.
 
 ----
 
