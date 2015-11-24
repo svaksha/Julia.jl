@@ -2,7 +2,8 @@
   + [Org-JuliaLang](#org-julialang)
 + [Data Types](#data-types)
 + [Programming Paradigms](#programming-paradigms)
-   + [Double Dispatch](#doubledispatch)
+   + [Control Flow](#control-flow)
+   + [Double Dispatch](#double-dispatch)
    + [Functional Programming](#functional-programming)
    + [Grammatical Evolution](#grammatical-evolution)
    + [Macros](#macros)
@@ -125,6 +126,9 @@ __Packages and resources that support various programming styles, Software Archi
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
+### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
++ [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
+
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
 + [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
 
@@ -150,7 +154,7 @@ __Packages and resources that support various programming styles, Software Archi
 ### Meta Programming
 + [Sugar.jl](https://github.com/bramtayl/Sugar.jl).
 
-##### DOCS
+###### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 ### Multi-Threading
