@@ -161,7 +161,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [RiemannComplexNumbers.jl](https://github.com/scheinerman/RiemannComplexNumbers.jl) :: The RiemannComplexNumbers module is an alternative Complex type for Julia (with a single complex infinity value). 
 + [TaylorSeries.jl](https://github.com/lbenet/TaylorSeries.jl) :: A julia package for Taylor expansions in one independent variable.
 
-###### Learning Resources
+###### Resources
++ [Riemann Hypothesis book](http://wstein.org/rh/) with the [source code on github](https://github.com/williamstein/rh).
 + [Calculus With Julia](https://github.com/CalculusWithJulia/CalculusWithJulia.github.io) :: Introductory Calculus with the Julia Programming Language. 
 + An IJulia notebook showing [Taylor's method integration of the pendulum](http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97)
 
