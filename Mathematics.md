@@ -99,6 +99,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [UnumTests.jl](https://github.com/goedman/UnumTests.jl) :: Some experiments with Unums. {#NonCuratedPackage}
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
 
+###### Resources
++ [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
+
 ----
 
 # Algebra
@@ -120,6 +123,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
+###### Resources
++ [adeles](https://github.com/williamstein/adeles) :: Ideles adeles algebraic number theory.
 
 ## [Abstract Algebra](http://en.wikipedia.org/wiki/Abstract_algebra)
 
