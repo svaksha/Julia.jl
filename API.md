@@ -84,7 +84,7 @@ Wrappers's and programming API for other languages and general backend server pu
 ## JavaScript
 + [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
 + [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
-+ [node-julia](https://github.com/waTeim/node-julia) :: Connecting node.js and Julia.
++ [node-julia](https://github.com/waTeim/node-julia) ::  Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
 + [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
 
 ## MATLAB
