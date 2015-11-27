@@ -126,11 +126,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
     + The [plot.ly](https://plot.ly/api/julia/) Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
 + [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.
-<<<<<<< HEAD
 + [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: A Julia package for plotting that uses ctioga2 as a backend. 
-+ [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl) :: Julia interface to WebGL using Three-js custom elements and Patchwork.jl. 
-=======
->>>>>>> 27ec88b4619330b090b03c546facd0f283f9005a
 + [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
 + [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
 + [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
