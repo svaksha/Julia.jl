@@ -46,6 +46,7 @@ __Static Program Analysis__
 + [JLTest](https://github.com/smangano/JLTest) :: A unittest framework for Julia (inspired by Python's unittest).
 + [JulieTest.jl](https://github.com/arypurnomoz/JulieTest.jl) :: A Julia testing framework inspired by javascript's Mocha. See the [Wiki](https://github.com/arypurnomoz/JulieTest.jl/wiki)
 + [microcoverage](https://github.com/StephenVavasis/microcoverage) :: This module computes code coverage for a Julia program at a more fine-grained level than the built-in coverage feature. Specifically, it provides coverage counts for each branch of the ||, && and ?: operators where they occur. It also counts the number of invocations to statement-functions.
++ [Mocking.jl](https://github.com/invenia/Mocking.jl) : Allows temporary overwriting of Julia methods for testing purposes.
 + [PackageTesting.jl](https://github.com/johnmyleswhite/PackageTesting.jl) :: A standard for testing Julia packages.
 + [RunTests.jl](https://github.com/burrowsa/RunTests.jl) :: A test running framework for Julia that extends Base.Test
 + [Saute.jl](https://github.com/milktrader/Saute.jl) :: is another testing framework for Julia.
