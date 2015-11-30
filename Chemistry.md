@@ -10,7 +10,7 @@
 ----
 
 # Chemistry 
-+ [Chemharp.jl](https://github.com/Luthaf/Chemharp.jl) :: A Julia binding for the Chemharp chemistry IO library.
++ [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
 + [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) :: Stochastic Gillespie-type simulations using Julia.
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
 + [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the "Analytical Chemistry" journal.
