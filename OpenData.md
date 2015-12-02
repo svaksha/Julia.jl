@@ -42,6 +42,7 @@
 + WP's list of [biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases).
 
 ## Genome
++ [ChromosomeMappings](https://github.com/dpryan79/ChromosomeMappings) :: This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes. 
 + A database of OA/free [RNA-seq and genomic](http://jtleek.com/data/) data-sets used in research projects at JHU.
 + Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
 + [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
