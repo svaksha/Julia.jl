@@ -31,6 +31,7 @@
 + [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
 + [DynamicFactorModels.jl](https://github.com/joidegn/DynamicFactorModels.jl) :: Dynamic Factor Models for Julia.
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
++ [FredData.jl](https://github.com/micahjsmith/FredData.jl) :: Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 + [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
 + [GrowthModels](https://github.com/NYUEcon/GrowthModels) :: This is a repository that contains solutions to many growth models that are of the same class.
 + [Jconometrics.jl](https://github.com/adriantorrie/Jconometrics.jl) :: MATLAB to Julia port of Spatial Econometrics.
@@ -39,7 +40,6 @@
 + [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: This package collects code for quantitative economic modeling. It is currently comprised of two main parts: 1. A toolbox of routines useful when doing economics and 2. Implementations of types and solution methods for common economic models.
    + [Quantitative economic modelling](http://quant-econ.net/jl/index.html) lecture series in Julia language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf) file too.
 + [RuinProbability.jl](https://github.com/Hank-Qian/RuinProbability.jl) :: For calculating the ruin probability with real data under different claims models.
-
 
 ## Finance
 + [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.

@@ -1,5 +1,8 @@
 + [SOFTWARE](#software)
-+ [Astronomy](#astronomy)
++ [ACTUARIAL SCIENCE](#actuarial-science)
+   + [Econometrics](#econometrics)
+   + [Finance](#finance)
++ [ASTRONOMY](#astronomy)
 + [BIOLOGY](#biology)
    + [Genome](#genome)
    + [Genetics-Medicine](#genetics-medicine)
@@ -15,7 +18,7 @@
 + [Machine Learning](#machine-learning)
 + [Math](#math)
 
-----
+====
 
 # SOFTWARE
 **NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
@@ -30,13 +33,20 @@
 
 ----
 
-# [Astronomy](https://en.wikipedia.org/wiki/Category:Astronomy)
+# ACTUARIAL SCIENCE
+
+## Econometrics
++ The [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) economic [time series data](https://research.stlouisfed.org/fred2/).
+
+----
+
+# [ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy)
 + [NASA Open DataSets](https://open.nasa.gov/) :: To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa).
 
 ## AstroPhysics
 + [sndatasets](https://github.com/kbarbary/sndatasets) :: Download and normalize published supernova photometric data.
 
-====
+----
 
 # BIOLOGY
 + WP's list of [biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases).
