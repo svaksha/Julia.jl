@@ -1,5 +1,6 @@
 **Other software libraries,..**
 
++ [API](#api)
 + [Architectures](#architectures)
     + [FTDI](#ftdi)
     + [National Instruments](#national-instruments)
@@ -9,6 +10,11 @@
 + [Control System](#control-system)
 + [Robots](#robots)
 + [TouchScreen](#touchscreen)
+
+====
+
+# API
++ [Alazar.jl](https://github.com/ajkeller34/Alazar.jl) :: API wrapper for Julia, bare bones.
 
 ----
 
