@@ -30,6 +30,7 @@
 
 ### Virtual Instrument Software Architecture
 + [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) :: A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers. 
++ [VISA.jl](https://github.com/ajkeller34/VISA.jl) :: VISA wrapper for Julia.
 
 ----
 
