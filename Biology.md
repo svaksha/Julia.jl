@@ -42,11 +42,12 @@
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
 + [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
-+ Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
++ [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
 
 ###### Resources
-* [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
++ Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
++ [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
 
 
 ----
@@ -61,7 +62,7 @@ Their [GoogleGroups mailing list](https://groups.google.com/forum/?fromgroups#!f
 ----
 
 # Org-[JuliaBio](https://github.com/JuliaBio)
-Their [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-bio).
+The [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-bio).
 
 ----
 
