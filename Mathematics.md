@@ -1,5 +1,5 @@
 **Only [Mathematical](http://en.wikipedia.org/wiki/Lists_of_mathematics_topics) libraries and packages, and related resources.**
-NB: Many packages may not be regularly updated to work with Julia nightlies or the currently stable ver-0.4.
+NB: Many packages may not be regularly updated to work with Julia nightlies or the currently released stable version of Julia.
 
 + [CRYPTOGRAPHY](#cryptography)
    + [Cryptocurrency](#cryptocurrency)
@@ -153,6 +153,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
++ [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
 + [HyperNumbers.jl](https://github.com/goedman/HyperNumbers.jl) :: Julia implementation of HyperNumbers.
 + [pdetools.jl](https://github.com/GaZ3ll3/pdetools.jl) :: Toolbox for solving PDEs.
 + [PowerSeries.jl](https://github.com/jwmerrill/PowerSeries.jl) :: Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
