@@ -153,6 +153,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
++ [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
 + [HyperNumbers.jl](https://github.com/goedman/HyperNumbers.jl) :: Julia implementation of HyperNumbers.
 + [pdetools.jl](https://github.com/GaZ3ll3/pdetools.jl) :: Toolbox for solving PDEs.
