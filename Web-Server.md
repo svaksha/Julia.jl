@@ -5,7 +5,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [JAVASCRIPT](#javascript)
 + [Middleware](#middleware)
 + [NETWORKING](#networking)
-   + [Security](#security)
++ [SECURITY](#security)
 + [Template Engines](#template-engines)
 + [WEB](#web)
    + [Email](#email)
@@ -55,12 +55,14 @@ Networking, web security, frameworks and other Web related things go here!
 + [TimeZones.jl](https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language.
 + [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
 
-## Security
+----
+
+# SECURITY
 + [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
 + [MbedTLS](https://github.com/JuliaWeb/MbedTLS.jl) :: Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
    + [GnuTLS.jl](https://github.com/JuliaWeb/GnuTLS.jl) :: Transport Level Security for Julia Streams provided by GnuTLS.
-+ [Morsel.jl](https://github.com/JuliaLang/Morsel.jl) :: A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
 + [HttpServer.jl](https://github.com/JuliaLang/HttpServer.jl) :: a basic, non-blocking HTTP server in Julia.
++ [OAuth.jl](https://github.com/randyzwitch/OAuth.jl) :: Pure Julia implementation of OAuth v1.0a.
 + [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
 
 ----
@@ -92,6 +94,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [HTTPClient.jl](https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcurl
 + [HttpParser.jl](https://github.com/JuliaWeb/HttpParser.jl) :: Julia wrapper for Joyent's http-parser.
 + [Meddle.jl](https://github.com/JuliaWeb/Meddle.jl) :: is the middleware stack for use with HttpServer.jl.
++ [Morsel.jl](https://github.com/JuliaLang/Morsel.jl) :: A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
 + [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) :: This package provides URI Template interpolation by implementing (RFC 6570).
 + [UAParser.jl](https://github.com/JuliaWeb/UAParser.jl) :: UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 + [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) :: Pure julia URI parser.
@@ -115,3 +118,4 @@ Networking, web security, frameworks and other Web related things go here!
 + [MethImp.jl](https://github.com/JunoLab/MethImp.jl) :: Method Importing.
 + [Mux.jl](https://github.com/JunoLab/Mux.jl) :: Middleware for Julia.
 
+----
