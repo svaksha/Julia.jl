@@ -152,6 +152,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [ad4julia](https://github.com/bsxfan/ad4julia) :: Some automatic diffferentiation coding experiments in Julia. 
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
++ [FDM.jl](https://github.com/grasingerm/FDM.jl) :: Finite difference methods in Julia.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
