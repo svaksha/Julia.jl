@@ -6,6 +6,7 @@
    + [GTK]#gtk)
 + [ENVIRONMENTS](#environments)
    + [IDE](#ide)
+   + [Org-JuliaIDE](#org-juliaide)
    + [Jupyter](#jupyter)
    + [WIDE](#wide) 
 + [UTILS](#utils)
@@ -82,6 +83,14 @@
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
    + [JuliaCompletions](https://github.com/jakeconnor/JuliaCompletions) :: Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 + [vim-notebook](https://github.com/baruchel/vim-notebook) :: Vim users can use Julia from the `vim-notebook` plugin. 
+
+## Org-[JuliaIDE](https://github.com/JuliaIDE)
++ [Jewel.jl](https://github.com/JuliaIDE/Jewel.jl) :: IDE backend for Julia.
++ [Julia-LT](https://github.com/JuliaIDE/Julia-LT) :: Julia plugin for Light Table.
++ [June-LT](https://github.com/JuliaIDE/June-LT) :: The June themes for Light Table.
++ [JunoLTDistro](https://github.com/JuliaIDE/JunoLTDistro) :: Juno-LT Distribution & Installer.
++ [Juno-LT](https://github.com/JuliaIDE/Juno-LT) :: A Julia environment built on Light Table. [JunoLab](http://junolab.org).
++ [Reminisce](https://github.com/JuliaIDE/Reminisce) :: Sublime-style saving of tabs and content for Light Table.
 
 ## [Jupyter](https://github.com/jupyter)
 + [Jupyter](http://jupyter.org) 'nee [IJulia.jl](https://github.com/JuliaLang/IJulia.jl) :: Julia kernel and magics for IPython.
