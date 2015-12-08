@@ -151,6 +151,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [MetaMerge.jl](https://github.com/davidagold/MetaMerge.jl) :: Merge functions with identical names from distinct modules.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 + [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) :: A julia macro for unrolling conditional `for` loops.
++ [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) :: Universal Time using local system timezone. 
 
 ### Meta Programming
 + [Sugar.jl](https://github.com/bramtayl/Sugar.jl).
