@@ -294,6 +294,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: A Julia package for text analysis.
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl).
 + [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
++ [Word2Vec.jl](https://github.com/weijianzhang/Word2Vec.jl) :: Julia interface to word2vec.
 
 ### Japanese
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
