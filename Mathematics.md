@@ -303,7 +303,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Interpolations.jl](https://github.com/tlycken/Interpolations.jl) :: B-spline interpolation in Julia.
 + [LinearExpressions.jl](https://github.com/cdsousa/LinearExpressions.jl) :: is a Julia package to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
-+ [LinearOperators.jl](https://github.com/dpo/LinearOperators.jl) :: Linear Operators for Julia.
 + [LowRankApprox.jl](https://github.com/klho/LowRankApprox.jl) :: Fast low-rank matrix approximation in Julia.
 + [RandomMatrices.jl](https://github.com/jiahao/RandomMatrices.jl) :: Random Matrices.
    + [Video](https://www.youtube.com/watch?v=68yy33jOkOs) of Jiahao and Andreas talk on __Free probability, random matrices and disorder in organic semiconductors__ at MIT CSAIL.

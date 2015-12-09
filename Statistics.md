@@ -9,6 +9,7 @@
    + [Optimization](#optimization)
       + [Genetic Programming](#genetic-programming)
    + [Org-JuliaOpt](#org-juliaopt)
+   + [Org-JuliaOptimizers](#org-juliaoptimizers)
    + [Regression Analysis](#regression-analysis)
 + [STATISTICS](#statistics)
    + [Org-JuliaStats](#org-juliastats)
@@ -110,9 +111,7 @@
 
 
 ## Optimization
-+ [ampl.jl](https://github.com/dpo/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
 + [AMPLMathProgInterface.jl](https://github.com/mlubin/AMPLMathProgInterface.jl) :: Wrapper for MathProgBase.jl {see the `JuliaOpt` section below}.
-+ [AmplNLReader.jl](https://github.com/dpo/AmplNLReader.jl) :: A Julia Interface to AMPL.
 + [AmplNLWriter.jl](https://github.com/JackDunnNZ/AmplNLWriter.jl) ::  Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 + [AutomotiveDrivingModels.jl](https://github.com/tawheeler/AutomotiveDrivingModels.jl) :: For car encounter models.
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
@@ -120,7 +119,6 @@
 + [BLOM.jl](https://github.com/tkelman/BLOM.jl) :: A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers. 
 + [CPLEX.jl](https://github.com/joehuchette/CPLEX.jl) :: The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
-+ [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) :: Julia interface for CUTEst.
 + [DDUS.jl](https://github.com/vgupta1/DDUS.jl) :: Data-driven Uncertainty Sets for the JuMPeR framework.
 + [ECOS.jl](https://github.com/jfsantos/ECOS.jl) :: Julia wrapper for the ECOS SOCP solver.
 + [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) :: is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
@@ -176,6 +174,17 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Mosek.jl](https://github.com/JuliaOpt/Mosek.jl) :: Interface to the Mosek solver in Julia.
 + [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) :: Package to call the NLopt nonlinear-optimization library from the Julia language.
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
+
+## Org-JuliaOptimizers
++ [AMD.jl](https://github.com/JuliaOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
++ [ampl.jl](https://github.com/JuliaOptimizers/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
++ [AmplNLReader.jl](https://github.com/JuliaOptimizers/AmplNLReader.jl) :: A Julia Interface to AMPL.
++ [CUTEst.jl](https://github.com/JuliaOptimizers/CUTEst.jl) :: Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo.
++ [HSL.jl](https://github.com/JuliaOptimizers/HSL.jl) :: Julia interface to the HSL Mathematical Software Library.
++ [Krylov.jl](https://github.com/JuliaOptimizers/Krylov.jl) :: A Julia Basket of Hand-Picked Krylov Methods.
++ [LinearOperators.jl](https://github.com/JuliaOptimizers/LinearOperators.jl) :: Linear Operators for Julia.
++ [NLP.jl](https://github.com/JuliaOptimizers/NLP.jl) :: A Data Structure for Optimization Problems in Julia.
++ [NLPModels.jl](https://github.com/JuliaOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
 + [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
