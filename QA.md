@@ -1,14 +1,14 @@
 *Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Unit testing, ...*
 
-+ [BBT](#bbt)
++ [Black Box Testing](#black-box-testing)
 + [LOGGING](#logging)
 + [SANDBOX](#sandbox)
 + [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
-----
+====
 
-# [BBT](http://en.wikipedia.org/wiki/Black-box_testing)
+# [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
 
 ----
@@ -31,7 +31,7 @@
 __Static Program Analysis__
 + [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 + [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
-
++ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) :: Intuitive, useful stack traces for Julia.
 
 ----
 
