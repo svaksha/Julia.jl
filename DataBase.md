@@ -68,6 +68,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 # DB-API
 **Middleware API's**
++ [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
 + [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 + [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
 + [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
