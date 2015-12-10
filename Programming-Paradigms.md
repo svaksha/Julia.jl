@@ -104,6 +104,7 @@
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
 + [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) :: A Julia library to reversibly encode "any" value so that it can be used as a type parameter. 
++ [FileIO2.jl](https://github.com/ma-laforge/FileIO2.jl) :: File Object Type Hierarchy.
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
 + [Parameters.jl](https://github.com/mauro3/Parameters.jl) :: Types with default field values, keyword constructors and (un-)pack macros.
 + [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
@@ -115,7 +116,6 @@
 + [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
 + [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
 + [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
-
 
 ###### Resources
 + [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)

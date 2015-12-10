@@ -31,7 +31,7 @@
 __Static Program Analysis__
 + [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 + [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
-+ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) :: Intuitive, useful stack traces for Julia.
++ [StackTraces.jl](https://github.com/Prinvenia/StackTraces.jl) :: Intuitive, useful stack traces for Julia.
 
 ----
 
