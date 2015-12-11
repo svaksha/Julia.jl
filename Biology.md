@@ -35,6 +35,7 @@
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [LCS.jl](https://github.com/WestleyArgentum/LCS.jl) :: A package for finding longest common and longest contiguous subsequences. 
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
++ [OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) :: OpenGene core library in Julia.
 + [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: Detect correlated evolution on phylogenies.
 + [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) :: Utilities to simulate and perform inference of disease dynamics.
 + [ProgressiveAligner.jl](https://github.com/latticetower/ProgressiveAligner.jl) :: Progressive alignment scripts for protein sequences.
