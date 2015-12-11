@@ -1,23 +1,37 @@
 For downloading various data sets, visit the [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) page.
 
-+ [DB-Distributed](#db-distributed)
++ [API](#api)
++ [Distributed Storage](#distributed-storage)
    + [SciDB](#scidb)
-+ [DB-NOSQL](#db-nosql)
++ [ENGINES](#engines}
++ [HDF](#hdf)
++ [NOSQL](#nosql)
    + [LMDB](#lmdb)
    + [MongoDB](#mongodb) 
    + [Redis](#redis)
-+ [DB-RDBMS](#db-rdbms)
++ [RDBMS](#rdbms)
    + [MySQL](#mysql)
    + [PostgreSQL](#postgresql)
    + [SQLite](#sqlite)
-+ [DB-ENGINES](#database-engines}
-+ [DB-API](#db-api)
 + [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
 ====
 
-# DB-[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)
+# API
+**Middleware API's**
++ [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
++ [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
++ [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
++ [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
++ [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
+   + __RESOURCES__
+   + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
++ [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
+
+----
+
+# [Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores) Storage
 + [Accumulo.jl](https://github.com/JuliaDB/Accumulo.jl) :: Apache Accumulo client. 
 
 ## SciDB 
@@ -27,7 +41,17 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 ----
 
-# DB-NOSQL
+# ENGINES
++ [kyotocabinet.jl](https://github.com/tuzzeg/kyotocabinet.jl) :: Implementation of Kyoto Cabinet in Julia language.
+
+----
+
+# HDF
++ [EasyData.jl](https://github.com/ma-laforge/EasyData.jl) :: Simple/Fast(+HDF5) solution to writing datasets & plots to file.
+
+----
+
+# NOSQL
 
 ## LMDB
 + [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
@@ -45,7 +69,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
  
 ----
 
-# DB-RDBMS
+# RDBMS
 ## MySQL
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 + [MySQL.jl](https://github.com/JuliaComputing/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
@@ -58,24 +82,6 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ## SQLite
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 + [Sqlite3.jl](https://github.com/PeetV/Sqlite3.jl) :: A wrapper for the SQLite3 C API, to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
-
-----
-
-# DATABASE ENGINES
-+ [kyotocabinet.jl](https://github.com/tuzzeg/kyotocabinet.jl) :: Implementation of Kyoto Cabinet in Julia language.
-
-----
-
-# DB-API
-**Middleware API's**
-+ [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
-+ [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
-+ [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
-+ [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
-+ [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
-   + __RESOURCES__
-   + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
-+ [ViewDBI.jl](https://github.com/kmsquire/ViewDBI.jl) :: View-based DBI for Julia.
 
 ----
 
