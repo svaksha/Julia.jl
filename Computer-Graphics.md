@@ -88,6 +88,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 + [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) :: This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 + [GainPatternsTex.jl](https://github.com/dressel/GainPatternsTex.jl) :: Plotting gain patterns.
++ [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) :: Publication-quality plotting for julia using Grace/xmgrace. 
 + [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
 + [echarts](https://github.com/ecomfe/echarts)
 + [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
