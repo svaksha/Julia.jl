@@ -26,7 +26,8 @@
 + [Hydna.jl](https://github.com/jfd/Hydna.jl) :: Hydna Julia Client Library implements support for the Hydna Push API.
 + [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
 + [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) :: An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
-+ [Plotlyjs.jl](https://github.com/spencerlyon2/Plotlyjs.jl) :: Julia wrapper API for `plotly.js`. 
++ [Plotlyjs.jl](https://github.com/spencerlyon2/Plotlyjs.jl) :: Julia wrapper API for `plotly.js` by @spencerlyon2. 
++ [PlotlyJS.jl](https://github.com/EricForgy/PlotlyJS.jl) :: A Julia wrapper API for `plotly.js`by @EricForgy.
 + [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
 + [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
 + [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
