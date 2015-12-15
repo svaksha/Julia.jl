@@ -38,6 +38,7 @@
 
 # CONTINUOUS INTEGRATION
 + Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
++ [TestDocs.jl](https://github.com/simonbyrne/TestDocs.jl) :: A test package to try to automatically build docs on travis.
 
 ## Org-[Julia-CI](https://github.com/julia-ci)
 + [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
