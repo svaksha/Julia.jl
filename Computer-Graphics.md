@@ -84,7 +84,7 @@
 
 # INFOGRAPHICS
 __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
-
++ [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) :: Fast animated (and static) plots for Julia.
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation. 
 + [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms. 
 + [CData.jl](https://github.com/ma-laforge/CData.jl) :: C-Data Analysis/Visualization Suite.
