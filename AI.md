@@ -230,6 +230,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 
 ###### Resources
++ [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
 + A [Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
 + [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
 + [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
