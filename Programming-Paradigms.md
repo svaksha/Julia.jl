@@ -126,6 +126,7 @@
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
++ [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.
 
 ### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
