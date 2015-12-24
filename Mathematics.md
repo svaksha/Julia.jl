@@ -158,6 +158,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
 + [HyperNumbers.jl](https://github.com/goedman/HyperNumbers.jl) :: Julia implementation of HyperNumbers.
++ [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) :: Accurate summation (Yuhang Zhao's iFastSum).
 + [pdetools.jl](https://github.com/GaZ3ll3/pdetools.jl) :: Toolbox for solving PDEs.
 + [PowerSeries.jl](https://github.com/jwmerrill/PowerSeries.jl) :: Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
    * _Power Series Blog_::
