@@ -4,6 +4,7 @@
 + [BIOSTATISTICS](#bioinformatics)
 + [ECOLOGY](#ecology)
 + [GENOMICS](#genomics)
+   + [GWAS](#gwas) 
 + [Org-BioJulia](#org-biojulia)
 + [Org-JuliaBio](#org-juliabio)
 + [NEUROSCIENCE](#neuroscience)
@@ -51,6 +52,10 @@
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
+
+## GWAS
+__Genome Wide Association Study (GWAS)__
++ [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) :: A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
 ###### Resources
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
