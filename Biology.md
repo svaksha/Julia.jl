@@ -2,6 +2,7 @@
 
 + [BIOINFORMATICS](#bioinformatics)
 + [BIOSTATISTICS](#bioinformatics)
++ [ECOLOGY](#ecology)
 + [GENOMICS](#genomics)
 + [Org-BioJulia](#org-biojulia)
 + [Org-JuliaBio](#org-juliabio)
@@ -23,6 +24,11 @@
 # BIOSTATISTICS
 + [pedigree.jl](https://github.com/Rpedigree/pedigree.jl) :: Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
 + [ROC.jl](https://github.com/diegozea/ROC.jl) :: Receiver Operating Characteristic (ROC) Curve for Julia Language.
+
+----
+
+# ECOLOGY
++ [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: A Julia package that provides functionality for measuring alpha, beta and gamma diversity of supercommunities (e.g. ecosystems) and their constituent subcommunities, based on the arXiv paper 1404.6520 (q-bio.QM).
 
 ----
 
