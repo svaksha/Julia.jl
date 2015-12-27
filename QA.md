@@ -1,15 +1,21 @@
-*Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Unit testing, ...*
+*Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, ...*
 
 + [Black Box Testing](#black-box-testing)
++ [Documentation Driven Development](#documentation-driven-development)
 + [LOGGING](#logging)
 + [SANDBOX](#sandbox)
 + [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
-====
+----
 
 # [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
+
+----
+
+# [Documentation Driven Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
++ [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.
 
 ----
 
