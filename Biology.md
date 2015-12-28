@@ -29,7 +29,7 @@
 ----
 
 # ECOLOGY
-+ [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: A Julia package that provides functionality for measuring alpha, beta and gamma diversity of supercommunities (e.g. ecosystems) and their constituent subcommunities, based on the arXiv paper 1404.6520 (q-bio.QM).
++ [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
 
 ----
 
