@@ -43,9 +43,12 @@ __For development news, see the following links :__
 # CONFERENCES
 __The official Julia conference, and local meetup groups located around the world.__
 
-## [JuliaCon](https://github.com/JuliaCon)
-+ [JuliaCon 2015](http://juliacon.org/) will be held from 2015June24-28 at the MIT Stata Center in Cambridge, Massachusetts, USA. The code running it is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io). [Registration page](http://juliacon.eventbrite.com/).
-+ 2014Jun26-27, Chicago, Illinois. 
+## [JuliaCon](http://juliacon.org/)
++ __Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
++ __Date & Venue__:: TBA
++ __CFP__:: [Registration page](http://juliacon.eventbrite.com/).
++ __Diversity__:: TBD?
++ __Past JuliaCons__ : 2015June24-28@Cambridge-MA ; 2014Jun26-27@Chicago-IL. 
 
 ## [Julia User Groups](http://julia.meetup.com)
 
@@ -96,6 +99,9 @@ __The official Julia conference, and local meetup groups located around the worl
 
 **NY**
 + [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
+
+**WA**
++ [Seattle](http://www.meetup.com/Seattle-Julia-Users/) JUG.
 
 ### SouthAmerica-BRAZIL
 + [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
