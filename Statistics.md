@@ -310,6 +310,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Turing.jl](https://github.com/LaurenceA/Turing.jl) :: A Turing complete probabilistic programming language embedded in Julia.
 
 ###### RESOURCES
++ Video :: Posner Lecture - [Probabilistic Machine Learning](http://research.microsoft.com/apps/video/default.aspx?id=259579&l=i) - Foundations and Frontiers.
 + [NorvigProbability](https://github.com/getzdan/NorvigProbability) :: Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
 
 
