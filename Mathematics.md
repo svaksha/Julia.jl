@@ -4,6 +4,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CRYPTOGRAPHY](#cryptography)
    + [Cryptocurrency](#cryptocurrency)
 + [MATH](#math)
+   + [Computer Arithmetic](#computer-arithmetic)
+      + [Floating Point](#floating-point)
 + [Algebra](#algebra)
    + [Abstract Algebra](#abstract-algebra)
    + [Boolean Algebra](#boolean-algebra)
@@ -60,11 +62,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CRF.jl](https://github.com/slyrz/CRF.jl) :: Conditional Random Fields in Julia.
 + [CellularAutomata.jl](https://github.com/natj/CellularAutomata.jl) :: Cellular Automata package.
 + [ContinuedFractions.jl](https://github.com/johnmyleswhite/ContinuedFractions.jl) :: Types and functions for working with continued fractions in Julia.
-+ [DecFP.jl](https://github.com/stevengj/DecFP.jl) :: The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library. 
 + [Devectorize.jl](https://github.com/lindahua/Devectorize.jl) :: A Julia framework for delayed expression evaluation.
 + [DiffModels.jl](https://github.com/jdrugo/DiffModels.jl) : Diffusion Model simulation and first-passage time densities in Julia.
-+ [DoubDouble.jl](https://github.com/J-Sarnoff/DoubDouble.jl).
-+ [DoubleDouble.jl](https://github.com/simonbyrne/DoubleDouble.jl) :: A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
 + [Entropy.jl](https://github.com/grero/Entropy.jl) :: This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions.
 + [Equations.jl](https://github.com/jhlq/Equations.jl) :: Derive mathematical relations.
 + [ExtremeValueDistributions.jl](https://github.com/sammorris81/ExtremeValueDistributions.jl) :: A Julia package to fit extreme value distributions.
@@ -99,6 +98,21 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [UnumTests.jl](https://github.com/goedman/UnumTests.jl) :: Some experiments with Unums. {#NonCuratedPackage}
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
 
+## [Computer Arithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic)
++ [DeepConvert.jl](https://github.com/jlapeyre/DeepConvert.jl) :: This package provides convenient literal construction of values of large data types.
++ [ErrorFreeArith.jl](https://github.com/J-Sarnoff/ErrorFreeArith.jl) :: Error-Free transformations for arithmetic ops.
+
+### [Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
++ [DecFP.jl](https://github.com/stevengj/DecFP.jl) :: The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library. 
++ [DoubDouble.jl](https://github.com/J-Sarnoff/DoubDouble.jl).
++ [DoubleDouble.jl](https://github.com/simonbyrne/DoubleDouble.jl) :: A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
++ [ErrorFreeTransforms.jl](https://github.com/dsiem/ErrorFreeTransforms.jl) :: Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
++ [FlexFloat.jl](https://github.com/J-Sarnoff/FlexFloat.jl) :: Allows values to stretch in a way that preserves accuracy durring mathematical computations.
++ [Floats512.jl](https://github.com/J-Sarnoff/Floats512.jl) :: Accurate floating point math at extended precision for Float-512.
++ [Floats1024.jl](https://github.com/J-Sarnoff/Floats1024.jl) :: Accurate floating point math at extended precision for Float-1024.
++ [FloatHigher.jl](https://github.com/J-Sarnoff/FloatHigher.jl) :: accurate floating point math at extended precisions.
++ [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
+
 ###### Resources
 + [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
 
@@ -111,11 +125,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Clockwork.jl](https://github.com/malmaud/Clockwork.jl) :: Represent modular arithmetic via clock symbols. 
 + [Cuhre.jl](https://github.com/tflovorn/Cuhre.jl) :: Simplified Julia interface to Cuhre integration routine.
 + [Digits.jl](https://github.com/greenflash1357/Digits.jl) :: A module for integer digit manipulation.
-+ [DeepConvert.jl](https://github.com/jlapeyre/DeepConvert.jl) :: This package provides convenient literal construction of values of large data types.
-+ [ErrorFreeArith.jl](https://github.com/J-Sarnoff/ErrorFreeArith.jl) :: Error-Free transformations for arithmetic ops.
-+ [ErrorFreeTransforms.jl](https://github.com/dsiem/ErrorFreeTransforms.jl) :: Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
-+ [FlexFloat.jl](https://github.com/J-Sarnoff/FlexFloat.jl) :: Allows values to stretch in a way that preserves accuracy durring mathematical computations.
-+ [FloatHigher.jl](https://github.com/J-Sarnoff/FloatHigher.jl) :: accurate floating point math at extended precisions.
 + [Hecke](https://github.com/thofma/hecke) :: A package for algebraic number theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Juniper.jl](https://github.com/jcrist/Juniper.jl) :: A simple computer algebra system.
 + [Lifts.jl](https://github.com/scheinerman/Lifts.jl) :: Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation. 
@@ -357,7 +366,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
-+ [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
 + [VML.jl](https://github.com/simonster/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
