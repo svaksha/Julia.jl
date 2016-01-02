@@ -129,6 +129,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
 ### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
++ [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and c functions.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
