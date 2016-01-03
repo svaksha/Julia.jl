@@ -11,7 +11,7 @@
 + [Robots](#robots)
 + [TouchScreen](#touchscreen)
 
-====
+----
 
 # API
 + [Alazar.jl](https://github.com/ajkeller34/Alazar.jl) :: API wrapper for Julia, bare bones.
