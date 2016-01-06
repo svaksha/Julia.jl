@@ -110,6 +110,7 @@ __Useful learning resources and all other random resources that does not have it
 + [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 + [A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - scroll down to the Julia section.
 + [List of free online programming and CS courses](https://github.com/fffaraz/free-programming-courses).
++ [LectureNotes](https://github.com/UWSEDS/LectureNotes) :: Lecture content for UW Software Engineering for Data Scientists.
 
 ----
 
