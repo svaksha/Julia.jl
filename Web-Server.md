@@ -50,7 +50,8 @@ Networking, web security, frameworks and other Web related things go here!
 + [IPNets.jl](https://github.com/sbromberger/IPNets.jl) :: IPv4 / IPv6 network abstractions for Julia. 
 + [Juliaflow](https://github.com/pchronz/juliaflow) :: A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
 + [LogParser.jl](https://github.com/randyzwitch/LogParser.jl) :: A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
-+ [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) :: Libpcap implementation for Julia language.
++ [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamma :: Libpcap implementation for Julia language.
++ [Pcap.jl](https://github.com/r2dbg/Pcap.jl) by @r2dbg :: Libpcap implementation for Julia language.
 + [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
 + [TimeZones.jl](https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language.
 + [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
