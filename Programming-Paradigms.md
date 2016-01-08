@@ -107,6 +107,7 @@
 + [FileIO2.jl](https://github.com/ma-laforge/FileIO2.jl) :: File Object Type Hierarchy.
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
 + [Parameters.jl](https://github.com/mauro3/Parameters.jl) :: Types with default field values, keyword constructors and (un-)pack macros.
++ [StringInterpolation.jl](https://github.com/EricForgy/StringInterpolation.jl) :: String interpolation for non-standard string literals.
 + [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
 + [Traits.jl](https://github.com/mauro3/Traits.jl) :: Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
 + [TupleTypes.jl](https://github.com/mbauman/TupleTypes.jl) :: A testbed for an API to access Tuple parameters.
