@@ -77,7 +77,8 @@
 + [TradingLogic.jl](https://github.com/JuliaQuant/TradingLogic.jl) :: An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
 
 
-###### Learning Resources
+###### Resources
++ [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications) :: A repository that houses example code, applications and teaching material related to QuantEcon.
 + [Self-Study Plan for Becoming a Quantitative Developer](http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 + Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo.
 
