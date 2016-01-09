@@ -2,7 +2,6 @@ Networking, web security, frameworks and other Web related things go here!
 
 + [FRAMEWORKS](#frameworks)
    * [RoR](#ror)
-+ [JAVASCRIPT](#javascript)
 + [Middleware](#middleware)
 + [NETWORKING](#networking)
 + [SECURITY](#security)
@@ -26,14 +25,6 @@ Networking, web security, frameworks and other Web related things go here!
 
 ### Org-[OpenFisca](https://github.com/openfisca/)
 + [OpenFiscaWebApi.jl](https://github.com/openfisca/OpenFiscaWebApi.jl) :: A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
-
-----
-
-# JAVASCRIPT
-+ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
-+ [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
-+ [jlbox](https://github.com/compressed/jlbox) :: Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket. 
-+ [ijulia_d3_tutorial](https://github.com/cgroll/ijulia_d3_tutorial) :: A step by step guide to d3.js chart usage in ijulia notebooks.
 
 ----
 
