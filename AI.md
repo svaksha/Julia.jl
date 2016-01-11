@@ -283,6 +283,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors. 
 + [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
 + [Levenshtein.jl](https://github.com/rawrgrr/Levenshtein.jl) :: Levenshtein distance between two strings.
++ [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
 + [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
 + [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
