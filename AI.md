@@ -191,7 +191,11 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection. 
-+ [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
++ [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine 
+Learning for Julia. 
++ [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: 
+Utility functions for the FunctionalData package, mainly from the area of 
+computer vision / machine learning.
 + [GURLS.jl](https://github.com/joehuchette/GURLS.jl) :: A pure Julia port of the GURLS supervised learning library.
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 + [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: Discrete and continuous Hopfield networks in Julia.
