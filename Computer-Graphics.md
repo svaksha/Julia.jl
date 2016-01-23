@@ -1,12 +1,12 @@
 **Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
-* [GRAPHICS](#graphics) 
+* [GRAPHICS](#graphics)
    * [Games](#games)
 * [INFOGRAPHICS](#infographics)
    * [Non-Graphical Plotting](#non-graphical-plotting)
    * [Graphical Plotting](#graphical-plotting)
 * [Org-JuliaGL](#org-juliagl)
-* [Org-JuliaGraphics](#org-juliagraphics) 
+* [Org-JuliaGraphics](#org-juliagraphics)
 * [Org-JuliaGeometry](#juliageometry)
 * [Org-JuliaIO](#org-juliaio)
 * [Org-JuliaLang](#org-julialang)
@@ -14,7 +14,7 @@
 
 ----
 
-# GRAPHICS 
+# GRAPHICS
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 + [Blending.jl](https://github.com/dejakaymac/Blending.jl).
@@ -24,7 +24,7 @@
 + [Contour.jl](https://github.com/tlycken/Contour.jl) :: Calculating contour curves for 2D scalar fields in Julia.
 + [Curvelet.jl](https://github.com/fundamental/Curvelet.jl) :: Implementation of the Uniform Discrete Curvelet Transform (UDCT).
 + [DevIL.jl](https://github.com/aaalexandrov/DevIL.jl) :: OpenIL binding for [DevIL](https://github.com/DentonW/DevIL).
-+ [Draw.jl](https://github.com/andrewcooke/Draw.jl) :: A library for drawing (diagrams, lines, shapes). 
++ [Draw.jl](https://github.com/andrewcooke/Draw.jl) :: A library for drawing (diagrams, lines, shapes).
 + [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 + [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
 + [GLGraphics.jl](https://github.com/SimonDanisch/GLGraphics.jl) :: Advanced 3D and 2D graphics for Julia.
@@ -43,7 +43,7 @@
 + [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) ::  Package to calculate Leaf Area Index from Hemisperical Images.
 + [LineExtraction.jl](https://github.com/remusao/LineExtraction.jl) :: Line extraction from an image (using Markovian model and energy minimization).
-+ [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package. 
++ [Luxor.jl](https://github.com/cormullion/Luxor.jl) :: an easy-to-use sugary coating in Julia for the Cairo graphics package.
 + [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
 + [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 + [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
@@ -54,7 +54,7 @@
 + [Romeo.jl](https://github.com/SimonDanisch/Romeo.jl) :: 3D visualizations and editing in Julia + OpenGL.
    + A fork maintained for the current Julia-0.4 (master) by @AlainLich : https://github.com/AlainLich/Romeo.jl
 + [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) :: An adaptation of the librsvg to render SVG to Cairo surfaces.
-+ [SignedDistanceFields.jl](https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation. 
++ [SignedDistanceFields.jl](https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation.
 + [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
 + [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
 + [ShaderToy.jl](https://github.com/SimonDanisch/ShaderToy.jl) :: Shade objects in Julia, created with GLVisualize.jl + OpenGL.
@@ -63,19 +63,19 @@
 + [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
 + [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) :: Statistical shape models / point distribution models.
 + [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
-+ [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl) :: Julia interface to WebGL using Three-js custom elements and Patchwork.jl. 
++ [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl) :: Julia interface to WebGL using Three-js custom elements and Patchwork.jl.
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
 
 ## Games
-+ [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface. 
++ [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
 + [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) :: Models/algorithms for use with the Arcade Learning Environment (ALE).
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
-+ [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) :: Julia WaveToy. 
-+ [zyedidia/SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML. 
++ [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) :: Julia WaveToy.
++ [zyedidia/SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 
 ###### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
@@ -86,14 +86,14 @@
 # INFOGRAPHICS
 __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) :: Fast animated (and static) plots for Julia.
-+ [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation. 
-+ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms. 
++ [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
++ [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms.
 + [CData.jl](https://github.com/ma-laforge/CData.jl) :: C-Data Analysis/Visualization Suite.
 + [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl.
 + [Displaz.jl](https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl) :: is julia bindings for "[displaz](http://c42f.github.io/displaz)", a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 + [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) :: This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 + [GainPatternsTex.jl](https://github.com/dressel/GainPatternsTex.jl) :: Plotting gain patterns.
-+ [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) :: Publication-quality plotting for julia using Grace/xmgrace. 
++ [GracePlot.jl](https://github.com/ma-laforge/GracePlot.jl) :: Publication-quality plotting for julia using Grace/xmgrace.
 + [ECharts.jl](https://github.com/wlbksy/ECharts.jl)
 + [echarts](https://github.com/ecomfe/echarts)
 + [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
@@ -125,14 +125,14 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
    * [Gadfly Reference Cards](https://github.com/john9631/JuliaDocs) and rendering to an [SVG file using the D3 browser interface](https://github.com/dcjones/Gadfly.jl#using-the-d3-backend).
 + [Gaston.jl](https://github.com/mbaz/Gaston.jl) :: A julia front-end for gnuplot.
 + [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
-+ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: The Julia interface to Google Chart Tools. 
++ [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: The Julia interface to Google Chart Tools.
 + [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
 + [PLplot.jl](https://github.com/wildart/PLplot.jl) :: A cross-platform software package for creating scientific plots.
-+ [Plotly.jl](https://github.com/plotly/Plotly.jl) :: A Julia wrapper for the plot.ly REST API. 
++ [Plotly.jl](https://github.com/plotly/Plotly.jl) :: A Julia wrapper for the plot.ly REST API.
     + The [plot.ly](https://plot.ly/api/julia/) Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
 + [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.
-+ [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: A Julia package for plotting that uses ctioga2 as a backend. 
++ [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: A Julia package for plotting that uses ctioga2 as a backend.
 + [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
 + [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
 + [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
@@ -161,7 +161,7 @@ __Julia packages for the OpenGL API ecosystem.__
 
 ----
 
-# Org-[JuliaGraphics](https://www.github.com/JuliaGraphics) 
+# Org-[JuliaGraphics](https://www.github.com/JuliaGraphics)
 __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWindow.jl, GLFW.jl, Processing.jl, SDL.jl, etc..__
 + [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) will replace [Color.jl](https://github.com/JuliaLang/Color.jl) from ver-0.4 onwards.
 + [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
@@ -172,12 +172,12 @@ __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWin
 
 # Org-[JuliaGeometry](https://github.com/JuliaGeometry)
 Computational Geometry with Julia. [Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
-+ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation. 
++ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
 + [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
 + [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
 + [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
 + [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional "bounding boxes", a.k.a "orthotopes", which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
-+ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper. 
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper.
 + [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
 + [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
 + [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
@@ -185,11 +185,9 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 ----
 
 # Org-[JuliaIO](https://github.com/JuliaIO)
-+ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: Main Package for IO, loading all different kind of files.
-+ [ImageIO.jl](https://github.com/JuliaIO/ImageIO.jl)
 + [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
-+ [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes. 
-+ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO. 
++ [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes.
++ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO.
 + [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
 
 ----
@@ -204,4 +202,3 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 + [Smile.jl](https://github.com/sisl/Smile.jl) :: A Julia wrapper for the Smile C++ Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks .
 + [TikzGraphs.jl](https://github.com/sisl/TikzGraphs.jl) :: Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
 + [TikzPictures.jl](https://github.com/sisl/TikzPictures.jl) :: Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
-
