@@ -8,6 +8,7 @@
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions
 + [StrPack.jl](https://github.com/pao/StrPack.jl) :: for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 
+----
 
 # Data Formats
 **Libraries for Data serialization and File formats.**
@@ -51,6 +52,8 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
+
+----
 
 # Image formats
 + [ImageMagick.jl](https://github.com/JuliaIO/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading

@@ -101,6 +101,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 ----
 
 # [CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29)
++ [Actors.jl](https://github.com/daqcore/Actors.jl) :: An Actor Model implementation in Julia. 
 
 ## [Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing)
 **Cloud/ Cluster**
