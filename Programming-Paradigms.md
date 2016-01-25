@@ -79,9 +79,10 @@
 
 # Programming Paradigms
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
-+ [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
++ [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
 + [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
++ [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
 ### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
 + [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and c functions.
