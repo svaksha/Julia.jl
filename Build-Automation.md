@@ -67,16 +67,17 @@ __Pre-compiled Binaries__
 + Build an executable binary with [this script](https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl)
 
 ### Package/Infrastructure management tools and Documentation
-- Official [Julia Package list](http://pkg.julialang.org/).
-- [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
-- [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
++ Official [Julia Package list](http://pkg.julialang.org/).
++ [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
++ [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
    - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
++ [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
 
 ##### DOCS
-- Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-- The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
++ Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
++ The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
       - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
 
