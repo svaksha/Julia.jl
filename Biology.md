@@ -34,6 +34,7 @@
 ----
 
 # GENOMICS
++ [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
 + [BismarkSummary.jl](https://github.com/nw11/BismarkSummary.jl) :: Basic summary of multiple Bismark runs. 
 + [COSMIC.jl](https://github.com/haploxer/COSMIC.jl) :: Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
 + [Ensemble.jl](https://github.com/farr/Ensemble.jl) :: Ensemble Samplers for Julia.
