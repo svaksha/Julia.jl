@@ -3,8 +3,8 @@ List of communities, development links, JSoC, events, (un)conferences, forums/ m
 + [COMMUNITY](#community)
 + [CONFERENCES](#conferences)
    + [JuliaCon](#juliacon)
-   + [Julia User Groups](#julia-user-groups)
 + [JSoC](#jsoc)
++ [Julia User Groups](#julia-user-groups)
 + [NEWS](#news)
    + [Blogs](#blogs)
    + [Media](#media)
@@ -41,7 +41,7 @@ __For development news, see the following links :__
 ----
 
 # CONFERENCES
-__The official Julia conference, and local meetup groups located around the world.__
+__The official Julia conference.__
 
 ## [JuliaCon](http://juliacon.org/)
 + __Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
@@ -50,71 +50,90 @@ __The official Julia conference, and local meetup groups located around the worl
 + __Diversity__:: TBD?
 + __Past JuliaCons__ : 2015June24-28@Cambridge-MA ; 2014Jun26-27@Chicago-IL. 
 
-## [Julia User Groups](http://julia.meetup.com)
+----
 
-### Asia-INDIA
+# JSoC
++ __Program__:: Julia Summer of Code (JSoC) will run from 2015Jun15-Sep15 and the projects will be similar in scope and nature to that of GSoC. It is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send an email to juliasoc@googlegroups.com for feedback and approval. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0) and the [blog post](http://julialang.org/blog/2015/05/jsoc-cfp/).
++ __FinAid__:: Compensation is similar to GSoC - USD5500.00
++ __Deadline__:: 2015Jun01.
+
+----
+
+# [Julia User Groups](http://julia.meetup.com)
+__Local meetup groups located in the various continents around the world.__
+
+## Asia- CHINA
++ [Beijing](http://www.meetup.com/juliacn/) Julia Programming Language Meetup.
+
+## Asia-INDIA
+#### KA
 + [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
 
-### Asia-JAPAN 
+## Asia-JAPAN 
 + [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
 
-### Asia-SINGAPORE
+## Asia-SINGAPORE
 + 2015June05 :: Tutorial on High Performance Cloud Computing Technologies: Julia & OpenTuner, Alan Edelman, Saman P. Amarasinghe, and Jiahao Chen. [Register here](https://www.eventbrite.com/e/tutorial-on-high-performance-cloud-computing-technologies-julia-opentuner-tickets-4866645267)
 
-### [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
-+ [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
-
-### Europe-AUSTRIA
+## Europe-AUSTRIA
 + [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
    + [Talks and code for the Vienna Julia Meetups](https://github.com/rened/ViennaJuliaMeetup).
 
-### Europe-SWITZERLAND
+## Europe-GERMANY
+#### [Baden-Württemberg]https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).
++ [Tübingen Julia Users](http://www.meetup.com/Julia-Users-Germany/) group.
+
+## Europe-IRELAND
++ [Dublin Julia Programming Language Meetup](http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/).
+
+## Europe-SWITZERLAND
 + [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
-### Europe-UK
+## Europe-UK
 + [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
 
-### NorthAmerica-CANADA
+## NorthAmerica-CANADA
 + [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
 + [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
 
-### NorthAmerica-MEXICO
+## NorthAmerica-MEXICO
 + [México City](http://www.meetup.com/julialang-mx/), Mexico.
 
-### NorthAmerica-USA
-**CA**
+
+## NorthAmerica-USA
+#### CA
 + [Bay Area](http://www.meetup.com/Bay-Area-Julia-Users/) Julia Users Group.
 + [Southern California](http://www.meetup.com/Southern-California-Julia-Users/) JUG.
 
-**GA**
+#### GA
 + [Atlanta](http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group.
 
-**IL**
+#### IL
 + [Chicago](http://www.meetup.com/JuliaChicago/) Julia Meetup group.
 
-**MA**
+#### MA
 + [Cambridge Area Julia Users Network (C.A.J.U.N.)](http://www.meetup.com/julia-cajun/)
 
-**NC**
+#### NC
 + [Triangle Julia Users](http://www.meetup.com/Triangle-Julia-Users/), Raleigh.
 
-**NY**
+#### NY
 + [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
 
-**WA**
+#### WA
 + [Seattle](http://www.meetup.com/Seattle-Julia-Users/) JUG.
 
-### SouthAmerica-BRAZIL
+
+## [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
++ [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
+
+## SouthAmerica-BRAZIL
 + [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
 + [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
 + [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
 
-----
-
-### JSoC
-+ __Program__:: Julia Summer of Code (JSoC) will run from 2015Jun15-Sep15 and the projects will be similar in scope and nature to that of GSoC. It is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send an email to juliasoc@googlegroups.com for feedback and approval. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0) and the [blog post](http://julialang.org/blog/2015/05/jsoc-cfp/).
-+ __FinAid__:: Compensation is similar to GSoC - USD5500.00
-+ __Deadline__:: 2015Jun01.
+## SouthAmerica-MEXICO
++ [JuliaLangEs](http://www.meetup.com/julialanges-mx/) - México, D.F.
 
 ----
 
