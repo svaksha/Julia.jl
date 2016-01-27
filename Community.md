@@ -97,6 +97,7 @@ __Local meetup groups located in the various continents around the world.__
 + [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
 
 ## NorthAmerica-MEXICO
++ [JuliaLangEs](http://www.meetup.com/julialanges-mx/) - México, D.F.
 + [México City](http://www.meetup.com/julialang-mx/), Mexico.
 
 
@@ -131,9 +132,6 @@ __Local meetup groups located in the various continents around the world.__
 + [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
 + [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
 + [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
-
-## SouthAmerica-MEXICO
-+ [JuliaLangEs](http://www.meetup.com/julialanges-mx/) - México, D.F.
 
 ----
 
