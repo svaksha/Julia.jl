@@ -38,7 +38,6 @@
 
 # CONTINUOUS INTEGRATION
 + Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
-+ [LogMover.jl](https://github.com/nkottary/LogMover.jl)
 + [TestDocs.jl](https://github.com/simonbyrne/TestDocs.jl) :: A test package to try to automatically build docs on travis.
 
 ## Org-[Julia-CI](https://github.com/julia-ci)
