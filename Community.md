@@ -66,6 +66,7 @@ __The official Julia conference, and local meetup groups located around the worl
 
 ### Europe-AUSTRIA
 + [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
+   + [Talks and code for the Vienna Julia Meetups](https://github.com/rened/ViennaJuliaMeetup).
 
 ### Europe-SWITZERLAND
 + [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
