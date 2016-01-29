@@ -68,6 +68,7 @@
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
++ [VisualRegressionTests.jl](https://github.com/tbreloff/VisualRegressionTests.jl) :: Automated integrated regression tests for graphics libraries.
 
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
@@ -78,7 +79,7 @@
 + [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) :: Julia WaveToy.
 + [zyedidia/SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 
-###### Resources
+##### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 + [Videre](https://github.com/Gnimuc/Videre) :: OpenGL examples written in Julia.
 
