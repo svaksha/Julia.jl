@@ -3,7 +3,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [API](#api)
 + [Distributed Storage](#distributed-storage)
    + [SciDB](#scidb)
-+ [ENGINES](#engines}
++ [ENGINES](#engines)
 + [HDF](#hdf)
 + [NOSQL](#nosql)
    + [LMDB](#lmdb)
@@ -13,7 +13,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
    + [MySQL](#mysql)
    + [PostgreSQL](#postgresql)
    + [SQLite](#sqlite)
-+ [Org-JuliaDB](#org-juliadb)
+   + [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
 ====
@@ -76,18 +76,16 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
 
 ## PostgreSQL
-+ [PostgreSQL.jl](https://github.com/iamed2/PostgreSQL.jl) :: PostgreSQL API.
++ [PostgreSQL.jl](https://github.com/JuliaDB/PostgreSQL.jl) :: PostgreSQL API.
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
 
 ## SQLite
++ [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 + [Sqlite3.jl](https://github.com/PeetV/Sqlite3.jl) :: A wrapper for the SQLite3 C API, to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
-----
-
-# Org-[JuliaDB](https://github.com/JuliaDB)
+## Org-[JuliaDB](https://github.com/JuliaDB)
 + [DBPerf.jl](https://github.com/JuliaDB/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
-+ [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
 + [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
 
 ----
