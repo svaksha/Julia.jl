@@ -123,6 +123,7 @@
 
 # UTILS
 + [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
++ [Graze.jl](https://github.com/iamed2/Graze.jl) :: A feed reader. 
 + [Humanize.jl](https://github.com/IainNZ/Humanize.jl) :: Humanize numbers, based on the Python package "[humanize](https://github.com/jmoiron/humanize)" by @jmoiron.
 + [Osmosis.jl](https://github.com/SimonDanisch/Osmosis.jl) :: Chat client for Julia. 
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
