@@ -283,7 +283,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation in Julia.
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
-+ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 + [DPL.jl](https://github.com/quxiaofeng/DPL.jl) :: Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors. 
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
@@ -292,8 +291,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors. 
 + [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
 + [Levenshtein.jl](https://github.com/rawrgrr/Levenshtein.jl) :: Levenshtein distance between two strings.
-+ [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
-+ [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
 + [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
 + [NGram.jl](https://github.com/remusao/NGram.jl) :: Implement the NGram model.

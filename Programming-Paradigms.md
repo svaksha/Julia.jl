@@ -95,6 +95,9 @@ __Packages and resources that support various programming styles, Software Archi
 + [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
 + [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
 + [Lazy.jl](https://github.com/one-more-minute/Lazy.jl) :: Functional programming for Julia.
++ [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
++ [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
++ [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
 + [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 + [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
