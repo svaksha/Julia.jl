@@ -327,6 +327,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Bolstad2.jl](https://github.com/goedman/Bolstad2.jl) :: Julia functions from W.M. Bolstad's "Understanding Computational Bayesian Statistics".
 + [IdealPoints.jl](https://github.com/johnmyleswhite/IdealPoints.jl) :: Basic model fitting for N-d ideal points. {Tag: unofficial Non-etadata package}.
 + [MCBN.jl](https://github.com/binarybana/MCBN.jl) :: Monte Carlo Bayesian averaging over Bayesian networks.
++ [MiniNest.jl](https://github.com/iamed2/MiniNest.jl) :: Julia implementation of nested sampling examples.
 + [NestedSampling.jl](https://github.com/kbarbary/NestedSampling.jl) :: Nested Sampling algorithms for Julia.
 + [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia. 
 + [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.

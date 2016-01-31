@@ -7,6 +7,7 @@
    + [Scheduling Algorithm](#scheduling-algorithm)
    + [Quantum](#quantum)
    + [Pattern Matching](#pattern-matching)
+   + [Sorting](#sorting)
    + [Time](#time)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
    + [NP-complete](#np-complete)
@@ -62,7 +63,7 @@
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
 ### Sorting
-+ [WikiSort.jl](https://github.com/iamed2/WikiSort.jl) :: An implementation of the WikiSort algorithm in Julia.
+
 
 ### Time
 + [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) :: A fast, nearly linear time algorithm for detecting communtiy structure in networks.
@@ -155,6 +156,7 @@
 + [SparseGrids.jl](https://github.com/Zac12345/SparseGrids.jl).
 + [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
++ [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) :: Binary tree where the nodes contain the sum of the left and right children.
 + [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
 + [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.

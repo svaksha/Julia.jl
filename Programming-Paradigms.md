@@ -30,6 +30,7 @@
 + [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
 + [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) :: Types for continuous variables or parameters.
 + [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
++ [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) :: Wrap any Julia composite type in an Associative interface.
 + [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) :: Expression parser that simulates type inheritance.
 + [EMLTranslator.jl](https://github.com/DANA-Laboratory/EMLTranslator.jl) :: Adds Inheritance to julia composite type.
 + [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
