@@ -73,6 +73,7 @@ __Pre-compiled Binaries__
    - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
    - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
++ [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
 + [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
 
 ##### DOCS
