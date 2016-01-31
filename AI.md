@@ -61,6 +61,9 @@
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
+### Sorting
++ [WikiSort.jl](https://github.com/iamed2/WikiSort.jl) :: An implementation of the WikiSort algorithm in Julia.
+
 ### Time
 + [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) :: A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 
