@@ -13,7 +13,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
    + [MySQL](#mysql)
    + [PostgreSQL](#postgresql)
    + [SQLite](#sqlite)
-   + [Org-JuliaDB](#org-juliadb)
++ [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
 ====
@@ -72,21 +72,25 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 # RDBMS
 ## MySQL
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
-+ [MySQL.jl](https://github.com/JuliaComputing/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
 + [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
 
 ## PostgreSQL
-+ [PostgreSQL.jl](https://github.com/JuliaDB/PostgreSQL.jl) :: PostgreSQL API.
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
 
 ## SQLite
-+ [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 + [Sqlite3.jl](https://github.com/PeetV/Sqlite3.jl) :: A wrapper for the SQLite3 C API, to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
-## Org-[JuliaDB](https://github.com/JuliaDB)
+----
+
+# Org-[JuliaDB](https://github.com/JuliaDB)
++ [DataStreams.jl](https://github.com/JuliaDB/DataStreams.jl) :: A Julia package to stream data.
++ [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
 + [DBPerf.jl](https://github.com/JuliaDB/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
++ [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
 + [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
++ [MySQL.jl](https://github.com/JuliaDB/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
++ [PostgreSQL.jl](https://github.com/JuliaDB/PostgreSQL.jl) :: PostgreSQL API.
 
 ----
 
