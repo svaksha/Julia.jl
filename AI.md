@@ -22,7 +22,7 @@
 + [NLP](#nlp)
    + [Japanese](#japanese)
 + [SPEECH RECOGNITION](#speech-recognition)
-       
+
 ----
 
 # ALGORITHMS
@@ -202,6 +202,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [KaggleDigitRecognizer.jl](https://github.com/benhamner/KaggleDigitRecognizer.jl) :: Julia code for Kaggle's Digit Recognizer competition.
 + [KDTrees.jl](https://github.com/KristofferC/KDTrees.jl) :: KD Trees.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning.
++ [Knet.jl](https://github.com/denizyuret/Knet.jl) :: A machine learning module implemented in Julia.
 + [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
 + [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: Kernel Support Vector Machine (SVM) written in Julia. 
 + [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: Support Vector Machines in pure Julia.
