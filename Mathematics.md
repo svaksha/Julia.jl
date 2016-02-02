@@ -94,7 +94,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [TwoBasedIndexing.jl](https://github.com/simonster/TwoBasedIndexing.jl) :: Two-based indexing.
 + [Uncertain.jl](https://github.com/rephorm/Uncertain.jl) :: Uncertain quantities and error propagation for the Julia language.
 + [univariate__opt.jl](https://github.com/matthewclegg/univariate_opt.jl) :: Univariate optimization and root-finding code for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
-+ [Unums.jl](https://github.com/tbreloff/Unums.jl) :: Unum (Universal Number) types and operations.
++ [Unums.jl](https://github.com/tbreloff/Unums.jl) :: Unum (Universal Number) types and operations.  {Usable: 1, Robust: 1, Active: 1}
 + [UnumTests.jl](https://github.com/goedman/UnumTests.jl) :: Some experiments with Unums. {#NonCuratedPackage}
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
 
