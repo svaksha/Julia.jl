@@ -68,11 +68,11 @@
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
-+ [VisualRegressionTests.jl](https://github.com/tbreloff/VisualRegressionTests.jl) :: Automated integrated regression tests for graphics libraries.
++ [VisualRegressionTests.jl](https://github.com/tbreloff/VisualRegressionTests.jl) :: Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}
 
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
-+ [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) :: Models/algorithms for use with the Arcade Learning Environment (ALE).
++ [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) :: Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
@@ -110,7 +110,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 + [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
 + [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
-+ [Plots.jl](https://github.com/tbreloff/Plots.jl) :: An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands.
++ [Plots.jl](https://github.com/tbreloff/Plots.jl) :: An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands. {Usable: 5, Robust: 4, Active: 5}
 + [RasterIO.jl](https://github.com/wkearn/RasterIO.jl) :: Simple Raster Formats for Julia.
 + [VennDiagrams.jl](https://github.com/binarybana/VennDiagrams.jl) :: Generate Venn diagrams in Julia using Compose.jl.
 + [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
@@ -133,7 +133,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [Plotly.jl](https://github.com/plotly/Plotly.jl) :: A Julia wrapper for the plot.ly REST API.
     + The [plot.ly](https://plot.ly/api/julia/) Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
-+ [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.
++ [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.  {Usable: 4, Robust: 3, Active: 1}
 + [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: A Julia package for plotting that uses ctioga2 as a backend.
 + [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
 + [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
