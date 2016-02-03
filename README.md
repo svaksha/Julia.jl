@@ -7,7 +7,7 @@
    + [Mirrors](#mirrors)
 + [CONTRIBUTE](#contribute)
    + [Guidelines](#guidelines)
-   + [Tags](#tags)
+   + [Status](#status)
    + [BugReport-PullRequest](#bugreport-pullrequest)
 
 ----
@@ -68,15 +68,17 @@ The Julia community has [ethical guidelines](http://julialang.org/community/stan
    + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
 
 
-## Tags
-These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a discussion on adding metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages under various stages of development. Currently, METADATA has a tag system but not all package authors use it, so lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
+## Status
+These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a discussion on adding metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
 
-On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for: 
+Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
 
-+ Usability : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
-+ Quality : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
-+ Activity : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author?, say, An experimental "throw-away toy repo" that is now abandoned.
-+ License : Which software license do you use? If you dont have a license, please state `None`. 
+On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
+
++ `Usability` : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
++ `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
++ `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author?, say, An experimental "throw-away toy repo" that is now abandoned.
++ `License` : Which software license do you use? If you dont have a license, please state `None`. 
 
 ## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
