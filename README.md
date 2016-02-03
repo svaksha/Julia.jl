@@ -7,6 +7,7 @@
    + [Mirrors](#mirrors)
 + [CONTRIBUTE](#contribute)
    + [Guidelines](#guidelines)
+   + [Tags](#tags)
    + [BugReport-PullRequest](#bugreport-pullrequest)
 
 ----
@@ -30,8 +31,8 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware and other API libraries.
 + [HPC.md](https://github.com/svaksha/Julia.jl/blob/master/HPC.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
-+ [IO.md](IO.md) : Input/Output functionality and support for file formats
-+ [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
++ [IO.md](IO.md) :: Input/Output functionality and support for file formats.
++ [Mathematics.md](Mathematics.md):: Algebra, Geometry,... anything Math related.
 + [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData, Free Data Sets.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
@@ -65,6 +66,17 @@ The Julia community has [ethical guidelines](http://julialang.org/community/stan
 + References :
    + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
    + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+
+
+## Tags
+These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a discussion on adding metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages under various stages of development. Currently, METADATA has a tag system but not all package authors use it, so lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
+
+On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for: 
+
++ Usability : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
++ Quality : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
++ Activity : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author?, say, An experimental "throw-away toy repo" that is now abandoned.
++ License : Which software license do you use? If you dont have a license, please state `None`. 
 
 ## BugReport-PullRequest
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files.
