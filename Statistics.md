@@ -347,6 +347,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 ## [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Method
 + [Augur.jl](https://github.com/AugurProject/Augur.jl) :: Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm.
 + [Church.jl](https://github.com/LaurenceA/Church.jl) :: Perform MCMC inference in complex, and simple, probabilistic models.
++ [ClusterUtils.jl](https://github.com/pearcemc/ClusterUtils.jl) :: Message passing, control and display utilities for parallel and distributed computing.
 + [GeometricMCMC.jl](https://github.com/scidom/GeometricMCMC.jl) :: Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines.
 + [MCMC2.jl](https://github.com/johnmyleswhite/MCMC2.jl) :: Alternative MCMC package design demo.
 + [MCMCExampleRepository.jl](https://github.com/goedman/MCMCExampleRepository.jl) :: Repository for MCMC Julia examples.
