@@ -129,6 +129,7 @@ Wrappers's and programming API for other languages and general backend server pu
 
 ## Ruby
 + [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
++ [jl4rb](https://github.com/rcqls/jl4rb) :: Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.
 
 ----
 
