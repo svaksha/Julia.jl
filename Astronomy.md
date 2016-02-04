@@ -29,6 +29,7 @@
 + [Cosmology.jl](https://github.com/JuliaAstro/Cosmology.jl) :: Cosmology library for Julia.
 + [DustExtinction.jl](https://github.com/JuliaAstro/DustExtinction.jl) :: Models for the interstellar extinction due to dust.
 + [ERFA.jl](https://github.com/JuliaAstro/ERFA.jl) :: Julia wrapper for liberfa.
++ [WCS.jl](https://github.com/JuliaAstro/WCS.jl) :: Astronomical World Coordinate Systems library for Julia.
 
 ### Astronomical Imaging
 + [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
