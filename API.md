@@ -119,6 +119,7 @@ Wrappers's and programming API for other languages and general backend server pu
 + [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
 
 ## R
++ [jl4R](https://github.com/rcqls/jl4R) :: `Julia for R` will embed the julia language in R, with very basic julia types getting converted into R objects.
 + [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) :: is a draft port of the ProjectTemplate package for R to Julia.
 + [RCall.jl](https://github.com/JuliaStats/RCall.jl) :: Embedded R within Julia - ports all the `R` API functions from C into Julia.
 + [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
