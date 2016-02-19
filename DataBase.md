@@ -16,7 +16,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
-====
+----
 
 # API
 **Middleware API's**
@@ -77,6 +77,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 ## PostgreSQL
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
++ [Postgres](https://github.com/NCarson/Postgres) :: Postgres database interface for the Julia language.
 
 ## SQLite
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
