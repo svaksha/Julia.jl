@@ -325,6 +325,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Code accompanying the paper Frank van der Meulen, Moritz Schauer: Bayesian estimation of discretely observed multi-dimensional diffusion processes using guided proposals : http://arxiv.org/abs/1406.4704
 + [BayesModels.jl](https://github.com/lindahua/BayesModels.jl) :: Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
++ [BIAS.jl](https://github.com/adham/BIAS.jl) :: Bayesian Inference At Scale.
 + [BNP.jl](https://github.com/trappmartin/BNP.jl) :: Bayesian nonparametrics in Julia with some [documentation](http://bnpjl.readthedocs.org/en/latest/).
 + [Bolstad2.jl](https://github.com/goedman/Bolstad2.jl) :: Julia functions from W.M. Bolstad's "Understanding Computational Bayesian Statistics".
 + [IdealPoints.jl](https://github.com/johnmyleswhite/IdealPoints.jl) :: Basic model fitting for N-d ideal points. {Tag: unofficial Non-etadata package}.
