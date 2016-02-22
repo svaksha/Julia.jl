@@ -31,7 +31,6 @@
 + [Sunlight.jl](https://github.com/WestleyArgentum/Sunlight.jl) :: A Julia package for interfacing with the [Sunlight Foundation's API's](http://sunlightfoundation.com/api).
 + [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
 + [Twitter.jl](https://github.com/randyzwitch/Twitter.jl) :: Julia package to access the Twitter API.
-+ [Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) :: Julia bindings for the Vulkan API.
 
 ### Math
 + [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
