@@ -162,7 +162,7 @@
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
 + [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.
 + [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
-
++ [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
 
 ### Publications
 + [julia-paper-arrays](https://github.com/jiahao/julia-paper-arrays) :: Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
