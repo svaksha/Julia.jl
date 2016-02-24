@@ -28,6 +28,7 @@ __Useful learning resources and all other random resources that does not have it
 # BLOGS 
 + The official [Julia language blog](http://julialang.org/blog/)
 + The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
++ Chris Rackauckas [blog posts on Julia](http://www.stochasticlifestyle.com/).
 + [Writing good Julia functions](http://doodlingindata.com/2015/08/11/writing-good-julia-functions/)
 + [Julia Package Ecosystem Dependency Graphs](http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning.
 + [Values vs. Bindings: The Map is Not the Territory](http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/)
