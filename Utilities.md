@@ -15,7 +15,9 @@
    + [Document Processors](#document-processors)
    + [Document Generator](#document-generator) 
    + [Microsoft Windows](#microsoft-windows)
-+ [VoIP](#voip)
++ [Communication](#communication)
+   + [SMS](#sms)
+   + [VoIP](#voip)
 
 ----
         
@@ -186,6 +188,11 @@
 
 ----
 
-# VoIP
+# Communication
+
+## SMS
++ [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
+
+## VoIP
 + [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) :: A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
 
