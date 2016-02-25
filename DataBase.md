@@ -4,6 +4,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [Distributed Storage](#distributed-storage)
    + [SciDB](#scidb)
 + [ENGINES](#engines)
++ [GRAPHDB](#graphdb)
 + [HDF](#hdf)
 + [NOSQL](#nosql)
    + [LMDB](#lmdb)
@@ -43,6 +44,11 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 # ENGINES
 + [kyotocabinet.jl](https://github.com/tuzzeg/kyotocabinet.jl) :: Implementation of Kyoto Cabinet in Julia language.
+
+----
+
+# GraphDB
++ [Neo4j.jl](https://github.com/glesica/Neo4j.jl) :: Messing around with building a Neo4j driver for Julia.
 
 ----
 
