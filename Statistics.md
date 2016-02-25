@@ -66,6 +66,7 @@
 + [stockMonitor.jl](https://github.com/krthkj/stockMonitor.jl) :: A module which constantly collects and performs analyses the stock market.
 + [TradingSystem.jl](https://github.com/milktrader/TradingSystem.jl) :: Quantitative trading framework in Julia.
 + [WorldBankDataTd.jl](https://github.com/JuliaFinMetriX/WorldBankDataTd.jl) :: Accessing World Bank Data.
++ [YStockData.jl](https://github.com/Algocircle/YStockData.jl) :: Fetch Data from Yahoo Finance.
 + [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) :: The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 
 
