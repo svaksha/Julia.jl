@@ -1,4 +1,4 @@
-**Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning (ML) and Statistics are closely related fields, so do check out the [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) page for ML packages.**
+__Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning (ML) and Statistics are closely related fields, so do check out the [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) page for ML packages.__
 
 + [ACTUARIAL SCIENCE](#actuarial-science)
    + [Econometrics](#econometrics)
@@ -142,6 +142,7 @@
 + [LinearResponseVariationalBayes.jl](https://github.com/rgiordan/LinearResponseVariationalBayes.jl) :: Julia tools for building simple variational Bayes models with JuMP.
 + [LossFuns.jl](https://github.com/lindahua/LossFuns.jl) :: An implementation of loss functions for empirical risk minimization.
 + [LSQ.jl](https://github.com/davidlizeng/LSQ.jl) :: is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
++ [Mayday.jl](https://github.com/rdeits/Mayday.jl) :: Sums-of-Squares optimization in Julia, powered by JuMP
 + [Memoize.jl](https://github.com/simonster/Memoize.jl) :: Easy memoization for Julia.
 + [MOpt.jl](https://github.com/floswald/MOpt.jl) :: Parallel derivative-free Moment Optimization for Julia.
 + [Munkres.jl](https://github.com/FugroRoames/Munkres.jl) :: Munkres algorithm for the optimal assignment problem. 
