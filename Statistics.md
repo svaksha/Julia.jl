@@ -8,6 +8,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [OPERATIONS RESEARCH](#operations-research)
    + [Optimization](#optimization)
       + [Genetic Programming](#genetic-programming)
+      + [Geometric Programming](#geometric-programming)
    + [Org-JuliaOpt](#org-juliaopt)
    + [Org-JuliaOptimizers](#org-juliaoptimizers)
    + [Regression Analysis](#regression-analysis)
@@ -169,6 +170,10 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 + [InformedDifferentialEvolution.jl](https://github.com/rened/InformedDifferentialEvolution.jl) :: Implementation of Differential Evolution with optional custom predictors.
 + [ParallelGenocop.jl](https://github.com/display-none/ParallelGenocop.jl) :: Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
+
+
+### [Geometric Programming](https://en.wikipedia.org/wiki/Geometric_programming)
++ [JuGP.jl](https://github.com/mlubin/JuGP.jl) :: A prototype JuMP extension for geometric programming.
 
 ### Org-[JuliaOpt](http://juliaopt.org/)
 An umbrella group for Julia-based optimization-related projects, with its own [mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups.
@@ -399,5 +404,4 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Julia For R Programmers](http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates.
 
 ### Videos
-+ [Statistical Models in Julia video by Douglas Bates (@dmbates)](https://www.youtube.com/watch?v=v9Io-p_iymI)
-
++ [Statistical Models in Julia](https://www.youtube.com/watch?v=v9Io-p_iymI) video by Douglas Bates (@dmbates).
