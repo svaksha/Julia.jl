@@ -63,7 +63,7 @@
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
 ### Sorting
-
++ [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) :: An API for common search and sort algorithms.
 
 ### Time
 + [LabelPropagation.jl](https://github.com/afternone/LabelPropagation.jl) :: A fast, nearly linear time algorithm for detecting communtiy structure in networks.
