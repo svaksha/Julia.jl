@@ -15,6 +15,7 @@
 ----
 
 # [Documentation Driven Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
++ [Lapidary.jl](https://github.com/MichaelHatherly/Lapidary.jl) :: A documentation generator for Julia. 
 + [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.
 
 ----
