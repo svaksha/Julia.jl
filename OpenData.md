@@ -27,6 +27,7 @@
 + [DataStreams.jl](https://github.com/lindahua/DataStreams.jl) :: A Julia package to support streaming process of data .
 + [Faker.jl](https://github.com/codeneomatrix/Faker.jl) :: A package that generates fake data.
 + [FaceDatasets.jl](https://github.com/dfdx/FaceDatasets.jl) :: A package for easy access to face-related datasets.
++ [Maker.jl](https://github.com/tshort/Maker.jl) :: A tool like `make` for data analysis in Julia.
 + [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 + [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the data sets available in R.
 + [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
