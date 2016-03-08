@@ -18,6 +18,9 @@
 + [Lapidary.jl](https://github.com/MichaelHatherly/Lapidary.jl) :: A documentation generator for Julia. 
 + [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.
 
+###### Resources
++ [Making nice documentation](http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package.
+
 ----
 
 # LOGGING
