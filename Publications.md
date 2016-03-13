@@ -14,6 +14,8 @@
 + Bezanson Jeff, et al. "[Julia: A fresh approach to numerical computing](http://arxiv.org/abs/1411.1607)", 07-November-2014.
 
 ### Open Portals
+
++ 2016-Mar-01 : Alan Edelman, Julia co-founder explains why "[Julia is a Fast Language for Numerical Computing](https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)".
 + [GitXiv](http://gitxiv.com) :: Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 + The [ReScience journal](https://github.com/ReScience/ReScience) and [Wiki](https://github.com/ReScience/ReScience/wiki).
 
