@@ -18,6 +18,7 @@
 + [Machine Learning](#machine-learning)
 + [Math](#math)
 + [Video](#video)
++ [DataScience Resources](#datascience-resources)
 
 ----
 
@@ -134,6 +135,9 @@
 ----
 
 # Video
-+ [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source codes on [github](https://nyu.databrary.org).
++ [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org).
 
+----
 
+# DataScience Resources
++ Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html).
