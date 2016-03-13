@@ -77,6 +77,7 @@
 + [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 
 ###### Resources
++ Jameson Nash on [Static and Ahead of Time (AOT) compiled Julia](http://juliacomputing.com/blog/2016/02/09/static-julia.html)
 + [A more thorough look at Julia's "double colon" syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
 
 ----
