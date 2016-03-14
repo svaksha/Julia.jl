@@ -6,6 +6,9 @@
 
 # AstroLibs
 + [Astro.jl](https://github.com/cormullion/Astro.jl) :: Jan Meeus astronomical formulas and some time/date code in Julia.
++ [AstroLib.jl](https://github.com/giordano/AstroLib.jl) :: Bundle of small
+  astronomical and astrophysical routines, based on IDL Astronomy User's Library
+  (AstroLib).
 + [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) :: An astrodynamics library in Julia.
 + [CasaCore.jl](https://github.com/mweastwood/CasaCore.jl) :: A Julia wrapper of CasaCore.
 + [Celeste.jl](https://github.com/jeff-regier/Celeste.jl) :: Scalable inference for a generative model of astronomical images. 
