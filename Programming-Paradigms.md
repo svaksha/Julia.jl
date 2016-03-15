@@ -7,6 +7,7 @@
    + [Grammatical Evolution](#grammatical-evolution)
    + [Macros](#macros)
    + [Meta Programming](#meta-programming)
+   + [Multiple Dispatch](#multiple-dispatch)
    + [Multi Threading](#multi-threading)
    + [Program Analysis](#program-analysis)
    + [Reactive Programming](#reactive-programming)
@@ -14,12 +15,10 @@
 
 ----
 
-
 # Org-[JuliaLang](https://github.com/JuliaLang)
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 + [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
-
 
 ----
 
@@ -89,7 +88,6 @@ __Packages and resources that support various programming styles, Software Archi
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
 ###### RESOURCES
-+ [What are the advantages of multiple dispatch in Julia](https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch)?
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
 ### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
@@ -129,6 +127,12 @@ __Packages and resources that support various programming styles, Software Archi
 ###### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
+### Multiple Dispatch
+
+###### Resources
++ [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
++ [What are the advantages of multiple dispatch in Julia](https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch)?
+
 ### Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 
@@ -150,3 +154,4 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 ### Style Guidelines
 + [Official Julia style guide](https://julia.readthedocs.org/en/latest/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
+
