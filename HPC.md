@@ -23,7 +23,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 + [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
    + Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
    + Julia binaries for ARM built on [Ubuntu-14.04](https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA).
-   
+
 ## GPU
 + [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
@@ -77,6 +77,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
 + [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
++ [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) :: resurrected LLVM "C Backend", with improvements for Julia.
 
 ### Preprocessor
 + [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
