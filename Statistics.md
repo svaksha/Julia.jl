@@ -105,6 +105,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) :: Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
 + [Predictors.jl](https://github.com/dejakaymac/Predictors.jl)
 + [Ranking.jl](https://github.com/johnmyleswhite/Ranking.jl) :: Tools for ranking in Julia.
++ [RankStatistics.jl](https://github.com/korowjev/RankStatistics.jl) :: A package that implements rank-based statistics methods.
 + [RationalSimplex.jl](https://github.com/IainNZ/RationalSimplex.jl) :: Pure Julia implementation of the simplex algorithm.
 + [SemidefiniteProgramming.jl](https://github.com/daviddelaat/SemidefiniteProgramming.jl) :: This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
 + [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) :: A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
