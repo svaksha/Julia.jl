@@ -57,6 +57,7 @@ Networking, web security, frameworks and other Web related things go here!
    + [GnuTLS.jl](https://github.com/JuliaWeb/GnuTLS.jl) :: Transport Level Security for Julia Streams provided by GnuTLS.
 + [HttpServer.jl](https://github.com/JuliaLang/HttpServer.jl) :: a basic, non-blocking HTTP server in Julia.
 + [OAuth.jl](https://github.com/randyzwitch/OAuth.jl) :: Pure Julia implementation of OAuth v1.0a.
++ [SecureSessions.jl](https://github.com/JockLawrie/SecureSessions.jl) :: Secure sessions for web apps written in Julia.
 + [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
 
 ----
