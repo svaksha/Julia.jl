@@ -372,7 +372,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
-+ [VML.jl](https://github.com/simonster/VML.jl) :: Julia bindings for the Intel Vector Math Library.
++ [VML.jl](https://github.com/JuliaLang/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__
