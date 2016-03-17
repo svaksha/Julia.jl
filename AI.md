@@ -81,6 +81,7 @@
 ### [SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 + [dReal.jl](https://github.com/zenna/dReal.jl) :: Nonlinear SMT solving using dReal.
 + [PicoSAT.jl](https://github.com/jakebolewski/PicoSAT.jl) :: Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
++ [Z3.jl](https://github.com/zenna/Z3.jl) :: This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 
 ----
 
