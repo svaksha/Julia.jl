@@ -136,6 +136,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.  {Usable: 4, Robust: 3, Active: 1}
 + [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: A Julia package for plotting that uses ctioga2 as a backend.
 + [Vega.jl](https://github.com/johnmyleswhite/Vega.jl) :: A Julia package for generating visualizations in Vega.
++ [VegaLite.jl](https://github.com/fredo-dedup/VegaLite.jl) :: This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia. It is a simpler version of the Vega grammar allowing smaller and more expressive chart specifications, intentionaly more limited than Vega, and parts of the VegaLite package (rendering functions, IJulia integration) are based on [Vega.jl](https://github.com/johnmyleswhite/Vega.jl).
 + [Visualizer.jl](https://github.com/grero/Visualizer.jl) :: A simple GUI for quickly panning through a collection of data.
 + [Winston.jl](https://github.com/nolta/Winston.jl) :: 2D plotting for Julia.
 + [YT.jl](https://github.com/jzuhone/YT.jl) :: A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
