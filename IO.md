@@ -1,12 +1,19 @@
++ [Binary IO](#binary-io)
 + [General IO](#general-io)
 + [Data Formats](#data-formats)
 + [Image formats](#image-formats)
 
 ----
 
+# Binary IO
++ [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
++ [StrPack.jl](https://github.com/pao/StrPack.jl) :: For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+
+----
+
 # General IO
-+ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions
-+ [StrPack.jl](https://github.com/pao/StrPack.jl) :: for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
++ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
++ [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
 
 ----
 
@@ -30,7 +37,6 @@
 + [HDF5.jl](https://github.com/JuliaLang/HDF5.jl) :: Lib to read HDF5 format files (HDF5 is a widely-used file format for general data)
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
    + [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD
-+ [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia.
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
@@ -54,6 +60,7 @@
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 ----
+
 
 # Image formats
 + [ImageMagick.jl](https://github.com/JuliaIO/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading
