@@ -105,6 +105,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [GraphCentrality.jl](https://github.com/sbromberger/GraphCentrality.jl) :: All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
 + [GraphPlot.jl](https://github.com/afternone/GraphPlot.jl) :: Graph visualization for Julia.
 + [GraphViz.jl](https://github.com/Keno/GraphViz.jl) :: Julia bindings for the GraphViz library.
++ [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) :: Graph visualization with tight integration with LightGraphs.jl package.
 + [HEALPix.jl](https://github.com/mweastwood/HEALPix.jl) :: Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
 + [Histograms.jl](https://github.com/jpata/Histograms.jl) :: Methods for handling histograms in Julia.
 + [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
