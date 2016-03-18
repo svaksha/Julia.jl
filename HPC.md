@@ -114,6 +114,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Flume.jl](https://github.com/malmaud/Flume.jl) :: A port of the Google Flume Data-Parallel Pipeline system.
 + [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
 + [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
++ [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) :: High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 + [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 + [ParallelAccelerator.jl](https://github.com/IntelLabs/ParallelAccelerator.jl) :: The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
 + [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
