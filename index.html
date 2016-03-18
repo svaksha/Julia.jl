@@ -1,37 +1,26 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en-us">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta charset="UTF-8">
     <title>Julia.jl by svaksha</title>
-
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header">Julia.jl</h1>
-        <p class="header">Curated decibans of Julia language.</p>
+    <section class="page-header">
+      <h1 class="project-name">Julia.jl</h1>
+      <h2 class="project-tagline">Curated decibans of Julia language.</h2>
+      <a href="https://github.com/svaksha/Julia.jl" class="btn">View on GitHub</a>
+      <a href="https://github.com/svaksha/Julia.jl/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/svaksha/Julia.jl/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-        <ul>
-          <li class="download"><a class="buttons" href="https://github.com/svaksha/Julia.jl/zipball/master">Download ZIP</a></li>
-          <li class="download"><a class="buttons" href="https://github.com/svaksha/Julia.jl/tarball/master">Download TAR</a></li>
-          <li><a class="buttons github" href="https://github.com/svaksha/Julia.jl">View On GitHub</a></li>
-        </ul>
-
-        <p class="header">This project is maintained by <a class="header name" href="https://github.com/svaksha">svaksha</a></p>
-
-
-      </header>
-      <section>
-        <h1>
-<a id="juliajl" class="anchor" href="#juliajl" aria-hidden="true"><span class="octicon octicon-link"></span></a>Julia.jl</h1>
+    <section class="main-content">
+      <h1>
+<a id="juliajl" class="anchor" href="#juliajl" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Julia.jl</h1>
 
 <p><a href="http://svaksha.github.io/Julia.jl">Julia.jl</a> aggregates and curates decibans of resources for the <a href="https://github.com/JuliaLang">Julia language</a>.</p>
 
@@ -49,6 +38,7 @@
 
 <ul>
 <li><a href="#guidelines">Guidelines</a></li>
+<li><a href="#status">Status</a></li>
 <li><a href="#bugreport-pullrequest">BugReport-PullRequest</a></li>
 </ul>
 </li>
@@ -57,11 +47,11 @@
 <hr>
 
 <h1>
-<a id="index" class="anchor" href="#index" aria-hidden="true"><span class="octicon octicon-link"></span></a>INDEX</h1>
+<a id="index" class="anchor" href="#index" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>INDEX</h1>
 
-<p>For Base packages, check if the package you seek is listed in the <a href="https://github.com/JuliaLang/METADATA.jl">built-in package manager</a> on github, or check METADATA for <a href="http://pkg.julialang.org/">registered Julia packages</a>, then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs! </p>
+<p>For Base packages, check if the package you seek is listed in the <a href="https://github.com/JuliaLang/METADATA.jl">built-in package manager</a> on github, or check METADATA for <a href="http://pkg.julialang.org/">registered Julia packages</a>, then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!</p>
 
-<p>To create a package, check out the <a href="https://github.com/JuliaLang/PkgDev.jl">Julia Package Development Kit</a> and here is a <a href="https://github.com/JuliaLang/Example.jl">sample Julia package</a> model. The latest interesting package statistics are available at the <a href="http://pkg.julialang.org/pulse.html">Julia Package Ecosystem Pulse</a> webpage which mirrors the current core development on <a href="https://github.com/JuliaLang/julia/pulse">github</a>. Abandoned packages are listed in the <a href="https://github.com/JuliaDeprecated">Julia Deprecated</a> organisation.</p>
+<p>To create a package, check out the <a href="https://github.com/JuliaLang/PkgDev.jl">Julia Package Development Kit</a> and here is a <a href="https://github.com/JuliaLang/Example.jl">sample Julia package</a> model. The latest interesting package statistics are available at the <a href="http://pkg.julialang.org/pulse.html">Julia Package Ecosystem Pulse</a> webpage which mirrors the current core development on <a href="https://github.com/JuliaLang/julia/pulse">github</a>. Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the <a href="https://github.com/JuliaArchive">Julia Archive</a> organisation.</p>
 
 <ul>
 <li>
@@ -81,9 +71,7 @@
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md">Computer-Graphics.md</a> :: Plotting, Graphics and other Visualization tools.</li>
 <li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/Database.md">Database.md</a> :: NoSQL, RDBMS and Middleware API's.</li>
-<li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/data-sets.md">data-sets.md</a> :: Data Sets.</li>
+<a href="https://github.com/svaksha/Julia.jl/blob/master/DataBase.md">DataBase.md</a> :: NoSQL, RDBMS and Middleware API's.</li>
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md">Earth-Science.md</a> :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...</li>
 <li>
@@ -93,11 +81,15 @@
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md">i18n-L10n.md</a> :: Transliteration, Internationalisation (i18n) and Localisation (L10n)</li>
 <li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md">Mathematics.md</a>:: Algebra, Geometry,... anything Math related.</li>
+<a href="IO.md">IO.md</a> :: Input/Output functionality and support for file formats.</li>
+<li>
+<a href="Mathematics.md">Mathematics.md</a>:: Algebra, Geometry,... anything Math related.</li>
+<li>
+<a href="https://github.com/svaksha/Julia.jl/blob/master/OpenData.md">OpenData.md</a> :: OpenData, Free Data Sets.</li>
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/Physics.md">Physics.md</a> :: Julia software related to Physics.</li>
 <li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md">Programming-Paradigms.md</a> :: Programming Paradigms and language concepts that are used in the type system, data types, file formats, etc..</li>
+<a href="https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md">Programming-Paradigms.md</a> :: Programming Paradigms and language concepts that are used in the type system, data types, etc..</li>
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/Publications.md">Publications.md</a> :: Research Papers (journal and conference publications).</li>
 <li>
@@ -109,42 +101,40 @@
 <li>
 <a href="https://github.com/svaksha/Julia.jl/blob/master/Utilities.md">Utilities.md</a> :: Handy toolkits and other general utilities for your Desktop.</li>
 <li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md">Web-Server.md</a> :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc... </li>
-<li>
-<a href="https://github.com/svaksha/Julia.jl/blob/master/anonymous.md">anonymous.md</a> :: Repos that lack package clarity about the category or their classification is difficult despite skimming through the codebase will be listed here.</li>
+<a href="https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md">Web-Server.md</a> :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc...</li>
 </ul>
 
-<p><strong>DISCLAIMER :</strong> As a new language in the scientific computing scene it is frequently in a state of flux due to the addition of new libraries, resulting in frequent changes and page reordering. Since the <strong>Julia.jl</strong> repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsment of any particular package for software quality, technical features, coding style/organization, etc... </p>
+<p><strong>DISCLAIMER :</strong> As a new language in the scientific computing scene it is frequently in a state of flux due to the addition of new libraries, resulting in frequent changes and page reordering. Since the <strong>Julia.jl</strong> repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsment of any particular package for software quality, technical features, coding style/organization, etc...</p>
 
 <hr>
 
 <h1>
-<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>LICENSE</h1>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>LICENSE</h1>
 
 <ul>
-<li>COPYRIGHT © 2012-Now <a href="http://svaksha.com/pages/Bio">SVAKSHA</a>, All Rights Reserved. </li>
+<li>COPYRIGHT © 2012-Now <a href="http://svaksha.com/pages/Bio">SVAKSHA</a>, All Rights Reserved.</li>
 <li>This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the <a href="https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md">LICENSE.md</a> file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must <a href="https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution">attribute credit</a>.</li>
 </ul>
 
 <h2>
-<a id="mirrors" class="anchor" href="#mirrors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mirrors</h2>
+<a id="mirrors" class="anchor" href="#mirrors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Mirrors</h2>
 
 <ul>
 <li>
 <a href="https://bitbucket.org/svaksha/Julia.jl">Bitbucket</a> :: git clone <a href="mailto:git@bitbucket.org">git@bitbucket.org</a>:svaksha/Julia.jl.git</li>
 <li>
-<a href="https://gitlab.com/svaksha/Julia.jl">GitLab</a> :: git clone <a href="mailto:git@gitlab.com">git@gitlab.com</a>:svaksha/Julia.jl.git </li>
+<a href="https://gitlab.com/svaksha/Julia.jl">GitLab</a> :: git clone <a href="mailto:git@gitlab.com">git@gitlab.com</a>:svaksha/Julia.jl.git</li>
 <li>
 <a href="https://notabug.org/svaksha/julia.jl">NotABug</a> :: git clone <a href="mailto:git@notabug.org">git@notabug.org</a>:svaksha/julia.jl.git</li>
 </ul>
 
 <h1>
-<a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span class="octicon octicon-link"></span></a>CONTRIBUTE</h1>
+<a id="contribute" class="anchor" href="#contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>CONTRIBUTE</h1>
 
 <p><a href="https://github.com/svaksha/Julia.jl/graphs/contributors">Contributions</a> to <code>Julia.jl</code> are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or <a href="https://github.com/svaksha/Julia.jl/pulls">PR</a>:</p>
 
 <h2>
-<a id="guidelines" class="anchor" href="#guidelines" aria-hidden="true"><span class="octicon octicon-link"></span></a>Guidelines</h2>
+<a id="guidelines" class="anchor" href="#guidelines" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Guidelines</h2>
 
 <p>The Julia community has <a href="http://julialang.org/community/standards/">ethical guidelines</a> aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from <code>Julia.jl</code>.</p>
 
@@ -161,7 +151,27 @@
 </ul>
 
 <h2>
-<a id="bugreport-pullrequest" class="anchor" href="#bugreport-pullrequest" aria-hidden="true"><span class="octicon octicon-link"></span></a>BugReport-PullRequest</h2>
+<a id="status" class="anchor" href="#status" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Status</h2>
+
+<p>These <a href="https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037">comments</a> led to a <a href="https://github.com/svaksha/Julia.jl/issues/55">BR discussing</a> the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. </p>
+
+<p>Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : </p>
+
+<p>On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,</p>
+
+<ul>
+<li>
+<code>Usability</code> : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).</li>
+<li>
+<code>Quality</code> : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?</li>
+<li>
+<code>Activity</code> : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.</li>
+<li>
+<code>License</code> : Which software license do you use? If you dont have a license, please state <code>None</code>. </li>
+</ul>
+
+<h2>
+<a id="bugreport-pullrequest" class="anchor" href="#bugreport-pullrequest" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>BugReport-PullRequest</h2>
 
 <ol>
 <li>Add your link as per the top-level Category page within the topic sub-section(s), in <em>alphabetical order</em>, with notes (if any) in the markdown files.</li>
@@ -169,12 +179,15 @@
 <li>For Documentation and cookbooks, check if it matches the categories listed, else, list it on the <a href="https://github.com/svaksha/Julia.jl/blob/master/Resources.md">Resources.md</a> page.</li>
 <li>For those unable to use git, create a github account, then fork the <code>Julia.jl</code> repo on the user interface. Then edit the page by <a href="https://help.github.com/articles/editing-files-in-your-repository">clicking on the "pencil" icon on the markdown page</a>, then click on save and submit a PR. Github does this <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository">automatically in 8 steps</a>.</li>
 </ol>
-      </section>
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/svaksha/Julia.jl">Julia.jl</a> is maintained by <a href="https://github.com/svaksha">svaksha</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
-    </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-		
+
+    </section>
+
+  
   </body>
 </html>
