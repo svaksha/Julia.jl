@@ -50,6 +50,7 @@
 + [ModernGL.jl](https://github.com/SimonDanisch/ModernGL.jl) :: This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
 + [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) :: Julia Interface to visualize Graphs.
 + [OCV.jl](https://github.com/Keno/OCV.jl) :: A wrapper for OpenCV - __WIP__.
++ [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 + [Painter.jl](https://github.com/andferrari/Painter.jl) :: A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
 + [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
