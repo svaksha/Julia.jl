@@ -156,6 +156,7 @@
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
 + [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl).
 + [TerminalUI.jl](https://github.com/Keno/TerminalUI.jl) :: Terminal User Interface.
++ [VT100.jl](https://github.com/Keno/VT100.jl) :: Terminal Emulation for terminal UI verification.
 
 ## File Compression 
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
