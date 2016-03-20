@@ -3,9 +3,10 @@
 + [DOCUMENTATION](#documentation)
 + [GeSHI](#geshi)
 + [GUI](#gui)
-   + [GTK]#gtk)
+   + [GTK](#gtk)
 + [ENVIRONMENTS](#environments)
    + [IDE](#ide)
+        + [Atom](#atom)
    + [Org-JuliaIDE](#org-juliaide)
    + [Jupyter](#jupyter)
    + [WIDE](#wide) 
@@ -67,10 +68,6 @@
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
 ## IDE
-+ [Atom.jl](https://github.com/JunoLab/Atom.jl) :: Julia Client for Atom.
-+ Atom : [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) :: A Julia language support package for the Atom editor.
-   + [atom-julia-client](https://github.com/JunoLab/atom-julia-client) :: Julia Eval in Atom.
-   + [Electron.jl](https://github.com/jkroso/Electron.jl) :: Provides easy access to atom/electron from Julia.
 + [BlinkEditor.jl](https://github.com/EricForgy/BlinkEditor.jl) :: A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
 + [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
@@ -88,6 +85,13 @@
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.
    + [JuliaCompletions](https://github.com/jakeconnor/JuliaCompletions) :: Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 + [vim-notebook](https://github.com/baruchel/vim-notebook) :: Vim users can use Julia from the `vim-notebook` plugin. 
+
+### Atom
++ [Atom.jl](https://github.com/JunoLab/Atom.jl) :: Julia Client for Atom.
++ [atom-language-julia](https://github.com/JuliaLang/atom-language-julia) :: A Julia language support package for the Atom editor.
++ [atom-julia-client](https://github.com/JunoLab/atom-julia-client) :: Julia Eval in Atom.
++ [Electron.jl](https://github.com/jkroso/Electron.jl) :: Provides easy access to atom/electron from Julia.
++ [Jude](https://github.com/jamesdanged/Jude) :: A set of [development extensions](https://atom.io/packages/jude) for Julia in the Atom editor to improve developer productivity. Currently, it provides `autocomplete` and `jump to definition`.
 
 ## Org-[JuliaIDE](https://github.com/JuliaIDE)
 + [Jewel.jl](https://github.com/JuliaIDE/Jewel.jl) :: IDE backend for Julia.
