@@ -6,6 +6,7 @@
     + [National Instruments](#national-instruments)
     + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
 + [AUDIO-VIDEO](#audio-video)
+    + [Org-JuliaAudio](#org-juliaaudio)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
 + [Robots](#robots)
@@ -49,6 +50,12 @@
 + [Rasim.jl](https://github.com/maemre/Rasim.jl) :: A time-slot based radio network simulator written in Julia. 
 + [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
 + [Tablo.jl](https://github.com/dmbates/Tablo.jl) :: Julia interface to the Tablo over-the-air digital video recorder.
+
+### Org-[JuliaAudio](https://github.com/JuliaAudio)
++ [LibSndFile.jl](https://github.com/JuliaAudio/LibSndFile.jl) :: A wrapper for libsndfile, and supports a wide variety of file and sample formats.
++ [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) :: A wrapper for libportaudio, which gives cross-platform access to audio devices.
++ [RingBuffers.jl](https://github.com/JuliaAudio/RingBuffers.jl) :: A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling.
++ [SampleTypes.jl](https://github.com/JuliaAudio/SampleTypes.jl) :: A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages.
 
 ----
 
