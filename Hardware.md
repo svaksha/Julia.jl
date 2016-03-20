@@ -9,6 +9,8 @@
     + [Org-JuliaAudio](#org-juliaaudio)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
++ [Embedded Systems](#embedded-systems)
+   + [Microcontrollers](#microcontrollers)
 + [Robots](#robots)
 + [TouchScreen](#touchscreen)
 
@@ -82,6 +84,14 @@
 
 ----
 
+# [Embedded Systems](https://en.wikipedia.org/wiki/Category:Embedded_systems)
+
+## [Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers)
++ [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
++ [PiGPIO.jl](https://github.com/aviks/PiGPIO.jl) :: Manage external hardware using GPIO pins on the Raspberry Pi.
+
+----
+
 # Robots
 + [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 + [RobotOS.jl](https://github.com/phobon/RobotOS.jl) :: Julia interface to ROS (Robot Operating System).
@@ -89,7 +99,6 @@
 ----
 
 # TouchScreen
-+ [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
 + [Taste.jl](https://github.com/jiahao/Taste.jl) :: A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
 
 
