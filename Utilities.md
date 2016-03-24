@@ -92,6 +92,7 @@
 + [atom-julia-client](https://github.com/JunoLab/atom-julia-client) :: Julia Eval in Atom.
 + [Electron.jl](https://github.com/jkroso/Electron.jl) :: Provides easy access to atom/electron from Julia.
 + [Jude](https://github.com/jamesdanged/Jude) :: A set of [development extensions](https://atom.io/packages/jude) for Julia in the Atom editor to improve developer productivity. Currently, it provides `autocomplete` and `jump to definition`.
++ [Juno-Bundle-for-Windows](https://github.com/YaoLuCNS/Juno-Bundle-for-Windows) :: This bundle uses PortableApps as a platform and combines AtomPortable, julia, Atom.jl, as well as other necessary plugins for julia in Atom.
 
 ## Org-[JuliaIDE](https://github.com/JuliaIDE)
 + [Jewel.jl](https://github.com/JuliaIDE/Jewel.jl) :: IDE backend for Julia.
