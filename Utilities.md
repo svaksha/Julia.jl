@@ -32,6 +32,7 @@
 + [Lexicon.jl](https://github.com/MichaelHatherly/Lexicon.jl) :: Julia package documentation generator that provides access to the documentation created by the @doc macro from Docile.jl. It allows querying of package documentation from the Julia REPL and building HTML documentation.
 + [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown.
 + [Roxygen.jl](https://github.com/johnmyleswhite/Roxygen.jl) :: A Roxygen-like documentation package for automatically generating documentation from Julia source files.
++ [sphinx-julia](https://github.com/bastikr/sphinx-julia) :: Documenting Julia projects with Sphinx.
 + [Weave.jl](https://github.com/mpastell/Weave.jl) :: Scientific reports/literate programming for Julia.
 
 ----
