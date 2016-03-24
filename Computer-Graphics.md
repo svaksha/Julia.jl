@@ -36,6 +36,7 @@
 + [GreinerHormann.jl](https://github.com/sjkelly/GreinerHormann.jl) :: An implementation of the Greiner-Hormann clipping algorithm in Julia.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
++ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) :: Image processing with OpenCL.
 + [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
