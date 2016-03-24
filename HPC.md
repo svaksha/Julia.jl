@@ -112,7 +112,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) :: Easy big data programming in the cloud. 
 + [ClusterDicts.jl](https://github.com/amitmurthy/ClusterDicts.jl) :: Global and Distributed dictionaries for Julia.
 + [Flume.jl](https://github.com/malmaud/Flume.jl) :: A port of the Google Flume Data-Parallel Pipeline system.
-+ [FunHPC.jl](https://bitbucket.org/eschnett/funhpc.jl) :: A high-level API for distributed computing, implemented on top of MPI.
++ [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) :: Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
 + [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
 + [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) :: High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 + [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
