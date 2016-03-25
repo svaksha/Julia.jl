@@ -59,6 +59,7 @@
 ----
 
 # Quantum Mechanics
++ [QuantumOptics.jl](https://github.com/bastikr/QuantumOptics.jl) :: Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 + [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 
 ### [Julia Quantum](http://juliaquantum.github.io/)
