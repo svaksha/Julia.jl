@@ -63,6 +63,7 @@
 + [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) :: A Julia library to reversibly encode "any" value so that it can be used as a type parameter.
 + [FileIO2.jl](https://github.com/ma-laforge/FileIO2.jl) :: File Object Type Hierarchy.
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
++ [FixedSizeDictionaries.jl](https://github.com/SimonDanisch/FixedSizeDictionaries.jl) :: Library which implements a fixed size variant of Dictionaries.
 + [Parameters.jl](https://github.com/mauro3/Parameters.jl) :: Types with default field values, keyword constructors and (un-)pack macros.
 + [StringInterpolation.jl](https://github.com/EricForgy/StringInterpolation.jl) :: String interpolation for non-standard string literals.
 + [Strings.jl](https://github.com/quinnj/Strings.jl) :: Testing out a new String representation.
