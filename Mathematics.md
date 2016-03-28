@@ -23,6 +23,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Discrete Math](#discrete-math)
 + [Geometry](#geometry)
    + [Algebraic Geometry](#algebraic-geometry)
+   + [Computational Geometry](#computational-geometry)
    + [Solid Geometry](#solid-geometry)
 + [Numerical Analysis](#numerical-analysis)
    + [Linear Algebra](#linear-algebra)
@@ -284,8 +285,6 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 
 # [Geometry](http://en.wikipedia.org/wiki/Geometry)
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations
-+ [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
-+ [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
 + [D4.jl](https://github.com/khwilson/D4.jl) :: An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
@@ -303,6 +302,11 @@ algebra library in Julia.
 + [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 + [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
+
+## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
++ [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
++ [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
++ [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
 
 ## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry]
 + [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
