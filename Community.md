@@ -64,6 +64,8 @@ __Local meetup groups located in the various continents around the world.__
 
 ## Asia- CHINA
 + [Beijing](http://www.meetup.com/juliacn/) Julia Programming Language Meetup.
++ [Shenzhen,2016](http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen.
++ [meetups in China](http://julialang.cn) more informations about Julia Programming Language Meetup in China.
 
 ## Asia-INDIA
 #### KA
