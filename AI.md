@@ -13,7 +13,8 @@
    + [NP-complete](#np-complete)
       + [SAT](#sat)
 + [DATA STRUCTURES](#data-structures)
-   + [Arrays-Graphs](#arrays-graphs)
+   + [Array-Matrix](#array-matrix)
+   + [Graphs](#graphs)
    + [Org-JuliaSparse](#org-juliasparse)
    + [Publications](#publications)
 + [HMM](#hmm)
@@ -88,13 +89,33 @@
 
 # DATA STRUCTURES
 
-### [Arrays-Graphs](Hash tables / Linked List / Matrix / Functional / Trees data structures)
-+ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
+### Array-Matrix
 + [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 + [ArrayViewsAPL.jl](https://github.com/timholy/ArrayViewsAPL.jl) :: Generic array-view type with APL indexing semantics.
++ [AxisArrays.jl](https://github.com/mbauman/AxisArrays.jl) :: Performant arrays where each dimension can have a named axis with values.
++ [BandedMatrices.jl](https://github.com/ApproxFun/BandedMatrices.jl) :: A Julia package for representing banded matrices.
++ [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
++ [FlexibleArrays.jl](https://github.com/eschnett/FlexibleArrays.jl) :: Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. http://eschnett.github.io/FlexibleArrays.jl/
++ [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
++ [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
++ [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
++ [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
++ [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
++ [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
++ [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
++ [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
++ [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
++ [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
++ [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
++ [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.
++ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
+
+
+
+### [Graphs](Hash tables / Linked List / Functional / Trees data structures)
++ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 + [Arrowhead.jl](https://github.com/ivanslapnicar/Arrowhead.jl) :: Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 + [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) :: Gallium's AST interpreter as a separate package to simplify development.
-+ [AxisArrays.jl](https://github.com/mbauman/AxisArrays.jl) :: Performant arrays where each dimension can have a named axis with values.
 + [BGraph.jl](https://github.com/adolgert/BGraph.jl) :: An adjacency list that uses typed properties for vertices, edges, and graphs.
 + [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
 + [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
@@ -103,9 +124,7 @@
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
 + [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) :: Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
 + [EvolvingGraphs.jl](ttps://github.com/weijianzhang/EvolvingGraphs.jl) :: Dynamic Graph Analysis Framework in Julia.
-+ [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
 + [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
-+ [FlexibleArrays.jl](https://github.com/eschnett/FlexibleArrays.jl) :: Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. http://eschnett.github.io/FlexibleArrays.jl/
 + [FunctionalCollections.jl](https://github.com/zachallaun/FunctionalCollections.jl) :: Functional and and persistent data structures for Julia.
 + [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) :: Functional, efficient data manipulation framework.
 + [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) :: a package for working with graph types and algorithms in Julia. 
@@ -113,14 +132,8 @@
    + [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
 + [GraphLayout.jl](https://github.com/IainNZ/GraphLayout.jl) :: Graph layout algorithms in pure Julia.
 + [GraphicalModels.jl](https://github.com/johnmyleswhite/GraphicalModels.jl) :: Data structures and parsing tools for representing graphical models in Julia.
-+ [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
-+ [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
-+ [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
 + [InfoTheory.jl](https://github.com/robertfeldt/InfoTheory.jl) :: Estimating information theoretic measures (entropy, mutual information etc) from data. 
 + [InvariantEnsembles.jl](https://github.com/dlfivefifty/InvariantEnsembles.jl) :: Sample random unitary invariant ensembles.
-+ [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
-+ [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
-+ [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 + [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
 + [LiftedHierarchies.jl](https://github.com/joehuchette/LiftedHierarchies.jl).
 + [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) :: An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
@@ -143,7 +156,6 @@
 + [PropertyGraph.jl](https://github.com/PhillP/PropertyGraph.jl) :: A Julia package for constructing, creating and querying graph data structures. 
    + [PropertyGraphMongo.jl](https://github.com/PhillP/PropertyGraphMongo.jl) :: A Mongo storage provider for the `PropertyGraph.jl` package.
 + [QuickStructs.jl](https://github.com/tbreloff/QuickStructs.jl) :: Several data structures with goals of O(1) for important operations.  {Usable: 5, Robust: 4, Active: 1}
-+ [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
 + [RandomForestBehaviors.jl](https://github.com/tawheeler/RandomForestBehaviors.jl) :: Microscopic driving models based on random forests.
 + [RedBlackTrees.jl](https://github.com/pygy/RedBlackTrees.jl) :: A red–black self-balancing binary search tree in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
 + [RepresentationTheory.jl](https://github.com/dlfivefifty/RepresentationTheory.jl) :: [Kronecker product](http://en.wikipedia.org/wiki/Kronecker_product) of Sn.
@@ -152,21 +164,15 @@
 + [rsk](https://github.com/JuliaX/rsk) :: Code for exploring the Robinson–Schensted–Knuth correspondence.
 + [Series.jl](https://github.com/milktrader/Series.jl) :: Series data structure in Julia.
 + [SFrames.jl](https://github.com/malmaud/SFrames.jl) :: Wrapper around the open-source components of Graphlab. 
-+ [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
 + [SimpleGraphs.jl](https://github.com/scheinerman/SimpleGraphs.jl) :: A module for working with simple graphs (no loops, no multiple edges, no directed edges). 
 + [Sims.jl](https://github.com/tshort/Sims.jl) :: Non-causal, equation-based modeling in Julia.
-+ [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
-+ [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SparseData.jl](https://github.com/lindahua/SparseData.jl) :: A Julia package to support working with sparse data sets (e.g. text corpus).
 + [SparseFactorModels.jl](https://github.com/matthieugomez/SparseFactorModels.jl) :: Estimate factor models on sparse datasets.
 + [SparseGrids.jl](https://github.com/Zac12345/SparseGrids.jl).
 + [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
 + [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) :: Binary tree where the nodes contain the sum of the left and right children.
-+ [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
-+ [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.
-+ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
 + [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
 
 ### Publications
