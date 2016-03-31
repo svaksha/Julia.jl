@@ -114,6 +114,7 @@
 
 
 ### [Graphs](Hash tables / Linked List / Functional / Trees data structures)
++ [AbstractTrees.jl](https://github.com/Keno/AbstractTrees.jl) :: Abstract julia interfaces for working with trees.
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 + [Arrowhead.jl](https://github.com/ivanslapnicar/Arrowhead.jl) :: Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 + [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) :: Gallium's AST interpreter as a separate package to simplify development.
