@@ -7,6 +7,7 @@
 + [ENVIRONMENTS](#environments)
    + [IDE](#ide)
         + [Atom](#atom)
+        + [Emacs](#emacs)
    + [Org-JuliaIDE](#org-juliaide)
    + [Jupyter](#jupyter)
    + [WIDE](#wide) 
@@ -71,8 +72,6 @@
 
 ## IDE
 + [BlinkEditor.jl](https://github.com/EricForgy/BlinkEditor.jl) :: A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
-+ [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
-   * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
 + [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
 + [Jewel.jl](https://github.com/one-more-minute/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
 + [JuliaDT.jl](https://github.com/JuliaComputing/JuliaDT) :: Julia Development Toolkit for Eclipse.
@@ -95,6 +94,11 @@
 + [Electron.jl](https://github.com/jkroso/Electron.jl) :: Provides easy access to atom/electron from Julia.
 + [Jude](https://github.com/jamesdanged/Jude) :: A set of [development extensions](https://atom.io/packages/jude) for Julia in the Atom editor to improve developer productivity. Currently, it provides `autocomplete` and `jump to definition`.
 + [Juno-Bundle-for-Windows](https://github.com/YaoLuCNS/Juno-Bundle-for-Windows) :: This bundle uses PortableApps as a platform and combines AtomPortable, julia, Atom.jl, as well as other necessary plugins for julia in Atom.
+
+### Emacs 
++ [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
+   * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
++ [julia-emacs](https://github.com/JuliaLang/julia-emacs) :: Julia support in Emacs.
 
 ## Org-[JuliaIDE](https://github.com/JuliaIDE)
 + [Jewel.jl](https://github.com/JuliaIDE/Jewel.jl) :: IDE backend for Julia.
