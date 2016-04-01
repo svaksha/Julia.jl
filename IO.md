@@ -36,6 +36,7 @@
 + [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
 + [DWARF.jl](https://github.com/loladiro/DWARF.jl) :: Julia Package for parsing the DWARF file format.
 + [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
++ [Feather.jl](https://github.com/JuliaStats/Feather.jl) :: A format for saving and retrieving data frames inorder to read and write in the feather format.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
 + [HDF5.jl](https://github.com/JuliaLang/HDF5.jl) :: Lib to read HDF5 format files (HDF5 is a widely-used file format for general data)
