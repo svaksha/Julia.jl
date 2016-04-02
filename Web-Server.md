@@ -15,6 +15,7 @@ Networking, web security, frameworks and other Web related things go here!
 ----
 
 # FRAMEWORKS
++ [jinnie](https://github.com/essenciary/jinnie) :: Eclectic web framework running on Julia.
 + [Merly.jl](https://github.com/codeneomatrix/Merly.jl) :: A micro framework for web programming in Julia.
 + [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
 + [Pythia.jl](https://github.com/Keno/Pythia.jl) :: Julia wrappers for the Pythia event generator. 
