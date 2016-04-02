@@ -32,7 +32,7 @@
 # BUILD AUTOMATION
 + [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 + [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
-+ [OpenStack.jl](https://github.com/loladiro/OpenStack.jl).
++ [OpenStack.jl](https://github.com/Keno/OpenStack.jl).
 
 ----
 

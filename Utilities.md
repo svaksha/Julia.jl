@@ -113,7 +113,7 @@
 + [Autoreload.jl](https://github.com/malmaud/Autoreload.jl) :: A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified. 
 + [Colaboratory](https://github.com/jupyter/colaboratory) :: Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 + [ErrorLineNumber.jl](https://github.com/StephenVavasis/ErrorLineNumber.jl) :: Address line number bug in Julia 0.4 error reporting.
-+ [Hydra.jl](https://github.com/loladiro/Hydra.jl) :: Hosted Multi-user IJulia distribution.
++ [Hydra.jl](https://github.com/Keno/Hydra.jl) :: Hosted Multi-user IJulia distribution.
 + [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
 + [Interact.jl](https://github.com/JuliaLang/Interact.jl) :: Library for interactive widgets in IJulia.
 + [jlbox](https://github.com/compressed/jlbox) :: uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
@@ -152,17 +152,17 @@
 + [FTPClient.jl](https://github.com/invenia/FTPClient.jl) :: An FTP Client.
 + [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
 + [LibArchive.jl](https://github.com/yuyichao/LibArchive.jl) :: Wrapper for [libarchive](http://www.libarchive.org/). 
-+ [LineEdit.jl](https://github.com/loladiro/LineEdit.jl) :: Julia readline-like library.
++ [LineEdit.jl](https://github.com/Keno/LineEdit.jl) :: Julia readline-like library.
 + [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
-+ [NCurses.jl](https://github.com/loladiro/NCurses.jl) :: NCurses bindings for Julia.
++ [NCurses.jl](https://github.com/Keno/NCurses.jl) :: NCurses bindings for Julia.
 + [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 + [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) :: Progress meter for long-running computations.
-+ [REPL.jl](https://github.com/loladiro/REPL.jl) :: Pure-julia REPL implementation.
-+ [REPLCompletions.jl](https://github.com/loladiro/REPLCompletions.jl) :: Tab completions for your Julia REPL.
++ [REPL.jl](https://github.com/Keno/REPL.jl) :: Pure-julia REPL implementation.
++ [REPLCompletions.jl](https://github.com/Keno/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 + [REPLMods.jl](https://github.com/spencerlyon2/REPLMods.jl) :: Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
 + [SaveREPL.jl](https://github.com/sjkelly/SaveREPL.jl) :: A package for saving entries in the Jula REPL. 
 + [Slackbot.jl](https://github.com/jiahao/Slackbot.jl) :: A Julia REPL that interacts with Slack.com's webhook integration.
-+ [TerminalExtensions.jl](https://github.com/loladiro/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
++ [TerminalExtensions.jl](https://github.com/Keno/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
 + [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
 + [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl).

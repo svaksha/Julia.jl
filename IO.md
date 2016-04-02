@@ -34,8 +34,8 @@
 + [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 + [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
 + [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
-+ [DWARF.jl](https://github.com/loladiro/DWARF.jl) :: Julia Package for parsing the DWARF file format.
-+ [ELF.jl](https://github.com/loladiro/ELF.jl) :: Julia Package for working with ELF files.
++ [DWARF.jl](https://github.com/Keno/DWARF.jl) :: Julia Package for parsing the DWARF file format.
++ [ELF.jl](https://github.com/Keno/ELF.jl) :: Julia Package for working with ELF files.
 + [Feather.jl](https://github.com/JuliaStats/Feather.jl) :: A format for saving and retrieving data frames inorder to read and write in the feather format.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [Grisu.jl](https://github.com/quinnj/Grisu.jl) :: Port of Double-Conversion library to native Julia.
@@ -46,7 +46,7 @@
 + [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia.
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/lindahua/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
-+ [MachO.jl](https://github.com/loladiro/MachO.jl) :: An implementation of the MachO file format.
++ [MachO.jl](https://github.com/Keno/MachO.jl) :: An implementation of the MachO file format.
 + [MNIST.jl](https://github.com/johnmyleswhite/MNIST.jl) :: Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
 + [NeuralynxNCS.jl](https://github.com/simonster/NeuralynxNCS.jl) :: A Julia module for reading Neuralynx NCS files.
 + [NetCDF.jl](https://github.com/meggart/NetCDF.jl) :: NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
@@ -59,7 +59,7 @@
 + [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
 + [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
 + [HarwellBoeing.jl](https://github.com/dpo/HarwellBoeing.jl) :: A reader for matrices and supplementary data written in the Harwell-Boeing format.
-+ [Shapefile.jl](https://github.com/loladiro/Shapefile.jl) :: Parsing .shp files in Julia.
++ [Shapefile.jl](https://github.com/Keno/Shapefile.jl) :: Parsing .shp files in Julia.
 + [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the Silo file format.
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.

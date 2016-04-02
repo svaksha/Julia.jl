@@ -75,7 +75,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [CompilerTools.jl](https://github.com/IntelLabs/CompilerTools.jl) :: The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
 + [CompilerOptions.jl](https://github.com/sjkelly/CompilerOptions.jl) :: A Julia package for reading compiler options.
 + [Eglib.jl](https://github.com/ihnorton/Eglib.jl) :: Clang.jl wrapping example, C code from @kindlmann.
-+ [JITTools.jl](https://github.com/loladiro/JITTools.jl) :: Tools for working with in-memory object. 
++ [JITTools.jl](https://github.com/Keno/JITTools.jl) :: Tools for working with in-memory object. 
 + [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) :: Build Julia using icc on the Travis CI.
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
 + [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) :: resurrected LLVM "C Backend", with improvements for Julia.
