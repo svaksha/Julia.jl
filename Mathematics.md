@@ -309,6 +309,7 @@ algebra library in Julia.
 + [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
 + [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
 + [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
++ [Polyhedra.jl](https://github.com/blegat/Polyhedra.jl) :: It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl. 
 
 ## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry]
 + [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
