@@ -296,6 +296,9 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia. 
 + [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to "deep" stacks of neural network units that can be trained using gradient descent over defined error measures.
 
+###### Resources
++ Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.
+
 ----
 
 # NLP 
