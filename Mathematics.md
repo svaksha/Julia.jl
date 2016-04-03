@@ -305,6 +305,7 @@ algebra library in Julia.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
 
 ## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
++ [CDDLib.jl](https://github.com/blegat/CDDLib.jl) :: A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a "lower level" using the API of cdd or using the higher level interface of Polyhedra.jl.
 + [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
 + [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
 + [ConvexHull.jl](https://github.com/joehuchette/ConvexHull.jl) :: A Julia library for polyhedral computations.
