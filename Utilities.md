@@ -73,14 +73,14 @@
 ## IDE
 + [BlinkEditor.jl](https://github.com/EricForgy/BlinkEditor.jl) :: A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
 + [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
-+ [Jewel.jl](https://github.com/one-more-minute/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
++ [Jewel.jl](https://github.com/MikeInnes/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
 + [JuliaDT.jl](https://github.com/JuliaComputing/JuliaDT) :: Julia Development Toolkit for Eclipse.
 + [julia-ide](https://github.com/malmaud/julia-ide) :: YAJI.
 + [Julia-Studio](http://forio.com/products/julia-studio/) :: Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
 + [Julia.tmbundle](https://github.com/JuliaLang/Julia.tmbundle) :: Julia language support for TextMate 2 (and Sublime Text).
 + [Julia-Vim](https://github.com/JuliaLang/julia-vim).
 + [Julietta.jl](https://github.com/tknopp/Julietta.jl) :: An integrated developement environment (IDE) for the programming language Julia.
-+ [Juno-LT](https://github.com/one-more-minute/Juno-LT) :: A Julia environment built on Light Table.
++ [Juno-LT](https://github.com/MikeInnes/Juno-LT) :: A Julia environment built on Light Table.
 + [Liclipse](http://brainwy.github.io/liclipse/) :: LiClipse, Eclipse plus some customizations, supports Julia. 
 + [Neovim.jl](https://github.com/bfredl/Neovim.jl) by @bfredl :: Neovim client for Julia.
 + [Sublime-Julia](https://github.com/quinnj/Sublime-Julia) :: Sublime Syntax, Build, Snippets, and REPL for the Julia language.

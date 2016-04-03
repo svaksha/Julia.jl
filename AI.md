@@ -38,7 +38,7 @@
 ### Checksum 
 + [CRC.jl](https://github.com/andrewcooke/CRC.jl) :: This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 + [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation.
-+ [GutFlora.jl](https://github.com/one-more-minute/GutFlora.jl) :: Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
++ [GutFlora.jl](https://github.com/MikeInnes/GutFlora.jl) :: Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
 
 ### Collaborative Filtering
 + [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008".
@@ -56,7 +56,7 @@
 + [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
 + [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
-+ [ExpressionMatch.jl](https://github.com/one-more-minute/ExpressionMatch.jl) :: A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally. 
++ [ExpressionMatch.jl](https://github.com/MikeInnes/ExpressionMatch.jl) :: A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally. 
 + [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) :: Port of the jellyfish string comparison library.
 + [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 + [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
@@ -206,7 +206,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
-+ [DecisionTrees.jl](https://github.com/one-more-minute/DecisionTrees.jl).
++ [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl).
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in "Playing Atari with Deep Reinforcement Learning".
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.

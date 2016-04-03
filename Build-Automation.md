@@ -142,7 +142,7 @@ https://github.com/JuliaPackageMirrors/mirror-updater
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
-+ [Requires.jl](https://github.com/one-more-minute/Requires.jl) :: A Julia package that will quickly load your package dependencies.
++ [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
 
 ----
 

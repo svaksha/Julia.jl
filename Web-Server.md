@@ -83,7 +83,6 @@ Networking, web security, frameworks and other Web related things go here!
 + [SMTPClient.jl](https://github.com/JuliaWeb/SMTPClient.jl) :: An SMTP client to send emails from Julia.
 
 ## Org-[JuliaWeb](https://github.com/JuliaWeb)
-+ [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) :: A Julia package for interfacing with the GitHub API.
 + [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
 + [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) :: A WebSockets server library for Julia.
 + [HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl) :: Provides types and helper functions for dealing with the HTTP protocol in Julia.

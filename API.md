@@ -5,7 +5,7 @@
    + [GIT API](#git-api)
 + [LANGUAGES](#languages)
    + [C](#c)
-   + [C++](#c++)
+   + [Cxx](#cxx)
    + [Erlang](#erlang)
    + [Fortran](#fortran)
    + [Go](#go)
@@ -34,9 +34,10 @@
 
 ### Math
 + [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
-+ [Mathematica.jl](https://github.com/one-more-minute/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
++ [Mathematica.jl](https://github.com/MikeInnes/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
 ### Git API
++ [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) :: A Julia package for interfacing with the GitHub API.
 + [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
 + [MechaJulia](https://github.com/MechaJulia/MechaJulia) :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
 + [Octokit.jl](https://github.com/Keno/Octokit.jl) :: Julia package to access the GitHub API.
@@ -44,7 +45,7 @@
 ----
 
 # LANGUAGES
-Wrappers's and programming API for other languages and general backend server purposes.
+Wrappers's and programming API's for other languages and general backend server purposes.
 
 ## C
 + [GetC.jl](https://github.com/rennis250/GetC.jl) :: This package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
@@ -53,7 +54,7 @@ Wrappers's and programming API for other languages and general backend server pu
 ###### Resources
 + Official documentation for [calling C code](http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/)
 
-## C++ 
+## Cxx
 + [Clipper.jl](https://github.com/Voxel8/Clipper.jl) :: Julia wrapping of clipper using Cxx.jl.
 + [Cpp.jl](https://github.com/timholy/Cpp.jl) :: Utilities for calling C++ from Julia.
 + [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Foreign Function Interface (FFI).

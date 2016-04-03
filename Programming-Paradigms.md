@@ -41,7 +41,7 @@ __Packages and resources that support various programming styles, Software Archi
 ### Functional Programming
 + [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
 + [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
-+ [Lazy.jl](https://github.com/one-more-minute/Lazy.jl) :: Functional programming for Julia.
++ [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) :: Functional programming for Julia.
 + [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 + [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
 + [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
