@@ -1372,9 +1372,9 @@ Programming-Paradigms,StyleGuidelines,Official Julia style guide,https://julia.r
 Programming-Paradigms,StyleGuidelines,Style.jl,https://github.com/johnmyleswhite/Style.jl,Style guidelines for Julia programming.
 Publications,RESEARCHPAPERS,How to write, publish, and review scientific papers in the early 21st Century,https://github.com/swcarpentry/modern-scientific-authoring,
 Publications,RESEARCHPAPERS,Julia language research publications,http://julialang.org/publications/),
-Publications,RESEARCHPAPERS,hah, Viral B., et al. "[Novel Algebras for Advanced Analytics in Julia,http://ieee-hpec.org/2013/index_htm_files/49.pdf)", IEEE-HPEC (2013),
-Publications,RESEARCHPAPERS,ezanson Jeff, et al. "[Julia: A fresh approach to numerical computing,http://arxiv.org/abs/1411.1607)", 07-November-2014,
-Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains why "[Julia is a Fast Language for Numerical Computing,https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)",
+Publications,RESEARCHPAPERS,hah, Viral B., et al. _[Novel Algebras for Advanced Analytics in Julia,http://ieee-hpec.org/2013/index_htm_files/49.pdf)_, IEEE-HPEC (2013),
+Publications,RESEARCHPAPERS,ezanson Jeff, et al. _[Julia: A fresh approach to numerical computing,http://arxiv.org/abs/1411.1607)_, 07-November-2014,
+Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing,https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_,
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Lapidary.jl,https://github.com/MichaelHatherly/Lapidary.jl,A documentation generator for Julia.
