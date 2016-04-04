@@ -9,7 +9,7 @@
   + [Org-JuliaGeo](#org-juliageo)
 + [METEOROLOGY](#meteorology)
 
-====
+----
 
 # AERONAUTICS
 + [Rotations.jl](https://github.com/ronisbr/Rotations.jl) :: Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
@@ -51,7 +51,7 @@
 + [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper.
 + [GIS.jl](https://github.com/wkearn/GIS.jl) :: A package for the visualization and manipulation of geographic data.
 + [GeoIP.jl](https://github.com/johnmyleswhite/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
-+ [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a "libgmt" - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
++ [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
    + *Forks*
    + https://github.com/ihnorton/GMT.jl
 + [hillerislambers](https://github.com/wkearn/hillerislambers) :: Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics.

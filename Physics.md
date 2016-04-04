@@ -40,7 +40,7 @@
 
 # Fluid Dynamics
 + [hydro](http://github.com/natj/hydro) :: Fairly simple, relatively small & mildly interesting hydrodynamic code.
-   + [A video of the "hydro" code in use](https://vimeo.com/95607699)
+   + [A video of the _hydro_ code in use](https://vimeo.com/95607699)
 + [LatBo.jl](https://github.com/UCL/LatBo.jl) :: Lattice-Boltzmann implementation in Julia.
 
 ----

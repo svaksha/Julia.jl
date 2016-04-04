@@ -94,7 +94,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) :: This package provides URI Template interpolation by implementing (RFC 6570).
 + [UAParser.jl](https://github.com/JuliaWeb/UAParser.jl) :: UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 + [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) :: Pure julia URI parser.
-+ [WWWClient.jl](https://github.com/JuliaWeb//WWWClient.jl) :: is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing. 
++ [WWWClient.jl](https://github.com/JuliaWeb//WWWClient.jl) :: is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing. 
 
 ###### Resources
 + The [Julia Webstack](http://juliawebstack.org) documentation for [TCP Sockets for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)

@@ -40,7 +40,7 @@
 + [CRC32.jl](https://github.com/fhs/CRC32.jl) :: 32-bit cyclic redundancy check (CRC-32) checksum implementation.
 
 ### Collaborative Filtering
-+ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008".
++ [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008.
 
 ### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
 + [ComputeFramework.jl](https://github.com/shashi/ComputeFramework.jl) :: Hierarchical Scheduling of DAG Structured Computations.
@@ -125,7 +125,7 @@
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
 + [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) :: Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
 + [EvolvingGraphs.jl](ttps://github.com/weijianzhang/EvolvingGraphs.jl) :: Dynamic Graph Analysis Framework in Julia.
-+ [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
++ [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
 + [Flow.jl](https://github.com/MikeInnes/Flow.jl) :: DataFlow programming for Julia.
 + [FunctionalCollections.jl](https://github.com/zachallaun/FunctionalCollections.jl) :: Functional and and persistent data structures for Julia.
 + [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) :: Functional, efficient data manipulation framework.
@@ -154,7 +154,7 @@
 + [ParallelSparseMatMul.jl](https://github.com/madeleineudell/ParallelSparseMatMul.jl) :: A Julia library for parallel sparse matrix multiplication using shared memory.
 + [PDMats.jl](https://github.com/lindahua/PDMats.jl) :: Uniform Interface for positive definite matrices of various structures.
 + [PETSc.jl](https://github.com/stevengj/PETSc.jl) :: sparse-matrix interface for the Julia language.
-+ [PositiveFactorizations.jl](https://github.com/timholy/PositiveFactorizations.jl) :: Positive-definite "approximations" to matrices.
++ [PositiveFactorizations.jl](https://github.com/timholy/PositiveFactorizations.jl) :: Positive-definite (approximations) to matrices.
 + [PropertyGraph.jl](https://github.com/PhillP/PropertyGraph.jl) :: A Julia package for constructing, creating and querying graph data structures. 
    + [PropertyGraphMongo.jl](https://github.com/PhillP/PropertyGraphMongo.jl) :: A Mongo storage provider for the `PropertyGraph.jl` package.
 + [QuickStructs.jl](https://github.com/tbreloff/QuickStructs.jl) :: Several data structures with goals of O(1) for important operations.  {Usable: 5, Robust: 4, Active: 1}
@@ -207,7 +207,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
 + [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl).
-+ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in "Playing Atari with Deep Reinforcement Learning".
++ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
@@ -257,7 +257,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 
 ###### Resources
-+ [Examples from "Thoughtful Machine Learning"](https://github.com/thoughtfulml/examples).
++ [Examples from _Thoughtful Machine Learning_](https://github.com/thoughtfulml/examples).
 + [CIML](https://github.com/hal3/ciml) :: A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
 + [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
 + A [Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
@@ -293,7 +293,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Recurrent Neural Networks.
 + [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
 + [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia. 
-+ [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to "deep" stacks of neural network units that can be trained using gradient descent over defined error measures.
++ [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
 
 ###### Resources
 + Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.

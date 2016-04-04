@@ -1,4 +1,4 @@
-*Anything "Software Quality" related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, ...*
+*Anything _Software Quality_ related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, ...*
 
 + [Black Box Testing](#black-box-testing)
 + [Documentation Driven Development](#documentation-driven-development)

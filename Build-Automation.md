@@ -101,7 +101,7 @@ __Pre-compiled Binaries__
 
 #### Debian-Ubuntu
 + [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
-+ [DebbyPacker.jl](https://github.com/UCL/DebbyPacker.jl) :: Set of scripts to "easily" create debian packages.
++ [DebbyPacker.jl](https://github.com/UCL/DebbyPacker.jl) :: Set of scripts to easily create debian packages.
 + [Julia-Debian](https://github.com/staticfloat/julia-debian) :: Elliot Saba (@staticfloat) packages [nightlies](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases), consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia [PPA releases](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases) if you are having build problems with Julia on Debian-Ubuntu systems. In a terminal, type the following commands:
 
 ```

@@ -68,7 +68,7 @@
 
 ### Worms, Virus, Nematodes
 + The central [MANUELA database](http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale.
-+ [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from "neglected taxa" using the PartiGene suite of programmes.
++ [Nematodes DB](http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from _neglected taxa_ using the PartiGene suite of programmes.
 + [Nematode Transcriptome Analyses](http://www.nematodes.org/nembase4/).
 + [WormBase](http://www.wormbase.org/species/all#0--10) :: Species genomes with standardized sequence and annotations.
 

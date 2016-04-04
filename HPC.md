@@ -59,7 +59,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
    + __Resources__
    + [Notebook showing the usage of BenchmarkLite.jl](http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb)
 + [Criterion.jl](https://github.com/jakebolewski/Criterion.jl) :: A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
-+ [IProfile](https://github.com/timholy/IProfile.jl) :: Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an "instrumenting profiler" for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)
++ [IProfile](https://github.com/timholy/IProfile.jl) :: Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an __instrumenting profiler__ for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)
 + [julia_qsortbenchmarks](https://github.com/illerucis/julia_qsortbenchmarks) ::  Suggested improvements to Julia's Quicksort implementation.
 + [JuliaBenchmarks](https://github.com/kapiliitr/JuliaBenchmarks) :: Porting HPC Challenge benchmarks to Julia.
 + [PerfPlot.jl](https://github.com/weijianzhang/PerfPlot.jl) :: Performance Profile Plot.
@@ -78,7 +78,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [JITTools.jl](https://github.com/Keno/JITTools.jl) :: Tools for working with in-memory object. 
 + [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) :: Build Julia using icc on the Travis CI.
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
-+ [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) :: resurrected LLVM "C Backend", with improvements for Julia.
++ [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) :: A resurrected LLVM C Backend, with improvements for Julia.
 
 ### Preprocessor
 + [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)

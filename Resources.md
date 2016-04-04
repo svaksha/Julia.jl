@@ -1,4 +1,4 @@
-__Useful learning resources and all other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, say, a "Julia for Statistics" tutorial would be listed on the Statistics page.__ 
+__Useful learning resources and all other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, say, a _Julia for Statistics_ tutorial would be listed on the Statistics page.__ 
 
 + [BOOKS](#books)
 + [BLOGS](#blogs)
@@ -17,8 +17,8 @@ __Useful learning resources and all other random resources that does not have it
 
 # BOOKS
 + [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
-+ The book "[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)" by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
-+ Trends in Bayesian Methodology:: [Source code for "Hamiltonian Methods and Zero Variance Principle" chapter of "Trends in Bayesian Methodology"](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
++ The book _[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)_ by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
++ Trends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
@@ -61,7 +61,7 @@ __Useful learning resources and all other random resources that does not have it
 + [JuliaDocs](https://github.com/john9631/JuliaDocs) :: John Lynch's Julia and Gadfly Cheatsheets.
 + [Numeric (Julia) matrix manipulation](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet.html#julia) :: The cheat sheet for MATLAB, Python NumPy, R, and Julia.
 + [Noteworthy Differences from other Languages](http://docs.julialang.org/en/release-0.3/manual/noteworthy-differences/)
-+ John Myles White compares the [Julia and "R" language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
++ John Myles White compares the [Julia and _R_ language syntax](http://www.johnmyleswhite.com/notebook/2012/04/09/comparing-julia-and-rs-vocabularies/)
 + [Rosetta-Julia](https://github.com/quinnj/Rosetta-Julia) :: Rosetta Code task implementations for the Julia language.
 + [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 + [Rationale behind @-sign for macro usage](https://stackoverflow.com/questions/29182447/why-do-julia-programmers-need-to-prefix-macros-with-the-at-sign)
@@ -75,7 +75,7 @@ __Useful learning resources and all other random resources that does not have it
    + [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
    + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
    + [JuliaCon2015 by @simonster](https://github.com/simonster/JuliaCon2015) :: Slides from my presentations at JuliaCon 2015.
-+ Leah Hanson (@astrieanna) talks about "[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)", the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
++ Leah Hanson (@astrieanna) talks about _[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
 + EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 + JuliaCon-2014 ::
    + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
@@ -84,7 +84,7 @@ __Useful learning resources and all other random resources that does not have it
 + SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
 + 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
 + [ACM-SPLASH-2013](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013) :: Stefan, Jeff, and Viral's talk.
-+ [2013 StrangeLoop]((http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)) :: Stefan Karpinski's talk notes on "The Design Impact of Multiple Dispatch". 
++ [2013 StrangeLoop]((http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)) :: Stefan Karpinski's talk notes on _The Design Impact of Multiple Dispatch_. 
 
 ----
 

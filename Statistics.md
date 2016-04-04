@@ -56,7 +56,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [FRED.jl](https://github.com/joidegn/FRED.jl) :: Package to read from the St. Louis Federal Reserve Bank API.
 + [InterestRates.jl](https://github.com/felipenoris/InterestRates.jl) :: Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 + [Ito.jl](https://github.com/aviks/Ito.jl) :: An open source toolkit for financial computing in Julia.
-+ [LibTrading.jl](https://github.com/StefanKarpinski/LibTrading.jl) :: A wrapper for the libtrading library, an "open source API for high-performance, low-latency trading applications".
++ [LibTrading.jl](https://github.com/StefanKarpinski/LibTrading.jl) :: A wrapper for the libtrading library, an _open source API for high-performance, low-latency trading applications_.
 + [MCInsurance.jl](https://github.com/mkriele/MCInsurance.jl) :: This Julia package provides multi-period Monte Carlo simulations for life insurance.
 + [OpenFiscaCore.jl](https://github.com/openfisca/OpenFiscaCore.jl) :: A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data.
 + [OpenFiscaFrance.jl](https://github.com/openfisca/OpenFiscaFrance.jl) :: A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system.
@@ -111,7 +111,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [VRP](https://github.com/IainNZ/VRP) :: Vehicle Routing Problem (VRP) is a combinatorial optimization and integer programming problem.
 
 ###### Resources
-+ [ORSoftwareTools2014](https://github.com/IainNZ/ORSoftwareTools2014) :: This is the repository for code/examples/instructions for the MIT course 15.S60 "Software Tools for Operations Research".
++ [ORSoftwareTools2014](https://github.com/IainNZ/ORSoftwareTools2014) :: This is the repository for code/examples/instructions for the MIT course 15.S60 _Software Tools for Operations Research_.
 + [DG2012Tutorial.jl](https://github.com/johnmyleswhite/DG2012Tutorial.jl) :: Simple examples of SGD-style computations in Julia.
 
 
@@ -133,13 +133,13 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [julia-nlopt](https://github.com/MetalNinjas/julia-nlopt) :: NLopt bindings for julia. {__NB: Not maintained for the current Julia releases__}.
 + [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
   * __Resources::JuMP__::
-  + [JuMPSupplement](https://github.com/mlubin/JuMPSupplement) :: Repository containing supplementary materials and code for "JuMP: A Modeling Language for Mathematical Optimization" by I. Dunning, J. Huchette, and M. Lubin.
+  + [JuMPSupplement](https://github.com/mlubin/JuMPSupplement) :: Repository containing supplementary materials and code for _JuMP: A Modeling Language for Mathematical Optimization_ by I. Dunning, J. Huchette, and M. Lubin.
   * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
   + [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
   + [CMU-notebooks](https://github.com/joehuchette/CMU-notebooks) :: IJulia notebooks for the JuMP tutorial at CMU.
 + [JuMPeR.jl](https://github.com/IainNZ/JuMPeR.jl) :: Julia for Mathematical Programming (JuMP) extension for Robust optimization.
 + [JuMPTools.jl](https://github.com/IainNZ/JuMPTools.jl) :: Small helper functions for JuMP models.
-+ [Junquo.jl](http://github.com/IainNZ/Junquo.jl) :: stands for "JUlia Nonconvex QUadratically constrained quadratic program Optimizer", a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
++ [Junquo.jl](http://github.com/IainNZ/Junquo.jl) :: stands for _JUlia Nonconvex QUadratically constrained quadratic program Optimizer_, a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
 + [LinearResponseVariationalBayes.jl](https://github.com/rgiordan/LinearResponseVariationalBayes.jl) :: Julia tools for building simple variational Bayes models with JuMP.
 + [LossFuns.jl](https://github.com/lindahua/LossFuns.jl) :: An implementation of loss functions for empirical risk minimization.
 + [LSQ.jl](https://github.com/davidlizeng/LSQ.jl) :: is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
@@ -221,7 +221,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation.
 + [AD_StatTest-julia](https://github.com/manuamador/AD_StatTest-julia) :: An implementation of the Anderson Darling statistical test for exponential or Rayleigh distributions in Julia.
 + [ASH.jl](https://github.com/joshday/ASH.jl) :: David Scott's Average Shifted Histogram density estimation.
-+ [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R "basicspace" package to Julia.
++ [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R _basicspace_ package to Julia.
 + [Bootstrap.jl](https://github.com/julian-gehring/Bootstrap.jl) :: Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
 + [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
 + [CauseMap.jl](https://github.com/cyrusmaher/CauseMap.jl) :: An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia.
@@ -334,7 +334,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
 + [BIAS.jl](https://github.com/adham/BIAS.jl) :: Bayesian Inference At Scale.
 + [BNP.jl](https://github.com/trappmartin/BNP.jl) :: Bayesian nonparametrics in Julia with some [documentation](http://bnpjl.readthedocs.org/en/latest/).
-+ [Bolstad2.jl](https://github.com/goedman/Bolstad2.jl) :: Julia functions from W.M. Bolstad's "Understanding Computational Bayesian Statistics".
++ [Bolstad2.jl](https://github.com/goedman/Bolstad2.jl) :: Julia functions from W.M. Bolstad's _Understanding Computational Bayesian Statistics_.
 + [IdealPoints.jl](https://github.com/johnmyleswhite/IdealPoints.jl) :: Basic model fitting for N-d ideal points. {Tag: unofficial Non-etadata package}.
 + [MCBN.jl](https://github.com/binarybana/MCBN.jl) :: Monte Carlo Bayesian averaging over Bayesian networks.
 + [MiniNest.jl](https://github.com/iamed2/MiniNest.jl) :: Julia implementation of nested sampling examples.
