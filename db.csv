@@ -3,100 +3,110 @@ AI,ALGORITHMS,SimDistComp.jl,https://github.com/CUHK-MMLAB/SimDistComp.jl,A Juli
 AI,AssociationRule,ARules.jl,https://github.com/toddleo/ARules.jl,Julia package for Association Rule Learning algorithms.
 AI,Checksum,CRC.jl,https://github.com/andrewcooke/CRC.jl,This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 AI,Checksum,CRC32.jl,https://github.com/fhs/CRC32.jl,32-bit cyclic redundancy check (CRC-32) checksum implementation.
-AI,Checksum,GutFlora.jl,https://github.com/one-more-minute/GutFlora.jl,Contains a pure-Julia implementation of the MD5 checksum, available as md5(::IO) or md5file("file").
 AI,CollaborativeFiltering,RecSys.jl,https://github.com/abhijithch/RecSys.jl,An implementation of the algorithm from "Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008".
 AI,[SchedulingAlgorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms),ComputeFramework.jl,https://github.com/shashi/ComputeFramework.jl,Hierarchical Scheduling of DAG Structured Computations.
 AI,[SchedulingAlgorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms),HClust.jl,https://github.com/davidavdav/HClust.jl,Hierarchical Clustering for Julia, similar to R's hclust().
+AI,Quantum,AdiaRoll.jl,https://github.com/Roger-luo/AdiaRoll.jl,An Adiabatic Computation Simulator for quantum computation.
 AI,Quantum,Hadamard.jl,https://github.com/stevengj/Hadamard.jl,Fast multidimensional Walsh-Hadamard transforms.
 AI,PatternMatching,AhoCorasick.jl,https://github.com/gilesc/AhoCorasick.jl,Julia implementation of the Aho-Corasick algorithm for fast string searching.
 AI,PatternMatching,bfs.jl,https://github.com/adlawson/bfs.jl,Breadth First Search implementation in Julia.
 AI,PatternMatching,BlossomV.jl,https://github.com/mlewe/BlossomV.jl,An interface for the Blossom V perfect matching algorithm.
 AI,PatternMatching,dfs.jl,https://github.com/adlawson/dfs.jl,Depth First Search.
-AI,PatternMatching,ExpressionMatch.jl,https://github.com/one-more-minute/ExpressionMatch.jl,A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally.
+AI,PatternMatching,ExpressionMatch.jl,https://github.com/MikeInnes/ExpressionMatch.jl,A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally.
 AI,PatternMatching,JellyFish.jl,https://github.com/samuelcolvin/JellyFish.jl,Port of the jellyfish string comparison library.
 AI,PatternMatching,Loess.jl,https://github.com/dcjones/Loess.jl,is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 AI,PatternMatching,Match.jl,https://github.com/kmsquire/Match.jl,Advanced Pattern Matching for Julia.
 AI,PatternMatching,NearestNeighbors.jl,https://github.com/johnmyleswhite/NearestNeighbors.jl,Data structures for nearest neighbor search.
 AI,PatternMatching,ReverseRegexes.jl,https://github.com/carlobaldassi/ReverseRegexes.jl,Adds functionality to reverse-search strings with regexes
+AI,Sorting,SearchSortAlgos.jl,https://github.com/Dawny33/SearchSortAlgos.jl,An API for common search and sort algorithms.
 AI,Time,LabelPropagation.jl,https://github.com/afternone/LabelPropagation.jl,A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 AI,RESOURCES,algo-book-julia,https://github.com/Alexander-N/algo-book-julia,Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 AI,RESOURCES,study,https://github.com/codematician/study,A study of interesting algorithms.
+AI,[NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems),TravelingSalesmanHeuristics.jl,https://github.com/evanfields/TravelingSalesmanHeuristics.jl,Julia package for simple traveling salesman problem heuristics.
 AI,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),dReal.jl,https://github.com/zenna/dReal.jl,Nonlinear SMT solving using dReal.
 AI,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),PicoSAT.jl,https://github.com/jakebolewski/PicoSAT.jl,Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,A Julia package to explore a new system of array views.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Arrowhead.jl,https://github.com/ivanslapnicar/Arrowhead.jl,Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),BGraph.jl,https://github.com/adolgert/BGraph.jl,An adjacency list that uses typed properties for vertices, edges, and graphs.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),bloom.jl,https://github.com/boydgreenfield/bloom.jl,Bloom filter implementation in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Blox.jl,https://github.com/tbreloff/Blox.jl,Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),DeepReshapes.jl,https://github.com/lmshk/DeepReshapes.jl,Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),FingerTrees.jl,https://github.com/mschauer/FingerTrees.jl,A Finger Tree is a functional data structure that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),FunctionalCollections.jl,https://github.com/zachallaun/FunctionalCollections.jl,Functional and and persistent data structures for Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),FunctionalData.jl,https://github.com/rened/FunctionalData.jl,Functional, efficient data manipulation framework.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Graphs.jl,https://github.com/JuliaLang/Graphs.jl,a package for working with graph types and algorithms in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),A project report on using the Graphs.jl package,http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT,
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),GraphLayout.jl,https://github.com/IainNZ/GraphLayout.jl,Graph layout algorithms in pure Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),GraphicalModels.jl,https://github.com/johnmyleswhite/GraphicalModels.jl,Data structures and parsing tools for representing graphical models in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),HMat.jl,https://github.com/YingzhouLi/HMat.jl,Hierarchical Matrix.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),ImmutableArrays.jl,https://github.com/twadleigh/ImmutableArrays.jl,Statically-sized immutable vectors and matrices.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),InfoTheory.jl,https://github.com/robertfeldt/InfoTheory.jl,Estimating information theoretic measures (entropy, mutual information etc) from data.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),InvariantEnsembles.jl,https://github.com/dlfivefifty/InvariantEnsembles.jl,Sample random unitary invariant ensembles.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),L1DecisionTree.jl,https://github.com/neggert/L1DecisionTree.jl,
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),LiftedHierarchies.jl,https://github.com/joehuchette/LiftedHierarchies.jl),
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),LightGraphs.jl,https://github.com/JuliaGraphs/LightGraphs.jl,An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Lists.jl,https://github.com/adolgert/Lists.jl,Singly linked list and doubly linked list for Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),LSH.jl,https://github.com/Keno/LSH.jl,Locality Sensitive Hashing functions.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),MatrixNetworks.jl,https://github.com/nassarhuda/MatrixNetworks.jl,Graph and Network algorithms.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),MatrixDepot.jl,https://github.com/weijianzhang/MatrixDepot.jl,A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),MinimalPerfectHashes.jl,https://github.com/soundcloud/MinimalPerfectHashes.jl,An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Multifrontal.jl,https://github.com/weijianzhang/Multifrontal.jl,Multifrontal direct solvers for sparse matrices.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Named.jl,https://github.com/HarlanH/Named.jl,Julia named index and named vector types.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),NamedArrays.jl,https://github.com/davidavdav/NamedArrays.jl,Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),OffsetArrays.jl,https://github.com/alsam/OffsetArrays.jl,Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),ParallelSparseMatMul.jl,https://github.com/madeleineudell/ParallelSparseMatMul.jl,A Julia library for parallel sparse matrix multiplication using shared memory.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),PDMats.jl,https://github.com/lindahua/PDMats.jl,Uniform Interface for positive definite matrices of various structures.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),PETSc.jl,https://github.com/stevengj/PETSc.jl,sparse-matrix interface for the Julia language.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),PositiveFactorizations.jl,https://github.com/timholy/PositiveFactorizations.jl,Positive-definite "approximations" to matrices.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),PropertyGraph.jl,https://github.com/PhillP/PropertyGraph.jl,A Julia package for constructing, creating and querying graph data structures.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),PropertyGraphMongo.jl,https://github.com/PhillP/PropertyGraphMongo.jl,A Mongo storage provider for the `PropertyGraph.jl` package.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),QuickStructs.jl,https://github.com/tbreloff/QuickStructs.jl,Several data structures with goals of O(1) for important operations.  {Usable: 5, Robust: 4, Active: 1}
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RandomForestBehaviors.jl,https://github.com/tawheeler/RandomForestBehaviors.jl,Microscopic driving models based on random forests.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RedBlackTrees.jl,https://github.com/pygy/RedBlackTrees.jl,A red–black self-balancing binary search tree in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RepresentationTheory.jl,https://github.com/dlfivefifty/RepresentationTheory.jl,[Kronecker product](http://en.wikipedia.org/wiki/Kronecker_product) of Sn.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RingBuffer.jl,https://github.com/kmsquire/RingBuffer.jl,Julia ring buffer implementation for buffered IO.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),RobustShortestPath.jl,https://github.com/chkwon/RobustShortestPath.jl,Robust Shortest Path Finder.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),rsk,https://github.com/JuliaX/rsk,Code for exploring the Robinson–Schensted–Knuth correspondence.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Series.jl,https://github.com/milktrader/Series.jl,Series data structure in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SFrames.jl,https://github.com/malmaud/SFrames.jl,Wrapper around the open-source components of Graphlab.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SimpleGraphs.jl,https://github.com/scheinerman/SimpleGraphs.jl,A module for working with simple graphs (no loops, no multiple edges, no directed edges).
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Sims.jl,https://github.com/tshort/Sims.jl,Non-causal, equation-based modeling in Julia.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SparseData.jl,https://github.com/lindahua/SparseData.jl,A Julia package to support working with sparse data sets (e.g. text corpus).
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SparseFactorModels.jl,https://github.com/matthieugomez/SparseFactorModels.jl,Estimate factor models on sparse datasets.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SpatialGraphs.jl,https://github.com/sawcordwell/SpatialGraphs.jl,
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),SumTrees.jl,https://github.com/iamed2/SumTrees.jl,Binary tree where the nodes contain the sum of the left and right children.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),Trie.jl,https://github.com/JuliaLang/Trie.jl,Implementation of the trie data structure.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
-AI,[Arrays-Graphs](Hashtables/LinkedList/Matrix/Functional/Treesdatastructures),WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
+AI,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),Z3.jl,https://github.com/zenna/Z3.jl,This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
+AI,Array-Matrix,ArrayIterationPlayground.jl,https://github.com/timholy/ArrayIterationPlayground.jl,Testing new ideas for array iteration.
+AI,Array-Matrix,ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,A Julia package to explore a new system of array views.
+AI,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
+AI,Array-Matrix,AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
+AI,Array-Matrix,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
+AI,Array-Matrix,FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
+AI,Array-Matrix,FlexibleArrays.jl,https://github.com/eschnett/FlexibleArrays.jl,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. http://eschnett.github.io/FlexibleArrays.jl/
+AI,Array-Matrix,HMat.jl,https://github.com/YingzhouLi/HMat.jl,Hierarchical Matrix.
+AI,Array-Matrix,ImmutableArrays.jl,https://github.com/twadleigh/ImmutableArrays.jl,Statically-sized immutable vectors and matrices.
+AI,Array-Matrix,IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
+AI,Array-Matrix,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
+AI,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
+AI,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
+AI,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
+AI,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
+AI,Array-Matrix,SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
+AI,Array-Matrix,SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
+AI,Array-Matrix,TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
+AI,Array-Matrix,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
+AI,Array-Matrix,WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),AbstractTrees.jl,https://github.com/Keno/AbstractTrees.jl,Abstract julia interfaces for working with trees.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Arrowhead.jl,https://github.com/ivanslapnicar/Arrowhead.jl,Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ASTInterpreter.jl,https://github.com/Keno/ASTInterpreter.jl,Gallium's AST interpreter as a separate package to simplify development.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BGraph.jl,https://github.com/adolgert/BGraph.jl,An adjacency list that uses typed properties for vertices, edges, and graphs.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),bloom.jl,https://github.com/boydgreenfield/bloom.jl,Bloom filter implementation in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Blox.jl,https://github.com/tbreloff/Blox.jl,Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),DeepReshapes.jl,https://github.com/lmshk/DeepReshapes.jl,Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FingerTrees.jl,https://github.com/mschauer/FingerTrees.jl,A Finger Tree is a functional data structure that can give an amortized constant time access to the "fingers" (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Flow.jl,https://github.com/MikeInnes/Flow.jl,DataFlow programming for Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FunctionalCollections.jl,https://github.com/zachallaun/FunctionalCollections.jl,Functional and and persistent data structures for Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FunctionalData.jl,https://github.com/rened/FunctionalData.jl,Functional, efficient data manipulation framework.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Graphs.jl,https://github.com/JuliaLang/Graphs.jl,a package for working with graph types and algorithms in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),A project report on using the Graphs.jl package,http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT,
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),GraphLayout.jl,https://github.com/IainNZ/GraphLayout.jl,Graph layout algorithms in pure Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),GraphicalModels.jl,https://github.com/johnmyleswhite/GraphicalModels.jl,Data structures and parsing tools for representing graphical models in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),InfoTheory.jl,https://github.com/robertfeldt/InfoTheory.jl,Estimating information theoretic measures (entropy, mutual information etc) from data.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),InvariantEnsembles.jl,https://github.com/dlfivefifty/InvariantEnsembles.jl,Sample random unitary invariant ensembles.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),L1DecisionTree.jl,https://github.com/neggert/L1DecisionTree.jl,
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),LiftedHierarchies.jl,https://github.com/joehuchette/LiftedHierarchies.jl),
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),LightGraphs.jl,https://github.com/JuliaGraphs/LightGraphs.jl,An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Lists.jl,https://github.com/adolgert/Lists.jl,Singly linked list and doubly linked list for Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),LSH.jl,https://github.com/Keno/LSH.jl,Locality Sensitive Hashing functions.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MatrixNetworks.jl,https://github.com/nassarhuda/MatrixNetworks.jl,Graph and Network algorithms.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MatrixDepot.jl,https://github.com/weijianzhang/MatrixDepot.jl,A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MinimalPerfectHashes.jl,https://github.com/soundcloud/MinimalPerfectHashes.jl,An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Multifrontal.jl,https://github.com/weijianzhang/Multifrontal.jl,Multifrontal direct solvers for sparse matrices.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Named.jl,https://github.com/HarlanH/Named.jl,Julia named index and named vector types.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedArrays.jl,https://github.com/davidavdav/NamedArrays.jl,Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),OffsetArrays.jl,https://github.com/alsam/OffsetArrays.jl,Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ParallelSparseMatMul.jl,https://github.com/madeleineudell/ParallelSparseMatMul.jl,A Julia library for parallel sparse matrix multiplication using shared memory.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PDMats.jl,https://github.com/lindahua/PDMats.jl,Uniform Interface for positive definite matrices of various structures.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PETSc.jl,https://github.com/stevengj/PETSc.jl,sparse-matrix interface for the Julia language.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PositiveFactorizations.jl,https://github.com/timholy/PositiveFactorizations.jl,Positive-definite "approximations" to matrices.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PropertyGraph.jl,https://github.com/PhillP/PropertyGraph.jl,A Julia package for constructing, creating and querying graph data structures.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PropertyGraphMongo.jl,https://github.com/PhillP/PropertyGraphMongo.jl,A Mongo storage provider for the `PropertyGraph.jl` package.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),QuickStructs.jl,https://github.com/tbreloff/QuickStructs.jl,Several data structures with goals of O(1) for important operations.  {Usable: 5, Robust: 4, Active: 1}
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),RandomForestBehaviors.jl,https://github.com/tawheeler/RandomForestBehaviors.jl,Microscopic driving models based on random forests.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),RedBlackTrees.jl,https://github.com/pygy/RedBlackTrees.jl,A red–black self-balancing binary search tree in Julia. REF: [http://en.wikipedia.org/wiki/Red_black_trees](http://en.wikipedia.org/wiki/Red_black_trees)
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),RepresentationTheory.jl,https://github.com/dlfivefifty/RepresentationTheory.jl,[Kronecker product](http://en.wikipedia.org/wiki/Kronecker_product) of Sn.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),RingBuffer.jl,https://github.com/kmsquire/RingBuffer.jl,Julia ring buffer implementation for buffered IO.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),RobustShortestPath.jl,https://github.com/chkwon/RobustShortestPath.jl,Robust Shortest Path Finder.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),rsk,https://github.com/JuliaX/rsk,Code for exploring the Robinson–Schensted–Knuth correspondence.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Series.jl,https://github.com/milktrader/Series.jl,Series data structure in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SFrames.jl,https://github.com/malmaud/SFrames.jl,Wrapper around the open-source components of Graphlab.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SimpleGraphs.jl,https://github.com/scheinerman/SimpleGraphs.jl,A module for working with simple graphs (no loops, no multiple edges, no directed edges).
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Sims.jl,https://github.com/tshort/Sims.jl,Non-causal, equation-based modeling in Julia.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseData.jl,https://github.com/lindahua/SparseData.jl,A Julia package to support working with sparse data sets (e.g. text corpus).
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseFactorModels.jl,https://github.com/matthieugomez/SparseFactorModels.jl,Estimate factor models on sparse datasets.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SpatialGraphs.jl,https://github.com/sawcordwell/SpatialGraphs.jl,
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SumTrees.jl,https://github.com/iamed2/SumTrees.jl,Binary tree where the nodes contain the sum of the left and right children.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Trie.jl,https://github.com/JuliaLang/Trie.jl,Implementation of the trie data structure.
+AI,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),XGBoost.jl,https://github.com/dmlc/XGBoost.jl,XGBoost Julia Package.
 AI,Publications,julia-paper-arrays,https://github.com/jiahao/julia-paper-arrays,Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
 AI,RESOURCES,Benchmarking Matrix Multiplication,http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.335/Matrix-multiplication-experiments.ipynb,
 AI,[HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model),hmm.jl,https://github.com/nfoti/hmm.jl,Julia implementation of Hidden Markov Models.
@@ -114,7 +124,7 @@ AI,MACHINELEARNING,Contingency.jl,https://github.com/svs14/Contingency.jl,Assort
 AI,MACHINELEARNING,Clustering.jl,https://github.com/johnmyleswhite/Clustering.jl,Basic functions for clustering data ==> k-means, dp-means, etc..
 AI,MACHINELEARNING,DAI.jl,https://github.com/binarybana/DAI.jl,A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 AI,MACHINELEARNING,DecisionTree.jl,https://github.com/bensadeghi/DecisionTree.jl),
-AI,MACHINELEARNING,DecisionTrees.jl,https://github.com/one-more-minute/DecisionTrees.jl),
+AI,MACHINELEARNING,DecisionTrees.jl,https://github.com/MikeInnes/DecisionTrees.jl),
 AI,MACHINELEARNING,DeepQLearning.jl,https://github.com/Andy-P/DeepQLearning.jl,An implementation of DeepMind's Deep Q Learning algorithm described in "Playing Atari with Deep Reinforcement Learning".
 AI,MACHINELEARNING,Discretizers.jl,https://github.com/sisl/Discretizers.jl,A package to support discretization methods and mapping functions for data discretization and label maps.
 AI,MACHINELEARNING,EGR.jl,https://github.com/stefanks/EGR.jl,The Stochastic Gradient (SG) algorithm for machine learning.
@@ -150,6 +160,8 @@ AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,Machine l
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
 AI,MACHINELEARNING,SALSA.jl,https://github.com/jumutc/SALSA.jl,_S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
+AI,MACHINELEARNING,ScikitLearn.jl,https://github.com/cstjean/ScikitLearn.jl,Julia implementation of the scikit-learn API.
+AI,MACHINELEARNING,ScikitLearnBase.jl,https://github.com/cstjean/ScikitLearnBase.jl,Definition of the ScikitLearn.jl API.
 AI,MACHINELEARNING,SimpleML.jl,https://github.com/aviks/SimpleML.jl,Textbook implementations of some Machine Learning Algorithms in Julia.
 AI,MACHINELEARNING,SFA.jl,https://github.com/makokal/SFA.jl,Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 AI,MACHINELEARNING,SoftConfidenceWeighted.jl,https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl,Exact Soft Confidence-Weighted Learning.
@@ -191,6 +203,7 @@ AI,NEURALNETWORKS,RNN.jl,https://github.com/kzahedi/RNN.jl,Recurrent Neural Netw
 AI,NEURALNETWORKS,SimpleNets,https://github.com/rgehring/SimpleNets,Simple neural nets implementions in Julia.
 AI,NEURALNETWORKS,SpikeNet.jl,https://github.com/damiendr/SpikeNet.jl,A spiking neural network simulator written in Julia.
 AI,NEURALNETWORKS,StackedNets.jl,https://github.com/yarlett/StackedNets.jl,A simple interface to "deep" stacks of neural network units that can be trained using gradient descent over defined error measures.
+AI,Resources,log post on '[Chess position evaluation with convolutional neural network in Julia,http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)',
 AI,NLP,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation in Julia.
 AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural language parser.
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
@@ -233,19 +246,20 @@ API,API,Sunlight.jl,https://github.com/WestleyArgentum/Sunlight.jl,A Julia packa
 API,API,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert library for Julia.
 API,API,Twitter.jl,https://github.com/randyzwitch/Twitter.jl,Julia package to access the Twitter API.
 API,Math,MathLink.jl,https://github.com/simonbyrne/MathLink.jl,provides bindings to the MathLink library, which is an interface for Mathematica.
-API,Math,Mathematica.jl,https://github.com/one-more-minute/Mathematica.jl,is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
+API,Math,Mathematica.jl,https://github.com/MikeInnes/Mathematica.jl,is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
+API,GitAPI,GitHub.jl,https://github.com/JuliaWeb/GitHub.jl,A Julia package for interfacing with the GitHub API.
 API,GitAPI,LibGit2.jl,https://github.com/jakebolewski/LibGit2.jl,Julia bindings to the LibGit2 library.
 API,GitAPI,MechaJulia,https://github.com/MechaJulia/MechaJulia,A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
-API,GitAPI,PkgGithubRepo.jl,https://github.com/thiruk/PkgGithubRepo.jl,Get the Github repository information for a Julia package installed in Ubuntu.
-API,GitAPI,Octokit.jl,https://github.com/loladiro/Octokit.jl,Julia package to access the GitHub API.
+API,GitAPI,Octokit.jl,https://github.com/Keno/Octokit.jl,Julia package to access the GitHub API.
 API,C,GetC.jl,https://github.com/rennis250/GetC.jl,This package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
 API,C,julia-ffi,https://github.com/o-jasper/julia-ffi,Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
 API,Resources,fficial documentation for [calling C code,http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/,
-API,C++,Clipper.jl,https://github.com/Voxel8/Clipper.jl,Julia wrapping of clipper using Cxx.jl.
-API,C++,Cpp.jl,https://github.com/timholy/Cpp.jl,Utilities for calling C++ from Julia.
-API,C++,Cxx.jl,https://github.com/Keno/Cxx.jl,The Julia C++ Foreign Function Interface (FFI).
-API,C++,CxxROOT.jl,https://github.com/Keno/CxxROOT.jl,A Cxx.jl based interface to CERN's ROOT.
-API,C++,Gallium.jl,https://github.com/Keno/Gallium.jl,The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
+API,Cxx,Clipper.jl,https://github.com/Voxel8/Clipper.jl,Julia wrapping of clipper using Cxx.jl.
+API,Cxx,Cpp.jl,https://github.com/timholy/Cpp.jl,Utilities for calling C++ from Julia.
+API,Cxx,Cxx.jl,https://github.com/Keno/Cxx.jl,The Julia C++ Foreign Function Interface (FFI).
+API,Cxx,CxxROOT.jl,https://github.com/Keno/CxxROOT.jl,A Cxx.jl based interface to CERN's ROOT.
+API,Cxx,CxxWrap.jl,https://github.com/barche/CxxWrap.jl,A package to provide a Boost.Python-like wrapping for C++ types and functions to Julia.
+API,Cxx,Gallium.jl,https://github.com/Keno/Gallium.jl,The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 API,Erlang,ErlPort.jl,https://github.com/thorgisl/ErlPort.jl,A Julia-Erlang module for use in the erlport project.
 API,Erlang,FsBert,https://github.com/et4te/FsBert,A Julia library for encoding / decoding binary Erlang terms.
 API,Fortran,FortranIO.jl,https://github.com/rephorm/FortranIO.jl,Input/Output of fortran unformatted binary files.
@@ -276,8 +290,8 @@ API,ObjectiveC,ObjectiveC.jl,https://github.com/JunoLab/ObjectiveC.jl,A Julia li
 API,Perl,FileFind.jl,https://github.com/johnmyleswhite/FileFind.jl,Minimal Implementation of Perl's `File::Find` in Julia.
 API,Processing,Processing.jl,https://github.com/rennis250/Processing.jl,A port of the Processing language, to Julia.
 API,Python,Polyglot.jl,https://github.com/wavexx/Polyglot.jl,Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript.
-API,Python,PyCall.jl,https://github.com/stevengj/PyCall.jl,lets you call Python functions from the Julia language.
-API,Python,PyJulia,https://github.com/jakebolewski/pyjulia,python interface to julia.
+API,Python,PyCall.jl,https://github.com/stevengj/PyCall.jl,Call Python functions from the Julia language.
+API,Python,PyJulia,https://github.com/jakebolewski/pyjulia,Python interface to julia.
 API,Python,pyju,https://github.com/felipecruz/pyju,Python to Julia cffi bindings.
 API,R,jl4R,https://github.com/rcqls/jl4R,`Julia for R` will embed the julia language in R, with very basic julia types getting converted into R objects.
 API,R,ProjectTemplate.jl,https://github.com/johnmyleswhite/ProjectTemplate.jl,is a draft port of the ProjectTemplate package for R to Julia.
@@ -285,12 +299,13 @@ API,R,RCall.jl,https://github.com/JuliaStats/RCall.jl,Embedded R within Julia - 
 API,R,RCalling.jl,https://github.com/randy3k/RCalling.jl,An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages.
 API,R,Rif.jl,https://github.com/lgautier/Rif.jl,An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
 API,R,RJulia,https://github.com/armgong/RJulia,R package to call Julia - Use Julia embedded API to write a packege for R.
-API,R,runr,http://rpubs.com/yihui/julia-knitr,allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
+API,R,runr,http://rpubs.com/yihui/julia-knitr,Allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 API,R,utils.jl,https://github.com/johnmyleswhite/utils.jl,Utility functions for Julia + R compatibility wrapper.
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
 Astronomy,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
+Astronomy,AstroLibs,AstroLib.jl,https://github.com/giordano/AstroLib.jl,Bundle of small
 Astronomy,AstroLibs,Astrodynamics.jl,https://github.com/helgee/Astrodynamics.jl,An astrodynamics library in Julia.
 Astronomy,AstroLibs,CasaCore.jl,https://github.com/mweastwood/CasaCore.jl,A Julia wrapper of CasaCore.
 Astronomy,AstroLibs,Celeste.jl,https://github.com/jeff-regier/Celeste.jl,Scalable inference for a generative model of astronomical images.
@@ -299,6 +314,7 @@ Astronomy,AstroLibs,Jadex.jl,https://github.com/autocorr/Jadex.jl,Julia port of 
 Astronomy,AstroLibs,JPLEphemeris.jl,https://github.com/helgee/JPLEphemeris.jl,The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
 Astronomy,AstroLibs,julia-astro,https://github.com/kbarbary/julia-astro,astronomy-related Julia code: skycoords.jl, dustmap.jl
 Astronomy,AstroLibs,Photometry.jl,https://github.com/kbarbary/Photometry.jl,Astronomical photometry library for Julia.
+Astronomy,AstroLibs,SDSS.jl,https://github.com/kbarbary/SDSS.jl,Collection of code snippets for querying and reading Sloan Digital Sky Survey data.
 Astronomy,AstroLibs,SGP4.jl,https://github.com/crbinz/SGP4.jl,Julia wrapper for the SGP4 satellite propagation model.
 Astronomy,AstroLibs,SkyCoords.jl,https://github.com/kbarbary/SkyCoords.jl,Astronomical coordinate systems in Julia.
 Astronomy,AstroLibs,WCS.jl,https://github.com/kbarbary/WCS.jl,Julia wrapper for wcstools library.
@@ -367,7 +383,7 @@ Build-Automation,INSTALL,ulia [Sample programs,https://github.com/JuliaLang/juli
 Build-Automation,BACKPORTS,Julia-Backports,https://groups.google.com/forum/#!forum/julia-backports) Mailing list,
 Build-Automation,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
 Build-Automation,BUILDAUTOMATION,Juke.jl,https://github.com/kshramt/Juke.jl,`make` in Julia.
-Build-Automation,BUILDAUTOMATION,OpenStack.jl,https://github.com/loladiro/OpenStack.jl),
+Build-Automation,BUILDAUTOMATION,OpenStack.jl,https://github.com/Keno/OpenStack.jl),
 Build-Automation,CONTINUOUSINTEGRATION,erge your Julia code with mainline to test it on a [Travis-CI build server,https://travis-ci.org/JuliaLang/),
 Build-Automation,CONTINUOUSINTEGRATION,TestDocs.jl,https://github.com/simonbyrne/TestDocs.jl,A test package to try to automatically build docs on travis.
 Build-Automation,Org-[Julia-CI](https://github.com/julia-ci),TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
@@ -411,7 +427,7 @@ Build-Automation,Packaging,Kip.jl,https://github.com/jkroso/Kip.jl,A metadata fr
 Build-Automation,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/PackageEvaluator.jl,The Julia package evaluator.
 Build-Automation,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
 Build-Automation,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
-Build-Automation,Packaging,Requires.jl,https://github.com/one-more-minute/Requires.jl,A Julia package that will quickly load your package dependencies.
+Build-Automation,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
 Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/,
 Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
 Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
@@ -445,6 +461,8 @@ Community,ContributingtoJuliacoredevelopment,ThisWeekInJulia,http://thisweekinju
 Community,[JuliaCon](http://juliacon.org/),_Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io,https://github.com/JuliaCon/juliacon.github.io),
 Community,[JuliaCon](http://juliacon.org/),_CFP__:: [Registration page,http://juliacon.eventbrite.com/),
 Community,Asia-CHINA,Beijing,http://www.meetup.com/juliacn/) Julia Programming Language Meetup,
+Community,Asia-CHINA,Shenzhen,2016,http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen,
+Community,Asia-CHINA,meetups in China,http://julialang.cn) more informations about Julia Programming Language Meetup in China,
 Community,KA,Bangalore,http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group,
 Community,Asia-JAPAN,Tokyo Julia User Group,http://juliatokyo.connpass.com/event/6891/,
 Community,Europe-AUSTRIA,Vienna Julia Meetup Group,http://www.meetup.com/Vienna-Julia-Meetup),
@@ -492,6 +510,7 @@ Computer-Graphics,GRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.
 Computer-Graphics,GRAPHICS,GreinerHormann.jl,https://github.com/sjkelly/GreinerHormann.jl,An implementation of the Greiner-Hormann clipping algorithm in Julia.
 Computer-Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 Computer-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
+Computer-Graphics,GRAPHICS,ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
 Computer-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
 Computer-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
 Computer-Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
@@ -504,7 +523,9 @@ Computer-Graphics,GRAPHICS,Luxor.jl,https://github.com/cormullion/Luxor.jl,an ea
 Computer-Graphics,GRAPHICS,LuxRay.jl,https://github.com/SimonDanisch/LuxRay.jl,Julia wrapper for LuxRay.
 Computer-Graphics,GRAPHICS,MeshSlicer.jl,https://github.com/sjkelly/MeshSlicer.jl,A package for slicing meshes into polygons using Julialang.
 Computer-Graphics,GRAPHICS,ModernGL.jl,https://github.com/SimonDanisch/ModernGL.jl,This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
+Computer-Graphics,GRAPHICS,NetworkViz.jl,https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
 Computer-Graphics,GRAPHICS,OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for OpenCV - __WIP__.
+Computer-Graphics,GRAPHICS,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
 Computer-Graphics,GRAPHICS,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
 Computer-Graphics,GRAPHICS,Painter.jl,https://github.com/andferrari/Painter.jl,A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
 Computer-Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
@@ -551,6 +572,7 @@ Computer-Graphics,INFOGRAPHICS,GR,https://github.com/jheinen/gr) framewor,A grap
 Computer-Graphics,INFOGRAPHICS,GraphCentrality.jl,https://github.com/sbromberger/GraphCentrality.jl,All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
 Computer-Graphics,INFOGRAPHICS,GraphPlot.jl,https://github.com/afternone/GraphPlot.jl,Graph visualization for Julia.
 Computer-Graphics,INFOGRAPHICS,GraphViz.jl,https://github.com/Keno/GraphViz.jl,Julia bindings for the GraphViz library.
+Computer-Graphics,INFOGRAPHICS,GraphVisualize.jl,https://github.com/JuliaGraphs/GraphVisualize.jl,Graph visualization with tight integration with LightGraphs.jl package.
 Computer-Graphics,INFOGRAPHICS,HEALPix.jl,https://github.com/mweastwood/HEALPix.jl,Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
 Computer-Graphics,INFOGRAPHICS,Histograms.jl,https://github.com/jpata/Histograms.jl,Methods for handling histograms in Julia.
 Computer-Graphics,INFOGRAPHICS,julia-glplot,https://github.com/o-jasper/julia-glplot,Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
@@ -577,6 +599,7 @@ Computer-Graphics,GraphicalPlotting,PyPlot.jl,https://github.com/stevengj/PyPlot
 Computer-Graphics,GraphicalPlotting,Qwt.jl,https://github.com/tbreloff/Qwt.jl,2D plotting, drawing, and GUIs using Qwt and Qt.  {Usable: 4, Robust: 3, Active: 1}
 Computer-Graphics,GraphicalPlotting,Sparrow.jl,https://github.com/rennis250/Sparrow.jl,A Julia package for plotting that uses ctioga2 as a backend.
 Computer-Graphics,GraphicalPlotting,Vega.jl,https://github.com/johnmyleswhite/Vega.jl,A Julia package for generating visualizations in Vega.
+Computer-Graphics,GraphicalPlotting,VegaLite.jl,https://github.com/fredo-dedup/VegaLite.jl,This package provides access to the Vega-Lite high-level [visualization grammar](http://vega.github.io/vega-lite/) in Julia. It is a simpler version of the Vega grammar allowing smaller and more expressive chart specifications, intentionaly more limited than Vega, and parts of the VegaLite package (rendering functions, IJulia integration) are based on [Vega.jl](https://github.com/johnmyleswhite/Vega.jl).
 Computer-Graphics,GraphicalPlotting,Visualizer.jl,https://github.com/grero/Visualizer.jl,A simple GUI for quickly panning through a collection of data.
 Computer-Graphics,GraphicalPlotting,Winston.jl,https://github.com/nolta/Winston.jl,2D plotting for Julia.
 Computer-Graphics,GraphicalPlotting,YT.jl,https://github.com/jzuhone/YT.jl,A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
@@ -622,6 +645,7 @@ DataBase,[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_s
 DataBase,SciDB,SciDB-Julia,https://github.com/Paradigm4/SciDB-Julia,The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
 DataBase,SciDB,TAQ,https://github.com/Paradigm4/TAQ,Example SciDB queries for finance trade and quote data.
 DataBase,ENGINES,kyotocabinet.jl,https://github.com/tuzzeg/kyotocabinet.jl,Implementation of Kyoto Cabinet in Julia language.
+DataBase,GraphDB,Neo4j.jl,https://github.com/glesica/Neo4j.jl,Messing around with building a Neo4j driver for Julia.
 DataBase,HDF,EasyData.jl,https://github.com/ma-laforge/EasyData.jl,Simple/Fast(+HDF5) solution to writing datasets & plots to file.
 DataBase,LMDB,LMDB.jl,https://github.com/wildart/LMDB.jl,A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project.
 DataBase,MongoDB,CMongo.jl,https://github.com/tenthdimension/CMongo.jl,Julia wrapper of the C Mongo Driver.
@@ -635,6 +659,7 @@ DataBase,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper a
 DataBase,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 DataBase,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
 DataBase,PostgreSQL,libpq.jl,https://github.com/iamed2/libpq.jl,A libpq interface for Julia.
+DataBase,PostgreSQL,Postgres.jl,https://github.com/NCarson/Postgres.jl,Postgres database interface for the Julia language.
 DataBase,SQLite,SQLite.jl,https://github.com/quinnj/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
 DataBase,SQLite,Sqlite3.jl,https://github.com/PeetV/Sqlite3.jl,A wrapper for the SQLite3 C API, to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 DataBase,Org-[JuliaDB](https://github.com/JuliaDB),DataStreams.jl,https://github.com/JuliaDB/DataStreams.jl,A Julia package to stream data.
@@ -684,6 +709,7 @@ Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A band
 Hardware,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,API wrapper for Julia, bare bones.
 Hardware,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
 Hardware,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
+Hardware,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM.
 Hardware,Architectures,ZenFab.jl,https://github.com/FactoryOS/ZenFab.jl,Software for using digital manufacturing devices.
 Hardware,FTDI,FTD2XX.jl,https://github.com/cstook/FTD2XX.jl,Wrapper for FTDI FTD2XX library.
 Hardware,NationalInstruments,NIDAQ.jl,https://github.com/JaneliaSciComp/NIDAQ.jl,This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
@@ -702,9 +728,14 @@ Hardware,AUDIO-VIDEO,Radio.jl,https://github.com/JayKickliter/Radio.jl,A digital
 Hardware,AUDIO-VIDEO,Rasim.jl,https://github.com/maemre/Rasim.jl,A time-slot based radio network simulator written in Julia.
 Hardware,AUDIO-VIDEO,Sound.jl,https://github.com/JuliaLang/Sound.jl,Reading and writing from WAV files.
 Hardware,AUDIO-VIDEO,Tablo.jl,https://github.com/dmbates/Tablo.jl,Julia interface to the Tablo over-the-air digital video recorder.
+Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),LibSndFile.jl,https://github.com/JuliaAudio/LibSndFile.jl,A wrapper for libsndfile, and supports a wide variety of file and sample formats.
+Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),PortAudio.jl,https://github.com/JuliaAudio/PortAudio.jl,A wrapper for libportaudio, which gives cross-platform access to audio devices.
+Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),RingBuffers.jl,https://github.com/JuliaAudio/RingBuffers.jl,A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling.
+Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),SampleTypes.jl,https://github.com/JuliaAudio/SampleTypes.jl,A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages.
 Hardware,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 Hardware,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
 Hardware,ControlSystem,Control.jl,https://github.com/JuliaControl/Control.jl,Control Systems toolbox for Julialang.
+Hardware,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Controls Toolbox for Julia.
 Hardware,ControlSystem,Fontconfig.jl,https://github.com/dcjones/Fontconfig.jl,Basic Julia bindings for fontconfig.
 Hardware,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
 Hardware,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
@@ -713,9 +744,11 @@ Hardware,ControlSystem,ProtoBuf.jl,https://github.com/tanmaykm/ProtoBuf.jl,is a 
 Hardware,ControlSystem,Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapper for SLICOT Routines.
 Hardware,DOCS,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
 Hardware,DOCS,omer Reid's ["Introduction to Numerical Analysis - Basic Numerical Programming in Julia",http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
+Hardware,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos.
+Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/rennis250/Arduino.jl,Basic Arduino interface for Julia.
+Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
 Hardware,Robots,Robotics.jl,https://github.com/cdsousa/Robotics.jl,Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 Hardware,Robots,RobotOS.jl,https://github.com/phobon/RobotOS.jl,Julia interface to ROS (Robot Operating System).
-Hardware,TouchScreen,Arduino.jl,https://github.com/rennis250/Arduino.jl,Basic Arduino interface for Julia.
 Hardware,TouchScreen,Taste.jl,https://github.com/jiahao/Taste.jl,A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
 HPC,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton,https://github.com/JuliaLang/julia/blob/master/README.arm.md),
 HPC,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
@@ -753,8 +786,10 @@ HPC,COMPILERS,Clang.jl,https://github.com/ihnorton/Clang.jl,Julia interface to l
 HPC,COMPILERS,CompilerTools.jl,https://github.com/IntelLabs/CompilerTools.jl,The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
 HPC,COMPILERS,CompilerOptions.jl,https://github.com/sjkelly/CompilerOptions.jl,A Julia package for reading compiler options.
 HPC,COMPILERS,Eglib.jl,https://github.com/ihnorton/Eglib.jl,Clang.jl wrapping example, C code from @kindlmann.
-HPC,COMPILERS,JITTools.jl,https://github.com/loladiro/JITTools.jl,Tools for working with in-memory object.
+HPC,COMPILERS,JITTools.jl,https://github.com/Keno/JITTools.jl,Tools for working with in-memory object.
+HPC,COMPILERS,julia-icc-travis,https://github.com/sunoru/julia-icc-travis,Build Julia using icc on the Travis CI.
 HPC,COMPILERS,LLVM.jl,https://github.com/jakebolewski/LLVM.jl,A Julia package for LLVM.
+HPC,COMPILERS,llvm-cbe,https://github.com/JuliaComputing/llvm-cbe,resurrected LLVM "C Backend", with improvements for Julia.
 HPC,Preprocessor,Precompile.jl,https://github.com/JuliaLang/julia/blob/master/base/precompile.jl,Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
 HPC,Preprocessor,SnoopCompile.jl,https://github.com/timholy/SnoopCompile.jl,Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
 HPC,Transpiler,Julia2C,https://github.com/IntelLabs/julia/tree/j2c,A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
@@ -768,8 +803,9 @@ HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_co
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),FunHPC.jl,https://bitbucket.org/eschnett/funhpc.jl,A high-level API for distributed computing, implemented on top of MPI.
+HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),FunHPC.jl,https://github.com/eschnett/FunHPC.jl,Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),GCloud.jl,https://github.com/spencerlyon2/GCloud.jl,Tools for working with Google Compute engine via the cloud CLI.
+HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
 HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelGLM.jl,https://github.com/dmbates/ParallelGLM.jl,Parallel fitting of GLMs using SharedArrays.
@@ -806,10 +842,17 @@ i18n-L10n,Community,he [julia-i18n,https://gitter.im/JuliaLangEs/julia-i18n) IRC
 i18n-L10n,Unicode,ICU.jl,https://github.com/nolta/ICU.jl,Julia wrapper for the International Components for Unicode (ICU) library.
 i18n-L10n,Unicode,UnicodeExtras.jl,https://github.com/nolta/UnicodeExtras.jl,Another Unicode package.
 i18n-L10n,Unicode,UTF16.jl,https://github.com/nolta/UTF16.jl,UTF16 string type for Julia.
+i18n-L10n,Chinese,he [JuliaCN group on github,https://github.com/JuliaCN,
+i18n-L10n,Chinese,julialang.cn,http://julialang.cn/,Simplified Chinese homepage of Chinese community
+i18n-L10n,Chinese,julia_zh_cn,https://github.com/JuliaCN/julia_zh_cn,Simplified Chinese Documentation of Julia.
+i18n-L10n,Chinese,JetAlpha,http://jetalpha.org/,A Julia playground (in Chinese) for Julians. [Source Code](https://github.com/KDr2/JetAlpha.jl).
 i18n-L10n,Japanese,julia_doc_ja,https://github.com/iTakeshi/julia_doc_ja,Japanese documentation.
 i18n-L10n,OtherSites,Shapecatcher.com,http://shapecatcher.com/) is a Unicode character recognition website,
-IO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions
-IO,GeneralIO,StrPack.jl,https://github.com/pao/StrPack.jl,for encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+IO,BinaryIO,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
+IO,BinaryIO,StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+IO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
+IO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
+IO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
 IO,DataFormats,AIDA.jl,https://github.com/jstrube/AIDA.jl,This package implements simple readers for legacy AIDA files.
 IO,DataFormats,BEncode.jl,https://github.com/joshuamiller/BEncode.jl,A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 IO,DataFormats,BDF.jl,https://github.com/sam81/BDF.jl,Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
@@ -821,19 +864,19 @@ IO,DataFormats,CSV.jl,https://github.com/tanmaykm/CSV.jl,reads CSV files.
 IO,DataFormats,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 IO,DataFormats,DataFramesIO.jl,https://github.com/johnmyleswhite/DataFramesIO.jl,Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
 IO,DataFormats,DataRead.jl,https://github.com/WizardMac/DataRead.jl,can read files from Stata, SAS, and SPSS.
-IO,DataFormats,DWARF.jl,https://github.com/loladiro/DWARF.jl,Julia Package for parsing the DWARF file format.
-IO,DataFormats,ELF.jl,https://github.com/loladiro/ELF.jl,Julia Package for working with ELF files.
+IO,DataFormats,DWARF.jl,https://github.com/Keno/DWARF.jl,Julia Package for parsing the DWARF file format.
+IO,DataFormats,ELF.jl,https://github.com/Keno/ELF.jl,Julia Package for working with ELF files.
+IO,DataFormats,Feather.jl,https://github.com/JuliaStats/Feather.jl,A format for saving and retrieving data frames inorder to read and write in the feather format.
 IO,DataFormats,FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilities to read/write FASTA format files in Julia.
 IO,DataFormats,Grisu.jl,https://github.com/quinnj/Grisu.jl,Port of Double-Conversion library to native Julia.
 IO,DataFormats,HDF5.jl,https://github.com/JuliaLang/HDF5.jl,Lib to read HDF5 format files (HDF5 is a widely-used file format for general data)
 IO,DataFormats,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 IO,DataFormats,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD
-IO,DataFormats,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
 IO,DataFormats,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
 IO,DataFormats,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
 IO,DataFormats,LibExpat.jl,https://github.com/amitmurthy/LibExpat.jl,A Julia wrapper for libexpat.
 IO,DataFormats,LightXML.jl,https://github.com/lindahua/LightXML.jl,A light-weight Julia package for XML based on libxml2.
-IO,DataFormats,MachO.jl,https://github.com/loladiro/MachO.jl,An implementation of the MachO file format.
+IO,DataFormats,MachO.jl,https://github.com/Keno/MachO.jl,An implementation of the MachO file format.
 IO,DataFormats,MNIST.jl,https://github.com/johnmyleswhite/MNIST.jl,Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
 IO,DataFormats,NeuralynxNCS.jl,https://github.com/simonster/NeuralynxNCS.jl,A Julia module for reading Neuralynx NCS files.
 IO,DataFormats,NetCDF.jl,https://github.com/meggart/NetCDF.jl,NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language.
@@ -841,25 +884,77 @@ IO,DataFormats,NPZ.jl,https://github.com/fhs/NPZ.jl,Julia package that provides 
 IO,DataFormats,ObjFileBase.jl,https://github.com/Keno/ObjFileBase.jl,Common functionality for Object Files.
 IO,DataFormats,OIFITS.jl,https://github.com/emmt/OIFITS.jl,Support for OI-FITS (optical interferometry data format).
 IO,DataFormats,OpenSlide.jl,https://github.com/ihnorton/OpenSlide.jl,OpenSlide bindings for Julia.
+IO,DataFormats,Parquet.jl,https://github.com/tanmaykm/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
 IO,DataFormats,PdbTool,https://github.com/christophfeinauer/PdbTool.jl,An object-oriented Julia tool to parse PDB files and work with them.
 IO,DataFormats,PList.jl,https://github.com/ordovician/PList.jl,A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
 IO,DataFormats,PLX.jl,https://github.com/simonster/PLX.jl,Julia module for reading Plexon PLX files.
 IO,DataFormats,HarwellBoeing.jl,https://github.com/dpo/HarwellBoeing.jl,A reader for matrices and supplementary data written in the Harwell-Boeing format.
-IO,DataFormats,Shapefile.jl,https://github.com/loladiro/Shapefile.jl,Parsing .shp files in Julia.
+IO,DataFormats,Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp files in Julia.
 IO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
 IO,DataFormats,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
 IO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 IO,DataFormats,XSV.jl,https://github.com/benhamner/XSV.jl,CSV, TSV, etc. streaming and batch parser.
-IO,Imageformats,ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading
-IO,Imageformats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
-IO,Imageformats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
-IO,Imageformats,NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
-IO,Imageformats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Julia support for Netpbm (.ppm, .pgm, .pbm)
-IO,Imageformats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
-IO,Imageformats,AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
-IO,Imageformats,NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
-IO,Imageformats,DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
-IO,Imageformats,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.com/scw/jenks.jl,
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,channels(), tspaces(), kvspaces() and more.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM).
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),AutoTypeParameters.jl,https://github.com/andrewcooke/AutoTypeParameters.jl,A Julia library to reversibly encode "any" value so that it can be used as a type parameter.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FileIO2.jl,https://github.com/ma-laforge/FileIO2.jl,File Object Type Hierarchy.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FreeType.jl,https://github.com/jhasse/FreeType.jl,FreeType 2 bindings API wrapper.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FixedSizeDictionaries.jl,https://github.com/SimonDanisch/FixedSizeDictionaries.jl,Library which implements a fixed size variant of Dictionaries.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Parameters.jl,https://github.com/mauro3/Parameters.jl,Types with default field values, keyword constructors and (un-)pack macros.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),StringInterpolation.jl,https://github.com/EricForgy/StringInterpolation.jl,String interpolation for non-standard string literals.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Strings.jl,https://github.com/quinnj/Strings.jl,Testing out a new String representation.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Traits.jl,https://github.com/mauro3/Traits.jl,Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TupleTypes.jl,https://github.com/mbauman/TupleTypes.jl,A testbed for an API to access Tuple parameters.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeCheck.jl,https://github.com/astrieanna/TypeCheck.jl,a type checker for Julia.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),"% coverage" for Number documentation, for example, what % of concrete types have abs() defined?,https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10,
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Typeclass.jl,https://github.com/jasonmorton/Typeclass.jl,Prototype typeclasses for Julia.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeGraph.jl,https://github.com/johnmyleswhite/TypeGraph.jl,Visualize the Julia type system.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeTree.jl,https://github.com/johnmyleswhite/TypeTree.jl,source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
+IO,Resources,ameson Nash on [Static and Ahead of Time (AOT) compiled Julia,http://juliacomputing.com/blog/2016/02/09/static-julia.html,
+IO,Resources,A more thorough look at Julia's "double colon" syntax,http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb,
+IO,ImageFormats,AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
+IO,ImageFormats,DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
+IO,ImageFormats,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
+IO,ImageFormats,ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading.
+IO,ImageFormats,NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
+IO,ImageFormats,NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
+IO,ImageFormats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Julia support for Netpbm (.ppm, .pgm, .pbm).
+IO,ImageFormats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
+IO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
+IO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 Mathematics,CRYPTOGRAPHY,BlockCipherSelfStudy.jl,https://github.com/andrewcooke/BlockCipherSelfStudy.jl,Blocks, and RC5.
 Mathematics,CRYPTOGRAPHY,Crypto.jl,https://github.com/danielsuo/Crypto.jl,A library that wraps OpenSSL, but also has pure Julia implementations for reference.
 Mathematics,CRYPTOGRAPHY,Hashlib.jl,https://github.com/samgre/Hashlib.jl,SHA1 implementation for Julia.
@@ -892,6 +987,7 @@ Mathematics,MATH,FrameFuns.jl,https://github.com/daanhb/FrameFuns.jl,Exploring p
 Mathematics,MATH,GSL.jl,https://github.com/jiahao/GSL.jl,Julia interface to the GNU Scientific Library - GSL.
 Mathematics,MATH,Hecke.jl,https://github.com/thofma/Hecke.jl),
 Mathematics,MATH,Hexagons.jl,https://github.com/dcjones/Hexagons.jl,Useful tools for working with hexagonal grids.
+Mathematics,MATH,MathToolkit.jl,https://github.com/baruchel/MathToolkit.jl,A Julia package providing various functions mainly for the purpose of experimental mathematics.
 Mathematics,MATH,Measures.jl,https://github.com/dcjones/Measures.jl,Unified measure and coordinates types.
 Mathematics,MATH,MPFR.jl,https://github.com/andrioni/MPFR.jl,A Julia package for the GNU MPFR library.
 Mathematics,MATH,Multicombinations.jl,https://github.com/jlep/Multicombinations.jl,An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
@@ -918,6 +1014,7 @@ Mathematics,MATH,UnumTests.jl,https://github.com/goedman/UnumTests.jl,Some exper
 Mathematics,MATH,utils.jl,https://github.com/juho-lee/utils.jl,basic utilities needed for scientific coding with julia.
 Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),DeepConvert.jl,https://github.com/jlapeyre/DeepConvert.jl,This package provides convenient literal construction of values of large data types.
 Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),ErrorFreeArith.jl,https://github.com/J-Sarnoff/ErrorFreeArith.jl,Error-Free transformations for arithmetic ops.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ArbFloats.jl,https://github.com/Jeffrey-Sarnoff/ArbFloats.jl, Arb available as an extended precision floating point context.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DecFP.jl,https://github.com/stevengj/DecFP.jl,The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubDouble.jl,https://github.com/J-Sarnoff/DoubDouble.jl),
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubleDouble.jl,https://github.com/simonbyrne/DoubleDouble.jl,A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
@@ -926,6 +1023,7 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats512.jl,https://github.com/J-Sarnoff/Floats512.jl,Accurate floating point math at extended precision for Float-512.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats1024.jl,https://github.com/J-Sarnoff/Floats1024.jl,Accurate floating point math at extended precision for Float-1024.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FloatHigher.jl,https://github.com/J-Sarnoff/FloatHigher.jl,accurate floating point math at extended precisions.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),UnumX.jl,https://github.com/JuliaComputing/UnumX.jl,Experimental Unums.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ValidatedNumerics.jl,https://github.com/dpsanders/ValidatedNumerics.jl,Rigorous floating-point calculations via interval arithmetic.
 Mathematics,Resources,Elementary Number Theory,https://github.com/williamstein/ent,Primes, Congruences, and Secrets.
 Mathematics,Algebra,algebra,https://github.com/alrahimi/algebra/,A hierarchy of abstract algebraic structures in Julia.
@@ -1039,8 +1137,6 @@ Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathe
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),SimplePosets.jl,https://github.com/scheinerman/SimplePosets.jl,Simple partially ordered sets for Julia.
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ZChop.jl,https://github.com/jlapeyre/ZChop.jl,This package replaces small numbers with zero, works on complex and rational numbers, arrays, and some other structures. The idea is for zchop to descend into structures, chopping numbers, and acting as the the identity on anything that can't be sensibly compared to eps.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,Computational geometry with affine transformations
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),ConicHulls.jl,https://github.com/toivoh/ConicHulls.jl,Exact dynamic conic hulls of integer vectors.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),ConvexHull.jl,https://github.com/joehuchette/ConvexHull.jl,A Julia library for polyhedral computations.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
@@ -1055,6 +1151,11 @@ Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),ols.jl,https://github.com/forio/ols.jl,Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),SurfaceMesh.jl,https://github.com/michelk/SurfaceMesh.jl,A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),TrussPlotter.jl,https://github.com/sjkelly/TrussPlotter.jl,This is a package to plot trusses for finite element results.
+Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),CDDLib.jl,https://github.com/blegat/CDDLib.jl,A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a "lower level" using the API of cdd or using the higher level interface of Polyhedra.jl.
+Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),CHull.jl,https://github.com/davidavdav/CHull.jl,A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
+Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),ConicHulls.jl,https://github.com/toivoh/ConicHulls.jl,Exact dynamic conic hulls of integer vectors.
+Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),ConvexHull.jl,https://github.com/joehuchette/ConvexHull.jl,A Julia library for polyhedral computations.
+Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),Polyhedra.jl,https://github.com/blegat/Polyhedra.jl,It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
 Mathematics,[SolidGeometry](https://en.wikipedia.org/wiki/Solid_geometry],Descartes.jl,https://github.com/FactoryOS/Descartes.jl,A research project into the representation of solid geometry.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),ApproXD.jl,https://github.com/floswald/ApproXD.jl,B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Dopri.jl,https://github.com/helgee/Dopri.jl,A Julia wrapper for the DOPRI5 and DOP853 integrators.
@@ -1114,7 +1215,7 @@ Mathematics,NumericalLinearAlgebra(NLA),RK4.jl,https://github.com/ntezak/RK4.jl,
 Mathematics,NumericalLinearAlgebra(NLA),SpecialMatrices.jl,https://github.com/timbers/SpecialMatrices.jl,Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 Mathematics,NumericalLinearAlgebra(NLA),SpecialMatrices.jl,https://github.com/jiahao/SpecialMatrices.jl,Julia package for working with special matrix types.
 Mathematics,NumericalLinearAlgebra(NLA),ToeplitzMatrices.jl,https://github.com/andreasnoackjensen/ToeplitzMatrices.jl,Fast matrix multiplication and division for Toeplitz matrices in Julia.
-Mathematics,NumericalLinearAlgebra(NLA),VML.jl,https://github.com/simonster/VML.jl,Julia bindings for the Intel Vector Math Library.
+Mathematics,NumericalLinearAlgebra(NLA),VML.jl,https://github.com/JuliaLang/VML.jl,Julia bindings for the Intel Vector Math Library.
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),JuliaFEM.jl,https://github.com/JuliaFEM/JuliaFEM.jl,Finite Element method solver.
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),MiniBall.jl,https://github.com/JuliaFEM/MiniBall.jl),
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),TetGen.jl,https://github.com/JuliaFEM/TetGen.jl,Finite Element method solver.
@@ -1142,6 +1243,7 @@ OpenData,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Inte
 OpenData,SOFTWARE,DataStreams.jl,https://github.com/lindahua/DataStreams.jl,A Julia package to support streaming process of data .
 OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
 OpenData,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
+OpenData,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
 OpenData,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 OpenData,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the data sets available in R.
 OpenData,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
@@ -1186,6 +1288,8 @@ OpenData,DATA-Research,Registry of Research Data Repositories,http://www.re3data
 OpenData,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
 OpenData,MachineLearning,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
 OpenData,Math,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
+OpenData,Video,Databrary,https://nyu.databrary.org,A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org).
+OpenData,DataScienceResources,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html),
 Physics,,auditory.jl,https://github.com/jfsantos/auditory.jl,Auditory filterbanks in Julia.
 Physics,,Chipmunk.jl,https://github.com/zyedidia/Chipmunk.jl,A binding of the physics engine Chipmunk for Julia.
 Physics,,CMSSW.jl,https://github.com/jpata/CMSSW.jl,A work-in-progress wrapper for ROOT.jl.
@@ -1214,6 +1318,7 @@ Physics,LaserPhysics,LaserOpticalCommunicationExperiments.jl,https://github.com/
 Physics,LaserPhysics,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Physics,MedicalPhysics,Psychosis.jl,https://github.com/rennis250/Psychosis.jl,A Julia package for visual psychophysics that mimics the Processing environment.
 Physics,MedicalPhysics,Willow.jl,https://github.com/rennis250/Willow.jl,A Julia package for visual psychophyscis that primarily mimics the Processing environment.
+Physics,QuantumMechanics,QuantumOptics.jl,https://github.com/bastikr/QuantumOptics.jl,Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 Physics,QuantumMechanics,QuDOS.jl,https://github.com/acroy/QuDOS.jl,Quantum Dynamics of Open Systems in Julia.
 Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuBase.jl,https://github.com/JuliaQuantum/QuBase.jl,A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuDirac.jl,https://github.com/JuliaQuantum/QuDirac.jl,A library for performing quantum mechanics using Dirac notation.
@@ -1226,63 +1331,16 @@ Physics,Miscellaneous,fys,https://github.com/jhlq/fys,Physics and misc unmaintai
 Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
 Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.com/scw/jenks.jl,
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/one-more-minute/MacroTools.jl,A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,channels(), tspaces(), kvspaces() and more.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM).
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
-Programming-Paradigms,[DataTypes](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),AutoTypeParameters.jl,https://github.com/andrewcooke/AutoTypeParameters.jl,A Julia library to reversibly encode "any" value so that it can be used as a type parameter.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FileIO2.jl,https://github.com/ma-laforge/FileIO2.jl,File Object Type Hierarchy.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FreeType.jl,https://github.com/jhasse/FreeType.jl,FreeType 2 bindings API wrapper.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Parameters.jl,https://github.com/mauro3/Parameters.jl,Types with default field values, keyword constructors and (un-)pack macros.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),StringInterpolation.jl,https://github.com/EricForgy/StringInterpolation.jl,String interpolation for non-standard string literals.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Strings.jl,https://github.com/quinnj/Strings.jl,Testing out a new String representation.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Traits.jl,https://github.com/mauro3/Traits.jl,Traits package contracts on a type or a tuple of types and allows dispatch to work with them.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TupleTypes.jl,https://github.com/mbauman/TupleTypes.jl,A testbed for an API to access Tuple parameters.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeCheck.jl,https://github.com/astrieanna/TypeCheck.jl,a type checker for Julia.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),"% coverage" for Number documentation, for example, what % of concrete types have abs() defined?,https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10,
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Typeclass.jl,https://github.com/jasonmorton/Typeclass.jl,Prototype typeclasses for Julia.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeGraph.jl,https://github.com/johnmyleswhite/TypeGraph.jl,Visualize the Julia type system.
-Programming-Paradigms,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeTree.jl,https://github.com/johnmyleswhite/TypeTree.jl,source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
-Programming-Paradigms,Resources,A more thorough look at Julia's "double colon" syntax,http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb,
 Programming-Paradigms,ProgrammingParadigms,BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
 Programming-Paradigms,ProgrammingParadigms,InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,Intervals are inter-values, an interval is its values and their intra-values.
 Programming-Paradigms,ProgrammingParadigms,LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
-Programming-Paradigms,ProgrammingParadigms,Programming Language Theory,https://github.com/steshaw/plt-study,Mathematics, Compilers, Functional Programming, and other papers.
+Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,Mathematics, Compilers, Functional Programming, and other papers.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and c functions.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),StatefulIterators.jl,https://github.com/andrewcooke/StatefulIterators.jl,A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 Programming-Paradigms,[DoubleDispatch](https://en.wikipedia.org/wiki/Double_dispatch),julia-pattern-dispatch,https://github.com/toivoh/julia-pattern-dispatch,Support for method dispatch in Julia based on pattern matching.
 Programming-Paradigms,FunctionalProgramming,FunctionalUtils.jl,https://github.com/zachallaun/FunctionalUtils.jl,Functional Julia – based on fogus/lemonad.
 Programming-Paradigms,FunctionalProgramming,Glob.jl,https://github.com/vtjnash/Glob.jl,Posix-compliant file name pattern matching.
-Programming-Paradigms,FunctionalProgramming,Lazy.jl,https://github.com/one-more-minute/Lazy.jl,Functional programming for Julia.
+Programming-Paradigms,FunctionalProgramming,Lazy.jl,https://github.com/MikeInnes/Lazy.jl,Functional programming for Julia.
 Programming-Paradigms,FunctionalProgramming,diy-lisp-julia,https://github.com/qhfgva/diy-lisp-julia,A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
 Programming-Paradigms,FunctionalProgramming,LispREPL.jl,https://github.com/swadey/LispREPL.jl,REPL for `Lisp.jl`.
 Programming-Paradigms,FunctionalProgramming,LispSyntax.jl,https://github.com/swadey/LispSyntax.jl,lisp-like language in julia.
@@ -1299,6 +1357,8 @@ Programming-Paradigms,Macros,Unroll.jl,https://github.com/StephenVavasis/Unroll.
 Programming-Paradigms,Macros,UTime.jl,https://github.com/J-Sarnoff/UTime.jl,Universal Time using local system timezone.
 Programming-Paradigms,MetaProgramming,Sugar.jl,https://github.com/bramtayl/Sugar.jl),
 Programming-Paradigms,Resources,Meta Programming Manual,http://docs.julialang.org/en/latest/manual/metaprogramming/,
+Programming-Paradigms,Resources,The Design Impact of Multiple Dispatch,http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013,
+Programming-Paradigms,Resources,What are the advantages of multiple dispatch in Julia,https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch),
 Programming-Paradigms,Multi-Threading,OCCA.jl,https://github.com/ReidAtcheson/OCCA.jl,Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),CallGraphs.jl,https://github.com/timholy/CallGraphs.jl,A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),dataflow.jl,https://github.com/JeffBezanson/dataflow.jl,Introduction to dataflow analysis using julia.
@@ -1314,9 +1374,12 @@ Publications,RESEARCHPAPERS,How to write, publish, and review scientific papers 
 Publications,RESEARCHPAPERS,Julia language research publications,http://julialang.org/publications/),
 Publications,RESEARCHPAPERS,hah, Viral B., et al. "[Novel Algebras for Advanced Analytics in Julia,http://ieee-hpec.org/2013/index_htm_files/49.pdf)", IEEE-HPEC (2013),
 Publications,RESEARCHPAPERS,ezanson Jeff, et al. "[Julia: A fresh approach to numerical computing,http://arxiv.org/abs/1411.1607)", 07-November-2014,
+Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains why "[Julia is a Fast Language for Numerical Computing,https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)",
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Lapidary.jl,https://github.com/MichaelHatherly/Lapidary.jl,A documentation generator for Julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
+QA,Resources,Making nice documentation,http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package,
 QA,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
 QA,LOGGING,Logging.jl,https://github.com/kmsquire/Logging.jl,The Logging module.
 QA,LOGGING,LogMover.jl,https://github.com/nkottary/LogMover.jl,
@@ -1349,6 +1412,7 @@ Resources,BOOKS,rends in Bayesian Methodology:: [Source code for "Hamiltonian Me
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
 Resources,BLOGS,he official [Julia language blog,http://julialang.org/blog/,
+Resources,BLOGS,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
 Resources,BLOGS,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
 Resources,BLOGS,Julia Package Ecosystem Dependency Graphs,http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning,
 Resources,BLOGS,Values vs. Bindings: The Map is Not the Territory,http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/,
@@ -1446,7 +1510,6 @@ Statistics,Econometrics,FredData.jl,https://github.com/micahjsmith/FredData.jl,P
 Statistics,Econometrics,GARCH.jl,https://github.com/AndreyKolev/GARCH.jl,Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
 Statistics,Econometrics,GrowthModels,https://github.com/NYUEcon/GrowthModels,This is a repository that contains solutions to many growth models that are of the same class.
 Statistics,Econometrics,Jconometrics.jl,https://github.com/adriantorrie/Jconometrics.jl,MATLAB to Julia port of Spatial Econometrics.
-Statistics,Econometrics,julia_timeseries,https://github.com/ElOceanografo/julia_timeseries,Time-series analysis functions for Julia.
 Statistics,Econometrics,Loss.jl,https://github.com/johnmyleswhite/Loss.jl,General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
 Statistics,Econometrics,QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,This package collects code for quantitative economic modeling. It is currently comprised of two main parts: 1. A toolbox of routines useful when doing economics and 2. Implementations of types and solution methods for common economic models.
 Statistics,Econometrics,RuinProbability.jl,https://github.com/Hank-Qian/RuinProbability.jl,For calculating the ruin probability with real data under different claims models.
@@ -1473,6 +1536,7 @@ Statistics,Finance,SDE.jl,https://github.com/mschauer/SDE.jl,Simulation and infe
 Statistics,Finance,stockMonitor.jl,https://github.com/krthkj/stockMonitor.jl,A module which constantly collects and performs analyses the stock market.
 Statistics,Finance,TradingSystem.jl,https://github.com/milktrader/TradingSystem.jl,Quantitative trading framework in Julia.
 Statistics,Finance,WorldBankDataTd.jl,https://github.com/JuliaFinMetriX/WorldBankDataTd.jl,Accessing World Bank Data.
+Statistics,Finance,YStockData.jl,https://github.com/Algocircle/YStockData.jl,Fetch Data from Yahoo Finance.
 Statistics,Finance,ZVSimulator.jl,https://github.com/scidom/ZVSimulator.jl,The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),FinancialBlotter.jl,https://github.com/JuliaQuant/FinancialBlotter.jl,Financial Instruments and Accounting in Julia.
 Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),FinanceStats.jl,https://github.com/JuliaQuant/FinanceStats.jl,An experimental sandbox of functions that implement common statistical methods in finance.
@@ -1493,6 +1557,7 @@ Statistics,OPERATIONSRESEARCH,MinFinder.jl,https://github.com/Ken-B/MinFinder.jl
 Statistics,OPERATIONSRESEARCH,OptimizationServices.jl,https://github.com/tkelman/OptimizationServices.jl,Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
 Statistics,OPERATIONSRESEARCH,Predictors.jl,https://github.com/dejakaymac/Predictors.jl,
 Statistics,OPERATIONSRESEARCH,Ranking.jl,https://github.com/johnmyleswhite/Ranking.jl,Tools for ranking in Julia.
+Statistics,OPERATIONSRESEARCH,RankStatistics.jl,https://github.com/korowjev/RankStatistics.jl,A package that implements rank-based statistics methods.
 Statistics,OPERATIONSRESEARCH,RationalSimplex.jl,https://github.com/IainNZ/RationalSimplex.jl,Pure Julia implementation of the simplex algorithm.
 Statistics,OPERATIONSRESEARCH,SemidefiniteProgramming.jl,https://github.com/daviddelaat/SemidefiniteProgramming.jl,This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
 Statistics,OPERATIONSRESEARCH,TrafficAssignment.jl,https://github.com/chkwon/TrafficAssignment.jl,A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
@@ -1523,6 +1588,7 @@ Statistics,Optimization,Junquo.jl,http://github.com/IainNZ/Junquo.jl,stands for 
 Statistics,Optimization,LinearResponseVariationalBayes.jl,https://github.com/rgiordan/LinearResponseVariationalBayes.jl,Julia tools for building simple variational Bayes models with JuMP.
 Statistics,Optimization,LossFuns.jl,https://github.com/lindahua/LossFuns.jl,An implementation of loss functions for empirical risk minimization.
 Statistics,Optimization,LSQ.jl,https://github.com/davidlizeng/LSQ.jl,is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
+Statistics,Optimization,Mayday.jl,https://github.com/rdeits/Mayday.jl,Sums-of-Squares optimization in Julia, powered by JuMP
 Statistics,Optimization,Memoize.jl,https://github.com/simonster/Memoize.jl,Easy memoization for Julia.
 Statistics,Optimization,MOpt.jl,https://github.com/floswald/MOpt.jl,Parallel derivative-free Moment Optimization for Julia.
 Statistics,Optimization,Munkres.jl,https://github.com/FugroRoames/Munkres.jl,Munkres algorithm for the optimal assignment problem.
@@ -1544,6 +1610,7 @@ Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programmin
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),InformedDifferentialEvolution.jl,https://github.com/rened/InformedDifferentialEvolution.jl,Implementation of Differential Evolution with optional custom predictors.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),ParallelGenocop.jl,https://github.com/display-none/ParallelGenocop.jl,Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
+Statistics,[GeometricProgramming](https://en.wikipedia.org/wiki/Geometric_programming),JuGP.jl,https://github.com/mlubin/JuGP.jl,A prototype JuMP extension for geometric programming.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),Cbc.jl,https://github.com/JuliaOpt/Cbc.jl,Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),Convex.jl,https://github.com/JuliaOpt/Convex.jl,a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),GLPKMathProgInterface.jl,https://github.com/JuliaOpt/GLPKMathProgInterface.jl,Interface between the GLPK.jl wrapper and MathProgBase.jl.
@@ -1672,6 +1739,7 @@ Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianData
 Statistics,Bayesian,BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Code accompanying the paper Frank van der Meulen, Moritz Schauer: Bayesian estimation of discretely observed multi-dimensional diffusion processes using guided proposals : http://arxiv.org/abs/1406.4704
 Statistics,Bayesian,BayesModels.jl,https://github.com/lindahua/BayesModels.jl,Tools and Building Blocks for Bayesian Modeling and Probabilistic Inference.
 Statistics,Bayesian,BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
+Statistics,Bayesian,BIAS.jl,https://github.com/adham/BIAS.jl,Bayesian Inference At Scale.
 Statistics,Bayesian,BNP.jl,https://github.com/trappmartin/BNP.jl,Bayesian nonparametrics in Julia with some [documentation](http://bnpjl.readthedocs.org/en/latest/).
 Statistics,Bayesian,Bolstad2.jl,https://github.com/goedman/Bolstad2.jl,Julia functions from W.M. Bolstad's "Understanding Computational Bayesian Statistics".
 Statistics,Bayesian,IdealPoints.jl,https://github.com/johnmyleswhite/IdealPoints.jl,Basic model fitting for N-d ideal points. {Tag: unofficial Non-etadata package}.
@@ -1699,15 +1767,19 @@ Statistics,StatisticalTests,RobustStats.jl,https://github.com/mrxiaohe/RobustSta
 Statistics,StatisticalTests,StatTests.jl,https://github.com/i-kiwamu/StatTests.jl,[A set of statistical tests for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,DependentBootstrap,https://github.com/colintbowers/DependentBootstrap.jl,A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,DFA.jl,https://github.com/afternone/DFA.jl,Detrended fluctuation analysis in Julia.
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,julia_timeseries,https://github.com/ElOceanografo/julia_timeseries,Time-series analysis functions for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,KernelDensity.jl,https://github.com/JuliaStats/KernelDensity.jl,Kernel density estimators that can handle univariate and bivariate data, but only continuous variables.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,KernelEstimator.jl,https://github.com/panlanfeng/KernelEstimator.jl,The julia package for nonparametric density estimate and regression.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,KernelStat,https://github.com/colintbowers/KernelStat.jl,A module for the Julia language for kernel-function based statistics.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,MarketTechnicals.jl,https://github.com/JuliaQuant/MarketTechnicals.jl,Technical analysis of financial time series in Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,RARIMA,https://github.com/colintbowers/RARIMA.jl,An ARIMA (Autoregressive Integrated Moving Average) module for the Julia language that uses libraries from the R-language.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,SmoothingKernels.jl,https://github.com/johnmyleswhite/SmoothingKernels.jl,Smoothing kernels for use in kernel regression and kernel density estimation.
-Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeModels.jl,https://github.com/JuliaStats/TimeModels.jl,Modeling time series in Julia.
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeriesRegressions.jl,https://github.com/andreasnoack/TimeSeriesRegressions.jl,Tools for working with regression based time series modelling.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSGE.jl,https://github.com/FRBNY-DSGE/DSGE.jl,The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics.
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSPsolver.jl,https://github.com/Argonne-National-Laboratory/DSPsolver.jl,This package provides an interface for using an open-source software package DSP for solving stochastic mixed-integer programming problems from the Julia language.
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),HJBFiniteDifference.jl,https://github.com/matthieugomez/HJBFiniteDifference.jl,Solve HJB equations through finite difference schemes.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),JuMPStoch.jl,https://github.com/joehuchette/JuMPStoch.jl,A stochastic optimization framework for JuMP.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDOptim.jl,https://github.com/lindahua/SGDOptim.jl,A julia package for Stochastic Gradient Descent.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD.jl,https://github.com/johnmyleswhite/SGD.jl,Fit models using SGD in Julia.
@@ -1718,7 +1790,7 @@ Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),Stoch
 Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
 Statistics,Cookbooks,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
 Statistics,Slides,Julia For R Programmers,http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates,
-Statistics,Videos,Statistical Models in Julia video by Douglas Bates (@dmbates),https://www.youtube.com/watch?v=v9Io-p_iymI,
+Statistics,Videos,Statistical Models in Julia,https://www.youtube.com/watch?v=v9Io-p_iymI) video by Douglas Bates (@dmbates),
 Utilities,DOCUMENTATION,Doc.jl,https://github.com/dcarrera/Doc.jl,Daniel Carrera's modern documentation system for Julia.
 Utilities,DOCUMENTATION,Docile.jl,https://github.com/MichaelHatherly/Docile.jl,Experimental Julia package documentation system.
 Utilities,DOCUMENTATION,Doxygen,https://github.com/jiahao/julia/tree/cjh/doxygen,A branch providing support for documenting in Julia using Doxygen and doxyfilter.jl tools. Currently supports (incomplete) function signatures and caller/callee graphs but types and modules are not parsed. Link to Jihao's [Dropbox output of doxygen](https://www.dropbox.com/sh/u4ueu6t8keabftl/AAA4spkqRLpy-FxLS_f-FXlqa?dl=0).
@@ -1726,11 +1798,14 @@ Utilities,DOCUMENTATION,Jocco,http://lcw.github.com/jocco/,is a simple literate-
 Utilities,DOCUMENTATION,Lexicon.jl,https://github.com/MichaelHatherly/Lexicon.jl,Julia package documentation generator that provides access to the documentation created by the @doc macro from Docile.jl. It allows querying of package documentation from the Julia REPL and building HTML documentation.
 Utilities,DOCUMENTATION,Markdown.jl,https://github.com/johnmyleswhite/Markdown.jl,Translate Markdown to HTML from Julia using Sundown.
 Utilities,DOCUMENTATION,Roxygen.jl,https://github.com/johnmyleswhite/Roxygen.jl,A Roxygen-like documentation package for automatically generating documentation from Julia source files.
+Utilities,DOCUMENTATION,sphinx-julia,https://github.com/bastikr/sphinx-julia,Documenting Julia projects with Sphinx.
+Utilities,DOCUMENTATION,Weave.jl,https://github.com/mpastell/Weave.jl,Scientific reports/literate programming for Julia.
 Utilities,GeSHI,Julia language file for GeSHI,https://github.com/john9631/JuliaDocs/blob/master/julia.php,
 Utilities,GUI,Canvas.jl,https://github.com/shashi/Canvas.jl,Composable UIs in Julia.
 Utilities,GUI,JGUI.jl,https://github.com/jverzani/JGUI.jl,Simplified interface for making GUI's in Julia.
 Utilities,GUI,JuliaTools.jl,https://github.com/tknopp/JuliaTools.jl,A toolkit for viewing Julia packages, modules, etc....
 Utilities,GUI,PySide.jl,https://github.com/jverzani/PySide.jl,A julia interface for accessing Qt via PyCall and PySide.
+Utilities,GUI,QML.jl,https://github.com/barche/QML.jl,Small example for starting an interface to Qt5 QML.
 Utilities,GUI,Qt5.jl,https://github.com/tbreloff/Qt5.jl,A wrapper around C++ library `Qt5`.  {Usable: 1, Robust: 1, Active: 1}
 Utilities,GUI,Table.jl,https://github.com/cpritcha/Table.jl,Display Tables in plain text, HTML, LaTex.
 Utilities,GUI,Tealeaf.jl,https://github.com/rennis250/Tealeaf.jl,A simple GUI package for Julia that is based on Processing.jl and Reactive.jl.
@@ -1740,26 +1815,29 @@ Utilities,GTK,GI.jl,https://github.com/bfredl/GI.jl,Julia bindings using libgobj
 Utilities,GTK,Gtk.jl,https://github.com/JuliaLang/Gtk.jl,Julia interface to the GTK windowing toolkit.
 Utilities,GTK,GtkApps.jl,https://github.com/tknopp/GtkApps.jl,GTK Apps by @tknopp.
 Utilities,GTK,GtkInteract.jl,https://github.com/jverzani/GtkInteract.jl,Part of Interact.jl functionality with Gtk.
-Utilities,IDE,Atom.jl,https://github.com/JunoLab/Atom.jl,Julia Client for Atom.
-Utilities,IDE,tom : [atom-language-julia,https://github.com/JuliaLang/atom-language-julia,A Julia language support package for the Atom editor.
-Utilities,IDE,atom-julia-client,https://github.com/JunoLab/atom-julia-client,Julia Eval in Atom.
-Utilities,IDE,Electron.jl,https://github.com/jkroso/Electron.jl,Provides easy access to atom/electron from Julia.
 Utilities,IDE,BlinkEditor.jl,https://github.com/EricForgy/BlinkEditor.jl,A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
-Utilities,IDE,emacs-ess-julia.el,https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el,ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc.
 Utilities,IDE,jEdit-julia,https://github.com/tuckerkevin/jedit-julia,A jEdit mode for Julia.
-Utilities,IDE,Jewel.jl,https://github.com/one-more-minute/Jewel.jl,is the Julia package which handles communication with Light Table for Jewel.
+Utilities,IDE,Jewel.jl,https://github.com/MikeInnes/Jewel.jl,is the Julia package which handles communication with Light Table for Jewel.
 Utilities,IDE,JuliaDT.jl,https://github.com/JuliaComputing/JuliaDT,Julia Development Toolkit for Eclipse.
 Utilities,IDE,julia-ide,https://github.com/malmaud/julia-ide,YAJI.
 Utilities,IDE,Julia-Studio,http://forio.com/products/julia-studio/,Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
 Utilities,IDE,Julia.tmbundle,https://github.com/JuliaLang/Julia.tmbundle,Julia language support for TextMate 2 (and Sublime Text).
 Utilities,IDE,Julia-Vim,https://github.com/JuliaLang/julia-vim),
 Utilities,IDE,Julietta.jl,https://github.com/tknopp/Julietta.jl,An integrated developement environment (IDE) for the programming language Julia.
-Utilities,IDE,Juno-LT,https://github.com/one-more-minute/Juno-LT,A Julia environment built on Light Table.
+Utilities,IDE,Juno-LT,https://github.com/MikeInnes/Juno-LT,A Julia environment built on Light Table.
 Utilities,IDE,Liclipse,http://brainwy.github.io/liclipse/,LiClipse, Eclipse plus some customizations, supports Julia.
 Utilities,IDE,Neovim.jl,https://github.com/bfredl/Neovim.jl) by @bfred,Neovim client for Julia.
 Utilities,IDE,Sublime-Julia,https://github.com/quinnj/Sublime-Julia,Sublime Syntax, Build, Snippets, and REPL for the Julia language.
 Utilities,IDE,JuliaCompletions,https://github.com/jakeconnor/JuliaCompletions,Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 Utilities,IDE,vim-notebook,https://github.com/baruchel/vim-notebook,Vim users can use Julia from the `vim-notebook` plugin.
+Utilities,Atom,Atom.jl,https://github.com/JunoLab/Atom.jl,Julia Client for Atom.
+Utilities,Atom,atom-language-julia,https://github.com/JuliaLang/atom-language-julia,A Julia language support package for the Atom editor.
+Utilities,Atom,atom-julia-client,https://github.com/JunoLab/atom-julia-client,Julia Eval in Atom.
+Utilities,Atom,Electron.jl,https://github.com/jkroso/Electron.jl,Provides easy access to atom/electron from Julia.
+Utilities,Atom,Jude,https://github.com/jamesdanged/Jude,A set of [development extensions](https://atom.io/packages/jude) for Julia in the Atom editor to improve developer productivity. Currently, it provides `autocomplete` and `jump to definition`.
+Utilities,Atom,Juno-Bundle-for-Windows,https://github.com/YaoLuCNS/Juno-Bundle-for-Windows,This bundle uses PortableApps as a platform and combines AtomPortable, julia, Atom.jl, as well as other necessary plugins for julia in Atom.
+Utilities,Emacs,emacs-ess-julia.el,https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el,ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc.
+Utilities,Emacs,julia-emacs,https://github.com/JuliaLang/julia-emacs,Julia support in Emacs.
 Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Jewel.jl,https://github.com/JuliaIDE/Jewel.jl,IDE backend for Julia.
 Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Julia-LT,https://github.com/JuliaIDE/Julia-LT,Julia plugin for Light Table.
 Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),June-LT,https://github.com/JuliaIDE/June-LT,The June themes for Light Table.
@@ -1769,7 +1847,7 @@ Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Reminisce,https://github.c
 Utilities,[Jupyter](https://github.com/jupyter),Autoreload.jl,https://github.com/malmaud/Autoreload.jl,A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified.
 Utilities,[Jupyter](https://github.com/jupyter),Colaboratory,https://github.com/jupyter/colaboratory,Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 Utilities,[Jupyter](https://github.com/jupyter),ErrorLineNumber.jl,https://github.com/StephenVavasis/ErrorLineNumber.jl,Address line number bug in Julia 0.4 error reporting.
-Utilities,[Jupyter](https://github.com/jupyter),Hydra.jl,https://github.com/loladiro/Hydra.jl,Hosted Multi-user IJulia distribution.
+Utilities,[Jupyter](https://github.com/jupyter),Hydra.jl,https://github.com/Keno/Hydra.jl,Hosted Multi-user IJulia distribution.
 Utilities,[Jupyter](https://github.com/jupyter),IJuliaWidgets.jl,https://github.com/shashi/IJuliaWidgets.jl,Interactive widgets for IJulia.
 Utilities,[Jupyter](https://github.com/jupyter),Interact.jl,https://github.com/JuliaLang/Interact.jl,Library for interactive widgets in IJulia.
 Utilities,[Jupyter](https://github.com/jupyter),jlbox,https://github.com/compressed/jlbox,uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
@@ -1797,25 +1875,26 @@ Utilities,Terminal,DocOpt.jl,https://github.com/docopt/DocOpt.jl,generates a com
 Utilities,Terminal,FTPClient.jl,https://github.com/invenia/FTPClient.jl,An FTP Client.
 Utilities,Terminal,GMT-julia-headers,https://github.com/meggart/GMT-julia-headers,
 Utilities,Terminal,LibArchive.jl,https://github.com/yuyichao/LibArchive.jl,Wrapper for [libarchive](http://www.libarchive.org/).
-Utilities,Terminal,LineEdit.jl,https://github.com/loladiro/LineEdit.jl,Julia readline-like library.
+Utilities,Terminal,LineEdit.jl,https://github.com/Keno/LineEdit.jl,Julia readline-like library.
 Utilities,Terminal,MetaTools.jl,https://github.com/burrowsa/MetaTools.jl,Handy MetaProgramming whatnots for Julia.
-Utilities,Terminal,NCurses.jl,https://github.com/loladiro/NCurses.jl,NCurses bindings for Julia.
+Utilities,Terminal,NCurses.jl,https://github.com/Keno/NCurses.jl,NCurses bindings for Julia.
 Utilities,Terminal,Pipe.jl,https://github.com/oxinabox/Pipe.jl,Improved function piping in Julia.
 Utilities,Terminal,ProgressMeter.jl,https://github.com/timholy/ProgressMeter.jl,Progress meter for long-running computations.
-Utilities,Terminal,REPL.jl,https://github.com/loladiro/REPL.jl,Pure-julia REPL implementation.
-Utilities,Terminal,REPLCompletions.jl,https://github.com/loladiro/REPLCompletions.jl,Tab completions for your Julia REPL.
+Utilities,Terminal,REPL.jl,https://github.com/Keno/REPL.jl,Pure-julia REPL implementation.
+Utilities,Terminal,REPLCompletions.jl,https://github.com/Keno/REPLCompletions.jl,Tab completions for your Julia REPL.
 Utilities,Terminal,REPLMods.jl,https://github.com/spencerlyon2/REPLMods.jl,Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
 Utilities,Terminal,SaveREPL.jl,https://github.com/sjkelly/SaveREPL.jl,A package for saving entries in the Jula REPL.
 Utilities,Terminal,Slackbot.jl,https://github.com/jiahao/Slackbot.jl,A Julia REPL that interacts with Slack.com's webhook integration.
-Utilities,Terminal,TerminalExtensions.jl,https://github.com/loladiro/TerminalExtensions.jl,A package that makes Julia take advantage of cool terminal emulator features.
+Utilities,Terminal,TerminalExtensions.jl,https://github.com/Keno/TerminalExtensions.jl,A package that makes Julia take advantage of cool terminal emulator features.
 Utilities,Terminal,toolbox.jl,https://github.com/natj/toolbox.jl,Small tools and snippets used by @natj with julia.
 Utilities,Terminal,TermWin.jl,https://github.com/tonyhffong/TermWin.jl,NCurses based GUI helper and data navigators.
 Utilities,Terminal,Termbox.jl,https://github.com/jgoldfar/Termbox.jl,A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl).
 Utilities,Terminal,TerminalUI.jl,https://github.com/Keno/TerminalUI.jl,Terminal User Interface.
+Utilities,Terminal,VT100.jl,https://github.com/Keno/VT100.jl,Terminal Emulation for terminal UI verification.
 Utilities,FileCompression,Blosc.jl,https://github.com/stevengj/Blosc.jl,The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
 Utilities,FileCompression,gzip.jl,https://github.com/jvns/gzip.jl,GunZip in Julia.
 Utilities,FileCompression,GZip.jl,https://github.com/JuliaLang/GZip.jl,A Julia interface for gzip functions in zlib.
-Utilities,FileCompression,Libz.jl,https://github.com/dcjones/Libz.jl,Yet another zlib interface for Julia.
+Utilities,FileCompression,Libz.jl,https://github.com/BioJulia/Libz.jl,Yet another zlib interface for Julia.
 Utilities,FileCompression,Snappy.jl,https://github.com/bicycle1885/Snappy.jl,A Julia wrapper for the snappy library - a compression/decompression library focusing on speed.
 Utilities,FileCompression,ZipFile.jl,https://github.com/fhs/ZipFile.jl,Read/Write ZIP archives in Julia.
 Utilities,FileCompression,Zlib.jl,https://github.com/dcjones/Zlib.jl,Zlib bindings for Julia.
@@ -1833,7 +1912,10 @@ Utilities,MicrosoftWindows,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Re
 Utilities,MicrosoftWindows,IUP.jl,https://github.com/joa-quim/IUP.jl,Julia interface to IUP windowing toolkit.
 Utilities,MicrosoftWindows,RawFile.jl,https://github.com/tknopp/RawFile.jl,Uses IniFile.jl
 Utilities,MicrosoftWindows,Win32GUIDemo.jl,https://github.com/ihnorton/Win32GUIDemo.jl,Call the Windows API with these Win32 GUI examples.
+Utilities,MicrosoftWindows,WinUser.jl,https://github.com/JuliaGL/WinUser.jl,wrapper for windows native windowing functions.
+Utilities,SMS,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert library for Julia.
 Utilities,VoIP,Toxcore.jl,https://github.com/SimonDanisch/Toxcore.jl,A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
+Web-Server,FRAMEWORKS,jinnie,https://github.com/essenciary/jinnie,Eclectic web framework running on Julia.
 Web-Server,FRAMEWORKS,Merly.jl,https://github.com/codeneomatrix/Merly.jl,A micro framework for web programming in Julia.
 Web-Server,FRAMEWORKS,mvc-skeleton.jl,https://github.com/halla/mvc-skeleton.jl,
 Web-Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
@@ -1859,6 +1941,7 @@ Web-Server,SECURITY,MbedTLS,https://github.com/JuliaWeb/MbedTLS.jl,Wrapper aroun
 Web-Server,SECURITY,GnuTLS.jl,https://github.com/JuliaWeb/GnuTLS.jl,Transport Level Security for Julia Streams provided by GnuTLS.
 Web-Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,a basic, non-blocking HTTP server in Julia.
 Web-Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia implementation of OAuth v1.0a.
+Web-Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
 Web-Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
 Web-Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
 Web-Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
@@ -1866,12 +1949,11 @@ Web-Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. 
 Web-Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
 Web-Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.
 Web-Server,WEB,Laurence.jl,https://github.com/mneudert/Laurence.jl,
+Web-Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create and interact with web pages.
 Web-Server,WEB,RestClient.jl,https://github.com/analyzere/RestClient.jl,A simple REST client for Julia.
 Web-Server,WEB,Romeo.jl,https://github.com/mneudert/Romeo.jl,Another HTTP server to log requests, events, responses.
-Web-Server,WEB,WWWClient.jl,https://github.com/loladiro/WWWClient.jl,is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing.
 Web-Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
 Web-Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),GitHub.jl,https://github.com/JuliaWeb/GitHub.jl,A Julia package for interfacing with the GitHub API.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),LibCURL.jl,https://github.com/JuliaWeb/LibCURL.jl,Thin Julia wrapper of libCURL
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WebSockets.jl,https://github.com/JuliaWeb/WebSockets.jl,A WebSockets server library for Julia.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpCommon.jl,https://github.com/JuliaWeb/HttpCommon.jl,Provides types and helper functions for dealing with the HTTP protocol in Julia.
@@ -1879,10 +1961,11 @@ Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HTTPClient.jl,https://git
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpParser.jl,https://github.com/JuliaWeb/HttpParser.jl,Julia wrapper for Joyent's http-parser.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Meddle.jl,https://github.com/JuliaWeb/Meddle.jl,is the middleware stack for use with HttpServer.jl.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Morsel.jl,https://github.com/JuliaLang/Morsel.jl,A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
+Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Requests.jl,https://github.com/JuliaWeb/Requests.jl,HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URITemplate.jl,https://github.com/JuliaWeb/URITemplate.jl,This package provides URI Template interpolation by implementing (RFC 6570).
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),UAParser.jl,https://github.com/JuliaWeb/UAParser.jl,UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URIParser.jl,https://github.com/JuliaWeb/URIParser.jl,Pure julia URI parser.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Requests.jl,https://github.com/JuliaWeb/Requests.jl,HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
+Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WWWClient.jl,https://github.com/JuliaWeb//WWWClient.jl,is a HTTP client written in julia, and depends on "joyent/http-parser" for HTTP parsing.
 Web-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaWebRepl.jl,https://github.com/vtjnash/JuliaWebRepl.jl,
 Web-Server,Org-[JunoLab](https://github.com/JunoLab/),Blink.jl,https://github.com/JunoLab/Blink.jl,A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
 Web-Server,Org-[JunoLab](https://github.com/JunoLab/),CodeTools.jl,https://github.com/JunoLab/CodeTools.jl,A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
