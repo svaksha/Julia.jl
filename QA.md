@@ -1,6 +1,7 @@
 *Anything _Software Quality_ related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, ...*
 
 + [Black Box Testing](#black-box-testing)
++ [Debugging](#debugging)
 + [Documentation Driven Development](#documentation-driven-development)
 + [LOGGING](#logging)
 + [SANDBOX](#sandbox)
@@ -11,6 +12,12 @@
 
 # [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
+
+----
+
+# Debugging
+## Timers
++ [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
 
 ----
 
