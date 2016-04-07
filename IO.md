@@ -96,6 +96,7 @@
 + [Ratios.jl](https://github.com/timholy/Ratios.jl) :: Faster Rational-like types for Julia.
 + [RDF.jl](https://github.com/JuliaPackageMirrors/RDF.jl) :: RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl) 
 + [Scalar.jl](https://github.com/sabjohnso/Scalar.jl) :: Scalar Types.
++ [Sexpr.jl](https://github.com/vshesh/Sexpr.jl) :: A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 + [SimpleStructs.jl](https://github.com/pluskid/SimpleStructs.jl) :: Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
 + [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl] :: String Distances in Julia.
 + [StringUtils.jl](https://github.com/ScottPJones/StringUtils.jl) :: String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
