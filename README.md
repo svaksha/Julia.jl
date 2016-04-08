@@ -1,6 +1,6 @@
 # Julia.jl
 
-[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of resources for the [Julia language](https://github.com/JuliaLang).
+[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for the [Julia language](https://github.com/JuliaLang).
 
 + [INDEX](#index)
 + [LICENSE](#license)
@@ -19,7 +19,6 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 
 
 + [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
-+ [Astronomy.md](https://github.com/svaksha/Julia.jl/blob/master/Astronomy.md) :: Astronomy and Imaging packages.
 + [API.md](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: Language API's - C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
 + [Biology.md](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
 + [Build-Automation.md](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md) :: Tools for continuous integration (CI),  continuous delivery (CD), Packaging, release engineering (RE), release management (RM), software configuration management (SCM), etc...
@@ -39,6 +38,7 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
 + [QA.md](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools.
 + [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other non-standard resources.
++ [Space-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) :: Astronomy, Imaging, Planetary and [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
 + [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
 + [Utilities.md](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
 + [Web-Server.md](https://github.com/svaksha/Julia.jl/blob/master/Web-Server.md) :: HPC, Distributed Computing, Cloud WWW, HTTP, Networking, Servers, etc...

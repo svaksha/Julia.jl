@@ -1,7 +1,16 @@
+__Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.__
+
++ [Aeronautics](#aeronautics)
 + [AstroLibs](#astrolibs)
 + [Org-JuliaAstro](#org-juliaastro)
    + [Astronomical Imaging](#astronomicalimaging)
- 
+
+----
+
+# Aeronautics
++ [ices-desktop](https://github.com/abieler/ices-desktop).
++ [Spice.jl](https://github.com/abieler/Spice.jl) :: NASA's SPICE observation geometry system.
+
 ----
 
 # AstroLibs
