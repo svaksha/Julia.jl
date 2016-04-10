@@ -364,6 +364,7 @@ algebra library in Julia.
 __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__
 + [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) :: A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 + [BSplines.jl](https://github.com/gusl/BSplines.jl) :: This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
++ [Cuba.jl](https://github.com/giordano/Cuba.jl) :: Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre. [Documentation](https://cubajl.readthedocs.org/)
 + [Elemental.jl](https://github.com/JuliaParallel/Elemental.jl) :: A Julia interface to the [Elemental linear algebra library](http://libelemental.org/) with third-party interfaces. [Source code](https://github.com/elemental/Elemental).
 + [IncrementalSVD.jl](https://github.com/aaw/IncrementalSVD.jl) :: Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
 + [InteriorPoint.jl](https://github.com/IainNZ/InteriorPoint.jl) :: Primal-dual interior point solver for linear programs.
