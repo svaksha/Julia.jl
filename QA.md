@@ -16,6 +16,8 @@
 ----
 
 # Debugging
++ [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) :: Simple utilities for debugging julia code.
+
 ## Timers
 + [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
 

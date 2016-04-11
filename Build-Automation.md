@@ -81,7 +81,6 @@ __Pre-compiled Binaries__
 + The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
       - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
-
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
 ### Ansible
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
@@ -94,8 +93,6 @@ __Pre-compiled Binaries__
 
 ### Vagrant
 + [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
-
-
 
 ## DistrOS
 
@@ -137,4 +134,4 @@ https://github.com/JuliaPackageMirrors/mirror-updater
 ----
 
 # NEWS
-+ [Devops Weekly](http://www.devopsweekly.com/)
++ [Devops Weekly](http://www.devopsweekly.com/).
