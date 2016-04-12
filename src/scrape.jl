@@ -1,5 +1,6 @@
 
 module ScrapeJuliajl
+using DebuggingUtilities
 
 
 function scrape_md(filename)
@@ -7,10 +8,12 @@ function scrape_md(filename)
     # get the category, don't process some files
     category = split(split(filename, "/")[end], ".")[1]
     category in ("LICENSE", "README") && return []
+    @showln category
 
     subcategory = ""
     records = NTuple{5,UTF8String}[]
-
+    @showln category
+    
     # process the  lines
     f = open(filename)
     for l in eachline(f)
