@@ -9,14 +9,15 @@ function scrape_md(filename)
     category = split(split(filename, "/")[end], ".")[1]
     category in ("LICENSE", "README") && return []
     @showln category
-
+    
     subcategory = ""
     records = NTuple{5,UTF8String}[]
-    @showln category
+    @showln subcategory
     
     # process the  lines
     f = open(filename)
     for l in eachline(f)
+    @showln f
 
         l = strip(l)
         if length(l) == 0
@@ -36,13 +37,13 @@ function scrape_md(filename)
             length(repourl) > 4 || continue
             repourl[1:4] == "http" || continue
             desc = length(tmp) > 1 ? join(tmp[2:end]...) : ""
+            @showln reponame, desc
             push!(records, (category, subcategory, reponame, repourl, desc))
-
+            @showln push!
         end
     end
     close(f)
     println("Processed $(length(records)) records in category $category.")
-
     records
 end
 
@@ -67,7 +68,5 @@ for record in records
     write(f, "\n")
 end
 close(f)
-
-
 
 end # module
