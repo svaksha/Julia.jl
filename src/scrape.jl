@@ -8,11 +8,9 @@ function scrape_md(filename)
     # get the category, don't process some files
     category = split(split(filename, "/")[end], ".")[1]
     category in ("LICENSE", "README") && return []
-    @showln category
 
     subcategory = ""
     records = NTuple{5,UTF8String}[]
-    @showln category
     
     # process the  lines
     f = open(filename)
@@ -43,7 +41,7 @@ function scrape_md(filename)
     close(f)
     println("Processed $(length(records)) records in category $category.")
 
-    records
+    records             
 end
 
 # -----------------------------------------------------------------

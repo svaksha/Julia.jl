@@ -132,6 +132,7 @@ AI,MACHINELEARNING,ELM.jl,https://github.com/lepisma/ELM.jl,Extreme Learning Mac
 AI,MACHINELEARNING,FeatureSelection.jl,https://github.com/Evizero/FeatureSelection.jl,Common measures and algorithms for feature selection.
 AI,MACHINELEARNING,Flimsy.jl,https://github.com/thomlake/Flimsy.jl,Gradient based Machine Learning for Julia.
 AI,MACHINELEARNING,FunctionalDataUtils.jl,https://github.com/rened/FunctionalDataUtils.jl,Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
+AI,MACHINELEARNING,GradientBoost.jl,https://github.com/svs14/GradientBoost.jl,Gradient boosting framework for Julia.
 AI,MACHINELEARNING,GURLS.jl,https://github.com/joehuchette/GURLS.jl,A pure Julia port of the GURLS supervised learning library.
 AI,MACHINELEARNING,Glmnet.jl,https://github.com/simonster/Glmnet.jl,Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 AI,MACHINELEARNING,HopfieldNets.jl,https://github.com/johnmyleswhite/HopfieldNets.jl,Discrete and continuous Hopfield networks in Julia.
@@ -304,28 +305,6 @@ API,R,utils.jl,https://github.com/johnmyleswhite/utils.jl,Utility functions for 
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
-Astronomy,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
-Astronomy,AstroLibs,AstroLib.jl,https://github.com/giordano/AstroLib.jl,Bundle of small
-Astronomy,AstroLibs,Astrodynamics.jl,https://github.com/helgee/Astrodynamics.jl,An astrodynamics library in Julia.
-Astronomy,AstroLibs,CasaCore.jl,https://github.com/mweastwood/CasaCore.jl,A Julia wrapper of CasaCore.
-Astronomy,AstroLibs,Celeste.jl,https://github.com/jeff-regier/Celeste.jl,Scalable inference for a generative model of astronomical images.
-Astronomy,AstroLibs,Interplanetary.jl,https://github.com/crbinz/Interplanetary.jl,Functions for low-fidelity interplanetary navigation and guidance simulations.
-Astronomy,AstroLibs,Jadex.jl,https://github.com/autocorr/Jadex.jl,Julia port of RADEX.
-Astronomy,AstroLibs,JPLEphemeris.jl,https://github.com/helgee/JPLEphemeris.jl,The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
-Astronomy,AstroLibs,julia-astro,https://github.com/kbarbary/julia-astro,astronomy-related Julia code: skycoords.jl, dustmap.jl
-Astronomy,AstroLibs,Photometry.jl,https://github.com/kbarbary/Photometry.jl,Astronomical photometry library for Julia.
-Astronomy,AstroLibs,SDSS.jl,https://github.com/kbarbary/SDSS.jl,Collection of code snippets for querying and reading Sloan Digital Sky Survey data.
-Astronomy,AstroLibs,SGP4.jl,https://github.com/crbinz/SGP4.jl,Julia wrapper for the SGP4 satellite propagation model.
-Astronomy,AstroLibs,SkyCoords.jl,https://github.com/kbarbary/SkyCoords.jl,Astronomical coordinate systems in Julia.
-Astronomy,AstroLibs,WCS.jl,https://github.com/kbarbary/WCS.jl,Julia wrapper for wcstools library.
-Astronomy,AstroLibs,WCS.jl,https://github.com/nolta/WCS.jl,wcslib wrapper for Julia.
-Astronomy,AstroLibs,WCSLIB.jl,https://github.com/nolta/WCSLIB.jl,wcslib wrapper for Julia.
-Astronomy,Resources,ioa-julia-tutorials,https://github.com/swt30/ioa-julia-tutorials,An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge
-Astronomy,Org-[JuliaAstro](https://JuliaAstro.github.io),Cosmology.jl,https://github.com/JuliaAstro/Cosmology.jl,Cosmology library for Julia.
-Astronomy,Org-[JuliaAstro](https://JuliaAstro.github.io),DustExtinction.jl,https://github.com/JuliaAstro/DustExtinction.jl,Models for the interstellar extinction due to dust.
-Astronomy,Org-[JuliaAstro](https://JuliaAstro.github.io),ERFA.jl,https://github.com/JuliaAstro/ERFA.jl,Julia wrapper for liberfa.
-Astronomy,Org-[JuliaAstro](https://JuliaAstro.github.io),WCS.jl,https://github.com/JuliaAstro/WCS.jl,Astronomical World Coordinate Systems library for Julia.
-Astronomy,AstronomicalImaging,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 Biology,BIOINFORMATICS,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
 Biology,BIOINFORMATICS,MIToS.jl,https://github.com/diegozea/MIToS.jl),
@@ -409,7 +388,6 @@ Build-Automation,Docker,RudeOil.jl,https://github.com/UCL/RudeOil.jl,A package t
 Build-Automation,Vagrant,julia-vagrant,https://github.com/staticfloat/julia-vagrant,Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 Build-Automation,Debian-Ubuntu,APT.jl,https://github.com/bbshortcut/APT.jl,A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
 Build-Automation,Debian-Ubuntu,DebbyPacker.jl,https://github.com/UCL/DebbyPacker.jl,Set of scripts to easily create debian packages.
-Build-Automation,Debian-Ubuntu,Julia-Debian,https://github.com/staticfloat/julia-debian,Elliot Saba (@staticfloat) packages [nightlies](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases), consisting of a repo with just the packaging metadata, that gets used by a repo with [automated buildscripts](https://github.com/staticfloat/julia-nightly-packaging). It is highly recommended to use the Julia [PPA releases](https://launchpad.net/~staticfloat/+archive/ubuntu/juliareleases) if you are having build problems with Julia on Debian-Ubuntu systems. In a terminal, type the following commands:
 Build-Automation,Fedora-RHEL,RPMmd.jl,https://github.com/ihnorton/RPMmd.jl,A front-end installer for RPM-md packages and a fork of WinRPM.jl.
 Build-Automation,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 Build-Automation,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
@@ -424,11 +402,12 @@ Build-Automation,Packaging,Julia Ecosystem Status,http://status.julialang.org/,T
 Build-Automation,Packaging,julia-buildbot,https://github.com/staticfloat/julia-buildbot,Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 Build-Automation,Packaging,julia-require,https://github.com/MetalNinjas/julia-require,Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
 Build-Automation,Packaging,Kip.jl,https://github.com/jkroso/Kip.jl,A metadata free package manager for Julia.
+Build-Automation,Packaging,LibALPM.jl,https://github.com/yuyichao/LibALPM.jl,Wrapper for libalpm, the ArchLinux package manager.
 Build-Automation,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/PackageEvaluator.jl,The Julia package evaluator.
 Build-Automation,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
 Build-Automation,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
 Build-Automation,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
-Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/,
+Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/),
 Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
 Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
 Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
@@ -682,6 +661,7 @@ Earth-Science,GEOSTATISTICS,GeoStats.jl,https://github.com/juliohm/GeoStats.jl,G
 Earth-Science,GEOSTATISTICS,GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
 Earth-Science,GEOSTATISTICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,3D image quilting simulation.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),Proj4.jl,https://github.com/FugroRoames/Proj4.jl,Julia wrapper for PROJ.4 cartographic projections library.
+Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),OpenStreetMapParser.jl,https://github.com/yeesian/OpenStreetMapParser.jl,This package provides basic functionality for parsing OpenStreetMap data in Julia, in the following file formats: [.osm (XML)](http://wiki.openstreetmap.org/wiki/OSM_XML) and [.pbf (binary)](http://wiki.openstreetmap.org/wiki/PBF_Format).
 Earth-Science,GIS,DtPlot.jl,https://github.com/dejakaymac/DtPlot.jl,
 Earth-Science,GIS,EarthSphere.jl,https://github.com/cuevasclemente/EarthSphere.jl,A library for measuring approximate distance and location given latitudes and longitudes.
 Earth-Science,GIS,FlowNetworks.jl,https://github.com/scheidan/FlowNetworks.jl,Types and function to represent hydrological flow networks.
@@ -922,6 +902,7 @@ IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
@@ -1199,6 +1180,7 @@ Mathematics,LinearAlgebra,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (ste
 Mathematics,LinearAlgebra,SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
 Mathematics,NumericalLinearAlgebra(NLA),Accelereval.jl,https://github.com/lindahua/Accelereval.jl,A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 Mathematics,NumericalLinearAlgebra(NLA),BSplines.jl,https://github.com/gusl/BSplines.jl,This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
+Mathematics,NumericalLinearAlgebra(NLA),Cuba.jl,https://github.com/giordano/Cuba.jl,Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre. [Documentation](https://cubajl.readthedocs.org/)
 Mathematics,NumericalLinearAlgebra(NLA),Elemental.jl,https://github.com/JuliaParallel/Elemental.jl,A Julia interface to the [Elemental linear algebra library](http://libelemental.org/) with third-party interfaces. [Source code](https://github.com/elemental/Elemental).
 Mathematics,NumericalLinearAlgebra(NLA),IncrementalSVD.jl,https://github.com/aaw/IncrementalSVD.jl,Simon Funk's approach to collaborative filtering using the singular value decomposition, implemented in Julia.
 Mathematics,NumericalLinearAlgebra(NLA),InteriorPoint.jl,https://github.com/IainNZ/InteriorPoint.jl,Primal-dual interior point solver for linear programs.
@@ -1377,6 +1359,8 @@ Publications,RESEARCHPAPERS,ezanson Jeff, et al. _[Julia: A fresh approach to nu
 Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing,https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_,
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
+QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
+QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Lapidary.jl,https://github.com/MichaelHatherly/Lapidary.jl,A documentation generator for Julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
 QA,Resources,Making nice documentation,http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package,
@@ -1503,6 +1487,30 @@ Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/wat
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
 Resources,VIDEOS,2015-JuliaCon Videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM,
 Resources,VIDEOS,lides for the [Optimization,http://iaindunning.com/talks/JuliaCon15JuliaOpt.pdf) talk,
+Space-Science,Aeronautics,ices-desktop,https://github.com/abieler/ices-desktop),
+Space-Science,Aeronautics,Spice.jl,https://github.com/abieler/Spice.jl,NASA's SPICE observation geometry system.
+Space-Science,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
+Space-Science,AstroLibs,AstroLib.jl,https://github.com/giordano/AstroLib.jl,Bundle of small
+Space-Science,AstroLibs,Astrodynamics.jl,https://github.com/helgee/Astrodynamics.jl,An astrodynamics library in Julia.
+Space-Science,AstroLibs,CasaCore.jl,https://github.com/mweastwood/CasaCore.jl,A Julia wrapper of CasaCore.
+Space-Science,AstroLibs,Celeste.jl,https://github.com/jeff-regier/Celeste.jl,Scalable inference for a generative model of astronomical images.
+Space-Science,AstroLibs,Interplanetary.jl,https://github.com/crbinz/Interplanetary.jl,Functions for low-fidelity interplanetary navigation and guidance simulations.
+Space-Science,AstroLibs,Jadex.jl,https://github.com/autocorr/Jadex.jl,Julia port of RADEX.
+Space-Science,AstroLibs,JPLEphemeris.jl,https://github.com/helgee/JPLEphemeris.jl,The JPL Development Ephemerides are the results of simulations of the Solar System used for spacecraft navigation and astronomical purposes.
+Space-Science,AstroLibs,julia-astro,https://github.com/kbarbary/julia-astro,astronomy-related Julia code: skycoords.jl, dustmap.jl
+Space-Science,AstroLibs,Photometry.jl,https://github.com/kbarbary/Photometry.jl,Astronomical photometry library for Julia.
+Space-Science,AstroLibs,SDSS.jl,https://github.com/kbarbary/SDSS.jl,Collection of code snippets for querying and reading Sloan Digital Sky Survey data.
+Space-Science,AstroLibs,SGP4.jl,https://github.com/crbinz/SGP4.jl,Julia wrapper for the SGP4 satellite propagation model.
+Space-Science,AstroLibs,SkyCoords.jl,https://github.com/kbarbary/SkyCoords.jl,Astronomical coordinate systems in Julia.
+Space-Science,AstroLibs,WCS.jl,https://github.com/kbarbary/WCS.jl,Julia wrapper for wcstools library.
+Space-Science,AstroLibs,WCS.jl,https://github.com/nolta/WCS.jl,wcslib wrapper for Julia.
+Space-Science,AstroLibs,WCSLIB.jl,https://github.com/nolta/WCSLIB.jl,wcslib wrapper for Julia.
+Space-Science,Resources,ioa-julia-tutorials,https://github.com/swt30/ioa-julia-tutorials,An introductory Julia tutorial for the Institute of Astronomy, University of Cambridge
+Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),Cosmology.jl,https://github.com/JuliaAstro/Cosmology.jl,Cosmology library for Julia.
+Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),DustExtinction.jl,https://github.com/JuliaAstro/DustExtinction.jl,Models for the interstellar extinction due to dust.
+Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),ERFA.jl,https://github.com/JuliaAstro/ERFA.jl,Julia wrapper for liberfa.
+Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),WCS.jl,https://github.com/JuliaAstro/WCS.jl,Astronomical World Coordinate Systems library for Julia.
+Space-Science,AstronomicalImaging,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
 Statistics,Econometrics,copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
 Statistics,Econometrics,DynamicFactorModels.jl,https://github.com/joidegn/DynamicFactorModels.jl,Dynamic Factor Models for Julia.
 Statistics,Econometrics,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
@@ -1900,6 +1908,7 @@ Utilities,FileCompression,ZipFile.jl,https://github.com/fhs/ZipFile.jl,Read/Writ
 Utilities,FileCompression,Zlib.jl,https://github.com/dcjones/Zlib.jl,Zlib bindings for Julia.
 Utilities,DocumentProcessors,ConfParser.jl,https://github.com/templarlabs/ConfParser.jl,Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 Utilities,DocumentProcessors,ExcelReaders.jl,https://github.com/davidanthoff/ExcelReaders.jl,A package that provides functionality to read Excel files.
+Utilities,DocumentProcessors,LaTeX.jl,https://github.com/rened/LaTeX.jl,Create LaTeX documents from within Julia, including image handling.
 Utilities,DocumentProcessors,JuliaReport.jl,https://github.com/mpastell/JuliaReport.jl,A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 Utilities,DocumentProcessors,Taro.jl,https://github.com/aviks/Taro.jl,can process office documents in Julia.
 Utilities,DocumentGenerator,Judo.jl,https://github.com/dcjones/Judo.jl,is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
