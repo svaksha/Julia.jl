@@ -35,7 +35,6 @@ function scrape_md(filename)
             repourl[1:4] == "http" || continue
             desc = length(tmp) > 1 ? join(tmp[2:end]...) : ""
             push!(records, (category, subcategory, reponame, repourl, desc))
-
         end
     end
     close(f)
@@ -45,7 +44,6 @@ function scrape_md(filename)
 end
 
 # -----------------------------------------------------------------
-
 
 
 import Glob: glob
