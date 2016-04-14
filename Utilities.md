@@ -182,6 +182,7 @@
 ## Document Processors 
 + [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 + [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) :: A package that provides functionality to read Excel files.
++ [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
 + [JuliaReport.jl](https://github.com/mpastell/JuliaReport.jl) :: A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 + [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
