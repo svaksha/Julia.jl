@@ -192,7 +192,6 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 ----
 
 # Org-[JuliaIO](https://github.com/JuliaIO)
-+ [ImageMagick.jl](https://github.com/SimonDanisch/ImageMagick.jl) :: Thin Wrapper for the library ImageMagick - Seperated ImageMagick from Images.jl to make ImageIO more leightweight.
 + [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes.
 + [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO.
 + [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
