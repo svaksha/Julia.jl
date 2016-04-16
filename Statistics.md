@@ -163,7 +163,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [SCIP.jl](https://github.com/ryanjoneil/SCIP.jl) by @ryanjoneil :: A Julia interface to the SCIP solver.
 + [SCS.jl](https://github.com/karanveerm/SCS.jl) :: Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
 + [simplex.jl](https://github.com/davidagold/simplex.jl) :: Practice project program that performs the simplex algorithm.
-
++ [Xpress.jl](https://github.com/joaquimg/Xpress.jl) :: A package under development according to the FICO optimizer manual.
 
 ### [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 + [CGP.jl](https://github.com/glesica/CGP.jl) :: Cartesian Genetic Programming (CGP) implemented in Julia.
