@@ -81,6 +81,9 @@
 ----
 
 # DATA STRUCTURES
++ [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) :: Julia implementation of the scikit-learn API.
+    + Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
++ [ScikitLearnBase.jl](https://github.com/cstjean/ScikitLearnBase.jl) :: Definition of the [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) API.
 
 ### Array-Matrix
 + [ArrayIterationPlayground.jl](https://github.com/timholy/ArrayIterationPlayground.jl) :: Testing new ideas for array iteration.

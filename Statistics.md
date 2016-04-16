@@ -265,6 +265,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [NHST.jl](https://github.com/johnmyleswhite/NHST.jl) :: Null hypothesis significance tests.
 + [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) :: Online algorithms for statistics.
 + [Pandas.jl](https://github.com/malmaud/Pandas.jl) :: A Julia front-end to Python's Pandas package.
++ [PowerLaws.jl](https://github.com/johnybx/PowerLaws.jl) :: A Julia package for power laws distributions according to the paper, [POWER-LAW DISTRIBUTIONS IN EMPIRICAL DATA](http://arxiv.org/pdf/0706.1062v2.pdf).
 + [PValueAdjust.jl](https://github.com/dirkschumacher/PValueAdjust.jl) :: P-value adjustment methods for multiple testing correction.
 + [QuantileRegression.jl](https://github.com/vincentarelbundock/QuantileRegression.jl) :: Quantile regression in the Julia language.
 + [Queries](https://github.com/carljv/Queries) :: Composable queries for Julia DataFrames.
