@@ -199,6 +199,7 @@
 + [IUP.jl](https://github.com/joa-quim/IUP.jl) :: Julia interface to IUP windowing toolkit.
 + [RawFile.jl](https://github.com/tknopp/RawFile.jl) :: Uses IniFile.jl
 + [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
++ [WinReg.jl](https://github.com/simonbyrne/WinReg.jl) ::  Windows Registry interface for Julia.
 + [WinUser.jl](https://github.com/JuliaGL/WinUser.jl) :: wrapper for windows native windowing functions.
 
 ----

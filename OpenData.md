@@ -15,10 +15,11 @@
    + [DATA-General](#data-general)
    + [DATA-Research](#data-scientific)
    + [DATA-Scientific](#data-scientific)
-+ [Machine Learning](#machine-learning)
-+ [Math](#math)
-+ [Video](#video)
-+ [DataScience Resources](#datascience-resources)
++ [MACHINE LEARNING](#machine-learning)
++ [MATH](#math)
++ [PHYSICS](#physics)
++ [VIDEO](#video)
++ [RESOURCES-DataScience](#resources-datascience)
 
 ----
 
@@ -42,6 +43,10 @@
 
 ## Econometrics
 + The [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) economic [time series data](https://research.stlouisfed.org/fred2/).
+
+## Finance
+* [NASDAQ](https://data.nasdaq.com/) data.
+* [OANDA](http://www.oanda.com/) data.
 
 ----
 
@@ -100,6 +105,7 @@
 
 ## Crystallography
 + [Crystallographic databases](http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP.
++ [Crystallography](http://www.crystallography.net/) Open Database.
 + [Protein Data Bank](http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP.
 + [Inorganic Crystal Structure Database](http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database) 
 
@@ -125,20 +131,25 @@
 
 ----
 
-# Machine Learning
+# MACHINE LEARNING
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 ----
 
-# Math
+# MATH
 + [Juliaset.jl](https://github.com/tanmaykm/Juliaset.jl) :: Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
 
 ----
 
-# Video
+# PHYSICS
++ [CERN OpenData](http://opendata.cern.ch/) Portal.
+
+----
+
+# VIDEO
 + [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org).
 
 ----
 
-# DataScience Resources
+# RESOURCES-DataScience
 + Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html).
