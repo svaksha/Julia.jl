@@ -1,4 +1,4 @@
-**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
+g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOINFORMATICS](#bioinformatics)
 + [BIOSTATISTICS](#bioinformatics)
@@ -43,6 +43,7 @@
 + [GenomeAnnotations.jl](https://github.com/nw11/GenomeAnnotations.jl) :: Manage Local Genome Annotation files. 
 + [GenomicTiles.jl](https://github.com/nw11/GenomicTiles.jl)
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
++ [HTSLIB.jl](https://github.com/OpenGene/HTSLIB.jl) :: A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [LCS.jl](https://github.com/WestleyArgentum/LCS.jl) :: A package for finding longest common and longest contiguous subsequences. 
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
