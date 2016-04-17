@@ -1,3 +1,4 @@
+
 + [Electromagnetism](#electromagnetism)
 + [Fluid Dynamics](#fluid-dynamics)
 + [Laser Physics](#laser-physics)
@@ -79,8 +80,10 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 # [Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
 + [ThermodynamicsTable.jl](https://github.com/DANA-Laboratory/ThermodynamicsTable.jl) :: Thermodynamics table for critical values, heat capacity, etc..
++ [WaveToy.jl](https://github.com/eschnett/WaveToy.jl) :: Julia WaveToy.
 
 ----
 
 # Miscellaneous
 + [fys](https://github.com/jhlq/fys) :: Physics and misc unmaintained Julia code.
+
