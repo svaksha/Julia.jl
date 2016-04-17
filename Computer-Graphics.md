@@ -1,16 +1,17 @@
 **Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
-* [GRAPHICS](#graphics)
++ [GRAPHICS](#graphics)
    * [Games](#games)
-* [INFOGRAPHICS](#infographics)
++ [INFOGRAPHICS](#infographics)
    * [Non-Graphical Plotting](#non-graphical-plotting)
    * [Graphical Plotting](#graphical-plotting)
-* [Org-JuliaGL](#org-juliagl)
-* [Org-JuliaGraphics](#org-juliagraphics)
-* [Org-JuliaGeometry](#juliageometry)
-* [Org-JuliaIO](#org-juliaio)
-* [Org-JuliaLang](#org-julialang)
-* [Org-SISL](#org-sisl)
++ [Org-JuliaGL](#org-juliagl)
++ [Org-JuliaGraphics](#org-juliagraphics)
++ [Org-JuliaGeometry](#org-juliageometry)
++ [Org-JuliaIO](#org-juliaio)
++ [Org-JuliaLang](#org-julialang)
++ [Org-JuliaOpenCV](#org-juliaopencv)
++ [Org-SISL](#org-sisl)
 
 ----
 
@@ -199,6 +200,12 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 
 # Org-JuliaLang
 + [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
+
+----
+
+# Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/)
++ [CVCore.jl](https://github.com/JuliaOpenCV/CVCore.jl) :: Core functionality.
++ [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) :: OpenCV library dependencies.
 
 ----
 
