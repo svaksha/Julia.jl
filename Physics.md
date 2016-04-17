@@ -11,6 +11,7 @@
 
 ----
 
++ [ACME.jl](https://github.com/HSU-ANT/ACME.jl) :: Analog Circuit Modeling and Emulation for Julia.
 + [auditory.jl](https://github.com/jfsantos/auditory.jl) :: Auditory filterbanks in Julia.
 + [Chipmunk.jl](https://github.com/zyedidia/Chipmunk.jl) :: A binding of the physics engine Chipmunk for Julia.
 + [CMSSW.jl](https://github.com/jpata/CMSSW.jl) :: A work-in-progress wrapper for ROOT.jl.

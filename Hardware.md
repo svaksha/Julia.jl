@@ -19,7 +19,6 @@
 # API
 + [Alazar.jl](https://github.com/ajkeller34/Alazar.jl) :: API wrapper for Julia, bare bones.
 + [MichrochipRTDM.jl](https://github.com/cstook/MicrochipRTDM.jl) :: A bunch of functions usefull for working with MicrochipTM's RTDM interface.
-+ [ACME.jl](https://github.com/HSU-ANT/ACME.jl) :: Analog Circuit Modeling and Emulation for Julia.
 
 ----
 
