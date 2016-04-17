@@ -93,7 +93,6 @@
 + [BandedMatrices.jl](https://github.com/ApproxFun/BandedMatrices.jl) :: A Julia package for representing banded matrices.
 + [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
 + [FlexibleArrays.jl](https://github.com/eschnett/FlexibleArrays.jl) :: Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. http://eschnett.github.io/FlexibleArrays.jl/
-+ [FreqTables.jl](https://github.com/nalimilan/FreqTables.jl) :: Frequency tables in Julia.
 + [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
 + [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 + [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
