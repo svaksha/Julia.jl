@@ -161,7 +161,6 @@
 + [REPLCompletions.jl](https://github.com/Keno/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 + [REPLMods.jl](https://github.com/spencerlyon2/REPLMods.jl) :: Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
 + [SaveREPL.jl](https://github.com/sjkelly/SaveREPL.jl) :: A package for saving entries in the Jula REPL. 
-+ [Slackbot.jl](https://github.com/jiahao/Slackbot.jl) :: A Julia REPL that interacts with Slack.com's webhook integration.
 + [TerminalExtensions.jl](https://github.com/Keno/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
 + [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
@@ -205,6 +204,10 @@
 ----
 
 # Communication
+
+## IRC
++ [DandelionSlack.jl](https://github.com/dandeliondeathray/DandelionSlack.jl) :: Slack API in Julia.
++ [Slackbot.jl](https://github.com/jiahao/Slackbot.jl) :: A Julia REPL that interacts with Slack.com's webhook integration.
 
 ## SMS
 + [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
