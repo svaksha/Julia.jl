@@ -205,6 +205,10 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 
 # Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/)
 + [CVCore.jl](https://github.com/JuliaOpenCV/CVCore.jl) :: Core functionality.
++ [CVImgCodecs.jl](https://github.com/JuliaOpenCV/CVImgCodecs.jl) :: Image file reading and writing
++ [CVImgProc.jl](https://github.com/JuliaOpenCV/CVImgProc.jl) :: Image processing
++ [CVHighGUI.jl](https://github.com/JuliaOpenCV/CVHighGUI.jl) :: High-level GUI.
++ [CVVideoIO.jl](https://github.com/JuliaOpenCV/CVVideoIO.jl) :: Media I/O.
 + [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) :: OpenCV library dependencies.
 
 ----
