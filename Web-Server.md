@@ -21,7 +21,6 @@ Networking, web security, frameworks and other Web related things go here!
 + [Pythia.jl](https://github.com/Keno/Pythia.jl) :: Julia wrappers for the Pythia event generator. 
 + [skeleton-webapp.jl](https://bitbucket.org/jocklawrie/skeleton-webapp.jl) :: This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
 
-
 ### RoR
 + [RoR_julia_eg](https://github.com/Ken-B/RoR_julia_eg) :: An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
 
@@ -77,6 +76,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [Pages.jl](https://github.com/EricForgy/Pages.jl) :: A simple way to create and interact with web pages.
 + [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
++ [WebSocketClient.jl](https://github.com/dandeliondeathray/WebSocketClient.jl) :: A Julia package for client side WebSockets.
 
 ## Email
 + [Mandrill.jl](https://github.com/aviks/Mandrill.jl) :: Mandrill API in Julia.
