@@ -44,6 +44,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [LIBSVM.jl](https://github.com/simonster/LIBSVM.jl) :: Julia bindings for LIBSVM.
 + [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
++ [Merlin.jl](https://github.com/hshindo/Merlin.jl) :: Flexible Deep Learning Framework in Julia.
 + [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
 + [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe. 
