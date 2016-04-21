@@ -133,8 +133,10 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 
 ## [Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
-+ [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) :: Julia Wrapper for the ArrayFire library.
++ [ArrayFire.jl](https://github.com/hshindo/ArrayFire.jl) by @hshindo :: Julia bindings for ArrayFire.
++ [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputing :: Julia Wrapper for the ArrayFire library.
 + [MT-Workloads](https://github.com/ranjanan/MT-Workloads) :: Multi-threaded workloads in Julia.
+
 
 ### Org-[JuliaParallel](https://JuliaParallel.github.io)
 + [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) :: A framework to represent chunks of entities and parallel methods on them.
