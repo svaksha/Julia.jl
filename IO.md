@@ -17,9 +17,7 @@
 + [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
 + [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
 
-
 ----
-
 
 # Data Formats
 **Libraries for Data serialization and File formats.**

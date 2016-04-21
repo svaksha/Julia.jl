@@ -221,6 +221,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 
 
 ## [Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions)
++ [BasisFunctions.jl](https://github.com/daanhb/BasisFunctions.jl) :: A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package. 
 + [Elliptic.jl](https://github.com/nolta/Elliptic.jl) :: Elliptic integral and Jacobi elliptic special functions.
 + [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) :: Fast __anonymous functions__ for Julia.
 
