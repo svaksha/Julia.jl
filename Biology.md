@@ -1,4 +1,4 @@
-g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
+gsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOINFORMATICS](#bioinformatics)
 + [BIOSTATISTICS](#bioinformatics)
@@ -54,6 +54,7 @@ g**Bioinformatics, genomics, agriculture, food science, medicine, genetic engine
 + [PseudoGenomes.jl](https://github.com/nw11/PseudoGenomes.jl) :: Read alleles without a VCF parser.
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
 + [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
++ [seqhax.jl](https://github.com/kdmurray91/seqhax.jl) :: yet another NGS command.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
