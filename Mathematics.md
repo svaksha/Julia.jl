@@ -107,6 +107,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ### [Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
 + [ArbFloats.jl](https://github.com/Jeffrey-Sarnoff/ArbFloats.jl) ::  Arb available as an extended precision floating point context.
++ [ArbIntervals.jl](https://github.com/Jeffrey-Sarnoff/ArbIntervals.jl) ::  Julia interface to Fredrik Johansson's Arb software.
 + [DecFP.jl](https://github.com/stevengj/DecFP.jl) :: The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library. 
 + [DoubDouble.jl](https://github.com/J-Sarnoff/DoubDouble.jl).
 + [DoubleDouble.jl](https://github.com/simonbyrne/DoubleDouble.jl) :: A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
