@@ -63,6 +63,7 @@
 ----
 
 # CAD-CAM
++ [Devices.jl](https://github.com/ajkeller34/Devices.jl) :: For simplified generation of device CAD files for superconducting device design.
 + [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 + [LTspice.jl](https://github.com/cstook/LTspice.jl) :: It provides a julia interface to LTspice.
 
