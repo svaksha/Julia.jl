@@ -17,7 +17,6 @@
    + [Graphs](#graphs)
    + [Org-JuliaSparse](#org-juliasparse)
    + [Publications](#publications)
-+ [HMM](#hmm)
 
 ----
 

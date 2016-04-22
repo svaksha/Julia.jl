@@ -2,6 +2,7 @@
 
 + [MACHINE LEARNING](#machine-learning)
    + [Org-JuliaML](#org-juliaml)
++ [HMM](#hmm)   
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
    + [Japanese](#japanese)
@@ -82,6 +83,11 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ML4H.jl](https://github.com/johnmyleswhite/ML4H.jl) :: Machine Learning for Hackers in Julia.
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 + A HN site for [ML](http://news.startup.ml/).
+
+----
+
+# HMM
++ [HiddenMarkovModels.jl](https://github.com/BenConnault/HiddenMarkovModels.jl) :: Basic inference with Hidden Markov Models.
 
 ----
 
