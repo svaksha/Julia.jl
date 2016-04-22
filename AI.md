@@ -87,6 +87,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 ----
 
 # HMM
++ [DynamicDiscreteModels.jl](https://github.com/BenConnault/DynamicDiscreteModels.jl) :: Inference for partially observed Markov chains.
 + [HiddenMarkovModels.jl](https://github.com/BenConnault/HiddenMarkovModels.jl) :: Basic inference with Hidden Markov Models.
 
 ----
