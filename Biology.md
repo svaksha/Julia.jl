@@ -55,7 +55,6 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
 + [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 + [seqhax.jl](https://github.com/kdmurray91/seqhax.jl) :: yet another NGS command.
-+ [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
 + [VariantCall.jl](https://github.com/mgvel/VariantCall.jl).
 + [XSim.jl](https://github.com/reworkhow/XSim.jl) :: A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
@@ -63,6 +62,8 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 
 ## GWAS
 __Genome Wide Association Study (GWAS)__
++ [JWAS.jl](https://github.com/reworkhow/JWAS.jl) :: An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
++ [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) :: A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
 ###### Resources
