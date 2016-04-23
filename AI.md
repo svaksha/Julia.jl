@@ -1,4 +1,4 @@
-**Artificial Intelligence, Machine Learning, Neural, NLP, Robotics, SR/Voice tools,...**
+**Artificial Intelligence, Machine Learning, Neural, NLP, SR/Voice tools,...**
 
 + [MACHINE LEARNING](#machine-learning)
    + [Org-JuliaML](#org-juliaml)

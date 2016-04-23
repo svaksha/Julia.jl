@@ -96,6 +96,7 @@
 ----
 
 # Robots
++ [RigidBodyDynamics.jl](https://github.com/tkoolen/RigidBodyDynamics.jl).
 + [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 + [RobotOS.jl](https://github.com/phobon/RobotOS.jl) :: Julia interface to ROS (Robot Operating System).
 
