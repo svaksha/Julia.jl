@@ -27,6 +27,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection. 
 + [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine Learning for Julia. 
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
++ [go.jl](https://github.com/dmrd/go.jl) :: A deep learning based Go bot implemented in Julia.
 + [GradientBoost.jl](https://github.com/svs14/GradientBoost.jl) :: Gradient boosting framework for Julia.
 + [GURLS.jl](https://github.com/joehuchette/GURLS.jl) :: A pure Julia port of the GURLS supervised learning library.
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
