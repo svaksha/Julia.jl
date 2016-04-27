@@ -115,7 +115,8 @@ __Pre-compiled Binaries__
 ## Packaging
 + [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
 + [JuliaPackageMirrors](https://github.com/JuliaPackageMirrors) :: An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
-https://github.com/JuliaPackageMirrors/mirror-updater
+    + [mirror-updater](https://github.com/JuliaPackageMirrors/mirror-updater) :: Update script for JuliaPackageMirrors.
+    + [PrivateModules.jl](https://github.com/JuliaPackageMirrors/PrivateModules.jl) :: Julia package mirror.
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    + [JuliaArchive](https://JuliaArchive.github.io) :: Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
