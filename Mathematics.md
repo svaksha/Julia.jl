@@ -29,7 +29,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
    + [Linear Algebra](#linear-algebra)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
         + [Org-JuliaFEM](#org-juliafem)
-        + [Org-JuliaSparse](#org-juliasparse) 
+        + [Sparse Matrices](#sparse-matrices) 
 + [PUZZLES](#puzzles)
 
 ----
@@ -395,8 +395,9 @@ __Finite element methods__
 + [MiniBall.jl](https://github.com/JuliaFEM/MiniBall.jl).
 + [TetGen.jl](https://github.com/JuliaFEM/TetGen.jl) :: Finite Element method solver.
 
-#### Org-[JuliaSparse](https://github.com/JuliaSparse) 
-__For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.__
+#### [Sparse Matrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices) 
++ [CSparse.jl](https://github.com/dmbates/CSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries.
++ __[https://github.com/JuliaSparse](https://github.com/JuliaSparse)__ :: For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
 + [HarwellRutherfordBoeing.jl](https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl) :: A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
 + [MatrixMarket.jl](https://github.com/JuliaSparse/MatrixMarket.jl) :: A package to read the MatrixMarket file format.
 + [Meshpart.jl](https://github.com/JuliaSparse/Meshpart.jl) :: A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.

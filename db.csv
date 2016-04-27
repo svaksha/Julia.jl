@@ -13,6 +13,7 @@ AI,MACHINELEARNING,ELM.jl,https://github.com/lepisma/ELM.jl,Extreme Learning Mac
 AI,MACHINELEARNING,FeatureSelection.jl,https://github.com/Evizero/FeatureSelection.jl,Common measures and algorithms for feature selection.
 AI,MACHINELEARNING,Flimsy.jl,https://github.com/thomlake/Flimsy.jl,Gradient based Machine Learning for Julia.
 AI,MACHINELEARNING,FunctionalDataUtils.jl,https://github.com/rened/FunctionalDataUtils.jl,Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
+AI,MACHINELEARNING,go.jl,https://github.com/dmrd/go.jl,A deep learning based Go bot implemented in Julia.
 AI,MACHINELEARNING,GradientBoost.jl,https://github.com/svs14/GradientBoost.jl,Gradient boosting framework for Julia.
 AI,MACHINELEARNING,GURLS.jl,https://github.com/joehuchette/GURLS.jl,A pure Julia port of the GURLS supervised learning library.
 AI,MACHINELEARNING,Glmnet.jl,https://github.com/simonster/Glmnet.jl,Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
@@ -93,6 +94,7 @@ AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,Projective Dictionary Pair Le
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 AI,NLP,Jieba.jl,https://github.com/qinwf/Jieba.jl, A package for Chinese text segmentation, keyword extraction and POS tagging.
+AI,NLP,Jukai.jl,https://github.com/hshindo/Jukai.jl, Natural Language Processing Toolkit.
 AI,NLP,JuliaParser.jl,https://github.com/jakebolewski/JuliaParser.jl,A rewrite of Julia's parser in Julia.
 AI,NLP,KUparser.jl,https://github.com/denizyuret/KUparser.jl,Dependency parsing with word vectors.
 AI,NLP,Languages.jl,https://github.com/johnmyleswhite/Languages.jl,A package for working with human languages.
@@ -328,6 +330,7 @@ Biology,GENOMICS,OpenGene.jl,https://github.com/OpenGene/OpenGene.jl,OpenGene co
 Biology,GENOMICS,Pagel.jl,https://github.com/porterjamesj/Pagel.jl,Detect correlated evolution on phylogenies.
 Biology,GENOMICS,Pathogen.jl,https://github.com/jangevaa/Pathogen.jl,Utilities to simulate and perform inference of disease dynamics.
 Biology,GENOMICS,PedModule.jl,https://github.com/QTL-rocks/PedModule.jl,Geno-type pedigree module.
+Biology,GENOMICS,PhyloNetworks.jl,https://github.com/crsl4/PhyloNetworks.jl,A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
 Biology,GENOMICS,ProgressiveAligner.jl,https://github.com/latticetower/ProgressiveAligner.jl,Progressive alignment scripts for protein sequences.
 Biology,GENOMICS,PseudoGenomes.jl,https://github.com/nw11/PseudoGenomes.jl,Read alleles without a VCF parser.
 Biology,GENOMICS,PureSeq.jl,https://github.com/slundberg/PureSeq.jl,Code for the Pure-seq project.
@@ -337,6 +340,7 @@ Biology,GENOMICS,TimeTrees.jl,https://github.com/tgvaughan/TimeTrees.jl,Phylogen
 Biology,GENOMICS,VariantCall.jl,https://github.com/mgvel/VariantCall.jl),
 Biology,GENOMICS,XSim.jl,https://github.com/reworkhow/XSim.jl,A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 Biology,GENOMICS,YARS.jl,https://github.com/kzahedi/YARS.jl,YARS communication for RNA/proteins.
+Biology,GWAS,AlignmentStatistics.jl,https://github.com/DanielHoffmann32/AlignmentStatistics.jl,A package for statistical analyses of sequence alignments.
 Biology,GWAS,JWAS.jl,https://github.com/reworkhow/JWAS.jl,An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
 Biology,GWAS,StatGenData.jl,https://github.com/dmbates/StatGenData.jl,Statistical analysis of genomic data.
 Biology,GWAS,VarianceComponentTest.jl,https://github.com/Tao-Hu/VarianceComponentTest.jl,A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
@@ -396,6 +400,8 @@ Build-Automation,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RP
 Build-Automation,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
 Build-Automation,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
 Build-Automation,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
+Build-Automation,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
+Build-Automation,Packaging,PrivateModules.jl,https://github.com/JuliaPackageMirrors/PrivateModules.jl,Julia package mirror.
 Build-Automation,Packaging,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
 Build-Automation,Packaging,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 Build-Automation,Packaging,JuliaArchive,https://JuliaArchive.github.io,Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
@@ -807,6 +813,7 @@ HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Collectl.jl,http
 HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LCJC.jl,https://github.com/amitmurthy/LCJC.jl,Loosely Coupled Julia Clusters.
 HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LoraMPI.jl,https://github.com/scidom/LoraMPI.jl,MPI Job Manager for Lora Parralel-Centric Runners.
 HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
+HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Persist.jl,https://github.com/eschnett/Persist.jl,The package Persist allows running jobs independent of the Julia shell.
 HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 HPC,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
 HPC,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
@@ -959,6 +966,8 @@ Mathematics,CRYPTOGRAPHY,RNGTesting,https://github.com/johnmyleswhite/RNGTesting
 Mathematics,CRYPTOGRAPHY,SHA.jl,https://github.com/staticfloat/SHA.jl,a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
 Mathematics,CRYPTOGRAPHY,Sha256.jl,https://github.com/mad4alcohol/Sha256.jl,[Sha256 hash algorithm for Julia.
 Mathematics,CRYPTOGRAPHY,Stupid.jl,https://github.com/andrewcooke/Stupid.jl,Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
+Mathematics,CRYPTOGRAPHY,VML.jl,https://github.com/JuliaLang/VML.jl,Julia bindings for the Intel Vector Math Library.
+Mathematics,CRYPTOGRAPHY,VSL.jl,https://github.com/sunoru/VSL.jl,Julia bindings for the Intel Vector Statistics Library.
 Mathematics,Cryptocurrency,it[Coin.jl,https://github.com/danielsuo/Coin.jl,A library for working with Bitcoin written in Julia.
 Mathematics,MATH,ApApproximation.jl,https://github.com/dprn/ApApproximation.jl,Implementation of the almost-periodic approximation.
 Mathematics,MATH,BasisFunctions.jl,https://github.com/daanhb/BasisFunctions.jl,A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package.
@@ -1213,19 +1222,20 @@ Mathematics,NumericalLinearAlgebra(NLA),RK4.jl,https://github.com/ntezak/RK4.jl,
 Mathematics,NumericalLinearAlgebra(NLA),SpecialMatrices.jl,https://github.com/timbers/SpecialMatrices.jl,Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 Mathematics,NumericalLinearAlgebra(NLA),SpecialMatrices.jl,https://github.com/jiahao/SpecialMatrices.jl,Julia package for working with special matrix types.
 Mathematics,NumericalLinearAlgebra(NLA),ToeplitzMatrices.jl,https://github.com/andreasnoackjensen/ToeplitzMatrices.jl,Fast matrix multiplication and division for Toeplitz matrices in Julia.
-Mathematics,NumericalLinearAlgebra(NLA),VML.jl,https://github.com/JuliaLang/VML.jl,Julia bindings for the Intel Vector Math Library.
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),JuliaFEM.jl,https://github.com/JuliaFEM/JuliaFEM.jl,Finite Element method solver.
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),MiniBall.jl,https://github.com/JuliaFEM/MiniBall.jl),
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),TetGen.jl,https://github.com/JuliaFEM/TetGen.jl,Finite Element method solver.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),MatrixMarket.jl,https://github.com/JuliaSparse/MatrixMarket.jl,A package to read the MatrixMarket file format.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),Meshpart.jl,https://github.com/JuliaSparse/Meshpart.jl,A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),Metis.jl,https://github.com/JuliaSparse/Metis.jl,Julia interface to the Metis graph-partitioning algorithms.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),MKLSparse.jl,https://github.com/JuliaSparse/MKLSparse.jl,Override sparse-dense operations when MKL is available.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),MultiFrontalCholesky.jl,https://github.com/JuliaSparse/MultiFrontalCholesky.jl,The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),MUMPS.jl,https://github.com/JuliaSparse/MUMPS.jl,An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),MUMPSseq.jl,https://github.com/JuliaSparse/MUMPSseq.jl,Alternative Julia interface to MUMPS sparse system solver.
-Mathematics,Org-[JuliaSparse](https://github.com/JuliaSparse),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),CSparse.jl,https://github.com/dmbates/CSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),_[https://github.com/JuliaSparse,https://github.com/JuliaSparse)_,For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MatrixMarket.jl,https://github.com/JuliaSparse/MatrixMarket.jl,A package to read the MatrixMarket file format.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Meshpart.jl,https://github.com/JuliaSparse/Meshpart.jl,A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Metis.jl,https://github.com/JuliaSparse/Metis.jl,Julia interface to the Metis graph-partitioning algorithms.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MKLSparse.jl,https://github.com/JuliaSparse/MKLSparse.jl,Override sparse-dense operations when MKL is available.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MultiFrontalCholesky.jl,https://github.com/JuliaSparse/MultiFrontalCholesky.jl,The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPS.jl,https://github.com/JuliaSparse/MUMPS.jl,An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPSseq.jl,https://github.com/JuliaSparse/MUMPSseq.jl,Alternative Julia interface to MUMPS sparse system solver.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
 Mathematics,Resources,JuliaCon2015,https://github.com/JuliaSparse/JuliaCon2015,Sparse Matrices in Julia worksho at JuliaCon2015.
 Mathematics,Resources,The Performance Cost of Integer Overflow Checking,http://danluu.com/integer-overflow/,
 Mathematics,PUZZLES,Deepthought.jl,https://github.com/dejakaymac/Deepthought.jl,
@@ -1382,7 +1392,7 @@ Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Sc
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
-QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Lapidary.jl,https://github.com/MichaelHatherly/Lapidary.jl,A documentation generator for Julia.
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/MichaelHatherly/Documenter.jl,A documentation generator for Julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
 QA,Resources,Making nice documentation,http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package,
 QA,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
@@ -1689,6 +1699,7 @@ Statistics,STATISTICS,CTDE.jl,https://github.com/adolgert/CTDE.jl,Continuous tim
 Statistics,STATISTICS,CurveFit.jl,https://github.com/pjabardo/CurveFit.jl,Simple least squares and curve fitting functions.
 Statistics,STATISTICS,JointMoments.jl,https://github.com/tensorjack/JointMoments.jl,Tensors and statistics for joint central moments.
 Statistics,STATISTICS,DA.jl,https://github.com/trthatcher/DA.jl,A package for linear and quadratic regularized Discriminant Analysis.
+Statistics,STATISTICS,DH32StatsHelpers.jl,https://github.com/DanielHoffmann32/DH32StatsHelpers.jl,Auxiliary functions for statistical analyses.
 Statistics,STATISTICS,DiscriminantAnalysis.jl,https://github.com/johnmyleswhite/DiscriminantAnalysis.jl,Methods for discriminant analysis, in Julia.
 Statistics,STATISTICS,Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package for evaluating divergences.
 Statistics,STATISTICS,DPMM.jl,https://github.com/sbos/DPMM.jl,Dirichlet Process Mixture Models in Julia.
