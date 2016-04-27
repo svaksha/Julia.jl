@@ -128,6 +128,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors. 
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 + [Jieba.jl](https://github.com/qinwf/Jieba.jl) ::  A package for Chinese text segmentation, keyword extraction and POS tagging.
++ [Jukai.jl](https://github.com/hshindo/Jukai.jl) ::  Natural Language Processing Toolkit.
 + [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors. 
 + [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
