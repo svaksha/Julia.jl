@@ -47,6 +47,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SHA.jl](https://github.com/staticfloat/SHA.jl) :: a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
 + [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: [Sha256 hash algorithm for Julia.
 + [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
++ [VML.jl](https://github.com/JuliaLang/VML.jl) :: Julia bindings for the Intel Vector Math Library.
++ [VSL.jl](https://github.com/sunoru/VSL.jl) :: Julia bindings for the Intel Vector Statistics Library.
 
 ### Cryptocurrency 
 + Bit[Coin.jl](https://github.com/danielsuo/Coin.jl) :: A library for working with Bitcoin written in Julia.
@@ -386,7 +388,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
-+ [VML.jl](https://github.com/JuliaLang/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__
