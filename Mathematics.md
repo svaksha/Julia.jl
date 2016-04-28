@@ -29,6 +29,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
    + [Linear Algebra](#linear-algebra)
         + [Matrix Theory](#matrix-theory)
             + [Sparse Matrices](#sparse-matrices) 
+   + [Mathematical Analysis](#mathematical-analysis)
    + [Numerical Linear Algebra](#numerical-linear-algebra)
         + [Org-JuliaFEM](#org-juliafem)
 + [PUZZLES](#puzzles)
@@ -388,6 +389,9 @@ algebra library in Julia.
 + [SparseGrids.jl](https://github.com/Zac12345/SparseGrids.jl).
 + [SparseVectors.jl](https://github.com/JuliaSparse/SparseVectors.jl) :: A Julia package to support sparse vectors.
 + [SparseVectorMatrix.jl](https://github.com/pranavtbhat/SparseVectorMatrix.jl) :: SparseMatrices as a vector of SparseVectors.
+
+## [Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
++ [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) :: Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
 
 ## Numerical Linear Algebra (NLA)
 __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__

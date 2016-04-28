@@ -1216,6 +1216,7 @@ Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matri
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectorMatrix.jl,https://github.com/pranavtbhat/SparseVectorMatrix.jl,SparseMatrices as a vector of SparseVectors.
+Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
 Mathematics,NumericalLinearAlgebra(NLA),Accelereval.jl,https://github.com/lindahua/Accelereval.jl,A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 Mathematics,NumericalLinearAlgebra(NLA),BSplines.jl,https://github.com/gusl/BSplines.jl,This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
 Mathematics,NumericalLinearAlgebra(NLA),Cuba.jl,https://github.com/giordano/Cuba.jl,Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre. [Documentation](https://cubajl.readthedocs.org/)
