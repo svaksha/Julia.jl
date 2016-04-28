@@ -203,16 +203,14 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),LSH.jl
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MatrixNetworks.jl,https://github.com/nassarhuda/MatrixNetworks.jl,Graph and Network algorithms.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MatrixDepot.jl,https://github.com/weijianzhang/MatrixDepot.jl,A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),MinimalPerfectHashes.jl,https://github.com/soundcloud/MinimalPerfectHashes.jl,An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Multifrontal.jl,https://github.com/weijianzhang/Multifrontal.jl,Multifrontal direct solvers for sparse matrices.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Named.jl,https://github.com/HarlanH/Named.jl,Julia named index and named vector types.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedArrays.jl,https://github.com/davidavdav/NamedArrays.jl,Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),OffsetArrays.jl,https://github.com/alsam/OffsetArrays.jl,Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ParallelSparseMatMul.jl,https://github.com/madeleineudell/ParallelSparseMatMul.jl,A Julia library for parallel sparse matrix multiplication using shared memory.
+Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ParallelGraphs.jl,https://github.com/pranavtbhat/ParallelGraphs.jl,Massive Graph Analysis Platform built on `ComputeFramework.jl`.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PDMats.jl,https://github.com/lindahua/PDMats.jl,Uniform Interface for positive definite matrices of various structures.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PETSc.jl,https://github.com/stevengj/PETSc.jl,sparse-matrix interface for the Julia language.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PositiveFactorizations.jl,https://github.com/timholy/PositiveFactorizations.jl,Positive-definite (approximations) to matrices.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PropertyGraph.jl,https://github.com/PhillP/PropertyGraph.jl,A Julia package for constructing, creating and querying graph data structures.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PropertyGraphMongo.jl,https://github.com/PhillP/PropertyGraphMongo.jl,A Mongo storage provider for the `PropertyGraph.jl` package.
@@ -227,9 +225,6 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Series
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SFrames.jl,https://github.com/malmaud/SFrames.jl,Wrapper around the open-source components of Graphlab.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SimpleGraphs.jl,https://github.com/scheinerman/SimpleGraphs.jl,A module for working with simple graphs (no loops, no multiple edges, no directed edges).
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Sims.jl,https://github.com/tshort/Sims.jl,Non-causal, equation-based modeling in Julia.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseData.jl,https://github.com/lindahua/SparseData.jl,A Julia package to support working with sparse data sets (e.g. text corpus).
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseFactorModels.jl,https://github.com/matthieugomez/SparseFactorModels.jl,Estimate factor models on sparse datasets.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SpatialGraphs.jl,https://github.com/sawcordwell/SpatialGraphs.jl,
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SumTrees.jl,https://github.com/iamed2/SumTrees.jl,Binary tree where the nodes contain the sum of the left and right children.
@@ -1184,25 +1179,43 @@ Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),MovcolN.jl,https://github.com/pwl/MovcolN.jl,Moving collocation method to solve one dimensional partial differential equations.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),NAG.jl,https://github.com/StefanKarpinski/NAG.jl,Julia package to wrap the NAG Numerical Library, a propreitary software library of numerical analysis routines, mathematical and statistical algorithms for linear algebra, optimization, quadrature, the solution of ordinary and partial differential equations, regression analysis, and time series analysis.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),SortedVectors.jl,https://github.com/colintbowers/SortedVectors.jl,A WIP package that implements a SortedVector type.
-Mathematics,LinearAlgebra,AxisAlgorithms.jl,https://github.com/timholy/AxisAlgorithms.jl,Efficient filtering and linear algebra routines for multidimensional arrays.
-Mathematics,LinearAlgebra,CUSPARSE.jl,https://github.com/kshyatt/CUSPARSE.jl,Julia interface to NVIDIA's CUSPARSE library.
-Mathematics,LinearAlgebra,CUSOLVER.jl,https://github.com/kshyatt/CUSOLVER.jl,Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
-Mathematics,LinearAlgebra,green-fairy,https://github.com/carnaval/green-fairy,Lattice trees.
-Mathematics,LinearAlgebra,Hypre.jl,https://github.com/jgoldfar/Hypre.jl,A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
-Mathematics,LinearAlgebra,IDRsSolver.jl,https://github.com/mschauer/IDRsSolver.jl,Induced Dimension Reduction method [IDR(s)] for solving general linear equations.
-Mathematics,LinearAlgebra,juliaSpot,https://github.com/slimgroup/juliaSpot,The Julia implementation of the Spot Linear Algebra Package.
-Mathematics,LinearAlgebra,KrylovSolvers.jl,https://github.com/cfbaptista/KrylovSolvers.jl,Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
-Mathematics,LinearAlgebra,LinearAlgebra.jl,https://github.com/andreasnoack/LinearAlgebra.jl,Eigenvalue and -vector calculations in Julia.
-Mathematics,LinearAlgebra,LMesh.jl,https://bitbucket.org/maurow/lmesh.jl,A Mesh package that implements the type of mesh sugessted by Logg (2012).
-Mathematics,LinearAlgebra,LDA.jl,https://github.com/remusao/LDA.jl,Linear Discriminant Analysis and Kernel Fisher Analysis.
-Mathematics,LinearAlgebra,LLLplus.jl,https://github.com/christianpeel/LLLplus.jl,LLL lattice reduction, sphere decoder, and related lattice tools.
-Mathematics,LinearAlgebra,LMCLUS.jl,https://github.com/wildart/LMCLUS.jl,Julia's package for Linear Manifold Clustering.
-Mathematics,LinearAlgebra,MUMPS,https://github.com/lruthotto/MUMPS,A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
-Mathematics,LinearAlgebra,MUMPS1.jl,https://github.com/dmbates/MUMPS1.jl,An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
-Mathematics,LinearAlgebra,NonuniformArray.jl,https://github.com/ReidAtcheson/NonuniformArray.jl,This library handles the case of __array of arrays__ where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
-Mathematics,LinearAlgebra,PolarFact.jl,https://github.com/weijianzhang/PolarFa.jl,A Julia package for the matrix polar decomposition.
-Mathematics,LinearAlgebra,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
-Mathematics,LinearAlgebra,SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),AxisAlgorithms.jl,https://github.com/timholy/AxisAlgorithms.jl,Efficient filtering and linear algebra routines for multidimensional arrays.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CUSPARSE.jl,https://github.com/kshyatt/CUSPARSE.jl,Julia interface to NVIDIA's CUSPARSE library.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CUSOLVER.jl,https://github.com/kshyatt/CUSOLVER.jl,Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),green-fairy,https://github.com/carnaval/green-fairy,Lattice trees.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Hypre.jl,https://github.com/jgoldfar/Hypre.jl,A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),IDRsSolver.jl,https://github.com/mschauer/IDRsSolver.jl,Induced Dimension Reduction method [IDR(s)] for solving general linear equations.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),juliaSpot,https://github.com/slimgroup/juliaSpot,The Julia implementation of the Spot Linear Algebra Package.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),KrylovSolvers.jl,https://github.com/cfbaptista/KrylovSolvers.jl,Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LinearAlgebra.jl,https://github.com/andreasnoack/LinearAlgebra.jl,Eigenvalue and -vector calculations in Julia.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LMesh.jl,https://bitbucket.org/maurow/lmesh.jl,A Mesh package that implements the type of mesh sugessted by Logg (2012).
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LDA.jl,https://github.com/remusao/LDA.jl,Linear Discriminant Analysis and Kernel Fisher Analysis.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LLLplus.jl,https://github.com/christianpeel/LLLplus.jl,LLL lattice reduction, sphere decoder, and related lattice tools.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LMCLUS.jl,https://github.com/wildart/LMCLUS.jl,Julia's package for Linear Manifold Clustering.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS,https://github.com/lruthotto/MUMPS,A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS1.jl,https://github.com/dmbates/MUMPS1.jl,An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),NonuniformArray.jl,https://github.com/ReidAtcheson/NonuniformArray.jl,This library handles the case of __array of arrays__ where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),PolarFact.jl,https://github.com/weijianzhang/PolarFa.jl,A Julia package for the matrix polar decomposition.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),CSparse.jl,https://github.com/dmbates/CSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),_[https://github.com/JuliaSparse,https://github.com/JuliaSparse)_,For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MatrixMarket.jl,https://github.com/JuliaSparse/MatrixMarket.jl,A package to read the MatrixMarket file format.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Meshpart.jl,https://github.com/JuliaSparse/Meshpart.jl,A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Metis.jl,https://github.com/JuliaSparse/Metis.jl,Julia interface to the Metis graph-partitioning algorithms.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MKLSparse.jl,https://github.com/JuliaSparse/MKLSparse.jl,Override sparse-dense operations when MKL is available.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Multifrontal.jl,https://github.com/weijianzhang/Multifrontal.jl,Multifrontal direct solvers for sparse matrices.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MultiFrontalCholesky.jl,https://github.com/JuliaSparse/MultiFrontalCholesky.jl,The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPS.jl,https://github.com/JuliaSparse/MUMPS.jl,An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPSseq.jl,https://github.com/JuliaSparse/MUMPSseq.jl,Alternative Julia interface to MUMPS sparse system solver.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),ParallelSparseMatMul.jl,https://github.com/madeleineudell/ParallelSparseMatMul.jl,A Julia library for parallel sparse matrix multiplication using shared memory.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),PETSc.jl,https://github.com/stevengj/PETSc.jl,sparse-matrix interface for the Julia language.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseData.jl,https://github.com/lindahua/SparseData.jl,A Julia package to support working with sparse data sets (e.g. text corpus).
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseFactorModels.jl,https://github.com/matthieugomez/SparseFactorModels.jl,Estimate factor models on sparse datasets.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectorMatrix.jl,https://github.com/pranavtbhat/SparseVectorMatrix.jl,SparseMatrices as a vector of SparseVectors.
 Mathematics,NumericalLinearAlgebra(NLA),Accelereval.jl,https://github.com/lindahua/Accelereval.jl,A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 Mathematics,NumericalLinearAlgebra(NLA),BSplines.jl,https://github.com/gusl/BSplines.jl,This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
 Mathematics,NumericalLinearAlgebra(NLA),Cuba.jl,https://github.com/giordano/Cuba.jl,Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre. [Documentation](https://cubajl.readthedocs.org/)
@@ -1225,19 +1238,7 @@ Mathematics,NumericalLinearAlgebra(NLA),ToeplitzMatrices.jl,https://github.com/a
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),JuliaFEM.jl,https://github.com/JuliaFEM/JuliaFEM.jl,Finite Element method solver.
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),MiniBall.jl,https://github.com/JuliaFEM/MiniBall.jl),
 Mathematics,Org-[JuliaFEM](https://github.com/JuliaFEM),TetGen.jl,https://github.com/JuliaFEM/TetGen.jl,Finite Element method solver.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),CSparse.jl,https://github.com/dmbates/CSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),_[https://github.com/JuliaSparse,https://github.com/JuliaSparse)_,For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MatrixMarket.jl,https://github.com/JuliaSparse/MatrixMarket.jl,A package to read the MatrixMarket file format.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Meshpart.jl,https://github.com/JuliaSparse/Meshpart.jl,A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Metis.jl,https://github.com/JuliaSparse/Metis.jl,Julia interface to the Metis graph-partitioning algorithms.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MKLSparse.jl,https://github.com/JuliaSparse/MKLSparse.jl,Override sparse-dense operations when MKL is available.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MultiFrontalCholesky.jl,https://github.com/JuliaSparse/MultiFrontalCholesky.jl,The Cholesky decomposition of a Hermitian, positive-definite matrix into the product of a lower triangular matrix and its conjugate transpose, used for efficient numerical solutions and Monte Carlo simulations.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPS.jl,https://github.com/JuliaSparse/MUMPS.jl,An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPSseq.jl,https://github.com/JuliaSparse/MUMPSseq.jl,Alternative Julia interface to MUMPS sparse system solver.
-Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
 Mathematics,Resources,JuliaCon2015,https://github.com/JuliaSparse/JuliaCon2015,Sparse Matrices in Julia worksho at JuliaCon2015.
-Mathematics,Resources,The Performance Cost of Integer Overflow Checking,http://danluu.com/integer-overflow/,
 Mathematics,PUZZLES,Deepthought.jl,https://github.com/dejakaymac/Deepthought.jl,
 Mathematics,PUZZLES,euler,https://github.com/somu/euler,Project Euler solutions in Julia.
 Mathematics,PUZZLES,PlayingCards.jl,https://github.com/DataWookie/PlayingCards.jl,Package for simulating Playing Cards games in Julia.
@@ -1641,6 +1642,7 @@ Statistics,Optimization,Proximal.jl,https://github.com/johnmyleswhite/Proximal.j
 Statistics,Optimization,Quadprog.jl,https://github.com/harmeling/Quadprog.jl,A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
 Statistics,Optimization,QuickCheck.jl,https://github.com/pao/QuickCheck.jl,is listed in METADATA and based on QuickCheck specification-based randomized tester for Julia.
 Statistics,Optimization,scheduleCrew.jl,https://github.com/hugdiniz/scheduleCrew.jl),
+Statistics,Optimization,StructJuMP.jl,https://github.com/joehuchette/StructJuMP.jl,A block-structured optimization framework for JuMP.
 Statistics,Optimization,SCIP.jl,https://github.com/mlubin/SCIP.jl) by @mlubi,An optimization software for mixed-integer programs.
 Statistics,Optimization,SCIP.jl,https://github.com/ryanjoneil/SCIP.jl) by @ryanjonei,A Julia interface to the SCIP solver.
 Statistics,Optimization,SCS.jl,https://github.com/karanveerm/SCS.jl,Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
@@ -1817,6 +1819,7 @@ Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,Kerne
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,MarketTechnicals.jl,https://github.com/JuliaQuant/MarketTechnicals.jl,Technical analysis of financial time series in Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,RARIMA,https://github.com/colintbowers/RARIMA.jl,An ARIMA (Autoregressive Integrated Moving Average) module for the Julia language that uses libraries from the R-language.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,SmoothingKernels.jl,https://github.com/johnmyleswhite/SmoothingKernels.jl,Smoothing kernels for use in kernel regression and kernel density estimation.
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,Temporal.jl,https://github.com/dysonance/Temporal.jl,Flexible and efficient time series class & methods for the Julia language.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeModels.jl,https://github.com/JuliaStats/TimeModels.jl,Modeling time series in Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeriesRegressions.jl,https://github.com/andreasnoack/TimeSeriesRegressions.jl,Tools for working with regression based time series modelling.

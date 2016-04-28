@@ -159,6 +159,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
   * _DOCS_::
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 + [scheduleCrew.jl](https://github.com/hugdiniz/scheduleCrew.jl).
++ [StructJuMP.jl](https://github.com/joehuchette/StructJuMP.jl) :: A block-structured optimization framework for JuMP.
 + [SCIP.jl](https://github.com/mlubin/SCIP.jl) by @mlubin :: An optimization software for mixed-integer programs.
 + [SCIP.jl](https://github.com/ryanjoneil/SCIP.jl) by @ryanjoneil :: A Julia interface to the SCIP solver.
 + [SCS.jl](https://github.com/karanveerm/SCS.jl) :: Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
@@ -379,6 +380,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 + [RARIMA](https://github.com/colintbowers/RARIMA.jl) :: An ARIMA (Autoregressive Integrated Moving Average) module for the Julia language that uses libraries from the R-language.
 + [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) :: Smoothing kernels for use in kernel regression and kernel density estimation.
++ [Temporal.jl](https://github.com/dysonance/Temporal.jl) :: Flexible and efficient time series class & methods for the Julia language.
 + [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
 + [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
 + [TimeSeriesRegressions.jl](https://github.com/andreasnoack/TimeSeriesRegressions.jl) :: Tools for working with regression based time series modelling.
