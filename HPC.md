@@ -27,6 +27,7 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
 ## GPU
 + [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
++ [OpenCLBLAS.jl](https://github.com/mikhail-j/OpenCLBLAS.jl] :: OpenCL BLAS library wrapper for Julia with samples.
 + [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
 
 ### Org-[JuliaGPU](https://github.com/JuliaGPU)
