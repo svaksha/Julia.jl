@@ -51,6 +51,7 @@
 + [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
 + [GDAL.jl](https://github.com/wkearn/GDAL.jl) :: Geospatial Data Analysis Library Wrapper for Julia.
 + [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper.
++ [GeographicLibPy.jl](https://github.com/kshramt/GeographicLibPy.jl) :: Thin wrapper of geographiclib Python package.
 + [GIS.jl](https://github.com/wkearn/GIS.jl) :: A package for the visualization and manipulation of geographic data.
 + [GeoIP.jl](https://github.com/johnmyleswhite/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
 + [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
