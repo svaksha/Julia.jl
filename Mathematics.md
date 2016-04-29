@@ -391,7 +391,9 @@ algebra library in Julia.
 + [SparseVectorMatrix.jl](https://github.com/pranavtbhat/SparseVectorMatrix.jl) :: SparseMatrices as a vector of SparseVectors.
 
 ## [Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
++ [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) :: This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
 + [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) :: Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
+
 
 ## Numerical Linear Algebra (NLA)
 __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__
