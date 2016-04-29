@@ -77,10 +77,11 @@
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
 + [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) :: Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}
++ [eve.jl](https://github.com/barcharcraz/eve.jl) :: Julia library for interacting with Eve Online.
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
-+ [zyedidia/SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
++ [SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 
 ##### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
