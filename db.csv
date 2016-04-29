@@ -530,10 +530,11 @@ Computer-Graphics,GRAPHICS,VLFeat.jl,https://github.com/IHPostal/VLFeat.jl,Julia
 Computer-Graphics,GRAPHICS,VisualRegressionTests.jl,https://github.com/tbreloff/VisualRegressionTests.jl,Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}
 Computer-Graphics,Games,ArcadeLearningEnvironment.jl,https://github.com/nowozin/ArcadeLearningEnvironment.jl,ArcadeLearningEnvironment Julia interface.
 Computer-Graphics,Games,AtariAlgos.jl,https://github.com/tbreloff/AtariAlgos.jl,Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}
+Computer-Graphics,Games,eve.jl,https://github.com/barcharcraz/eve.jl,Julia library for interacting with Eve Online.
 Computer-Graphics,Games,Quake2.jl,https://github.com/jayschwa/Quake2.jl,Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 Computer-Graphics,Games,ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl),
 Computer-Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This is a small space shooter game made in Julia with SFML.jl
-Computer-Graphics,Games,zyedidia/SFML.jl,https://github.com/zyedidia/SFML.jl,A binding of the Game and Multimedia Library SFML.
+Computer-Graphics,Games,SFML.jl,https://github.com/zyedidia/SFML.jl,A binding of the Game and Multimedia Library SFML.
 Computer-Graphics,Resources,julia-opengl-demos,https://github.com/ssfrr/julia-opengl-demos,A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 Computer-Graphics,Resources,Videre,https://github.com/Gnimuc/Videre,OpenGL examples written in Julia.
 Computer-Graphics,INFOGRAPHICS,AnimatedPlots.jl,https://github.com/zyedidia/AnimatedPlots.jl,Fast animated (and static) plots for Julia.
@@ -676,6 +677,7 @@ Earth-Science,GIS,FlowNetworks.jl,https://github.com/scheidan/FlowNetworks.jl,Ty
 Earth-Science,GIS,Gaia.jl,https://github.com/jsbj/Gaia.jl,Unified interface for observational datasets of the Earth's weather and climate.
 Earth-Science,GIS,GDAL.jl,https://github.com/wkearn/GDAL.jl,Geospatial Data Analysis Library Wrapper for Julia.
 Earth-Science,GIS,GDALfuns.jl,https://github.com/meggart/GDALfuns.jl,GDAL wrapper.
+Earth-Science,GIS,GeographicLibPy.jl,https://github.com/kshramt/GeographicLibPy.jl,Thin wrapper of geographiclib Python package.
 Earth-Science,GIS,GIS.jl,https://github.com/wkearn/GIS.jl,A package for the visualization and manipulation of geographic data.
 Earth-Science,GIS,GeoIP.jl,https://github.com/johnmyleswhite/GeoIP.jl,is a Julia package that can estimate the geographic location of IP addresses.
 Earth-Science,GIS,GMT.jl,https://github.com/joa-quim/GMT.jl,is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views.
@@ -736,6 +738,7 @@ Hardware,DOCS,omer Reid's [Introduction to Numerical Analysis - Basic Numerical 
 Hardware,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos.
 Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/rennis250/Arduino.jl,Basic Arduino interface for Julia.
 Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
+Hardware,Robots,FPTControl.jl,https://github.com/krisztiankosi/FPTControl.jl,Fixed Point Transformation Based Control.
 Hardware,Robots,RigidBodyDynamics.jl,https://github.com/tkoolen/RigidBodyDynamics.jl),
 Hardware,Robots,Robotics.jl,https://github.com/cdsousa/Robotics.jl,Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 Hardware,Robots,RobotOS.jl,https://github.com/phobon/RobotOS.jl,Julia interface to ROS (Robot Operating System).
@@ -744,6 +747,7 @@ HPC,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubunt
 HPC,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
 HPC,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
 HPC,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
+HPC,GPU,OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
 HPC,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
 HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),AbstractGPUArray.jl,https://github.com/JuliaGPU/AbstractGPUArray.jl,An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
 HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
@@ -1062,6 +1066,7 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealNumbers.jl,https://github.com/timholy/HemirealNumbers.jl,Implementation of hemireal arithmetic for Julia.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HyperNumbers.jl,https://github.com/goedman/HyperNumbers.jl,Julia implementation of HyperNumbers.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),IFastSum.jl,https://github.com/J-Sarnoff/IFastSum.jl,Accurate summation (Yuhang Zhao's iFastSum).
+Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),MINE.jl,https://github.com/zhmz90/MINE.jl,Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),pdetools.jl,https://github.com/GaZ3ll3/pdetools.jl,Toolbox for solving PDEs.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PowerSeries.jl,https://github.com/jwmerrill/PowerSeries.jl,Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PolyMath.jl,https://github.com/cfbaptista/PolyMath.jl,a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
@@ -1216,6 +1221,7 @@ Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matri
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectorMatrix.jl,https://github.com/pranavtbhat/SparseVectorMatrix.jl,SparseMatrices as a vector of SparseVectors.
+Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Complementarity.jl,https://github.com/chkwon/Complementarity.jl,This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
 Mathematics,NumericalLinearAlgebra(NLA),Accelereval.jl,https://github.com/lindahua/Accelereval.jl,A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 Mathematics,NumericalLinearAlgebra(NLA),BSplines.jl,https://github.com/gusl/BSplines.jl,This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real.
