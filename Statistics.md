@@ -394,6 +394,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [HJBFiniteDifference.jl](https://github.com/matthieugomez/HJBFiniteDifference.jl) :: Solve HJB equations through finite difference schemes.
 + [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
 + [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: API for solving POMDPs in Julia).
++ [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
 + [SGDOptim.jl](https://github.com/lindahua/SGDOptim.jl) :: A julia package for Stochastic Gradient Descent.
 + [SGD.jl](https://github.com/johnmyleswhite/SGD.jl) :: Fit models using SGD in Julia.
 + [SGDDemo.jl](https://github.com/johnmyleswhite/SGDDemo.jl) :: Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.
