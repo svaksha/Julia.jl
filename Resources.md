@@ -28,6 +28,8 @@ __Useful learning resources and all other random resources that does not have it
 # BLOGS 
 + The official [Julia language blog](http://julialang.org/blog/)
 + The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
+### Blogs
++ [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
 + Understanding object oriented programming in julia - [Part-1](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-part-1) and [Part-2](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-inheritance-part-2/) and later another post on [Revisiting emulated OOP behaviour and multiple dispatch in Julia](https://thenewphalls.wordpress.com/2014/06/02/revisiting-emulated-oop-behaviour-and-multiple-dispatch-in-julia/).
 + Chris Rackauckas [blog posts on Julia](http://www.stochasticlifestyle.com/).
 + [Writing good Julia functions](http://doodlingindata.com/2015/08/11/writing-good-julia-functions/)

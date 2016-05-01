@@ -42,6 +42,7 @@ AI,MACHINELEARNING,MochaTheano.jl,https://github.com/benmoran/MochaTheano.jl,All
 AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online Learning of Linear Adaptatable Models.
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
+AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
 AI,MACHINELEARNING,SALSA.jl,https://github.com/jumutc/SALSA.jl,_S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
 AI,MACHINELEARNING,SimpleML.jl,https://github.com/aviks/SimpleML.jl,Textbook implementations of some Machine Learning Algorithms in Julia.
@@ -1022,6 +1023,7 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubleDouble.jl,https://github.com/simonbyrne/DoubleDouble.jl,A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ErrorFreeTransforms.jl,https://github.com/dsiem/ErrorFreeTransforms.jl,Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FlexFloat.jl,https://github.com/J-Sarnoff/FlexFloat.jl,Allows values to stretch in a way that preserves accuracy durring mathematical computations.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FloatFloats.jl,https://github.com/Jeffrey-Sarnoff/FloatFloats.jl),
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats512.jl,https://github.com/J-Sarnoff/Floats512.jl,Accurate floating point math at extended precision for Float-512.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats1024.jl,https://github.com/J-Sarnoff/Floats1024.jl,Accurate floating point math at extended precision for Float-1024.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FloatHigher.jl,https://github.com/J-Sarnoff/FloatHigher.jl,accurate floating point math at extended precisions.
@@ -1399,6 +1401,7 @@ Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains wh
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
+QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
 QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/MichaelHatherly/Documenter.jl,A documentation generator for Julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
@@ -1435,25 +1438,25 @@ Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Me
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
 Resources,BLOGS,he official [Julia language blog,http://julialang.org/blog/,
-Resources,BLOGS,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
-Resources,BLOGS,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
-Resources,BLOGS,Julia Package Ecosystem Dependency Graphs,http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning,
-Resources,BLOGS,Values vs. Bindings: The Map is Not the Territory,http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/,
-Resources,BLOGS,Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,
-Resources,BLOGS,Helpful Julia functions: help, methods, etc..,http://blog.leahhanson.us/julia-helps.html) by Leah Hanson,
-Resources,BLOGS,sing [JuMP to Solve a TSP with Lazy Constraints,http://iaindunning.com/2013/mip-callback.html,
-Resources,BLOGS,lasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza,https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school,
-Resources,BLOGS,Getting comfortable with the julia programming language,http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language,
-Resources,BLOGS,Cool things you can do in Julia,http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia,
-Resources,BLOGS,ow to [call Python libraries,http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia,
-Resources,BLOGS,Exploratory-type functions/tools,http://blog.leahhanson.us/julia-helps.html,
-Resources,BLOGS,nother opinion on [Julia first impressions,http://eyeballtrees.com/posts/julia-impressions.html,
-Resources,BLOGS,Fun With Just-In-Time Compiling: Julia, Python, R and pqR,http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch,
-Resources,BLOGS,Tabular Data I/O in Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch,
-Resources,BLOGS,John Myles White recounts his JuliaCon experience,http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/,
-Resources,BLOGS,Julia at EuroSciPy 2014,https://github.com/stevengj/Julia-EuroSciPy14),
-Resources,BLOGS,Julia Vs. R,https://github.com/johnmyleswhite/JuliaVsR,
-Resources,BLOGS,Importing tabular data into Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC,
+Resources,Blogs,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
+Resources,Blogs,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
+Resources,Blogs,Julia Package Ecosystem Dependency Graphs,http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning,
+Resources,Blogs,Values vs. Bindings: The Map is Not the Territory,http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/,
+Resources,Blogs,Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,
+Resources,Blogs,Helpful Julia functions: help, methods, etc..,http://blog.leahhanson.us/julia-helps.html) by Leah Hanson,
+Resources,Blogs,sing [JuMP to Solve a TSP with Lazy Constraints,http://iaindunning.com/2013/mip-callback.html,
+Resources,Blogs,lasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza,https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school,
+Resources,Blogs,Getting comfortable with the julia programming language,http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language,
+Resources,Blogs,Cool things you can do in Julia,http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia,
+Resources,Blogs,ow to [call Python libraries,http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia,
+Resources,Blogs,Exploratory-type functions/tools,http://blog.leahhanson.us/julia-helps.html,
+Resources,Blogs,nother opinion on [Julia first impressions,http://eyeballtrees.com/posts/julia-impressions.html,
+Resources,Blogs,Fun With Just-In-Time Compiling: Julia, Python, R and pqR,http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch,
+Resources,Blogs,Tabular Data I/O in Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch,
+Resources,Blogs,John Myles White recounts his JuliaCon experience,http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/,
+Resources,Blogs,Julia at EuroSciPy 2014,https://github.com/stevengj/Julia-EuroSciPy14),
+Resources,Blogs,Julia Vs. R,https://github.com/johnmyleswhite/JuliaVsR,
+Resources,Blogs,Importing tabular data into Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC,
 Resources,CHEATSHEETS,Julia-cheatsheet.pdf,http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf,StevenJ's Julia cheatsheet.
 Resources,CHEATSHEETS, [Julia Types,https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay,
 Resources,CHEATSHEETS,Julia cheatsheet,http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski,
@@ -1830,10 +1833,12 @@ Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,Tempo
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeModels.jl,https://github.com/JuliaStats/TimeModels.jl,Modeling time series in Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeriesRegressions.jl,https://github.com/andreasnoack/TimeSeriesRegressions.jl,Tools for working with regression based time series modelling.
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DESPOT.jl,https://github.com/JuliaPOMDP/DESPOT.jl,Package implementing DESPOT POMDP solver for [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl).
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSGE.jl,https://github.com/FRBNY-DSGE/DSGE.jl,The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSPsolver.jl,https://github.com/Argonne-National-Laboratory/DSPsolver.jl,This package provides an interface for using an open-source software package DSP for solving stochastic mixed-integer programming problems from the Julia language.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),HJBFiniteDifference.jl,https://github.com/matthieugomez/HJBFiniteDifference.jl,Solve HJB equations through finite difference schemes.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),JuMPStoch.jl,https://github.com/joehuchette/JuMPStoch.jl,A stochastic optimization framework for JuMP.
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,API for solving POMDPs in Julia).
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDOptim.jl,https://github.com/lindahua/SGDOptim.jl,A julia package for Stochastic Gradient Descent.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD.jl,https://github.com/johnmyleswhite/SGD.jl,Fit models using SGD in Julia.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDDemo.jl,https://github.com/johnmyleswhite/SGDDemo.jl,Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.

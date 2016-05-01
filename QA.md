@@ -17,6 +17,7 @@
 
 # Debugging
 + [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) :: Simple utilities for debugging julia code.
++ [RR.jl](https://github.com/Keno/RR.jl) :: Julia interface to mozilla's `rr`.
 
 ## Timers
 + [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
