@@ -1,4 +1,4 @@
-__HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels, Compilers (source-to-source compiler, transcompiler/ transpilers)__
+__Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels, Compilers (source-to-source compiler, transcompiler/ transpilers)__
 
 + [ARM-CUDA](#arm-cuda)
    + [GPU](#gpu)
@@ -143,7 +143,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 
 ### [SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing) 
 + [SIMD.jl](https://github.com/eschnett/SIMD.jl) :: Explicit SIMD vector operations for Julia.
-
++ [SIMDVectors.jl](https://github.com/KristofferC/SIMDVectors.jl) :: An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 
 ### Org-[JuliaParallel](https://JuliaParallel.github.io)
 + [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) :: A framework to represent chunks of entities and parallel methods on them.

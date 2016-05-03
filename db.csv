@@ -495,6 +495,7 @@ Computer-Graphics,GRAPHICS,GreinerHormann.jl,https://github.com/sjkelly/GreinerH
 Computer-Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 Computer-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
 Computer-Graphics,GRAPHICS,ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
+Computer-Graphics,GRAPHICS,ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl),
 Computer-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
 Computer-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
 Computer-Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
@@ -713,6 +714,7 @@ Hardware,AUDIO-VIDEO,Chango,https://bitbucket.org/mbaz/chango,A simulator writte
 Hardware,AUDIO-VIDEO,FLAC.jl,https://github.com/dmbates/FLAC.jl,Julia bindings for libFLAC.
 Hardware,AUDIO-VIDEO,gr-juliaffi,https://github.com/JayKickliter/gr-juliaffi,A GNU Radio package that lets you write custom signal processing blocks in Julia.
 Hardware,AUDIO-VIDEO,Midi.jl,https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files,
+Hardware,AUDIO-VIDEO,Opus.jl,https://github.com/staticfloat/Opus.jl,Julia library to interface with Opus audio files.
 Hardware,AUDIO-VIDEO,OSC.jl,https://github.com/fundamental/OSC.jl,Open Sound Control serialization library, a port of RTOSC for Julia.
 Hardware,AUDIO-VIDEO,PortAudio.jl,https://github.com/ssfrr/PortAudio.jl,Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
 Hardware,AUDIO-VIDEO,Radio.jl,https://github.com/JayKickliter/Radio.jl,A digital communications package for the Julia language.
@@ -744,98 +746,6 @@ Hardware,Robots,RigidBodyDynamics.jl,https://github.com/tkoolen/RigidBodyDynamic
 Hardware,Robots,Robotics.jl,https://github.com/cdsousa/Robotics.jl,Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 Hardware,Robots,RobotOS.jl,https://github.com/phobon/RobotOS.jl,Julia interface to ROS (Robot Operating System).
 Hardware,TouchScreen,Taste.jl,https://github.com/jiahao/Taste.jl,A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
-HPC,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton,https://github.com/JuliaLang/julia/blob/master/README.arm.md),
-HPC,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
-HPC,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
-HPC,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
-HPC,GPU,OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
-HPC,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),AbstractGPUArray.jl,https://github.com/JuliaGPU/AbstractGPUArray.jl,An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-kernels,https://github.com/toivoh/julia-kernels,A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL.
-HPC,Org-[JuliaGPU](https://github.com/JuliaGPU),UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-HPC,Resources,log post on [Compiling Julia for NVIDIA GPUs,http://blog.maleadt.net/2015/01/15/julia-cuda/,
-HPC,BENCHMARKS,Benchmark.jl,https://github.com/johnmyleswhite/Benchmark.jl,A package for computing simple benchmarks, comparing functions and packages.
-HPC,BENCHMARKS,Benchmarks.jl,https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia,
-HPC,BENCHMARKS,BenchmarkLite.jl,https://github.com/lindahua/BenchmarkLite.jl,A lightweight Julia package for simple performance benchmark.
-HPC,BENCHMARKS,Notebook showing the usage of BenchmarkLite.jl,http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb,
-HPC,BENCHMARKS,Criterion.jl,https://github.com/jakebolewski/Criterion.jl,A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
-HPC,BENCHMARKS,IProfile,https://github.com/timholy/IProfile.jl,Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an __instrumenting profiler__ for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)
-HPC,BENCHMARKS,julia_qsortbenchmarks,https://github.com/illerucis/julia_qsortbenchmarks, Suggested improvements to Julia's Quicksort implementation.
-HPC,BENCHMARKS,JuliaBenchmarks,https://github.com/kapiliitr/JuliaBenchmarks,Porting HPC Challenge benchmarks to Julia.
-HPC,BENCHMARKS,PerfPlot.jl,https://github.com/weijianzhang/PerfPlot.jl,Performance Profile Plot.
-HPC,BENCHMARKS,Perftests.jl,https://github.com/staticfloat/Perftests.jl,Base perftests for Julia.
-HPC,BENCHMARKS,raytracer.jl,https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl,Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
-HPC,BENCHMARKS,SimplexBenchmarks,https://github.com/mlubin/SimplexBenchmarks,Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
-HPC,BENCHMARKS,SortPerf.jl,https://github.com/kmsquire/SortPerf.jl,Julia module to test the performance of sorting algorithms.
-HPC,COMPILERS,Clang.jl,https://github.com/ihnorton/Clang.jl,Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
-HPC,COMPILERS,CompilerTools.jl,https://github.com/IntelLabs/CompilerTools.jl,The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
-HPC,COMPILERS,CompilerOptions.jl,https://github.com/sjkelly/CompilerOptions.jl,A Julia package for reading compiler options.
-HPC,COMPILERS,Eglib.jl,https://github.com/ihnorton/Eglib.jl,Clang.jl wrapping example, C code from @kindlmann.
-HPC,COMPILERS,JITTools.jl,https://github.com/Keno/JITTools.jl,Tools for working with in-memory object.
-HPC,COMPILERS,julia-icc-travis,https://github.com/sunoru/julia-icc-travis,Build Julia using icc on the Travis CI.
-HPC,COMPILERS,LLVM.jl,https://github.com/jakebolewski/LLVM.jl,A Julia package for LLVM.
-HPC,COMPILERS,llvm-cbe,https://github.com/JuliaComputing/llvm-cbe,A resurrected LLVM C Backend, with improvements for Julia.
-HPC,Preprocessor,Precompile.jl,https://github.com/JuliaLang/julia/blob/master/base/precompile.jl,Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
-HPC,Preprocessor,SnoopCompile.jl,https://github.com/timholy/SnoopCompile.jl,Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
-HPC,Transpiler,Julia2C,https://github.com/IntelLabs/julia/tree/j2c,A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
-HPC,ComputerPerformance,ISPC.jl,https://github.com/damiendr/ISPC.jl,Tools to work with [ISPC](https://ispc.github.io/) in Julia.
-HPC,CodeAnalyzer,IACA.jl,https://github.com/carnaval/IACA.jl,A wrapper around intel's arch code analyzer for Julia.
-HPC,Time,CPUTime.jl,https://github.com/schmrlng/CPUTime.jl,Amodule for CPU timing.
-HPC,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A Julia package for measuring elapsed user time.
-HPC,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),FunHPC.jl,https://github.com/eschnett/FunHPC.jl,Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),GCloud.jl,https://github.com/spencerlyon2/GCloud.jl,Tools for working with Google Compute engine via the cloud CLI.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HavenOnDemand.jl,https://github.com/richitmx/HavenOnDemand.jl,Julia package to access HPE Haven OnDemand API.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelGLM.jl,https://github.com/dmbates/ParallelGLM.jl,Parallel fitting of GLMs using SharedArrays.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),PTools.jl,https://github.com/amitmurthy/PTools.jl,A collection of utilities for parallel computing in Julia.
-HPC,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),SGEArrays.jl,https://github.com/davidavdav/SGEArrays.jl,SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
-HPC,GridComputing,IBFS.jl,https://github.com/eurika-kaiser/IBFS.jl,Grid simulation solver.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),ClusterManagers.jl,https://github.com/JuliaLang/ClusterManagers.jl,Support for different clustering technologies.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Collectl.jl,https://github.com/ranjanan/Collectl.jl,Plotting information from Collectl in julia.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LCJC.jl,https://github.com/amitmurthy/LCJC.jl,Loosely Coupled Julia Clusters.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LoraMPI.jl,https://github.com/scidom/LoraMPI.jl,MPI Job Manager for Lora Parralel-Centric Runners.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Persist.jl,https://github.com/eschnett/Persist.jl,The package Persist allows running jobs independent of the Julia shell.
-HPC,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
-HPC,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
-HPC,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
-HPC,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MT-Workloads,https://github.com/ranjanan/MT-Workloads,Multi-threaded workloads in Julia.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),hwloc.jl,https://github.com/JuliaParallel/hwloc.jl,The Portable Hardware Locality (hwloc) package wraps the hwloc library to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),MessageUtils.jl,https://github.com/JuliaParallel/MessageUtils.jl,A collection of utilities for messaging.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),MPI.jl,https://github.com/JuliaParallel/MPI.jl,A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),JuliaMPIMonteCarlo,https://github.com/mcreel/JuliaMPIMonteCarlo,Illustrative examples using Julia and MPI to do Markov Chain Monte Carlo (MCMC) methods.
-HPC,Org-[JuliaParallel](https://JuliaParallel.github.io),ScaLAPACK.jl,https://github.com/JuliaParallel/ScaLAPACK.jl,Scalable Linear Algebra PACKage.
-HPC,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel/JuliaCon2015_Workshop,Notebooks from the JuliaCon2015 Workshop.
-HPC,Resources,Parallel Computing,http://docs.julialang.org/en/latest/manual/parallel-computing/,
-HPC,Resources,How to use AWS EC2 machines via addprocs for parallel computing,http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing),
-HPC,Resources,Parallel and Distributed Computing with Julia,http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014,
-HPC,Resources,ulia [installation and first steps,http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html),
-HPC,Resources,n example of [interfacing with the Cloud Datastore via JSON,http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html,
-HPC,Org-[JuliaLang](https://github.com/JuliaLang),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
-HPC,Publications,Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof,http://jiahao.github.io/parallel-prefix/,A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 i18n-L10n,Community,he [julia-i18n,https://gitter.im/JuliaLangEs/julia-i18n) IRC Gitter channel for discussions regarding the internationalization of Julia,
 i18n-L10n,Unicode,ICU.jl,https://github.com/nolta/ICU.jl,Julia wrapper for the International Components for Unicode (ICU) library.
 i18n-L10n,Unicode,UnicodeExtras.jl,https://github.com/nolta/UnicodeExtras.jl,Another Unicode package.
@@ -1839,6 +1749,7 @@ Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSPso
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),HJBFiniteDifference.jl,https://github.com/matthieugomez/HJBFiniteDifference.jl,Solve HJB equations through finite difference schemes.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),JuMPStoch.jl,https://github.com/joehuchette/JuMPStoch.jl,A stochastic optimization framework for JuMP.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,API for solving POMDPs in Julia).
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDOptim.jl,https://github.com/lindahua/SGDOptim.jl,A julia package for Stochastic Gradient Descent.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD.jl,https://github.com/johnmyleswhite/SGD.jl,Fit models using SGD in Julia.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDDemo.jl,https://github.com/johnmyleswhite/SGDDemo.jl,Stochastic Gradient Descent (SGD) predictive models for large data sets in Julia.
@@ -1849,6 +1760,100 @@ Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInfer
 Statistics,Cookbooks,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
 Statistics,Slides,Julia For R Programmers,http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates,
 Statistics,Videos,Statistical Models in Julia,https://www.youtube.com/watch?v=v9Io-p_iymI) video by Douglas Bates (@dmbates),
+Super-Computing,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton,https://github.com/JuliaLang/julia/blob/master/README.arm.md),
+Super-Computing,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
+Super-Computing,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
+Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
+Super-Computing,GPU,OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
+Super-Computing,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),AbstractGPUArray.jl,https://github.com/JuliaGPU/AbstractGPUArray.jl,An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-kernels,https://github.com/toivoh/julia-kernels,A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL.
+Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
+Super-Computing,Resources,log post on [Compiling Julia for NVIDIA GPUs,http://blog.maleadt.net/2015/01/15/julia-cuda/,
+Super-Computing,BENCHMARKS,Benchmark.jl,https://github.com/johnmyleswhite/Benchmark.jl,A package for computing simple benchmarks, comparing functions and packages.
+Super-Computing,BENCHMARKS,Benchmarks.jl,https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia,
+Super-Computing,BENCHMARKS,BenchmarkLite.jl,https://github.com/lindahua/BenchmarkLite.jl,A lightweight Julia package for simple performance benchmark.
+Super-Computing,BENCHMARKS,Notebook showing the usage of BenchmarkLite.jl,http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb,
+Super-Computing,BENCHMARKS,Criterion.jl,https://github.com/jakebolewski/Criterion.jl,A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques.
+Super-Computing,BENCHMARKS,IProfile,https://github.com/timholy/IProfile.jl,Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an __instrumenting profiler__ for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)
+Super-Computing,BENCHMARKS,julia_qsortbenchmarks,https://github.com/illerucis/julia_qsortbenchmarks, Suggested improvements to Julia's Quicksort implementation.
+Super-Computing,BENCHMARKS,JuliaBenchmarks,https://github.com/kapiliitr/JuliaBenchmarks,Porting HPC Challenge benchmarks to Julia.
+Super-Computing,BENCHMARKS,PerfPlot.jl,https://github.com/weijianzhang/PerfPlot.jl,Performance Profile Plot.
+Super-Computing,BENCHMARKS,Perftests.jl,https://github.com/staticfloat/Perftests.jl,Base perftests for Julia.
+Super-Computing,BENCHMARKS,raytracer.jl,https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl,Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
+Super-Computing,BENCHMARKS,SimplexBenchmarks,https://github.com/mlubin/SimplexBenchmarks,Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
+Super-Computing,BENCHMARKS,SortPerf.jl,https://github.com/kmsquire/SortPerf.jl,Julia module to test the performance of sorting algorithms.
+Super-Computing,COMPILERS,Clang.jl,https://github.com/ihnorton/Clang.jl,Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
+Super-Computing,COMPILERS,CompilerTools.jl,https://github.com/IntelLabs/CompilerTools.jl,The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
+Super-Computing,COMPILERS,CompilerOptions.jl,https://github.com/sjkelly/CompilerOptions.jl,A Julia package for reading compiler options.
+Super-Computing,COMPILERS,Eglib.jl,https://github.com/ihnorton/Eglib.jl,Clang.jl wrapping example, C code from @kindlmann.
+Super-Computing,COMPILERS,JITTools.jl,https://github.com/Keno/JITTools.jl,Tools for working with in-memory object.
+Super-Computing,COMPILERS,julia-icc-travis,https://github.com/sunoru/julia-icc-travis,Build Julia using icc on the Travis CI.
+Super-Computing,COMPILERS,LLVM.jl,https://github.com/jakebolewski/LLVM.jl,A Julia package for LLVM.
+Super-Computing,COMPILERS,llvm-cbe,https://github.com/JuliaComputing/llvm-cbe,A resurrected LLVM C Backend, with improvements for Julia.
+Super-Computing,Preprocessor,Precompile.jl,https://github.com/JuliaLang/julia/blob/master/base/precompile.jl,Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
+Super-Computing,Preprocessor,SnoopCompile.jl,https://github.com/timholy/SnoopCompile.jl,Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
+Super-Computing,Transpiler,Julia2C,https://github.com/IntelLabs/julia/tree/j2c,A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
+Super-Computing,ComputerPerformance,ISPC.jl,https://github.com/damiendr/ISPC.jl,Tools to work with [ISPC](https://ispc.github.io/) in Julia.
+Super-Computing,CodeAnalyzer,IACA.jl,https://github.com/carnaval/IACA.jl,A wrapper around intel's arch code analyzer for Julia.
+Super-Computing,Time,CPUTime.jl,https://github.com/schmrlng/CPUTime.jl,Amodule for CPU timing.
+Super-Computing,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A Julia package for measuring elapsed user time.
+Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),FunHPC.jl,https://github.com/eschnett/FunHPC.jl,Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),GCloud.jl,https://github.com/spencerlyon2/GCloud.jl,Tools for working with Google Compute engine via the cloud CLI.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HavenOnDemand.jl,https://github.com/richitmx/HavenOnDemand.jl,Julia package to access HPE Haven OnDemand API.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelGLM.jl,https://github.com/dmbates/ParallelGLM.jl,Parallel fitting of GLMs using SharedArrays.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),PTools.jl,https://github.com/amitmurthy/PTools.jl,A collection of utilities for parallel computing in Julia.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),SGEArrays.jl,https://github.com/davidavdav/SGEArrays.jl,SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
+Super-Computing,GridComputing,IBFS.jl,https://github.com/eurika-kaiser/IBFS.jl,Grid simulation solver.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),ClusterManagers.jl,https://github.com/JuliaLang/ClusterManagers.jl,Support for different clustering technologies.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Collectl.jl,https://github.com/ranjanan/Collectl.jl,Plotting information from Collectl in julia.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LCJC.jl,https://github.com/amitmurthy/LCJC.jl,Loosely Coupled Julia Clusters.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LoraMPI.jl,https://github.com/scidom/LoraMPI.jl,MPI Job Manager for Lora Parralel-Centric Runners.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Persist.jl,https://github.com/eschnett/Persist.jl,The package Persist allows running jobs independent of the Julia shell.
+Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MT-Workloads,https://github.com/ranjanan/MT-Workloads,Multi-threaded workloads in Julia.
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),hwloc.jl,https://github.com/JuliaParallel/hwloc.jl,The Portable Hardware Locality (hwloc) package wraps the hwloc library to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),MessageUtils.jl,https://github.com/JuliaParallel/MessageUtils.jl,A collection of utilities for messaging.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),MPI.jl,https://github.com/JuliaParallel/MPI.jl,A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),JuliaMPIMonteCarlo,https://github.com/mcreel/JuliaMPIMonteCarlo,Illustrative examples using Julia and MPI to do Markov Chain Monte Carlo (MCMC) methods.
+Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),ScaLAPACK.jl,https://github.com/JuliaParallel/ScaLAPACK.jl,Scalable Linear Algebra PACKage.
+Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel/JuliaCon2015_Workshop,Notebooks from the JuliaCon2015 Workshop.
+Super-Computing,Resources,Parallel Computing,http://docs.julialang.org/en/latest/manual/parallel-computing/,
+Super-Computing,Resources,How to use AWS EC2 machines via addprocs for parallel computing,http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing),
+Super-Computing,Resources,Parallel and Distributed Computing with Julia,http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014,
+Super-Computing,Resources,ulia [installation and first steps,http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html),
+Super-Computing,Resources,n example of [interfacing with the Cloud Datastore via JSON,http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html,
+Super-Computing,Org-[JuliaLang](https://github.com/JuliaLang),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
+Super-Computing,Publications,Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof,http://jiahao.github.io/parallel-prefix/,A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 Utilities,DOCUMENTATION,Doc.jl,https://github.com/dcarrera/Doc.jl,Daniel Carrera's modern documentation system for Julia.
 Utilities,DOCUMENTATION,Docile.jl,https://github.com/MichaelHatherly/Docile.jl,Experimental Julia package documentation system.
 Utilities,DOCUMENTATION,Doxygen,https://github.com/jiahao/julia/tree/cjh/doxygen,A branch providing support for documenting in Julia using Doxygen and doxyfilter.jl tools. Currently supports (incomplete) function signatures and caller/callee graphs but types and modules are not parsed. Link to Jihao's [Dropbox output of doxygen](https://www.dropbox.com/sh/u4ueu6t8keabftl/AAA4spkqRLpy-FxLS_f-FXlqa?dl=0).
