@@ -385,6 +385,7 @@ algebra library in Julia.
 + [MUMPS.jl](https://github.com/JuliaSparse/MUMPS.jl) :: An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
 + [MUMPSseq.jl](https://github.com/JuliaSparse/MUMPSseq.jl) :: Alternative Julia interface to MUMPS sparse system solver. 
 + [ParallelSparseMatMul.jl](https://github.com/madeleineudell/ParallelSparseMatMul.jl) :: A Julia library for parallel sparse matrix multiplication using shared memory.
++ [Pardiso.jl](https://github.com/JuliaSparse/Pardiso.jl) :: Calling the PARDISO library from Julia.
 + [PETSc.jl](https://github.com/stevengj/PETSc.jl) :: sparse-matrix interface for the Julia language.
 + [SparseData.jl](https://github.com/lindahua/SparseData.jl) :: A Julia package to support working with sparse data sets (e.g. text corpus).
 + [SparseFactorModels.jl](https://github.com/matthieugomez/SparseFactorModels.jl) :: Estimate factor models on sparse datasets.
