@@ -13,7 +13,8 @@ __HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing
    + [Grid Computing](#grid-computing)
    + [Job Scheduler](#job-scheduler)
    + [Parallel Computing](#parallel-computing)
-        + [Org-JuliaParallel](#org-juliaparallel)
+       + [SIMD Computing](#simd-computing)
+       + [Org-JuliaParallel](#org-juliaparallel)
 + [Org-JuliaLang](#org-julialang)
 + [Publications](#publications)
 
@@ -139,6 +140,9 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [ArrayFire.jl](https://github.com/hshindo/ArrayFire.jl) by @hshindo :: Julia bindings for ArrayFire.
 + [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputing :: Julia Wrapper for the ArrayFire library.
 + [MT-Workloads](https://github.com/ranjanan/MT-Workloads) :: Multi-threaded workloads in Julia.
+
+### [SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing) 
++ [SIMD.jl](https://github.com/eschnett/SIMD.jl) :: Explicit SIMD vector operations for Julia.
 
 
 ### Org-[JuliaParallel](https://JuliaParallel.github.io)
