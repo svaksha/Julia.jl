@@ -201,6 +201,7 @@
 + [Win32GUIDemo.jl](https://github.com/ihnorton/Win32GUIDemo.jl) :: Call the Windows API with these Win32 GUI examples.
 + [WinReg.jl](https://github.com/simonbyrne/WinReg.jl) ::  Windows Registry interface for Julia.
 + [WinUser.jl](https://github.com/JuliaGL/WinUser.jl) :: wrapper for windows native windowing functions.
++ [XCB.jl](https://github.com/JuliaGL/XCB.jl) :: XCB windowing library wrapper.
 
 ----
 
