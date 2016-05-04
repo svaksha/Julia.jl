@@ -63,6 +63,7 @@
 + [SpatialStats.jl](https://github.com/dchudz/SpatialStats.jl) :: Spatial Statistics.
 + [Turf.jl](https://github.com/yeesian/Turf.jl) :: A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 + [Tyndall.jl](https://github.com/jsbj/Tyndall.jl) :: Radiative transfer in Julia.
++ [Watershed.jl](https://github.com/seung-lab/Watershed.jl) :: Julia version of watershed.
 
 ## GPS
 + [NMEA.jl](https://github.com/templarlabs/NMEA.jl) :: Julia package for parsing GPS NMEA messages.
