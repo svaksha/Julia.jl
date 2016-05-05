@@ -15,6 +15,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 # BIOINFORMATICS
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 + [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
++ [EMIRT.jl](https://github.com/seung-lab/EMIRT.jl) :: Electron Microscopy Image Reconstruction Toolbox using julia language.
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
 + [Rosalind.jl](https://github.com/PilgrimShadow/Rosalind.jl) :: A bioinformatics library for solving problems from rosalind.info.
 + [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
