@@ -15,6 +15,7 @@
    + [Terminal](#terminal)
    + [File Compression](#file-compression)
    + [Document Processors](#document-processors)
+       + [LaTeX](#latex)
    + [Document Generator](#document-generator) 
    + [Microsoft Windows](#microsoft-windows)
 + [Communication](#communication)
@@ -181,17 +182,21 @@
 ## Document Processors 
 + [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 + [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) :: A package that provides functionality to read Excel files.
-+ [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
 + [JuliaReport.jl](https://github.com/mpastell/JuliaReport.jl) :: A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 + [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
+
+### LaTeX
++ [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
++ [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
++ [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
 
 ## Document Generator 
 + [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
 + [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
-+ [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
 + [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
 + [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
- 
+
+
 ## Microsoft Windows
 + [COMCall.jl](https://github.com/ihnorton/COMCall.jl) :: COM Interface for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
