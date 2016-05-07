@@ -189,6 +189,7 @@
 + [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
 + [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
 + [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
++ [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) :: Tools for automatic manipulation and management of LaTeX Documents.
 
 ## Document Generator 
 + [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
