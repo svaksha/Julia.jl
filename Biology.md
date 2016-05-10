@@ -31,6 +31,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 
 # ECOLOGY
 + [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
++ [FishABM.jl](https://github.com/jangevaare/FishABM.jl) :: An agent based life cycle model for managed fisheries.
 
 ----
 
