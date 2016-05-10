@@ -53,6 +53,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) :: Utilities to simulate and perform inference of disease dynamics.
 + [PedModule.jl](https://github.com/QTL-rocks/PedModule.jl) :: Geno-type pedigree module.
 + [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) :: A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
++ [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) :: Phylogenetic tree simulation.
 + [ProgressiveAligner.jl](https://github.com/latticetower/ProgressiveAligner.jl) :: Progressive alignment scripts for protein sequences.
 + [PseudoGenomes.jl](https://github.com/nw11/PseudoGenomes.jl) :: Read alleles without a VCF parser.
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
