@@ -180,6 +180,7 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Affine
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Arrowhead.jl,https://github.com/ivanslapnicar/Arrowhead.jl,Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ASTInterpreter.jl,https://github.com/Keno/ASTInterpreter.jl,Gallium's AST interpreter as a separate package to simplify development.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BGraph.jl,https://github.com/adolgert/BGraph.jl,An adjacency list that uses typed properties for vertices, edges, and graphs.
+Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BlockArrays.jl,https://github.com/KristofferC/BlockArrays.jl,BlockArrays for Julia.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),bloom.jl,https://github.com/boydgreenfield/bloom.jl,Bloom filter implementation in Julia.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Blox.jl,https://github.com/tbreloff/Blox.jl,Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
@@ -302,6 +303,7 @@ API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,Julia for Ruby embeds the julia la
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 Biology,BIOINFORMATICS,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
+Biology,BIOINFORMATICS,EMIRT.jl,https://github.com/seung-lab/EMIRT.jl,Electron Microscopy Image Reconstruction Toolbox using julia language.
 Biology,BIOINFORMATICS,MIToS.jl,https://github.com/diegozea/MIToS.jl),
 Biology,BIOINFORMATICS,Rosalind.jl,https://github.com/PilgrimShadow/Rosalind.jl,A bioinformatics library for solving problems from rosalind.info.
 Biology,BIOINFORMATICS,smoothlife-jl,https://github.com/jamak/smoothlife-jl,an implementation of the SmoothLife algorithm in Julia.
@@ -309,6 +311,7 @@ Biology,BIOINFORMATICS,taxize.jl,https://github.com/sckott/taxize.jl,A taxonomic
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0.
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
+Biology,ECOLOGY,FishABM.jl,https://github.com/jangevaare/FishABM.jl,An agent based life cycle model for managed fisheries.
 Biology,GENOMICS,BioFeatures.jl,https://github.com/nw11/BioFeatures.jl),
 Biology,GENOMICS,BismarkSummary.jl,https://github.com/nw11/BismarkSummary.jl,Basic summary of multiple Bismark runs.
 Biology,GENOMICS,COSMIC.jl,https://github.com/haploxer/COSMIC.jl,Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
@@ -327,6 +330,7 @@ Biology,GENOMICS,Pagel.jl,https://github.com/porterjamesj/Pagel.jl,Detect correl
 Biology,GENOMICS,Pathogen.jl,https://github.com/jangevaa/Pathogen.jl,Utilities to simulate and perform inference of disease dynamics.
 Biology,GENOMICS,PedModule.jl,https://github.com/QTL-rocks/PedModule.jl,Geno-type pedigree module.
 Biology,GENOMICS,PhyloNetworks.jl,https://github.com/crsl4/PhyloNetworks.jl,A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
+Biology,GENOMICS,PhyloTrees.jl,https://github.com/jangevaare/PhyloTrees.jl,Phylogenetic tree simulation.
 Biology,GENOMICS,ProgressiveAligner.jl,https://github.com/latticetower/ProgressiveAligner.jl,Progressive alignment scripts for protein sequences.
 Biology,GENOMICS,PseudoGenomes.jl,https://github.com/nw11/PseudoGenomes.jl,Read alleles without a VCF parser.
 Biology,GENOMICS,PureSeq.jl,https://github.com/slundberg/PureSeq.jl,Code for the Pure-seq project.
@@ -564,7 +568,9 @@ Computer-Graphics,INFOGRAPHICS,julia-glplot,https://github.com/o-jasper/julia-gl
 Computer-Graphics,INFOGRAPHICS,Lumira.jl,https://github.com/sbcd90/Lumira.jl,A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
 Computer-Graphics,INFOGRAPHICS,MinMaxFilter.jl,https://github.com/codles/MinMaxFilter.jl,Lemire min max filter.
 Computer-Graphics,INFOGRAPHICS,Plots.jl,https://github.com/tbreloff/Plots.jl,An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands. {Usable: 5, Robust: 4, Active: 5}
+Computer-Graphics,INFOGRAPHICS,PlotThemes.jl,https://github.com/pkofod/PlotThemes.jl),
 Computer-Graphics,INFOGRAPHICS,RasterIO.jl,https://github.com/wkearn/RasterIO.jl,Simple Raster Formats for Julia.
+Computer-Graphics,INFOGRAPHICS,RecipesBase.jl,https://github.com/JuliaPlots/RecipesBase.jl,Base package for defining transformation recipes on user types for Plots.jl
 Computer-Graphics,INFOGRAPHICS,VennDiagrams.jl,https://github.com/binarybana/VennDiagrams.jl,Generate Venn diagrams in Julia using Compose.jl.
 Computer-Graphics,INFOGRAPHICS,VennEuler.jl,https://github.com/HarlanH/VennEuler.jl,Generate area-proportional Venn/Euler diagrams in Julia.
 Computer-Graphics,INFOGRAPHICS,VGPlot.jl,https://github.com/johnmyleswhite/VGPlot.jl,A knock-off of ggplot2 in Julia using Vega.
@@ -597,7 +603,7 @@ Computer-Graphics,Non-GraphicalPlotting,UnicodePlots.jl,https://github.com/Evize
 Computer-Graphics,Resources,eff Bezanson's [Colorimetry in an iJulia notebook,http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb,
 Computer-Graphics,Org-[JuliaGL](https://github.com/JuliaGL),GLFW.jl,https://github.com/JuliaGL/GLFW.jl,Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
 Computer-Graphics,Org-[JuliaGL](https://github.com/JuliaGL),GLVisualize.jl,https://github.com/JuliaGL/GLVisualize.jl,Visualization library written in Julia and OpenGL.
-Computer-Graphics,Org-[JuliaGL](https://github.com/JuliaGL),Vulkan.jl,https://github.com/JuliaGL/Vulkan.jl,Wrapper of Vulkan, Khronos next generation OpenGL API.
+Computer-Graphics,Org-[JuliaGL](https://github.com/JuliaGL),Vulkan.jl,https://github.com/JuliaGPU/Vulkan.jl,Wrapper of Vulkan, Khronos next generation OpenGL API.
 Computer-Graphics,Org-[JuliaGraphics](https://www.github.com/JuliaGraphics),ColorTypes.jl,https://github.com/JuliaGraphics/ColorTypes.jl,Color primitives for Julia, based on FixedSizeArrays.
 Computer-Graphics,Org-[JuliaGraphics](https://www.github.com/JuliaGraphics),ColorVectorSpace.jl,https://github.com/JuliaGraphics/ColorVectorSpace.jl,This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
 Computer-Graphics,Org-[JuliaGraphics](https://www.github.com/JuliaGraphics),Immerse.jl,https://github.com/JuliaGraphics/Immerse.jl,Dive deeper into your data with interactive graphics.
@@ -689,6 +695,7 @@ Earth-Science,GIS,OpenStreetMap.jl,https://github.com/tedsteiner/OpenStreetMap.j
 Earth-Science,GIS,SpatialStats.jl,https://github.com/dchudz/SpatialStats.jl,Spatial Statistics.
 Earth-Science,GIS,Turf.jl,https://github.com/yeesian/Turf.jl,A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 Earth-Science,GIS,Tyndall.jl,https://github.com/jsbj/Tyndall.jl,Radiative transfer in Julia.
+Earth-Science,GIS,Watershed.jl,https://github.com/seung-lab/Watershed.jl,Julia version of watershed.
 Earth-Science,GPS,NMEA.jl,https://github.com/templarlabs/NMEA.jl,Julia package for parsing GPS NMEA messages.
 Earth-Science,Org-[JuliaGeo](https://github.com/JuliaGeo),Geodesy.jl,https://github.com/JuliaGeo/Geodesy.jl,Work with points defined in various coordinate systems.
 Earth-Science,Org-[JuliaGeo](https://github.com/JuliaGeo),GeoJSON.jl,https://github.com/JuliaGeo/GeoJSON.jl,Utilities for working with GeoJSON data in Julia.
@@ -1127,6 +1134,7 @@ Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matri
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPS.jl,https://github.com/JuliaSparse/MUMPS.jl,An interface to MUMPS (a MUltifrontal Massively Parallel sparse direct Solver) to efficiently solve large and sparse linear systems in scientific computing.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MUMPSseq.jl,https://github.com/JuliaSparse/MUMPSseq.jl,Alternative Julia interface to MUMPS sparse system solver.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),ParallelSparseMatMul.jl,https://github.com/madeleineudell/ParallelSparseMatMul.jl,A Julia library for parallel sparse matrix multiplication using shared memory.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Pardiso.jl,https://github.com/JuliaSparse/Pardiso.jl,Calling the PARDISO library from Julia.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),PETSc.jl,https://github.com/stevengj/PETSc.jl,sparse-matrix interface for the Julia language.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseData.jl,https://github.com/lindahua/SparseData.jl,A Julia package to support working with sparse data sets (e.g. text corpus).
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseFactorModels.jl,https://github.com/matthieugomez/SparseFactorModels.jl,Estimate factor models on sparse datasets.
@@ -1574,6 +1582,7 @@ Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programmin
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),ParallelGenocop.jl,https://github.com/display-none/ParallelGenocop.jl,Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
 Statistics,[GeometricProgramming](https://en.wikipedia.org/wiki/Geometric_programming),JuGP.jl,https://github.com/mlubin/JuGP.jl,A prototype JuMP extension for geometric programming.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),Cbc.jl,https://github.com/JuliaOpt/Cbc.jl,Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library.
+Statistics,Org-[JuliaOpt](http://juliaopt.org/),CoinOptServices.jl,https://github.com/JuliaOpt/CoinOptServices.jl, Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),Convex.jl,https://github.com/JuliaOpt/Convex.jl,a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),GLPKMathProgInterface.jl,https://github.com/JuliaOpt/GLPKMathProgInterface.jl,Interface between the GLPK.jl wrapper and MathProgBase.jl.
 Statistics,Org-[JuliaOpt](http://juliaopt.org/),Gurobi.jl,https://github.com/JuliaOpt/Gurobi.jl,is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP).
@@ -1962,12 +1971,14 @@ Utilities,FileCompression,ZipFile.jl,https://github.com/fhs/ZipFile.jl,Read/Writ
 Utilities,FileCompression,Zlib.jl,https://github.com/dcjones/Zlib.jl,Zlib bindings for Julia.
 Utilities,DocumentProcessors,ConfParser.jl,https://github.com/templarlabs/ConfParser.jl,Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 Utilities,DocumentProcessors,ExcelReaders.jl,https://github.com/davidanthoff/ExcelReaders.jl,A package that provides functionality to read Excel files.
-Utilities,DocumentProcessors,LaTeX.jl,https://github.com/rened/LaTeX.jl,Create LaTeX documents from within Julia, including image handling.
 Utilities,DocumentProcessors,JuliaReport.jl,https://github.com/mpastell/JuliaReport.jl,A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 Utilities,DocumentProcessors,Taro.jl,https://github.com/aviks/Taro.jl,can process office documents in Julia.
+Utilities,LaTeX,LaTeX.jl,https://github.com/rened/LaTeX.jl,Create LaTeX documents from within Julia, including image handling.
+Utilities,LaTeX,LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
+Utilities,LaTeX,LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
+Utilities,LaTeX,LaTeXTools.jl,https://github.com/jgoldfar/LaTeXTools.jl,Tools for automatic manipulation and management of LaTeX Documents.
 Utilities,DocumentGenerator,Judo.jl,https://github.com/dcjones/Judo.jl,is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
 Utilities,DocumentGenerator,HelpTestbed.jl,https://github.com/tshort/HelpTestbed.jl,package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
-Utilities,DocumentGenerator,LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
 Utilities,DocumentGenerator,Publish.jl,https://github.com/dressel/Publish.jl,A package for publishing code - uses Latex to create a pdf with your code and output.
 Utilities,DocumentGenerator,Report.jl,https://github.com/sveme/Report.jl,A Markdown report writer for Julia.
 Utilities,MicrosoftWindows,COMCall.jl,https://github.com/ihnorton/COMCall.jl,C[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)O[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)M[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx) [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)I[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)n[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)t[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)e[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)r[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)f[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)a[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)c[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)e[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx) [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)f[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)o[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)r[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx) [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)J[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)u[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)l[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)i[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)a[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx).[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx) [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)R[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)e[COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)f
@@ -1978,6 +1989,7 @@ Utilities,MicrosoftWindows,WAV.jl,https://github.com/dancasimiro/WAV.jl,Julia pa
 Utilities,MicrosoftWindows,Win32GUIDemo.jl,https://github.com/ihnorton/Win32GUIDemo.jl,Call the Windows API with these Win32 GUI examples.
 Utilities,MicrosoftWindows,WinReg.jl,https://github.com/simonbyrne/WinReg.jl, Windows Registry interface for Julia.
 Utilities,MicrosoftWindows,WinUser.jl,https://github.com/JuliaGL/WinUser.jl,wrapper for windows native windowing functions.
+Utilities,MicrosoftWindows,XCB.jl,https://github.com/JuliaGL/XCB.jl,XCB windowing library wrapper.
 Utilities,IRC,DandelionSlack.jl,https://github.com/dandeliondeathray/DandelionSlack.jl,Slack API in Julia.
 Utilities,IRC,Slackbot.jl,https://github.com/jiahao/Slackbot.jl,A Julia REPL that interacts with Slack.com's webhook integration.
 Utilities,SMS,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert library for Julia.
@@ -2003,7 +2015,7 @@ Web-Server,NETWORKING,Pcap.jl,https://github.com/r2dbg/Pcap.jl) by @r2db,Libpcap
 Web-Server,NETWORKING,StatsdClient.jl,https://github.com/forio/StatsdClient.jl,A simple Julia implementation of a statsd client.
 Web-Server,NETWORKING,TimeZones.jl,https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language,
 Web-Server,NETWORKING,UUID.jl,https://github.com/forio/UUID.jl,A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
-Web-Server,SECURITY,Etcd.jl,https://github.com/rened/Etcd.jl,Julia client for etcd.
+Web-Server,SECURITY,Etcd.jl,https://github.com/forio/Etcd.jl,A Julia Etcd client implementation.
 Web-Server,SECURITY,MbedTLS,https://github.com/JuliaWeb/MbedTLS.jl,Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
 Web-Server,SECURITY,GnuTLS.jl,https://github.com/JuliaWeb/GnuTLS.jl,Transport Level Security for Julia Streams provided by GnuTLS.
 Web-Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,a basic, non-blocking HTTP server in Julia.
@@ -2012,6 +2024,7 @@ Web-Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessio
 Web-Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
 Web-Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
 Web-Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
+Web-Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
 Web-Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 Web-Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
 Web-Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.

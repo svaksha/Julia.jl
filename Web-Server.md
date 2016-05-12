@@ -52,7 +52,7 @@ Networking, web security, frameworks and other Web related things go here!
 ----
 
 # SECURITY
-+ [Etcd.jl](https://github.com/rened/Etcd.jl) :: Julia client for etcd.
++ [Etcd.jl](https://github.com/forio/Etcd.jl) :: A Julia Etcd client implementation.
 + [MbedTLS](https://github.com/JuliaWeb/MbedTLS.jl) :: Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
    + [GnuTLS.jl](https://github.com/JuliaWeb/GnuTLS.jl) :: Transport Level Security for Julia Streams provided by GnuTLS.
 + [HttpServer.jl](https://github.com/JuliaLang/HttpServer.jl) :: a basic, non-blocking HTTP server in Julia.
