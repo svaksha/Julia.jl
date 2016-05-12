@@ -40,6 +40,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
 + [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: Kernel Support Vector Machine (SVM) written in Julia. 
 + [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: Support Vector Machines in pure Julia.
++ [Ladder.jl](https://github.com/mrtzh/Ladder.jl) :: A reliable leaderboard algorithm for machine learning competitions.
 + [Learn.jl](https://github.com/Rory-Finnegan/Learn.jl) :: Base framework library for machine learning packages. 
 + [LearnBase.jl](https://github.com/Evizero/LearnBase.jl) :: Abstractions for Julia Machine Learning Packages.
 + [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
