@@ -26,6 +26,7 @@ AI,MACHINELEARNING,Knet.jl,https://github.com/denizyuret/Knet.jl,A machine learn
 AI,MACHINELEARNING,kNN.jl,https://github.com/johnmyleswhite/kNN.jl,The k-Nearest Neighbors algorithm in Julia.
 AI,MACHINELEARNING,KSVM.jl,https://github.com/remusao/KSVM.jl) by @remusa,Kernel Support Vector Machine (SVM) written in Julia.
 AI,MACHINELEARNING,KSVM.jl,https://github.com/Evizero/KSVM.jl) by @Evizer,Support Vector Machines in pure Julia.
+AI,MACHINELEARNING,Ladder.jl,https://github.com/mrtzh/Ladder.jl,A reliable leaderboard algorithm for machine learning competitions.
 AI,MACHINELEARNING,Learn.jl,https://github.com/Rory-Finnegan/Learn.jl,Base framework library for machine learning packages.
 AI,MACHINELEARNING,LearnBase.jl,https://github.com/Evizero/LearnBase.jl,Abstractions for Julia Machine Learning Packages.
 AI,MACHINELEARNING,liblinear.jl,https://github.com/tuzzeg/liblinear.jl,Liblinear binding to Julia.
@@ -42,6 +43,7 @@ AI,MACHINELEARNING,MochaTheano.jl,https://github.com/benmoran/MochaTheano.jl,All
 AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online Learning of Linear Adaptatable Models.
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
+AI,MACHINELEARNING,PrivateMultiplicativeWeights.jl,https://github.com/mrtzh/PrivateMultiplicativeWeights.jl,Differentially private synthetic data.
 AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
 AI,MACHINELEARNING,SALSA.jl,https://github.com/jumutc/SALSA.jl,_S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
