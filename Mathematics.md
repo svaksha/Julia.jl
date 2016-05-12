@@ -178,6 +178,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [Einsum.jl](https://github.com/ahwillia/Einsum.jl) :: Einstein summation notation in julia.
++ [FastPolynomials.jl](https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl) :: Basic polynomials with Horner-like evaluation over x^2 and x.
 + [FDM.jl](https://github.com/grasingerm/FDM.jl) :: Finite difference methods in Julia.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
