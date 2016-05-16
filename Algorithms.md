@@ -85,7 +85,7 @@
 + [ScikitLearnBase.jl](https://github.com/cstjean/ScikitLearnBase.jl) :: Definition of the [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) API.
 
 ### Array-Matrix
-+ [ArrayIterationPlayground.jl](https://github.com/timholy/ArrayIterationPlayground.jl) :: Testing new ideas for array iteration.
++ [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
 + [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 + [ArrayViewsAPL.jl](https://github.com/timholy/ArrayViewsAPL.jl) :: Generic array-view type with APL indexing semantics.
 + [AxisArrays.jl](https://github.com/mbauman/AxisArrays.jl) :: Performant arrays where each dimension can have a named axis with values.

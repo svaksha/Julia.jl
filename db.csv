@@ -156,7 +156,7 @@ Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),Z
 Algorithms,DATASTRUCTURES,ScikitLearn.jl,https://github.com/cstjean/ScikitLearn.jl,Julia implementation of the scikit-learn API.
 Algorithms,DATASTRUCTURES,heatsheet for [choosing the right estimator,http://scikit-learn.org/stable/tutorial/machine_learning_map/),
 Algorithms,DATASTRUCTURES,ScikitLearnBase.jl,https://github.com/cstjean/ScikitLearnBase.jl,Definition of the [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) API.
-Algorithms,Array-Matrix,ArrayIterationPlayground.jl,https://github.com/timholy/ArrayIterationPlayground.jl,Testing new ideas for array iteration.
+Algorithms,Array-Matrix,ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
 Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,A Julia package to explore a new system of array views.
 Algorithms,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
 Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
@@ -178,7 +178,6 @@ Algorithms,Array-Matrix,TimeArrays.jl,https://github.com/milktrader/TimeArrays.j
 Algorithms,Array-Matrix,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
 Algorithms,Array-Matrix,WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),AbstractTrees.jl,https://github.com/Keno/AbstractTrees.jl,Abstract julia interfaces for working with trees.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,A new package for creating and using affine transformations. Utilities for conversion among different representations (mostly between rotation matrices and axis-angle) are included.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Arrowhead.jl,https://github.com/ivanslapnicar/Arrowhead.jl,Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),ASTInterpreter.jl,https://github.com/Keno/ASTInterpreter.jl,Gallium's AST interpreter as a separate package to simplify development.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),BGraph.jl,https://github.com/adolgert/BGraph.jl,An adjacency list that uses typed properties for vertices, edges, and graphs.
@@ -737,8 +736,7 @@ Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),SampleTypes.jl,https://
 Hardware,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplified generation of device CAD files for superconducting device design.
 Hardware,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 Hardware,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
-Hardware,ControlSystem,Control.jl,https://github.com/JuliaControl/Control.jl,Control Systems toolbox for Julialang.
-Hardware,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Controls Toolbox for Julia.
+Hardware,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
 Hardware,ControlSystem,Fontconfig.jl,https://github.com/dcjones/Fontconfig.jl,Basic Julia bindings for fontconfig.
 Hardware,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
 Hardware,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
@@ -1064,7 +1062,8 @@ Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathe
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Shannon.jl,https://github.com/kzahedi/Shannon.jl,Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),SimplePosets.jl,https://github.com/scheinerman/SimplePosets.jl,Simple partially ordered sets for Julia.
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ZChop.jl,https://github.com/jlapeyre/ZChop.jl,This package replaces small numbers with zero, works on complex and rational numbers, arrays, and some other structures. The idea is for zchop to descend into structures, chopping numbers, and acting as the the identity on anything that can't be sensibly compared to eps.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,Computational geometry with affine transformations
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineSpaces.jl,https://github.com/anj1/AffineSpaces.jl,Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
@@ -1184,6 +1183,7 @@ OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package t
 OpenData,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
 OpenData,SOFTWARE,FlatBuffers.jl,https://github.com/dmbates/FlatBuffers.jl,A package to support Julia code generated by Google's flatbuffers compiler `flatc`.
 OpenData,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
+OpenData,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
 OpenData,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 OpenData,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the data sets available in R.
 OpenData,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
