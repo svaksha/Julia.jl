@@ -297,7 +297,8 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 ----
 
 # [Geometry](http://en.wikipedia.org/wiki/Geometry)
-+ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations
++ [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) :: Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
++ [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 + [D4.jl](https://github.com/khwilson/D4.jl) :: An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
