@@ -6,9 +6,10 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [MATH](#math)
    + [Computer Arithmetic](#computer-arithmetic)
       + [Floating Point](#floating-point)
-+ [Algebra](#algebra)
++ [ALGEBRA](#algebra)
    + [Abstract Algebra](#abstract-algebra)
    + [Boolean Algebra](#boolean-algebra)
+   + [Linear Algebra](#linear-algebra)
    + [Orthogonal Polynomials](#orthogonal-polynomials) 
    + [Symbolic Computation](#symbolic-computation)
 + [Calculus & Applied Math](#calculus-&-applied-math)
@@ -129,7 +130,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ----
 
-# Algebra
+# ALGEBRA
 + [algebra](https://github.com/alrahimi/algebra/) :: A hierarchy of abstract algebraic structures in Julia.
 + [AMVW.jl](https://github.com/andreasnoackjensen/AMVW.jl) :: Fast and backward stable computation of roots of polynomials in Julia
 + [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
@@ -157,6 +158,9 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 ## [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
 + [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
 + [ShowSet.jl](https://github.com/scheinerman/ShowSet.jl) :: Nicer output for Set and IntSet objects.
+
+## [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
++ [Divergences.jl](https://github.com/gragusa/Divergences.jl) :: A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 
 ## Orthogonal Polynomials
 + [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.
