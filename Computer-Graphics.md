@@ -117,6 +117,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [Lumira.jl](https://github.com/sbcd90/Lumira.jl) :: A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
 + [MinMaxFilter.jl](https://github.com/codles/MinMaxFilter.jl) :: Lemire min max filter.
 + [Plots.jl](https://github.com/tbreloff/Plots.jl) :: An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands. {Usable: 5, Robust: 4, Active: 5}
++ [PlotRecipes.jl](https://github.com/JuliaPlots/PlotRecipes.jl) :: Assorted recipes to be used with `Plots.jl`.
 + [PlotThemes.jl](https://github.com/pkofod/PlotThemes.jl).
 + [RasterIO.jl](https://github.com/wkearn/RasterIO.jl) :: Simple Raster Formats for Julia.
 + [RecipesBase.jl](https://github.com/JuliaPlots/RecipesBase.jl) :: Base package for defining transformation recipes on user types for Plots.jl

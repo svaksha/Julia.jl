@@ -332,6 +332,7 @@ Biology,GENOMICS,Pathogen.jl,https://github.com/jangevaa/Pathogen.jl,Utilities t
 Biology,GENOMICS,PedModule.jl,https://github.com/QTL-rocks/PedModule.jl,Geno-type pedigree module.
 Biology,GENOMICS,PhyloNetworks.jl,https://github.com/crsl4/PhyloNetworks.jl,A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
 Biology,GENOMICS,PhyloTrees.jl,https://github.com/jangevaare/PhyloTrees.jl,Phylogenetic tree simulation.
+Biology,GENOMICS,PlmDCA,https://github.com/pagnani/PlmDCA,Pseudo Likelihood Maximization for protein in Julia.
 Biology,GENOMICS,ProgressiveAligner.jl,https://github.com/latticetower/ProgressiveAligner.jl,Progressive alignment scripts for protein sequences.
 Biology,GENOMICS,PseudoGenomes.jl,https://github.com/nw11/PseudoGenomes.jl,Read alleles without a VCF parser.
 Biology,GENOMICS,PureSeq.jl,https://github.com/slundberg/PureSeq.jl,Code for the Pure-seq project.
@@ -569,6 +570,7 @@ Computer-Graphics,INFOGRAPHICS,julia-glplot,https://github.com/o-jasper/julia-gl
 Computer-Graphics,INFOGRAPHICS,Lumira.jl,https://github.com/sbcd90/Lumira.jl,A Julia Library which helps in the creation of SAP-Lumira extensions using Gadfly.
 Computer-Graphics,INFOGRAPHICS,MinMaxFilter.jl,https://github.com/codles/MinMaxFilter.jl,Lemire min max filter.
 Computer-Graphics,INFOGRAPHICS,Plots.jl,https://github.com/tbreloff/Plots.jl,An API/interface and wrapper that sits above other plotting packages (backends) and gives the user simple, consistent, and flexible plotting commands. {Usable: 5, Robust: 4, Active: 5}
+Computer-Graphics,INFOGRAPHICS,PlotRecipes.jl,https://github.com/JuliaPlots/PlotRecipes.jl,Assorted recipes to be used with `Plots.jl`.
 Computer-Graphics,INFOGRAPHICS,PlotThemes.jl,https://github.com/pkofod/PlotThemes.jl),
 Computer-Graphics,INFOGRAPHICS,RasterIO.jl,https://github.com/wkearn/RasterIO.jl,Simple Raster Formats for Julia.
 Computer-Graphics,INFOGRAPHICS,RecipesBase.jl,https://github.com/JuliaPlots/RecipesBase.jl,Base package for defining transformation recipes on user types for Plots.jl
@@ -947,25 +949,26 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),UnumX.jl,https://github.com/JuliaComputing/UnumX.jl,Experimental Unums.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ValidatedNumerics.jl,https://github.com/dpsanders/ValidatedNumerics.jl,Rigorous floating-point calculations via interval arithmetic.
 Mathematics,Resources,Elementary Number Theory,https://github.com/williamstein/ent,Primes, Congruences, and Secrets.
-Mathematics,Algebra,algebra,https://github.com/alrahimi/algebra/,A hierarchy of abstract algebraic structures in Julia.
-Mathematics,Algebra,AMVW.jl,https://github.com/andreasnoackjensen/AMVW.jl,Fast and backward stable computation of roots of polynomials in Julia
-Mathematics,Algebra,CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
-Mathematics,Algebra,Clockwork.jl,https://github.com/malmaud/Clockwork.jl,Represent modular arithmetic via clock symbols.
-Mathematics,Algebra,Cuhre.jl,https://github.com/tflovorn/Cuhre.jl,Simplified Julia interface to Cuhre integration routine.
-Mathematics,Algebra,Digits.jl,https://github.com/greenflash1357/Digits.jl,A module for integer digit manipulation.
-Mathematics,Algebra,FirstOrderLogic.jl,https://github.com/TotalVerb/FirstOrderLogic.jl) :,
-Mathematics,Algebra,Hecke,https://github.com/thofma/hecke,A package for algebraic number
-Mathematics,Algebra,Juniper.jl,https://github.com/jcrist/Juniper.jl,A simple computer algebra system.
-Mathematics,Algebra,Lifts.jl,https://github.com/scheinerman/Lifts.jl,Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation.
-Mathematics,Algebra,Mods.jl,https://github.com/scheinerman/Mods.jl,Easy modular arithmetic for Julia.
-Mathematics,Algebra,MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
-Mathematics,Algebra,Nemo.jl,http://nemocas.org/,A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
-Mathematics,Algebra,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
-Mathematics,Algebra,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
-Mathematics,Algebra,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
+Mathematics,ALGEBRA,algebra,https://github.com/alrahimi/algebra/,A hierarchy of abstract algebraic structures in Julia.
+Mathematics,ALGEBRA,AMVW.jl,https://github.com/andreasnoackjensen/AMVW.jl,Fast and backward stable computation of roots of polynomials in Julia
+Mathematics,ALGEBRA,CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
+Mathematics,ALGEBRA,Clockwork.jl,https://github.com/malmaud/Clockwork.jl,Represent modular arithmetic via clock symbols.
+Mathematics,ALGEBRA,Cuhre.jl,https://github.com/tflovorn/Cuhre.jl,Simplified Julia interface to Cuhre integration routine.
+Mathematics,ALGEBRA,Digits.jl,https://github.com/greenflash1357/Digits.jl,A module for integer digit manipulation.
+Mathematics,ALGEBRA,FirstOrderLogic.jl,https://github.com/TotalVerb/FirstOrderLogic.jl) :,
+Mathematics,ALGEBRA,Hecke,https://github.com/thofma/hecke,A package for algebraic number
+Mathematics,ALGEBRA,Juniper.jl,https://github.com/jcrist/Juniper.jl,A simple computer algebra system.
+Mathematics,ALGEBRA,Lifts.jl,https://github.com/scheinerman/Lifts.jl,Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation.
+Mathematics,ALGEBRA,Mods.jl,https://github.com/scheinerman/Mods.jl,Easy modular arithmetic for Julia.
+Mathematics,ALGEBRA,MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
+Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
+Mathematics,ALGEBRA,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
+Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
+Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),BitCircuits.jl,https://github.com/um-tech-evolution/BitCircuits.jl,Boolean circuit evaluation using bitwise operations.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),ShowSet.jl,https://github.com/scheinerman/ShowSet.jl,Nicer output for Set and IntSet objects.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 Mathematics,OrthogonalPolynomials,ChebyshevApprox,https://github.com/RJDennis/ChebyshevApprox,Julia code to approximate continuous functions using Chebyshev polynomials.
 Mathematics,OrthogonalPolynomials,InterPol.jl,https://github.com/pwl/InterPol.jl,Interpolating polynomial for Julia.
 Mathematics,OrthogonalPolynomials,Jacobi.jl,https://github.com/pjabardo/Jacobi.jl,Jacobi polynomials and Gauss quadrature related functions.
