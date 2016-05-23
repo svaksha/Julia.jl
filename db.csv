@@ -522,6 +522,7 @@ Computer-Graphics,GRAPHICS,Painter.jl,https://github.com/andferrari/Painter.jl,A
 Computer-Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
 Computer-Graphics,GRAPHICS,Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
 Computer-Graphics,GRAPHICS,Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
+Computer-Graphics,GRAPHICS,SchroedingersSmoke.jl,https://github.com/SimonDanisch/SchroedingersSmoke.jl,Schrödinger's Smoke.
 Computer-Graphics,GRAPHICS,SignedDistanceFields.jl,https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation,
 Computer-Graphics,GRAPHICS,SDL.jl,https://github.com/rennis250/SDL.jl,Julia interface to SDL.
 Computer-Graphics,GRAPHICS,seg2seg.jl,https://github.com/intdxdt/seg2seg.jl,Computes the minimum distance between two segments in a 2D plane.
@@ -1647,7 +1648,7 @@ Statistics,STATISTICS,FeldtLib.jl,https://github.com/robertfeldt/FeldtLib.jl,Com
 Statistics,STATISTICS,FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
 Statistics,STATISTICS,Hotspot.jl,https://github.com/jzelner/Hotspot.jl,Hotspot modeling.
 Statistics,STATISTICS,HyperLogLog.jl,https://github.com/johnmyleswhite/HyperLogLog.jl,A simple HyperLogLog implementation in Julia.
-Statistics,STATISTICS,HypothesisTests.jl,https://github.com/simonster/HypothesisTests.jl,T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
+Statistics,STATISTICS,HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 Statistics,STATISTICS,Isotonic.jl,https://github.com/ajtulloch/Isotonic.jl,This implements several algorithms for isotonic regression in Julia.
 Statistics,STATISTICS,ITC.jl,https://github.com/johnmyleswhite/ITC.jl,Code for modeling intertemporal choice in Julia.
 Statistics,STATISTICS,JAGS.jl,https://github.com/olofsen/JAGS.jl,A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
