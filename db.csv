@@ -436,49 +436,6 @@ Chemistry,QuantumChemistry,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,Th
 Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals.
 Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-Community,COMMUNITY,julia-users,https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programming discussions,
-Community,COMMUNITY,julia-dev,https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussion,
-Community,COMMUNITY,julia-jobs,https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here,
-Community,COMMUNITY,Julia page at Wikipedia,https://en.wikipedia.org/wiki/Julia_%28programming_language%29),
-Community,COMMUNITY,Reddit,http://www.reddit.com/r/Julia/,
-Community,COMMUNITY,Stackoverflow,http://stackoverflow.com/questions/tagged/julia-lang,
-Community,COMMUNITY,Julialang news on Twitter,https://twitter.com/julialang_news,
-Community,ContributingtoJuliacoredevelopment,Documentation bugs,https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc),
-Community,ContributingtoJuliacoredevelopment,he [up for grabs,https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_,
-Community,ContributingtoJuliacoredevelopment,ainNZ lists [Ways to contribute to the Julia ecosystem,https://github.com/IainNZ/ContributeToJulia,
-Community,ContributingtoJuliacoredevelopment,NEWS,https://github.com/JuliaLang/julia/blob/master/NEWS.md,Track the Julia release notes, changes, new language features, library improvements,...
-Community,ContributingtoJuliacoredevelopment,ThisWeekInJulia,http://thisweekinjulia.github.io,A blog detailing major updates and changes to the Julia language.
-Community,[JuliaCon](http://juliacon.org/),_Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io,https://github.com/JuliaCon/juliacon.github.io),
-Community,[JuliaCon](http://juliacon.org/),_CFP__:: [Registration page,http://juliacon.eventbrite.com/),
-Community,Asia-CHINA,Beijing,http://www.meetup.com/juliacn/) Julia Programming Language Meetup,
-Community,Asia-CHINA,Shenzhen,2016,http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen,
-Community,Asia-CHINA,meetups in China,http://julialang.cn) more informations about Julia Programming Language Meetup in China,
-Community,KA,Bangalore,http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group,
-Community,Asia-JAPAN,Tokyo Julia User Group,http://juliatokyo.connpass.com/event/6891/,
-Community,Europe-AUSTRIA,Vienna Julia Meetup Group,http://www.meetup.com/Vienna-Julia-Meetup),
-Community,Europe-AUSTRIA,Talks and code for the Vienna Julia Meetups,https://github.com/rened/ViennaJuliaMeetup),
-Community,[Baden-Württemberg]https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).,Tübingen Julia Users,http://www.meetup.com/Julia-Users-Germany/) group,
-Community,Europe-IRELAND,Dublin Julia Programming Language Meetup,http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/),
-Community,Europe-SWITZERLAND,Zurich Julia User Group,http://www.meetup.com/Zurich-Julia-User-Group/,
-Community,Europe-UK,London Julia User Group,http://www.meetup.com/London-Julia-User-Group/,
-Community,NorthAmerica-CANADA,Ottawa JUG,http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario,
-Community,NorthAmerica-CANADA,Vancouver JUG,http://www.meetup.com/Vancouver-Julia-Users/), British Columbia,
-Community,NorthAmerica-MEXICO,JuliaLangEs,http://www.meetup.com/julialanges-mx/) - México, D.F,
-Community,NorthAmerica-MEXICO,México City,http://www.meetup.com/julialang-mx/), Mexico,
-Community,CA,Bay Area,http://www.meetup.com/Bay-Area-Julia-Users/) Julia Users Group,
-Community,CA,Southern California,http://www.meetup.com/Southern-California-Julia-Users/) JUG,
-Community,GA,Atlanta,http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group,
-Community,IL,Chicago,http://www.meetup.com/JuliaChicago/) Julia Meetup group,
-Community,MA,Cambridge Area Julia Users Network (C.A.J.U.N.),http://www.meetup.com/julia-cajun/,
-Community,NC,Triangle Julia Users,http://www.meetup.com/Triangle-Julia-Users/), Raleigh,
-Community,NY,NYC,http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group,
-Community,WA,Seattle,http://www.meetup.com/Seattle-Julia-Users/) JUG,
-Community,[Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA,Sydney JUG,http://www.meetup.com/Sydney-Julia-User-Group/,
-Community,SouthAmerica-BRAZIL,Campinas,http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group,
-Community,SouthAmerica-BRAZIL,Rio de Janeiro,http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG,
-Community,SouthAmerica-BRAZIL,Sao Paulo,http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group,
-Community,Media,Why the creators of the Julia programming language just launched a startup,http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/),
-Community,Media,013 : [Viral Shah's interview,http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/,
 Computer-Graphics,GRAPHICS,AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.
 Computer-Graphics,GRAPHICS,Bezier.jl,https://github.com/dronir/Bezier.jl,Julia functions for computing a Bezier curve.
 Computer-Graphics,GRAPHICS,Blending.jl,https://github.com/dejakaymac/Blending.jl),
@@ -1357,7 +1314,19 @@ QA,UNITTEST,RunTests.jl,https://github.com/burrowsa/RunTests.jl,A test running f
 QA,UNITTEST,Saute.jl,https://github.com/milktrader/Saute.jl,is another testing framework for Julia.
 QA,UNITTEST,testfast.jl,https://github.com/Veraticus/testfast.jl,Automatically finds test files and runs them.
 QA,UNITTEST,UnitTest.jl,https://github.com/analyzere/UnitTest.jl,Another unit-testing library for Julia, that provides nose test style output to the command line and is capable of producing an junit compatible xml result file.
-Resources,,he official list of resources to [learn Julia,http://julialang.org/learning/),
+Resources,COMMUNITY,julia-users,https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programming discussions,
+Resources,COMMUNITY,julia-dev,https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussion,
+Resources,COMMUNITY,julia-jobs,https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here,
+Resources,COMMUNITY,he official list of resources to [learn Julia,http://julialang.org/learning/),
+Resources,COMMUNITY,Julia page at Wikipedia,https://en.wikipedia.org/wiki/Julia_%28programming_language%29),
+Resources,COMMUNITY,Reddit,http://www.reddit.com/r/Julia/,
+Resources,COMMUNITY,Stackoverflow,http://stackoverflow.com/questions/tagged/julia-lang,
+Resources,COMMUNITY,Julialang news on Twitter,https://twitter.com/julialang_news,
+Resources,ContributingtoJuliacoredevelopment,Documentation bugs,https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc),
+Resources,ContributingtoJuliacoredevelopment,he [up for grabs,https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_,
+Resources,ContributingtoJuliacoredevelopment,ainNZ lists [Ways to contribute to the Julia ecosystem,https://github.com/IainNZ/ContributeToJulia,
+Resources,ContributingtoJuliacoredevelopment,NEWS,https://github.com/JuliaLang/julia/blob/master/NEWS.md,Track the Julia release notes, changes, new language features, library improvements,...
+Resources,ContributingtoJuliacoredevelopment,ThisWeekInJulia,http://thisweekinjulia.github.io,A blog detailing major updates and changes to the Julia language.
 Resources,BOOKS,Learn Julia the Hard Way,https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way),
 Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_,https://github.com/scidom/hmc_and_zv_book_chapter.jl) book,
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
@@ -1392,18 +1361,20 @@ Resources,CHEATSHEETS,ohn Myles White compares the [Julia and _R_ language synta
 Resources,CHEATSHEETS,Rosetta-Julia,https://github.com/quinnj/Rosetta-Julia,Rosetta Code task implementations for the Julia language.
 Resources,CHEATSHEETS,Keyboard shortcuts for the REPL,http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings),
 Resources,CHEATSHEETS,Rationale behind @-sign for macro usage,https://stackoverflow.com/questions/29182447/why-do-julia-programmers-need-to-prefix-macros-with-the-at-sign,
-Resources,CONFPRESENTATIONS,Presentations,https://github.com/JuliaCon/presentations) for JuliaCon,
-Resources,CONFPRESENTATIONS,JuliaCon Slides and Presentations,https://github.com/JuliaCon/presentations,
-Resources,CONFPRESENTATIONS,juliacon15,https://github.com/aviks/juliacon15,Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.
-Resources,CONFPRESENTATIONS,JuliaCon-2015,https://github.com/JuliaOpt/JuliaCon-2015,Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
-Resources,CONFPRESENTATIONS,JuliaCon2015 by @simonster,https://github.com/simonster/JuliaCon2015,Slides from my presentations at JuliaCon 2015.
-Resources,CONFPRESENTATIONS,eah Hanson (@astrieanna) talks about _[How Julia Goes Fast,https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014,
-Resources,CONFPRESENTATIONS,uroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython,https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson,
-Resources,CONFPRESENTATIONS,Introduction to Julia Internals,https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson,
-Resources,CONFPRESENTATIONS,Moving Julia into Production,https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta,
-Resources,CONFPRESENTATIONS,Publishing Online Interactive Julia Models,https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean,
-Resources,CONFPRESENTATIONS,013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance,http://www.infoq.com/presentations/julia-vectors-maps-sets),
-Resources,CONFPRESENTATIONS,ACM-SPLASH-2013,https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013,Stefan, Jeff, and Viral's talk.
+Resources,[JuliaCon](http://juliacon.org/),_Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io,https://github.com/JuliaCon/juliacon.github.io),
+Resources,[JuliaCon](http://juliacon.org/),_CFP__:: [Registration page,http://juliacon.eventbrite.com/),
+Resources,Presentations,Presentations,https://github.com/JuliaCon/presentations) for JuliaCon,
+Resources,Presentations,JuliaCon Slides and Presentations,https://github.com/JuliaCon/presentations,
+Resources,Presentations,juliacon15,https://github.com/aviks/juliacon15,Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.
+Resources,Presentations,JuliaCon-2015,https://github.com/JuliaOpt/JuliaCon-2015,Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
+Resources,Presentations,JuliaCon2015 by @simonster,https://github.com/simonster/JuliaCon2015,Slides from my presentations at JuliaCon 2015.
+Resources,Presentations,eah Hanson (@astrieanna) talks about _[How Julia Goes Fast,https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014,
+Resources,Presentations,uroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython,https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson,
+Resources,Presentations,Introduction to Julia Internals,https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson,
+Resources,Presentations,Moving Julia into Production,https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta,
+Resources,Presentations,Publishing Online Interactive Julia Models,https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean,
+Resources,Presentations,013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance,http://www.infoq.com/presentations/julia-vectors-maps-sets),
+Resources,Presentations,ACM-SPLASH-2013,https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013,Stefan, Jeff, and Viral's talk.
 Resources,COOKBOOKS,Binary search in Julia,http://rosettacode.org/wiki/Binary_search#Julia,
 Resources,COOKBOOKS,Brainstorm.jl,https://github.com/Samayel/Brainstorm.jl,Project Euler and more.
 Resources,COOKBOOKS,Euler.jl,https://github.com/moon6pence/Euler.jl,Project Euler with julia language.
@@ -1417,6 +1388,34 @@ Resources,COOKBOOKS,Spark.jl,https://github.com/d9w/Spark.jl,Spark in Julia for 
 Resources,GENERALRESOURCES,A curated list of awesome awesomeness,https://github.com/bayandin/awesome-awesomeness) - scroll down to the Julia section,
 Resources,GENERALRESOURCES,List of free online programming and CS courses,https://github.com/fffaraz/free-programming-courses),
 Resources,GENERALRESOURCES,LectureNotes,https://github.com/UWSEDS/LectureNotes,Lecture content for UW Software Engineering for Data Scientists.
+Resources,Asia-CHINA,Beijing,http://www.meetup.com/juliacn/) Julia Programming Language Meetup,
+Resources,Asia-CHINA,Shenzhen,2016,http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen,
+Resources,Asia-CHINA,meetups in China,http://julialang.cn) more informations about Julia Programming Language Meetup in China,
+Resources,KA,Bangalore,http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group,
+Resources,Asia-JAPAN,Tokyo Julia User Group,http://juliatokyo.connpass.com/event/6891/,
+Resources,Europe-AUSTRIA,Vienna Julia Meetup Group,http://www.meetup.com/Vienna-Julia-Meetup),
+Resources,Europe-AUSTRIA,Talks and code for the Vienna Julia Meetups,https://github.com/rened/ViennaJuliaMeetup),
+Resources,[Baden-Württemberg]https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).,Tübingen Julia Users,http://www.meetup.com/Julia-Users-Germany/) group,
+Resources,Europe-IRELAND,Dublin Julia Programming Language Meetup,http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/),
+Resources,Europe-SWITZERLAND,Zurich Julia User Group,http://www.meetup.com/Zurich-Julia-User-Group/,
+Resources,Europe-UK,London Julia User Group,http://www.meetup.com/London-Julia-User-Group/,
+Resources,NorthAmerica-CANADA,Ottawa JUG,http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario,
+Resources,NorthAmerica-CANADA,Vancouver JUG,http://www.meetup.com/Vancouver-Julia-Users/), British Columbia,
+Resources,NorthAmerica-MEXICO,JuliaLangEs,http://www.meetup.com/julialanges-mx/) - México, D.F,
+Resources,NorthAmerica-MEXICO,México City,http://www.meetup.com/julialang-mx/), Mexico,
+Resources,CA,Bay Area,http://www.meetup.com/Bay-Area-Julia-Users/) Julia Users Group,
+Resources,CA,Southern California,http://www.meetup.com/Southern-California-Julia-Users/) JUG,
+Resources,GA,Atlanta,http://www.meetup.com/Atlanta-Julia-Users-Group/) Julia Users Group,
+Resources,IL,Chicago,http://www.meetup.com/JuliaChicago/) Julia Meetup group,
+Resources,MA,Cambridge Area Julia Users Network (C.A.J.U.N.),http://www.meetup.com/julia-cajun/,
+Resources,NC,Triangle Julia Users,http://www.meetup.com/Triangle-Julia-Users/), Raleigh,
+Resources,NY,NYC,http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group,
+Resources,WA,Seattle,http://www.meetup.com/Seattle-Julia-Users/) JUG,
+Resources,[Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA,Sydney JUG,http://www.meetup.com/Sydney-Julia-User-Group/,
+Resources,SouthAmerica-BRAZIL,Campinas,http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group,
+Resources,SouthAmerica-BRAZIL,Rio de Janeiro,http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG,
+Resources,SouthAmerica-BRAZIL,Sao Paulo,http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group,
+Resources,JUPYTERNOTEBOOKS,ChicagoFed_workshop,https://github.com/QuantEcon/ChicagoFed_workshop,Workshop on scientific computing for economists with Python and Julia.
 Resources,JUPYTERNOTEBOOKS,JuliaWorkshop2015,https://github.com/arinbasu/JuliaWorkshop2015,Files for the Julia Workshop ANZStat Conference.
 Resources,JUPYTERNOTEBOOKS,ijulia-notebooks,https://github.com/jiahao/ijulia-notebooks,Demo-ready IJulia notebooks and [assorted IJulia notebooks](https://github.com/jiahao/ijulia-notebooks-assorted) in various stages of usefulness for public consumption.
 Resources,JUPYTERNOTEBOOKS,SSAI,https://github.com/simonbyrne/SSAI,Jupyter notebooks introducing you to scientific programming with Julia.
@@ -1432,6 +1431,8 @@ Resources,JUPYTERNOTEBOOKS,IJulia PLEAC,https://github.com/catawbasam/IJulia_PLE
 Resources,JUPYTERNOTEBOOKS,A Julia Tutorial,http://julialang.org https://github.com/JuliaX/JuliaTutorial,
 Resources,JUPYTERNOTEBOOKS,JuliaHTML,https://github.com/ppalmes/JuliaHTML,@ppalmes Julia notebooks.
 Resources,JUPYTERNOTEBOOKS,100-julia-exercises,https://github.com/chezou/julia-100-exercises,@rougier's 100 numpy exercises as 100-julia-exercises.
+Resources,Media,Why the creators of the Julia programming language just launched a startup,http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/),
+Resources,Media,013 : [Viral Shah's interview,http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/,
 Resources,SLIDES,BAJU-WhatsNew,https://github.com/tkelman/BAJU-WhatsNew,Bay Area Julia Users talk from Oct 29th 2015.
 Resources,SLIDES,Setting up Julia for EE103,https://web.stanford.edu/class/ee103/slides/julia_ee103_slides.pdf) slides, Stanford,
 Resources,SLIDES,Matrices in Julia,http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides, Stanford,
