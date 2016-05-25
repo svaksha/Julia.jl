@@ -80,6 +80,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [GSL.jl](https://github.com/jiahao/GSL.jl) :: Julia interface to the GNU Scientific Library - GSL.
 + [Hecke.jl](https://github.com/thofma/Hecke.jl).
 + [Hexagons.jl](https://github.com/dcjones/Hexagons.jl) :: Useful tools for working with hexagonal grids.
++ [MTH229.jl](https://github.com/mth229/MTH229.jl) :: Helper files for using Julia with MTH229.
 + [MathToolkit.jl](https://github.com/baruchel/MathToolkit.jl) :: A Julia package providing various functions mainly for the purpose of experimental mathematics. 
 + [Measures.jl](https://github.com/dcjones/Measures.jl) :: Unified measure and coordinates types.
 + [MPFR.jl](https://github.com/andrioni/MPFR.jl) :: A Julia package for the GNU MPFR library.
