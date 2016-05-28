@@ -88,6 +88,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: Julia interface to Google Chart Tools.
 + [ijulia_d3_tutorial](https://github.com/cgroll/ijulia_d3_tutorial) :: A step by step guide to d3.js chart usage in ijulia notebooks.
 + [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
++ [JavaScriptBridge.jl](https://github.com/EricForgy/JavaScriptBridge.jl) :: A simple package that allows Julia to interact with JavaScript in a browser and is heavily inspired by Blink.jl.
 + [jlbox](https://github.com/compressed/jlbox) :: Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket. 
 + [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
 + [node-julia](https://github.com/waTeim/node-julia) ::  Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
