@@ -25,7 +25,7 @@
 ----
 
 # [Documentation Driven Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
-+ [Documenter.jl](https://github.com/MichaelHatherly/Documenter.jl) :: A documentation generator for Julia. 
++ [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) :: A documentation generator for Julia. 
 + [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.
 
 ###### Resources
