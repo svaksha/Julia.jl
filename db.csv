@@ -96,7 +96,6 @@ AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural languag
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
-AI,NLP,Jieba.jl,https://github.com/qinwf/Jieba.jl, A package for Chinese text segmentation, keyword extraction and POS tagging.
 AI,NLP,Jukai.jl,https://github.com/hshindo/Jukai.jl, Natural Language Processing Toolkit.
 AI,NLP,JuliaParser.jl,https://github.com/jakebolewski/JuliaParser.jl,A rewrite of Julia's parser in Julia.
 AI,NLP,KUparser.jl,https://github.com/denizyuret/KUparser.jl,Dependency parsing with word vectors.
@@ -271,6 +270,7 @@ API,JavaScript,DThree.jl,https://github.com/jverzani/DThree.jl,Simple interface 
 API,JavaScript,GoogleCharts.jl,https://github.com/jverzani/GoogleCharts.jl,Julia interface to Google Chart Tools.
 API,JavaScript,ijulia_d3_tutorial,https://github.com/cgroll/ijulia_d3_tutorial,A step by step guide to d3.js chart usage in ijulia notebooks.
 API,JavaScript,j2d3.jl,https://github.com/fredo-dedup/j2d3.jl,trying to generate d3 statements from within julia.
+API,JavaScript,JavaScriptBridge.jl,https://github.com/EricForgy/JavaScriptBridge.jl,A simple package that allows Julia to interact with JavaScript in a browser and is heavily inspired by Blink.jl.
 API,JavaScript,jlbox,https://github.com/compressed/jlbox,Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
 API,JavaScript,JSTypes.jl,https://github.com/johnmyleswhite/JSTypes.jl,Mimic Javascript objects using Julian types.
 API,JavaScript,node-julia,https://github.com/waTeim/node-julia, Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
@@ -445,20 +445,18 @@ Computer-Graphics,GRAPHICS,ColorBrewer.jl,https://github.com/timothyrenner/Color
 Computer-Graphics,GRAPHICS,Compose.jl,http://composejl.org/,A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github.
 Computer-Graphics,GRAPHICS,Contour.jl,https://github.com/tlycken/Contour.jl,Calculating contour curves for 2D scalar fields in Julia.
 Computer-Graphics,GRAPHICS,Curvelet.jl,https://github.com/fundamental/Curvelet.jl,Implementation of the Uniform Discrete Curvelet Transform (UDCT).
-Computer-Graphics,GRAPHICS,DevIL.jl,https://github.com/aaalexandrov/DevIL.jl,OpenIL binding for [DevIL](https://github.com/DentonW/DevIL).
-Computer-Graphics,GRAPHICS,Draw.jl,https://github.com/andrewcooke/Draw.jl,A library for drawing (diagrams, lines, shapes).
-Computer-Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,A 3D graphics package with a Julia API, built on OpenGL.
 Computer-Graphics,GRAPHICS,DelayedBuffer.jl,https://github.com/jfsantos/DelayedBuffer.jl,Delayed buffer view for Julia 1D arrays.
-Computer-Graphics,GRAPHICS,GLGraphics.jl,https://github.com/SimonDanisch/GLGraphics.jl,Advanced 3D and 2D graphics for Julia.
-Computer-Graphics,GRAPHICS,GLUT.jl,https://github.com/rennis250/GLUT.jl,A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
+Computer-Graphics,GRAPHICS,DevIL.jl,https://github.com/JuliaGL/DevIL.jl,[DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
+Computer-Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,A 3D graphics package with a Julia API, built on OpenGL.
+Computer-Graphics,GRAPHICS,Drawing.jl,https://github.com/andrewcooke/Drawing.jl,A library for easy, extensible drawing (diagrams, lines, shapes).
+Computer-Graphics,GRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Utility package for ModernGL.
 Computer-Graphics,GRAPHICS,GLText.jl,https://github.com/SimonDanisch/GLText.jl,Text Rendering for OpenGL.
-Computer-Graphics,GRAPHICS,GLUtil.jl,https://github.com/SimonDanisch/GLUtil.jl,Utility package for ModernGL by @SimonDanisch.
+Computer-Graphics,GRAPHICS,GLUT.jl,https://github.com/rennis250/GLUT.jl,A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
 Computer-Graphics,GRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Create a window with an OpenGL context.
-Computer-Graphics,GRAPHICS,GreinerHormann.jl,https://github.com/sjkelly/GreinerHormann.jl,An implementation of the Greiner-Hormann clipping algorithm in Julia.
 Computer-Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 Computer-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
 Computer-Graphics,GRAPHICS,ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
-Computer-Graphics,GRAPHICS,ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl),
+Computer-Graphics,GRAPHICS,ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
 Computer-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
 Computer-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
 Computer-Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
@@ -470,7 +468,7 @@ Computer-Graphics,GRAPHICS,LineExtraction.jl,https://github.com/remusao/LineExtr
 Computer-Graphics,GRAPHICS,Luxor.jl,https://github.com/cormullion/Luxor.jl,an easy-to-use sugary coating in Julia for the Cairo graphics package.
 Computer-Graphics,GRAPHICS,LuxRay.jl,https://github.com/SimonDanisch/LuxRay.jl,Julia wrapper for LuxRay.
 Computer-Graphics,GRAPHICS,MeshSlicer.jl,https://github.com/sjkelly/MeshSlicer.jl,A package for slicing meshes into polygons using Julialang.
-Computer-Graphics,GRAPHICS,ModernGL.jl,https://github.com/SimonDanisch/ModernGL.jl,This package includes all definitions of OpenGL versions > 3.0., a WIP GSoC-2014 effort to get 3D Graphics into Julia.
+Computer-Graphics,GRAPHICS,ModernGL.jl,https://github.com/JuliaGL/ModernGL.jl,OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
 Computer-Graphics,GRAPHICS,NetworkViz.jl,https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
 Computer-Graphics,GRAPHICS,OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for OpenCV - __WIP__.
 Computer-Graphics,GRAPHICS,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
@@ -480,27 +478,26 @@ Computer-Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computation
 Computer-Graphics,GRAPHICS,Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
 Computer-Graphics,GRAPHICS,Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
 Computer-Graphics,GRAPHICS,SchroedingersSmoke.jl,https://github.com/SimonDanisch/SchroedingersSmoke.jl,Schrödinger's Smoke.
-Computer-Graphics,GRAPHICS,SignedDistanceFields.jl,https://github.com/yurivish/SignedDistanceFields.jl) : Simple and efficient SDF calculation,
 Computer-Graphics,GRAPHICS,SDL.jl,https://github.com/rennis250/SDL.jl,Julia interface to SDL.
 Computer-Graphics,GRAPHICS,seg2seg.jl,https://github.com/intdxdt/seg2seg.jl,Computes the minimum distance between two segments in a 2D plane.
 Computer-Graphics,GRAPHICS,ShaderToy.jl,https://github.com/SimonDanisch/ShaderToy.jl,Shade objects in Julia, created with GLVisualize.jl + OpenGL.
-Computer-Graphics,GRAPHICS,Skia.jl,https://github.com/dcjones/Skia.jl,Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-Computer-Graphics,GRAPHICS,SignedDistanceFields.jl,https://github.com/yurivish/SignedDistanceFields.jl,Simple and efficient SDF calculation.
-Computer-Graphics,GRAPHICS,SixelGraphics.jl,https://github.com/olofsen/SixelGraphics.jl,A module for Julia implementing simple Sixel graphics.
 Computer-Graphics,GRAPHICS,ShapeModels.jl,https://github.com/rened/ShapeModels.jl,Statistical shape models / point distribution models.
+Computer-Graphics,GRAPHICS,SignedDistanceFields.jl,https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation,
+Computer-Graphics,GRAPHICS,SixelGraphics.jl,https://github.com/olofsen/SixelGraphics.jl,A module for Julia implementing simple Sixel graphics.
+Computer-Graphics,GRAPHICS,Skia.jl,https://github.com/dcjones/Skia.jl,Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 Computer-Graphics,GRAPHICS,TestImages.jl,https://github.com/timholy/TestImages.jl,Loading standard test images into Julia.
 Computer-Graphics,GRAPHICS,ThreeJS.jl,https://github.com/rohitvarkey/ThreeJS.jl,Julia interface to WebGL using Three-js custom elements and Patchwork.jl.
 Computer-Graphics,GRAPHICS,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
 Computer-Graphics,GRAPHICS,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
-Computer-Graphics,GRAPHICS,VLFeat.jl,https://github.com/IHPostal/VLFeat.jl,Julia wrappings for the VLFeat computer vision library.
 Computer-Graphics,GRAPHICS,VisualRegressionTests.jl,https://github.com/tbreloff/VisualRegressionTests.jl,Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}
+Computer-Graphics,GRAPHICS,VLFeat.jl,https://github.com/IHPostal/VLFeat.jl,Julia wrappings for the VLFeat computer vision library.
 Computer-Graphics,Games,ArcadeLearningEnvironment.jl,https://github.com/nowozin/ArcadeLearningEnvironment.jl,ArcadeLearningEnvironment Julia interface.
 Computer-Graphics,Games,AtariAlgos.jl,https://github.com/tbreloff/AtariAlgos.jl,Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}
 Computer-Graphics,Games,eve.jl,https://github.com/barcharcraz/eve.jl,Julia library for interacting with Eve Online.
 Computer-Graphics,Games,Quake2.jl,https://github.com/jayschwa/Quake2.jl,Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 Computer-Graphics,Games,ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl),
-Computer-Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This is a small space shooter game made in Julia with SFML.jl
 Computer-Graphics,Games,SFML.jl,https://github.com/zyedidia/SFML.jl,A binding of the Game and Multimedia Library SFML.
+Computer-Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This is a small space shooter game made in Julia with SFML.jl
 Computer-Graphics,Resources,julia-opengl-demos,https://github.com/ssfrr/julia-opengl-demos,A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 Computer-Graphics,Resources,Videre,https://github.com/Gnimuc/Videre,OpenGL examples written in Julia.
 Computer-Graphics,INFOGRAPHICS,AnimatedPlots.jl,https://github.com/zyedidia/AnimatedPlots.jl,Fast animated (and static) plots for Julia.
@@ -508,20 +505,19 @@ Computer-Graphics,INFOGRAPHICS,AverageShiftedHistograms.jl,https://github.com/jo
 Computer-Graphics,INFOGRAPHICS,BBVis.jl,https://github.com/joehuchette/BBVis.jl,Visualizations for branch-and-bound algorithms.
 Computer-Graphics,INFOGRAPHICS,CData.jl,https://github.com/ma-laforge/CData.jl,C-Data Analysis/Visualization Suite.
 Computer-Graphics,INFOGRAPHICS,ComposeVideo.jl,https://github.com/arnim/ComposeVideo.jl,Video generator for Gadfly.jl.
-Computer-Graphics,INFOGRAPHICS,Displaz.jl,https://github.com/c42f/displaz/blob/master/bindings/julia/Displaz.jl,is julia bindings for [displaz](http://c42f.github.io/displaz)f, a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
+Computer-Graphics,INFOGRAPHICS,Displaz.jl,https://github.com/c42f/Displaz.jl,Julia bindings for [displaz](http://c42f.github.io/displaz), a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
+Computer-Graphics,INFOGRAPHICS,ECharts.jl,https://github.com/wlbksy/ECharts.jl,Julia package for [ECharts](https://github.com/ecomfe/echarts)
 Computer-Graphics,INFOGRAPHICS,GainPatterns.jl,https://github.com/dressel/GainPatterns.jl,This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 Computer-Graphics,INFOGRAPHICS,GainPatternsTex.jl,https://github.com/dressel/GainPatternsTex.jl,Plotting gain patterns.
-Computer-Graphics,INFOGRAPHICS,GracePlot.jl,https://github.com/ma-laforge/GracePlot.jl,Publication-quality plotting for julia using Grace/xmgrace.
-Computer-Graphics,INFOGRAPHICS,ECharts.jl,https://github.com/wlbksy/ECharts.jl,
-Computer-Graphics,INFOGRAPHICS,echarts,https://github.com/ecomfe/echarts,
 Computer-Graphics,INFOGRAPHICS,GL.jl,https://github.com/jayschwa/GL.jl,Experimental OpenGL bindings for Julia.
-Computer-Graphics,INFOGRAPHICS,GLAbstraction.jl,https://github.com/SimonDanisch/GLAbstraction.jl,Abstraction library for OpenGL.
-Computer-Graphics,INFOGRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Simple package to create an OpenGL window with an OpenGL context.
+Computer-Graphics,INFOGRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Abstraction library for OpenGL.
+Computer-Graphics,INFOGRAPHICS,GLWindow.jl,https://github.com/JuliaGL/GLWindow.jl,Simple package to create an OpenGL window with an OpenGL context.
 Computer-Graphics,INFOGRAPHICS,GR,https://github.com/jheinen/gr) framewor,A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
+Computer-Graphics,INFOGRAPHICS,GracePlot.jl,https://github.com/ma-laforge/GracePlot.jl,Publication-quality plotting for julia using Grace/xmgrace.
 Computer-Graphics,INFOGRAPHICS,GraphCentrality.jl,https://github.com/sbromberger/GraphCentrality.jl,All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures.
 Computer-Graphics,INFOGRAPHICS,GraphPlot.jl,https://github.com/afternone/GraphPlot.jl,Graph visualization for Julia.
-Computer-Graphics,INFOGRAPHICS,GraphViz.jl,https://github.com/Keno/GraphViz.jl,Julia bindings for the GraphViz library.
 Computer-Graphics,INFOGRAPHICS,GraphVisualize.jl,https://github.com/JuliaGraphs/GraphVisualize.jl,Graph visualization with tight integration with LightGraphs.jl package.
+Computer-Graphics,INFOGRAPHICS,GraphViz.jl,https://github.com/Keno/GraphViz.jl,Julia bindings for the GraphViz library.
 Computer-Graphics,INFOGRAPHICS,HEALPix.jl,https://github.com/mweastwood/HEALPix.jl,Julia wrapper for [HEALPix](http://healpix.jpl.nasa.gov/).
 Computer-Graphics,INFOGRAPHICS,Histograms.jl,https://github.com/jpata/Histograms.jl,Methods for handling histograms in Julia.
 Computer-Graphics,INFOGRAPHICS,julia-glplot,https://github.com/o-jasper/julia-glplot,Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
@@ -535,18 +531,18 @@ Computer-Graphics,INFOGRAPHICS,RecipesBase.jl,https://github.com/JuliaPlots/Reci
 Computer-Graphics,INFOGRAPHICS,VennDiagrams.jl,https://github.com/binarybana/VennDiagrams.jl,Generate Venn diagrams in Julia using Compose.jl.
 Computer-Graphics,INFOGRAPHICS,VennEuler.jl,https://github.com/HarlanH/VennEuler.jl,Generate area-proportional Venn/Euler diagrams in Julia.
 Computer-Graphics,INFOGRAPHICS,VGPlot.jl,https://github.com/johnmyleswhite/VGPlot.jl,A knock-off of ggplot2 in Julia using Vega.
-Computer-Graphics,INFOGRAPHICS,VTK.jl,https://github.com/ihnorton/VTK.jl,VTK bindings for the Julia language.
-Computer-Graphics,INFOGRAPHICS,Wavelets,https://github.com/tomaskrehlik/Wavelets,Implementation of Wavelet methods in Julia.
-Computer-Graphics,INFOGRAPHICS,Wavelets.jl,https://github.com/gummif/Wavelets.jl,Fast Discrete Wavelet Transforms written in Julia.
-Computer-Graphics,GraphicalPlotting,Bokeh.jl,https://github.com/samuelcolvin/Bokeh.jl,Bokeh bindings for Julia.
+Computer-Graphics,INFOGRAPHICS,VTK.jl,https://github.com/timholy/VTK.jl,VTK bindings for the Julia language.
+Computer-Graphics,INFOGRAPHICS,uliaDSP/[Wavelets.jl,https://github.com/JuliaDSP/Wavelets.jl,Fast Discrete Wavelet Transforms written in Julia.
+Computer-Graphics,INFOGRAPHICS,omaskrehlik/[Wavelets.jl,https://github.com/tomaskrehlik/Wavelets.jl,Implementation of Wavelet methods in Julia.
+Computer-Graphics,GraphicalPlotting,Bokeh.jl,https://github.com/bokeh/Bokeh.jl,Bokeh bindings for Julia.
 Computer-Graphics,GraphicalPlotting,FalseColor.jl,https://github.com/ojwoodford/FalseColor.jl,A Julia package to turn gridded data into pretty images.
 Computer-Graphics,GraphicalPlotting,Gadfly.jl,http://gadflyjl.org/,[Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
 Computer-Graphics,GraphicalPlotting,Gaston.jl,https://github.com/mbaz/Gaston.jl,A julia front-end for gnuplot.
 Computer-Graphics,GraphicalPlotting,GLPlot.jl,https://github.com/SimonDanisch/GLPlot.jl,Plotting for Julia with OpenGL.
 Computer-Graphics,GraphicalPlotting,GoogleCharts.jl,https://github.com/jverzani/GoogleCharts.jl,The Julia interface to Google Chart Tools.
 Computer-Graphics,GraphicalPlotting,paper,https://github.com/andrewcooke/paper,Crumpled paper - PDF plot in Julia.
-Computer-Graphics,GraphicalPlotting,PLplot.jl,https://github.com/wildart/PLplot.jl,A cross-platform software package for creating scientific plots.
 Computer-Graphics,GraphicalPlotting,Plotly.jl,https://github.com/plotly/Plotly.jl,A Julia wrapper for the plot.ly REST API.
+Computer-Graphics,GraphicalPlotting,PLplot.jl,https://github.com/wildart/PLplot.jl,A cross-platform software package for creating scientific plots.
 Computer-Graphics,GraphicalPlotting,PyPlot.jl,https://github.com/stevengj/PyPlot.jl,Plotting for Julia based on matplotlib, pyplot.
 Computer-Graphics,GraphicalPlotting,Qwt.jl,https://github.com/tbreloff/Qwt.jl,2D plotting, drawing, and GUIs using Qwt and Qt.  {Usable: 4, Robust: 3, Active: 1}
 Computer-Graphics,GraphicalPlotting,Sparrow.jl,https://github.com/rennis250/Sparrow.jl,A Julia package for plotting that uses ctioga2 as a backend.
@@ -866,6 +862,7 @@ Mathematics,MATH,FrameFuns.jl,https://github.com/daanhb/FrameFuns.jl,Exploring p
 Mathematics,MATH,GSL.jl,https://github.com/jiahao/GSL.jl,Julia interface to the GNU Scientific Library - GSL.
 Mathematics,MATH,Hecke.jl,https://github.com/thofma/Hecke.jl),
 Mathematics,MATH,Hexagons.jl,https://github.com/dcjones/Hexagons.jl,Useful tools for working with hexagonal grids.
+Mathematics,MATH,MTH229.jl,https://github.com/mth229/MTH229.jl,Helper files for using Julia with MTH229.
 Mathematics,MATH,MathToolkit.jl,https://github.com/baruchel/MathToolkit.jl,A Julia package providing various functions mainly for the purpose of experimental mathematics.
 Mathematics,MATH,Measures.jl,https://github.com/dcjones/Measures.jl,Unified measure and coordinates types.
 Mathematics,MATH,MPFR.jl,https://github.com/andrioni/MPFR.jl,A Julia package for the GNU MPFR library.
@@ -989,9 +986,6 @@ Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),DualNumbers2.jl,https://github.com/johnmyleswhite/DualNumbers2.jl,Another Julia implementation of dual numbers for automatic differentiation.
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),DynamicalSystems.jl,https://github.com/timothyrenner/DynamicalSystems.jl,A collection of Julia functions that produce the systems of ODEs for various dynamical systems.
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),IVPTestSuite.jl,https://github.com/mauro3/IVPTestSuite.jl,DE solver test suite of Ordinary differential equations (ODE) and algebraic differential equations (DAE).
-Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),HPFEM.jl,https://github.com/pjabardo/HPFEM.jl,HP Finite elements in Julia.
-Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),JFinEALE.jl,https://github.com/PetrKryslUCSD/JFinEALE.jl,A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
-Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),Makhno.jl,https://github.com/pjabardo/Makhno.jl,Spectral element code implemented in Julia.
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),ODEDSL.jl,https://github.com/AleMorales/ODEDSL.jl,Domain specific language to write ODE models with tests. Automatic code generation for Julia, R and CPP (via Rcpp).
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),odesolver,https://github.com/insideloop/odesolver,Collection of solvers for Ordinary Differential Equations.
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),RiemannHilbert.jl,https://github.com/dlfivefifty/RiemannHilbert.jl,Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
@@ -1007,6 +1001,10 @@ Mathematics,Org-[JuliaDiff](http://www.juliadiff.org/),HyperDualNumbers.jl,https
 Mathematics,Org-[JuliaDiff](http://www.juliadiff.org/),ForwardDiff.jl,https://github.com/JuliaDiff/ForwardDiff.jl,Juila package for performing forward mode automatic differentiation.
 Mathematics,Org-[JuliaDiff](http://www.juliadiff.org/),DualNumbers.jl,https://github.com/JuliaDiff/DualNumbers.jl,Julia package for representing dual numbers and for performing dual algebra.
 Mathematics,Org-[JuliaDiff](http://www.juliadiff.org/),NDuals.jl,https://github.com/JuliaDiff/NDuals.jl,Experimental package for stack-allocated dual numbers with multiple epsilon components.
+Mathematics,[GeneralDifferentialEquations](https://en.wikipedia.org/wiki/Differential_equation),DifferentialEquations.jl,https://github.com/ChrisRackauckas/DifferentialEquations.jl,Equations within the realm of this package include stochastic ordinary differential equations (SODEs or SDEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
+Mathematics,[GeneralDifferentialEquations](https://en.wikipedia.org/wiki/Differential_equation),HPFEM.jl,https://github.com/pjabardo/HPFEM.jl,HP Finite elements in Julia.
+Mathematics,[GeneralDifferentialEquations](https://en.wikipedia.org/wiki/Differential_equation),JFinEALE.jl,https://github.com/PetrKryslUCSD/JFinEALE.jl,A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
+Mathematics,[GeneralDifferentialEquations](https://en.wikipedia.org/wiki/Differential_equation),Makhno.jl,https://github.com/pjabardo/Makhno.jl,Spectral element code implemented in Julia.
 Mathematics,[SpecialFunctions](http://en.wikipedia.org/wiki/Category:Special_functions),LambertW.jl,https://github.com/jlapeyre/LambertW.jl,A package implementing the Lambert_W function and associated omega constant.
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,Closed intervals of the form [a,b].
 Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
@@ -1144,6 +1142,7 @@ OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package t
 OpenData,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
 OpenData,SOFTWARE,FlatBuffers.jl,https://github.com/dmbates/FlatBuffers.jl,A package to support Julia code generated by Google's flatbuffers compiler `flatc`.
 OpenData,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
+OpenData,SOFTWARE,ModelerToolbox.jl,https://github.com/spencerlyon2/ModelerToolbox.jl,Utilities for working with many different versions/parameterizations of models.
 OpenData,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
 OpenData,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 OpenData,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the data sets available in R.
@@ -1285,7 +1284,7 @@ QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,htt
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
 QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
-QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/MichaelHatherly/Documenter.jl,A documentation generator for Julia.
+QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/JuliaDocs/Documenter.jl,A documentation generator for Julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
 QA,Resources,Making nice documentation,http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package,
 QA,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
@@ -1455,6 +1454,68 @@ Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/wat
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
 Resources,VIDEOS,2015-JuliaCon Videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM,
 Resources,VIDEOS,lides for the [Optimization,http://iaindunning.com/talks/JuliaCon15JuliaOpt.pdf) talk,
+Server,FRAMEWORKS,jinnie,https://github.com/essenciary/jinnie,Eclectic web framework running on Julia.
+Server,FRAMEWORKS,Merly.jl,https://github.com/codeneomatrix/Merly.jl,A micro framework for web programming in Julia.
+Server,FRAMEWORKS,mvc-skeleton.jl,https://github.com/halla/mvc-skeleton.jl,
+Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
+Server,FRAMEWORKS,skeleton-webapp.jl,https://bitbucket.org/jocklawrie/skeleton-webapp.jl,This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
+Server,RoR,RoR_julia_eg,https://github.com/Ken-B/RoR_julia_eg,An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
+Server,Org-[OpenFisca](https://github.com/openfisca/),OpenFiscaWebApi.jl,https://github.com/openfisca/OpenFiscaWebApi.jl,A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
+Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP,
+Server,Middleware,Mongrel2.jl,https://github.com/aviks/Mongrel2.jl,Mongrel2 handlers in Julia.
+Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use.
+Server,Middleware,ZMQ.jl,https://github.com/JuliaLang/ZMQ.jl,Julia interface to ZeroMQ.
+Server,Middleware,hread on building a [web app for enterprise risk management,https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g,
+Server,NETWORKING,Dates.jl,https://github.com/quinnj/Dates.jl,A Date and DateTime implementation for Julia.
+Server,NETWORKING,IPNets.jl,https://github.com/sbromberger/IPNets.jl,IPv4 / IPv6 network abstractions for Julia.
+Server,NETWORKING,Juliaflow,https://github.com/pchronz/juliaflow,A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
+Server,NETWORKING,LogParser.jl,https://github.com/randyzwitch/LogParser.jl,A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
+Server,NETWORKING,Pcap.jl,https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamm,Libpcap implementation for Julia language.
+Server,NETWORKING,Pcap.jl,https://github.com/r2dbg/Pcap.jl) by @r2db,Libpcap implementation for Julia language.
+Server,NETWORKING,StatsdClient.jl,https://github.com/forio/StatsdClient.jl,A simple Julia implementation of a statsd client.
+Server,NETWORKING,TimeZones.jl,https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language,
+Server,NETWORKING,UUID.jl,https://github.com/forio/UUID.jl,A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
+Server,SECURITY,Etcd.jl,https://github.com/forio/Etcd.jl,A Julia Etcd client implementation.
+Server,SECURITY,MbedTLS,https://github.com/JuliaWeb/MbedTLS.jl,Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
+Server,SECURITY,GnuTLS.jl,https://github.com/JuliaWeb/GnuTLS.jl,Transport Level Security for Julia Streams provided by GnuTLS.
+Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,a basic, non-blocking HTTP server in Julia.
+Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia implementation of OAuth v1.0a.
+Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
+Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
+Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
+Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
+Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
+Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
+Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
+Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.
+Server,WEB,Laurence.jl,https://github.com/mneudert/Laurence.jl,
+Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create and interact with web pages.
+Server,WEB,RestClient.jl,https://github.com/analyzere/RestClient.jl,A simple REST client for Julia.
+Server,WEB,Romeo.jl,https://github.com/mneudert/Romeo.jl,Another HTTP server to log requests, events, responses.
+Server,WEB,WebSocketClient.jl,https://github.com/dandeliondeathray/WebSocketClient.jl,A Julia package for client side WebSockets.
+Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
+Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),LibCURL.jl,https://github.com/JuliaWeb/LibCURL.jl,Thin Julia wrapper of libCURL
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WebSockets.jl,https://github.com/JuliaWeb/WebSockets.jl,A WebSockets server library for Julia.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpCommon.jl,https://github.com/JuliaWeb/HttpCommon.jl,Provides types and helper functions for dealing with the HTTP protocol in Julia.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HTTPClient.jl,https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcur,
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpParser.jl,https://github.com/JuliaWeb/HttpParser.jl,Julia wrapper for Joyent's http-parser.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Meddle.jl,https://github.com/JuliaWeb/Meddle.jl,is the middleware stack for use with HttpServer.jl.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Morsel.jl,https://github.com/JuliaLang/Morsel.jl,A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Requests.jl,https://github.com/JuliaWeb/Requests.jl,HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URITemplate.jl,https://github.com/JuliaWeb/URITemplate.jl,This package provides URI Template interpolation by implementing (RFC 6570).
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),UAParser.jl,https://github.com/JuliaWeb/UAParser.jl,UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URIParser.jl,https://github.com/JuliaWeb/URIParser.jl,Pure julia URI parser.
+Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WWWClient.jl,https://github.com/JuliaWeb//WWWClient.jl,is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing.
+Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaWebRepl.jl,https://github.com/vtjnash/JuliaWebRepl.jl,
+Server,Org-[JunoLab](https://github.com/JunoLab/),Blink.jl,https://github.com/JunoLab/Blink.jl,A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
+Server,Org-[JunoLab](https://github.com/JunoLab/),CodeTools.jl,https://github.com/JunoLab/CodeTools.jl,A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
+Server,Org-[JunoLab](https://github.com/JunoLab/),DevTools.jl,https://github.com/JunoLab/DevTools.jl,Dev tools that uses the `Media.jl` display system.
+Server,Org-[JunoLab](https://github.com/JunoLab/),Hiccup.jl,https://github.com/JunoLab/Hiccup.jl,A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
+Server,Org-[JunoLab](https://github.com/JunoLab/),LNR.jl,https://github.com/JunoLab/LNR.jl,Line numbering reader.
+Server,Org-[JunoLab](https://github.com/JunoLab/),Media.jl,https://github.com/JunoLab/Media.jl,A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
+Server,Org-[JunoLab](https://github.com/JunoLab/),MethImp.jl,https://github.com/JunoLab/MethImp.jl,Method Importing.
+Server,Org-[JunoLab](https://github.com/JunoLab/),Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Space-Science,Aeronautics,ices-desktop,https://github.com/abieler/ices-desktop),
 Space-Science,Aeronautics,Spice.jl,https://github.com/abieler/Spice.jl,NASA's SPICE observation geometry system.
 Space-Science,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
@@ -2002,65 +2063,3 @@ Utilities,IRC,DandelionSlack.jl,https://github.com/dandeliondeathray/DandelionSl
 Utilities,IRC,Slackbot.jl,https://github.com/jiahao/Slackbot.jl,A Julia REPL that interacts with Slack.com's webhook integration.
 Utilities,SMS,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert library for Julia.
 Utilities,VoIP,Toxcore.jl,https://github.com/SimonDanisch/Toxcore.jl,A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
-Web-Server,FRAMEWORKS,jinnie,https://github.com/essenciary/jinnie,Eclectic web framework running on Julia.
-Web-Server,FRAMEWORKS,Merly.jl,https://github.com/codeneomatrix/Merly.jl,A micro framework for web programming in Julia.
-Web-Server,FRAMEWORKS,mvc-skeleton.jl,https://github.com/halla/mvc-skeleton.jl,
-Web-Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
-Web-Server,FRAMEWORKS,skeleton-webapp.jl,https://bitbucket.org/jocklawrie/skeleton-webapp.jl,This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
-Web-Server,RoR,RoR_julia_eg,https://github.com/Ken-B/RoR_julia_eg,An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
-Web-Server,Org-[OpenFisca](https://github.com/openfisca/),OpenFiscaWebApi.jl,https://github.com/openfisca/OpenFiscaWebApi.jl,A port of OpenFisca-Web-API to Julia. This is the web API for the OpenFisca website.
-Web-Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP,
-Web-Server,Middleware,Mongrel2.jl,https://github.com/aviks/Mongrel2.jl,Mongrel2 handlers in Julia.
-Web-Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use.
-Web-Server,Middleware,ZMQ.jl,https://github.com/JuliaLang/ZMQ.jl,Julia interface to ZeroMQ.
-Web-Server,Middleware,hread on building a [web app for enterprise risk management,https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g,
-Web-Server,NETWORKING,Dates.jl,https://github.com/quinnj/Dates.jl,A Date and DateTime implementation for Julia.
-Web-Server,NETWORKING,IPNets.jl,https://github.com/sbromberger/IPNets.jl,IPv4 / IPv6 network abstractions for Julia.
-Web-Server,NETWORKING,Juliaflow,https://github.com/pchronz/juliaflow,A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
-Web-Server,NETWORKING,LogParser.jl,https://github.com/randyzwitch/LogParser.jl,A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
-Web-Server,NETWORKING,Pcap.jl,https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamm,Libpcap implementation for Julia language.
-Web-Server,NETWORKING,Pcap.jl,https://github.com/r2dbg/Pcap.jl) by @r2db,Libpcap implementation for Julia language.
-Web-Server,NETWORKING,StatsdClient.jl,https://github.com/forio/StatsdClient.jl,A simple Julia implementation of a statsd client.
-Web-Server,NETWORKING,TimeZones.jl,https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language,
-Web-Server,NETWORKING,UUID.jl,https://github.com/forio/UUID.jl,A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
-Web-Server,SECURITY,Etcd.jl,https://github.com/forio/Etcd.jl,A Julia Etcd client implementation.
-Web-Server,SECURITY,MbedTLS,https://github.com/JuliaWeb/MbedTLS.jl,Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
-Web-Server,SECURITY,GnuTLS.jl,https://github.com/JuliaWeb/GnuTLS.jl,Transport Level Security for Julia Streams provided by GnuTLS.
-Web-Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,a basic, non-blocking HTTP server in Julia.
-Web-Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia implementation of OAuth v1.0a.
-Web-Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
-Web-Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
-Web-Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
-Web-Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
-Web-Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
-Web-Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
-Web-Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
-Web-Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.
-Web-Server,WEB,Laurence.jl,https://github.com/mneudert/Laurence.jl,
-Web-Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create and interact with web pages.
-Web-Server,WEB,RestClient.jl,https://github.com/analyzere/RestClient.jl,A simple REST client for Julia.
-Web-Server,WEB,Romeo.jl,https://github.com/mneudert/Romeo.jl,Another HTTP server to log requests, events, responses.
-Web-Server,WEB,WebSocketClient.jl,https://github.com/dandeliondeathray/WebSocketClient.jl,A Julia package for client side WebSockets.
-Web-Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
-Web-Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),LibCURL.jl,https://github.com/JuliaWeb/LibCURL.jl,Thin Julia wrapper of libCURL
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WebSockets.jl,https://github.com/JuliaWeb/WebSockets.jl,A WebSockets server library for Julia.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpCommon.jl,https://github.com/JuliaWeb/HttpCommon.jl,Provides types and helper functions for dealing with the HTTP protocol in Julia.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HTTPClient.jl,https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcur,
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),HttpParser.jl,https://github.com/JuliaWeb/HttpParser.jl,Julia wrapper for Joyent's http-parser.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Meddle.jl,https://github.com/JuliaWeb/Meddle.jl,is the middleware stack for use with HttpServer.jl.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Morsel.jl,https://github.com/JuliaLang/Morsel.jl,A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),Requests.jl,https://github.com/JuliaWeb/Requests.jl,HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URITemplate.jl,https://github.com/JuliaWeb/URITemplate.jl,This package provides URI Template interpolation by implementing (RFC 6570).
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),UAParser.jl,https://github.com/JuliaWeb/UAParser.jl,UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URIParser.jl,https://github.com/JuliaWeb/URIParser.jl,Pure julia URI parser.
-Web-Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WWWClient.jl,https://github.com/JuliaWeb//WWWClient.jl,is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing.
-Web-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaWebRepl.jl,https://github.com/vtjnash/JuliaWebRepl.jl,
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),Blink.jl,https://github.com/JunoLab/Blink.jl,A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),CodeTools.jl,https://github.com/JunoLab/CodeTools.jl,A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),DevTools.jl,https://github.com/JunoLab/DevTools.jl,Dev tools that uses the `Media.jl` display system.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),Hiccup.jl,https://github.com/JunoLab/Hiccup.jl,A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),LNR.jl,https://github.com/JunoLab/LNR.jl,Line numbering reader.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),Media.jl,https://github.com/JunoLab/Media.jl,A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),MethImp.jl,https://github.com/JunoLab/MethImp.jl,Method Importing.
-Web-Server,Org-[JunoLab](https://github.com/JunoLab/),Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
