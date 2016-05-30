@@ -72,6 +72,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [Curl.jl](https://github.com/forio/Curl.jl) :: A Julia HTTP curl library.
 + [Escher.jl](http://escher-jl.org) :: Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
++ [HTTP2.jl](https://github.com/sorpaas/HTTP2.jl) :: A HTTP2 support library for Julia.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
 + [Laurence.jl](https://github.com/mneudert/Laurence.jl)
 + [Pages.jl](https://github.com/EricForgy/Pages.jl) :: A simple way to create and interact with web pages.

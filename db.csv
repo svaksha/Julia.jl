@@ -1488,6 +1488,7 @@ Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and va
 Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
 Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
+Server,WEB,HTTP2.jl,https://github.com/sorpaas/HTTP2.jl,A HTTP2 support library for Julia.
 Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.
 Server,WEB,Laurence.jl,https://github.com/mneudert/Laurence.jl,
 Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create and interact with web pages.

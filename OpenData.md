@@ -15,6 +15,7 @@
    + [DATA-General](#data-general)
    + [DATA-Research](#data-scientific)
    + [DATA-Scientific](#data-scientific)
++ [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
@@ -130,6 +131,11 @@
 
 ## DATA-Scientific
 + [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
+
+----
+
+# Gender Violence
++ https://weaponizedsocial.aspirationtech.org/Data_Analysis
 
 ----
 
