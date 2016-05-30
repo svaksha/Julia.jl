@@ -665,6 +665,7 @@ Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A band
 Hardware,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,API wrapper for Julia, bare bones.
 Hardware,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
 Hardware,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
+Hardware,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
 Hardware,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM.
 Hardware,Architectures,ZenFab.jl,https://github.com/FactoryOS/ZenFab.jl,Software for using digital manufacturing devices.
 Hardware,FTDI,FTD2XX.jl,https://github.com/cstook/FTD2XX.jl,Wrapper for FTDI FTD2XX library.
@@ -2058,6 +2059,7 @@ Utilities,MicrosoftWindows,WAV.jl,https://github.com/dancasimiro/WAV.jl,Julia pa
 Utilities,MicrosoftWindows,Win32GUIDemo.jl,https://github.com/ihnorton/Win32GUIDemo.jl,Call the Windows API with these Win32 GUI examples.
 Utilities,MicrosoftWindows,WinReg.jl,https://github.com/simonbyrne/WinReg.jl, Windows Registry interface for Julia.
 Utilities,MicrosoftWindows,WinUser.jl,https://github.com/JuliaGL/WinUser.jl,wrapper for windows native windowing functions.
+Utilities,MicrosoftWindows,Wine.jl,https://github.com/Keno/Wine.jl,Sniffing the wineserver protocol for fun and profit.
 Utilities,MicrosoftWindows,XCB.jl,https://github.com/JuliaGL/XCB.jl,XCB windowing library wrapper.
 Utilities,IRC,DandelionSlack.jl,https://github.com/dandeliondeathray/DandelionSlack.jl,Slack API in Julia.
 Utilities,IRC,Slackbot.jl,https://github.com/jiahao/Slackbot.jl,A Julia REPL that interacts with Slack.com's webhook integration.
