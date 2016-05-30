@@ -54,6 +54,7 @@
 + [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 + [Painter.jl](https://github.com/andferrari/Painter.jl) :: A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
++ [PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) :: Perceptually Uniform Colour Maps for Julia.
 + [Reel.jl](https://github.com/shashi/Reel.jl) :: Computations caught on camera.
 + [Romeo.jl](https://github.com/SimonDanisch/Romeo.jl) :: 3D visualizations and editing in Julia + OpenGL.
    + A fork maintained for the current Julia-0.4 (master) by @AlainLich : https://github.com/AlainLich/Romeo.jl

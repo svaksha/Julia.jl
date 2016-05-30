@@ -474,6 +474,7 @@ Computer-Graphics,GRAPHICS,OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for O
 Computer-Graphics,GRAPHICS,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
 Computer-Graphics,GRAPHICS,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
 Computer-Graphics,GRAPHICS,Painter.jl,https://github.com/andferrari/Painter.jl,A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
+Computer-Graphics,GRAPHICS,PerceptualColourMaps.jl,https://github.com/peterkovesi/PerceptualColourMaps.jl,Perceptually Uniform Colour Maps for Julia.
 Computer-Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
 Computer-Graphics,GRAPHICS,Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
 Computer-Graphics,GRAPHICS,Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
