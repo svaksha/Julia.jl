@@ -25,6 +25,7 @@
 # Programming Paradigms
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 + [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
++ [ChainMap.jl](https://github.com/bramtayl/ChainMap.jl) :: Combine chaining and mapping.
 + [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
@@ -43,11 +44,13 @@ __Packages and resources that support various programming styles, Software Archi
 + [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
 + [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) :: Functional programming for Julia.
 + [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
++ [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) :: Functional, efficient data manipulation framework.
 + [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
 + [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
 + [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
    * _DOCS_ :: [https://monadsjl.readthedocs.org/](https://monadsjl.readthedocs.org/)
 + [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
++ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 
 ### Grammatical Evolution
 + [Evolution.jl](https://github.com/xenon-/Evolution.jl) :: Evolutionary Computation in Julia.

@@ -190,7 +190,6 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),DeepRe
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FingerTrees.jl,https://github.com/mschauer/FingerTrees.jl,A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Flow.jl,https://github.com/MikeInnes/Flow.jl,DataFlow programming for Julia.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FunctionalCollections.jl,https://github.com/zachallaun/FunctionalCollections.jl,Functional and and persistent data structures for Julia.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),FunctionalData.jl,https://github.com/rened/FunctionalData.jl,Functional, efficient data manipulation framework.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Graphs.jl,https://github.com/JuliaLang/Graphs.jl,a package for working with graph types and algorithms in Julia.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),A project report on using the Graphs.jl package,http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT,
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),GraphLayout.jl,https://github.com/IainNZ/GraphLayout.jl,Graph layout algorithms in pure Julia.
@@ -1248,10 +1247,12 @@ Programming-Paradigms,FunctionalProgramming,FunctionalUtils.jl,https://github.co
 Programming-Paradigms,FunctionalProgramming,Glob.jl,https://github.com/vtjnash/Glob.jl,Posix-compliant file name pattern matching.
 Programming-Paradigms,FunctionalProgramming,Lazy.jl,https://github.com/MikeInnes/Lazy.jl,Functional programming for Julia.
 Programming-Paradigms,FunctionalProgramming,diy-lisp-julia,https://github.com/qhfgva/diy-lisp-julia,A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
+Programming-Paradigms,FunctionalProgramming,FunctionalData.jl,https://github.com/rened/FunctionalData.jl,Functional, efficient data manipulation framework.
 Programming-Paradigms,FunctionalProgramming,LispREPL.jl,https://github.com/swadey/LispREPL.jl,REPL for `Lisp.jl`.
 Programming-Paradigms,FunctionalProgramming,LispSyntax.jl,https://github.com/swadey/LispSyntax.jl,lisp-like language in julia.
 Programming-Paradigms,FunctionalProgramming,Monads.jl,https://github.com/pao/Monads.jl,Monadic expressions and sequences for Julia.
 Programming-Paradigms,FunctionalProgramming,PatternDispatch.jl,https://github.com/toivoh/PatternDispatch.jl,Method dispatch based on pattern matching for Julia.
+Programming-Paradigms,FunctionalProgramming,Pipe.jl,https://github.com/oxinabox/Pipe.jl,Improved function piping in Julia.
 Programming-Paradigms,GrammaticalEvolution,Evolution.jl,https://github.com/xenon-/Evolution.jl,Evolutionary Computation in Julia.
 Programming-Paradigms,GrammaticalEvolution,GrammaticalEvolution,https://github.com/abeschneider/GrammaticalEvolution,An evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
 Programming-Paradigms,Macros,RegexVar.jl,https://github.com/o-jasper/RegexVar.jl,A macro to fill variables straight from the string.
@@ -2022,7 +2023,6 @@ Utilities,Terminal,LibArchive.jl,https://github.com/yuyichao/LibArchive.jl,Wrapp
 Utilities,Terminal,LineEdit.jl,https://github.com/Keno/LineEdit.jl,Julia readline-like library.
 Utilities,Terminal,MetaTools.jl,https://github.com/burrowsa/MetaTools.jl,Handy MetaProgramming whatnots for Julia.
 Utilities,Terminal,NCurses.jl,https://github.com/Keno/NCurses.jl,NCurses bindings for Julia.
-Utilities,Terminal,Pipe.jl,https://github.com/oxinabox/Pipe.jl,Improved function piping in Julia.
 Utilities,Terminal,ProgressMeter.jl,https://github.com/timholy/ProgressMeter.jl,Progress meter for long-running computations.
 Utilities,Terminal,REPL.jl,https://github.com/Keno/REPL.jl,Pure-julia REPL implementation.
 Utilities,Terminal,REPLCompletions.jl,https://github.com/Keno/REPLCompletions.jl,Tab completions for your Julia REPL.

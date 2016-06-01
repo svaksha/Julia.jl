@@ -156,7 +156,6 @@
 + [LineEdit.jl](https://github.com/Keno/LineEdit.jl) :: Julia readline-like library.
 + [MetaTools.jl](https://github.com/burrowsa/MetaTools.jl) :: Handy MetaProgramming whatnots for Julia.
 + [NCurses.jl](https://github.com/Keno/NCurses.jl) :: NCurses bindings for Julia.
-+ [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 + [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) :: Progress meter for long-running computations.
 + [REPL.jl](https://github.com/Keno/REPL.jl) :: Pure-julia REPL implementation.
 + [REPLCompletions.jl](https://github.com/Keno/REPLCompletions.jl) :: Tab completions for your Julia REPL.
