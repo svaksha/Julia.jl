@@ -38,6 +38,7 @@
 + [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) :: Image processing with OpenCL.
 + [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
 + [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
++ [ImageProjectiveGeometry.jl](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) :: Projective geometry for computer vision in Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
