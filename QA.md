@@ -4,7 +4,6 @@
 + [Debugging](#debugging)
 + [Documentation Driven Development](#documentation-driven-development)
 + [LOGGING](#logging)
-+ [SANDBOX](#sandbox)
 + [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
@@ -42,11 +41,6 @@
 
 ----
 
-# SANDBOX
-+ [JDock](https://github.com/amitmurthy/JDock) :: An IJulia sandboxed by Docker containers.
-+ [Playground.jl](https://github.com/Rory-Finnegan/Playground.jl) :: A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
-
-----
 
 # STATIC ANALYSIS
 __Static Program Analysis__

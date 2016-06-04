@@ -12,6 +12,7 @@
    + [Containers-Virtualization](#containers-virtualization)
    + [DistrOS](#distros)
    + [Packaging](#packaging)
+   + [Sandbox](#sandbox)
 + [NEWS](#news)
 
 ----
@@ -51,6 +52,7 @@
 # DEVELOPMENT
 Helper tools for core `julia` language development.
 + [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to reload and test modifications to base without recompiling the full system image.
++ [PkgSearch](https://github.com/essenciary/PkgSearch) :: A Julia REPL utility for package discovery.
 
 ## Security
 + [PkgVerifierPrototype](https://github.com/LachlanGunn/PkgVerifierPrototype) :: Julia package verifier prototype.
@@ -94,8 +96,8 @@ __Pre-compiled Binaries__
 ### Vagrant
 + [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 
-## DistrOS
 
+## DistrOS
 #### Debian-Ubuntu
 + [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
 + [DebbyPacker.jl](https://github.com/UCL/DebbyPacker.jl) :: Set of scripts to easily create debian packages.
@@ -131,6 +133,10 @@ __Pre-compiled Binaries__
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
+
+## Sandbox
++ [JDock](https://github.com/amitmurthy/JDock) :: An IJulia sandboxed by Docker containers.
++ [Playground.jl](https://github.com/Rory-Finnegan/Playground.jl) :: A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
 
 ----
 

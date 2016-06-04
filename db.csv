@@ -160,6 +160,7 @@ Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,
 Algorithms,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
 Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
 Algorithms,Array-Matrix,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
+Algorithms,Array-Matrix,ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
 Algorithms,Array-Matrix,FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
 Algorithms,Array-Matrix,FlexibleArrays.jl,http://eschnett.github.io/FlexibleArrays.jl/,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
 Algorithms,Array-Matrix,FreqTables.jl,https://github.com/nalimilan/FreqTables.jl,Frequency tables in Julia.
@@ -376,6 +377,7 @@ Build-Automation,CONTINUOUSINTEGRATION,TestDocs.jl,https://github.com/simonbyrne
 Build-Automation,Org-[Julia-CI](https://github.com/julia-ci),TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 Build-Automation,Git-Hooks,julia-helper,https://github.com/jiahao/julia-helper,Scripts to help Julia developers.
 Build-Automation,DEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
+Build-Automation,DEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
 Build-Automation,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/PkgVerifierPrototype,Julia package verifier prototype.
 Build-Automation,Binaries,BinDeps.jl,https://github.com/JuliaLang/BinDeps.jl,Tool for building binary dependencies for Julia modules.
 Build-Automation,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
@@ -417,6 +419,8 @@ Build-Automation,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/Package
 Build-Automation,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
 Build-Automation,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
 Build-Automation,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
+Build-Automation,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
+Build-Automation,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
 Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/),
 Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
 Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
@@ -457,6 +461,7 @@ Computer-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.j
 Computer-Graphics,GRAPHICS,ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
 Computer-Graphics,GRAPHICS,ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
 Computer-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
+Computer-Graphics,GRAPHICS,ImageProjectiveGeometry.jl,https://github.com/peterkovesi/ImageProjectiveGeometry.jl,Projective geometry for computer vision in Julia.
 Computer-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
 Computer-Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
 Computer-Graphics,GRAPHICS,ImplicitEquations.jl,https://github.com/jverzani/ImplicitEquations.jl,Julia package to facilitate graphing of implicit equations and inequalities.
@@ -1237,6 +1242,7 @@ Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),IniFile.jl,h
 Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
 Programming-Paradigms,ProgrammingParadigms,BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
+Programming-Paradigms,ProgrammingParadigms,ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.
 Programming-Paradigms,ProgrammingParadigms,InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,Intervals are inter-values, an interval is its values and their intra-values.
 Programming-Paradigms,ProgrammingParadigms,LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,Mathematics, Compilers, Functional Programming, and other papers.
@@ -1295,8 +1301,6 @@ QA,LOGGING,Logging.jl,https://github.com/kmsquire/Logging.jl,The Logging module.
 QA,LOGGING,LogMover.jl,https://github.com/nkottary/LogMover.jl,
 QA,LOGGING,Lumberjack.jl,https://github.com/forio/Lumberjack.jl,A logging library by Westley Hennigh.
 QA,LOGGING,Stage.jl,https://github.com/saltpork/Stage.jl,has stage macros, checkpoints and loggers for Julia.
-QA,SANDBOX,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
-QA,SANDBOX,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
 QA,STATICANALYSIS,Lint.jl,https://github.com/tonyhffong/Lint.jl,A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
 QA,STATICANALYSIS,Quantity.jl,https://github.com/rephorm/Quantity.jl,Numbers with units.
 QA,STATICANALYSIS,StackTraces.jl,https://github.com/invenia/StackTraces.jl,Intuitive, useful stack traces for Julia.
@@ -1457,7 +1461,7 @@ Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/wat
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
 Resources,VIDEOS,2015-JuliaCon Videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM,
 Resources,VIDEOS,lides for the [Optimization,http://iaindunning.com/talks/JuliaCon15JuliaOpt.pdf) talk,
-Server,FRAMEWORKS,jinnie,https://github.com/essenciary/jinnie,Eclectic web framework running on Julia.
+Server,FRAMEWORKS,genie,https://github.com/essenciary/genie,Eclectic web framework running on Julia.
 Server,FRAMEWORKS,Merly.jl,https://github.com/codeneomatrix/Merly.jl,A micro framework for web programming in Julia.
 Server,FRAMEWORKS,mvc-skeleton.jl,https://github.com/halla/mvc-skeleton.jl,
 Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
