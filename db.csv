@@ -1806,6 +1806,7 @@ Statistics,Gaussian,GaussianProcesses.jl,https://github.com/johnmyleswhite/Gauss
 Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
 Statistics,Gaussian,NaiveBayes.jl,https://github.com/johnmyleswhite/NaiveBayes.jl,The Gaussian Naive Bayes model in Julia.
 Statistics,Gaussian,Schauder.jl,https://github.com/mschauer/Schauder.jl,A graphical perspective on Gauss-Markov process priors and fast sparse Cholesky for hierarchically structured (generalized arrow) matrices.
+Statistics,[Models](https://en.wikipedia.org/wiki/Category:Model_selection),Mads.jl,https://github.com/madsjulia/Mads.jl,Model Analysis & Decision Support. https://madsjulia.lanl.gov
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,Augur.jl,https://github.com/AugurProject/Augur.jl,Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,Church.jl,https://github.com/LaurenceA/Church.jl,Perform MCMC inference in complex, and simple, probabilistic models.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,ClusterUtils.jl,https://github.com/pearcemc/ClusterUtils.jl,Message passing, control and display utilities for parallel and distributed computing.

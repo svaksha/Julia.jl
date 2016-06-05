@@ -1,4 +1,4 @@
-**[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures) : Data Mining, Clustering, ...**
+__[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures) : Data Mining, Clustering, ...__
 
 + [ALGORITHMS](#algorithms)
    + [Association Rule](#association-rule)

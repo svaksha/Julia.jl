@@ -17,6 +17,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
       + [Probabilistic Programming](#probabilistic-programming)
    + [Bayesian](#bayesian)
    + [Gaussian](#gaussian)
+   + [Models](#models)
    + [Monte Carlo Method](#monte-carlo-method)
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
@@ -347,7 +348,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia. 
 + [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
-
 ## Gaussian
 + [GP.jl](https://github.com/pschulam/GP.jl) :: Gaussian processes in Julia.
 + [GaussianMixtures.jl](https://github.com/davidavdav/GaussianMixtures.jl) :: Julia modules for Gaussian Mixture Models.
@@ -356,6 +356,9 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [GaussianProcesses.jl](https://github.com/STOR-i/GaussianProcesses.jl) :: A Julia package for Gaussian Processes.
 + [NaiveBayes.jl](https://github.com/johnmyleswhite/NaiveBayes.jl) :: The Gaussian Naive Bayes model in Julia.
 + [Schauder.jl](https://github.com/mschauer/Schauder.jl) :: A graphical perspective on Gauss-Markov process priors and fast sparse Cholesky for hierarchically structured (generalized arrow) matrices.
+
+## [Models](https://en.wikipedia.org/wiki/Category:Model_selection)
++ [Mads.jl](https://github.com/madsjulia/Mads.jl) :: Model Analysis & Decision Support. https://madsjulia.lanl.gov
 
 ## [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Method
 + [Augur.jl](https://github.com/AugurProject/Augur.jl) :: Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm.
