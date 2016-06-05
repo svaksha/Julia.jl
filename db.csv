@@ -1595,6 +1595,7 @@ Statistics,Resources,log : [Julia introduction by Sébastien Villemot,http://eco
 Statistics,DATASCIENCE,DataScienceBestPractices,https://github.com/AllenDowney/DataScienceBestPractices,Supporting code for a video series on best practices for exploratory data analysis.
 Statistics,OPERATIONSRESEARCH,CGRASP.jl,https://github.com/tautologico/CGRASP.jl,Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia.
 Statistics,OPERATIONSRESEARCH,CSDP.jl,https://github.com/joehuchette/CSDP.jl,Julia wrapper for the CSDP semidefinite programming solver.
+Statistics,OPERATIONSRESEARCH,ConstraintProgramming.jl,https://github.com/dpsanders/ConstraintProgramming.jl, Calculates the feasible region for a set of real-valued inequalities with Julia.
 Statistics,OPERATIONSRESEARCH,CutPools.jl,https://github.com/joehuchette/CutPools.jl,Pools of cutting planes for JuMP models.
 Statistics,OPERATIONSRESEARCH,jlSimplex,https://github.com/mlubin/jlSimplex,Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
 Statistics,OPERATIONSRESEARCH,jobshop,https://github.com/stefan-k/jobshop,The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.

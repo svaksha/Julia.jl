@@ -98,6 +98,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 # OPERATIONS RESEARCH
 + [CGRASP.jl](https://github.com/tautologico/CGRASP.jl) :: Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia.
 + [CSDP.jl](https://github.com/joehuchette/CSDP.jl) :: Julia wrapper for the CSDP semidefinite programming solver.
++ [ConstraintProgramming.jl](https://github.com/dpsanders/ConstraintProgramming.jl) ::  Calculates the feasible region for a set of real-valued inequalities with Julia.
 + [CutPools.jl](https://github.com/joehuchette/CutPools.jl) :: Pools of cutting planes for JuMP models.
 + [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
 + [jobshop](https://github.com/stefan-k/jobshop) :: The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
