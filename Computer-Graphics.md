@@ -98,7 +98,8 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [CData.jl](https://github.com/ma-laforge/CData.jl) :: C-Data Analysis/Visualization Suite.
 + [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl.
 + [Displaz.jl](https://github.com/c42f/Displaz.jl) :: Julia bindings for [displaz](http://c42f.github.io/displaz), a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
-+ [ECharts.jl](https://github.com/wlbksy/ECharts.jl) :: Julia package for [ECharts](https://github.com/ecomfe/echarts)
++ [ECharts.jl](https://github.com/wlbksy/ECharts.jl) by @wlbksy :: Julia package for [ECharts](https://github.com/ecomfe/echarts)
++ [ECharts.jl](https://github.com/randyzwitch/ECharts.jl) by @randyzwitch :: Julia package for the ECharts visualization library.
 + [GainPatterns.jl](https://github.com/dressel/GainPatterns.jl) :: This package allows manipulation of gain patterns. A gain pattern is a collection of gains (or strengths) versus angle. If you have a vector of angles, and a vector of gains taken at these angles, you can create a GainPattern, then create publication-ready plots of these gain patterns using PGF with the GainPatternsTex.jl package.
 + [GainPatternsTex.jl](https://github.com/dressel/GainPatternsTex.jl) :: Plotting gain patterns.
 + [GL.jl](https://github.com/jayschwa/GL.jl) :: Experimental OpenGL bindings for Julia.
