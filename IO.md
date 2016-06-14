@@ -68,6 +68,7 @@
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 + [LightXML.jl](https://github.com/JuliaIO/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 + [SpimRegXML.jl](https://github.com/bhoeckendorf/SpimRegXML.jl).
++ [XML.jl](https://github.com/amitmurthy/XML.jl) :: A `libXML2` wrapper for Julia language.
 + [XMLconvert.jl](https://github.com/bcbi/XMLconvert.jl) ::  Functions for converting XML documents to other formats.
 + [XMLDict.jl](https://github.com/samoconnor/XMLDict.jl) :: This package implements a simple Associative interface for XML documents.
 + [XMLRPC.jl](https://github.com/sjkelly/XMLRPC.jl) :: Send and recieve XML-RPCs with Julia.

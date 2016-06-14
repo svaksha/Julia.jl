@@ -777,7 +777,9 @@ IO,DataFormats,XSV.jl,https://github.com/benhamner/XSV.jl,CSV, TSV, etc. streami
 IO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 IO,XML,LightXML.jl,https://github.com/JuliaIO/LightXML.jl,A light-weight Julia package for XML based on libxml2.
 IO,XML,SpimRegXML.jl,https://github.com/bhoeckendorf/SpimRegXML.jl),
+IO,XML,XML.jl,https://github.com/amitmurthy/XML.jl,A `libXML2` wrapper for Julia language.
 IO,XML,XMLconvert.jl,https://github.com/bcbi/XMLconvert.jl, Functions for converting XML documents to other formats.
+IO,XML,XMLDict.jl,https://github.com/samoconnor/XMLDict.jl,This package implements a simple Associative interface for XML documents.
 IO,XML,XMLRPC.jl,https://github.com/sjkelly/XMLRPC.jl,Send and recieve XML-RPCs with Julia.
 IO,XML,XmlToDict.jl,https://github.com/elcritch/XmlToDict.jl, Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
