@@ -9,7 +9,6 @@
    + [Erlang](#erlang)
    + [Fortran](#fortran)
    + [Go](#go)
-   + [HTML-XML](#html-xml)
    + [Java](#java)
    + [JavaScript](#javascript)
    + [MATLAB](#matlab)
@@ -76,8 +75,6 @@ Wrappers's and programming API's for other languages and general backend server 
 ## Go
 + [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) :: Support for writing bundle commands for the Go programming language in Julia.
 
-## HTML-XML
-+ [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
 
 ## Java 
 + [JavaCall.jl](http://aviks.github.io/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
