@@ -756,7 +756,6 @@ IO,DataFormats,JLD2,https://github.com/simonster/JLD2,next-generation successor 
 IO,DataFormats,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
 IO,DataFormats,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
 IO,DataFormats,LibExpat.jl,https://github.com/amitmurthy/LibExpat.jl,A Julia wrapper for libexpat.
-IO,DataFormats,LightXML.jl,https://github.com/JuliaIO/LightXML.jl,A light-weight Julia package for XML based on libxml2.
 IO,DataFormats,MachO.jl,https://github.com/Keno/MachO.jl,An implementation of the MachO file format.
 IO,DataFormats,MNIST.jl,https://github.com/johnmyleswhite/MNIST.jl,Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory.
 IO,DataFormats,NeuralynxNCS.jl,https://github.com/simonster/NeuralynxNCS.jl,A Julia module for reading Neuralynx NCS files.
@@ -775,6 +774,8 @@ IO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo 
 IO,DataFormats,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
 IO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 IO,DataFormats,XSV.jl,https://github.com/benhamner/XSV.jl,CSV, TSV, etc. streaming and batch parser.
+IO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
+IO,XML,LightXML.jl,https://github.com/JuliaIO/LightXML.jl,A light-weight Julia package for XML based on libxml2.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
@@ -1657,6 +1658,7 @@ Statistics,Optimization,SCIP.jl,https://github.com/mlubin/SCIP.jl) by @mlubi,An 
 Statistics,Optimization,SCIP.jl,https://github.com/ryanjoneil/SCIP.jl) by @ryanjonei,A Julia interface to the SCIP solver.
 Statistics,Optimization,SCS.jl,https://github.com/karanveerm/SCS.jl,Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
 Statistics,Optimization,simplex.jl,https://github.com/davidagold/simplex.jl,Practice project program that performs the simplex algorithm.
+Statistics,Optimization,VinDsl.jl,https://github.com/jmxpearson/VinDsl.jl,A fast and furious domain-specific language for variational inference in Julia.
 Statistics,Optimization,Xpress.jl,https://github.com/joaquimg/Xpress.jl,A package under development according to the FICO optimizer manual.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),CGP.jl,https://github.com/glesica/CGP.jl,Cartesian Genetic Programming (CGP) implemented in Julia.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
