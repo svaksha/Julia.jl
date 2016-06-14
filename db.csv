@@ -776,6 +776,7 @@ IO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS
 IO,DataFormats,XSV.jl,https://github.com/benhamner/XSV.jl,CSV, TSV, etc. streaming and batch parser.
 IO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 IO,XML,LightXML.jl,https://github.com/JuliaIO/LightXML.jl,A light-weight Julia package for XML based on libxml2.
+IO,XML,XMLRPC.jl,https://github.com/sjkelly/XMLRPC.jl,Send and recieve XML-RPCs with Julia.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.

@@ -1,6 +1,7 @@
 + [Binary IO](#binary-io)
 + [General IO](#general-io)
 + [Data Formats](#data-formats)
+    + [XML](#xml)
 + [Data Types](#data-types)
 + [Image Formats](#image-formats)
 
@@ -66,6 +67,7 @@
 ### XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 + [LightXML.jl](https://github.com/JuliaIO/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
++ [XMLRPC.jl](https://github.com/sjkelly/XMLRPC.jl) :: Send and recieve XML-RPCs with Julia.
 
 ----
 
