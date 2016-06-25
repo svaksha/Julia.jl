@@ -139,6 +139,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 ## [Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
 + [ArrayFire.jl](https://github.com/hshindo/ArrayFire.jl) by @hshindo :: Julia bindings for ArrayFire.
 + [ArrayFire.jl](https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputing :: Julia Wrapper for the ArrayFire library.
++ [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) :: A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
 + [MT-Workloads](https://github.com/ranjanan/MT-Workloads) :: Multi-threaded workloads in Julia.
 
 ### [SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing) 

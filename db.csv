@@ -130,7 +130,6 @@ Algorithms,AssociationRule,ARules.jl,https://github.com/toddleo/ARules.jl,Julia 
 Algorithms,Checksum,CRC.jl,https://github.com/andrewcooke/CRC.jl,This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 Algorithms,Checksum,CRC32.jl,https://github.com/fhs/CRC32.jl,32-bit cyclic redundancy check (CRC-32) checksum implementation.
 Algorithms,CollaborativeFiltering,RecSys.jl,https://github.com/abhijithch/RecSys.jl,An implementation of the algorithm from Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008.
-Algorithms,[SchedulingAlgorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms),ComputeFramework.jl,https://github.com/shashi/ComputeFramework.jl,Hierarchical Scheduling of DAG Structured Computations.
 Algorithms,[SchedulingAlgorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms),HClust.jl,https://github.com/davidavdav/HClust.jl,Hierarchical Clustering for Julia, similar to R's hclust().
 Algorithms,Quantum,AdiaRoll.jl,https://github.com/Roger-luo/AdiaRoll.jl,An Adiabatic Computation Simulator for quantum computation.
 Algorithms,Quantum,Hadamard.jl,https://github.com/stevengj/Hadamard.jl,Fast multidimensional Walsh-Hadamard transforms.
@@ -160,6 +159,7 @@ Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,
 Algorithms,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
 Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
 Algorithms,Array-Matrix,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
+Algorithms,Array-Matrix,CategoricalArrays.jl,https://github.com/nalimilan/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
 Algorithms,Array-Matrix,ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
 Algorithms,Array-Matrix,FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
 Algorithms,Array-Matrix,FlexibleArrays.jl,http://eschnett.github.io/FlexibleArrays.jl/,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
@@ -633,6 +633,7 @@ DataBase,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http
 Earth-Science,AERONAUTICS,Rotations.jl,https://github.com/ronisbr/Rotations.jl,Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
 Earth-Science,AERONAUTICS,Quaternions.jl,https://github.com/forio/Quaternions.jl,A Julia module with quaternion and dual-quaternion functionality.
 Earth-Science,[ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology),EcologicalNetwork.jl,https://github.com/PoisotLab/EcologicalNetwork.jl,Measure various aspects of the structure of ecological networks in Julia.
+Earth-Science,[ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology),fund.jl,https://github.com/davidanthoff/fund.jl,An implementation of FUND in Julia.
 Earth-Science,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[ForestModelling](https://en.wikipedia.org/wiki/Category:Forest_modelling),LeafAreaIndex.jl,https://github.com/ETC-UA/LeafAreaIndex.jl,Package to calculate Leaf Area Index from Hemisperical Images.
 Earth-Science,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[ForestModelling](https://en.wikipedia.org/wiki/Category:Forest_modelling),LAIscript,https://github.com/ETC-UA/LAIscript,scripts to automatically run LAI calculations with ODBC link to custom database.
 Earth-Science,AquaticEcology,Iceberg.jl,https://github.com/njwilson23/Iceberg.jl,Ice-seawater interface calculations using level set methods.
@@ -1934,6 +1935,7 @@ Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Pers
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MT-Workloads,https://github.com/ranjanan/MT-Workloads,Multi-threaded workloads in Julia.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
