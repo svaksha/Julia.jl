@@ -2,37 +2,38 @@
 NB: Many packages may not be regularly updated to work with Julia nightlies or the currently released stable version of Julia.
 
 + [CRYPTOGRAPHY](#cryptography)
-   + [Cryptocurrency](#cryptocurrency)
+    + [Cryptocurrency](#cryptocurrency)
 + [MATH](#math)
-   + [Computer Arithmetic](#computer-arithmetic)
-      + [Floating Point](#floating-point)
+    + [Computer Arithmetic](#computer-arithmetic)
+        + [Floating Point](#floating-point)
+    + [Modelling](#modelling)
 + [ALGEBRA](#algebra)
-   + [Abstract Algebra](#abstract-algebra)
-   + [Boolean Algebra](#boolean-algebra)
-   + [Linear Algebra](#linear-algebra)
-   + [Orthogonal Polynomials](#orthogonal-polynomials) 
-   + [Symbolic Computation](#symbolic-computation)
+    + [Abstract Algebra](#abstract-algebra)
+    + [Boolean Algebra](#boolean-algebra)
+    + [Linear Algebra](#linear-algebra)
+    + [Orthogonal Polynomials](#orthogonal-polynomials) 
+    + [Symbolic Computation](#symbolic-computation)
 + [Calculus & Applied Math](#calculus-&-applied-math)
-   + [DSP](#dsp)
-      + [Org-JuliaDSP](#org-juliadsp)
-      + [FFT](#fft) 
-   + [Functions](#functions)
-      + [Ordinary Differential Equation](#ordinary-differential-equation)
-         + [Org-JuliaLang](#org-julialang)
-         + [Org-JuliaDiff](#org-juliadiff)
-      + [General Differential Equations](#general-differential-equations)
-      + [Special Functions](#special-functions)
+    + [DSP](#dsp)
+        + [Org-JuliaDSP](#org-juliadsp)
+        + [FFT](#fft) 
+    + [Functions](#functions)
+        + [Ordinary Differential Equation](#ordinary-differential-equation)
+            + [Org-JuliaLang](#org-julialang)
+            + [Org-JuliaDiff](#org-juliadiff)
+        + [General Differential Equations](#general-differential-equations)
+        + [Special Functions](#special-functions)
 + [Discrete Math](#discrete-math)
 + [Geometry](#geometry)
-   + [Algebraic Geometry](#algebraic-geometry)
-   + [Computational Geometry](#computational-geometry)
-   + [Solid Geometry](#solid-geometry)
+    + [Algebraic Geometry](#algebraic-geometry)
+    + [Computational Geometry](#computational-geometry)
+    + [Solid Geometry](#solid-geometry)
 + [Numerical Analysis](#numerical-analysis)
-   + [Linear Algebra](#linear-algebra)
+    + [Linear Algebra](#linear-algebra)
         + [Matrix Theory](#matrix-theory)
             + [Sparse Matrices](#sparse-matrices) 
-   + [Mathematical Analysis](#mathematical-analysis)
-   + [Numerical Linear Algebra](#numerical-linear-algebra)
+    + [Mathematical Analysis](#mathematical-analysis)
+    + [Numerical Linear Algebra](#numerical-linear-algebra)
         + [Org-JuliaFEM](#org-juliafem)
 + [PUZZLES](#puzzles)
 
@@ -129,6 +130,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ###### Resources
 + [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
+
+## Modelling
++ [OptiMimi.jl](https://github.com/jrising/OptiMimi.jl) :: Optimization for the `Mimi.jl` modeling framework.
 
 ----
 

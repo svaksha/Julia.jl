@@ -923,6 +923,7 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),UnumX.jl,https://github.com/JuliaComputing/UnumX.jl,Experimental Unums.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ValidatedNumerics.jl,https://github.com/dpsanders/ValidatedNumerics.jl,Rigorous floating-point calculations via interval arithmetic.
 Mathematics,Resources,Elementary Number Theory,https://github.com/williamstein/ent,Primes, Congruences, and Secrets.
+Mathematics,Modelling,OptiMimi.jl,https://github.com/jrising/OptiMimi.jl,Optimization for the `Mimi.jl` modeling framework.
 Mathematics,ALGEBRA,algebra,https://github.com/alrahimi/algebra/,A hierarchy of abstract algebraic structures in Julia.
 Mathematics,ALGEBRA,AMVW.jl,https://github.com/andreasnoackjensen/AMVW.jl,Fast and backward stable computation of roots of polynomials in Julia
 Mathematics,ALGEBRA,CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
