@@ -114,6 +114,7 @@
 + [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
 + [MUtils.jl](https://github.com/amitmurthy/MUtils.jl) :: channels(), tspaces(), kvspaces() and more.
 + [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) :: Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM).
++ [ResultTypes.jl](https://github.com/iamed2/ResultTypes.jl) ::  A Result type for Julia—it's like Nullables for Exceptions.
 + [ReTerms.jl](https://github.com/dmbates/ReTerms.jl) :: Package providing abstract random-effects terms and specific types.
 + [Ratios.jl](https://github.com/timholy/Ratios.jl) :: Faster Rational-like types for Julia.
 + [RDF.jl](https://github.com/JuliaPackageMirrors/RDF.jl) :: RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl) 
