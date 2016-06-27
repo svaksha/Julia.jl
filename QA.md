@@ -10,6 +10,7 @@
 ----
 
 # [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
++ [Digger.jl](https://github.com/MikeInnes/Digger.jl) :: Digger is a fuzz tester designed to fish bugs out of Dagger.jl
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
 
 ----

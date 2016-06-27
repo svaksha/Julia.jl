@@ -1303,6 +1303,7 @@ Publications,RESEARCHPAPERS,hah, Viral B., et al. _[Novel Algebras for Advanced 
 Publications,RESEARCHPAPERS,ezanson Jeff, et al. _[Julia: A fresh approach to numerical computing,http://arxiv.org/abs/1411.1607)_, 07-November-2014,
 Publications,OpenPortals,016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing,https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_,
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
+QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,https://github.com/MikeInnes/Digger.jl,Digger is a fuzz tester designed to fish bugs out of Dagger.jl
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
