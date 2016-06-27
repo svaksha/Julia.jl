@@ -132,6 +132,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
 
 ## Modelling
++ [Mimi.jl](https://github.com/anthofflab/Mimi.jl) :: Integrated Assessment Modeling Framework.
 + [OptiMimi.jl](https://github.com/jrising/OptiMimi.jl) :: Optimization for the `Mimi.jl` modeling framework.
 
 ----
