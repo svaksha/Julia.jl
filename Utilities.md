@@ -172,6 +172,7 @@
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
 + [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
 + [GZip.jl](https://github.com/JuliaLang/GZip.jl) :: A Julia interface for gzip functions in zlib.
++ [InfoZIP.jl](https://github.com/samoconnor/InfoZIP.jl) :: ZIP Archive Interface. Wrapper for Info-ZIP (and ZipFile.jl).
 + [Libz.jl](https://github.com/BioJulia/Libz.jl) :: Yet another zlib interface for Julia.
 + [Snappy.jl](https://github.com/bicycle1885/Snappy.jl) :: A Julia wrapper for the snappy library - a compression/decompression library focusing on speed.
 + [ZipFile.jl](https://github.com/fhs/ZipFile.jl) :: Read/Write ZIP archives in Julia.
