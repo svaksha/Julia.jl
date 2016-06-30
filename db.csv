@@ -175,6 +175,7 @@ Algorithms,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely 
 Algorithms,Array-Matrix,SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
 Algorithms,Array-Matrix,StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Algorithms,Array-Matrix,SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
+Algorithms,Array-Matrix,SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
 Algorithms,Array-Matrix,TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 Algorithms,Array-Matrix,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
 Algorithms,Array-Matrix,WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
@@ -848,6 +849,7 @@ IO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image fil
 IO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 Mathematics,CRYPTOGRAPHY,BlockCipherSelfStudy.jl,https://github.com/andrewcooke/BlockCipherSelfStudy.jl,Blocks, and RC5.
 Mathematics,CRYPTOGRAPHY,Crypto.jl,https://github.com/danielsuo/Crypto.jl,A library that wraps OpenSSL, but also has pure Julia implementations for reference.
+Mathematics,CRYPTOGRAPHY,FNVHash.jl,https://github.com/samoconnor/FNVHash.jl,FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion.
 Mathematics,CRYPTOGRAPHY,Hashlib.jl,https://github.com/samgre/Hashlib.jl,SHA1 implementation for Julia.
 Mathematics,CRYPTOGRAPHY,MbedTLS.jl,https://github.com/malmaud/MbedTLS.jl,Wrapper around mbedtls.
 Mathematics,CRYPTOGRAPHY,Nettle.jl,https://github.com/staticfloat/Nettle.jl,is a simple wrapper around libnettle, a cryptographic library.
@@ -1916,6 +1918,7 @@ Super-Computing,Time,CPUTime.jl,https://github.com/schmrlng/CPUTime.jl,Amodule f
 Super-Computing,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A Julia package for measuring elapsed user time.
 Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSCore.jl,https://github.com/samoconnor/AWSCore.jl,Amazon Web Services Core Functions and Types.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
@@ -2062,6 +2065,7 @@ Utilities,Terminal,VT100.jl,https://github.com/Keno/VT100.jl,Terminal Emulation 
 Utilities,FileCompression,Blosc.jl,https://github.com/stevengj/Blosc.jl,The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
 Utilities,FileCompression,gzip.jl,https://github.com/jvns/gzip.jl,GunZip in Julia.
 Utilities,FileCompression,GZip.jl,https://github.com/JuliaLang/GZip.jl,A Julia interface for gzip functions in zlib.
+Utilities,FileCompression,InfoZIP.jl,https://github.com/samoconnor/InfoZIP.jl,ZIP Archive Interface. Wrapper for Info-ZIP (and ZipFile.jl).
 Utilities,FileCompression,Libz.jl,https://github.com/BioJulia/Libz.jl,Yet another zlib interface for Julia.
 Utilities,FileCompression,Snappy.jl,https://github.com/bicycle1885/Snappy.jl,A Julia wrapper for the snappy library - a compression/decompression library focusing on speed.
 Utilities,FileCompression,ZipFile.jl,https://github.com/fhs/ZipFile.jl,Read/Write ZIP archives in Julia.
