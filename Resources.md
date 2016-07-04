@@ -324,6 +324,7 @@ __Local meetup groups located in the various continents around the world.__
 ----
 
 # VIDEOS
++ John Myles White: [Julia’s Approach to Open Source Machine Learning](http://k4webcast.mediasite.com/Mediasite/Play/2529ebcb20794942874d5c277c5dcc981d).
 + PyData-NYC2014 [Julia + Python = ♥](https://www.youtube.com/watch?v=PsjANO10KgM) talk by Stefan Karpinski.
 + A video of [Spencer Lyon's talk on Julia](https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup.
 + [2015-JuliaCon Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM)
