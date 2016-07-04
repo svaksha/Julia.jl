@@ -74,6 +74,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Hecke.jl](https://github.com/thofma/Hecke.jl).
 + [Hexagons.jl](https://github.com/dcjones/Hexagons.jl) :: Useful tools for working with hexagonal grids.
 + [MathToolkit.jl](https://github.com/baruchel/MathToolkit.jl) :: A Julia package providing various functions mainly for the purpose of experimental mathematics. 
++ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error
+  propagation calculator and library. It supports real and complex numbers with
+  uncertainty, arbitrary precision calculations, and operations with arrays.
 + [Measures.jl](https://github.com/dcjones/Measures.jl) :: Unified measure and coordinates types.
 + [MPFR.jl](https://github.com/andrioni/MPFR.jl) :: A Julia package for the GNU MPFR library.
 + [Multicombinations.jl](https://github.com/jlep/Multicombinations.jl) :: An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
@@ -135,6 +138,9 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Mods.jl](https://github.com/scheinerman/Mods.jl) :: Easy modular arithmetic for Julia.
 + [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
 + [Nemo.jl](http://nemocas.org/) :: A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
++ [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast
+  complex polynomial root finder, with support for arbitrary precision
+  calculations
 + [QNaN.jl](https://github.com/J-Sarnoff/QNaN.jl) :: Quiet NaNs were designed to propagate information from within numerical computations.
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
@@ -167,6 +173,9 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [ad4julia](https://github.com/bsxfan/ad4julia) :: Some automatic diffferentiation coding experiments in Julia. 
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
++ [Cuba.jl](https://github.com/giordano/Cuba.jl) :: Library for multidimensional
+  numerical integration with four independent algorithms: Vegas, Suave, Divonne,
+  and Cuhre.
 + [FDM.jl](https://github.com/grasingerm/FDM.jl) :: Finite difference methods in Julia.
 + [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.

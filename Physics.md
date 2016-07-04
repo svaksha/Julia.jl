@@ -20,6 +20,9 @@
 + [JuliaPower](https://github.com/prezaei85/JuliaPower) :: A package of scripts in Julia to solve power flow and simulate cascading failures in power systems.
 + [LambertW.jl](https://github.com/robertdj/LambertW.jl) :: Lambert's W function in Julia.
 + [Mass.jl](https://github.com/ggggggggg/Mass.jl) :: An experimental frameworks for TES pulse analysis.
++ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error
+  propagation calculator and library. It supports real and complex numbers with
+  uncertainty, arbitrary precision calculations, and operations with arrays.
 + [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 + [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) :: Dimensions and Quantities.
 + [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
