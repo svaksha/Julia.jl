@@ -15,7 +15,7 @@ __Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_
 
 # AstroLibs
 + [Astro.jl](https://github.com/cormullion/Astro.jl) :: Jan Meeus astronomical formulas and some time/date code in Julia.
-+ [AstroLib.jl](https://github.com/giordano/AstroLib.jl) :: Bundle of small
++ [AstroLib.jl](https://github.com/JuliaAstro/AstroLib.jl) :: Bundle of small
   astronomical and astrophysical routines, based on IDL Astronomy User's Library
   (AstroLib).
 + [Astrodynamics.jl](https://github.com/helgee/Astrodynamics.jl) :: An astrodynamics library in Julia.
