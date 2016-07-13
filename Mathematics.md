@@ -326,10 +326,12 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
++ [JointMoments.jl](https://github.com/tinybike/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 + [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 
 + [Tensors.jl](https://github.com/pgawron/Tensors.jl) :: Julia package for tensor decompositions.
 + [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) :: Julia package for tensor contractions and related operations.
+
 
 ## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
 + [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.

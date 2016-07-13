@@ -253,7 +253,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects.
 + [Hotspot.jl](https://github.com/jzelner/Hotspot.jl) :: Hotspot modeling.
 + [HyperLogLog.jl](https://github.com/johnmyleswhite/HyperLogLog.jl) :: A simple HyperLogLog implementation in Julia.
-+ [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) :: T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 + [Isotonic.jl](https://github.com/ajtulloch/Isotonic.jl) :: This implements several algorithms for isotonic regression in Julia.
    + @ajtulloch's blog on [speeding up Isotonic Regression with Julia](http://tullo.ch/articles/python-vs-julia/) and the [IJulia notebook](http://nbviewer.ipython.org/url/gist.githubusercontent.com/ajtulloch/9485996/raw/94b3d0e6bd67256f1f02eebb1463365dbc8b64fc/Julia.ipynb)
 + [ITC.jl](https://github.com/johnmyleswhite/ITC.jl) :: Code for modeling intertemporal choice in Julia.
@@ -308,8 +307,10 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Distributions.jl](http://juliastats.github.io/Distributions.jl/index.html) :: The Distributions package.
    * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
 + [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM's) and generalized linear models (GLM's) in Julia.
++ [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) :: T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 + [MLBase.jl](https://github.com/JuliaStats/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
 + [PGM.jl](https://github.com/JuliaStats/PGM.jl) :: A Julia framework for probabilistic graphical models.
++ [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 + [RmathDist.jl](https://github.com/JuliaStats/RmathDist.jl) :: This package provides a julia interface to the distributions provided by the standalone Rmath library, which is part of the R project for statistical computing.
 + [Sampling.jl](https://github.com/JuliaStats/Sampling.jl) :: Basic sampling algorithms package, that provides algorithmic support to statistics-related packages, including [Distributions.jl](https://github.com/JuliaStats/Distributions.jl).
 + [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) :: The Stats meta-package for basic statistics functions for Julia.

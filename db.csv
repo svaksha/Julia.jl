@@ -1056,6 +1056,7 @@ Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.j
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),JointMoments.jl,https://github.com/tinybike/JointMoments.jl,Tensors and statistics for joint central moments.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),mbr.jl,https://github.com/intdxdt/mbr.jl,axis aligned minimum bounding box.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tau.jl,https://github.com/Aerlinger/Tau.jl,A simple module providing definition of the Tau constant.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tensors.jl,https://github.com/pgawron/Tensors.jl,Julia package for tensor decompositions.
@@ -1749,7 +1750,6 @@ Statistics,STATISTICS,FeldtLib.jl,https://github.com/robertfeldt/FeldtLib.jl,Com
 Statistics,STATISTICS,FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
 Statistics,STATISTICS,Hotspot.jl,https://github.com/jzelner/Hotspot.jl,Hotspot modeling.
 Statistics,STATISTICS,HyperLogLog.jl,https://github.com/johnmyleswhite/HyperLogLog.jl,A simple HyperLogLog implementation in Julia.
-Statistics,STATISTICS,HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 Statistics,STATISTICS,Isotonic.jl,https://github.com/ajtulloch/Isotonic.jl,This implements several algorithms for isotonic regression in Julia.
 Statistics,STATISTICS,ITC.jl,https://github.com/johnmyleswhite/ITC.jl,Code for modeling intertemporal choice in Julia.
 Statistics,STATISTICS,JAGS.jl,https://github.com/olofsen/JAGS.jl,A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
@@ -1796,8 +1796,10 @@ Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Distance.jl,https://gi
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Distances.jl,https://github.com/JuliaStats/Distances.jl, A Julia package for evaluating distances(metrics) between vectors.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Distributions.jl,http://juliastats.github.io/Distributions.jl/index.html,The Distributions package.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM's) and generalized linear models (GLM's) in Julia.
+Statistics,Org-[JuliaStats](https://JuliaStats.github.io),HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),MLBase.jl,https://github.com/JuliaStats/MLBase.jl,A set of functions to support the development of machine learning algorithms.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),PGM.jl,https://github.com/JuliaStats/PGM.jl,A Julia framework for probabilistic graphical models.
+Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),RmathDist.jl,https://github.com/JuliaStats/RmathDist.jl,This package provides a julia interface to the distributions provided by the standalone Rmath library, which is part of the R project for statistical computing.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Sampling.jl,https://github.com/JuliaStats/Sampling.jl,Basic sampling algorithms package, that provides algorithmic support to statistics-related packages, including [Distributions.jl](https://github.com/JuliaStats/Distributions.jl).
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),StatsBase.jl,https://github.com/JuliaStats/StatsBase.jl,The Stats meta-package for basic statistics functions for Julia.
