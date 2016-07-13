@@ -117,6 +117,7 @@ AI,NLP,TextAnalysis.jl,https://github.com/johnmyleswhite/TextAnalysis.jl,A Julia
 AI,NLP,TopicModels.jl,https://github.com/slycoder/TopicModels.jl),
 AI,NLP,TOML.jl,https://github.com/pygy/TOML.jl,A TOML parser.
 AI,NLP,Word2Vec.jl,https://github.com/weijianzhang/Word2Vec.jl,Julia interface to word2vec.
+AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
 AI,Resources,Text-Benchmarks,http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/,Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
@@ -459,8 +460,6 @@ Computer-Graphics,GRAPHICS,GLUT.jl,https://github.com/rennis250/GLUT.jl,A Julia 
 Computer-Graphics,GRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Create a window with an OpenGL context.
 Computer-Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 Computer-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
-Computer-Graphics,GRAPHICS,ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
-Computer-Graphics,GRAPHICS,ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
 Computer-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
 Computer-Graphics,GRAPHICS,ImageProjectiveGeometry.jl,https://github.com/peterkovesi/ImageProjectiveGeometry.jl,Projective geometry for computer vision in Julia.
 Computer-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
@@ -581,6 +580,9 @@ Computer-Graphics,Org-[JuliaGeometry](https://github.com/JuliaGeometry),TetGen.j
 Computer-Graphics,Org-[JuliaGeometry](https://github.com/JuliaGeometry),TriangleIntersect.jl,https://github.com/JuliaGeometry/TriangleIntersect.jl,Fast ray-triangle intersections for raytracing.
 Computer-Graphics,Org-[JuliaGeometry](https://github.com/JuliaGeometry),VoronoiCells.jl,https://github.com/jlapeyre/VoronoiCells.jl,Manipulate Voronoi cells in 2D.
 Computer-Graphics,Org-[JuliaGeometry](https://github.com/JuliaGeometry),VoronoiDelaunay.jl,https://github.com/JuliaGeometry/VoronoiDelaunay.jl,Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+Computer-Graphics,Org-[JuliaImages](https://github.com/JuliaImages/),ImagesCore.jl,https://github.com/JuliaImages/ImagesCore.jl,Julia types for representing images.
+Computer-Graphics,Org-[JuliaImages](https://github.com/JuliaImages/),ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
+Computer-Graphics,Org-[JuliaImages](https://github.com/JuliaImages/),ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
 Computer-Graphics,Org-[JuliaIO](https://github.com/JuliaIO),MeshIO.jl,https://github.com/JuliaIO/MeshIO.jl,IO for Meshes.
 Computer-Graphics,Org-[JuliaIO](https://github.com/JuliaIO),NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Package for NRRD IO.
 Computer-Graphics,Org-[JuliaIO](https://github.com/JuliaIO),WavefrontObj.jl,https://github.com/JuliaIO/WavefrontObj.jl,Wafefront Obj importer.
@@ -790,9 +792,7 @@ IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://g
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
@@ -802,7 +802,6 @@ IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.c
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
@@ -821,6 +820,10 @@ IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
+IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
+IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
+IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
+IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),AutoTypeParameters.jl,https://github.com/andrewcooke/AutoTypeParameters.jl,A Julia library to reversibly encode any value so that it can be used as a type parameter.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FileIO2.jl,https://github.com/ma-laforge/FileIO2.jl,File Object Type Hierarchy.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FreeType.jl,https://github.com/jhasse/FreeType.jl,FreeType 2 bindings API wrapper.
@@ -885,6 +888,7 @@ Mathematics,MATH,Hecke.jl,https://github.com/thofma/Hecke.jl),
 Mathematics,MATH,Hexagons.jl,https://github.com/dcjones/Hexagons.jl,Useful tools for working with hexagonal grids.
 Mathematics,MATH,MTH229.jl,https://github.com/mth229/MTH229.jl,Helper files for using Julia with MTH229.
 Mathematics,MATH,MathToolkit.jl,https://github.com/baruchel/MathToolkit.jl,A Julia package providing various functions mainly for the purpose of experimental mathematics.
+Mathematics,MATH,Measurements.jl,https://github.com/giordano/Measurements.jl,Error
 Mathematics,MATH,Measures.jl,https://github.com/dcjones/Measures.jl,Unified measure and coordinates types.
 Mathematics,MATH,MPFR.jl,https://github.com/andrioni/MPFR.jl,A Julia package for the GNU MPFR library.
 Mathematics,MATH,Multicombinations.jl,https://github.com/jlep/Multicombinations.jl,An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
@@ -914,6 +918,7 @@ Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ArbFloats.jl,https://github.com/Jeffrey-Sarnoff/ArbFloats.jl, Arb available as an extended precision floating point context.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ArbIntervals.jl,https://github.com/Jeffrey-Sarnoff/ArbIntervals.jl, Julia interface to Fredrik Johansson's Arb software.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DecFP.jl,https://github.com/stevengj/DecFP.jl,The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Decimals.jl,https://github.com/tinybike/Decimals.jl,Pure Julia decimal arithmetic library.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubDouble.jl,https://github.com/J-Sarnoff/DoubDouble.jl),
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubleDouble.jl,https://github.com/simonbyrne/DoubleDouble.jl,A Julia package for performing extended-precision arithmetic using pairs of floating-point numbers.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ErrorFreeTransforms.jl,https://github.com/dsiem/ErrorFreeTransforms.jl,Map the rounding errors in floating point arithmetic with error-free transformations (EFT).
@@ -940,6 +945,7 @@ Mathematics,ALGEBRA,Lifts.jl,https://github.com/scheinerman/Lifts.jl,Linear frac
 Mathematics,ALGEBRA,Mods.jl,https://github.com/scheinerman/Mods.jl,Easy modular arithmetic for Julia.
 Mathematics,ALGEBRA,MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
 Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
+Mathematics,ALGEBRA,PolynomialRoots.jl,https://github.com/giordano/PolynomialRoots.jl,Fast
 Mathematics,ALGEBRA,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
 Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
 Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
@@ -959,6 +965,7 @@ Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computa
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),ad4julia,https://github.com/bsxfan/ad4julia,Some automatic diffferentiation coding experiments in Julia.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Calculus.jl,https://github.com/johnmyleswhite/Calculus.jl,Calculus package.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Calculus2.jl,https://github.com/johnmyleswhite/Calculus2.jl,A draft of a new interface for the Calculus package.
+Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Cuba.jl,https://github.com/giordano/Cuba.jl,Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Einsum.jl,https://github.com/ahwillia/Einsum.jl,Einstein summation notation in julia.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),FastPolynomials.jl,https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl,Basic polynomials with Horner-like evaluation over x^2 and x.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),FDM.jl,https://github.com/grasingerm/FDM.jl,Finite difference methods in Julia.
@@ -980,7 +987,7 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),RiemannComplexNumbers.jl,https://github.com/scheinerman/RiemannComplexNumbers.jl,The RiemannComplexNumbers module is an alternative Complex type for Julia (with a single complex infinity value).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),TaylorSeries.jl,https://github.com/lbenet/TaylorSeries.jl,A julia package for Taylor expansions in one independent variable.
 Mathematics,Resources,Calculus With Julia,https://github.com/CalculusWithJulia/CalculusWithJulia.github.io,Introductory Calculus with the Julia Programming Language.
-Mathematics,Resources,n IJulia notebook showing [Taylor's method integration of the pendulum,http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97,
+Mathematics,Resources,n IJulia notebook showing [Taylor's method integration of the pendulum,http://nbviewer.ipython.org/gist/lbenet/616fa81f3c12c9cfcf97),
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),APES.jl,https://github.com/codles/APES.jl,Amplitude and Phase Estimation of a Sinusoid.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),ChaosCommunications.jl,https://github.com/scidom/ChaosCommunications.jl,Simulation of chaos-based communication systems in Julia.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),CompressedSensing,https://github.com/dahlend/CompressedSensing,A basic compressed sensing algorithms available via the official package list with [documentation](http://compressedsensing.readthedocs.org/en/latest/).
@@ -1226,6 +1233,7 @@ Physics,,JuliBoots,https://github.com/mfpaulos/JuliBoots,Conformal bootstrap cal
 Physics,,JuliaPower,https://github.com/prezaei85/JuliaPower,A package of scripts in Julia to solve power flow and simulate cascading failures in power systems.
 Physics,,LambertW.jl,https://github.com/robertdj/LambertW.jl,Lambert's W function in Julia.
 Physics,,Mass.jl,https://github.com/ggggggggg/Mass.jl,An experimental frameworks for TES pulse analysis.
+Physics,,Measurements.jl,https://github.com/giordano/Measurements.jl,Error
 Physics,,Physical.jl,https://github.com/ggggggggg/Physical.jl,
 Physics,,Quantities.jl,https://github.com/ElOceanografo/Quantities.jl,Dimensions and Quantities.
 Physics,,ROOT.jl,https://github.com/jpata/ROOT.jl,A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
@@ -1475,6 +1483,7 @@ Resources,TUTORIALS,julia-tutorial,https://github.com/JuliaLang/julia-tutorial,J
 Resources,TUTORIALS,JuliaByExample,http://www.scolvin.com/juliabyexample/,Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
 Resources,TUTORIALS,JuliaIntro.jl,https://github.com/scidom/JuliaIntro.jl,An Introduction to Julia (Tutorial and Toy Examples).
 Resources,TUTORIALS,Learn Julia in Y minutes,http://learnxinyminutes.com/docs/julia/),
+Resources,VIDEOS,ohn Myles White: [Julia’s Approach to Open Source Machine Learning,http://k4webcast.mediasite.com/Mediasite/Play/2529ebcb20794942874d5c277c5dcc981d),
 Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/watch?v=PsjANO10KgM) talk by Stefan Karpinski,
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
 Resources,VIDEOS,2015-JuliaCon Videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM,
@@ -1545,7 +1554,7 @@ Server,Org-[JunoLab](https://github.com/JunoLab/),Mux.jl,https://github.com/Juno
 Space-Science,Aeronautics,ices-desktop,https://github.com/abieler/ices-desktop),
 Space-Science,Aeronautics,Spice.jl,https://github.com/abieler/Spice.jl,NASA's SPICE observation geometry system.
 Space-Science,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
-Space-Science,AstroLibs,AstroLib.jl,https://github.com/giordano/AstroLib.jl,Bundle of small
+Space-Science,AstroLibs,AstroLib.jl,https://github.com/JuliaAstro/AstroLib.jl,Bundle of small
 Space-Science,AstroLibs,Astrodynamics.jl,https://github.com/helgee/Astrodynamics.jl,An astrodynamics library in Julia.
 Space-Science,AstroLibs,CasaCore.jl,https://github.com/mweastwood/CasaCore.jl,A Julia wrapper of CasaCore.
 Space-Science,AstroLibs,Celeste.jl,https://github.com/jeff-regier/Celeste.jl,Scalable inference for a generative model of astronomical images.
@@ -1591,6 +1600,7 @@ Statistics,Finance,FRED.jl,https://github.com/joidegn/FRED.jl,Package to read fr
 Statistics,Finance,InterestRates.jl,https://github.com/felipenoris/InterestRates.jl,Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 Statistics,Finance,Ito.jl,https://github.com/aviks/Ito.jl,An open source toolkit for financial computing in Julia.
 Statistics,Finance,LibTrading.jl,https://github.com/StefanKarpinski/LibTrading.jl,A wrapper for the libtrading library, an _open source API for high-performance, low-latency trading applications_.
+Statistics,Finance,MarketStates.jl,https://github.com/milktrader/MarketStates.jl,Library of market states that aggregate market indicators to produce a market signal.
 Statistics,Finance,MCInsurance.jl,https://github.com/mkriele/MCInsurance.jl,This Julia package provides multi-period Monte Carlo simulations for life insurance.
 Statistics,Finance,OpenFiscaCore.jl,https://github.com/openfisca/OpenFiscaCore.jl,A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data.
 Statistics,Finance,OpenFiscaFrance.jl,https://github.com/openfisca/OpenFiscaFrance.jl,A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system.
@@ -1919,6 +1929,7 @@ Super-Computing,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A 
 Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSCore.jl,https://github.com/samoconnor/AWSCore.jl,Amazon Web Services Core Functions and Types.
+Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSS3.jl,https://github.com/samoconnor/AWSS3.jl,AWS S3 Simple Storage Service interface for Julia.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
