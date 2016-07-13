@@ -35,8 +35,6 @@
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
-+ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) :: Image processing with OpenCL.
-+ [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
 + [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 + [ImageProjectiveGeometry.jl](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) :: Projective geometry for computer vision in Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
@@ -194,6 +192,13 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 + [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
 + [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
 + [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
+----
+
+# Org-[JuliaImages](https://github.com/JuliaImages/)
++ [ImagesCore.jl](https://github.com/JuliaImages/ImagesCore.jl) :: Julia types for representing images.
++ [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) :: Image processing with OpenCL.
++ [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
 
 ----
 
