@@ -6,6 +6,8 @@
     + [JLD](#jld)
     + [XML](#xml)
 + [Data Types](#data-types)
+    + [Composite Data Types](#composite-data-types)
+    + [Type Parameters](#type-parameters)
 + [Image Formats](#image-formats)
 
 ----
@@ -94,12 +96,9 @@
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: A BigRational package for Julia using GMP.
 + [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
-+ [ExtractMacro.jl](https://github.com/carlobaldassi/ExtractMacro.jl) ::  Provides a convenience Julia macro to extract fields from composite types.
 + [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) :: Types for continuous variables or parameters.
 + [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
-+ [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) :: Wrap any Julia composite type in an Associative interface.
 + [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) :: Expression parser that simulates type inheritance.
-+ [EMLTranslator.jl](https://github.com/DANA-Laboratory/EMLTranslator.jl) :: Adds Inheritance to julia composite type.
 + [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
 + [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 + [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) :: A Julian abstraction layer over FreeType.jl.
@@ -109,7 +108,6 @@
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
 + [LHEF.jl](https://github.com/Keno/LHEF.jl) :: Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
 + [MacroTools.jl](https://github.com/MikeInnes/MacroTools.jl) :: A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
-+ [Modifyfield.jl](https://github.com/StephenVavasis/Modifyfield.jl) :: It creates functions to modify immutable fields of a composite type inside a container.
 + [MonkeyString.jl](https://github.com/malmaud/MonkeyString.jl) :: Fast string implementation inspired by SpiderMonkey.
 + [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
 + [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
@@ -128,6 +126,12 @@
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [Unitful.jl](https://github.com/ajkeller34/Unitful.jl) :: A Julia package for physical units.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
+
+### [Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types
++ [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) :: Wrap any Julia composite type in an Associative interface.
++ [EMLTranslator.jl](https://github.com/DANA-Laboratory/EMLTranslator.jl) :: Adds Inheritance to julia composite type.
++ [ExtractMacro.jl](https://github.com/carlobaldassi/ExtractMacro.jl) ::  Provides a convenience Julia macro to extract fields from composite types.
++ [Modifyfield.jl](https://github.com/StephenVavasis/Modifyfield.jl) :: It creates functions to modify immutable fields of a composite type inside a container.
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
 + [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) :: A Julia library to reversibly encode any value so that it can be used as a type parameter.
