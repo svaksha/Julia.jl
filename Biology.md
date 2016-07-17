@@ -12,6 +12,10 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 
 ----
 
++ [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
+
+----
+
 # BIOINFORMATICS
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 + [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 

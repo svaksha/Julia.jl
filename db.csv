@@ -304,6 +304,7 @@ API,R,utils.jl,https://github.com/johnmyleswhite/utils.jl,Utility functions for 
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
+Biology,,BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 Biology,BIOINFORMATICS,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
 Biology,BIOINFORMATICS,EMIRT.jl,https://github.com/seung-lab/EMIRT.jl,Electron Microscopy Image Reconstruction Toolbox using julia language.
