@@ -85,9 +85,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Hexagons.jl](https://github.com/dcjones/Hexagons.jl) :: Useful tools for working with hexagonal grids.
 + [MTH229.jl](https://github.com/mth229/MTH229.jl) :: Helper files for using Julia with MTH229.
 + [MathToolkit.jl](https://github.com/baruchel/MathToolkit.jl) :: A Julia package providing various functions mainly for the purpose of experimental mathematics. 
-+ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error
-  propagation calculator and library. It supports real and complex numbers with
-  uncertainty, arbitrary precision calculations, and operations with arrays.
++ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error propagation calculator and library. It supports real and complex numbers with uncertainty, arbitrary precision calculations, and operations with arrays.
 + [Measures.jl](https://github.com/dcjones/Measures.jl) :: Unified measure and coordinates types.
 + [MPFR.jl](https://github.com/andrioni/MPFR.jl) :: A Julia package for the GNU MPFR library.
 + [Multicombinations.jl](https://github.com/jlep/Multicombinations.jl) :: An iterator for k-combinations with repetitions, k-multicombinations, k-multisubsets.
@@ -114,6 +112,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [utils.jl](https://github.com/juho-lee/utils.jl) :: basic utilities needed for scientific coding with julia.
 
 ## [Computer Arithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic)
++ [Calc.jl](https://github.com/tshort/Calc.jl]) :: An RPN calculator for the Julia REPL.
 + [DeepConvert.jl](https://github.com/jlapeyre/DeepConvert.jl) :: This package provides convenient literal construction of values of large data types.
 + [ErrorFreeArith.jl](https://github.com/J-Sarnoff/ErrorFreeArith.jl) :: Error-Free transformations for arithmetic ops.
 
