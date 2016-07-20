@@ -1,20 +1,21 @@
 + [SOFTWARE](#software)
+    + [Data Science](#data-science)
 + [ACTUARIAL SCIENCE](#actuarial-science)
-   + [Econometrics](#econometrics)
-   + [Finance](#finance)
+    + [Econometrics](#econometrics)
+    + [Finance](#finance)
 + [ASTRONOMY](#astronomy)
 + [BIOLOGY](#biology)
-   + [Genome](#genome)
-   + [Genetics-Medicine](#genetics-medicine)
-   + [Molecular Biology](#molecular-biology)
-   + [Neuroscience](#neuroscience)
-   + [Pharma](#pharma)
+    + [Genome](#genome)
+    + [Genetics-Medicine](#genetics-medicine)
+    + [Molecular Biology](#molecular-biology)
+    + [Neuroscience](#neuroscience)
+    + [Pharma](#pharma)
 + [CHEMISTRY](#chemistry)
-   + [Crystallography](#crystallography)
+    + [Crystallography](#crystallography)
 + [DATA](#data)
-   + [DATA-General](#data-general)
-   + [DATA-Research](#data-scientific)
-   + [DATA-Scientific](#data-scientific)
+    + [DATA-General](#data-general)
+    + [DATA-Research](#data-scientific)
+    + [DATA-Scientific](#data-scientific)
 + [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
@@ -34,10 +35,13 @@
 + [ModelerToolbox.jl](https://github.com/spencerlyon2/ModelerToolbox.jl) :: Utilities for working with many different versions/parameterizations of models.
 + [NetflixPrize.jl](https://github.com/jiahao/NetflixPrize.jl) :: Julia package for handling the Netflix Prize data set of 2006.
 + [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
-+ [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the data sets available in R.
++ [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the datasets available in R.
 + [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
 + [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 + [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
+
+## Data Science
++ [jplyr.jl](https://github.com/davidagold/jplyr.jl) :: Data manipulation facilities for Julia.
 
 ----
 
