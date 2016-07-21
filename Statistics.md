@@ -256,9 +256,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Isotonic.jl](https://github.com/ajtulloch/Isotonic.jl) :: This implements several algorithms for isotonic regression in Julia.
    + @ajtulloch's blog on [speeding up Isotonic Regression with Julia](http://tullo.ch/articles/python-vs-julia/) and the [IJulia notebook](http://nbviewer.ipython.org/url/gist.githubusercontent.com/ajtulloch/9485996/raw/94b3d0e6bd67256f1f02eebb1463365dbc8b64fc/Julia.ipynb)
 + [ITC.jl](https://github.com/johnmyleswhite/ITC.jl) :: Code for modeling intertemporal choice in Julia.
-+ [Jackknife.jl](https://github.com/ararslan/Jackknife.jl) :: [Jackknife resampling](https://en.wikipedia.org/wiki/Jackknife_resampling) and estimation in Julia.
-+ [JAGS.jl](https://github.com/olofsen/JAGS.jl) :: A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
-+ [Jags.jl](https://github.com/goedman/Jags.jl) :: Julia package for using Just another Gibbs sampler.
 + [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
 + [KLDivergence.jl](https://github.com/johnmyleswhite/KLDivergence.jl) :: KL-divergence estimation in Julia.
 + [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
@@ -280,7 +277,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Queries](https://github.com/carljv/Queries) :: Composable queries for Julia DataFrames.
 + [RandomProcesses.jl](https://github.com/johnmyleswhite/RandomProcesses.jl) :: Random processes (CRP, CRT) in Julia.
 + [RBM.jl](https://github.com/kzahedi/RBM.jl)
-+ [Resampling.jl](https://github.com/johnmyleswhite/Resampling.jl) :: Tools for resampling data.
 + [Ridge.jl](https://github.com/johnmyleswhite/Ridge.jl) :: Ridge regression and classification.
 + [RunningStats.jl](https://github.com/johnmyleswhite/RunningStats.jl) :: Julia translation of John D. Cook's code for running moment statistics and univariate regressions.
 + [SDP.jl](https://github.com/trthatcher/SDP.jl) by @trthatcher :: Statistical Data Processing.
@@ -295,6 +291,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Biostat 778](https://github.com/rdpeng/biostat778_notes) :: Advanced Statistical Computing.
 + [DCStats.jl](https://github.com/johnmyleswhite/DCStats.jl) :: IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
+
 
 
 ## Org-[JuliaStats](https://JuliaStats.github.io)
@@ -314,7 +311,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [PGM.jl](https://github.com/JuliaStats/PGM.jl) :: A Julia framework for probabilistic graphical models.
 + [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 + [RmathDist.jl](https://github.com/JuliaStats/RmathDist.jl) :: This package provides a julia interface to the distributions provided by the standalone Rmath library, which is part of the R project for statistical computing.
-+ [Sampling.jl](https://github.com/JuliaStats/Sampling.jl) :: Basic sampling algorithms package, that provides algorithmic support to statistics-related packages, including [Distributions.jl](https://github.com/JuliaStats/Distributions.jl).
 + [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) :: The Stats meta-package for basic statistics functions for Julia.
    * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
 + [StreamStats.jl](https://github.com/johnmyleswhite/StreamStats.jl) :: Compute statistics over data streams.
@@ -376,6 +372,14 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [MCMCExampleRepository.jl](https://github.com/goedman/MCMCExampleRepository.jl) :: Repository for MCMC Julia examples.
 + [MCMCModels.jl](https://github.com/scidom/MCMCModels.jl) :: Scratch space for hosting temporarily current model specification for MCMC inference.
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
+
+## Sampling 
++ [GeneralizedSampling.jl](https://github.com/robertdj/GeneralizedSampling.jl) :: Generalized Sampling in Julia
++ [Jackknife.jl](https://github.com/ararslan/Jackknife.jl) :: [Jackknife resampling](https://en.wikipedia.org/wiki/Jackknife_resampling) and estimation in Julia.
++ [JAGS.jl](https://github.com/olofsen/JAGS.jl) :: A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
++ [Jags.jl](https://github.com/goedman/Jags.jl) :: Julia package for using Just another Gibbs sampler.
++ [Resampling.jl](https://github.com/johnmyleswhite/Resampling.jl) :: Tools for resampling data.
++ [Sampling.jl](https://github.com/JuliaStats/Sampling.jl) :: Basic sampling algorithms package, that provides algorithmic support to statistics-related packages, including [Distributions.jl](https://github.com/JuliaStats/Distributions.jl).
 
 ## Statistical Tests
 + [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
