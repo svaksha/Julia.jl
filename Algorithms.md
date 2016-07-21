@@ -56,6 +56,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
 ### Sorting
++ [NaturalSort.jl](https://github.com/simonster/NaturalSort.jl) :: Natural sort order.
 + [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) :: An API for common search and sort algorithms.
 
 ### Time
