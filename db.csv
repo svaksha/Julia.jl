@@ -144,6 +144,7 @@ Algorithms,PatternMatching,Loess.jl,https://github.com/dcjones/Loess.jl,is a loe
 Algorithms,PatternMatching,Match.jl,https://github.com/kmsquire/Match.jl,Advanced Pattern Matching for Julia.
 Algorithms,PatternMatching,NearestNeighbors.jl,https://github.com/johnmyleswhite/NearestNeighbors.jl,Data structures for nearest neighbor search.
 Algorithms,PatternMatching,ReverseRegexes.jl,https://github.com/carlobaldassi/ReverseRegexes.jl,Adds functionality to reverse-search strings with regexes
+Algorithms,Sorting,NaturalSort.jl,https://github.com/simonster/NaturalSort.jl,Natural sort order.
 Algorithms,Sorting,SearchSortAlgos.jl,https://github.com/Dawny33/SearchSortAlgos.jl,An API for common search and sort algorithms.
 Algorithms,Time,LabelPropagation.jl,https://github.com/afternone/LabelPropagation.jl,A fast, nearly linear time algorithm for detecting communtiy structure in networks.
 Algorithms,RESOURCES,algo-book-julia,https://github.com/Alexander-N/algo-book-julia,Snippets from Problem Solving with Algorithms and Data Structures in Julia.
@@ -790,6 +791,7 @@ IO,HTML-XML,Patchwork.jl,https://github.com/shashi/Patchwork.jl,A library for re
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
+IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
 IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
