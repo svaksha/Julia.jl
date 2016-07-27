@@ -63,7 +63,8 @@
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
 ## CSV
-+ [CSV.jl](https://github.com/tanmaykm/CSV.jl) :: reads CSV files.
++ [CSV.jl](https://github.com/tanmaykm/CSV.jl) by @tanmaykm :: reads CSV files.
++ [CSV.jl](https://github.com/JuliaData/CSV.jl) by @JuliaData ::  Utility library for working with CSV and other delimited files in the Julia programming language.
 + [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
