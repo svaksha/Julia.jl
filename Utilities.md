@@ -139,6 +139,7 @@
 
 # UTILS
 + [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
++ [FilePaths.jl](https://github.com/Rory-Finnegan/FilePaths.jl) ::  A type based approach to working with filesystem paths in julia.
 + [Graze.jl](https://github.com/iamed2/Graze.jl) :: A feed reader. 
 + [Humanize.jl](https://github.com/IainNZ/Humanize.jl) :: Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron.
 + [Osmosis.jl](https://github.com/SimonDanisch/Osmosis.jl) :: Chat client for Julia. 

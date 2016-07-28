@@ -2060,6 +2060,7 @@ Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_enviro
 Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),koding,https://koding.com/Julia) has an interactive online Julia REPL,
 Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),CodeBunk,http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud,
 Utilities,UTILS,Events.jl,https://github.com/SimonDanisch/Events.jl,Simple Event system.
+Utilities,UTILS,FilePaths.jl,https://github.com/Rory-Finnegan/FilePaths.jl, A type based approach to working with filesystem paths in julia.
 Utilities,UTILS,Graze.jl,https://github.com/iamed2/Graze.jl,A feed reader.
 Utilities,UTILS,Humanize.jl,https://github.com/IainNZ/Humanize.jl,Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron.
 Utilities,UTILS,Osmosis.jl,https://github.com/SimonDanisch/Osmosis.jl,Chat client for Julia.
