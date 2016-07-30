@@ -2120,4 +2120,5 @@ Utilities,MicrosoftWindows,XCB.jl,https://github.com/JuliaGL/XCB.jl,XCB windowin
 Utilities,IRC,DandelionSlack.jl,https://github.com/dandeliondeathray/DandelionSlack.jl,Slack API in Julia.
 Utilities,IRC,Slackbot.jl,https://github.com/jiahao/Slackbot.jl,A Julia REPL that interacts with Slack.com's webhook integration.
 Utilities,SMS,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert library for Julia.
-Utilities,VoIP,Toxcore.jl,https://github.com/SimonDanisch/Toxcore.jl,A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
+Utilities,VOIP,Discord.jl,https://github.com/hlaaftana/Discord.jl,julia discord wrapper.
+Utilities,VOIP,Toxcore.jl,https://github.com/SimonDanisch/Toxcore.jl,A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).

@@ -20,7 +20,7 @@
    + [Microsoft Windows](#microsoft-windows)
 + [Communication](#communication)
    + [SMS](#sms)
-   + [VoIP](#voip)
+   + [VOIP](#voip)
 
 ----
 
@@ -222,6 +222,7 @@
 ## SMS
 + [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
 
-## VoIP
+## VOIP
++ [Discord.jl](https://github.com/hlaaftana/Discord.jl) :: julia discord wrapper.
 + [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) :: A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).
 
