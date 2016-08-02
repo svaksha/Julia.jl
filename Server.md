@@ -1,16 +1,17 @@
 Networking, web security, frameworks and other Web related things go here!
 
 + [FRAMEWORKS](#frameworks)
-   * [RoR](#ror)
+    + [RoR](#ror)
 + [Middleware](#middleware)
 + [NETWORKING](#networking)
 + [SECURITY](#security)
 + [Template Engines](#template-engines)
 + [WEB](#web)
-   + [Email](#email)
-   + [Org-JuliaWeb](#org-juliaweb)
+    + [CSS](#css)
+    + [Email](#email)
+    + [Org-JuliaWeb](#org-juliaweb)
 + [WIDE](#wide)
-   + [Org-JunoLab](#org-junolab)
+    + [Org-JunoLab](#org-junolab)
 
 ----
 
@@ -79,6 +80,9 @@ Networking, web security, frameworks and other Web related things go here!
 + [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
 + [WebSocketClient.jl](https://github.com/dandeliondeathray/WebSocketClient.jl) :: A Julia package for client side WebSockets.
+
+## CSS
++ [Cascadia.jl](https://github.com/Algocircle/Cascadia.jl) :: A CSS Selector library in Julia.
 
 ## Email
 + [Mandrill.jl](https://github.com/aviks/Mandrill.jl) :: Mandrill API in Julia.

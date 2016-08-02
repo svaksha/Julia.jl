@@ -1537,6 +1537,7 @@ Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create
 Server,WEB,RestClient.jl,https://github.com/analyzere/RestClient.jl,A simple REST client for Julia.
 Server,WEB,Romeo.jl,https://github.com/mneudert/Romeo.jl,Another HTTP server to log requests, events, responses.
 Server,WEB,WebSocketClient.jl,https://github.com/dandeliondeathray/WebSocketClient.jl,A Julia package for client side WebSockets.
+Server,CSS,Cascadia.jl,https://github.com/Algocircle/Cascadia.jl,A CSS Selector library in Julia.
 Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
 Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
 Server,Org-[JuliaWeb](https://github.com/JuliaWeb),LibCURL.jl,https://github.com/JuliaWeb/LibCURL.jl,Thin Julia wrapper of libCURL
