@@ -3,6 +3,7 @@
 + [API](#api)
 + [Architectures](#architectures)
     + [FTDI](#ftdi)
+    + [Intel](+intel)
     + [National Instruments](#national-instruments)
     + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
 + [AUDIO-VIDEO](#audio-video)
@@ -30,6 +31,9 @@
 
 ### FTDI
 + [FTD2XX.jl](https://github.com/cstook/FTD2XX.jl) :: Wrapper for FTDI FTD2XX library. 
+
+### Intel
++ [RdRand.jl](https://github.com/SamChill/RdRand.jl) :: Generate random numbers using Intel's RDRAND instruction.
 
 ### National Instruments
 + [NIDAQ.jl](https://github.com/JaneliaSciComp/NIDAQ.jl) :: This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
