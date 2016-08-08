@@ -94,6 +94,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [NLsolve.jl](https://github.com/EconForge/NLsolve.jl) :: Julia solvers for systems of nonlinear equations.
 + [nrmm.jl](https://github.com/juho-lee/nrmm.jl) :: Posterior inference algorithms for normalized random measure mixtures.
 + [OEIS.jl](https://github.com/MurrayT/OEIS.jl) :: A basic wrapper to allow access to OEIS from within Julia. 
++ [OpenSpecFun.jl](https://github.com/ararslan/OpenSpecFun.jl) :: A Julia wrapper for the OpenSpecFun library of special functions.
 + [Quadrature.jl](https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base.
 + [Quat.jl](https://github.com/forio/Quat.jl) :: Quaternions, octonions and dual-quaternions.
 + [quaternion.jl](https://github.com/peakbook/quaternion.jl) :: Quaternion for Julia Language.
