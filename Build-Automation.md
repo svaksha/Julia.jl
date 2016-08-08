@@ -71,12 +71,13 @@ __Pre-compiled Binaries__
 ### Package/Infrastructure management tools and Documentation
 + Official [Julia Package list](http://pkg.julialang.org/).
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
-+ [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
++ [MetadataTools.jl](https://github.com/JuliaPackaging/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
    - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
    - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
 + [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
 + [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
++ [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) :: Package manager for Julia.
 
 ##### DOCS
 + Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).

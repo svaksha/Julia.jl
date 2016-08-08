@@ -248,10 +248,11 @@ API,API,Twilert.jl,https://github.com/glesica/Twilert.jl,A small SMS alert libra
 API,API,Twitter.jl,https://github.com/randyzwitch/Twitter.jl,Julia package to access the Twitter API.
 API,Math,MathLink.jl,https://github.com/simonbyrne/MathLink.jl,provides bindings to the MathLink library, which is an interface for Mathematica.
 API,Math,Mathematica.jl,https://github.com/MikeInnes/Mathematica.jl,is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
-API,GitAPI,GitHub.jl,https://github.com/JuliaWeb/GitHub.jl,A Julia package for interfacing with the GitHub API.
-API,GitAPI,LibGit2.jl,https://github.com/jakebolewski/LibGit2.jl,Julia bindings to the LibGit2 library.
-API,GitAPI,MechaJulia,https://github.com/MechaJulia/MechaJulia,A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
-API,GitAPI,Octokit.jl,https://github.com/Keno/Octokit.jl,Julia package to access the GitHub API.
+API,Git,Git.jl,https://github.com/JuliaPackaging/Git.jl,Julia wrapper for command line Git.
+API,Git,GitHub.jl,https://github.com/JuliaWeb/GitHub.jl,A Julia package for interfacing with the GitHub API.
+API,Git,LibGit2.jl,https://github.com/jakebolewski/LibGit2.jl,Julia bindings to the LibGit2 library.
+API,Git,MechaJulia,https://github.com/MechaJulia/MechaJulia,A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
+API,Git,Octokit.jl,https://github.com/Keno/Octokit.jl,Julia package to access the GitHub API.
 API,C,GetC.jl,https://github.com/rennis250/GetC.jl,This package is a minimal implementation of Jasper's Julia FFI. It will load the ccall function/type signatures specificed by Jasper's FFI.
 API,C,julia-ffi,https://github.com/o-jasper/julia-ffi,Julia ffi and C header parser, for autoFFIing and generating FFI libraries from it.
 API,Resources,fficial documentation for [calling C code,http://julia.readthedocs.org/en/latest/manual/calling-c-and-fortran-code/,
@@ -389,9 +390,10 @@ Build-Automation,Binaries,Julia-0.3.9 for Linux 64-bit,https://julialang.s3.amaz
 Build-Automation,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl,
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,fficial [Julia Package list,http://pkg.julialang.org/),
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
+Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
+Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
 Build-Automation,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
 Build-Automation,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 Build-Automation,Ansible,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/,
@@ -903,6 +905,7 @@ Mathematics,MATH,NLreg.jl,https://github.com/dmbates/NLreg.jl,Nonlinear regressi
 Mathematics,MATH,NLsolve.jl,https://github.com/EconForge/NLsolve.jl,Julia solvers for systems of nonlinear equations.
 Mathematics,MATH,nrmm.jl,https://github.com/juho-lee/nrmm.jl,Posterior inference algorithms for normalized random measure mixtures.
 Mathematics,MATH,OEIS.jl,https://github.com/MurrayT/OEIS.jl,A basic wrapper to allow access to OEIS from within Julia.
+Mathematics,MATH,OpenSpecFun.jl,https://github.com/ararslan/OpenSpecFun.jl,A Julia wrapper for the OpenSpecFun library of special functions.
 Mathematics,MATH,Quadrature.jl,https://github.com/kofron/Quadrature.jl) : Gauss quadrature in Base,
 Mathematics,MATH,Quat.jl,https://github.com/forio/Quat.jl,Quaternions, octonions and dual-quaternions.
 Mathematics,MATH,quaternion.jl,https://github.com/peakbook/quaternion.jl,Quaternion for Julia Language.
@@ -1525,6 +1528,7 @@ Server,SECURITY,GnuTLS.jl,https://github.com/JuliaWeb/GnuTLS.jl,Transport Level 
 Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,a basic, non-blocking HTTP server in Julia.
 Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia implementation of OAuth v1.0a.
 Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
+Server,SECURITY,SSH.jl,https://github.com/Keno/SSH.jl,An SSH implementation.
 Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
 Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
 Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
@@ -1971,6 +1975,7 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MT-Workloads,https://github.com/ranjanan/MT-Workloads,Multi-threaded workloads in Julia.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Slurm.jl,https://github.com/JuliaParallel/Slurm.jl,Experimental Julia interface to `slurm.schedmd.com`.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
