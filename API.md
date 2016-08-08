@@ -2,7 +2,7 @@
 
 + [API](#api)
    + [Math](#math)
-   + [GIT API](#git-api)
+   + [Git](#git)
 + [LANGUAGES](#languages)
    + [C](#c)
    + [Cxx](#cxx)
@@ -35,7 +35,8 @@
 + [MathLink.jl](https://github.com/simonbyrne/MathLink.jl) :: provides bindings to the MathLink library, which is an interface for Mathematica.
 + [Mathematica.jl](https://github.com/MikeInnes/Mathematica.jl) :: is a package that provides an interface for using Wolfram Mathematica™ from the Julia language.
 
-### Git API
+### Git 
++ [Git.jl](https://github.com/JuliaPackaging/Git.jl) :: Julia wrapper for command line Git.
 + [GitHub.jl](https://github.com/JuliaWeb/GitHub.jl) :: A Julia package for interfacing with the GitHub API.
 + [LibGit2.jl](https://github.com/jakebolewski/LibGit2.jl) :: Julia bindings to the LibGit2 library.
 + [MechaJulia](https://github.com/MechaJulia/MechaJulia) :: A little GitHub bot that will assist with anything and everything Julia-related that is needed of it.
