@@ -741,6 +741,7 @@ IO,BinaryIO,StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decodi
 IO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
 IO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
 IO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
+IO,GeneralIO,ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
 IO,DataFormats,AIDA.jl,https://github.com/jstrube/AIDA.jl,This package implements simple readers for legacy AIDA files.
 IO,DataFormats,BEncode.jl,https://github.com/joshuamiller/BEncode.jl,A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 IO,DataFormats,BDF.jl,https://github.com/sam81/BDF.jl,Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.

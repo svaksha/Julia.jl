@@ -22,6 +22,7 @@
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
 + [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
 + [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
++ [ULID.jl](https://github.com/ararslan/ULID.jl) :: Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
 
 ----
 
