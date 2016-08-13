@@ -1519,6 +1519,7 @@ Server,NETWORKING,Dates.jl,https://github.com/quinnj/Dates.jl,A Date and DateTim
 Server,NETWORKING,IPNets.jl,https://github.com/sbromberger/IPNets.jl,IPv4 / IPv6 network abstractions for Julia.
 Server,NETWORKING,Juliaflow,https://github.com/pchronz/juliaflow,A controller for software-defined networking (SDN) that implements the OpenFlow Controller Specification 1.0.0
 Server,NETWORKING,LogParser.jl,https://github.com/randyzwitch/LogParser.jl,A package for parsing server logs. Currently, only server logs having the Apache Combined format are supported (although Apache Common may parse as well).
+Server,NETWORKING,MsgPackRpcServer.jl,https://github.com/remore/MsgPackRpcServer.jl,A Julia implementation of MessagePack-RPC Server Library.
 Server,NETWORKING,Pcap.jl,https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamm,Libpcap implementation for Julia language.
 Server,NETWORKING,Pcap.jl,https://github.com/r2dbg/Pcap.jl) by @r2db,Libpcap implementation for Julia language.
 Server,NETWORKING,StatsdClient.jl,https://github.com/forio/StatsdClient.jl,A simple Julia implementation of a statsd client.
