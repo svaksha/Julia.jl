@@ -1951,6 +1951,7 @@ Super-Computing,CodeAnalyzer,IACA.jl,https://github.com/carnaval/IACA.jl,A wrapp
 Super-Computing,Time,CPUTime.jl,https://github.com/schmrlng/CPUTime.jl,Amodule for CPU timing.
 Super-Computing,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A Julia package for measuring elapsed user time.
 Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
+Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),RawMutex.jl,https://github.com/vchuravy/RawMutex.jl,A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSCore.jl,https://github.com/samoconnor/AWSCore.jl,Amazon Web Services Core Functions and Types.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSS3.jl,https://github.com/samoconnor/AWSS3.jl,AWS S3 Simple Storage Service interface for Julia.
