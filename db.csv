@@ -794,41 +794,41 @@ IO,XML,XMLDict.jl,https://github.com/samoconnor/XMLDict.jl,This package implemen
 IO,XML,XMLRPC.jl,https://github.com/sjkelly/XMLRPC.jl,Send and recieve XML-RPCs with Julia.
 IO,XML,XmlToDict.jl,https://github.com/elcritch/XmlToDict.jl, Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
 IO,HTML-XML,Patchwork.jl,https://github.com/shashi/Patchwork.jl,A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.com/scw/jenks.jl,
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,channels(), tspaces(), kvspaces() and more.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM).
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ResultTypes.jl,https://github.com/iamed2/ResultTypes.jl, A Result type for Julia—it's like Nullables for Exceptions.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
-IO,[DataTypes](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.com/scw/jenks.jl,
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,channels(), tspaces(), kvspaces() and more.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM).
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ResultTypes.jl,https://github.com/iamed2/ResultTypes.jl, A Result type for Julia—it's like Nullables for Exceptions.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
@@ -1934,6 +1934,7 @@ Super-Computing,BENCHMARKS,Perftests.jl,https://github.com/staticfloat/Perftests
 Super-Computing,BENCHMARKS,raytracer.jl,https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl,Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
 Super-Computing,BENCHMARKS,SimplexBenchmarks,https://github.com/mlubin/SimplexBenchmarks,Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
 Super-Computing,BENCHMARKS,SortPerf.jl,https://github.com/kmsquire/SortPerf.jl,Julia module to test the performance of sorting algorithms.
+Super-Computing,BENCHMARKS,SchumakerSpline.jl,https://github.com/s-baumann/SchumakerSpline.jl,A Julia package to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
 Super-Computing,COMPILERS,Clang.jl,https://github.com/ihnorton/Clang.jl,Julia interface to libclang and C wrapper generator and its fork [CIndex.jl](https://github.com/vtjnash/CIndex.jl) to access the libclang interface of the LLVM Clang compiler.
 Super-Computing,COMPILERS,CompilerTools.jl,https://github.com/IntelLabs/CompilerTools.jl,The CompilerTools package, part of the High Performance Scripting project at Intel Labs.
 Super-Computing,COMPILERS,CompilerOptions.jl,https://github.com/sjkelly/CompilerOptions.jl,A Julia package for reading compiler options.

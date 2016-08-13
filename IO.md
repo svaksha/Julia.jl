@@ -5,7 +5,7 @@
     + [HDF5](#hdf5)
     + [JLD](#jld)
     + [XML](#xml)
-+ [Data Types](#data-types)
++ [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
     + [Type Parameters](#type-parameters)
 + [Image Formats](#image-formats)
@@ -93,7 +93,7 @@
 
 ----
 
-# [Data Types](http://en.wikipedia.org/wiki/Data_type)
+# [Data Type](http://en.wikipedia.org/wiki/Data_type)
 + [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: A BigRational package for Julia using GMP.

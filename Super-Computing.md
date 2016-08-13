@@ -70,6 +70,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [raytracer.jl](https://github.com/JuliaLang/julia/blob/master/test/perf/kernel/raytracer.jl) :: Raytracer in the Julia kernel and other [raytracer](https://github.com/jakebolewski/rays) packages.
 + [SimplexBenchmarks](https://github.com/mlubin/SimplexBenchmarks) :: Benchmarks comparing individual operations of the Simplex method for linear programming in Julia and other languages. Uses modified version of jlSimplex to generate data from real instances.
 + [SortPerf.jl](https://github.com/kmsquire/SortPerf.jl) :: Julia module to test the performance of sorting algorithms.
++ [SchumakerSpline.jl](https://github.com/s-baumann/SchumakerSpline.jl) :: A Julia package to create a shape preserving spline that quickly and smoothly converges to a fixed point in economic dynamics problems including value function iteration.
 
 ----
 
