@@ -128,6 +128,7 @@ __Pre-compiled Binaries__
 + [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
 + [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 + [julia-require](https://github.com/MetalNinjas/julia-require) :: Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
++ [JPM.jl](https://github.com/MikeInnes/JPM.jl) :: Decentralised Julia Packages.
 + [Kip.jl](https://github.com/jkroso/Kip.jl) :: A metadata free package manager for Julia.
 + [LibALPM.jl](https://github.com/yuyichao/LibALPM.jl) :: Wrapper for libalpm, the ArchLinux package manager.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
