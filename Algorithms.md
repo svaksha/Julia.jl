@@ -1,22 +1,22 @@
 __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures) : Data Mining, Clustering, ...__
 
 + [ALGORITHMS](#algorithms)
-   + [Association Rule](#association-rule)
-   + [Checksum](#checksum)
-   + [Collaborative Filtering](#collaborative-filtering)
-   + [Scheduling Algorithm](#scheduling-algorithm)
-   + [Quantum](#quantum)
-   + [Pattern Matching](#pattern-matching)
-   + [Sorting](#sorting)
-   + [Time](#time)
+    + [Association Rule](#association-rule)
+    + [Checksum](#checksum)
+    + [Collaborative Filtering](#collaborative-filtering)
+    + [Scheduling Algorithm](#scheduling-algorithm)
+    + [Quantum](#quantum)
+    + [Pattern Matching](#pattern-matching)
+    + [Sorting](#sorting)
+    + [Time](#time)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
-   + [NP-complete](#np-complete)
-      + [SAT](#sat)
+    + [NP-complete](#np-complete)
+        + [SAT](#sat)
 + [DATA STRUCTURES](#data-structures)
-   + [Array-Matrix](#array-matrix)
-   + [Graphs](#graphs)
-   + [Org-JuliaSparse](#org-juliasparse)
-   + [Publications](#publications)
+    + [Array-Matrix](#array-matrix)
+    + [Graphs](#graphs)
+    + [Org-JuliaSparse](#org-juliasparse)
+    + [Publications](#publications)
 
 ----
 
@@ -102,6 +102,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 + [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 + [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
++ [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
 + [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
