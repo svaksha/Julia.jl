@@ -1,3 +1,5 @@
+**NB :: Not all the DB's are freely available.**
+
 + [SOFTWARE](#software)
     + [Data Science](#data-science)
 + [ACTUARIAL SCIENCE](#actuarial-science)
@@ -13,15 +15,18 @@
 + [CHEMISTRY](#chemistry)
     + [Crystallography](#crystallography)
 + [DATA](#data)
+    + [DATA-DataScience](#data-datascience)
     + [DATA-General](#data-general)
     + [DATA-Research](#data-scientific)
     + [DATA-Scientific](#data-scientific)
++ [Earth Science](#earth-science)
 + [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
++ [Reproducibility](#reproducibility)
 + [VIDEO](#video)
-+ [RESOURCES-DataScience](#resources-datascience)
+
 
 ----
 
@@ -120,6 +125,9 @@
 
 # DATA
 
+## DATA-DataScience
++ Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html).
+
 ## DATA-General
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.
 + [common-workflow-language](https://github.com/common-workflow-language/common-workflow-language) :: Repository for CWL Specfications.
@@ -135,6 +143,12 @@
 
 ## DATA-Scientific
 + [Scientific Databases](http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP.
+
+
+----
+
+# [Earth Science](https://en.wikipedia.org/wiki/Outline_of_Earth_sciences)
++ [British Geological Survey data set](http://www.bgs.ac.uk/) and a [blog post](http://britgeopeople.blogspot.de/2016/08/our-new-data-search-applicationby-lorna.html) linking 900 Gb of digital and electronic data deposited with the British Geological Survey since July 2014.
 
 ----
 
@@ -160,8 +174,3 @@
 
 # VIDEO
 + [Databrary](https://nyu.databrary.org) :: A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org).
-
-----
-
-# RESOURCES-DataScience
-+ Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html).
