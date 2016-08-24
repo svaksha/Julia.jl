@@ -145,7 +145,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 # ALGEBRA
 + [algebra](https://github.com/alrahimi/algebra/) :: A hierarchy of abstract algebraic structures in Julia.
 + [AMVW.jl](https://github.com/andreasnoackjensen/AMVW.jl) :: Fast and backward stable computation of roots of polynomials in Julia
-+ [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
 + [Clockwork.jl](https://github.com/malmaud/Clockwork.jl) :: Represent modular arithmetic via clock symbols. 
 + [Cuhre.jl](https://github.com/tflovorn/Cuhre.jl) :: Simplified Julia interface to Cuhre integration routine.
 + [Digits.jl](https://github.com/greenflash1357/Digits.jl) :: A module for integer digit manipulation.
@@ -169,6 +168,9 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [adeles](https://github.com/williamstein/adeles) :: Ideles adeles algebraic number theory.
 
 ## [Abstract Algebra](http://en.wikipedia.org/wiki/Abstract_algebra)
++ [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
++ [OpenCLBLAS.jl](https://github.com/mikhail-j/OpenCLBLAS.jl) :: OpenCL BLAS library wrapper for Julia with samples.
++ [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) :: Syntactic sugar for BLAS polynomials.
 
 ## [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
 + [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
