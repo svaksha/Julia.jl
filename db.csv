@@ -178,6 +178,7 @@ Algorithms,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely 
 Algorithms,Array-Matrix,SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
 Algorithms,Array-Matrix,StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Algorithms,Array-Matrix,SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
+Algorithms,Array-Matrix,StaticArrays.jl,https://github.com/andyferris/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
 Algorithms,Array-Matrix,SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
 Algorithms,Array-Matrix,TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 Algorithms,Array-Matrix,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
@@ -947,7 +948,6 @@ Mathematics,Modelling,Mimi.jl,https://github.com/anthofflab/Mimi.jl,Integrated A
 Mathematics,Modelling,OptiMimi.jl,https://github.com/jrising/OptiMimi.jl,Optimization for the `Mimi.jl` modeling framework.
 Mathematics,ALGEBRA,algebra,https://github.com/alrahimi/algebra/,A hierarchy of abstract algebraic structures in Julia.
 Mathematics,ALGEBRA,AMVW.jl,https://github.com/andreasnoackjensen/AMVW.jl,Fast and backward stable computation of roots of polynomials in Julia
-Mathematics,ALGEBRA,CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
 Mathematics,ALGEBRA,Clockwork.jl,https://github.com/malmaud/Clockwork.jl,Represent modular arithmetic via clock symbols.
 Mathematics,ALGEBRA,Cuhre.jl,https://github.com/tflovorn/Cuhre.jl,Simplified Julia interface to Cuhre integration routine.
 Mathematics,ALGEBRA,Digits.jl,https://github.com/greenflash1357/Digits.jl,A module for integer digit manipulation.
@@ -965,7 +965,10 @@ Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlg
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),BitCircuits.jl,https://github.com/um-tech-evolution/BitCircuits.jl,Boolean circuit evaluation using bitwise operations.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),ShowSet.jl,https://github.com/scheinerman/ShowSet.jl,Nicer output for Set and IntSet objects.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SugarBLAS.jl,https://github.com/lopezm94/SugarBLAS.jl,Syntactic sugar for BLAS polynomials.
 Mathematics,OrthogonalPolynomials,ChebyshevApprox,https://github.com/RJDennis/ChebyshevApprox,Julia code to approximate continuous functions using Chebyshev polynomials.
 Mathematics,OrthogonalPolynomials,InterPol.jl,https://github.com/pwl/InterPol.jl,Interpolating polynomial for Julia.
 Mathematics,OrthogonalPolynomials,Jacobi.jl,https://github.com/pjabardo/Jacobi.jl,Jacobi polynomials and Gauss quadrature related functions.
@@ -1023,6 +1026,7 @@ Mathematics,[Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions
 Mathematics,[IntegralEquation](https://en.wikipedia.org/wiki/Integral_equation),ApproxFun,https://github.com/dlfivefifty/ApproxFun,Julia IFun Implementation is a package for approximating functions. It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
 Mathematics,[IntegralEquation](https://en.wikipedia.org/wiki/Integral_equation),SIE.jl,https://github.com/ApproxFun/SIE.jl,Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
 Mathematics,[IntegralEquation](https://en.wikipedia.org/wiki/Integral_equation),SingularIntegralEquations.jl,https://github.com/ApproxFun/SingularIntegralEquations.jl,Julia package for solving singular integral equations and Riemann–Hilbert problems.
+Mathematics,[IntegralEquation](https://en.wikipedia.org/wiki/Integral_equation),WiltonInts84.jl,https://github.com/krcools/WiltonInts84.jl,Integrals of arbitrary powers of R over flat triangles.
 Mathematics,Resources,NumericalMath’s documentation for Integration,http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html),
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),AutoDiff.jl,https://github.com/scidom/AutoDiff.jl,Juila package for performing automatic differentiation.
 Mathematics,[OrdinaryDifferentialEquation](http://en.wikipedia.org/wiki/Ordinary_differential_equation),DASSL.jl,https://github.com/pwl/DASSL.jl,An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
@@ -1225,6 +1229,7 @@ OpenData,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki
 OpenData,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
 OpenData,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
 OpenData,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
+OpenData,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html),
 OpenData,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
 OpenData,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
 OpenData,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -1237,7 +1242,6 @@ OpenData,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.
 OpenData,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
 OpenData,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
 OpenData,VIDEO,Databrary,https://nyu.databrary.org,A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org).
-OpenData,RESOURCES-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html),
 Physics,,ACME.jl,https://github.com/HSU-ANT/ACME.jl,Analog Circuit Modeling and Emulation for Julia.
 Physics,,auditory.jl,https://github.com/jfsantos/auditory.jl,Auditory filterbanks in Julia.
 Physics,,Chipmunk.jl,https://github.com/zyedidia/Chipmunk.jl,A binding of the physics engine Chipmunk for Julia.
@@ -1906,7 +1910,6 @@ Super-Computing,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks r
 Super-Computing,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
 Super-Computing,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
 Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
-Super-Computing,GPU,OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
 Super-Computing,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
 Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),AbstractGPUArray.jl,https://github.com/JuliaGPU/AbstractGPUArray.jl,An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
 Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
