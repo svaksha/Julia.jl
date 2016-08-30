@@ -90,7 +90,6 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) :: Julia bindings to the Performance Application Programming Interface (PAPI).
 
 ### Reactive Programming
-+ [React.jl](https://github.com/shashi/React.jl) :: Reactive programming primitives for Julia.
 + [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
 
 ### Serialization
