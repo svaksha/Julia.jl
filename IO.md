@@ -34,6 +34,7 @@
    + [BDF.jl fork](https://github.com/codles/BDF.jl) by @codles :: A fork of BDF.jl that has started to add support for [EDF](http://www.edfplus.info/specs/edf.html) files.
 + [BGZF.jl](https://github.com/kmsquire/BGZF.jl) :: A Julia package to read/write BGZF compressed files.
 + [Brukerfile.jl](https://github.com/tknopp/Brukerfile.jl) :: Read Bruker data files.
++ [BufferedStreams.jl](https://github.com/BioJulia/BufferedStreams.jl) :: Fast composable IO streams.
 + [COFF.jl](https://github.com/Keno/COFF.jl) :: A julia implementation of the PE/COFF file format.
 + [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
 + [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
