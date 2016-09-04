@@ -30,7 +30,7 @@
 
 ----
 
-# GEOSTATISTICS
+# [GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics)
 + [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
 + [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: Geostatistics in Julia.
 + [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
@@ -43,7 +43,7 @@
 + [Proj4.jl](https://github.com/FugroRoames/Proj4.jl) :: Julia wrapper for PROJ.4 cartographic projections library. 
 + [PyProj.jl](https://github.com/kshramt/PyProj.jl) ::  A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
 
-## GIS
+## [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
 + [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 + [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) :: A library for measuring approximate distance and location given latitudes and longitudes.
 + [FlowNetworks.jl](https://github.com/scheidan/FlowNetworks.jl) :: Types and function to represent hydrological flow networks.
