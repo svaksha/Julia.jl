@@ -37,6 +37,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [FredData.jl](https://github.com/micahjsmith/FredData.jl) :: Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 + [fund.jl](https://github.com/davidanthoff/fund.jl) :: An implementation of FUND in Julia.
 + [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
++ [Gensys.jl](https://github.com/QuantEcon/Gensys.jl) :: A Julia version of Gensys (Sims 2000).
 + [GrowthModels](https://github.com/NYUEcon/GrowthModels) :: This is a repository that contains solutions to many growth models that are of the same class.
 + [Jconometrics.jl](https://github.com/adriantorrie/Jconometrics.jl) :: MATLAB to Julia port of Spatial Econometrics.
 + [Loss.jl](https://github.com/johnmyleswhite/Loss.jl) :: General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
@@ -83,7 +84,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 
 
 ###### Resources
-+ [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications) :: A repository that houses example code, applications and teaching material related to QuantEcon.
++ [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: A repository that houses example code, applications and teaching material related to QuantEcon.
 + [Self-Study Plan for Becoming a Quantitative Developer](http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 + Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo.
 

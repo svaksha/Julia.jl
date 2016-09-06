@@ -647,30 +647,30 @@ Earth-Science,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[For
 Earth-Science,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[ForestModelling](https://en.wikipedia.org/wiki/Category:Forest_modelling),LAIscript,https://github.com/ETC-UA/LAIscript,scripts to automatically run LAI calculations with ODBC link to custom database.
 Earth-Science,AquaticEcology,Iceberg.jl,https://github.com/njwilson23/Iceberg.jl,Ice-seawater interface calculations using level set methods.
 Earth-Science,AquaticEcology,TEOS.jl,https://github.com/njwilson23/TEOS.jl,Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
-Earth-Science,GEOSTATISTICS,Krige.jl,https://github.com/njwilson23/Krige.jl,Kriging estimators in Julia.
-Earth-Science,GEOSTATISTICS,GeoStats.jl,https://github.com/juliohm/GeoStats.jl,Geostatistics in Julia.
-Earth-Science,GEOSTATISTICS,GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
-Earth-Science,GEOSTATISTICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,3D image quilting simulation.
+Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),Krige.jl,https://github.com/njwilson23/Krige.jl,Kriging estimators in Julia.
+Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/juliohm/GeoStats.jl,Geostatistics in Julia.
+Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
+Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,3D image quilting simulation.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),OpenStreetMapParser.jl,https://github.com/yeesian/OpenStreetMapParser.jl,This package provides basic functionality for parsing OpenStreetMap data in Julia, in the following file formats: [.osm (XML)](http://wiki.openstreetmap.org/wiki/OSM_XML) and [.pbf (binary)](http://wiki.openstreetmap.org/wiki/PBF_Format).
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),Proj4.jl,https://github.com/FugroRoames/Proj4.jl,Julia wrapper for PROJ.4 cartographic projections library.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),PyProj.jl,https://github.com/kshramt/PyProj.jl, A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
-Earth-Science,GIS,DtPlot.jl,https://github.com/dejakaymac/DtPlot.jl,
-Earth-Science,GIS,EarthSphere.jl,https://github.com/cuevasclemente/EarthSphere.jl,A library for measuring approximate distance and location given latitudes and longitudes.
-Earth-Science,GIS,FlowNetworks.jl,https://github.com/scheidan/FlowNetworks.jl,Types and function to represent hydrological flow networks.
-Earth-Science,GIS,Gaia.jl,https://github.com/jsbj/Gaia.jl,Unified interface for observational datasets of the Earth's weather and climate.
-Earth-Science,GIS,GDAL.jl,https://github.com/wkearn/GDAL.jl,Geospatial Data Analysis Library Wrapper for Julia.
-Earth-Science,GIS,GDALfuns.jl,https://github.com/meggart/GDALfuns.jl,GDAL wrapper.
-Earth-Science,GIS,GeographicLibPy.jl,https://github.com/kshramt/GeographicLibPy.jl,Thin wrapper of geographiclib Python package.
-Earth-Science,GIS,GIS.jl,https://github.com/wkearn/GIS.jl,A package for the visualization and manipulation of geographic data.
-Earth-Science,GIS,GeoIP.jl,https://github.com/johnmyleswhite/GeoIP.jl,is a Julia package that can estimate the geographic location of IP addresses.
-Earth-Science,GIS,GMT.jl,https://github.com/joa-quim/GMT.jl,is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views.
-Earth-Science,GIS,hillerislambers,https://github.com/wkearn/hillerislambers,Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics.
-Earth-Science,GIS,Jultran.jl,https://github.com/jsbj/Jultran.jl,Julia interface for the HITRAN database of spectral lines, based on Ray Pierrehumbert's PyTran.
-Earth-Science,GIS,OpenStreetMap.jl,https://github.com/tedsteiner/OpenStreetMap.jl,The Julia OpenStreetMap package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
-Earth-Science,GIS,SpatialStats.jl,https://github.com/dchudz/SpatialStats.jl,Spatial Statistics.
-Earth-Science,GIS,Turf.jl,https://github.com/yeesian/Turf.jl,A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
-Earth-Science,GIS,Tyndall.jl,https://github.com/jsbj/Tyndall.jl,Radiative transfer in Julia.
-Earth-Science,GIS,Watershed.jl,https://github.com/seung-lab/Watershed.jl,Julia version of watershed.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),DtPlot.jl,https://github.com/dejakaymac/DtPlot.jl,
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),EarthSphere.jl,https://github.com/cuevasclemente/EarthSphere.jl,A library for measuring approximate distance and location given latitudes and longitudes.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),FlowNetworks.jl,https://github.com/scheidan/FlowNetworks.jl,Types and function to represent hydrological flow networks.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Gaia.jl,https://github.com/jsbj/Gaia.jl,Unified interface for observational datasets of the Earth's weather and climate.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GDAL.jl,https://github.com/wkearn/GDAL.jl,Geospatial Data Analysis Library Wrapper for Julia.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GDALfuns.jl,https://github.com/meggart/GDALfuns.jl,GDAL wrapper.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeographicLibPy.jl,https://github.com/kshramt/GeographicLibPy.jl,Thin wrapper of geographiclib Python package.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GIS.jl,https://github.com/wkearn/GIS.jl,A package for the visualization and manipulation of geographic data.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeoIP.jl,https://github.com/johnmyleswhite/GeoIP.jl,is a Julia package that can estimate the geographic location of IP addresses.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GMT.jl,https://github.com/joa-quim/GMT.jl,is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),hillerislambers,https://github.com/wkearn/hillerislambers,Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Jultran.jl,https://github.com/jsbj/Jultran.jl,Julia interface for the HITRAN database of spectral lines, based on Ray Pierrehumbert's PyTran.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),OpenStreetMap.jl,https://github.com/tedsteiner/OpenStreetMap.jl,The Julia OpenStreetMap package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),SpatialStats.jl,https://github.com/dchudz/SpatialStats.jl,Spatial Statistics.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Turf.jl,https://github.com/yeesian/Turf.jl,A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Tyndall.jl,https://github.com/jsbj/Tyndall.jl,Radiative transfer in Julia.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Watershed.jl,https://github.com/seung-lab/Watershed.jl,Julia version of watershed.
 Earth-Science,GPS,NMEA.jl,https://github.com/templarlabs/NMEA.jl,Julia package for parsing GPS NMEA messages.
 Earth-Science,Org-[JuliaGeo](https://github.com/JuliaGeo),Geodesy.jl,https://github.com/JuliaGeo/Geodesy.jl,Work with points defined in various coordinate systems.
 Earth-Science,Org-[JuliaGeo](https://github.com/JuliaGeo),GeoJSON.jl,https://github.com/JuliaGeo/GeoJSON.jl,Utilities for working with GeoJSON data in Julia.
@@ -1607,6 +1607,7 @@ Statistics,Econometrics,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,This p
 Statistics,Econometrics,FredData.jl,https://github.com/micahjsmith/FredData.jl,Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 Statistics,Econometrics,fund.jl,https://github.com/davidanthoff/fund.jl,An implementation of FUND in Julia.
 Statistics,Econometrics,GARCH.jl,https://github.com/AndreyKolev/GARCH.jl,Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
+Statistics,Econometrics,Gensys.jl,https://github.com/QuantEcon/Gensys.jl,A Julia version of Gensys (Sims 2000).
 Statistics,Econometrics,GrowthModels,https://github.com/NYUEcon/GrowthModels,This is a repository that contains solutions to many growth models that are of the same class.
 Statistics,Econometrics,Jconometrics.jl,https://github.com/adriantorrie/Jconometrics.jl,MATLAB to Julia port of Spatial Econometrics.
 Statistics,Econometrics,Loss.jl,https://github.com/johnmyleswhite/Loss.jl,General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
@@ -1644,7 +1645,7 @@ Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),Grist.jl,https://gith
 Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),Timestamps.jl,https://github.com/JuliaQuant/Timestamps.jl,Immutable timestamped values.
 Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),TradeModels.jl,https://github.com/JuliaQuant/TradeModels.jl,Modeling the allocation of resources to markets based on the restraints of objective functions.
 Statistics,Org-[JuliaQuant](https://github.com/JuliaQuant),TradingLogic.jl,https://github.com/JuliaQuant/TradingLogic.jl,An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
-Statistics,Resources,QuantEcon.applications,https://github.com/QuantEcon/QuantEcon.applications,A repository that houses example code, applications and teaching material related to QuantEcon.
+Statistics,Resources,QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,A repository that houses example code, applications and teaching material related to QuantEcon.
 Statistics,Resources,Self-Study Plan for Becoming a Quantitative Developer,http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer,
 Statistics,Resources,log : [Julia introduction by Sébastien Villemot,http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo,
 Statistics,DATASCIENCE,DataScienceBestPractices,https://github.com/AllenDowney/DataScienceBestPractices,Supporting code for a video series on best practices for exploratory data analysis.
