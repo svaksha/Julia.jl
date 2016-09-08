@@ -418,6 +418,9 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [SolveDSGE](https://github.com/RJDennis/SolveDSGE) :: The package contains a variety of methods for solving Dynamic Stochastic General Equilibrium (DSGE) models to first- or second-order accuracy. It will be of most interest to macro-economists, but others may find the routines for reordering the complex Schur form and the generalized complex Schur form useful.
 + [StochasticSearch.jl](https://github.com/phrb/StochasticSearch.jl) :: Stochastic Local Search using Julia.
 
+###### Resources
++ [gradient analysis](https://github.com/NeuroanatomyAndConnectivity/gradient_analysis) :: Notebooks on Gradient analysis.
+
 ----
 
 # RESOURCES
