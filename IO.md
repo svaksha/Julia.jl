@@ -127,9 +127,11 @@
 + [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl] :: String Distances in Julia.
 + [StringUtils.jl](https://github.com/ScottPJones/StringUtils.jl) :: String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
 + [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
++ [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) ::  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [Unitful.jl](https://github.com/ajkeller34/Unitful.jl) :: A Julia package for physical units.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
+
 
 ### [Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types
 + [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) :: Wrap any Julia composite type in an Associative interface.
