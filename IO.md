@@ -127,7 +127,6 @@
 + [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl] :: String Distances in Julia.
 + [StringUtils.jl](https://github.com/ScottPJones/StringUtils.jl) :: String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
 + [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
-+ [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) ::  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [Unitful.jl](https://github.com/ajkeller34/Unitful.jl) :: A Julia package for physical units.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
@@ -140,6 +139,8 @@
 + [Modifyfield.jl](https://github.com/StephenVavasis/Modifyfield.jl) :: It creates functions to modify immutable fields of a composite type inside a container.
 
 ### [Type Parameters](http://en.wikipedia.org/wiki/TypeParameter)
++ [ArbDecimals.jl](https://github.com/JuliaArbTypes/ArbDecimals.jl) :: reliable and performant extended precision floating point math.
++ [ArbFloats.jl](https://github.com/JuliaArbTypes/ArbFloats.jl) :: extended precision *values* for arithmetic, elementary, and some special functions (25..500 digits).
 + [AutoTypeParameters.jl](https://github.com/andrewcooke/AutoTypeParameters.jl) :: A Julia library to reversibly encode any value so that it can be used as a type parameter.
 + [FileIO2.jl](https://github.com/ma-laforge/FileIO2.jl) :: File Object Type Hierarchy.
 + [FreeType.jl](https://github.com/jhasse/FreeType.jl) :: FreeType 2 bindings API wrapper.
@@ -153,8 +154,10 @@
    + **DOCS**
    + [% coverage for Number documentation, for example, what % of concrete types have abs() defined?](https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10)
 + [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
++ [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) ::  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 + [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
 + [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
+
 
 ###### Resources
 + Jameson Nash on [Static and Ahead of Time (AOT) compiled Julia](http://juliacomputing.com/blog/2016/02/09/static-julia.html)
