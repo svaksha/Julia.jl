@@ -303,6 +303,7 @@ API,R,RCall.jl,https://github.com/JuliaStats/RCall.jl,Embedded R within Julia - 
 API,R,RCalling.jl,https://github.com/randy3k/RCalling.jl,An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages.
 API,R,Rif.jl,https://github.com/lgautier/Rif.jl,An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
 API,R,RJulia,https://github.com/armgong/RJulia,R package to call Julia - Use Julia embedded API to write a packege for R.
+API,R,ReadStat.jl,https://github.com/WizardMac/ReadStat.jl,Read files from Stata, SAS, and SPSS.
 API,R,runr,http://rpubs.com/yihui/julia-knitr,Allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 API,R,utils.jl,https://github.com/johnmyleswhite/utils.jl,Utility functions for Julia + R compatibility wrapper.
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
@@ -600,6 +601,10 @@ Computer-Graphics,Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/),CVImgProc.j
 Computer-Graphics,Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/),CVHighGUI.jl,https://github.com/JuliaOpenCV/CVHighGUI.jl,High-level GUI.
 Computer-Graphics,Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/),CVVideoIO.jl,https://github.com/JuliaOpenCV/CVVideoIO.jl,Media I/O.
 Computer-Graphics,Org-[JuliaOpenCV](https://github.com/JuliaOpenCV/),LibOpenCV.jl,https://github.com/JuliaOpenCV/LibOpenCV.jl,OpenCV library dependencies.
+Computer-Graphics,Org-JuliaPlots,RecipesBase.jl,https://github.com/JuliaPlots/RecipesBase.jl,Base package for defining transformation recipes on user types for `Plots.jl`.
+Computer-Graphics,Org-JuliaPlots,PlotRecipes.jl,https://github.com/JuliaPlots/PlotRecipes.jl,Assorted recipes to be used with Plots.jl
+Computer-Graphics,Org-JuliaPlots,PlotUtils.jl,https://github.com/JuliaPlots/PlotUtils.jl,Generic helper algorithms for building plotting components
+Computer-Graphics,Org-JuliaPlots,StatPlots.jl,https://github.com/JuliaPlots/StatPlots.jl,Statistical plotting recipes for Plots.jl
 Computer-Graphics,Org-[SISL](https://github.com/sisl),PGFPlots.jl,https://github.com/sisl/PGFPlots.jl,Plotting tool that uses the LaTeX pgfplots package (built on top of TikZ) to produce plots. Short [tutorial](http://nbviewer.ipython.org/github/sisl/PGFPlots.jl/blob/master/doc/PGFPlots.ipynb) notebook.
 Computer-Graphics,Org-[SISL](https://github.com/sisl),Smile.jl,https://github.com/sisl/Smile.jl,A Julia wrapper for the Smile C++ Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks .
 Computer-Graphics,Org-[SISL](https://github.com/sisl),TikzGraphs.jl,https://github.com/sisl/TikzGraphs.jl,Graph layout package using algorithms built into [PGF/TikZ 3.0+](http://www.ctan.org/pkg/pgf).
@@ -837,6 +842,8 @@ IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_ty
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
 IO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),ArbDecimals.jl,https://github.com/JuliaArbTypes/ArbDecimals.jl,reliable and performant extended precision floating point math.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),ArbFloats.jl,https://github.com/JuliaArbTypes/ArbFloats.jl,extended precision *values* for arithmetic, elementary, and some special functions (25..500 digits).
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),AutoTypeParameters.jl,https://github.com/andrewcooke/AutoTypeParameters.jl,A Julia library to reversibly encode any value so that it can be used as a type parameter.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FileIO2.jl,https://github.com/ma-laforge/FileIO2.jl,File Object Type Hierarchy.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),FreeType.jl,https://github.com/jhasse/FreeType.jl,FreeType 2 bindings API wrapper.
@@ -849,6 +856,7 @@ IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TupleTypes.jl,ht
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeCheck.jl,https://github.com/astrieanna/TypeCheck.jl,a type checker for Julia.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),% coverage for Number documentation, for example, what % of concrete types have abs() defined?,https://github.com/astrieanna/TypeCheck.jl#methodswithdescendantstdatatypeonlyleavesboolfalselimint10,
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Typeclass.jl,https://github.com/jasonmorton/Typeclass.jl,Prototype typeclasses for Julia.
+IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypedDelegation.jl,https://github.com/JuliaArbTypes/TypedDelegation.jl, Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeGraph.jl,https://github.com/johnmyleswhite/TypeGraph.jl,Visualize the Julia type system.
 IO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeTree.jl,https://github.com/johnmyleswhite/TypeTree.jl,source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
 IO,Resources,ameson Nash on [Static and Ahead of Time (AOT) compiled Julia,http://juliacomputing.com/blog/2016/02/09/static-julia.html,
@@ -1905,6 +1913,7 @@ Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDDe
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD2.jl,https://github.com/johnmyleswhite/SGD2.jl,Stochastic gradient descent, a draft of new methods for SGD calculations.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SolveDSGE,https://github.com/RJDennis/SolveDSGE,The package contains a variety of methods for solving Dynamic Stochastic General Equilibrium (DSGE) models to first- or second-order accuracy. It will be of most interest to macro-economists, but others may find the routines for reordering the complex Schur form and the generalized complex Schur form useful.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),StochasticSearch.jl,https://github.com/phrb/StochasticSearch.jl,Stochastic Local Search using Julia.
+Statistics,Resources,gradient analysis,https://github.com/NeuroanatomyAndConnectivity/gradient_analysis,Notebooks on Gradient analysis.
 Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
 Statistics,Cookbooks,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
 Statistics,Slides,Julia For R Programmers,http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates,

@@ -11,6 +11,7 @@
 + [Org-JuliaIO](#org-juliaio)
 + [Org-JuliaLang](#org-julialang)
 + [Org-JuliaOpenCV](#org-juliaopencv)
++ [Org-JuliaPlots](#org-juliaplots)
 + [Org-SISL](#org-sisl)
 
 ----
@@ -221,6 +222,14 @@ Computational Geometry with Julia. [Discussion centered around the JuliaGeometry
 + [CVHighGUI.jl](https://github.com/JuliaOpenCV/CVHighGUI.jl) :: High-level GUI.
 + [CVVideoIO.jl](https://github.com/JuliaOpenCV/CVVideoIO.jl) :: Media I/O.
 + [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) :: OpenCV library dependencies.
+
+----
+
+# Org-JuliaPlots
++ [RecipesBase.jl](https://github.com/JuliaPlots/RecipesBase.jl) :: Base package for defining transformation recipes on user types for `Plots.jl`.
++ [PlotRecipes.jl](https://github.com/JuliaPlots/PlotRecipes.jl) :: Assorted recipes to be used with Plots.jl
++ [PlotUtils.jl](https://github.com/JuliaPlots/PlotUtils.jl) :: Generic helper algorithms for building plotting components
++ [StatPlots.jl](https://github.com/JuliaPlots/StatPlots.jl) :: Statistical plotting recipes for Plots.jl
 
 ----
 
