@@ -125,6 +125,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
 + [Rif.jl](https://github.com/lgautier/Rif.jl) :: An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
 + [RJulia](https://github.com/armgong/RJulia) :: R package to call Julia - Use Julia embedded API to write a packege for R.
++ [ReadStat.jl](https://github.com/WizardMac/ReadStat.jl) :: Read files from Stata, SAS, and SPSS.
 + [runr](http://rpubs.com/yihui/julia-knitr) :: Allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 + [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
 
