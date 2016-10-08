@@ -65,9 +65,6 @@ __Packages and resources that support various programming styles, Software Archi
 + [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) :: A julia macro for unrolling conditional `for` loops.
 + [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) :: Universal Time using local system timezone.
 
-### Meta Programming
-+ [Sugar.jl](https://github.com/bramtayl/Sugar.jl).
-
 ###### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
