@@ -86,9 +86,9 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 
 ### Array-Matrix
 + [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
-+ [ArrayViews.jl](https://github.com/lindahua/ArrayViews.jl) :: A Julia package to explore a new system of array views.
++ [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 + [ArrayViewsAPL.jl](https://github.com/timholy/ArrayViewsAPL.jl) :: Generic array-view type with APL indexing semantics.
-+ [AxisArrays.jl](https://github.com/mbauman/AxisArrays.jl) :: Performant arrays where each dimension can have a named axis with values.
++ [AxisArrays.jl](https://github.com/JuliaArrays/AxisArrays.jl) :: Performant arrays where each dimension can have a named axis with values.
 + [BandedMatrices.jl](https://github.com/ApproxFun/BandedMatrices.jl) :: A Julia package for representing banded matrices.
 + [CategoricalArrays.jl](https://github.com/nalimilan/CategoricalArrays.jl) :: Arrays for working with categorical data (both nominal and ordinal) in Julia.
 + [ChunkedArrays.jl](https://github.com/ChrisRackauckas/ChunkedArrays.jl) :: A package for increasing the performance of arrays generated.
@@ -99,8 +99,8 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 + [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
 + [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
-+ [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 + [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
++ [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 + [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
 + [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.

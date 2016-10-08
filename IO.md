@@ -100,6 +100,7 @@
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: A BigRational package for Julia using GMP.
 + [CBOR.jl](https://github.com/saurvs/CBOR.jl) :: A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
 + [Codecs.jl](https://github.com/dcjones/Codecs.jl) :: Common data encoding algorithms.
++ [CustomUnitRanges.jl](https://github.com/JuliaArrays/CustomUnitRanges.jl) :: Package-specific AbstractUnitRange types for julia.
 + [DanaTypes.jl](https://github.com/DANA-Laboratory/DanaTypes.jl) :: Types for continuous variables or parameters.
 + [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 + [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) :: Expression parser that simulates type inheritance.

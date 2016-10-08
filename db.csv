@@ -157,9 +157,9 @@ Algorithms,DATASTRUCTURES,ScikitLearn.jl,https://github.com/cstjean/ScikitLearn.
 Algorithms,DATASTRUCTURES,heatsheet for [choosing the right estimator,http://scikit-learn.org/stable/tutorial/machine_learning_map/),
 Algorithms,DATASTRUCTURES,ScikitLearnBase.jl,https://github.com/cstjean/ScikitLearnBase.jl,Definition of the [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) API.
 Algorithms,Array-Matrix,ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
-Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/lindahua/ArrayViews.jl,A Julia package to explore a new system of array views.
+Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
 Algorithms,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
-Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/mbauman/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
+Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/JuliaArrays/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
 Algorithms,Array-Matrix,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
 Algorithms,Array-Matrix,CategoricalArrays.jl,https://github.com/nalimilan/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
 Algorithms,Array-Matrix,ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
@@ -170,8 +170,8 @@ Algorithms,Array-Matrix,HMat.jl,https://github.com/YingzhouLi/HMat.jl,Hierarchic
 Algorithms,Array-Matrix,ImmutableArrays.jl,https://github.com/twadleigh/ImmutableArrays.jl,Statically-sized immutable vectors and matrices.
 Algorithms,Array-Matrix,IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
 Algorithms,Array-Matrix,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
-Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
+Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Algorithms,Array-Matrix,RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
 Algorithms,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
@@ -808,6 +808,7 @@ IO,[DataType](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://gith
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),CustomUnitRanges.jl,https://github.com/JuliaArrays/CustomUnitRanges.jl,Package-specific AbstractUnitRange types for julia.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
