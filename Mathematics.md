@@ -246,6 +246,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 ### [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 + [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) :: Julia bindings for AMD's clFFT library.
 + [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) :: Wrapper for the CUDA FFT library.
++ [FFTViews.jl](https://github.com/JuliaArrays/FFTViews.jl) :: Julia package for fast fourier transforms and periodic views.
 + [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 + [SnFFT.jl](https://github.com/GDPlumb/SnFFT.jl) :: A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn. 
 

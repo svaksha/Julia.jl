@@ -174,6 +174,7 @@ Algorithms,Array-Matrix,IndexedArrays.jl,https://github.com/garrison/IndexedArra
 Algorithms,Array-Matrix,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
 Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
 Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
+Algorithms,Array-Matrix,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Algorithms,Array-Matrix,RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
 Algorithms,Array-Matrix,RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
@@ -1031,6 +1032,7 @@ Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),WDSP.
 Mathematics,Org-[JuliaDSP](https://github.com/JuliaDSP),DSP.jl,https://github.com/JuliaDSP/DSP.jl,The DSP ver-0.0.1 package, includes functions for periodogram estimation, generating window functions, filter design and FFT-based FIR filtering, works on Julia 0.2 and 0.3-prerelease. The [documentation is available via RTD.org](http://dspjl.readthedocs.org/en/latest/)
 Mathematics,[FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform),CLFFT.jl,https://github.com/JuliaGPU/CLFFT.jl,Julia bindings for AMD's clFFT library.
 Mathematics,[FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform),CUFFT.jl,https://github.com/JuliaGPU/CUFFT.jl,Wrapper for the CUDA FFT library.
+Mathematics,[FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform),FFTViews.jl,https://github.com/JuliaArrays/FFTViews.jl,Julia package for fast fourier transforms and periodic views.
 Mathematics,[FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform),NFFT.jl,https://github.com/tknopp/NFFT.jl,Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 Mathematics,[FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform),SnFFT.jl,https://github.com/GDPlumb/SnFFT.jl,A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn.
 Mathematics,[Functions](http://en.wikipedia.org/wiki/Category:Types_of_functions),BasisFunctions.jl,https://github.com/daanhb/BasisFunctions.jl,A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package.
