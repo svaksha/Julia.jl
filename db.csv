@@ -176,6 +176,7 @@ Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delay
 Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
+Algorithms,Array-Matrix,Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
 Algorithms,Array-Matrix,RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
 Algorithms,Array-Matrix,RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
 Algorithms,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
