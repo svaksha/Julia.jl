@@ -1331,7 +1331,6 @@ Programming-Paradigms,Macros,MetaMerge.jl,https://github.com/davidagold/MetaMerg
 Programming-Paradigms,Macros,TimeIt.jl,https://github.com/kbarbary/TimeIt.jl,Timeit macro for Julia.
 Programming-Paradigms,Macros,Unroll.jl,https://github.com/StephenVavasis/Unroll.jl,A julia macro for unrolling conditional `for` loops.
 Programming-Paradigms,Macros,UTime.jl,https://github.com/J-Sarnoff/UTime.jl,Universal Time using local system timezone.
-Programming-Paradigms,MetaProgramming,Sugar.jl,https://github.com/bramtayl/Sugar.jl),
 Programming-Paradigms,Resources,Meta Programming Manual,http://docs.julialang.org/en/latest/manual/metaprogramming/,
 Programming-Paradigms,Resources,The Design Impact of Multiple Dispatch,http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013,
 Programming-Paradigms,Resources,What are the advantages of multiple dispatch in Julia,https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch),
@@ -1357,6 +1356,7 @@ QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,h
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
+QA,Debugging,Suppressor.jl,https://github.com/Ismael-VC/Suppressor.jl, Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),DocStringExtensions.jl,https://github.com/JuliaDocs/DocStringExtensions.jl,Extensions for Julia's docsystem.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/JuliaDocs/Documenter.jl,A documentation generator for Julia.

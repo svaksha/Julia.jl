@@ -18,6 +18,7 @@
 # Debugging
 + [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) :: Simple utilities for debugging julia code.
 + [RR.jl](https://github.com/Keno/RR.jl) :: Julia interface to mozilla's `rr`.
++ [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) ::  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 
 ## Timers
 + [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
