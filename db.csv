@@ -161,8 +161,10 @@ Algorithms,Array-Matrix,ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.
 Algorithms,Array-Matrix,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
 Algorithms,Array-Matrix,AxisArrays.jl,https://github.com/JuliaArrays/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
 Algorithms,Array-Matrix,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
+Algorithms,Array-Matrix,CatIndices.jl,https://github.com/JuliaArrays/CatIndices.jl,Julia package for indices-aware array concatenation and growth.
 Algorithms,Array-Matrix,CategoricalArrays.jl,https://github.com/nalimilan/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
 Algorithms,Array-Matrix,ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
+Algorithms,Array-Matrix,EndpointRanges.jl,https://github.com/JuliaArrays/EndpointRanges.jl,Julia package for doing arithmetic on endpoints in array indexing.
 Algorithms,Array-Matrix,FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
 Algorithms,Array-Matrix,FlexibleArrays.jl,http://eschnett.github.io/FlexibleArrays.jl/,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
 Algorithms,Array-Matrix,FreqTables.jl,https://github.com/nalimilan/FreqTables.jl,Frequency tables in Julia.
@@ -173,6 +175,7 @@ Algorithms,Array-Matrix,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Ju
 Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
 Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
+Algorithms,Array-Matrix,RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
 Algorithms,Array-Matrix,RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
 Algorithms,Array-Matrix,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
 Algorithms,Array-Matrix,SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
@@ -1328,7 +1331,7 @@ Programming-Paradigms,Resources,Meta Programming Manual,http://docs.julialang.or
 Programming-Paradigms,Resources,The Design Impact of Multiple Dispatch,http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013,
 Programming-Paradigms,Resources,What are the advantages of multiple dispatch in Julia,https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch),
 Programming-Paradigms,Multi-Threading,OCCA.jl,https://github.com/ReidAtcheson/OCCA.jl,Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
-Programming-Paradigms,Multi-Threading,TiledIteration.jl,https://github.com/timholy/TiledIteration.jl,Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
+Programming-Paradigms,Multi-Threading,TiledIteration.jl,https://github.com/JuliaArrays/TiledIteration.jl,Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),CallGraphs.jl,https://github.com/timholy/CallGraphs.jl,A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),dataflow.jl,https://github.com/JeffBezanson/dataflow.jl,Introduction to dataflow analysis using julia.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),ExpressionPatterns.jl,https://github.com/fcard/ExpressionPatterns.jl,Match, Destructure and Dispatch on expressions.

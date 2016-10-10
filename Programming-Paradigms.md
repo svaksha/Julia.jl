@@ -79,7 +79,7 @@ __Packages and resources that support various programming styles, Software Archi
 
 ### Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
-+ [TiledIteration.jl](https://github.com/timholy/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
++ [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
 ### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
 __Libs for memory management (malloc), bounds checking, literals and other base program analysis options.__
