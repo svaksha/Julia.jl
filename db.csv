@@ -725,7 +725,7 @@ Hardware,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplif
 Hardware,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 Hardware,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
 Hardware,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
-Hardware,ControlSystem,Fontconfig.jl,https://github.com/dcjones/Fontconfig.jl,Basic Julia bindings for fontconfig.
+Hardware,ControlSystem,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,Basic Julia bindings for fontconfig.
 Hardware,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
 Hardware,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
 Hardware,ControlSystem,LinearControl.jl,https://github.com/jemofthewest/LinearControl.jl,Julia package for analysis and design of control strategies for linear systems.
@@ -814,6 +814,7 @@ IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://githu
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),CustomUnitRanges.jl,https://github.com/JuliaArrays/CustomUnitRanges.jl,Package-specific AbstractUnitRange types for julia.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
@@ -1978,37 +1979,38 @@ Super-Computing,Time,CPUTime.jl,https://github.com/schmrlng/CPUTime.jl,Amodule f
 Super-Computing,Time,USERTime.jl,https://github.com/christianpeel/USERTime.jl,A Julia package for measuring elapsed user time.
 Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),Actors.jl,https://github.com/daqcore/Actors.jl,An Actor Model implementation in Julia.
 Super-Computing,[CONCURRENCY](https://en.wikipedia.org/wiki/Concurrency_%28computer_science%29),RawMutex.jl,https://github.com/vchuravy/RawMutex.jl,A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
+Super-Computing,Cloud-Cluster,CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
+Super-Computing,Cloud-Cluster,ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
+Super-Computing,Cloud-Cluster,GCloud.jl,https://github.com/spencerlyon2/GCloud.jl,Tools for working with Google Compute engine via the cloud CLI.
+Super-Computing,Cloud-Cluster,HavenOnDemand.jl,https://github.com/richitmx/HavenOnDemand.jl,Julia package to access HPE Haven OnDemand API.
+Super-Computing,Cloud-Cluster,HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
+Super-Computing,Cloud-Cluster,MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
+Super-Computing,Cloud-Cluster,OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
+Super-Computing,Cloud-Cluster,SGEArrays.jl,https://github.com/davidavdav/SGEArrays.jl,SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWS.jl,https://github.com/amitmurthy/AWS.jl,supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSCore.jl,https://github.com/samoconnor/AWSCore.jl,Amazon Web Services Core Functions and Types.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),AWSS3.jl,https://github.com/samoconnor/AWSS3.jl,AWS S3 Simple Storage Service interface for Julia.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),CloudArray.jl,https://github.com/gsd-ufal/CloudArray.jl,Easy big data programming in the cloud.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),FunHPC.jl,https://github.com/eschnett/FunHPC.jl,Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),GCloud.jl,https://github.com/spencerlyon2/GCloud.jl,Tools for working with Google Compute engine via the cloud CLI.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HavenOnDemand.jl,https://github.com/richitmx/HavenOnDemand.jl,Julia package to access HPE Haven OnDemand API.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ParallelGLM.jl,https://github.com/dmbates/ParallelGLM.jl,Parallel fitting of GLMs using SharedArrays.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),PTools.jl,https://github.com/amitmurthy/PTools.jl,A collection of utilities for parallel computing in Julia.
-Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),SGEArrays.jl,https://github.com/davidavdav/SGEArrays.jl,SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 Super-Computing,GridComputing,IBFS.jl,https://github.com/eurika-kaiser/IBFS.jl,Grid simulation solver.
+Super-Computing,HPC,FunHPC.jl,https://github.com/eschnett/FunHPC.jl,Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
+Super-Computing,HPC,hpcc.jl,https://github.com/jiahao/hpcc.jl,Implementation of the HPC Challenge kernels in Julia.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),ClusterManagers.jl,https://github.com/JuliaLang/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Collectl.jl,https://github.com/ranjanan/Collectl.jl,Plotting information from Collectl in julia.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LCJC.jl,https://github.com/amitmurthy/LCJC.jl,Loosely Coupled Julia Clusters.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LoraMPI.jl,https://github.com/scidom/LoraMPI.jl,MPI Job Manager for Lora Parralel-Centric Runners.
-Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Persist.jl,https://github.com/eschnett/Persist.jl,The package Persist allows running jobs independent of the Julia shell.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/JuliaComputing/ArrayFire.jl) by @JuliaComputin,Julia Wrapper for the ArrayFire library.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MT-Workloads,https://github.com/ranjanan/MT-Workloads,Multi-threaded workloads in Julia.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ParallelGLM.jl,https://github.com/dmbates/ParallelGLM.jl,Parallel fitting of GLMs using SharedArrays.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),PTools.jl,https://github.com/amitmurthy/PTools.jl,A collection of utilities for parallel computing in Julia.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Slurm.jl,https://github.com/JuliaParallel/Slurm.jl,Experimental Julia interface to `slurm.schedmd.com`.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
 Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,Org-[JuliaParallel](https://JuliaParallel.github.io),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
@@ -2025,7 +2027,6 @@ Super-Computing,Resources,How to use AWS EC2 machines via addprocs for parallel 
 Super-Computing,Resources,Parallel and Distributed Computing with Julia,http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014,
 Super-Computing,Resources,ulia [installation and first steps,http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html),
 Super-Computing,Resources,n example of [interfacing with the Cloud Datastore via JSON,http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html,
-Super-Computing,Org-[JuliaLang](https://github.com/JuliaLang),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
 Super-Computing,Publications,Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof,http://jiahao.github.io/parallel-prefix/,A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 Utilities,DOCUMENTATION,Doc.jl,https://github.com/dcarrera/Doc.jl,Daniel Carrera's modern documentation system for Julia.
 Utilities,DOCUMENTATION,Docile.jl,https://github.com/MichaelHatherly/Docile.jl,Experimental Julia package documentation system.
