@@ -994,6 +994,7 @@ Mathematics,OrthogonalPolynomials,Orthopolys.jl,https://github.com/daviddelaat/O
 Mathematics,OrthogonalPolynomials,Polynomial.jl,https://github.com/vtjnash/Polynomial.jl,Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules.
 Mathematics,OrthogonalPolynomials,TempInterp.jl,https://github.com/cc7768/TempInterp.jl,Evaluation of Chebyshev polynomials and splines.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),SJulia,https://github.com/jlapeyre/SJulia,A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
+Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),Symata.jl,https://github.com/jlapeyre/Symata.jl,language for symbolic mathematics.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),Symbolic.jl,https://github.com/scidom/Symbolic.jl,Symbolic computations and computer algebra in Julia.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),SymEngine.jl,https://github.com/symengine/SymEngine.jl,Julia wrappers of SymEngine.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),ad4julia,https://github.com/bsxfan/ad4julia,Some automatic diffferentiation coding experiments in Julia.

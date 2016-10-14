@@ -189,6 +189,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 
 ## [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
 + [SJulia](https://github.com/jlapeyre/SJulia) :: A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
++ [Symata.jl](https://github.com/jlapeyre/Symata.jl) :: language for symbolic mathematics.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 + [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
 
