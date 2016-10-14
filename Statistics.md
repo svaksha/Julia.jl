@@ -399,6 +399,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Temporal.jl](https://github.com/dysonance/Temporal.jl) :: Flexible and efficient time series class & methods for the Julia language.
 + [TimeModels.jl](https://github.com/JuliaStats/TimeModels.jl) :: Modeling time series in Julia.
 + [TimeSeries.jl](https://github.com/JuliaStats/TimeSeries.jl) :: Time-series toolkit for Julia.
++ [TimeSeriesQueries.jl](https://github.com/milktrader/TimeSeriesQueries.jl) :: experimental query of TimeSeries objects.
 + [TimeSeriesRegressions.jl](https://github.com/andreasnoack/TimeSeriesRegressions.jl) :: Tools for working with regression based time series modelling.
 
 ----
