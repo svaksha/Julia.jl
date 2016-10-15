@@ -129,7 +129,6 @@
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
 
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
-+ [Crispulator.jl](https://github.com/tlnagy/Crispulator.jl) :: A pooled genetic screen simulator.
 + [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) and a [mailing list](https://groups.google.com/forum/#!topic/julia-box/) for discussions.
    + [JuliaBoxUtils.jl](https://github.com/tanmaykm/JuliaBoxUtils.jl) :: JuliaBox utility methods.
 + [Julia on the SageMath cloud server](https://cloud.sagemath.com).
