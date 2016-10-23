@@ -6,15 +6,15 @@ using DebuggingUtilities
 function scrape_md(filename)
 
     # get the category, don't process some files
-    category = split(split(filename, "/")[end], ".")[1]
+    category = split(splitdir(filename)[end], ".")[1]
     category in ("LICENSE", "README") && return []
-    
+
     subcategory = ""
     records = NTuple{5,UTF8String}[]
 
     subcategory = ""
     records = NTuple{5,UTF8String}[]
-    
+
     # process the  lines
     f = open(filename)
     for l in eachline(f)
@@ -44,14 +44,14 @@ function scrape_md(filename)
     println("Processed $(length(records)) records in category $category.")
     records
 
-    records             
+    records
 end
 
 # -----------------------------------------------------------------
 
 
 import Glob: glob
-const _dir = joinpath(relpath(Base.source_dir()), "..")
+const _dir = joinpath(relpath(Base.source_dir()), "../")
 
 # loop over all markdown files in the root directory, appending the records to the list
 records = []
