@@ -1,7 +1,5 @@
-
 module ScrapeJuliajl
 using DebuggingUtilities
-
 
 function scrape_md(filename)
 
@@ -43,12 +41,20 @@ function scrape_md(filename)
     close(f)
     println("Processed $(length(records)) records in category $category.")
     records
+end
 
-    records
+function write_csv_line{N, T<:AbstractString}(io::IO, record::NTuple{N,T})
+    record = map(x->replace(x, '"', "\"\""), record)
+
+    for (i, el) in enumerate(record)
+        any(x->x in el, (',', '"')) ? write(io, '"', el, '"') :
+                                      write(io, el)
+
+        write(io, i == N ? '\n' : ',')
+    end
 end
 
 # -----------------------------------------------------------------
-
 
 import Glob: glob
 const _dir = joinpath(relpath(Base.source_dir()), "../")
@@ -63,8 +69,7 @@ end
 println("Writing out $(length(records)) records.")
 f = open(joinpath(_dir, "db.csv"), "w")
 for record in records
-    write(f, join(record, ","))
-    write(f, "\n")
+    write_csv_line(f, record)
 end
 close(f)
 
