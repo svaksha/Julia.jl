@@ -65,6 +65,8 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ###### RESOURCES
 + [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) :: Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 + [study](https://github.com/codematician/study) :: A study of interesting algorithms.
++ [Multidimensional algorithms and iteration](http://www.juliabloggers.com/multidimensional-algorithms-and-iteration-3/).
+
 
 ----
 
