@@ -84,6 +84,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [julia-icc-travis](https://github.com/sunoru/julia-icc-travis) :: Build Julia using icc on the Travis CI.
 + [LLVM.jl](https://github.com/jakebolewski/LLVM.jl) :: A Julia package for LLVM.
 + [llvm-cbe](https://github.com/JuliaComputing/llvm-cbe) :: A resurrected LLVM C Backend, with improvements for Julia.
++ [ParallelAccelerator.jl](https://github.com/IntelLabs/ParallelAccelerator.jl) :: The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs.
 
 ### Preprocessor
 + [Precompile.jl](https://github.com/JuliaLang/julia/blob/master/base/precompile.jl) :: Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)
@@ -125,6 +126,26 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
 + [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) :: Amazon Web Services Core Functions and Types.
 + [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) :: AWS S3 Simple Storage Service interface for Julia.
+
+## [Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing)
++ [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) :: Few utility types over Julia Vector type.
++ [ClusterDicts.jl](https://github.com/amitmurthy/ClusterDicts.jl) :: Global and Distributed dictionaries for Julia.
++ [Flume.jl](https://github.com/malmaud/Flume.jl) :: A port of the Google Flume Data-Parallel Pipeline system.
++ [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) :: Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
++ [HavenOnDemand.jl](https://github.com/richitmx/HavenOnDemand.jl) :: Julia package to access HPE Haven OnDemand API.
++ [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) :: High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
++ [ParallelGLM.jl](https://github.com/dmbates/ParallelGLM.jl) :: Parallel fitting of GLMs using SharedArrays.
++ [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
++ [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
+
+## Cloud Computing
++ [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
++ [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) :: Amazon Web Services Core Functions and Types.
++ [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) :: AWS S3 Simple Storage Service interface for Julia.
++ [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
++ [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) :: Easy big data programming in the cloud. 
++ [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
++ [GoogleCloud.jl](https://github.com/joshbode/GoogleCloud.jl) :: Google Cloud package based on JSON API. Currently only support Google Cloud Storage. Require julia v0.5. 
 
 ## Grid Computing
 + [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
