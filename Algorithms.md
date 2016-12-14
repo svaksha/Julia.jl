@@ -160,7 +160,8 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [NamedTuples.jl](https://github.com/blackrock/NamedTuples.jl) :: Provides a high performance implementation of named tuples for Julia (cf named tuples in python). 
 + [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
 + [OffsetArrays.jl](https://github.com/alsam/OffsetArrays.jl) :: Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein. 
-+ [ParallelGraphs.jl](https://github.com/pranavtbhat/ParallelGraphs.jl) :: Massive Graph Analysis Platform built on `ComputeFramework.jl`.
++ [Graft.jl](https://github.com/pranavtbhat/Graft.jl) :: A graph analysis toolkit for Julia that stores vertex and edge metadata in separate dataframes. 
+    + A blog post describing the [GSoC work on Graft.jl](http://www.juliabloggers.com/gsoc-2016-project-graft-jl/).
 + [PDMats.jl](https://github.com/lindahua/PDMats.jl) :: Uniform Interface for positive definite matrices of various structures.
 + [PositiveFactorizations.jl](https://github.com/timholy/PositiveFactorizations.jl) :: Positive-definite (approximations) to matrices.
 + [PropertyGraph.jl](https://github.com/PhillP/PropertyGraph.jl) :: A Julia package for constructing, creating and querying graph data structures. 
