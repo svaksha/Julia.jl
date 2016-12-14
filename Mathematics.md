@@ -200,6 +200,7 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
 + [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [Cuba.jl](https://github.com/giordano/Cuba.jl) :: Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre.
++ [Cubature.jl](https://github.com/stevengj/Cubature.jl) :: One- and multi-dimensional adaptive integration routines for the Julia language.
 + [Einsum.jl](https://github.com/ahwillia/Einsum.jl) :: Einstein summation notation in julia.
 + [FastPolynomials.jl](https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl) :: Basic polynomials with Horner-like evaluation over x^2 and x.
 + [FDM.jl](https://github.com/grasingerm/FDM.jl) :: Finite difference methods in Julia.
