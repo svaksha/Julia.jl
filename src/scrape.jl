@@ -1,20 +1,18 @@
-
 module ScrapeJuliajl
 using DebuggingUtilities
-
 
 function scrape_md(filename)
 
     # get the category, don't process some files
-    category = split(split(filename, "/")[end], ".")[1]
+    category = split(splitdir(filename)[end], ".")[1]
     category in ("LICENSE", "README") && return []
-    
+
     subcategory = ""
     records = NTuple{5,UTF8String}[]
 
     subcategory = ""
     records = NTuple{5,UTF8String}[]
-    
+
     # process the  lines
     f = open(filename)
     for l in eachline(f)
@@ -43,15 +41,23 @@ function scrape_md(filename)
     close(f)
     println("Processed $(length(records)) records in category $category.")
     records
+end
 
-    records             
+function write_csv_line{N, T<:AbstractString}(io::IO, record::NTuple{N,T})
+    record = map(x->replace(x, '"', "\"\""), record)
+
+    for (i, el) in enumerate(record)
+        any(x->x in el, (',', '"')) ? write(io, '"', el, '"') :
+                                      write(io, el)
+
+        write(io, i == N ? '\n' : ',')
+    end
 end
 
 # -----------------------------------------------------------------
 
-
 import Glob: glob
-const _dir = joinpath(relpath(Base.source_dir()), "..")
+const _dir = joinpath(relpath(Base.source_dir()), "../")
 
 # loop over all markdown files in the root directory, appending the records to the list
 records = []
@@ -63,8 +69,7 @@ end
 println("Writing out $(length(records)) records.")
 f = open(joinpath(_dir, "db.csv"), "w")
 for record in records
-    write(f, join(record, ","))
-    write(f, "\n")
+    write_csv_line(f, record)
 end
 close(f)
 
