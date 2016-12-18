@@ -107,6 +107,7 @@ The [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-bi
 + [ElectroJulia.jl](https://github.com/sam81/ElectroJulia.jl) :: Julia functions to process electroencephalographic recordings.
 + [NEAT.jl](https://github.com/Andy-P/NEAT.jl) :: Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 + [NeuroAnalysis.jl](https://github.com/babaq/NeuroAnalysis.jl) :: Julia package for neural signal analysis.
++ [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) :: A set of tools to load data written by the Open Ephys GUI.
 + [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) :: Macaque brain and skull extraction tools.
 + [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
 
