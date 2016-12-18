@@ -41,6 +41,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 ----
 
 # GENOMICS
++ [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) :: Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 + [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
 + [BismarkSummary.jl](https://github.com/nw11/BismarkSummary.jl) :: Basic summary of multiple Bismark runs. 
 + [COSMIC.jl](https://github.com/haploxer/COSMIC.jl) :: Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
