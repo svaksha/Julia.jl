@@ -145,6 +145,7 @@ __The official Julia conference.__
 + Errorbar_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199563) and in an [ipython viewer](http://nbviewer.ipython.org/7210792)
 + [Euler.jl](https://github.com/moon6pence/Euler.jl) :: Project Euler with julia language.
 + A wikibooks page [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia).
++ [JuliaCookbook](http://pranavtbhat.me/JuliaCookbook/latest/) :: A cookbook containing Julia code snippets. [Source code](https://github.com/pranavtbhat/JuliaCookbook).
 + [julia-mit](https://github.com/stevengj/julia-mit) :: Tutorials and information on the Julia language for MIT numerical-computation courses.
 + [JuliaTutorial.jl](https://github.com/abhi123link/JuliaTutorial.jl) :: The Julia Tutorial series.
 + [lazysort.jl](https://gist.github.com/anj1/2fe551053c849f54677e) :: Lazy quicksort snippet.
@@ -154,7 +155,7 @@ __The official Julia conference.__
 + Subplot_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199540) and in an [ipython viewer](http://nbviewer.ipython.org/7211037)
 + Time-annotation_example.jl :: in a [github gist](https://gist.github.com/gizmaa/7199519) and in an [ipython viewer](http://nbviewer.ipython.org/7211049)
 + Windrose_Example.jl:: in a [github gist](https://gist.github.com/gizmaa/7199478) and in an [ipython viewer](http:/nbviewer.ipython.org/7211059)
-+ [JuliaCookbook](http://pranavtbhat.me/JuliaCookbook/latest/) :: A cookbook containing Julia code snippets.
+
 ----
 
 # GENERAL RESOURCES

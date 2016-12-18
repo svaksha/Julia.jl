@@ -11,7 +11,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     + [Abstract Algebra](#abstract-algebra)
     + [Boolean Algebra](#boolean-algebra)
     + [Linear Algebra](#linear-algebra)
-    + [Orthogonal Polynomials](#orthogonal-polynomials) 
+    + [Polynomials](#polynomials) 
     + [Symbolic Computation](#symbolic-computation)
 + [Calculus & Applied Math](#calculus-&-applied-math)
     + [DSP](#dsp)
@@ -179,12 +179,13 @@ theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [OpenCLBLAS.jl](https://github.com/mikhail-j/OpenCLBLAS.jl) :: OpenCL BLAS library wrapper for Julia with samples.
 + [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) :: Syntactic sugar for BLAS polynomials.
 
-## Orthogonal Polynomials
+## [Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
 + [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.
 + [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
 + [Jacobi.jl](https://github.com/pjabardo/Jacobi.jl) :: Jacobi polynomials and Gauss quadrature related functions.
 + [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) :: Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 + [Polynomial.jl](https://github.com/vtjnash/Polynomial.jl) :: Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
++ [Remez.jl](https://github.com/simonbyrne/Remez.jl) :: Remez algorithm for computing minimax polynomial approximations.
 + [TempInterp.jl](https://github.com/cc7768/TempInterp.jl) :: Evaluation of Chebyshev polynomials and splines.
 
 ## [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
