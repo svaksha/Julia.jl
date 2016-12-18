@@ -4,6 +4,7 @@
     + [CSV](#csv)
     + [HDF5](#hdf5)
     + [JLD](#jld)
+    + [ODS](#ods)
     + [XML](#xml)
 + [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
@@ -77,6 +78,9 @@
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
 + [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD.
 + [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files
+
+## ODS
++ [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) :: ODS I/O for Julia Dict or DF using the python ezodf module. 
 
 ## XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
