@@ -148,18 +148,14 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Clockwork.jl](https://github.com/malmaud/Clockwork.jl) :: Represent modular arithmetic via clock symbols. 
 + [Cuhre.jl](https://github.com/tflovorn/Cuhre.jl) :: Simplified Julia interface to Cuhre integration routine.
 + [Digits.jl](https://github.com/greenflash1357/Digits.jl) :: A module for integer digit manipulation.
-+ [FirstOrderLogic.jl](https://github.com/TotalVerb/FirstOrderLogic.jl) :: 
-This package aims to include functions that manipulate mathematical logic.
-+ [Hecke](https://github.com/thofma/hecke) :: A package for algebraic number 
-theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
++ [FirstOrderLogic.jl](https://github.com/TotalVerb/FirstOrderLogic.jl) :: This package aims to include functions that manipulate mathematical logic.
++ [Hecke](https://github.com/thofma/hecke) :: A package for algebraic number theory that works on top of `Nemo.jl` by Tommy Hofmann and Claus Fieker.
 + [Juniper.jl](https://github.com/jcrist/Juniper.jl) :: A simple computer algebra system.
 + [Lifts.jl](https://github.com/scheinerman/Lifts.jl) :: Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation. 
 + [Mods.jl](https://github.com/scheinerman/Mods.jl) :: Easy modular arithmetic for Julia.
 + [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
 + [Nemo.jl](http://nemocas.org/) :: A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
-+ [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast
-  complex polynomial root finder, with support for arbitrary precision
-  calculations
++ [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast complex polynomial root finder, with support for arbitrary precision calculations
 + [QNaN.jl](https://github.com/J-Sarnoff/QNaN.jl) :: Quiet NaNs were designed to propagate information from within numerical computations.
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.

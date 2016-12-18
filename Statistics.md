@@ -185,6 +185,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 ### Org-[JuliaOpt](http://juliaopt.org/)
 An umbrella group for Julia-based optimization-related projects, with its own [mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups.
 + [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library.
++ [CSDP.jl](https://github.com/JuliaOpt/CSDP.jl) :: Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver. 
 + [CoinOptServices.jl](https://github.com/JuliaOpt/CoinOptServices.jl) ::  Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK.
 + [GLPKMathProgInterface.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl) :: Interface between the GLPK.jl wrapper and MathProgBase.jl.
