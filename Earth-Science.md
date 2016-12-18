@@ -1,4 +1,5 @@
 + [AERONAUTICS](#aeronautics)
++ [CLIMATOLOGY](#climatology)
 + [ECOLOGY](#ecology)
    + [Agronomy](#agronomy)
    + [Aquatic Ecology](#aquatic-ecology)
@@ -14,6 +15,11 @@
 # AERONAUTICS
 + [Rotations.jl](https://github.com/ronisbr/Rotations.jl) :: Functions related to rotations of coordinate frames, angle2dcm, dcm2angle.
 + [Quaternions.jl](https://github.com/forio/Quaternions.jl) :: A Julia module with quaternion and dual-quaternion functionality.
+
+----
+
+# [CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology)
++ [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) :: This package is a collection of commonly-used tools in Climate Science.
 
 ----
 
