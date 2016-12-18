@@ -7,9 +7,10 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [COMPILERS](#compilers)
    + [Preprocessor](#preprocessor)
    + [Transpiler](#transpiler)
-+ [Computer Performance](#computer-performance)
++ [COMPUTER PERFORMANCE](#computer-performance)
 + [CONCURRENCY](#concurrency)
-   + [Cloud-Cluster](#cloud-cluster)
+   + [Cloud Computing](#cloud-computing)
+   + [Cluster Computing](#cluster-computing)
    + [Distributed Computing](#distributed-computing)
    + [Grid Computing](#grid-computing)
    + [HPC](#hpc)
@@ -17,7 +18,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
    + [Parallel Computing](#parallel-computing)
        + [SIMD Computing](#simd-computing)
        + [Org-JuliaParallel](#org-juliaparallel)
-+ [Publications](#publications)
++ [PUBLICATIONS](#publications)
 
 ----
 
@@ -95,7 +96,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 
 ---- 
 
-# Computer Performance
+# COMPUTER PERFORMANCE
 
 + [ISPC.jl](https://github.com/damiendr/ISPC.jl) :: Tools to work with [ISPC](https://ispc.github.io/) in Julia.
 
@@ -112,20 +113,24 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Actors.jl](https://github.com/daqcore/Actors.jl) :: An Actor Model implementation in Julia. 
 + [RawMutex.jl](https://github.com/vchuravy/RawMutex.jl) :: A __MUT__ual __EX__clusion program object in Julia that allows multiple program threads to share the same resource, such as file access, but not simultaneously.
 
-## Cloud-Cluster
+## Cloud Computing
++ [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
++ [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) :: Amazon Web Services Core Functions and Types.
++ [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) :: AWS S3 Simple Storage Service interface for Julia.
++ [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 + [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) :: Easy big data programming in the cloud. 
-+ [ClusterDicts.jl](https://github.com/amitmurthy/ClusterDicts.jl) :: Global and Distributed dictionaries for Julia.
 + [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
++ [GoogleCloud.jl](https://github.com/joshbode/GoogleCloud.jl) :: Google Cloud package based on JSON API. Currently only support Google Cloud Storage. Require julia v0.5. 
+
+
+## Cluster Computing
++ [ClusterDicts.jl](https://github.com/amitmurthy/ClusterDicts.jl) :: Global and Distributed dictionaries for Julia.
 + [HavenOnDemand.jl](https://github.com/richitmx/HavenOnDemand.jl) :: Julia package to access HPE Haven OnDemand API.
 + [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) :: High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 + [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
 + [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 + [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
-## [Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing)
-+ [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
-+ [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) :: Amazon Web Services Core Functions and Types.
-+ [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) :: AWS S3 Simple Storage Service interface for Julia.
 
 ## [Distributed Computing](https://en.wikipedia.org/wiki/Category:Distributed_computing)
 + [ChainedVectors.jl](https://github.com/tanmaykm/ChainedVectors.jl) :: Few utility types over Julia Vector type.
@@ -138,19 +143,11 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
 + [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
-## Cloud Computing
-+ [AWS.jl](https://github.com/amitmurthy/AWS.jl) :: supports the EC2 and S3 API's, letting you start and stop EC2 instances dynamically.
-+ [AWSCore.jl](https://github.com/samoconnor/AWSCore.jl) :: Amazon Web Services Core Functions and Types.
-+ [AWSS3.jl](https://github.com/samoconnor/AWSS3.jl) :: AWS S3 Simple Storage Service interface for Julia.
-+ [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
-+ [CloudArray.jl](https://github.com/gsd-ufal/CloudArray.jl) :: Easy big data programming in the cloud. 
-+ [GCloud.jl](https://github.com/spencerlyon2/GCloud.jl) :: Tools for working with Google Compute engine via the cloud CLI.
-+ [GoogleCloud.jl](https://github.com/joshbode/GoogleCloud.jl) :: Google Cloud package based on JSON API. Currently only support Google Cloud Storage. Require julia v0.5. 
-
 ## Grid Computing
 + [IBFS.jl](https://github.com/eurika-kaiser/IBFS.jl) :: Grid simulation solver.
 
 ## HPC
++ [Dtree.jl](https://github.com/kpamnany/Dtree.jl) :: Julia wrapper for a distributed dynamic scheduler for HPC applications.
 + [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) :: Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
 + [hpcc.jl](https://github.com/jiahao/hpcc.jl) :: Implementation of the HPC Challenge kernels in Julia.
 
@@ -202,6 +199,6 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 
 ----
 
-# Publications
+# PUBLICATIONS
 + [Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof](http://jiahao.github.io/parallel-prefix/) :: A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 
