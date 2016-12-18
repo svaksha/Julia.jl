@@ -1,6 +1,7 @@
 **Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
 + [GRAPHICS](#graphics)
+   * [3D graphics imaging](#3d-graphics-imaging)
    * [Games](#games)
 + [INFOGRAPHICS](#infographics)
    * [Non-Graphical Plotting](#non-graphical-plotting)
@@ -73,6 +74,9 @@
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
 + [VisualRegressionTests.jl](https://github.com/tbreloff/VisualRegressionTests.jl) :: Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
+
+## 3D [graphics](https://en.wikipedia.org/wiki/Category:3D_computer_graphics) [imaging](https://en.wikipedia.org/wiki/Category:3D_imaging)
++ [ConstructiveSolidGeometry.jl](https://github.com/jtramm/ConstructiveSolidGeometry.jl) :: A Constructive Solid Geometry (CSG) and ray tracing package for Julia.
 
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
