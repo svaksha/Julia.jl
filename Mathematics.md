@@ -9,7 +9,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     + [Modelling](#modelling)
 + [ALGEBRA](#algebra)
     + [Abstract Algebra](#abstract-algebra)
-    + [Boolean Algebra](#boolean-algebra)
+    + [Mathematical Logic](mathematical-logic)
+        + [Boolean Algebra](#boolean-algebra)
+        + [Set Theory](#set-theory)
     + [Linear Algebra](#linear-algebra)
     + [Polynomials](#polynomials) 
     + [Symbolic Computation](#symbolic-computation)
@@ -165,9 +167,14 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ## [Abstract Algebra](http://en.wikipedia.org/wiki/Abstract_algebra)
 
-## [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
+## [Mathematical Logic](https://en.wikipedia.org/wiki/Category:Mathematical_logic)
+
+### [Boolean Algebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra)
 + [BitCircuits.jl](https://github.com/um-tech-evolution/BitCircuits.jl) :: Boolean circuit evaluation using bitwise operations.
 + [ShowSet.jl](https://github.com/scheinerman/ShowSet.jl) :: Nicer output for Set and IntSet objects.
+
+### Set Theory
++ [NamedTuples.jl](https://github.com/blackrock/NamedTuples.jl) :: An implementation of named tuples to support both index and property based access, for example in the definition of a method or as the return value of a method. 
 
 ## [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
 + [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
