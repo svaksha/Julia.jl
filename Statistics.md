@@ -157,6 +157,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 + [scheduleCrew.jl](https://github.com/hugdiniz/scheduleCrew.jl).
 + [StructJuMP.jl](https://github.com/joehuchette/StructJuMP.jl) :: A block-structured optimization framework for JuMP.
++ [StochasticDualDynamicProgramming](github.com/blegat/StochasticDualDynamicProgramming.jl) :: Implementation of Stochastic Dual Dynamic Programming using the StructJuMP modeling interface.
 + [SCIP.jl](https://github.com/mlubin/SCIP.jl) by @mlubin :: An optimization software for mixed-integer programs.
 + [SCIP.jl](https://github.com/ryanjoneil/SCIP.jl) by @ryanjoneil :: A Julia interface to the SCIP solver.
 + [simplex.jl](https://github.com/davidagold/simplex.jl) :: Practice project program that performs the simplex algorithm.
