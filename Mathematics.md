@@ -75,6 +75,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Devectorize.jl](https://github.com/lindahua/Devectorize.jl) :: A Julia framework for delayed expression evaluation.
 + [DiffModels.jl](https://github.com/jdrugo/DiffModels.jl) : Diffusion Model simulation and first-passage time densities in Julia.
 + [Entropy.jl](https://github.com/grero/Entropy.jl) :: This package contains functionality for computing binless estimates of entropy from discrete and continuous samples for continuous distributions.
++ [EntropicCone.jl](https://github.com/blegat/EntropicCone.jl) :: Entropic Cone approximation and optimization
 + [Equations.jl](https://github.com/jhlq/Equations.jl) :: Derive mathematical relations.
 + [ExtremeValueDistributions.jl](https://github.com/sammorris81/ExtremeValueDistributions.jl) :: A Julia package to fit extreme value distributions.
 + [FastGauss.jl](https://github.com/ajt60gaibb/FastGauss.jl) :: Computes Gauss quadrature rules to 16-digit precision (so far Legendre, Jacobi, Lobatto, Radau).
