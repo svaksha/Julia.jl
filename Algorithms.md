@@ -182,6 +182,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
 + [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) :: Binary tree where the nodes contain the sum of the left and right children.
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
++ [TSPSubgradient.jl](https://github.com/whilo/TSPSubgradient.jl) :: A TSP approximation with the subgradient method. 
 + [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
 
 ### Publications

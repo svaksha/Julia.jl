@@ -316,6 +316,7 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Spatia
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),SumTrees.jl,https://github.com/iamed2/SumTrees.jl,Binary tree where the nodes contain the sum of the left and right children.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Trie.jl,https://github.com/JuliaLang/Trie.jl,Implementation of the trie data structure.
+Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),TSPSubgradient.jl,https://github.com/whilo/TSPSubgradient.jl,A TSP approximation with the subgradient method.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),XGBoost.jl,https://github.com/dmlc/XGBoost.jl,XGBoost Julia Package.
 Algorithms,Publications,julia-paper-arrays,https://github.com/jiahao/julia-paper-arrays,Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
 Algorithms,RESOURCES,Benchmarking Matrix Multiplication,http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.335/Matrix-multiplication-experiments.ipynb,
