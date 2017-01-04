@@ -1,5 +1,5 @@
-module ScrapeJuliajl
 using DebuggingUtilities
+module ScrapeJuliajl
 
 function scrape_md(filename)
 
