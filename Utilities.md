@@ -50,6 +50,7 @@
 + [Canvas.jl](https://github.com/shashi/Canvas.jl) :: Composable UIs in Julia.
 + [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
 + [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: A toolkit for viewing Julia packages, modules, etc....
++ [Module linker](http://fiatjaf.alhur.es/module-linker/#/julia) for Julia.
 + [PySide.jl](https://github.com/jverzani/PySide.jl) :: A julia interface for accessing Qt via PyCall and PySide.
 + [QML.jl](https://github.com/barche/QML.jl) :: Small example for starting an interface to Qt5 QML.
 + [Qt5.jl](https://github.com/tbreloff/Qt5.jl) :: A wrapper around C++ library `Qt5`.  {Usable: 1, Robust: 1, Active: 1}
