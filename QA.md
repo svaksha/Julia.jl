@@ -4,6 +4,7 @@
 + [Debugging](#debugging)
 + [Documentation Driven Development](#documentation-driven-development)
 + [LOGGING](#logging)
++ [Regression Testing](#regression-testing)
 + [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
@@ -44,6 +45,11 @@
 
 ----
 
+# Regression Testing
++ [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) Automated integrated regression tests for graphics libraries.
+
+
+----
 
 # STATIC ANALYSIS
 __Static Program Analysis__
