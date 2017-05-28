@@ -102,7 +102,9 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
 + [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 + [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
++ [IndexedTables.jl](https://github.com/JuliaComputing/IndexedTables.jl) :: N-dimensional sparse array structure in julia.
 + [IndirectArrays.jl](https://github.com/JuliaArrays/IndirectArrays.jl) :: Julia implementation of indexed or "lookup" arrays.
++ [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, provides a distributed-array-like data model for working with large persistent data sets. Given a set of CSV files, it builds and saves an index that allows the data to be accessed efficiently in the future. It also supports an "ingest" mode that converts data to a more efficient binary format.
 + [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
 + [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 + [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
