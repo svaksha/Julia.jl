@@ -167,6 +167,7 @@
 + [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.
 + [Termbox.jl](https://github.com/jgoldfar/Termbox.jl) :: A wrapper for Termbox, a lightweight text-based user interface library. OSX and Linux are currently supported, and the low-level interface is complete enough to re-implement the demo from the original package (see test/outputexample.jl).
++ [TerminalMenus.jl](https://github.com/nick-paul/TerminalMenus.jl) :: Simple interactive menus in the terminal. 
 + [TerminalUI.jl](https://github.com/Keno/TerminalUI.jl) :: Terminal User Interface.
 + [VT100.jl](https://github.com/Keno/VT100.jl) :: Terminal Emulation for terminal UI verification.
 
