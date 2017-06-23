@@ -388,6 +388,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [StatTests.jl](https://github.com/i-kiwamu/StatTests.jl) :: [A set of statistical tests for Julia.
 
 ## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
++ [BasisFunctionExpansions.jl](https://github.com/baggepinnen/BasisFunctionExpansions.jl) :: Basis Function Expansions for Julia.
 + [DependentBootstrap](https://github.com/colintbowers/DependentBootstrap.jl) :: A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 + [DFA.jl](https://github.com/afternone/DFA.jl) :: Detrended fluctuation analysis in Julia.
 + [julia_timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
