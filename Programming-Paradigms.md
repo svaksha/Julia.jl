@@ -14,6 +14,10 @@
 
 ----
 
++ [Turing.jl](https://github.com/yebai/Turing.jl) :: Probabilistic programming in Julia. 
+
+----
+
 # Org-[JuliaLang](https://github.com/JuliaLang)
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
