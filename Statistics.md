@@ -10,7 +10,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
       + [Genetic Programming](#genetic-programming)
       + [Geometric Programming](#geometric-programming)
    + [Org-JuliaOpt](#org-juliaopt)
-   + [Org-JuliaOptimizers](#org-juliaoptimizers)
+   + [Org-JuliaSmoothOptimizers](#org-juliasmoothoptimizers)
    + [Regression Analysis](#regression-analysis)
 + [STATISTICS](#statistics)
    + [Org-JuliaStats](#org-juliastats)
@@ -128,19 +128,11 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) :: An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 + [BLOM.jl](https://github.com/tkelman/BLOM.jl) :: A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers. 
-+ [CPLEX.jl](https://github.com/joehuchette/CPLEX.jl) :: The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
 + [DDUS.jl](https://github.com/vgupta1/DDUS.jl) :: Data-driven Uncertainty Sets for the JuMPeR framework.
 + [DReal.jl](https://github.com/zenna/DReal.jl) :: A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver. 
-+ [ECOS.jl](https://github.com/jfsantos/ECOS.jl) :: Julia wrapper for the ECOS SOCP solver.
 + [GeneticAlgorithms.jl](https://github.com/forio/GeneticAlgorithms.jl) :: is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
 + [JuliaCMAES](https://github.com/Staross/JuliaCMAES) :: CMA-ES port - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
 + [julia-nlopt](https://github.com/MetalNinjas/julia-nlopt) :: NLopt bindings for julia. {__NB: Not maintained for the current Julia releases__}.
-+ [JuMP.jl](https://github.com/IainNZ/JuMP.jl) :: Modelling language for Linear, Integer, and Quadratic Programming.
-  * __Resources::JuMP__::
-  + [JuMPSupplement](https://github.com/mlubin/JuMPSupplement) :: Repository containing supplementary materials and code for _JuMP: A Modeling Language for Mathematical Optimization_ by I. Dunning, J. Huchette, and M. Lubin.
-  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
-  + [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
-  + [CMU-notebooks](https://github.com/joehuchette/CMU-notebooks) :: IJulia notebooks for the JuMP tutorial at CMU.
 + [JuMPeR.jl](https://github.com/IainNZ/JuMPeR.jl) :: Julia for Mathematical Programming (JuMP) extension for Robust optimization.
 + [JuMPTools.jl](https://github.com/IainNZ/JuMPTools.jl) :: Small helper functions for JuMP models.
 + [Junquo.jl](http://github.com/IainNZ/Junquo.jl) :: stands for _JUlia Nonconvex QUadratically constrained quadratic program Optimizer_, a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver.
@@ -165,12 +157,11 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
   * [https://quickcheckjl.readthedocs.org/](https://quickcheckjl.readthedocs.org/)
 + [scheduleCrew.jl](https://github.com/hugdiniz/scheduleCrew.jl).
 + [StructJuMP.jl](https://github.com/joehuchette/StructJuMP.jl) :: A block-structured optimization framework for JuMP.
++ [StochasticDualDynamicProgramming](github.com/blegat/StochasticDualDynamicProgramming.jl) :: Implementation of Stochastic Dual Dynamic Programming using the StructJuMP modeling interface.
 + [SCIP.jl](https://github.com/mlubin/SCIP.jl) by @mlubin :: An optimization software for mixed-integer programs.
 + [SCIP.jl](https://github.com/ryanjoneil/SCIP.jl) by @ryanjoneil :: A Julia interface to the SCIP solver.
-+ [SCS.jl](https://github.com/karanveerm/SCS.jl) :: Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
 + [simplex.jl](https://github.com/davidagold/simplex.jl) :: Practice project program that performs the simplex algorithm.
 + [VinDsl.jl](https://github.com/jmxpearson/VinDsl.jl) :: A fast and furious domain-specific language for variational inference in Julia.
-+ [Xpress.jl](https://github.com/joaquimg/Xpress.jl) :: A package under development according to the FICO optimizer manual.
 
 ### [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 + [CGP.jl](https://github.com/glesica/CGP.jl) :: Cartesian Genetic Programming (CGP) implemented in Julia.
@@ -184,30 +175,46 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 
 ### Org-[JuliaOpt](http://juliaopt.org/)
 An umbrella group for Julia-based optimization-related projects, with its own [mailing list](https://groups.google.com/forum/#!forum/julia-opt) at Google groups.
-+ [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Julia interface to the mixed-integer linear programming solver Cbc via the CoinMP C library.
++ [AmplNLWriter.jl](https://github.com/JuliaOpt/AmplNLWriter.jl) :: Julia interface to AMPL-enabled solvers
++ [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
++ [Clp.jl](https://github.com/JuliaOpt/Clp.jl) :: Interface to the Coin-OR Linear Programming solver (CLP)
++ [CPLEX.jl](https://github.com/JuliaOpt/CPLEX.jl) :: The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
 + [CSDP.jl](https://github.com/JuliaOpt/CSDP.jl) :: Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver. 
 + [CoinOptServices.jl](https://github.com/JuliaOpt/CoinOptServices.jl) ::  Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK.
++ [ECOS.jl](https://github.com/JuliaOpt/ECOS.jl) :: Julia wrapper for the ECOS conic optimization solver.
++ [GLPK.jl](https://github.com/JuliaOpt/GLPK.jl) :: GLPK wrapper module for Julia.
 + [GLPKMathProgInterface.jl](https://github.com/JuliaOpt/GLPKMathProgInterface.jl) :: Interface between the GLPK.jl wrapper and MathProgBase.jl.
 + [Gurobi.jl](https://github.com/JuliaOpt/Gurobi.jl) :: is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP).
-+ [Ipopt.jl](https://github.com/JuliaOpt/Ipopt.jl) :: is a Julia interface to the Ipopt nonlinear solver.
++ [Ipopt.jl](https://github.com/JuliaOpt/Ipopt.jl) :: Julia interface to the Ipopt nonlinear solver.
++ [JuMP.jl](https://github.com/JuliaOpt/JuMP.jl) :: Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
+  * __Resources::JuMP__::
+  + [JuMPSupplement](https://github.com/mlubin/JuMPSupplement) :: Repository containing supplementary materials and code for _JuMP: A Modeling Language for Mathematical Optimization_ by I. Dunning, J. Huchette, and M. Lubin.
+  * [MIT-ORC Fall-2013 JuMP tutorial](https://github.com/IainNZ/JuMPTutorial)
+  + [Solving a Combination Lock Puzzle with JuMP + Julia](http://iaindunning.com/2013/combination-locks.html) and the [HackerNews thread](https://news.ycombinator.com/item?id=6425160).
+  + [CMU-notebooks](https://github.com/joehuchette/CMU-notebooks) :: IJulia notebooks for the JuMP tutorial at CMU.
 + [KNITRO.jl](https://github.com/JuliaOpt/KNITRO.jl) :: This package provides an interface for using the KNITRO solver from the Julia language, which can only be used after having purchased and installed a copy of KNITRO from Ziena Optimization.
 + [LsqFit.jl](https://github.com/JuliaOpt/LsqFit.jl) :: Simple curve fitting functionality from Optim.jl has been moved into its own package.
 + [MathProgBase.jl](https://github.com/JuliaOpt/MathProgBase.jl) :: Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming.
 + [Mosek.jl](https://github.com/JuliaOpt/Mosek.jl) :: Interface to the Mosek solver in Julia.
 + [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) :: Package to call the NLopt nonlinear-optimization library from the Julia language.
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
++ [PolyJuMP](https://github.com/JuliaOpt/PolyJuMP.jl) :: A JuMP extension for Polynomial Optimization.
++ [SCS.jl](https://github.com/JuliaOpt/SCS.jl) :: Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
++ [SemidefiniteModels](https://github.com/JuliaOpt/SemidefiniteModels.jl) :: A MathProgBase extension for Semidefinite Modelling.
++ [SumOfSquares.jl](https://github.com/JuliaOpt/SumOfSquares.jl) :: Sum of Squares Programming for Julia.
++ [Xpress.jl](https://github.com/JuliaOpt/Xpress.jl) :: A Julia interface for the FICO Xpress optimization suite.
 
-## Org-JuliaOptimizers
-+ [AMD.jl](https://github.com/JuliaOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
-+ [ampl.jl](https://github.com/JuliaOptimizers/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
-+ [AmplNLReader.jl](https://github.com/JuliaOptimizers/AmplNLReader.jl) :: A Julia Interface to AMPL.
-+ [CUTEst.jl](https://github.com/JuliaOptimizers/CUTEst.jl) :: Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo.
-+ [HSL.jl](https://github.com/JuliaOptimizers/HSL.jl) :: Julia interface to the HSL Mathematical Software Library.
-+ [Krylov.jl](https://github.com/JuliaOptimizers/Krylov.jl) :: A Julia Basket of Hand-Picked Krylov Methods.
-+ [LinearOperators.jl](https://github.com/JuliaOptimizers/LinearOperators.jl) :: Linear Operators for Julia.
-+ [NLP.jl](https://github.com/JuliaOptimizers/NLP.jl) :: A Data Structure for Optimization Problems in Julia.
-+ [NLPModels.jl](https://github.com/JuliaOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
+## Org-JuliaSmoothOptimizers
++ [AMD.jl](https://github.com/JuliaSmoothOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
++ [ampl.jl](https://github.com/JuliaSmoothOptimizers/ampl.jl) :: Julia interface to the AMPL Solver Library (ASL).
++ [AmplNLReader.jl](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl) :: A Julia Interface to AMPL.
++ [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) :: Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo.
++ [HSL.jl](https://github.com/JuliaSmoothOptimizers/HSL.jl) :: Julia interface to the HSL Mathematical Software Library.
++ [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) :: A Julia Basket of Hand-Picked Krylov Methods.
++ [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) :: Linear Operators for Julia.
++ [NLP.jl](https://github.com/JuliaSmoothOptimizers/NLP.jl) :: A Data Structure for Optimization Problems in Julia.
++ [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Compressed_sensing)
 + [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
