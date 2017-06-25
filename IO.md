@@ -92,6 +92,7 @@
 + [XMLDict.jl](https://github.com/samoconnor/XMLDict.jl) :: This package implements a simple Associative interface for XML documents.
 + [XMLRPC.jl](https://github.com/sjkelly/XMLRPC.jl) :: Send and recieve XML-RPCs with Julia.
 + [XmlToDict.jl](https://github.com/elcritch/XmlToDict.jl) ::  Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
++ [EzXML.jl](https://github.com/bicycle1885/EzXML.jl) :: XML/HTML handling tools for primates.
 
 #### HTML-XML
 + [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
