@@ -29,6 +29,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Geometry](#geometry)
     + [Algebraic Geometry](#algebraic-geometry)
     + [Computational Geometry](#computational-geometry)
+        + [Org-JuliaPolyhedra](#org-juliapolyhedra)
     + [Solid Geometry](#solid-geometry)
 + [Numerical Analysis](#numerical-analysis)
     + [Linear Algebra](#linear-algebra)
@@ -356,10 +357,12 @@ algebra library in Julia.
 + [Vec.jl](https://github.com/tawheeler/Vec.jl) :: Provides 2D and 3D vector types for vector operations in Julia.
 
 ## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
-+ [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) :: A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
 + [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
 + [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) :: Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
 + [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
+
+### Org-[JuliaPolyhedra](https://juliapolyhedra.github.io/)
++ [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) :: A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
 + [ConvexHull.jl](https://github.com/JuliaPolyhedra/ConvexHull.jl) :: A Julia library for polyhedral computations.
 + [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl) :: A wrapper for lrs.
 + [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl) :: It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
