@@ -44,6 +44,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 
 ### Pattern Matching
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
++ [association_rules_jl](https://github.com/bcbi/association_rules_jl) :: This package implements algorithms for association rule mining and sequential pattern mining, viz., the Apriori algorithm (Agrawal & Srikant, 1994) and the SPADE algorithm (Zaki, 2001). The former is used for association rule mining (e.g., "market basket" analysis), and the latter is used for identifying sequential patterns when the data possess a temporal ordering.
 + [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
 + [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
