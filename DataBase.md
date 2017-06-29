@@ -21,11 +21,13 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 
 # API
-**Middleware API's**
+**Middleware API's** - see also [API website](http://juliadb.github.io/)
 + [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
++ [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
 + [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 + [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
 + [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
++ [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
 + [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
    + __RESOURCES__
    + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
@@ -88,11 +90,10 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 ## SQLite
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
-+ [Sqlite3.jl](https://github.com/PeetV/Sqlite3.jl) :: A wrapper for the SQLite3 C API, to work with SQLite databases in Julia. Functions are included for reading and writing tables to (/from) DataFrames.
 
 ----
 
-# Org-[JuliaDB](https://github.com/JuliaDB)
+# Org-[JuliaDB](https://github.com/JuliaDB) - see also [its website](http://juliadb.github.io/)
 + [DataStreams.jl](https://github.com/JuliaDB/DataStreams.jl) :: A Julia package to stream data.
 + [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
 + [DBPerf.jl](https://github.com/JuliaDB/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
