@@ -23,6 +23,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl).
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
++ [DistLearn.jl](https://github.com/pluskid/DistLearn.jl) :: An example of distributed learning in Julia. Note: this is not a full featured distributed machine learning library, therefore we are not going to register this in the Julia package system.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection.
