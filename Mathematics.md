@@ -275,26 +275,14 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ###### Resources
 + [NumericalMath’s documentation for Integration](http://hwborchers.lima-city.de/JuliaMeetup/numerical/integration.html).
 
-### [Ordinary Differential Equation](http://en.wikipedia.org/wiki/Ordinary_differential_equation)
-+ [AutoDiff.jl](https://github.com/scidom/AutoDiff.jl) :: Juila package for performing automatic differentiation.
-+ [DASSL.jl](https://github.com/pwl/DASSL.jl) :: An implementation of the Differential Algebraic System SoLver (DASSL) algorithm for solving algebraic differential equations.
-+ [DualNumbers2.jl](https://github.com/johnmyleswhite/DualNumbers2.jl) :: Another Julia implementation of dual numbers for automatic differentiation.
-+ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
-+ [IVPTestSuite.jl](https://github.com/mauro3/IVPTestSuite.jl) :: DE solver test suite of Ordinary differential equations (ODE) and algebraic differential equations (DAE).
-+ [ODEDSL.jl](https://github.com/AleMorales/ODEDSL.jl) :: Domain specific language to write ODE models with tests. Automatic code generation for Julia, R and CPP (via Rcpp). 
-+ [odesolver](https://github.com/insideloop/odesolver) :: Collection of solvers for Ordinary Differential Equations.
-+ [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
-
 ###### Resources
 + [FinealeBook.jl](https://github.com/goedman/FinealeBook.jl) :: Trying to understand Petr Krysl's FinEALE book.
 
 #### Org-JuliaLang
 + [AppleAccelerate.jl](https://github.com/JuliaLang/AppleAccelerate.jl) :: Julia interface to OS X's Accelerate framework.
-+ [ODE.jl](https://github.com/JuliaLang/ODE.jl) :: Assorted basic Ordinary Differential Equation solvers.
 + [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
 + [Roots.jl](https://github.com/JuliaLang/Roots.jl) :: Root finding functions for Julia.
 + [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
-+ [Sundials.jl](https://github.com/JuliaLang/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 #### Org-[JuliaDiff](http://www.juliadiff.org/)
 + [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) :: Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
@@ -304,10 +292,13 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [NDuals.jl](https://github.com/JuliaDiff/NDuals.jl) :: Experimental package for stack-allocated dual numbers with multiple epsilon components.
 
 ### [General Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
-+ [DifferentialEquations.jl](https://github.com/ChrisRackauckas/DifferentialEquations.jl) :: Equations within the realm of this package include stochastic ordinary differential equations (SODEs or SDEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
++ [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl) :: Equations within the realm of this package include stochastic ordinary differential equations (SODEs or SDEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
++ [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
 + [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) :: HP Finite elements in Julia.
 + [JFinEALE.jl](https://github.com/PetrKryslUCSD/JFinEALE.jl) :: A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
 + [Makhno.jl](https://github.com/pjabardo/Makhno.jl) :: Spectral element code implemented in Julia.
++ [RiemannHilbert.jl](https://github.com/dlfivefifty/RiemannHilbert.jl) :: Riemann–Hilbert problems, named after [Bernhard Riemann and David Hilbert](http://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem), are a class of problems that arise in the study of differential equations in the complex plane.
++ [Sundials.jl](https://github.com/JuliaDiffEq/Sundials.jl) :: A Julia package that interfaces to the Sundials library and includes a nonlinear solver (KINSOL), ODE's (CVODE), and DAE's (IDA).
 
 ### [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)
 + [LambertW.jl](https://github.com/jlapeyre/LambertW.jl) :: A package implementing the Lambert_W function and associated omega constant.
