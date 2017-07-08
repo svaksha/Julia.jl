@@ -33,7 +33,6 @@
 ## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
-+ [Jumos.jl](https://github.com/Luthaf/Jumos.jl) :: JUlia MOlecular Simulation package.
 
 ###### Resources
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
