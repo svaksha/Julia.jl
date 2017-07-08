@@ -196,7 +196,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [TempInterp.jl](https://github.com/cc7768/TempInterp.jl) :: Evaluation of Chebyshev polynomials and splines.
 
 ## [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
-+ [SJulia](https://github.com/jlapeyre/SJulia) :: A partial implementation of a language for symbolic computation, based on pattern matching and an evaluation sequence closely modeled on Mathematica.
 + [Symata.jl](https://github.com/jlapeyre/Symata.jl) :: language for symbolic mathematics.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 + [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
@@ -204,27 +203,19 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ----
 
 # Calculus & [Applied Math](http://en.wikipedia.org/wiki/Applied_mathematics)
-+ [ad4julia](https://github.com/bsxfan/ad4julia) :: Some automatic diffferentiation coding experiments in Julia. 
 + [Calculus.jl](https://github.com/johnmyleswhite/Calculus.jl) :: Calculus package.
-+ [Calculus2.jl](https://github.com/johnmyleswhite/Calculus2.jl) :: A draft of a new interface for the Calculus package.
 + [Cuba.jl](https://github.com/giordano/Cuba.jl) :: Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre.
 + [Cubature.jl](https://github.com/stevengj/Cubature.jl) :: One- and multi-dimensional adaptive integration routines for the Julia language.
 + [Einsum.jl](https://github.com/ahwillia/Einsum.jl) :: Einstein summation notation in julia.
 + [FastPolynomials.jl](https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl) :: Basic polynomials with Horner-like evaluation over x^2 and x.
-+ [FDM.jl](https://github.com/grasingerm/FDM.jl) :: Finite difference methods in Julia.
-+ [FeynmanKacSpde.jl](https://github.com/scidom/FeynmanKacSpde.jl) :: Feynman-Kac SPDE Inference.
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
-+ [HyperNumbers.jl](https://github.com/goedman/HyperNumbers.jl) :: Julia implementation of HyperNumbers.
 + [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) :: Accurate summation (Yuhang Zhao's iFastSum).
 + [MINE.jl](https://github.com/zhmz90/MINE.jl) :: Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
-+ [pdetools.jl](https://github.com/GaZ3ll3/pdetools.jl) :: Toolbox for solving PDEs.
 + [PowerSeries.jl](https://github.com/jwmerrill/PowerSeries.jl) :: Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
    * _Power Series Blog_::
    * Jason Merrill's blog series highlighting the basic aspects of floating point arithmetic with examples in Julia - [The first one, on bisecting floating point numbers](http://squishythinking.com/2014/02/22/bisecting-floats/)
 + [PolyMath.jl](https://github.com/cfbaptista/PolyMath.jl) :: a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia.
-+ [RAD.jl](https://github.com/adamkapor/RAD.jl) :: package defines a macro, @autodiff, for reverse-mode automatic differentiation.
-+ [RDE.jl](https://github.com/scidom/RDE.jl) :: Simulation and Bayesian Inference for Rough Differential Equations (RDEs).
 + [ReverseDiffOverload.jl](https://github.com/LaurenceA/ReverseDiffOverload.jl) :: Reverse mode differentiation for pre-defined functions.
 + [ReverseDiffSparse.jl](https://github.com/mlubin/ReverseDiffSparse.jl) :: Hessian algorithmic differentiation to compute hessian sparsity pattern.
 + [ReverseDiffSparse2.jl](https://github.com/mlubin/ReverseDiffSparse2.jl) :: Prototype replacement for ReverseDiffSparse based on flattened out expression graphs. 
@@ -289,10 +280,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 + [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
 + [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
-+ [NDuals.jl](https://github.com/JuliaDiff/NDuals.jl) :: Experimental package for stack-allocated dual numbers with multiple epsilon components.
 
 ### [General Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
-+ [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl) :: Equations within the realm of this package include stochastic ordinary differential equations (SODEs or SDEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
++ [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl) :: Equations within the realm of this package include ordinary differential equations, stochastic ordinary differential equations (SODEs or SDEs), differential algebraic equations (DAEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
 + [DynamicalSystems.jl](https://github.com/timothyrenner/DynamicalSystems.jl) :: A collection of Julia functions that produce the systems of ODEs for various dynamical systems. 
 + [HPFEM.jl](https://github.com/pjabardo/HPFEM.jl) :: HP Finite elements in Julia.
 + [JFinEALE.jl](https://github.com/PetrKryslUCSD/JFinEALE.jl) :: A Finite Element Analysis Learning Environment (FinEALE) package for finite element analysis of continua. This toolkit is a redesign of the Matlab toolkit.
@@ -339,19 +329,13 @@ algebra library in Julia.
 
 
 ## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-+ [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
-+ [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
-+ [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
-+ [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
-+ [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
-+ [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
-+ [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
-+ [Vec.jl](https://github.com/tawheeler/Vec.jl) :: Provides 2D and 3D vector types for vector operations in Julia.
+
 
 ## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
 + [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
++ [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
 + [CHull2d.jl](https://github.com/cc7768/CHull2d.jl) :: Variety of algorithms for taking the convex hull of 2 dimensional sets of points.
-+ [ConicHulls.jl](https://github.com/toivoh/ConicHulls.jl) :: Exact dynamic conic hulls of integer vectors.
++ [Vec.jl](https://github.com/tawheeler/Vec.jl) :: Provides 2D and 3D vector types for vector operations in Julia.
 
 ### Org-[JuliaPolyhedra](https://juliapolyhedra.github.io/)
 + [CDDLib.jl](https://github.com/JuliaPolyhedra/CDDLib.jl) :: A wrapper for cdd, the library for polyhedra manipulation such as double description and Fourier-Motzkin elimination. This module can either be used in a __lower level__ using the API of cdd or using the higher level interface of Polyhedra.jl.
@@ -384,7 +368,6 @@ algebra library in Julia.
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [MovcolN.jl](https://github.com/pwl/MovcolN.jl) :: Moving collocation method to solve one dimensional partial differential equations.
-+ [NAG.jl](https://github.com/StefanKarpinski/NAG.jl) :: Julia package to wrap the NAG Numerical Library, a propreitary software library of numerical analysis routines, mathematical and statistical algorithms for linear algebra, optimization, quadrature, the solution of ordinary and partial differential equations, regression analysis, and time series analysis.
 + [SortedVectors.jl](https://github.com/colintbowers/SortedVectors.jl) :: A WIP package that implements a SortedVector type.
 
 ## [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
