@@ -112,6 +112,7 @@ Networking, web security, frameworks and other Web related things go here!
 
 # [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaWebRepl.jl](https://github.com/vtjnash/JuliaWebRepl.jl)
++ [LanguageServer.jl](https://github.com/JuliaEditorSupport/LanguageServer.jl) :: An implementation of the Microsoft Language Server Protocol for the julia language.
 
 ## Org-[JunoLab](https://github.com/JunoLab/)
 + [Blink.jl](https://github.com/JunoLab/Blink.jl) :: A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell.
