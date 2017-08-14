@@ -5,6 +5,7 @@
     + [HDF5](#hdf5)
     + [JLD](#jld)
     + [ODS](#ods)
+    + [PDF](#pdf)
     + [XML](#xml)
 + [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
@@ -81,6 +82,10 @@
 
 ## ODS
 + [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) :: ODS I/O for Julia Dict or DF using the python ezodf module. 
+
+## PDF
++ [PDFIO.jl](https://github.com/sambitdash/PDFIO.jl) :: PDF Reader Library for native Julia.
+    + [LabelNumerals.jl](https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc. 
 
 ## XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).

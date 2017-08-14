@@ -27,10 +27,7 @@ __List of communities, development links, JSoC, events, (un)conferences, forums/
 # COMMUNITY
 The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. The Special Interest Groups (SIGs) have their own github orgs, linked in the respective sections. You can join them on:
 + IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
-+ Mailing lists :: 
-   + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programming discussions.
-   + [julia-dev](https://groups.google.com/forum/?fromgroups=#!forum/julia-dev) : For core development discussions
-   + [julia-jobs](https://groups.google.com/forum/#!forum/julia-jobs) : Post Julia jobs here.
++ A [discourse](https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of the FOSS alternative).
 + The official list of resources to [learn Julia](http://julialang.org/learning/).
 
 __NEWS from social networking communities, QA sites and Twitter.__
