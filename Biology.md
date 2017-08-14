@@ -13,6 +13,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 ----
 
 + [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
++ [COBRA.jl](https://github.com/opencobra/COBRA.jl) :: COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
 
 ----
 
