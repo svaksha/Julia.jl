@@ -25,7 +25,7 @@ __List of communities, development links, JSoC, events, (un)conferences, forums/
 ----
 
 # COMMUNITY
-The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. Smaller Special Interest Groups (SIGs) have their own mailing lists and github orgs, linked in the respective sections. You can join them on:
+The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. The Special Interest Groups (SIGs) have their own github orgs, linked in the respective sections. You can join them on:
 + IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
 + Mailing lists :: 
    + [julia-users](https://groups.google.com/forum/?fromgroups=#!forum/julia-users) : Community support for programming discussions.
@@ -119,6 +119,8 @@ __The official Julia conference.__
 + __Past JuliaCons__ : 2015June24-28@Cambridge-MA ; 2014Jun26-27@Chicago-IL. 
 
 ## Presentations
++ Juliacon-2016:
+   + [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html
 + [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
 + [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
 + JuliaCon-2015 ::
