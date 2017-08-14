@@ -87,6 +87,9 @@
 + [PDFIO.jl](https://github.com/sambitdash/PDFIO.jl) :: PDF Reader Library for native Julia.
     + [LabelNumerals.jl](https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc. 
 
+## Silo
++ [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl.
+
 ## XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
