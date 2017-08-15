@@ -79,6 +79,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [HTTP2.jl](https://github.com/sorpaas/HTTP2.jl) :: A HTTP2 support library for Julia.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
 + [Laurence.jl](https://github.com/mneudert/Laurence.jl)
++ [Merly.jl](https://github.com/codeneomatrix/Merly.jl) :: Micro framework for web programming in Julia. 
 + [Pages.jl](https://github.com/EricForgy/Pages.jl) :: A simple way to create and interact with web pages.
 + [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.

@@ -30,6 +30,7 @@
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 + [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
 + [ChainMap.jl](https://github.com/bramtayl/ChainMap.jl) :: Combine chaining and mapping.
++ [FemtoCleaner.jl](https://github.com/JuliaComputing/FemtoCleaner.jl) :: It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting. 
 + [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 
