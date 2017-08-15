@@ -74,6 +74,7 @@
 **Braille, REPL shells, GUI, IDE/Text editors, WIDE, Desktop User Interface, GUI, &c..**
 
 ## IDE
++ [Acorn.jl](https://github.com/nick-paul/Acorn.jl) :: A pure julia text editor. 
 + [BlinkEditor.jl](https://github.com/EricForgy/BlinkEditor.jl) :: A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
 + [jEdit-julia](https://github.com/tuckerkevin/jedit-julia) :: A jEdit mode for Julia.
 + [Jewel.jl](https://github.com/MikeInnes/Jewel.jl) :: is the Julia package which handles communication with Light Table for Jewel.
