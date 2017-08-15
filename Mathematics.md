@@ -353,7 +353,7 @@ algebra library in Julia.
 + [LRSLib.jl](https://github.com/JuliaPolyhedra/LRSLib.jl) :: A wrapper for lrs.
 + [Polyhedra.jl](https://github.com/JuliaPolyhedra/Polyhedra.jl) :: It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
 
-## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry]
+## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 + [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
 
 ----
