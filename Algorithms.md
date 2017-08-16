@@ -112,6 +112,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [Ranges.jl](https://github.com/JuliaArrays/Ranges.jl) :: Array-like objects with compact storage for the Julia language.
 + [RangeArrays.jl](https://github.com/JuliaArrays/RangeArrays.jl) :: Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
 + [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
++ [Rotations.jl](https://github.com/FugroRoames/Rotations.jl) ::  Julia implementations for different rotation parameterisations.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
 + [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
