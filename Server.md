@@ -73,6 +73,7 @@ Networking, web security, frameworks and other Web related things go here!
 # WEB
 + [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
 + [Curl.jl](https://github.com/forio/Curl.jl) :: A Julia HTTP curl library.
++ [Diana.jl](https://github.com/codeneomatrix/Diana.jl) :: GraphQL for Julia 0.6
 + [Escher.jl](http://escher-jl.org) :: Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 + [Fuji.jl](https://github.com/jackcook/Fuji.jl) :: A lightweight web server written in Julia.
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
