@@ -102,7 +102,7 @@
 
 # Robots
 + [FPTControl.jl](https://github.com/krisztiankosi/FPTControl.jl) :: Fixed Point Transformation Based Control.
-+ [RigidBodyDynamics.jl](https://github.com/tkoolen/RigidBodyDynamics.jl).
++ [RigidBodyDynamics.jl](https://github.com/tkoolen/RigidBodyDynamics.jl) :: Julia implementation of various rigid body dynamics and kinematics algorithms. 
 + [Robotics.jl](https://github.com/cdsousa/Robotics.jl) :: Toolbox for (serial manipulator) robotics, focusing robot dynamics.
 + [RobotOS.jl](https://github.com/phobon/RobotOS.jl) :: Julia interface to ROS (Robot Operating System).
 

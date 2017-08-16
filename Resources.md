@@ -116,6 +116,8 @@ __The official Julia conference.__
 + __Past JuliaCons__ : 2015June24-28@Cambridge-MA ; 2014Jun26-27@Chicago-IL. 
 
 ## Presentations
++ Juliacon-2017:
+   + [RoboticsJuliaCon2017.jl](https://github.com/tkoolen/RoboticsJuliaCon2017.jl) :: Code accompanying JuliaCon 2017 talk "The Present and Future of Robotics in Julia".
 + Juliacon-2016:
    + [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html
 + [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
