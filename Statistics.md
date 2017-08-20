@@ -15,6 +15,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [STATISTICS](#statistics)
    + [Org-JuliaStats](#org-juliastats)
       + [Probabilistic Programming](#probabilistic-programming)
+   + [Geostatistics (Spatial Statistics)](#geostatistics)
    + [Bayesian](#bayesian)
    + [Gaussian](#gaussian)
    + [Models](#models)
@@ -342,6 +343,10 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + Video :: Posner Lecture - [Probabilistic Machine Learning](http://research.microsoft.com/apps/video/default.aspx?id=259579&l=i) - Foundations and Frontiers.
 + [NorvigProbability](https://github.com/getzdan/NorvigProbability) :: Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
 
+## Geostatistics
++ [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: High-performance geostatistical algorithms in Julia.
++ [GslibIO.jl](https://github.com/juliohm/GslibIO.jl) :: Utilities to read/write extended GSLIB files in Julia.
++ [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
 
 ## Bayesian
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
