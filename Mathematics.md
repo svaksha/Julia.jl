@@ -258,9 +258,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) :: Fast __anonymous functions__ for Julia.
 
 ### [Integral Equation](https://en.wikipedia.org/wiki/Integral_equation)
-+ [ApproxFun](https://github.com/dlfivefifty/ApproxFun) :: Julia IFun Implementation is a package for approximating functions. It currently supports intervals, the real line, periodic intervals and the unit circle. It is heavily influenced by the Matlab package chebfun and the Mathematica package RHPackage.
-+ [SIE.jl](https://github.com/ApproxFun/SIE.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems Julia package for solving singular integral equations and Riemann–Hilbert problems.
-+ [SingularIntegralEquations.jl](https://github.com/ApproxFun/SingularIntegralEquations.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems.
++ [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) :: Julia package for solving singular integral equations and Riemann–Hilbert problems.
 + [WiltonInts84.jl](https://github.com/krcools/WiltonInts84.jl) :: Integrals of arbitrary powers of R over flat triangles.
 
 ###### Resources
@@ -359,13 +357,14 @@ algebra library in Julia.
 ----
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
++ [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) :: Julia package for function approximation.
 + [ApproXD.jl](https://github.com/floswald/ApproXD.jl) :: B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 + [Dopri.jl](https://github.com/helgee/Dopri.jl) :: A Julia wrapper for the DOPRI5 and DOP853 integrators.
 + [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl ):: A Julia wrapper for the Dierckx Fortran library for spline fitting.
 + [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) :: A Julia wrapper of the Fortran library __eiscor__ (Fortran 90 subroutines for structured matrix eigenvalue problems using 2x2 unitary matrices) for efficiently solving structured matrix eigenvalue problems using unitary core transformations 
 + [Expokit.jl](https://github.com/acroy/Expokit.jl) :: A package that provides Julia implementations of some routines contained in EXPOKIT.
 + [FastGaussQuadrature.jl](https://github.com/ajt60gaibb/FastGaussQuadrature.jl) :: A Julia package to compute n-point Gauss quadrature nodes and weights to 16-digit accuracy and in O(n) time.
-   + Fork by [dlfivefifty](https://github.com/dlfivefifty/FastGaussQuadrature.jl) :: Gauss quadrature nodes and weights in Julia. 
++ [FastTransforms.jl](https://github.com/MikaelSlevinsky/FastTransforms.jl) :: Julia package for fast orthogonal polynomial transforms.
 + [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids.
 + [GridInterpolations.jl](https://github.com/sisl/GridInterpolations.jl) :: Multi-dimensional grid interpolation in arbitrary dimensions on a recti-linear grid. 
 + [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
