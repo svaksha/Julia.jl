@@ -37,9 +37,10 @@
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
-+ [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
 + [ImageProjectiveGeometry.jl](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) :: Projective geometry for computer vision in Julia.
 + [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: Image quilting for texture synthesis in Julia .
++ [Images.jl](https://github.com/timholy/Images.jl) :: An image library for Julia.
++ [ImageSegmentation.jl](https://github.com/JuliaImages/ImageSegmentation.jl) :: Partitioning images into meaningful regions.
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
