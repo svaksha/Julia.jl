@@ -38,6 +38,12 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 # ECOLOGY
 + [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
 + [FishABM.jl](https://github.com/jangevaare/FishABM.jl) :: An agent based life cycle model for managed fisheries.
++ [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) :: Measure various aspects of the structure of ecological networks in Julia.
+
+# Org-[EcoJulia](https://github.com/EcoJulia)
+Their [Gitter chat room](https://gitter.im/EcoJulia/EcoJulia_Discussion) and list of packages under the Org:
++ [SpatialEcology.jl](https://github.com/EcoJulia/SpatialEcology.jl) :: Julia framework for spatial ecology - data types and utilities
++ [GBIF.jl](https://github.com/EcoJulia/GBIF.jl) :: Functions and types to access GBIF data from Julia
 
 ----
 
