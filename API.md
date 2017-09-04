@@ -117,6 +117,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: Call Python functions from the Julia language.
 + [PyJulia](https://github.com/jakebolewski/pyjulia) :: Python interface to julia.
 + [pyju](https://github.com/felipecruz/pyju) :: Python to Julia cffi bindings.
++ [PySyntax.jl](https://github.com/kdheepak/PySyntax.jl) :: Allows Python-like syntax in Julia by providing a light wrapper on top of PyCall.jl in the form of a macro. 
 
 ## R
 + [jl4R](https://github.com/rcqls/jl4R) :: `Julia for R` will embed the julia language in R, with very basic julia types getting converted into R objects.
