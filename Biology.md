@@ -3,6 +3,9 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [BIOINFORMATICS](#bioinformatics)
 + [BIOSTATISTICS](#bioinformatics)
 + [ECOLOGY](#ecology)
+   + [Agronomy](#agronomy)
+   + [Aquatic Ecology](#aquatic-ecology)
+   + [Org-EcoJulia](#org-ecojulia)
 + [GENOMICS](#genomics)
    + [GWAS](#gwas) 
 + [Org-BioJulia](#org-biojulia)
@@ -39,6 +42,14 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
 + [FishABM.jl](https://github.com/jangevaare/FishABM.jl) :: An agent based life cycle model for managed fisheries.
 + [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) :: Measure various aspects of the structure of ecological networks in Julia.
+
+### [Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
++ [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :: Package to calculate Leaf Area Index from Hemisperical Images.
++ [LAIscript](https://github.com/ETC-UA/LAIscript) :: scripts to automatically run LAI calculations with ODBC link to custom database.
+
+### Aquatic Ecology
++ [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
++ [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
 
 # Org-[EcoJulia](https://github.com/EcoJulia)
 Their [Gitter chat room](https://gitter.im/EcoJulia/EcoJulia_Discussion) and list of packages under the Org:

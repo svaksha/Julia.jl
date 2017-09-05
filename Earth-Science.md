@@ -1,8 +1,6 @@
 + [AERONAUTICS](#aeronautics)
 + [CLIMATOLOGY](#climatology)
 + [ECOLOGY](#ecology)
-   + [Agronomy](#agronomy)
-   + [Aquatic Ecology](#aquatic-ecology)
 + [GEOSTATISTICS](#geostatistics)
 + [CARTOGRAPHY](#cartography)
   + [GIS](#gis)
@@ -25,15 +23,7 @@
 ----
 
 # [ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology)
-Ecology packages are listed under the [Biology](Biology.md) page
-
-### [Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
-+ [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :: Package to calculate Leaf Area Index from Hemisperical Images.
-+ [LAIscript](https://github.com/ETC-UA/LAIscript) :: scripts to automatically run LAI calculations with ODBC link to custom database. 
-
-### Aquatic Ecology
-+ [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
-+ [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
+Ecology packages (including subjects such as agronomy, forestry and oceanographic models) are listed under the [Biology](Biology.md) page for easier reference
 
 ----
 
