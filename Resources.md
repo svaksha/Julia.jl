@@ -254,24 +254,25 @@ __Local meetup groups located in the various continents around the world.__
 
 
 # JUPYTER NOTEBOOKS
++ [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
++ [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia).
 + [ChicagoFed_workshop](https://github.com/QuantEcon/ChicagoFed_workshop) :: Workshop on scientific computing for economists with Python and Julia.
-+ [JuliaWorkshop2015](https://github.com/arinbasu/JuliaWorkshop2015) :: Files for the Julia Workshop ANZStat Conference. 
-+ [ijulia-notebooks](https://github.com/jiahao/ijulia-notebooks) :: Demo-ready IJulia notebooks and [assorted IJulia notebooks](https://github.com/jiahao/ijulia-notebooks-assorted) in various stages of usefulness for public consumption.
-+ [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
-+ [Invitation to Julia](https://github.com/dpsanders/invitation_to_julia) :: A scientific computing introductory workshop on Julia at JuliaCon 2015.
++ [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
 + [Fractals](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/fractals.ipynb) in Julia.
 + [Hands_on_julia](https://github.com/dpsanders/hands_on_julia/) :: A 2-day Julia workshop material , as Jupyter notebooks, for scientists by @dpsanders in Paris.
-+ [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
-+ [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
-+ [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia).
-+ [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
++ [ijulia-notebooks](https://github.com/jiahao/ijulia-notebooks) :: Demo-ready IJulia notebooks and [assorted IJulia notebooks](https://github.com/jiahao/ijulia-notebooks-assorted) in various stages of usefulness for public consumption.
 + [iap2014](https://github.com/JuliaX/iap2014) :: MIT IAP Class 2014: 18.S096 Introduction to Julia Computing.
-+ [DataGotham.jl](https://github.com/johnmyleswhite/DataGotham.jl) :: IJulia Notebook with material for DataGotham-2013 tutorial on using Julia for data analysis.
++ [Invitation to Julia](https://github.com/dpsanders/invitation_to_julia) :: A scientific computing introductory workshop on Julia at JuliaCon 2015.
 + [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
 + [IJulia PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
-+ [A Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
++ [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
++ [Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 + [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
-+ [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
++ [JuliaWorkshop2015](https://github.com/arinbasu/JuliaWorkshop2015) :: Files for the Julia Workshop ANZStat Conference. 
++ [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
++ [mcrib.jl](https://gitlab.com/parindie/parindie.mcrib.jl) :: A couple of jupyter mathbook notes taken while learning julia language.
++ [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
++ [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
 
 ----
 
