@@ -83,6 +83,7 @@
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
 + [AtariAlgos.jl](https://github.com/tbreloff/AtariAlgos.jl) :: Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}
 + [eve.jl](https://github.com/barcharcraz/eve.jl) :: Julia library for interacting with Eve Online.
++ [JuliaKara.jl](https://github.com/sebastianpech/JuliaKara.jl) : A julia port of the learning environment Kara. 
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl).
 + [SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
