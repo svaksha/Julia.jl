@@ -15,6 +15,7 @@
 ----
 
 # Binary IO
++ [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [StrPack.jl](https://github.com/pao/StrPack.jl) :: For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 
