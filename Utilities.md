@@ -8,6 +8,7 @@
    + [IDE](#ide)
         + [Atom](#atom)
         + [Emacs](#emacs)
+   + [Org-JuliaGizmos](#org-juliagizmos)
    + [Org-JuliaIDE](#org-juliaide)
    + [Jupyter](#jupyter)
    + [WIDE](#wide) 
@@ -104,6 +105,12 @@
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
 + [julia-emacs](https://github.com/JuliaLang/julia-emacs) :: Julia support in Emacs.
 
+
+## Org-[JuliaGizmos](https://github.com/JuliaGizmos/)
++ [CSSUtil](https://github.com/JuliaGizmos/CSSUtil)
++ [Interact.jl](https://github.com/JuliaLang/Interact.jl) :: Library for interactive widgets in IJulia.
+
+
 ## Org-[JuliaIDE](https://github.com/JuliaIDE)
 + [Jewel.jl](https://github.com/JuliaIDE/Jewel.jl) :: IDE backend for Julia.
 + [Julia-LT](https://github.com/JuliaIDE/Julia-LT) :: Julia plugin for Light Table.
@@ -119,7 +126,6 @@
 + [ErrorLineNumber.jl](https://github.com/StephenVavasis/ErrorLineNumber.jl) :: Address line number bug in Julia 0.4 error reporting.
 + [Hydra.jl](https://github.com/Keno/Hydra.jl) :: Hosted Multi-user IJulia distribution.
 + [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
-+ [Interact.jl](https://github.com/JuliaLang/Interact.jl) :: Library for interactive widgets in IJulia.
 + [jlbox](https://github.com/compressed/jlbox) :: uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBInclude.jl](https://github.com/stevengj/NBInclude.jl) :: Import code from IJulia Jupyter notebooks into Julia programs. 

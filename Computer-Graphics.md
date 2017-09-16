@@ -6,9 +6,9 @@
 + [INFOGRAPHICS](#infographics)
    * [Non-Graphical Plotting](#non-graphical-plotting)
    * [Graphical Plotting](#graphical-plotting)
++ [Org-JuliaGeometry](#org-juliageometry)
 + [Org-JuliaGL](#org-juliagl)
 + [Org-JuliaGraphics](#org-juliagraphics)
-+ [Org-JuliaGeometry](#org-juliageometry)
 + [Org-JuliaIO](#org-juliaio)
 + [Org-JuliaLang](#org-julialang)
 + [Org-JuliaOpenCV](#org-juliaopencv)
@@ -171,6 +171,21 @@ __Read other Julia-users experiences with visualization and plotting.__
 
 ----
 
+# Org-[JuliaGeometry](https://github.com/JuliaGeometry)
+Computational Geometry with Julia. [Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
++ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
++ [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
++ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
++ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
++ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper.
++ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
++ [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
++ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
+
+----
+
 # Org-[JuliaGL](https://github.com/JuliaGL)
 __Julia packages for the OpenGL API ecosystem.__
 + [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
@@ -185,20 +200,6 @@ __An umbrella group on Github, unifying the following packages: GLUtil.jl, GLWin
 + [ColorTypes.jl](https://github.com/JuliaGraphics/ColorTypes.jl) :: Color primitives for Julia, based on FixedSizeArrays.
 + [ColorVectorSpace.jl](https://github.com/JuliaGraphics/ColorVectorSpace.jl) :: This package is an add-on to ColorTypes, and provides fast mathematical operations for objects with types such as RGB and Gray - Treat colors as if they are n-vectors for the purposes of arithmetic.
 + [Immerse.jl](https://github.com/JuliaGraphics/Immerse.jl) :: Dive deeper into your data with interactive graphics.
-
-----
-
-# Org-[JuliaGeometry](https://github.com/JuliaGeometry)
-Computational Geometry with Julia. [Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
-+ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
-+ [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
-+ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
-+ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
-+ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
-+ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper.
-+ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
-+ [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
-+ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
 
 ----
 
