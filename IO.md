@@ -92,15 +92,16 @@
 
 ## XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
++ [EzXML.jl](https://github.com/bicycle1885/EzXML.jl) :: XML/HTML handling tools for primates.
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/JuliaIO/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 + [SpimRegXML.jl](https://github.com/bhoeckendorf/SpimRegXML.jl).
 + [XML.jl](https://github.com/amitmurthy/XML.jl) :: A `libXML2` wrapper for Julia language.
++ [XML2JSON.jl](https://github.com/paulstey/XML2JSON.jl) :: This package implements a fairly simplistic XML-to-JSON conversion.
 + [XMLconvert.jl](https://github.com/bcbi/XMLconvert.jl) ::  Functions for converting XML documents to other formats.
 + [XMLDict.jl](https://github.com/samoconnor/XMLDict.jl) :: This package implements a simple Associative interface for XML documents.
 + [XMLRPC.jl](https://github.com/sjkelly/XMLRPC.jl) :: Send and recieve XML-RPCs with Julia.
 + [XmlToDict.jl](https://github.com/elcritch/XmlToDict.jl) ::  Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
-+ [EzXML.jl](https://github.com/bicycle1885/EzXML.jl) :: XML/HTML handling tools for primates.
 
 #### HTML-XML
 + [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.

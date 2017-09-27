@@ -109,6 +109,8 @@
 ## Org-[JuliaGizmos](https://github.com/JuliaGizmos/)
 + [CSSUtil](https://github.com/JuliaGizmos/CSSUtil)
 + [Interact.jl](https://github.com/JuliaLang/Interact.jl) :: Library for interactive widgets in IJulia.
++ [InteractNext.jl](https://github.com/JuliaGizmos/InteractNext.jl) :: is a lot like Interact.jl, except that as well as running in IJulia, it also works in the Atom/Juno IDE, in a desktop window with Blink.jl, and served in a webpage via Mux.jl.
++ [WebIO.jl](https://github.com/JuliaGizmos/WebIO.jl) : A DSL for web-based widgets in Julia.
 
 
 ## Org-[JuliaIDE](https://github.com/JuliaIDE)
