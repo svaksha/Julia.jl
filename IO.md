@@ -95,6 +95,7 @@
 + [EzXML.jl](https://github.com/bicycle1885/EzXML.jl) :: XML/HTML handling tools for primates.
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/JuliaIO/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
++ [MusicXML.jl](https://github.com/kevinsa5/MusicXML.jl) :: A parser for MusicXML files, designed to be used with the MXMLSynth library. 
 + [SpimRegXML.jl](https://github.com/bhoeckendorf/SpimRegXML.jl).
 + [XML.jl](https://github.com/amitmurthy/XML.jl) :: A `libXML2` wrapper for Julia language.
 + [XML2JSON.jl](https://github.com/paulstey/XML2JSON.jl) :: This package implements a fairly simplistic XML-to-JSON conversion.
