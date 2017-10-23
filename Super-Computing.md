@@ -56,7 +56,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 ----
 
 # BENCHMARKS
-+ [Microbenchmark timings](http://speed.julialang.org) with a [Timeline](http://speed.julialang.org/timeline/)
++ [Microbenchmark timings](https://julialang.org/benchmarks/)
 + [Benchmark.jl](https://github.com/johnmyleswhite/Benchmark.jl) :: A package for computing simple benchmarks, comparing functions and packages.
 + [Benchmarks.jl](https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia.
 + [BenchmarkLite.jl](https://github.com/lindahua/BenchmarkLite.jl) :: A lightweight Julia package for simple performance benchmark.
