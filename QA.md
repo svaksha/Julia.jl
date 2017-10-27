@@ -1,6 +1,9 @@
-**Anything _Software Quality_ related goes here: Quality-Analysis(QA), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, et al.**
+**Anything _Software Quality_ related goes here: Quality-Analysis (QA), continuous integration (CI), continuous delivery (CD), Test-Driven-Development (TDD), Behaviour-Driven-Development (BDD), Documentation Driven Development (DDD), Unit testing, et al.**
 
 + [Black Box Testing](#black-box-testing)
++ [CONTINUOUS INTEGRATION](#continuous-integration)
+   + [Org-Julia-CI](#org-julia-ci)
+   + [Git-Hooks](#git-hooks)
 + [Debugging](#debugging)
 + [Documentation Driven Development](#documentation-driven-development)
 + [LOGGING](#logging)
@@ -13,6 +16,18 @@
 # [Black Box Testing](http://en.wikipedia.org/wiki/Black-box_testing)
 + [Digger.jl](https://github.com/MikeInnes/Digger.jl) :: Digger is a fuzz tester designed to fish bugs out of Dagger.jl
 + [Fuzz.jl](https://github.com/danluu/Fuzz.jl) :: A naive fuzzer that can generate bugs.
+
+----
+
+# CONTINUOUS INTEGRATION
++ Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
++ [TestDocs.jl](https://github.com/simonbyrne/TestDocs.jl) :: A test package to try to automatically build docs on travis.
+
+## Org-[Julia-CI](https://github.com/julia-ci)
++ [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
+
+### Git-Hooks
++ [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 
 ----
 

@@ -327,7 +327,6 @@ algebra library in Julia.
 
 
 ## [Algebraic Geometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry)
-
 + [CSoM.jl](https://github.com/goedman/CSoM.jl) :: Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths.
 + [EllipticCurves.jl](https://github.com/wwilson/EllipticCurves.jl) :: Elliptic Curves in Julia.
 + [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
@@ -447,7 +446,9 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [RK4.jl](https://github.com/ntezak/RK4.jl) :: This package implements a fairly fast Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver that is not technically provably accurate, but works well for finite bandwidth SDE's.
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
++ [TaylorModels.jl](https://github.com/dpsanders/TaylorModels.jl) :: A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
+
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__

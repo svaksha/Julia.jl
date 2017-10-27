@@ -1,11 +1,8 @@
-**Build automation software, continuous integration (CI), continuous delivery (CD), Infrastructure management, Packaging, Release engineering/ management tools, Software configuration management (SCM) software...**
+**Build automation software, Infrastructure management, Packaging, Release engineering/ management tools, Software configuration management (SCM) software...**
 
 + [INSTALL](#install)
 + [BACKPORTS](#backports)
 + [BUILD AUTOMATION](#build-automation)
-+ [CONTINUOUS INTEGRATION](#continuous-integration)
-   + [Org-Julia-CI](#org-julia-ci)
-   + [Git-Hooks](#git-hooks)
 + [DEVELOPMENT](#development)
 + [Operating System Technology](#operating-system-technology)
    + [Binaries](#binaries)
@@ -34,18 +31,6 @@
 + [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
 + [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
 + [OpenStack.jl](https://github.com/Keno/OpenStack.jl).
-
-----
-
-# CONTINUOUS INTEGRATION
-+ Merge your Julia code with mainline to test it on a [Travis-CI build server](https://travis-ci.org/JuliaLang/).
-+ [TestDocs.jl](https://github.com/simonbyrne/TestDocs.jl) :: A test package to try to automatically build docs on travis.
-
-## Org-[Julia-CI](https://github.com/julia-ci)
-+ [TravisTest.jl](https://github.com/JuliaCI/TravisTest.jl) :: Repository for testing Julia support at the Travis Continuous Integration (CI) service.
-
-### Git-Hooks
-+ [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 
 ----
 
