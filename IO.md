@@ -96,6 +96,7 @@
 + [LibExpat.jl](https://github.com/amitmurthy/LibExpat.jl) :: A Julia wrapper for libexpat.
 + [LightXML.jl](https://github.com/JuliaIO/LightXML.jl) :: A light-weight Julia package for XML based on libxml2.
 + [MusicXML.jl](https://github.com/kevinsa5/MusicXML.jl) :: A parser for MusicXML files, designed to be used with the MXMLSynth library. 
++ [mzXML.jl](https://github.com/timholy/mzXML.jl) :: A Julia package for reading mass spectrometry mzXML files.
 + [SpimRegXML.jl](https://github.com/bhoeckendorf/SpimRegXML.jl).
 + [XML.jl](https://github.com/amitmurthy/XML.jl) :: A `libXML2` wrapper for Julia language.
 + [XML2JSON.jl](https://github.com/paulstey/XML2JSON.jl) :: This package implements a fairly simplistic XML-to-JSON conversion.
@@ -103,6 +104,7 @@
 + [XMLDict.jl](https://github.com/samoconnor/XMLDict.jl) :: This package implements a simple Associative interface for XML documents.
 + [XMLRPC.jl](https://github.com/sjkelly/XMLRPC.jl) :: Send and recieve XML-RPCs with Julia.
 + [XmlToDict.jl](https://github.com/elcritch/XmlToDict.jl) ::  Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
+
 
 #### HTML-XML
 + [Patchwork.jl](https://github.com/shashi/Patchwork.jl) :: A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering.
