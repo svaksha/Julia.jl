@@ -78,6 +78,7 @@ __Pre-compiled Binaries__
 + [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
 + [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
 + [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) :: Package manager for Julia.
++ [Pkg3.jl](https://github.com/StefanKarpinski/Pkg3.jl) :: Next-generation package manager for Julia.
 
 ##### DOCS
 + Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
