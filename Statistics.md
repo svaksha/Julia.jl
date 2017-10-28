@@ -12,6 +12,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Org-JuliaOpt](#org-juliaopt)
    + [Org-JuliaSmoothOptimizers](#org-juliasmoothoptimizers)
    + [Regression Analysis](#regression-analysis)
+   + [Simulation](#simulation)
 + [STATISTICS](#statistics)
    + [Org-JuliaStats](#org-juliastats)
       + [Probabilistic Programming](#probabilistic-programming)
@@ -232,6 +233,11 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 ###### Resources
 + [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
 + [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
+
+## Simulation
++ [AutomotiveDrivingModels.jl](https://github.com/sisl/AutomotiveDrivingModels.jl) :: A Julia package containing tools for simulating automotive driving models.
++ [AutoUrban.jl](https://github.com/sisl/AutoUrban.jl) :: A Julia package expanding the AutomotiveDrivingModels.jl with intersections, enabling auto-converting roadway in AutomotiveDrivingModels.jl into OpenDrive format (.xodr) used in VIRES VirtualTestDrive. It also contains some driver models.
++ [AutoViz.jl](https://github.com/sisl/AutoViz.jl) :: This package provides visualization tools for AutomotiveDrivingModels.
 
 ----
 
