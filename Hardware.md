@@ -8,6 +8,7 @@
     + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
 + [AUDIO-VIDEO](#audio-video)
     + [Org-JuliaAudio](#org-juliaaudio)
++ [BOTS](#bots)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
 + [Embedded Systems](#embedded-systems)
@@ -65,6 +66,11 @@
 + [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) :: A wrapper for libportaudio, which gives cross-platform access to audio devices.
 + [RingBuffers.jl](https://github.com/JuliaAudio/RingBuffers.jl) :: A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling.
 + [SampleTypes.jl](https://github.com/JuliaAudio/SampleTypes.jl) :: A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages.
+
+----
+
+# BOTS
++ [Q.jl](https://github.com/enlnt/Q.jl) :: Julia for [kdb+](https://github.com/prologic/kdb). Docs: https://enlnt.github.io/Q.jl/latest
 
 ----
 
