@@ -332,10 +332,11 @@ algebra library in Julia.
 + [khypot.jl](https://github.com/intdxdt/khypot.jl) :: k dimensional hypotenuse.
 + [FEM.jl](https://github.com/pjabardo/FEM.jl) :: Simple finite elements in Julia.
 + [ols.jl](https://github.com/forio/ols.jl) :: Julia type for multiple (multivariate) regression using OLS - Performs least squared regression on linear equations of multiple independent variables.
-+ [RayTraceEllipsoid.jl](https://github.com/yakir12/RayTraceEllipsoid.jl) :: Ray trace ellipsoid-shaped domes that finds intersection points and refract/reflect according to the refractive indices. 
++ [RayTraceEllipsoid.jl](https://github.com/JuliaGeometry/RayTraceEllipsoid.jl) :: Ray trace ellipsoid-shaped domes i.e. finds intersection points and refract/reflect according to the refractive indices. 
 + [SurfaceMesh.jl](https://github.com/michelk/SurfaceMesh.jl) :: A Finite element surface mesh manipulation library to work with polygon-surface-meshes.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
 + [Vec.jl](https://github.com/tawheeler/Vec.jl) :: Provides 2D and 3D vector types for vector operations in Julia.
+
 =======
 
 ## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
