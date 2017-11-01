@@ -79,6 +79,8 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
 
 ## Org-[JuliaML](https://github.com/JuliaML)
++ [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) :: Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
++ [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 
 ###### Resources

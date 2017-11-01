@@ -70,6 +70,7 @@
 ----
 
 # BOTS
++ [MakiBot.jl](https://github.com/SimonDanisch/MakiBot.jl) :: A Telegram plot bot for MakiE.jl.
 + [Q.jl](https://github.com/enlnt/Q.jl) :: Julia for [kdb+](https://github.com/prologic/kdb). Docs: https://enlnt.github.io/Q.jl/latest
 
 ----

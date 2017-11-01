@@ -104,6 +104,7 @@
 + [emacs-ess-julia.el](https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el) :: ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc. 
    * _DOCS_ :: [Installation instructions for Julia](https://github.com/emacs-ess/ESS/wiki/Julia)
 + [julia-emacs](https://github.com/JuliaLang/julia-emacs) :: Julia support in Emacs.
++ [julia-repl](https://github.com/tpapp/julia-repl) :: Run an inferior Julia REPL in a terminal inside Emacs. 
 
 
 ## Org-[JuliaGizmos](https://github.com/JuliaGizmos/)
