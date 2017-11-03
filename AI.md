@@ -14,6 +14,7 @@
 # MACHINE LEARNING
 Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia.
++ [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
 + [ConfidenceWeighted.jl](https://github.com/chezou/ConfidenceWeighted.jl) :: Confidence weighted, a machine learning algorithm.
 + [Contingency.jl](https://github.com/svs14/Contingency.jl) :: Assorted techniques for the purpose of enabling automated machine learning.
@@ -128,6 +129,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
 + [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia.
 + [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
++ [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) :: Sum-Product Networks (deep probabilistic networks) package in Julia.
 
 ###### Resources
 + Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.
