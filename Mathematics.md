@@ -204,6 +204,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ## Org-[JuliaAlgebra](https://github.com/JuliaAlgebra/)
 + [FixedPolynomials.jl](https://github.com/JuliaAlgebra/FixedPolynomials.jl) :: A package for really fast evaluation of multivariate polynomials.
++ [SemialgebraicSets.jl](https://github.com/JuliaAlgebra/SemialgebraicSets.jl) :: Extension of MultivariatePolynomials to semialgebraic sets.
 
 ----
 
