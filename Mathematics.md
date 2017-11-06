@@ -15,6 +15,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     + [Linear Algebra](#linear-algebra)
     + [Polynomials](#polynomials) 
     + [Symbolic Computation](#symbolic-computation)
+    + [Org-JuliaAlgebra](#org-juliaalgebra)
 + [Calculus & Applied Math](#calculus-&-applied-math)
     + [DSP](#dsp)
         + [Org-JuliaDSP](#org-juliadsp)
@@ -200,6 +201,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Symata.jl](https://github.com/jlapeyre/Symata.jl) :: language for symbolic mathematics.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 + [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
+
+## Org-[JuliaAlgebra](https://github.com/JuliaAlgebra/)
++ [FixedPolynomials.jl](https://github.com/JuliaAlgebra/FixedPolynomials.jl) :: A package for really fast evaluation of multivariate polynomials.
 
 ----
 
