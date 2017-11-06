@@ -453,6 +453,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 #### Org-[JuliaFEM](https://github.com/JuliaFEM)
 __Finite element methods__
++ [FEMBasis.jl](https://github.com/JuliaFEM/FEMBasis.jl) :: Package contains interpolation routines for standard finite element function spaces. 
 + [JuliaFEM.jl](https://github.com/JuliaFEM/JuliaFEM.jl) :: Finite Element method solver.
 + [MiniBall.jl](https://github.com/JuliaFEM/MiniBall.jl).
 + [TetGen.jl](https://github.com/JuliaFEM/TetGen.jl) :: Finite Element method solver.
