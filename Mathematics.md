@@ -135,6 +135,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Floats512.jl](https://github.com/J-Sarnoff/Floats512.jl) :: Accurate floating point math at extended precision for Float-512.
 + [Floats1024.jl](https://github.com/J-Sarnoff/Floats1024.jl) :: Accurate floating point math at extended precision for Float-1024.
 + [FloatHigher.jl](https://github.com/J-Sarnoff/FloatHigher.jl) :: accurate floating point math at extended precisions.
++ [HigherPrecision.jl](https://github.com/saschatimme/HigherPrecision.jl) :: High precision replacements for Float64.
 + [UnumX.jl](https://github.com/JuliaComputing/UnumX.jl) :: Experimental Unums.
 + [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
 

@@ -6,6 +6,8 @@
     + [JLD](#jld)
     + [ODS](#ods)
     + [PDF](#pdf)
+    + [Silo](#silo)
+    + [XDMF](#xdmf)
     + [XML](#xml)
 + [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
@@ -90,6 +92,9 @@
 
 ## Silo
 + [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl.
+
+## XDMF
++ [XDMF.jl](https://github.com/JuliaFEM/Xdmf.jl) :: A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 
 ## XML
 + [EodDataTestXml.jl](https://github.com/adriantorrie/EodDataTestXml.jl) :: Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
