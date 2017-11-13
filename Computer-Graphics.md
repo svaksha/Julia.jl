@@ -160,12 +160,14 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [ASCIIPlots.jl](https://github.com/johnmyleswhite/ASCIIPlots.jl)
 + [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
 + [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
++ [MakiE.jl](https://github.com/SimonDanisch/MakiE.jl) :: High level plotting on the GPU.
 + [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark: simple printing of unicode trendlines.
 + [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
 + [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) :: Unicode plotting for the REPL in Julia.
 
 ###### Resources
 __Read other Julia-users experiences with visualization and plotting.__
++ Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
 + Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 + Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
 
