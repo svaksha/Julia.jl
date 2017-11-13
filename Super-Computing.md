@@ -150,6 +150,10 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Dtree.jl](https://github.com/kpamnany/Dtree.jl) :: Julia wrapper for a distributed dynamic scheduler for HPC applications.
 + [FunHPC.jl](https://github.com/eschnett/FunHPC.jl) :: Functional High-Performance Computing - A high-level API for distributed computing, implemented on top of MPI. Also on [Bitbucket](https://bitbucket.org/eschnett/funhpc.jl).
 + [hpcc.jl](https://github.com/jiahao/hpcc.jl) :: Implementation of the HPC Challenge kernels in Julia.
++ [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) :: Support for compiling and executing native Julia kernels on CUDA hardware.
+
+###### Resources
++ Blog post on [High-Performance GPU Computing](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/#more-8555) in the Julia Programming Language.
 
 ## [Job Scheduler](https://en.wikipedia.org/wiki/Job_scheduler)
 + [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
