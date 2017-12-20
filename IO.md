@@ -76,7 +76,7 @@
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 ## HDF5
-+ [HDF5.jl](https://github.com/JuliaLang/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
++ [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
 
 ## JLD 
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
@@ -151,6 +151,7 @@
 + [Sexpr.jl](https://github.com/vshesh/Sexpr.jl) :: A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 + [SimpleStructs.jl](https://github.com/pluskid/SimpleStructs.jl) :: Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
 + [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl] :: String Distances in Julia.
++ [StringLiterals.jl](https://github.com/JuliaString/StringLiterals.jl) :: Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities. 
 + [StringUtils.jl](https://github.com/ScottPJones/StringUtils.jl) :: String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
 + [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
 + [TypeSortedCollections.jl](https://github.com/tkoolen/TypeSortedCollections.jl) :: It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner.
