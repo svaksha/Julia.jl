@@ -34,7 +34,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 
 ## Econometrics
 + [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
-+ [DynamicFactorModels.jl](https://github.com/joidegn/DynamicFactorModels.jl) :: Dynamic Factor Models for Julia.
++ [Dolo.jl](https://github.com/EconForge/Dolo.jl) :: A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
 + [FredData.jl](https://github.com/micahjsmith/FredData.jl) :: Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 + [fund.jl](https://github.com/davidanthoff/fund.jl) :: An implementation of FUND in Julia.

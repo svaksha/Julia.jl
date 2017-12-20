@@ -130,6 +130,7 @@
 + [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) :: Expression parser that simulates type inheritance.
 + [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
 + [FixedSizeStrings.jl]/https://github.com/JuliaComputing/FixedSizeStrings.jl) :: A type for efficiently storing short strings of known size.
++ [Format.jl](https://github.com/JuliaString/Format.jl) :: This Julia package provides C and Python-style types and functions formatting support.
 + [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 + [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) :: A Julian abstraction layer over FreeType.jl.
 + [frange](https://github.com/StefanKarpinski/frange)
