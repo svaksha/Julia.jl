@@ -65,7 +65,7 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 + [NMEA.jl](https://github.com/templarlabs/NMEA.jl) :: Julia package for parsing GPS NMEA messages.
 
 ## Org-[JuliaGeo](https://github.com/JuliaGeo)
-Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) and view their  packages on the github org .
+Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) and view their packages on the github org .
 + [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
 + [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) :: Utilities for working with GeoJSON data in Julia.
 
@@ -82,6 +82,7 @@ Ask questions and discuss Geo-related Julia packages on the [geosciences mailing
 ----
 
 # SPACE
++ [Airship.jl](https://github.com/ordovician/Airship.jl) :: Julia code for performing temperature, pressure and volume and buoyancy calculations.
 + [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl) :: ODE integration using Taylor's method in Julia.
 
 
