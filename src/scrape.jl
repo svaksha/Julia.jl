@@ -8,10 +8,10 @@ function scrape_md(filename)
     category in ("LICENSE", "README") && return []
 
     subcategory = ""
-    records = NTuple{5,UTF8String}[]
+    records = NTuple{5,String}[]
 
     subcategory = ""
-    records = NTuple{5,UTF8String}[]
+    records = NTuple{5,String}[]
 
     # process the  lines
     f = open(filename)
