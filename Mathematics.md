@@ -375,7 +375,7 @@ algebra library in Julia.
 + [Grid.jl](https://github.com/timholy/Grid.jl) :: Interpolation and related operations on grids.
 + [GridInterpolations.jl](https://github.com/sisl/GridInterpolations.jl) :: Multi-dimensional grid interpolation in arbitrary dimensions on a recti-linear grid. 
 + [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
-+ [Interpolations.jl](https://github.com/tlycken/Interpolations.jl) :: B-spline interpolation in Julia.
++ [Interpolations.jl](https://github.com/JuliaMath/Interpolations.jl) :: B-spline interpolation in Julia.
 + [LinearExpressions.jl](https://github.com/cdsousa/LinearExpressions.jl) :: is a Julia package to manipulate symbolic linear expressions with both scalar and matrix coefficients - large linear matrix inequalities (LMI) for SDP optimization.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [LowRankApprox.jl](https://github.com/klho/LowRankApprox.jl) :: Fast low-rank matrix approximation in Julia.

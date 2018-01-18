@@ -85,22 +85,23 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
 
 ## PostgreSQL
++ [DBI.jl](https://github.com/swt30/DBI.jl) :: Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
-+ [Postgres.jl](https://github.com/NCarson/Postgres.jl) :: Postgres database interface for the Julia language.
++ [Postgres.jl](https://github.com/NCarson/Postgres.jl) :: Postgres database interface for the Julia language. {Tag: Unmaintained}
++ [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) :: An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl).
 
 ## SQLite
 + [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 
 ----
 
-# Org-[JuliaDB](https://github.com/JuliaDB) - see also [its website](http://juliadb.github.io/)
-+ [DataStreams.jl](https://github.com/JuliaDB/DataStreams.jl) :: A Julia package to stream data.
-+ [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
-+ [DBPerf.jl](https://github.com/JuliaDB/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
-+ [DBDSQLite.jl](https://github.com/JuliaDB/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
-+ [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
-+ [MySQL.jl](https://github.com/JuliaDB/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
-+ [PostgreSQL.jl](https://github.com/JuliaDB/PostgreSQL.jl) :: PostgreSQL API.
+# Org-[JuliaDatabases](https://github.com/JuliaDatabases) 
++ [DataStreams.jl](https://github.com/JuliaDatabases/DataStreams.jl) :: A Julia package to stream data.
++ [DBAPI.jl](https://github.com/JuliaDatabases/DBAPI.jl) :: A new database interface proposal.
++ [DBPerf.jl](https://github.com/JuliaDatabases/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
++ [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
++ [JDBC.jl](https://github.com/JuliaDatabases/JDBC.jl) :: Julia interface to Java database drivers.
++ [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
 
 ----
 

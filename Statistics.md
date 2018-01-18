@@ -229,6 +229,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 + [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
 + [RegTools.jl](https://github.com/joemliang/RegTools.jl) ::  A Julia package for assisting regression analysis.
++ [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.
 
 ###### Resources
 + [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
