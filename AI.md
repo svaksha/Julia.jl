@@ -140,13 +140,14 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation in Julia.
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
++ [CorpusLoaders.jl](https://github.com/JuliaText/CorpusLoaders.jl) :: A variety of loaders for various NLP corpora.
 + [DPL.jl](https://github.com/quxiaofeng/DPL.jl) :: Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors.
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 + [Jukai.jl](https://github.com/hshindo/Jukai.jl) ::  Natural Language Processing Toolkit.
 + [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors.
-+ [Languages.jl](https://github.com/johnmyleswhite/Languages.jl) :: A package for working with human languages.
++ [Languages.jl](https://github.com/JuliaText/Languages.jl) :: A package for working with human languages.
 + [Levenshtein.jl](https://github.com/rawrgrr/Levenshtein.jl) :: Levenshtein distance between two strings.
 + [LTSV.jl](https://github.com/kshramt/LTSV.jl) :: Labeled Tab Separated Values (LTSV) parser.
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
@@ -160,7 +161,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Sumup.jl](https://github.com/remusao/Sumup.jl) :: Automatic multi-documents, multi-topics summarization based on topic extraction.
 + [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) :: Parser with beginners and enders and infix.
 + [Text.jl](https://github.com/mit-nlp/Text.jl) :: Numerous tools for text processing.
-+ [TextAnalysis.jl](https://github.com/johnmyleswhite/TextAnalysis.jl) :: A Julia package for text analysis.
++ [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) :: A Julia package for text analysis.
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl).
 + [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
 + [Word2Vec.jl](https://github.com/weijianzhang/Word2Vec.jl) :: Julia interface to word2vec.
