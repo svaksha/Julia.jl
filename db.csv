@@ -105,13 +105,14 @@ AI,NEURALNETWORKS,SumProductNetworks.jl,https://github.com/trappmartin/SumProduc
 AI,Resources,log post on '[Chess position evaluation with convolutional neural network in Julia,http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)',
 AI,NLP,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation in Julia.
 AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural language parser.
+AI,NLP,CorpusLoaders.jl,https://github.com/JuliaText/CorpusLoaders.jl,A variety of loaders for various NLP corpora.
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,"Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home"
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,"A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane."
 AI,NLP,Jukai.jl,https://github.com/hshindo/Jukai.jl, Natural Language Processing Toolkit.
 AI,NLP,JuliaParser.jl,https://github.com/jakebolewski/JuliaParser.jl,A rewrite of Julia's parser in Julia.
 AI,NLP,KUparser.jl,https://github.com/denizyuret/KUparser.jl,Dependency parsing with word vectors.
-AI,NLP,Languages.jl,https://github.com/johnmyleswhite/Languages.jl,A package for working with human languages.
+AI,NLP,Languages.jl,https://github.com/JuliaText/Languages.jl,A package for working with human languages.
 AI,NLP,Levenshtein.jl,https://github.com/rawrgrr/Levenshtein.jl,Levenshtein distance between two strings.
 AI,NLP,LTSV.jl,https://github.com/kshramt/LTSV.jl,Labeled Tab Separated Values (LTSV) parser.
 AI,NLP,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
@@ -125,7 +126,7 @@ AI,NLP,Stemmers.jl,https://github.com/tanmaykm/Stemmers.jl,Interface for text st
 AI,NLP,Sumup.jl,https://github.com/remusao/Sumup.jl,"Automatic multi-documents, multi-topics summarization based on topic extraction."
 AI,NLP,Treekenize.jl,https://github.com/o-jasper/Treekenize.jl,Parser with beginners and enders and infix.
 AI,NLP,Text.jl,https://github.com/mit-nlp/Text.jl,Numerous tools for text processing.
-AI,NLP,TextAnalysis.jl,https://github.com/johnmyleswhite/TextAnalysis.jl,A Julia package for text analysis.
+AI,NLP,TextAnalysis.jl,https://github.com/JuliaText/TextAnalysis.jl,A Julia package for text analysis.
 AI,NLP,TopicModels.jl,https://github.com/slycoder/TopicModels.jl),
 AI,NLP,TOML.jl,https://github.com/pygy/TOML.jl,A TOML parser.
 AI,NLP,Word2Vec.jl,https://github.com/weijianzhang/Word2Vec.jl,Julia interface to word2vec.
@@ -836,7 +837,7 @@ IO,CSV,CSV.jl,https://github.com/tanmaykm/CSV.jl) by @tanmayk,reads CSV files.
 IO,CSV,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
 IO,CSV,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 IO,CSV,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
-IO,HDF5,HDF5.jl,https://github.com/JuliaLang/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
+IO,HDF5,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
 IO,JLD,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 IO,JLD,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
 IO,JLD,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files
@@ -870,6 +871,7 @@ IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://githu
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,"This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor."
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Format.jl,https://github.com/JuliaString/Format.jl,This Julia package provides C and Python-style types and functions formatting support.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
@@ -891,6 +893,7 @@ IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.c
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,"Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors."
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringLiterals.jl,https://github.com/JuliaString/StringLiterals.jl,"Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities."
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,"String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc."
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),TypeSortedCollections.jl,https://github.com/tkoolen/TypeSortedCollections.jl,"It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner."
@@ -1060,6 +1063,7 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),FastPolynomials.jl,https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl,Basic polynomials with Horner-like evaluation over x^2 and x.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealFactorization.jl,https://github.com/timholy/HemirealFactorization.jl,Matrix factorizations over the hemireals.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealNumbers.jl,https://github.com/timholy/HemirealNumbers.jl,Implementation of hemireal arithmetic for Julia.
+Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HigherPrecision.jl,https://github.com/saschatimme/HigherPrecision.jl,"HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat."
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),IFastSum.jl,https://github.com/J-Sarnoff/IFastSum.jl,Accurate summation (Yuhang Zhao's iFastSum).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),MINE.jl,https://github.com/zhmz90/MINE.jl,Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PowerSeries.jl,https://github.com/jwmerrill/PowerSeries.jl,"Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers."
@@ -1643,6 +1647,7 @@ Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URITemplate.jl,https://github
 Server,Org-[JuliaWeb](https://github.com/JuliaWeb),UAParser.jl,https://github.com/JuliaWeb/UAParser.jl,"UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser."
 Server,Org-[JuliaWeb](https://github.com/JuliaWeb),URIParser.jl,https://github.com/JuliaWeb/URIParser.jl,Pure julia URI parser.
 Server,Org-[JuliaWeb](https://github.com/JuliaWeb),WWWClient.jl,https://github.com/JuliaWeb//WWWClient.jl,"is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing."
+Server,Videos,WebPlayer.jl,https://github.com/SimonDanisch/WebPlayer.jl,Playing videos with Julia in the web.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaWebRepl.jl,https://github.com/vtjnash/JuliaWebRepl.jl,
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),LanguageServer.jl,https://github.com/JuliaEditorSupport/LanguageServer.jl,An implementation of the Microsoft Language Server Protocol for the julia language.
 Server,Org-[JunoLab](https://github.com/JunoLab/),Blink.jl,https://github.com/JunoLab/Blink.jl,"A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell."
@@ -1678,7 +1683,7 @@ Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),ERFA.jl,https://git
 Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),WCS.jl,https://github.com/JuliaAstro/WCS.jl,Astronomical World Coordinate Systems library for Julia.
 Space-Science,AstronomicalImaging,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
 Statistics,Econometrics,copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
-Statistics,Econometrics,DynamicFactorModels.jl,https://github.com/joidegn/DynamicFactorModels.jl,Dynamic Factor Models for Julia.
+Statistics,Econometrics,Dolo.jl,https://github.com/EconForge/Dolo.jl,A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 Statistics,Econometrics,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,"This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models."
 Statistics,Econometrics,FredData.jl,https://github.com/micahjsmith/FredData.jl,Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 Statistics,Econometrics,fund.jl,https://github.com/davidanthoff/fund.jl,An implementation of FUND in Julia.
@@ -2172,7 +2177,7 @@ Utilities,Emacs,julia-emacs,https://github.com/JuliaLang/julia-emacs,Julia suppo
 Utilities,Emacs,julia-repl,https://github.com/tpapp/julia-repl,Run an inferior Julia REPL in a terminal inside Emacs.
 Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),CSSUtil,https://github.com/JuliaGizmos/CSSUtil,
 Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),Interact.jl,https://github.com/JuliaLang/Interact.jl,Library for interactive widgets in IJulia.
-Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),InteractNext.jl,https://github.com/JuliaGizmos/InteractNext.jl,"is a lot like Interact.jl, except that as well as running in IJulia, it also works in the Atom/Juno IDE, in a desktop window with Blink.jl, and served in a webpage via Mux.jl."
+Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),InteractNext.jl,https://github.com/JuliaGizmos/InteractNext.jl,"is a lot like Interact.jl, except that as well as running in IJulia, it also works in the Atom/Juno IDE, in a desktop window with `Blink.jl`, and served in a webpage via `Mux.jl`."
 Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),WebIO.jl,https://github.com/JuliaGizmos/WebIO.jl) : A DSL for web-based widgets in Julia,
 Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Jewel.jl,https://github.com/JuliaIDE/Jewel.jl,IDE backend for Julia.
 Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Julia-LT,https://github.com/JuliaIDE/Julia-LT,Julia plugin for Light Table.

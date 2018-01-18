@@ -254,6 +254,7 @@ __Local meetup groups located in the various continents around the world.__
 
 
 # JUPYTER NOTEBOOKS
++ [Introduction_to_Julia_tutorials](https://github.com/xorJane/Introduction_to_Julia_tutorials) :: These are the jupyter notebooks used for intro tutorials to teach Julia.
 + [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
 + [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia).
 + [ChicagoFed_workshop](https://github.com/QuantEcon/ChicagoFed_workshop) :: Workshop on scientific computing for economists with Python and Julia.
