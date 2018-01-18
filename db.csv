@@ -1362,7 +1362,7 @@ Programming-Paradigms,ProgrammingParadigms,FemtoCleaner.jl,https://github.com/Ju
 Programming-Paradigms,ProgrammingParadigms,InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,"Intervals are inter-values, an interval is its values and their intra-values."
 Programming-Paradigms,ProgrammingParadigms,LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,"Mathematics, Compilers, Functional Programming, and other papers."
-Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and c functions.
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),StatefulIterators.jl,https://github.com/andrewcooke/StatefulIterators.jl,A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 Programming-Paradigms,[DoubleDispatch](https://en.wikipedia.org/wiki/Double_dispatch),julia-pattern-dispatch,https://github.com/toivoh/julia-pattern-dispatch,Support for method dispatch in Julia based on pattern matching.
 Programming-Paradigms,FunctionalProgramming,FunctionalUtils.jl,https://github.com/zachallaun/FunctionalUtils.jl,Functional Julia – based on fogus/lemonad.
@@ -1389,11 +1389,13 @@ Programming-Paradigms,Resources,The Design Impact of Multiple Dispatch,http://nb
 Programming-Paradigms,Resources,What are the advantages of multiple dispatch in Julia,https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch),
 Programming-Paradigms,Multi-Threading,OCCA.jl,https://github.com/ReidAtcheson/OCCA.jl,"Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++."
 Programming-Paradigms,Multi-Threading,TiledIteration.jl,https://github.com/JuliaArrays/TiledIteration.jl,"Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code."
+Programming-Paradigms,Overdubbing,Cassette.jl,https://github.com/jrevels/Cassette.jl,"a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of ""Cassette-unaware"" Julia programs."
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),CallGraphs.jl,https://github.com/timholy/CallGraphs.jl,"A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses."
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),dataflow.jl,https://github.com/JeffBezanson/dataflow.jl,Introduction to dataflow analysis using julia.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),ExpressionPatterns.jl,https://github.com/fcard/ExpressionPatterns.jl,"Match, Destructure and Dispatch on expressions."
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),LRUCache.jl,https://github.com/jcrist/LRUCache.jl,An implementation of a Least Recently Used (LRU) Cache.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),PAPI.jl,https://github.com/jakebolewski/PAPI.jl,Julia bindings to the Performance Application Programming Interface (PAPI).
+Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),StatProfilerHTML.jl,https://github.com/tkluck/StatProfilerHTML.jl,Show Julia profiling data in an explorable HTML page.
 Programming-Paradigms,ReactiveProgramming,Reactive.jl,https://github.com/JuliaLang/Reactive.jl,A package for reactive programming in Julia.
 Programming-Paradigms,Serialization,Spock.jl,https://github.com/jey/Spock.jl,An interface to Apache Spark for the Julia language.
 Programming-Paradigms,StyleGuidelines,Official Julia style guide,https://julia.readthedocs.org/en/latest/manual/style-guide/),
@@ -1545,6 +1547,7 @@ Resources,[Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA,Sydney JUG,
 Resources,SouthAmerica-BRAZIL,Campinas,http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group,
 Resources,SouthAmerica-BRAZIL,Rio de Janeiro,http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG,
 Resources,SouthAmerica-BRAZIL,Sao Paulo,http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group,
+Resources,JUPYTERNOTEBOOKS,Introduction_to_Julia_tutorials,https://github.com/xorJane/Introduction_to_Julia_tutorials,These are the jupyter notebooks used for intro tutorials to teach Julia.
 Resources,JUPYTERNOTEBOOKS,100-julia-exercises,https://github.com/chezou/julia-100-exercises,@rougier's 100 numpy exercises as 100-julia-exercises.
 Resources,JUPYTERNOTEBOOKS,A gallery of interesting Julia notebooks,https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia),
 Resources,JUPYTERNOTEBOOKS,ChicagoFed_workshop,https://github.com/QuantEcon/ChicagoFed_workshop,Workshop on scientific computing for economists with Python and Julia.
