@@ -8,6 +8,7 @@
    + [Meta Programming](#meta-programming)
    + [Multiple Dispatch](#multiple-dispatch)
    + [Multi Threading](#multi-threading)
+   + [Overdubbing](#overdubbing)
    + [Program Analysis](#program-analysis)
    + [Reactive Programming](#reactive-programming)
    + [Style Guidelines](#style-guidelines)
@@ -38,7 +39,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
 ### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
-+ [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and c functions.
++ [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and C functions.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
@@ -82,6 +83,10 @@ __Packages and resources that support various programming styles, Software Archi
 ### Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 + [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
+
+### Overdubbing
++ [Cassette.jl](https://github.com/jrevels/Cassette.jl) :: a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs. 
+
 
 ### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
 __Libs for memory management (malloc), bounds checking, literals and other base program analysis options.__
