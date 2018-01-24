@@ -33,6 +33,7 @@
 # SOFTWARE
 **NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
 + [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
++ [DataDeps.jl](https://github.com/oxinabox/DataDeps.jl): BinDeps for Data. Read the [demo blog post](http://white.ucc.asn.au/2018/01/18/DataDeps.jl-Repeatabled-Data-Setup-for-Repeatable-Science.html).
 + [DataStreams.jl](https://github.com/lindahua/DataStreams.jl) :: A Julia package to support streaming process of data .
 + [Faker.jl](https://github.com/codeneomatrix/Faker.jl) :: A package that generates fake data.
 + [FaceDatasets.jl](https://github.com/dfdx/FaceDatasets.jl) :: A package for easy access to face-related datasets.

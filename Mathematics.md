@@ -49,6 +49,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [FNVHash.jl](https://github.com/samoconnor/FNVHash.jl) :: FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion.
 + [Hashlib.jl](https://github.com/samgre/Hashlib.jl) :: SHA1 implementation for Julia.
 + [MbedTLS.jl](https://github.com/malmaud/MbedTLS.jl) :: Wrapper around mbedtls.
++ [MD5.jl](https://github.com/oxinabox/MD5.jl) :: A pure julia MD5 implementation.
 + [Nettle.jl](https://github.com/staticfloat/Nettle.jl) :: is a simple wrapper around libnettle, a cryptographic library.
 + [OpenSSL.jl](https://github.com/dirk/OpenSSL.jl) :: WIP OpenSSL bindings for Julia.
 + [OpenSSLCrypto.jl](https://github.com/amitmurthy/OpenSSLCrypto.jl) :: Julia interface to the crypto API of openssl.
