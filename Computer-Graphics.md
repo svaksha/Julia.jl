@@ -146,6 +146,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
 + [Plotly.jl](https://github.com/plotly/Plotly.jl) :: A Julia wrapper for the plot.ly REST API.
     + The [plot.ly](https://plot.ly/api/julia/) Julia API in an [IJulia notebook](http://nbviewer.ipython.org/7105191)
++ [PlotlyBase.jl](https://github.com/sglyon/PlotlyBase.jl) :: Generate plotly.js JSON in Julia.
 + [PLplot.jl](https://github.com/wildart/PLplot.jl) :: A cross-platform software package for creating scientific plots.
 + [PyPlot.jl](https://github.com/stevengj/PyPlot.jl) :: Plotting for Julia based on matplotlib, pyplot.
 + [Qwt.jl](https://github.com/tbreloff/Qwt.jl) :: 2D plotting, drawing, and GUIs using Qwt and Qt.  {Usable: 4, Robust: 3, Active: 1}
