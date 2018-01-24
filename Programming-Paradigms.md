@@ -95,6 +95,7 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [ExpressionPatterns.jl](https://github.com/fcard/ExpressionPatterns.jl) :: Match, Destructure and Dispatch on expressions.
 + [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) :: An implementation of a Least Recently Used (LRU) Cache.
 + [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) :: Julia bindings to the Performance Application Programming Interface (PAPI).
++ [Revise.jl](https://github.com/timholy/Revise.jl) :: Automatically update function definitions in a running Julia session.
 + [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) :: Show Julia profiling data in an explorable HTML page.
 
 ### Reactive Programming
