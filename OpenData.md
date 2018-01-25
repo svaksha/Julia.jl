@@ -1,4 +1,4 @@
-**NB :: Not all the DB's are freely available.**
+**NB :: Not all the Data sets are freely available.**
 
 + [SOFTWARE](#software)
     + [Data Science](#data-science)

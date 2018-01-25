@@ -64,6 +64,7 @@
 + [PList.jl](https://github.com/ordovician/PList.jl) :: A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
 + [PLX.jl](https://github.com/simonster/PLX.jl) :: Julia module for reading Plexon PLX files.
 + [HarwellBoeing.jl](https://github.com/dpo/HarwellBoeing.jl) :: A reader for matrices and supplementary data written in the Harwell-Boeing format.
++ [SASLib.jl](https://github.com/tk3369/SASLib.jl) :: Provide a Julia library for reading SAS7BDAT data sets.
 + [Shapefile.jl](https://github.com/Keno/Shapefile.jl) :: Parsing .shp files in Julia.
 + [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the Silo file format.
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
