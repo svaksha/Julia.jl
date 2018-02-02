@@ -31,6 +31,7 @@
 + [DevIL.jl](https://github.com/JuliaGL/DevIL.jl) :: [DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
 + [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 + [Drawing.jl](https://github.com/andrewcooke/Drawing.jl) :: A library for easy, extensible drawing (diagrams, lines, shapes).
++ [Fontconfig.jl](https://github.com/JuliaGraphics/Fontconfig.jl) :: provides basic binding to fontconfig.
 + [GLAbstraction.jl](https://github.com/JuliaGL/GLAbstraction.jl) :: Utility package for ModernGL.
 + [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
 + [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
