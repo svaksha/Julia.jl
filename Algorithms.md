@@ -108,6 +108,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 + [KSVD.jl](https://github.com/IshitaTakeshi/KSVD.jl) :: K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 + [MappedArrays.jl](https://github.com/JuliaArrays/MappedArrays.jl) :: Lazy in-place transformations of arrays.
++ [PaddedViews.jl](https://github.com/JuliaArrays/PaddedViews.jl) :: Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add "virtual" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be "promoted" to have common indices using the `paddedviews` function.
 + [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
 + [Ranges.jl](https://github.com/JuliaArrays/Ranges.jl) :: Array-like objects with compact storage for the Julia language.
 + [RangeArrays.jl](https://github.com/JuliaArrays/RangeArrays.jl) :: Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
@@ -160,7 +161,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [NamedAxesArrays.jl](https://github.com/timholy/NamedAxesArrays.jl) :: Performant arrays where each axis can be named. 
 + [NamedTuples.jl](https://github.com/blackrock/NamedTuples.jl) :: Provides a high performance implementation of named tuples for Julia (cf named tuples in python). 
 + [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
-+ [OffsetArrays.jl](https://github.com/alsam/OffsetArrays.jl) :: Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein. 
++ [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) :: Fortran-like arrays with arbitrary, zero or negative starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein. 
 + [Graft.jl](https://github.com/pranavtbhat/Graft.jl) :: A graph analysis toolkit for Julia that stores vertex and edge metadata in separate p
     + A blog post describing the [GSoC work on Graft.jl](http://www.juliabloggers.com/gsoc-2016-project-graft-jl/).
 + [PDMats.jl](https://github.com/lindahua/PDMats.jl) :: Uniform Interface for positive definite matrices of various structures.
