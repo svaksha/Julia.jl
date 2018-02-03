@@ -348,7 +348,7 @@ algebra library in Julia.
 + [TrussPlotter.jl](https://github.com/sjkelly/TrussPlotter.jl) :: This is a package to plot trusses for finite element results.
 + [Vec.jl](https://github.com/tawheeler/Vec.jl) :: Provides 2D and 3D vector types for vector operations in Julia.
 
-=======
+----
 
 ## [Computational Geometry](https://en.wikipedia.org/wiki/Category:Computational_geometry)
 + [CHull.jl](https://github.com/davidavdav/CHull.jl) :: A Julia wrapper around a PyCall wrapper around the qhull Convex Hull library.
@@ -365,6 +365,9 @@ algebra library in Julia.
 ## [Solid Geometry](https://en.wikipedia.org/wiki/Solid_geometry)
 + [Descartes.jl](https://github.com/FactoryOS/Descartes.jl) :: A research project into the representation of solid geometry.
 
+## [Trigonometry](https://en.wikipedia.org/wiki/Category:Trigonometry)
++ [Tau.jl](https://github.com/JuliaMath/Tau.jl) :: A simple module providing definition of the Tau constant.
+    
 ----
 
 # [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
