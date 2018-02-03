@@ -58,6 +58,7 @@
 + The [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) economic [time series data](https://research.stlouisfed.org/fred2/).
 
 ## Finance
+* Fannie Mae [Single-Family Loan Performance Data](http://www.fanniemae.com/portal/funding-the-market/data/loan-performance-data.html).
 * [NASDAQ](https://data.nasdaq.com/) data.
 * [OANDA](http://www.oanda.com/) data.
 

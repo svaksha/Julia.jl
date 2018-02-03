@@ -1045,9 +1045,10 @@ Mathematics,ALGEBRA,Lifts.jl,https://github.com/scheinerman/Lifts.jl,Linear frac
 Mathematics,ALGEBRA,Mods.jl,https://github.com/scheinerman/Mods.jl,Easy modular arithmetic for Julia.
 Mathematics,ALGEBRA,MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
 Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,"A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors."
+Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
 Mathematics,ALGEBRA,PolynomialRoots.jl,https://github.com/giordano/PolynomialRoots.jl,"Fast complex polynomial root finder, with support for arbitrary precision calculations"
 Mathematics,ALGEBRA,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
-Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
+Mathematics,ALGEBRA,Remez.jl,https://github.com/simonbyrne/Remez.jl,Remez algorithm for computing minimax polynomial approximations.
 Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),BitCircuits.jl,https://github.com/um-tech-evolution/BitCircuits.jl,Boolean circuit evaluation using bitwise operations.
