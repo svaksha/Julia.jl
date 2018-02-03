@@ -48,6 +48,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Crypto.jl](https://github.com/danielsuo/Crypto.jl) :: A library that wraps OpenSSL, but also has pure Julia implementations for reference.
 + [FNVHash.jl](https://github.com/samoconnor/FNVHash.jl) :: FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion.
 + [Hashlib.jl](https://github.com/samgre/Hashlib.jl) :: SHA1 implementation for Julia.
+
 + [MbedTLS.jl](https://github.com/malmaud/MbedTLS.jl) :: Wrapper around mbedtls.
 + [MD5.jl](https://github.com/oxinabox/MD5.jl) :: A pure julia MD5 implementation.
 + [Nettle.jl](https://github.com/staticfloat/Nettle.jl) :: is a simple wrapper around libnettle, a cryptographic library.
@@ -58,7 +59,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SHA.jl](https://github.com/staticfloat/SHA.jl) :: a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
 + [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: [Sha256 hash algorithm for Julia.
 + [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
-+ [VML.jl](https://github.com/JuliaLang/VML.jl) :: Julia bindings for the Intel Vector Math Library.
++ [VML.jl](https://github.com/JuliaMath/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 + [VSL.jl](https://github.com/sunoru/VSL.jl) :: Julia bindings for the Intel Vector Statistics Library.
 
 ### Cryptocurrency 

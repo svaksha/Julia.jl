@@ -46,7 +46,9 @@ AI,MACHINELEARNING,MXNet.jl,https://github.com/dmlc/MXNet.jl,Flexible and effici
 AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online Learning of Linear Adaptatable Models.
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,"Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}"
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
+AI,MACHINELEARNING,ParticleFilters.jl,https://github.com/JuliaPOMDP/ParticleFilters.jl,Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
 AI,MACHINELEARNING,POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes and reinforcement learning.
+AI,MACHINELEARNING,POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
 AI,MACHINELEARNING,PrivateMultiplicativeWeights.jl,https://github.com/mrtzh/PrivateMultiplicativeWeights.jl,Differentially private synthetic data.
 AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,"Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014."
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,"A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia."
@@ -186,12 +188,14 @@ Algorithms,Array-Matrix,ImmutableArrays.jl,https://github.com/twadleigh/Immutabl
 Algorithms,Array-Matrix,IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
 Algorithms,Array-Matrix,IndexedTables.jl,https://github.com/JuliaComputing/IndexedTables.jl,N-dimensional sparse array structure in julia.
 Algorithms,Array-Matrix,IndirectArrays.jl,https://github.com/JuliaArrays/IndirectArrays.jl,"Julia implementation of indexed or ""lookup"" arrays."
+Algorithms,Array-Matrix,InplaceOps.jl,https://github.com/simonbyrne/InplaceOps.jl,Convenient macros for in-place matrix operations in Julia.
 Algorithms,Array-Matrix,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl,"A package based on Dagger and IndexedTables, provides a distributed-array-like data model for working with large persistent data sets. Given a set of CSV files, it builds and saves an index that allows the data to be accessed efficiently in the future. It also supports an ""ingest"" mode that converts data to a more efficient binary format."
 Algorithms,Array-Matrix,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
 Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
 Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,KSVD.jl,https://github.com/IshitaTakeshi/KSVD.jl,K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 Algorithms,Array-Matrix,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
+Algorithms,Array-Matrix,PaddedViews.jl,https://github.com/JuliaArrays/PaddedViews.jl,"Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add ""virtual"" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be ""promoted"" to have common indices using the `paddedviews` function."
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Algorithms,Array-Matrix,Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
 Algorithms,Array-Matrix,RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
@@ -239,8 +243,8 @@ Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedA
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),OffsetArrays.jl,https://github.com/alsam/OffsetArrays.jl,"Negative Indexing - it provides the ability to use arbitrary starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein."
-Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Graft.jl,https://github.com/pranavtbhat/Graft.jl,A graph analysis toolkit for Julia that stores vertex and edge metadata in separate dataframes.
+Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),OffsetArrays.jl,https://github.com/JuliaArrays/OffsetArrays.jl,"Fortran-like arrays with arbitrary, zero or negative starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein."
+Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),Graft.jl,https://github.com/pranavtbhat/Graft.jl,A graph analysis toolkit for Julia that stores vertex and edge metadata in separate p
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures), blog post describing the [GSoC work on Graft.jl,http://www.juliabloggers.com/gsoc-2016-project-graft-jl/),
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PDMats.jl,https://github.com/lindahua/PDMats.jl,Uniform Interface for positive definite matrices of various structures.
 Algorithms,[Graphs](Hashtables/LinkedList/Functional/Treesdatastructures),PositiveFactorizations.jl,https://github.com/timholy/PositiveFactorizations.jl,Positive-definite (approximations) to matrices.
@@ -436,6 +440,7 @@ Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
+Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
 Build-Automation,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
@@ -502,6 +507,7 @@ Computer-Graphics,GRAPHICS,DelayedBuffer.jl,https://github.com/jfsantos/DelayedB
 Computer-Graphics,GRAPHICS,DevIL.jl,https://github.com/JuliaGL/DevIL.jl,[DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
 Computer-Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,"A 3D graphics package with a Julia API, built on OpenGL."
 Computer-Graphics,GRAPHICS,Drawing.jl,https://github.com/andrewcooke/Drawing.jl,"A library for easy, extensible drawing (diagrams, lines, shapes)."
+Computer-Graphics,GRAPHICS,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,provides basic binding to fontconfig.
 Computer-Graphics,GRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Utility package for ModernGL.
 Computer-Graphics,GRAPHICS,GLText.jl,https://github.com/SimonDanisch/GLText.jl,Text Rendering for OpenGL.
 Computer-Graphics,GRAPHICS,GLUT.jl,https://github.com/rennis250/GLUT.jl,A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
@@ -795,8 +801,10 @@ i18n-L10n,Japanese,julia_doc_ja,https://github.com/iTakeshi/julia_doc_ja,Japanes
 i18n-L10n,OtherSites,Shapecatcher.com,http://shapecatcher.com/) is a Unicode character recognition website,
 IO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
 IO,BinaryIO,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
+IO,BinaryIO,LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
 IO,BinaryIO,StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 IO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,"general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions."
+IO,GeneralIO,Missings.jl,https://github.com/JuliaData/Missings.jl,A missing value representation for Julia for databases and statistics.
 IO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
 IO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
 IO,GeneralIO,ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
@@ -812,7 +820,6 @@ IO,DataFormats,DataFramesIO.jl,https://github.com/johnmyleswhite/DataFramesIO.jl
 IO,DataFormats,DataRead.jl,https://github.com/WizardMac/DataRead.jl,"can read files from Stata, SAS, and SPSS."
 IO,DataFormats,DWARF.jl,https://github.com/Keno/DWARF.jl,Julia Package for parsing the DWARF file format.
 IO,DataFormats,ELF.jl,https://github.com/Keno/ELF.jl,Julia Package for working with ELF files.
-IO,DataFormats,Feather.jl,https://github.com/JuliaStats/Feather.jl,A format for saving and retrieving data frames inorder to read and write in the feather format.
 IO,DataFormats,FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilities to read/write FASTA format files in Julia.
 IO,DataFormats,FlatBuffers.jl,https://github.com/dmbates/FlatBuffers.jl,A package to support Julia code generated by Google's flatbuffers compiler `flatc`.
 IO,DataFormats,Grisu.jl,https://github.com/quinnj/Grisu.jl,Port of Double-Conversion library to native Julia.
@@ -831,14 +838,11 @@ IO,DataFormats,PdbTool,https://github.com/christophfeinauer/PdbTool.jl,An object
 IO,DataFormats,PList.jl,https://github.com/ordovician/PList.jl,A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
 IO,DataFormats,PLX.jl,https://github.com/simonster/PLX.jl,Julia module for reading Plexon PLX files.
 IO,DataFormats,HarwellBoeing.jl,https://github.com/dpo/HarwellBoeing.jl,A reader for matrices and supplementary data written in the Harwell-Boeing format.
+IO,DataFormats,SASLib.jl,https://github.com/tk3369/SASLib.jl,Provide a Julia library for reading SAS7BDAT data sets.
 IO,DataFormats,Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp files in Julia.
 IO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
 IO,DataFormats,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
 IO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
-IO,CSV,CSV.jl,https://github.com/tanmaykm/CSV.jl) by @tanmayk,reads CSV files.
-IO,CSV,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
-IO,CSV,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
-IO,CSV,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
 IO,HDF5,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
 IO,JLD,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 IO,JLD,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
@@ -847,6 +851,11 @@ IO,ODS,OdsIO.jl,https://github.com/sylvaticus/OdsIO.jl,ODS I/O for Julia Dict or
 IO,PDF,PDFIO.jl,https://github.com/sambitdash/PDFIO.jl,PDF Reader Library for native Julia.
 IO,PDF,LabelNumerals.jl,"https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc",
 IO,Silo,Silo.jl,https://github.com/jgoldfar/Silo.jl,"Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl."
+IO,TabularData,CSV.jl,https://github.com/tanmaykm/CSV.jl) by @tanmayk,reads CSV files.
+IO,TabularData,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
+IO,TabularData,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
+IO,TabularData,Feather.jl,https://github.com/JuliaData/Feather.jl,Julia library for working with feather-formatted files.
+IO,TabularData,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
 IO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 IO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 IO,XML,EzXML.jl,https://github.com/bicycle1885/EzXML.jl,XML/HTML handling tools for primates.
@@ -893,6 +902,7 @@ IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.c
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,"RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)"
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ShortStrings.jl,https://github.com/xiaodaigh/ShortStrings.jl,A fast and efficient string format implementation for storing strings of size less than 15 bytes.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,"Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors."
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringLiterals.jl,https://github.com/JuliaString/StringLiterals.jl,"Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities."
@@ -949,7 +959,7 @@ Mathematics,CRYPTOGRAPHY,RNGTesting,https://github.com/johnmyleswhite/RNGTesting
 Mathematics,CRYPTOGRAPHY,SHA.jl,https://github.com/staticfloat/SHA.jl,"a performant, 100% native-julia SHA2-{224,256,384,512} implementation."
 Mathematics,CRYPTOGRAPHY,Sha256.jl,https://github.com/mad4alcohol/Sha256.jl,[Sha256 hash algorithm for Julia.
 Mathematics,CRYPTOGRAPHY,Stupid.jl,https://github.com/andrewcooke/Stupid.jl,Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
-Mathematics,CRYPTOGRAPHY,VML.jl,https://github.com/JuliaLang/VML.jl,Julia bindings for the Intel Vector Math Library.
+Mathematics,CRYPTOGRAPHY,VML.jl,https://github.com/JuliaMath/VML.jl,Julia bindings for the Intel Vector Math Library.
 Mathematics,CRYPTOGRAPHY,VSL.jl,https://github.com/sunoru/VSL.jl,Julia bindings for the Intel Vector Statistics Library.
 Mathematics,Cryptocurrency,it[Coin.jl,https://github.com/danielsuo/Coin.jl,A library for working with Bitcoin written in Julia.
 Mathematics,MATH,ApApproximation.jl,https://github.com/dprn/ApApproximation.jl,Implementation of the almost-periodic approximation.
@@ -1780,6 +1790,7 @@ Statistics,Optimization,MOpt.jl,https://github.com/floswald/MOpt.jl,Parallel der
 Statistics,Optimization,Munkres.jl,https://github.com/FugroRoames/Munkres.jl,Munkres algorithm for the optimal assignment problem.
 Statistics,Optimization,NEOS.jl,https://github.com/odow/NEOS.jl,A Julia interface for the NEOS Optimisation Server.
 Statistics,Optimization,NLTester,https://github.com/IainNZ/NLTester,"Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling."
+Statistics,Optimization,NODAL.jl,https://github.com/phrb/NODAL.jl,is an Open Distributed Autotuning Library in Julia.
 Statistics,Optimization,PiecewiseLinearOpt.jl,https://github.com/joehuchette/PiecewiseLinearOpt.jl,Optimizing over piecewise linear functions.
 Statistics,Optimization,pikaia.jl,https://github.com/tmeits/pikaia.jl,Genetic Algorithms (GA's).
 Statistics,Optimization,Polyopt.jl,https://github.com/MOSEK/Polyopt.jl,"Julia package for polynomial optimization using semidefinite programming, with some [presentation notebooks](https://github.com/MOSEK/Polyopt.jl/tree/master/notebooks) of an optimization package."
@@ -1874,6 +1885,7 @@ Statistics,STATISTICS,DPMM.jl,https://github.com/sbos/DPMM.jl,Dirichlet Process 
 Statistics,STATISTICS,DirichletProcessMixtures.jl,https://github.com/sbos/DirichletProcessMixtures.jl,This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
 Statistics,STATISTICS,Earth.jl,https://github.com/lendle/Earth.jl,"is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis."
 Statistics,STATISTICS,FactorModels.jl,https://github.com/joidegn/FactorModels.jl,Factor models or diffusion index models.
+Statistics,STATISTICS,FastGroupBy.jl,https://github.com/xiaodaigh/FastGroupBy.jl,Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 Statistics,STATISTICS,FeldtLib.jl,https://github.com/robertfeldt/FeldtLib.jl,Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
 Statistics,STATISTICS,FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
 Statistics,STATISTICS,Hotspot.jl,https://github.com/jzelner/Hotspot.jl,Hotspot modeling.
