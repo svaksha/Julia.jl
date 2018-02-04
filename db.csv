@@ -431,16 +431,19 @@ Build-Automation,BUILDAUTOMATION,OpenStack.jl,https://github.com/Keno/OpenStack.
 Build-Automation,DEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
 Build-Automation,DEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
 Build-Automation,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/PkgVerifierPrototype,Julia package verifier prototype.
+Build-Automation,Binaries,BinaryBuilder.jl,https://github.com/JuliaPackaging/BinaryBuilder.jl,Binary Dependency Builder for Julia.
+Build-Automation,Binaries,BinaryProvider.jl,https://github.com/JuliaPackaging/BinaryProvider.jl,A reliable binary provider for Julia.
 Build-Automation,Binaries,BinDeps.jl,https://github.com/JuliaLang/BinDeps.jl,Tool for building binary dependencies for Julia modules.
 Build-Automation,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
 Build-Automation,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball",
-Build-Automation,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl,
+Build-Automation,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,fficial [Julia Package list,http://pkg.julialang.org/),
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
+Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,NettleBuilder,https://github.com/staticfloat/NettleBuilder/,BinaryBuilder repo for `libnettle`.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
 Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
 Build-Automation,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
@@ -1173,6 +1176,7 @@ Mathematics,Org-[JuliaPolyhedra](https://juliapolyhedra.github.io/),ConvexHull.j
 Mathematics,Org-[JuliaPolyhedra](https://juliapolyhedra.github.io/),LRSLib.jl,https://github.com/JuliaPolyhedra/LRSLib.jl,A wrapper for lrs.
 Mathematics,Org-[JuliaPolyhedra](https://juliapolyhedra.github.io/),Polyhedra.jl,https://github.com/JuliaPolyhedra/Polyhedra.jl,It provides an unified interface for Polyhedra Manipulation Libraries such as CDDLib.jl.
 Mathematics,[SolidGeometry](https://en.wikipedia.org/wiki/Solid_geometry),Descartes.jl,https://github.com/FactoryOS/Descartes.jl,A research project into the representation of solid geometry.
+Mathematics,[Trigonometry](https://en.wikipedia.org/wiki/Category:Trigonometry),Tau.jl,https://github.com/JuliaMath/Tau.jl,A simple module providing definition of the Tau constant.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),ApproxFun.jl,https://github.com/JuliaApproximation/ApproxFun.jl,Julia package for function approximation.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),ApproXD.jl,https://github.com/floswald/ApproXD.jl,B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Dopri.jl,https://github.com/helgee/Dopri.jl,A Julia wrapper for the DOPRI5 and DOP853 integrators.
