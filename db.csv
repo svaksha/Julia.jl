@@ -434,6 +434,7 @@ Build-Automation,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/Pk
 Build-Automation,Binaries,BinaryBuilder.jl,https://github.com/JuliaPackaging/BinaryBuilder.jl,Binary Dependency Builder for Julia.
 Build-Automation,Binaries,BinaryProvider.jl,https://github.com/JuliaPackaging/BinaryProvider.jl,A reliable binary provider for Julia.
 Build-Automation,Binaries,BinDeps.jl,https://github.com/JuliaLang/BinDeps.jl,Tool for building binary dependencies for Julia modules.
+Build-Automation,Binaries,SnappyBuilder,https://github.com/davidanthoff/SnappyBuilder,BinaryBuilder for `libsnappy`.
 Build-Automation,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
 Build-Automation,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball",
 Build-Automation,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
@@ -705,6 +706,7 @@ DataBase,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http
 Earth-Science,AERONAUTICS,Rotations.jl,https://github.com/ronisbr/Rotations.jl,"Functions related to rotations of coordinate frames, angle2dcm, dcm2angle."
 Earth-Science,AERONAUTICS,Quaternions.jl,https://github.com/forio/Quaternions.jl,A Julia module with quaternion and dual-quaternion functionality.
 Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),ClimateTools.jl,https://github.com/Balinus/ClimateTools.jl,This package is a collection of commonly-used tools in Climate Science.
+Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),Mimi.jl,https://github.com/anthofflab/Mimi.jl,Integrated Assessment Modeling Framework for climate change.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),Krige.jl,https://github.com/njwilson23/Krige.jl,Kriging estimators in Julia.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/juliohm/GeoStats.jl,Geostatistics in Julia.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
@@ -850,6 +852,7 @@ IO,HDF5,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format file
 IO,JLD,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 IO,JLD,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
 IO,JLD,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files
+IO,JSON,LazyJSON.jl,https://github.com/samoconnor/LazyJSON.jl,LazyJSON is an interface for reading JSON data in Julia programs.
 IO,ODS,OdsIO.jl,https://github.com/sylvaticus/OdsIO.jl,ODS I/O for Julia Dict or DF using the python ezodf module.
 IO,PDF,PDFIO.jl,https://github.com/sambitdash/PDFIO.jl,PDF Reader Library for native Julia.
 IO,PDF,LabelNumerals.jl,"https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc",
@@ -2161,7 +2164,9 @@ Utilities,DOCUMENTATION,Roxygen.jl,https://github.com/johnmyleswhite/Roxygen.jl,
 Utilities,DOCUMENTATION,sphinx-julia,https://github.com/bastikr/sphinx-julia,Documenting Julia projects with Sphinx.
 Utilities,DOCUMENTATION,Weave.jl,https://github.com/mpastell/Weave.jl,Scientific reports/literate programming for Julia.
 Utilities,GeSHI,Julia language file for GeSHI,https://github.com/john9631/JuliaDocs/blob/master/julia.php,
+Utilities,GUI,Blink.jl,https://github.com/JunoLab/Blink.jl,Web-based GUIs for Julia.
 Utilities,GUI,Canvas.jl,https://github.com/shashi/Canvas.jl,Composable UIs in Julia.
+Utilities,GUI,Electron.jl,https://github.com/davidanthoff/Electron.jl,Julia wrapper for [Electron](https://electronjs.org/).
 Utilities,GUI,JGUI.jl,https://github.com/jverzani/JGUI.jl,Simplified interface for making GUI's in Julia.
 Utilities,GUI,JuliaTools.jl,https://github.com/tknopp/JuliaTools.jl,"A toolkit for viewing Julia packages, modules, etc...."
 Utilities,GUI,Module linker,http://fiatjaf.alhur.es/module-linker/#/julia) for Julia,

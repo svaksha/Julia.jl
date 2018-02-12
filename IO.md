@@ -3,6 +3,7 @@
 + [Data Formats](#data-formats)
     + [HDF5](#hdf5)
     + [JLD](#jld)
+    + [JSON](#json)
     + [ODS](#ods)
     + [PDF](#pdf)
     + [Silo](#silo)
@@ -78,6 +79,9 @@
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
 + [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD.
 + [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files
+
+## JSON
++ [LazyJSON.jl](https://github.com/samoconnor/LazyJSON.jl) :: LazyJSON is an interface for reading JSON data in Julia programs. 
 
 ## ODS
 + [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) :: ODS I/O for Julia Dict or DF using the python ezodf module. 

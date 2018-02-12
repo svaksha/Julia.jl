@@ -19,6 +19,7 @@
 
 # [CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology)
 + [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) :: This package is a collection of commonly-used tools in Climate Science.
++ [Mimi.jl](https://github.com/anthofflab/Mimi.jl) :: Integrated Assessment Modeling Framework for climate change.
 
 ----
 
