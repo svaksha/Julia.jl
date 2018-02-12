@@ -50,6 +50,7 @@
 # GUI 
 **Widget toolkits and other graphical user interfaces**
 + [Canvas.jl](https://github.com/shashi/Canvas.jl) :: Composable UIs in Julia.
++ [Electron.jl](https://github.com/davidanthoff/Electron.jl) :: Julia wrapper for [Electron](https://electronjs.org/).
 + [JGUI.jl](https://github.com/jverzani/JGUI.jl) :: Simplified interface for making GUI's in Julia.
 + [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: A toolkit for viewing Julia packages, modules, etc....
 + [Module linker](http://fiatjaf.alhur.es/module-linker/#/julia) for Julia.

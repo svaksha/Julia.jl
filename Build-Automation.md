@@ -51,6 +51,7 @@ __Pre-compiled Binaries__
 + [BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl) :: Binary Dependency Builder for Julia.
 + [BinaryProvider.jl](https://github.com/JuliaPackaging/BinaryProvider.jl) :: A reliable binary provider for Julia.
 + [BinDeps.jl](https://github.com/JuliaLang/BinDeps.jl) :: Tool for building binary dependencies for Julia modules.
++ [SnappyBuilder](https://github.com/davidanthoff/SnappyBuilder) :: BinaryBuilder for `libsnappy`.
 + [Conda.jl](https://github.com/Luthaf/Conda.jl) :: Conda managing Julia binary dependencies.
 + [Julia-0.3.9 for Linux 64-bit](https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball.
 + Build an executable binary with [this script](https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl).
