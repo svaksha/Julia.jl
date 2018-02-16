@@ -313,18 +313,21 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
 
 
+## Org-[JuliaData](https://github.com/JuliaData/)
++ [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: A package for working with tabular data in Julia.
+   * _DOCS_:: The [DataFrames manual](https://juliadata.github.io/DataFrames.jl/stable/).
++ [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) :: An array type to work with categorical (nominal and ordinal) data.
+
 
 ## Org-[JuliaStats](https://JuliaStats.github.io)
 + [ConjugatePriors.jl](https://github.com/JuliaStats/ConjugatePriors.jl) :: A package to support conjugate prior distributions.
-+ [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl) :: A Library for working with tabular data in Julia.
-   * _DOCS_:: The [DataFrames manual section on IO](http://juliastats.github.io/DataFrames.jl/io.html).
-+ [DataArrays.jl](https://github.com/JuliaStats/DataArrays.jl) :: This package extends Julia by introducing data structures that can contain missing data.
++ [DataArrays.jl](https://github.com/JuliaStats/DataArrays.jl) :: This package provides a type to store arrays with missing values efficiently.
 + [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) :: Metaprogramming tools for DataFrames.
 + [DimensionalityReduction.jl](https://github.com/JuliaStats/DimensionalityReduction.jl) :: Methods for dimensionality reduction.
 + [Distance.jl](https://github.com/JuliaStats/Distance.jl) :: A Julia package for evaluating distances(metrics) between vectors.
 + [Distances.jl](https://github.com/JuliaStats/Distances.jl) ::  A Julia package for evaluating distances(metrics) between vectors.
 + [Distributions.jl](http://juliastats.github.io/Distributions.jl/index.html) :: The Distributions package.
-   * _DOCS_:: are available at [distributionsjl.readthedocs.org](http://distributionsjl.readthedocs.org/en/latest/)
+   * _DOCS_:: Distributions [manual](http://juliastats.github.io/Distributions.jl/stable/)
 + [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM's) and generalized linear models (GLM's) in Julia.
 + [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) :: T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 + [MLBase.jl](https://github.com/JuliaStats/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
@@ -332,7 +335,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 + [RmathDist.jl](https://github.com/JuliaStats/RmathDist.jl) :: This package provides a julia interface to the distributions provided by the standalone Rmath library, which is part of the R project for statistical computing.
 + [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) :: The Stats meta-package for basic statistics functions for Julia.
-   * _DOCS_:: Documentation available at [statsbasejl.readthedocs.org](http://statsbasejl.readthedocs.org/en/latest/)
+   * _DOCS_:: StatsBase [manual](http://juliastats.github.io/StatsBase.jl/stable/)
 + [StreamStats.jl](https://github.com/johnmyleswhite/StreamStats.jl) :: Compute statistics over data streams.
 + [SVM.jl](https://github.com/JuliaStats/SVM.jl) :: Native Julia implementations of standard SVM algorithms.
 
