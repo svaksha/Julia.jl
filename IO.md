@@ -125,6 +125,7 @@
 ----
 
 # [Data Type](http://en.wikipedia.org/wiki/Data_type)
++ [Arrow.jl](https://github.com/ExpandingMan/Arrow.jl) :: Julia implementation of the Apache Arrow data standard. 
 + [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
 + [BigRationals.jl](https://github.com/andrioni/BigRationals.jl) :: A BigRational package for Julia using GMP.

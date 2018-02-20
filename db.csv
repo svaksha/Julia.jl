@@ -63,6 +63,7 @@ AI,MACHINELEARNING,Strada.jl,https://github.com/pcmoritz/Strada.jl,A deep learni
 AI,MACHINELEARNING,SupervisedLearning.jl,https://github.com/Evizero/SupervisedLearning.jl,Front-end interface for supervised machine learning.
 AI,MACHINELEARNING,SVMLightLoader.jl,https://github.com/IshitaTakeshi/SVMLightLoader.jl,Loader of svmlight / liblinear format files.
 AI,MACHINELEARNING,TensorFlow.jl,https://github.com/malmaud/TensorFlow.jl,"A Julia wrapper for TensorFlow, the open source machine learning framework from Google."
+AI,MACHINELEARNING,TheDataMustFlow.jl,https://github.com/ExpandingMan/TheDataMustFlow.jl,Julia tools for feeding tabular data into machine learning.
 AI,MACHINELEARNING,TSVD.jl,https://github.com/andreasnoack/TSVD.jl,Truncated singular value decomposition with partial reorthogonalization.
 AI,MACHINELEARNING,YCaret.jl,https://github.com/EricChiang/YCaret.jl,Machine learning utility functions in Julia.
 AI,Org-[JuliaML](https://github.com/JuliaML),LossFunctions.jl,https://github.com/JuliaML/LossFunctions.jl,Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
@@ -877,6 +878,7 @@ IO,XML,XMLDict.jl,https://github.com/samoconnor/XMLDict.jl,This package implemen
 IO,XML,XMLRPC.jl,https://github.com/sjkelly/XMLRPC.jl,Send and recieve XML-RPCs with Julia.
 IO,XML,XmlToDict.jl,https://github.com/elcritch/XmlToDict.jl, Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
 IO,HTML-XML,Patchwork.jl,https://github.com/shashi/Patchwork.jl,"A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering."
+IO,[DataType](http://en.wikipedia.org/wiki/Data_type),Arrow.jl,https://github.com/ExpandingMan/Arrow.jl,Julia implementation of the Apache Arrow data standard.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
 IO,[DataType](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
@@ -1933,9 +1935,10 @@ Statistics,Resources,StatsLearningByExample.jl,https://github.com/scidom/StatsLe
 Statistics,Resources,Biostat 778,https://github.com/rdpeng/biostat778_notes,Advanced Statistical Computing.
 Statistics,Resources,DCStats.jl,https://github.com/johnmyleswhite/DCStats.jl,IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 Statistics,Resources,What’s Wrong with Statistics in Julia?,http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/,
+Statistics,Org-[JuliaData](https://github.com/JuliaData/),DataFrames.jl,https://github.com/JuliaData/DataFrames.jl,A package for working with tabular data in Julia.
+Statistics,Org-[JuliaData](https://github.com/JuliaData/),CategoricalArrays.jl,https://github.com/JuliaData/CategoricalArrays.jl,An array type to work with categorical (nominal and ordinal) data.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),ConjugatePriors.jl,https://github.com/JuliaStats/ConjugatePriors.jl,A package to support conjugate prior distributions.
-Statistics,Org-[JuliaStats](https://JuliaStats.github.io),DataFrames.jl,https://github.com/JuliaStats/DataFrames.jl,A Library for working with tabular data in Julia.
-Statistics,Org-[JuliaStats](https://JuliaStats.github.io),DataArrays.jl,https://github.com/JuliaStats/DataArrays.jl,This package extends Julia by introducing data structures that can contain missing data.
+Statistics,Org-[JuliaStats](https://JuliaStats.github.io),DataArrays.jl,https://github.com/JuliaStats/DataArrays.jl,This package provides a type to store arrays with missing values efficiently.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),DataFramesMeta.jl,https://github.com/JuliaStats/DataFramesMeta.jl,Metaprogramming tools for DataFrames.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),DimensionalityReduction.jl,https://github.com/JuliaStats/DimensionalityReduction.jl,Methods for dimensionality reduction.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),Distance.jl,https://github.com/JuliaStats/Distance.jl,A Julia package for evaluating distances(metrics) between vectors.
