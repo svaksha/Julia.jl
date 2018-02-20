@@ -109,6 +109,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 
 + [KSVD.jl](https://github.com/IshitaTakeshi/KSVD.jl) :: K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 + [MappedArrays.jl](https://github.com/JuliaArrays/MappedArrays.jl) :: Lazy in-place transformations of arrays.
++ [MatrixDepot.jl](https://github.com/JuliaMatrices/MatrixDepot.jl) :: An Extensible Test Matrix Collection for Julia. Documentation: http://matrixdepotjl.readthedocs.org/
 + [PaddedViews.jl](https://github.com/JuliaArrays/PaddedViews.jl) :: Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add "virtual" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be "promoted" to have common indices using the `paddedviews` function.
 + [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
 + [Ranges.jl](https://github.com/JuliaArrays/Ranges.jl) :: Array-like objects with compact storage for the Julia language.
