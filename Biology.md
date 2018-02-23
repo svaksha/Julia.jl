@@ -22,7 +22,6 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 
 # BIOINFORMATICS
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
-+ [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
 + [EMIRT.jl](https://github.com/seung-lab/EMIRT.jl) :: Electron Microscopy Image Reconstruction Toolbox using julia language.
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
 + [openBF](https://github.com/INSIGNEO/openBF) :: A finite-volume solver for elastic arterial networks.
@@ -121,9 +120,10 @@ The [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-bi
 ----
 
 # NEUROSCIENCE
++ [BrainWave.jl](https://github.com/sam81/BrainWave.jl) :: Julia functions to process electroencephalographic (EEG) recordings.
 + [CodeNeuro](http://codeneuro.org/) :: Bringing neuroscience and data science together.
 + [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) :: A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/).
-+ [ElectroJulia.jl](https://github.com/sam81/ElectroJulia.jl) :: Julia functions to process electroencephalographic recordings.
++ [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
 + [NEAT.jl](https://github.com/Andy-P/NEAT.jl) :: Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 + [NeuroAnalysis.jl](https://github.com/babaq/NeuroAnalysis.jl) :: Julia package for neural signal analysis.
 + [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) :: A set of tools to load data written by the Open Ephys GUI.

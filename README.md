@@ -13,7 +13,7 @@
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!
+For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions. [Pkg3.jl](https://github.com/JuliaLang/Pkg3.jl) is an alpha next-generation package manager for Julia that creates a `Manifest.toml` file that records the exact versions of each dependency and their transitive dependencies.  
 
 To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
 
@@ -25,10 +25,10 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
 + [Computer-Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Computer-Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [DataBase.md](https://github.com/svaksha/Julia.jl/blob/master/DataBase.md) :: NoSQL, RDBMS and Middleware API's.
++ [DataIO.md](https://github.com/svaksha/Julia.jl/blob/master/DataIO.md) :: Data IO (Input/Output) functionality and support for various data types and file formats.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [Hardware.md](https://github.com/svaksha/Julia.jl/blob/master/Hardware.md) :: Software for cross-platform hardware, Robotics, and other API libraries.
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
-+ [IO.md](https://github.com/svaksha/Julia.jl/blob/master/IO.md) :: Input/Output functionality and support for file formats.
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
 + [OpenData.md](https://github.com/svaksha/Julia.jl/blob/master/OpenData.md) :: OpenData, Free Data Sets.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.

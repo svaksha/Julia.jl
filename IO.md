@@ -1,6 +1,7 @@
 + [Binary IO](#binary-io)
 + [General IO](#general-io)
 + [Data Formats](#data-formats)
+    + [BSON](#bson)
     + [HDF5](#hdf5)
     + [JLD](#jld)
     + [JSON](#json)
@@ -72,8 +73,12 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
+## BSON
++ [BSON.jl](https://github.com/MikeInnes/BSON.jl) :: A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures.
+
 ## HDF5
 + [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
++ [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
 
 ## JLD 
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types

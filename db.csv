@@ -196,6 +196,7 @@ Algorithms,Array-Matrix,julia-delayed-matrix,https://github.com/kk49/julia-delay
 Algorithms,Array-Matrix,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Algorithms,Array-Matrix,KSVD.jl,https://github.com/IshitaTakeshi/KSVD.jl,K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 Algorithms,Array-Matrix,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
+Algorithms,Array-Matrix,MatrixDepot.jl,https://github.com/JuliaMatrices/MatrixDepot.jl,An Extensible Test Matrix Collection for Julia. Documentation: http://matrixdepotjl.readthedocs.org/
 Algorithms,Array-Matrix,PaddedViews.jl,https://github.com/JuliaArrays/PaddedViews.jl,"Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add ""virtual"" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be ""promoted"" to have common indices using the `paddedviews` function."
 Algorithms,Array-Matrix,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Algorithms,Array-Matrix,Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
@@ -344,7 +345,6 @@ API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Ma
 Biology,,BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 Biology,,COBRA.jl,https://github.com/opencobra/COBRA.jl,"COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`."
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
-Biology,BIOINFORMATICS,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
 Biology,BIOINFORMATICS,EMIRT.jl,https://github.com/seung-lab/EMIRT.jl,Electron Microscopy Image Reconstruction Toolbox using julia language.
 Biology,BIOINFORMATICS,MIToS.jl,https://github.com/diegozea/MIToS.jl),
 Biology,BIOINFORMATICS,openBF,https://github.com/INSIGNEO/openBF,A finite-volume solver for elastic arterial networks.
@@ -404,9 +404,10 @@ Biology,Org-[BioJulia](https://github.com/BioJulia),Bio.jl,https://github.com/Bi
 Biology,Org-[BioJulia](https://github.com/BioJulia),BioSeq.jl,https://github.com/BioJulia/BioSeq.jl,"Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences."
 Biology,Org-[BioJulia](https://github.com/BioJulia),IntervalTrees.jl,https://github.com/BioJulia/IntervalTrees.jl,A data structure for efficient manipulation of sets of intervals.
 Biology,Org-[BioJulia](https://github.com/BioJulia),Phylogenetics.jl,https://github.com/BioJulia/Phylogenetics.jl,The Julia package for analysis of evolution and phylogeny.
+Biology,NEUROSCIENCE,BrainWave.jl,https://github.com/sam81/BrainWave.jl,Julia functions to process electroencephalographic (EEG) recordings.
 Biology,NEUROSCIENCE,CodeNeuro,http://codeneuro.org/,Bringing neuroscience and data science together.
 Biology,NEUROSCIENCE,DCEMRI.jl,https://github.com/davidssmith/DCEMRI.jl,"A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/)."
-Biology,NEUROSCIENCE,ElectroJulia.jl,https://github.com/sam81/ElectroJulia.jl,Julia functions to process electroencephalographic recordings.
+Biology,NEUROSCIENCE,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
 Biology,NEUROSCIENCE,NEAT.jl,https://github.com/Andy-P/NEAT.jl,Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 Biology,NEUROSCIENCE,NeuroAnalysis.jl,https://github.com/babaq/NeuroAnalysis.jl,Julia package for neural signal analysis.
 Biology,NEUROSCIENCE,OpenEphysLoader.jl,https://github.com/galenlynch/OpenEphysLoader.jl,A set of tools to load data written by the Open Ephys GUI.
@@ -849,7 +850,9 @@ IO,DataFormats,Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp fi
 IO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
 IO,DataFormats,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
 IO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
+IO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures."
 IO,HDF5,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
+IO,HDF5,HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
 IO,JLD,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 IO,JLD,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
 IO,JLD,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files
