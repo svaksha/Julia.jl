@@ -145,6 +145,7 @@
 + [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) :: Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
 + [jenks.jl](https://github.com/scw/jenks.jl)
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
++ [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language.
 + [LHEF.jl](https://github.com/Keno/LHEF.jl) :: Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
 + [MacroTools.jl](https://github.com/MikeInnes/MacroTools.jl) :: A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
 + [MonkeyString.jl](https://github.com/malmaud/MonkeyString.jl) :: Fast string implementation inspired by SpiderMonkey.
