@@ -80,6 +80,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [Fuji.jl](https://github.com/jackcook/Fuji.jl) :: A lightweight web server written in Julia.
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
 + [HTTP2.jl](https://github.com/sorpaas/HTTP2.jl) :: A HTTP2 support library for Julia.
++ [Hyperscript.jl](https://github.com/yurivish/Hyperscript.jl) :: A lightweight DOM representation for working with HTML, SVG, and CSS in Julia.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
 + [Laurence.jl](https://github.com/mneudert/Laurence.jl)
 + [Merly.jl](https://github.com/codeneomatrix/Merly.jl) :: Micro framework for web programming in Julia. 

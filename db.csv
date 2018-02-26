@@ -1108,6 +1108,7 @@ Mathematics,Resources,n IJulia notebook showing [Taylor's method integration of 
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),APES.jl,https://github.com/codles/APES.jl,Amplitude and Phase Estimation of a Sinusoid.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),ChaosCommunications.jl,https://github.com/scidom/ChaosCommunications.jl,Simulation of chaos-based communication systems in Julia.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),CompressedSensing,https://github.com/dahlend/CompressedSensing,A basic compressed sensing algorithms available via the official package list with [documentation](http://compressedsensing.readthedocs.org/en/latest/).
+Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),Estimation.jl,https://github.com/JuliaDSP/Estimation.jl,A julia package for DSP related estimation.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),Fdtd.jl,https://github.com/nantonel/Fdtd.jl,3D Room Acoustics Finite Difference Time Domain (FDTD) Simulator.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),KDSP.jl,https://github.com/kofron/KDSP.jl,Yet another implementation of common DSP routines in Julia.
 Mathematics,[DSP](https://en.wikipedia.org/wiki/Digital_signal_processing),KernelRecursiveLeastSquares.jl,https://github.com/the-moliver/KernelRecursiveLeastSquares.jl,Julia implementation of Kernel Recursive Least Squares algorithm.
@@ -1660,6 +1661,7 @@ Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Sou
 Server,WEB,Fuji.jl,https://github.com/jackcook/Fuji.jl,A lightweight web server written in Julia.
 Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
 Server,WEB,HTTP2.jl,https://github.com/sorpaas/HTTP2.jl,A HTTP2 support library for Julia.
+Server,WEB,Hyperscript.jl,https://github.com/yurivish/Hyperscript.jl,"A lightweight DOM representation for working with HTML, SVG, and CSS in Julia."
 Server,WEB,JuliaWebServer,https://github.com/chzyer/JuliaWebServer,a webserver for julia.
 Server,WEB,Laurence.jl,https://github.com/mneudert/Laurence.jl,
 Server,WEB,Merly.jl,https://github.com/codeneomatrix/Merly.jl,Micro framework for web programming in Julia.
