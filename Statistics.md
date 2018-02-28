@@ -340,6 +340,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [SVM.jl](https://github.com/JuliaStats/SVM.jl) :: Native Julia implementations of standard SVM algorithms.
 
 ### Probabilistic Programming
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia. 
 + [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
 + [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
 + [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
