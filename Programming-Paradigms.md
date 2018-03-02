@@ -2,6 +2,7 @@
 + [Programming Paradigms](#programming-paradigms)
    + [Control Flow](#control-flow)
    + [Double Dispatch](#double-dispatch)
+   + [DSL](#dsl)
    + [Functional Programming](#functional-programming)
    + [Grammatical Evolution](#grammatical-evolution)
    + [Macros](#macros)
@@ -44,6 +45,9 @@ __Packages and resources that support various programming styles, Software Archi
 
 ### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
 + [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
+
+### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
++ [SciCompDSL.jl](https://github.com/JuliaDiffEq/SciCompDSL.jl) :: A DSL for Scientific Computing in Julia. 
 
 ### Functional Programming
 + [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.

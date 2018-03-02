@@ -1396,6 +1396,7 @@ Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/s
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),StatefulIterators.jl,https://github.com/andrewcooke/StatefulIterators.jl,A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 Programming-Paradigms,[DoubleDispatch](https://en.wikipedia.org/wiki/Double_dispatch),julia-pattern-dispatch,https://github.com/toivoh/julia-pattern-dispatch,Support for method dispatch in Julia based on pattern matching.
+Programming-Paradigms,[DSL](https://en.wikipedia.org/wiki/Domain-specific_language),SciCompDSL.jl,https://github.com/JuliaDiffEq/SciCompDSL.jl,A DSL for Scientific Computing in Julia.
 Programming-Paradigms,FunctionalProgramming,FunctionalUtils.jl,https://github.com/zachallaun/FunctionalUtils.jl,Functional Julia – based on fogus/lemonad.
 Programming-Paradigms,FunctionalProgramming,Glob.jl,https://github.com/vtjnash/Glob.jl,Posix-compliant file name pattern matching.
 Programming-Paradigms,FunctionalProgramming,Lazy.jl,https://github.com/MikeInnes/Lazy.jl,Functional programming for Julia.
@@ -1447,6 +1448,7 @@ QA,Git-Hooks,julia-helper,https://github.com/jiahao/julia-helper,Scripts to help
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
 QA,Debugging,Suppressor.jl,https://github.com/Ismael-VC/Suppressor.jl," Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time."
+QA,Debugging,Traceur.jl,https://github.com/MikeInnes/Traceur.jl),
 QA,Timers,TimerOutputs.jl,https://github.com/KristofferC/TimerOutputs.jl,Formatted output of timed sections in julia.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),DocStringExtensions.jl,https://github.com/JuliaDocs/DocStringExtensions.jl,Extensions for Julia's docsystem.
 QA,[DocumentationDrivenDevelopment](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/),Documenter.jl,https://github.com/JuliaDocs/Documenter.jl,A documentation generator for Julia.
