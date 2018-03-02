@@ -1962,6 +1962,7 @@ Statistics,Org-[JuliaStats](https://JuliaStats.github.io),RmathDist.jl,https://g
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),StatsBase.jl,https://github.com/JuliaStats/StatsBase.jl,The Stats meta-package for basic statistics functions for Julia.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),StreamStats.jl,https://github.com/johnmyleswhite/StreamStats.jl,Compute statistics over data streams.
 Statistics,Org-[JuliaStats](https://JuliaStats.github.io),SVM.jl,https://github.com/JuliaStats/SVM.jl,Native Julia implementations of standard SVM algorithms.
+Statistics,ProbabilisticProgramming,ExtremeStats.jl,https://github.com/juliohm/ExtremeStats.jl,Extreme Value Statistics in Julia.
 Statistics,ProbabilisticProgramming,MixtureModels.jl,https://github.com/lindahua/MixtureModels.jl,A Julia package for probabilistic mixture models.
 Statistics,ProbabilisticProgramming,OpenPP.jl,https://github.com/JuliaStats/OpenPP.jl,Open Source Probabilistic Programming in Julia.
 Statistics,ProbabilisticProgramming,pgm.jl,https://github.com/daydreamt/pgm.jl,Another probabilistic graphical model repo.
