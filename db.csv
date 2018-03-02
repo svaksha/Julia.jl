@@ -574,6 +574,7 @@ Computer-Graphics,INFOGRAPHICS,AverageShiftedHistograms.jl,https://github.com/jo
 Computer-Graphics,INFOGRAPHICS,BBVis.jl,https://github.com/joehuchette/BBVis.jl,Visualizations for branch-and-bound algorithms.
 Computer-Graphics,INFOGRAPHICS,CData.jl,https://github.com/ma-laforge/CData.jl,C-Data Analysis/Visualization Suite.
 Computer-Graphics,INFOGRAPHICS,ComposeVideo.jl,https://github.com/arnim/ComposeVideo.jl,Video generator for Gadfly.jl.
+Computer-Graphics,INFOGRAPHICS,DataVoyager.jl,https://github.com/davidanthoff/DataVoyager.jl,Julia wrapper for the Voyager data exploration tool
 Computer-Graphics,INFOGRAPHICS,DC.jl,https://github.com/tawheeler/DC.jl,A Julia package for automagical DC.js linked charts in your IJulia notebook.
 Computer-Graphics,INFOGRAPHICS,Displaz.jl,https://github.com/c42f/Displaz.jl,"Julia bindings for [displaz](http://c42f.github.io/displaz), a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display."
 Computer-Graphics,INFOGRAPHICS,ECharts.jl,https://github.com/wlbksy/ECharts.jl) by @wlbks,Julia package for [ECharts](https://github.com/ecomfe/echarts)
@@ -2078,6 +2079,7 @@ Super-Computing,BENCHMARKS,BenchmarkLite.jl,https://github.com/lindahua/Benchmar
 Super-Computing,BENCHMARKS,Notebook showing the usage of BenchmarkLite.jl,http://nbviewer.ipython.org/github/lindahua/BenchmarkLite.jl/blob/master/examples/mathfuns_benchmark.ipynb,
 Super-Computing,BENCHMARKS,ConicBenchmarkUtilities.jl,https://github.com/mlubin/ConicBenchmarkUtilities.jl,Julia utilities for the conic benchmark format.
 Super-Computing,BENCHMARKS,Criterion.jl,https://github.com/jakebolewski/Criterion.jl,"A port of the Haskell's Criterion and Clojure's Criterium library to Julia, that runs benchmarks, analyzing the results using various statistical techniques."
+Super-Computing,BENCHMARKS,DataBench.jl,https://github.com/xiaodaigh/DataBench.jl,A package to benchmark data manipulation in Julia vs `R data.table`.
 Super-Computing,BENCHMARKS,IProfile,https://github.com/timholy/IProfile.jl,"Preferably, use [IProfile in Base packages](http://docs.julialang.org/en/latest/stdlib/profile/) to profile your code, which contains an __instrumenting profiler__ for the Julia language. And, [ReadTheDocs](http://julia.readthedocs.org/en/latest/stdlib/profile/)"
 Super-Computing,BENCHMARKS,julia_qsortbenchmarks,https://github.com/illerucis/julia_qsortbenchmarks, Suggested improvements to Julia's Quicksort implementation.
 Super-Computing,BENCHMARKS,JuliaBenchmarks,https://github.com/kapiliitr/JuliaBenchmarks,Porting HPC Challenge benchmarks to Julia.

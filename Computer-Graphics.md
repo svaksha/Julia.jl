@@ -103,6 +103,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms.
 + [CData.jl](https://github.com/ma-laforge/CData.jl) :: C-Data Analysis/Visualization Suite.
 + [ComposeVideo.jl](https://github.com/arnim/ComposeVideo.jl) :: Video generator for Gadfly.jl.
++ [DataVoyager.jl](https://github.com/davidanthoff/DataVoyager.jl) :: Julia wrapper for the Voyager data exploration tool 
 + [DC.jl](https://github.com/tawheeler/DC.jl) :: A Julia package for automagical DC.js linked charts in your IJulia notebook.
 + [Displaz.jl](https://github.com/c42f/Displaz.jl) :: Julia bindings for [displaz](http://c42f.github.io/displaz), a cross platform las viewer application for displaying geospatial LiDAR data (point clouds and high level features deduced from such point clouds, and other geometry). The announcement on the [julia-dev ML by the core-dev ChrisFoster @c42f](https://groups.google.com/d/msg/julia-dev/qLdJTnLNQXU/mdTbMr1QhiMJ), also includes some installation instructions, which uses OpenGL display.
 + [ECharts.jl](https://github.com/wlbksy/ECharts.jl) by @wlbksy :: Julia package for [ECharts](https://github.com/ecomfe/echarts)
