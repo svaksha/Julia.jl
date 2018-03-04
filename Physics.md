@@ -1,4 +1,3 @@
-
 + [Electromagnetism](#electromagnetism)
 + [Fluid Dynamics](#fluid-dynamics)
 + [Laser Physics](#laser-physics)
@@ -66,6 +65,7 @@
 # Quantum Mechanics
 + [QuantumOptics.jl](https://github.com/bastikr/QuantumOptics.jl) :: Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 + [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
++ [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) :: A Julia package for computing Wigner symbols and related quantities.
 
 ### [Julia Quantum](http://juliaquantum.github.io/)
 An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...

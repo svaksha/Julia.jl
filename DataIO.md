@@ -142,6 +142,7 @@
 + [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 + [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) :: A Julian abstraction layer over FreeType.jl.
 + [frange](https://github.com/StefanKarpinski/frange)
++ [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) :: Functional, efficient data manipulation framework.
 + [ImagineFormat.jl](https://github.com/timholy/ImagineFormat.jl) :: Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
 + [jenks.jl](https://github.com/scw/jenks.jl)
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.

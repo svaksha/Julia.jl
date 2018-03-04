@@ -84,6 +84,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 ## Org-[JuliaML](https://github.com/JuliaML)
 + [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) :: Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
++ [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
 + [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 

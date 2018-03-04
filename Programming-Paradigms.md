@@ -1,15 +1,17 @@
 + [Org-JuliaLang](#org-julialang)
 + [Programming Paradigms](#programming-paradigms)
    + [Control Flow](#control-flow)
-   + [Double Dispatch](#double-dispatch)
+   + [Declarative Programming](#declarative-programming)
+       + [Functional Programming](#functional-programming)
    + [DSL](#dsl)
-   + [Functional Programming](#functional-programming)
    + [Grammatical Evolution](#grammatical-evolution)
    + [Macros](#macros)
-   + [Meta Programming](#meta-programming)
-   + [Multiple Dispatch](#multiple-dispatch)
+   + [Metaprogramming](#metaprogramming)
+       + [Automatic Programming](#automatic-programming)
    + [Multi Threading](#multi-threading)
-   + [Overdubbing](#overdubbing)
+   + [Polymorphism](#polymorphism)
+       + [Double Dispatch](#double-dispatch)
+       + [Multiple Dispatch](#multiple-dispatch)
    + [Program Analysis](#program-analysis)
    + [Reactive Programming](#reactive-programming)
    + [Style Guidelines](#style-guidelines)
@@ -39,22 +41,16 @@ __Packages and resources that support various programming styles, Software Archi
 ###### RESOURCES
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
-### [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
+## [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
 + [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and C functions.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 
-### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
-+ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
-
-### [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
-+ [SciCompDSL.jl](https://github.com/JuliaDiffEq/SciCompDSL.jl) :: A DSL for Scientific Computing in Julia. 
-
-### Functional Programming
+## [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
+### [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 + [FunctionalUtils.jl](https://github.com/zachallaun/FunctionalUtils.jl) :: Functional Julia – based on fogus/lemonad.
 + [Glob.jl](https://github.com/vtjnash/Glob.jl) :: Posix-compliant file name pattern matching.
 + [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) :: Functional programming for Julia.
 + [diy-lisp-julia](https://github.com/qhfgva/diy-lisp-julia) :: A julia version of [diy-lisp](https://github.com/kvalle/diy-lisp).
-+ [FunctionalData.jl](https://github.com/rened/FunctionalData.jl) :: Functional, efficient data manipulation framework.
 + [LispREPL.jl](https://github.com/swadey/LispREPL.jl) :: REPL for `Lisp.jl`. 
 + [LispSyntax.jl](https://github.com/swadey/LispSyntax.jl) :: lisp-like language in julia.
 + [Monads.jl](https://github.com/pao/Monads.jl) :: Monadic expressions and sequences for Julia.
@@ -62,11 +58,20 @@ __Packages and resources that support various programming styles, Software Archi
 + [PatternDispatch.jl](https://github.com/toivoh/PatternDispatch.jl) :: Method dispatch based on pattern matching for Julia.
 + [Pipe.jl](https://github.com/oxinabox/Pipe.jl) :: Improved function piping in Julia.
 
-### Grammatical Evolution
+### Reactive Programming
++ [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
+
+
+## [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
++ [SciCompDSL.jl](https://github.com/JuliaDiffEq/SciCompDSL.jl) :: A DSL for Scientific Computing in Julia. 
+
+
+## Grammatical Evolution
 + [Evolution.jl](https://github.com/xenon-/Evolution.jl) :: Evolutionary Computation in Julia.
 + [GrammaticalEvolution](https://github.com/abeschneider/GrammaticalEvolution) :: An evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules.
 
-### Macros
+
+## Macros
 + [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
 + [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
@@ -78,37 +83,44 @@ __Packages and resources that support various programming styles, Software Archi
 ###### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
-### Multiple Dispatch
 
-###### Resources
-+ [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
-+ [What are the advantages of multiple dispatch in Julia](https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch)?
-
-### Multi-Threading
+## Multi-Threading
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 + [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
-### Overdubbing
+
+## [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
++ [NotInferenceDontLookHere.jl](https://github.com/Keno/NotInferenceDontLookHere.jl) :: Package to help with Inference development. This is not inference. However, it does help you with developing inference by loading a separate copy of inference into this package and hooking up Revise. This allows you to easily test changes to inference in isolation.
+
+### [Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
 + [Cassette.jl](https://github.com/jrevels/Cassette.jl) :: a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs. 
++ [Revise.jl](https://github.com/timholy/Revise.jl) :: Automatically update function definitions in a running Julia session.
 
-
-### [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
+## [Program Analysis](https://en.wikipedia.org/wiki/Category:Program_analysis)
 __Libs for memory management (malloc), bounds checking, literals and other base program analysis options.__
++ [ASTInterpreter2.jl](https://github.com/Keno/ASTInterpreter2.jl) :: Re-write of ASTInterpreter for `julia 0.6+`.
 + [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 + [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 + [ExpressionPatterns.jl](https://github.com/fcard/ExpressionPatterns.jl) :: Match, Destructure and Dispatch on expressions.
 + [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) :: An implementation of a Least Recently Used (LRU) Cache.
 + [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) :: Julia bindings to the Performance Application Programming Interface (PAPI).
-+ [Revise.jl](https://github.com/timholy/Revise.jl) :: Automatically update function definitions in a running Julia session.
 + [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) :: Show Julia profiling data in an explorable HTML page.
 
-### Reactive Programming
-+ [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
 
-### Serialization
+## [Polymorphism](https://en.wikipedia.org/wiki/Category:Polymorphism_(computer_science))
+
+### [Double Dispatch](https://en.wikipedia.org/wiki/Double_dispatch)
++ [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
+
+### Multiple Dispatch
+###### Resources
++ [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
++ [What are the advantages of multiple dispatch in Julia](https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch)?
+
+## Serialization
 + [Spock.jl](https://github.com/jey/Spock.jl) :: An interface to Apache Spark for the Julia language.
 
-### Style Guidelines
+## Style Guidelines
 + [Official Julia style guide](https://julia.readthedocs.org/en/latest/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
 
