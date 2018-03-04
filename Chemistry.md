@@ -1,6 +1,8 @@
 **Analytical chemistry, Cheminformatics, Physical/Organic chemistry, Crystallography, Nanochemistry, Quantum/Nuclear chemistry ...**
 
 + [Chemistry](#chemistry)
++ [Computational Chemistry](#computational-chemistry)
+    + [Molecular Modelling](#molecular-modelling)
 + [Material Science](#material-science)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
@@ -15,6 +17,12 @@
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
 + [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 + [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
+
+----
+
+# Computational Chemistry 
+# [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
++ [JuLIP.jl](https://github.com/libAtoms/JuLIP.jl) :: Julia Library for Interatomic Potentials.
 
 ----
 

@@ -392,6 +392,7 @@ Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stocha
 Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Chemistry,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,Chemistry,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
+Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),JuLIP.jl,https://github.com/libAtoms/JuLIP.jl,Julia Library for Interatomic Potentials.
 Chemistry,MaterialScience,BucklingOfPipes.jl,https://github.com/goedman/BucklingOfPipes.jl,"This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes."
 Chemistry,MaterialScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 Chemistry,MaterialScience,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
@@ -1821,6 +1822,7 @@ Statistics,Optimization,Memoize.jl,https://github.com/simonster/Memoize.jl,Easy 
 Statistics,Optimization,MOpt.jl,https://github.com/floswald/MOpt.jl,Parallel derivative-free Moment Optimization for Julia.
 Statistics,Optimization,Munkres.jl,https://github.com/FugroRoames/Munkres.jl,Munkres algorithm for the optimal assignment problem.
 Statistics,Optimization,NEOS.jl,https://github.com/odow/NEOS.jl,A Julia interface for the NEOS Optimisation Server.
+Statistics,Optimization,NewOptimizer.jl,https://github.com/Keno/NewOptimizer.jl,WIP for new optimizer for julia base.
 Statistics,Optimization,NLTester,https://github.com/IainNZ/NLTester,"Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling."
 Statistics,Optimization,NODAL.jl,https://github.com/phrb/NODAL.jl,is an Open Distributed Autotuning Library in Julia.
 Statistics,Optimization,PiecewiseLinearOpt.jl,https://github.com/joehuchette/PiecewiseLinearOpt.jl,Optimizing over piecewise linear functions.

@@ -146,6 +146,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [MOpt.jl](https://github.com/floswald/MOpt.jl) :: Parallel derivative-free Moment Optimization for Julia.
 + [Munkres.jl](https://github.com/FugroRoames/Munkres.jl) :: Munkres algorithm for the optimal assignment problem. 
 + [NEOS.jl](https://github.com/odow/NEOS.jl) :: A Julia interface for the NEOS Optimisation Server.
++ [NewOptimizer.jl](https://github.com/Keno/NewOptimizer.jl) :: WIP for new optimizer for julia base. 
 + [NLTester](https://github.com/IainNZ/NLTester) :: Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.
 + [NODAL.jl](https://github.com/phrb/NODAL.jl) :: is an Open Distributed Autotuning Library in Julia.
 + [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions. 
