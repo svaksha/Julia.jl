@@ -215,6 +215,7 @@ API,JavaScript,jlbox,https://github.com/compressed/jlbox,Use node.js to provide 
 API,JavaScript,JSTypes.jl,https://github.com/johnmyleswhite/JSTypes.jl,Mimic Javascript objects using Julian types.
 API,JavaScript,node-julia,https://github.com/waTeim/node-julia, Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
 API,JavaScript,PlotlyJS.jl,https://github.com/spencerlyon2/PlotlyJS.jl,Julia wrapper/API for plotly.js.
+API,JavaScript,TableView.jl,https://github.com/JuliaComputing/TableView.jl,A spreadsheet-like display wrapping `Handsontable.js`.
 API,JavaScript,twiddle.jl,https://github.com/intdxdt/twiddle.jl,Bit twiddle port from port from bit-twiddle.
 API,JavaScript,Vue.jl,https://github.com/JuliaGizmos/Vue.jl,A Julia wrapper for `Vue.js`.
 API,MATLAB,jlcall,https://github.com/twadleigh/jlcall,Call Julia from MATLAB.
@@ -659,6 +660,7 @@ DataIO,PDF,LabelNumerals.jl,"https://github.com/sambitdash/LabelNumerals.jl) : N
 DataIO,Silo,Silo.jl,https://github.com/jgoldfar/Silo.jl,"Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl."
 DataIO,TabularDataMatrix,CSV.jl,https://github.com/tanmaykm/CSV.jl) by @tanmayk,reads CSV files.
 DataIO,TabularDataMatrix,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
+DataIO,TabularDataMatrix,CSVFiles.jl,https://github.com/davidanthoff/CSVFiles.jl,`FileIO.jl` integration for CSV files.
 DataIO,TabularDataMatrix,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 DataIO,TabularDataMatrix,DataFramesIO.jl,https://github.com/johnmyleswhite/DataFramesIO.jl,"Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON."
 DataIO,TabularDataMatrix,DataRead.jl,https://github.com/WizardMac/DataRead.jl,"can read files from Stata, SAS, and SPSS."

@@ -91,6 +91,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
 + [node-julia](https://github.com/waTeim/node-julia) ::  Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
 + [PlotlyJS.jl](https://github.com/spencerlyon2/PlotlyJS.jl) :: Julia wrapper/API for plotly.js.
++ [TableView.jl](https://github.com/JuliaComputing/TableView.jl) :: A spreadsheet-like display wrapping `Handsontable.js`.
 + [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
 + [Vue.jl](https://github.com/JuliaGizmos/Vue.jl) :: A Julia wrapper for `Vue.js`.
 

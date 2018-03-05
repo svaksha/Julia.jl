@@ -87,6 +87,7 @@
 ## Tabular Data Matrix
 + [CSV.jl](https://github.com/tanmaykm/CSV.jl) by @tanmaykm :: reads CSV files.
 + [CSV.jl](https://github.com/JuliaData/CSV.jl) by @JuliaData ::  Utility library for working with CSV and other delimited files in the Julia programming language.
++ [CSVFiles.jl](https://github.com/davidanthoff/CSVFiles.jl) :: `FileIO.jl` integration for CSV files.
 + [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
 + [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
 + [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
