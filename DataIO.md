@@ -171,6 +171,7 @@
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [Unitful.jl](https://github.com/ajkeller34/Unitful.jl) :: A Julia package for physical units.
 + [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) :: flexible VersionNumber parsing in Julia.
++ [WeakRefStrings.jl](https://github.com/quinnj/WeakRefStrings.jl] :: a minimal String type for Julia that allows for efficient string representation and transfer.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 
