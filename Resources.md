@@ -56,6 +56,7 @@ __For development news, see the following links :__
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
++ [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) :: Port of the book Think Python to the Julia programming language.
 
 ----
 

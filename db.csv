@@ -732,6 +732,7 @@ DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),TypeSortedCollections.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
+DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),WeakRefStrings.jl,https://github.com/quinnj/WeakRefStrings.jl,a minimal String type for Julia that allows for efficient string representation and transfer.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
 DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
 DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
@@ -1507,6 +1508,7 @@ Resources,BOOKS,Learn Julia the Hard Way,https://github.com/chrisvoncsefalvay/le
 Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_,https://github.com/scidom/hmc_and_zv_book_chapter.jl) book,
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
+Resources,BOOKS,ThinkJulia.jl,https://github.com/BenLauwens/ThinkJulia.jl,Port of the book Think Python to the Julia programming language.
 Resources,BLOGS,he official [Julia language blog,http://julialang.org/blog/,
 Resources,Blogs,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
 Resources,Blogs,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
