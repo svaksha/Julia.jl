@@ -160,6 +160,7 @@
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
    + List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
++ [CutShortURL.jl](https://github.com/rahulkp220/CutShortURL.jl) :: A URL Shortener for Julia by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
 
 ## Terminal
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
@@ -183,6 +184,7 @@
 + [TerminalMenus.jl](https://github.com/nick-paul/TerminalMenus.jl) :: Simple interactive menus in the terminal. 
 + [TerminalUI.jl](https://github.com/Keno/TerminalUI.jl) :: Terminal User Interface.
 + [VT100.jl](https://github.com/Keno/VT100.jl) :: Terminal Emulation for terminal UI verification.
++ [Spinner.jl](https://github.com/rahulkp220/Spinner.jl) :: A very basic command line spinner for Julia by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
 
 ## File Compression 
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
