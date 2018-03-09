@@ -55,6 +55,11 @@ Networking, web security, frameworks and other Web related things go here!
 
 ----
 
+# MONITORING
++ [Zabbix.jl](https://github.com/rahulkp220/Zabbix.jl) :: Julia bindings for ZabbixAPI by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
+
+----
+
 # SECURITY
 + [Etcd.jl](https://github.com/forio/Etcd.jl) :: A Julia Etcd client implementation.
 + [MbedTLS](https://github.com/JuliaWeb/MbedTLS.jl) :: Wrapper around mbedtls, that is now preferred to GnuTLS in Julia.
