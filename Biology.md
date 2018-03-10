@@ -5,11 +5,8 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [ECOLOGY](#ecology)
    + [Agronomy](#agronomy)
    + [Aquatic Ecology](#aquatic-ecology)
-   + [Org-EcoJulia](#org-ecojulia)
 + [GENOMICS](#genomics)
    + [GWAS](#gwas) 
-+ [Org-BioJulia](#org-biojulia)
-+ [Org-JuliaBio](#org-juliabio)
 + [NEUROSCIENCE](#neuroscience)
 + [Resources-Teaching](#resources-teaching)
 
@@ -21,6 +18,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 ----
 
 # BIOINFORMATICS
++ [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 + [EMIRT.jl](https://github.com/seung-lab/EMIRT.jl) :: Electron Microscopy Image Reconstruction Toolbox using julia language.
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
@@ -29,6 +27,7 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 + [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 + [Crispulator.jl](https://github.com/tlnagy/Crispulator.jl) :: A discrete simulation tool for designing pooled genetic screens
+
 
 ----
 
@@ -40,8 +39,10 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 
 # ECOLOGY
 + [Diversity.jl](https://github.com/richardreeve/Diversity.jl) :: Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures.
++ [GBIF.jl](https://github.com/EcoJulia/GBIF.jl) :: Functions and types to access GBIF data from Julia
 + [FishABM.jl](https://github.com/jangevaare/FishABM.jl) :: An agent based life cycle model for managed fisheries.
 + [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) :: Measure various aspects of the structure of ecological networks in Julia.
++ [SpatialEcology.jl](https://github.com/EcoJulia/SpatialEcology.jl) :: Julia framework for spatial ecology - data types and utilities
 
 ### [Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy) and [Forest Modelling](https://en.wikipedia.org/wiki/Category:Forest_modelling)
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) :: Package to calculate Leaf Area Index from Hemisperical Images.
@@ -51,16 +52,14 @@ ggsg**Bioinformatics, genomics, agriculture, food science, medicine, genetic eng
 + [Iceberg.jl](https://github.com/njwilson23/Iceberg.jl) :: Ice-seawater interface calculations using level set methods.
 + [TEOS.jl](https://github.com/njwilson23/TEOS.jl) :: Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
 
-# Org-[EcoJulia](https://github.com/EcoJulia)
-Their [Gitter chat room](https://gitter.im/EcoJulia/EcoJulia_Discussion) and list of packages under the Org:
-+ [SpatialEcology.jl](https://github.com/EcoJulia/SpatialEcology.jl) :: Julia framework for spatial ecology - data types and utilities
-+ [GBIF.jl](https://github.com/EcoJulia/GBIF.jl) :: Functions and types to access GBIF data from Julia
+
 
 ----
 
 # GENOMICS
 + [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) :: Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 + [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
++ [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
 + [BismarkSummary.jl](https://github.com/nw11/BismarkSummary.jl) :: Basic summary of multiple Bismark runs. 
 + [COSMIC.jl](https://github.com/haploxer/COSMIC.jl) :: Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
 + [Ensemble.jl](https://github.com/farr/Ensemble.jl) :: Ensemble Samplers for Julia.
@@ -71,12 +70,14 @@ Their [Gitter chat room](https://gitter.im/EcoJulia/EcoJulia_Discussion) and lis
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 + [HTSLIB.jl](https://github.com/OpenGene/HTSLIB.jl) :: A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
++ [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
 + [LCS.jl](https://github.com/WestleyArgentum/LCS.jl) :: A package for finding longest common and longest contiguous subsequences. 
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
 + [OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) :: OpenGene core library in Julia.
 + [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: Detect correlated evolution on phylogenies.
 + [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) :: Utilities to simulate and perform inference of disease dynamics.
 + [PedModule.jl](https://github.com/QTL-rocks/PedModule.jl) :: Geno-type pedigree module.
++ [Phylogenetics.jl](https://github.com/BioJulia/Phylogenetics.jl) :: The Julia package for analysis of evolution and phylogeny.
 + [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) :: A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
 + [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) :: Phylogenetic tree simulation.
 + [PlmDCA](https://github.com/pagnani/PlmDCA) :: Pseudo Likelihood Maximization for protein in Julia.
@@ -91,6 +92,8 @@ Their [Gitter chat room](https://gitter.im/EcoJulia/EcoJulia_Discussion) and lis
 + [XSim.jl](https://github.com/reworkhow/XSim.jl) :: A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
 
+
+
 ## GWAS
 __Genome Wide Association Study (GWAS)__
 + [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) :: A package for statistical analyses of sequence alignments.
@@ -101,21 +104,6 @@ __Genome Wide Association Study (GWAS)__
 ###### Resources
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 + [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
-
-
-----
-
-# Org-[BioJulia](https://github.com/BioJulia)
-Their [GoogleGroups mailing list](https://groups.google.com/forum/?fromgroups#!forum/biojulia-dev) and list of packages under the Org:
-+ [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
-+ [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
-+ [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
-+ [Phylogenetics.jl](https://github.com/BioJulia/Phylogenetics.jl) :: The Julia package for analysis of evolution and phylogeny.
-
-----
-
-# Org-[JuliaBio](https://github.com/JuliaBio)
-The [GoogleGroups mailing list](https://groups.google.com/forum/#!forum/julia-bio).
 
 ----
 

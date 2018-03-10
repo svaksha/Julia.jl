@@ -48,10 +48,13 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [LearnBase.jl](https://github.com/Evizero/LearnBase.jl) :: Abstractions for Julia Machine Learning Packages.
 + [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
 + [LIBSVM.jl](https://github.com/simonster/LIBSVM.jl) :: Julia bindings for LIBSVM.
++ [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) :: Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
 + [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 + [Merlin.jl](https://github.com/hshindo/Merlin.jl) :: Flexible Deep Learning Framework in Julia.
 + [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
++ [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
++ [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
 + [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe.
    + New tutorial on [unsupervised pre-training with stacked denoising auto-encoders](http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html).
@@ -80,13 +83,10 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) :: A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
 + [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) :: Julia tools for feeding tabular data into machine learning. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
++ [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 + [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
 
-## Org-[JuliaML](https://github.com/JuliaML)
-+ [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) :: Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
-+ [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
-+ [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
-+ [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
+
 
 ###### Resources
 + [DistLearn.jl](https://github.com/pluskid/DistLearn.jl) :: An example of distributed learning in Julia. Note: this is not a full featured distributed machine learning library, therefore we are not going to register this in the Julia package system.

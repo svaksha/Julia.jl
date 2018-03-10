@@ -4,9 +4,9 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
     + [Association Rule](#association-rule)
     + [Checksum](#checksum)
     + [Collaborative Filtering](#collaborative-filtering)
-    + [Scheduling Algorithm](#scheduling-algorithm)
-    + [Quantum](#quantum)
     + [Pattern Matching](#pattern-matching)
+    + [Quantum](#quantum)
+    + [Scheduling Algorithm](#scheduling-algorithm)
     + [Sorting](#sorting)
     + [Time](#time)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
@@ -15,7 +15,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 
 ----
 
-# ALGORITHMS
+# [ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures)
 
 + [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: Data pre-processing algorithms.
 + [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: A Julia framework to support the simulation of distributed computing algorithms.
@@ -30,12 +30,6 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ### Collaborative Filtering
 + [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008.
 
-### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
-+ [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
-
-### Quantum
-+ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: An Adiabatic Computation Simulator for quantum computation.
-+ [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
 
 ### Pattern Matching
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
@@ -51,9 +45,20 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 + [NearestNeighbors.jl](https://github.com/johnmyleswhite/NearestNeighbors.jl) :: Data structures for nearest neighbor search.
 + [ReverseRegexes.jl](https://github.com/carlobaldassi/ReverseRegexes.jl) :: Adds functionality to reverse-search strings with regexes
 
+
+### Quantum
++ [AdiaRoll.jl](https://github.com/Roger-luo/AdiaRoll.jl) :: An Adiabatic Computation Simulator for quantum computation.
++ [Hadamard.jl](https://github.com/stevengj/Hadamard.jl) :: Fast multidimensional Walsh-Hadamard transforms.
+
+
+### [Scheduling Algorithm](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms)
++ [HClust.jl](https://github.com/davidavdav/HClust.jl) :: Hierarchical Clustering for Julia, similar to R's hclust().
+
+
 ### Sorting
 + [NaturalSort.jl](https://github.com/simonster/NaturalSort.jl) :: Natural sort order.
 + [SearchSortAlgos.jl](https://github.com/Dawny33/SearchSortAlgos.jl) :: An API for common search and sort algorithms.
++ [SortingAlgorithms.jl](https://github.com/JuliaLang/SortingAlgorithms.jl) :: extra sorting algorithms extending Julia's sorting API.
 + [SortingLab.jl](https://github.com/xiaodaigh/SortingLab.jl) :: Experimental implementations of sorting algorithms.
 
 ### Time
@@ -68,6 +73,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ----
 
 # [COMPUTATIONAL PROBLEMS](https://en.wikipedia.org/wiki/Category:Computational_problems)
+
 ## [NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems)
 + [TravelingSalesmanHeuristics.jl](https://github.com/evanfields/TravelingSalesmanHeuristics.jl) :: Julia package for simple traveling salesman problem heuristics.
 

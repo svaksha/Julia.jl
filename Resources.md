@@ -17,7 +17,6 @@ __List of communities, development links, JSoC, events, (un)conferences, forums/
 + [NEWS](#news)
    + [Blogs](#blogs)
    + [Media](#media)
-      + [Yellow Press](#yellow-press)
 + [SLIDES](#slides)
 + [TUTORIALS](#tutorials) 
 + [VIDEOS](#videos)
@@ -184,8 +183,12 @@ __Local meetup groups located in the various continents around the world.__
 + [meetups in China](http://julialang.cn) more informations about Julia Programming Language Meetup in China.
 
 ## Asia-INDIA
+
+#### [Delhi](https://en.wikipedia.org/wiki/Delhi)
++ [Julia Delhi](https://github.com/juliadelhi)
+
 #### KA
-+ [Bangalore](http://www.meetup.com/Bangalore-JULIA-User-Group/) Julia User Group.
++ [Bangalore](https://www.meetup.com/Bangalore-Julia-User-Group/) Julia User Group.
 
 ## Asia-JAPAN 
 + [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
@@ -193,16 +196,29 @@ __Local meetup groups located in the various continents around the world.__
 ## Asia-SINGAPORE
 + 2015June05 :: Tutorial on High Performance Cloud Computing Technologies: Julia & OpenTuner, Alan Edelman, Saman P. Amarasinghe, and Jiahao Chen. [Register here](https://www.eventbrite.com/e/tutorial-on-high-performance-cloud-computing-technologies-julia-opentuner-tickets-4866645267)
 
+
 ## Europe-AUSTRIA
 + [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
    + [Talks and code for the Vienna Julia Meetups](https://github.com/rened/ViennaJuliaMeetup).
 
+
 ## Europe-GERMANY
-#### [Baden-Württemberg]https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).
+
+#### [Baden-Württemberg](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).
 + [Tübingen Julia Users](http://www.meetup.com/Julia-Users-Germany/) group.
+
+#### Berlin
++ [Julia Users Berlin](https://julia-users-berlin.github.io/)
+
 
 ## Europe-IRELAND
 + [Dublin Julia Programming Language Meetup](http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/).
+
+## Europe-POLAND
++ [Warszawskie Forum Julia](https://www.meetup.com/Warszawskie-Forum-Julia/) in Warsaw, Poland.
+
+## Europe-SPAIN
++ [Barcelona Julia Meetup](https://www.meetup.com/Barcelona-Julia-Meetup/) in Barcelona, Spain.
 
 ## Europe-SWITZERLAND
 + [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
