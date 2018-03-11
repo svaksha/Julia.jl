@@ -36,6 +36,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 + [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: Discrete and continuous Hopfield networks in Julia.
 + [HSIC.jl](https://github.com/trappmartin/HSIC.jl) :: Julia implementations of the Hilbert-Schmidt Independence Criterion (HSIC).
++ [JuML.jl](https://github.com/Statfactory/JuML.jl) :: Machine Learning in Julia. 
 + [KaggleDigitRecognizer.jl](https://github.com/benhamner/KaggleDigitRecognizer.jl) :: Julia code for Kaggle's Digit Recognizer competition.
 + [KDTrees.jl](https://github.com/KristofferC/KDTrees.jl) :: KD Trees.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning.

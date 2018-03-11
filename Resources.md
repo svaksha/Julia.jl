@@ -6,12 +6,8 @@ __List of communities, development links, JSoC, events, (un)conferences, forums/
 + [BOOKS](#books)
 + [BLOGS](#blogs)
 + [CHEATSHEETS](#cheatsheets)
-+ [CONFERENCES](#conferences)
-   + [JuliaCon](#juliacon)
-   + [Presentations](#presentations)
 + [COOKBOOKS](#cookbooks)
 + [GENERAL RESOURCES](#general-resources)
-+ [JSoC](#jsoc)
 + [Julia User Groups](#julia-user-groups)
 + [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 + [NEWS](#news)
@@ -24,10 +20,11 @@ __List of communities, development links, JSoC, events, (un)conferences, forums/
 ----
 
 # COMMUNITY
-The Julia [community](http://julialang.org/community/) is distributed over various communication mediums. The Special Interest Groups (SIGs) have their own github orgs, linked in the respective sections. You can join them on:
-+ IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats, and
-+ A [discourse](https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of the FOSS alternative).
+The Julia [community](http://julialang.org/community/) is distributed over various communication mediums, including some SIGs (Special Interest Groups) on Github. Join:
++ IRC :: [#julia](http://webchat.freenode.net/?channels=julia) channel on irc.freenode.net for live chats.
++ The [discourse](https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of this FOSS alternative).
 + The official list of resources to [learn Julia](http://julialang.org/learning/).
++ The official Julia conference : [JuliaCon](http://juliacon.org/), an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
 
 __NEWS from social networking communities, QA sites and Twitter.__
 + [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
@@ -55,7 +52,7 @@ __For development news, see the following links :__
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
-+ [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) :: Port of the book Think Python to the Julia programming language.
++ [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) :: Port of the book `Think Python` to the Julia programming language.
 
 ----
 
@@ -103,39 +100,6 @@ __For development news, see the following links :__
 + [Keyboard shortcuts for the REPL](http://docs.julialang.org/en/latest/manual/interacting-with-julia/#key-bindings).
 + [Rationale behind @-sign for macro usage](https://stackoverflow.com/questions/29182447/why-do-julia-programmers-need-to-prefix-macros-with-the-at-sign)
 
-----
-
-# CONFERENCES
-__The official Julia conference.__
-
-## [JuliaCon](http://juliacon.org/)
-+ __Info__:: The annual Julia conference is a technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
-+ __Date & Venue__:: TBA
-+ __CFP__:: [Registration page](http://juliacon.eventbrite.com/).
-+ __Diversity__:: TBD?
-+ __Past JuliaCons__ : 2015June24-28@Cambridge-MA ; 2014Jun26-27@Chicago-IL. 
-
-## Presentations
-+ Juliacon-2017:
-   + [RoboticsJuliaCon2017.jl](https://github.com/tkoolen/RoboticsJuliaCon2017.jl) :: Code accompanying JuliaCon 2017 talk "The Present and Future of Robotics in Julia".
-+ Juliacon-2016:
-   + [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html
-+ [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
-+ [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
-+ JuliaCon-2015 ::
-   + [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
-   + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
-   + [JuliaCon2015 by @simonster](https://github.com/simonster/JuliaCon2015) :: Slides from my presentations at JuliaCon 2015.
-+ Leah Hanson (@astrieanna) talks about _[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
-+ EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
-+ JuliaCon-2014 ::
-   + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
-   + [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
-   + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
-+ SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
-+ 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
-+ [ACM-SPLASH-2013](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013) :: Stefan, Jeff, and Viral's talk.
-+ [2013 StrangeLoop]((http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)) :: Stefan Karpinski's talk notes on _The Design Impact of Multiple Dispatch_. 
 
 ----
 
@@ -167,20 +131,15 @@ __The official Julia conference.__
 
 ----
 
-# JSoC
-+ __Program__:: Julia Summer of Code (JSoC) will run from 2015Jun15-Sep15 and the projects will be similar in scope and nature to that of GSoC. It is open to anyone willing to commit three months to a project, although preference will be given to students. If you have a project you'd like to propose, write up an description and send an email to juliasoc@googlegroups.com for feedback and approval. See the thread on the [user group](https://groups.google.com/forum/?fromgroups=#!topic/julia-users/bolLGcSCrs0) and the [blog post](http://julialang.org/blog/2015/05/jsoc-cfp/).
-+ __FinAid__:: Compensation is similar to GSoC - USD5500.00
-+ __Deadline__:: 2015Jun01.
-
-----
-
 # [Julia User Groups](http://julia.meetup.com)
-__Local meetup groups located in the various continents around the world.__
+__Local meetup groups located in various continents around the world.__
 
 ## Asia- CHINA
 + [Beijing](http://www.meetup.com/juliacn/) Julia Programming Language Meetup.
 + [Shenzhen,2016](http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen.
 + [meetups in China](http://julialang.cn) more informations about Julia Programming Language Meetup in China.
+
+[//]: # (######################################################################)
 
 ## Asia-INDIA
 
@@ -190,8 +149,12 @@ __Local meetup groups located in the various continents around the world.__
 #### KA
 + [Bangalore](https://www.meetup.com/Bangalore-Julia-User-Group/) Julia User Group.
 
+[//]: # (######################################################################)
+
 ## Asia-JAPAN 
 + [Tokyo Julia User Group](http://juliatokyo.connpass.com/event/6891/)
+
+[//]: # (######################################################################)
 
 ## Asia-SINGAPORE
 + 2015June05 :: Tutorial on High Performance Cloud Computing Technologies: Julia & OpenTuner, Alan Edelman, Saman P. Amarasinghe, and Jiahao Chen. [Register here](https://www.eventbrite.com/e/tutorial-on-high-performance-cloud-computing-technologies-julia-opentuner-tickets-4866645267)
@@ -201,6 +164,7 @@ __Local meetup groups located in the various continents around the world.__
 + [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
    + [Talks and code for the Vienna Julia Meetups](https://github.com/rened/ViennaJuliaMeetup).
 
+[//]: # (######################################################################)
 
 ## Europe-GERMANY
 
@@ -210,30 +174,44 @@ __Local meetup groups located in the various continents around the world.__
 #### Berlin
 + [Julia Users Berlin](https://julia-users-berlin.github.io/)
 
+[//]: # (######################################################################)
 
 ## Europe-IRELAND
 + [Dublin Julia Programming Language Meetup](http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/).
 
+[//]: # (######################################################################)
+
 ## Europe-POLAND
 + [Warszawskie Forum Julia](https://www.meetup.com/Warszawskie-Forum-Julia/) in Warsaw, Poland.
+
+[//]: # (######################################################################)
 
 ## Europe-SPAIN
 + [Barcelona Julia Meetup](https://www.meetup.com/Barcelona-Julia-Meetup/) in Barcelona, Spain.
 
+[//]: # (######################################################################)
+
 ## Europe-SWITZERLAND
 + [Zurich Julia User Group](http://www.meetup.com/Zurich-Julia-User-Group/)
 
+[//]: # (######################################################################)
+
 ## Europe-UK
 + [London Julia User Group](http://www.meetup.com/London-Julia-User-Group/)
+
+[//]: # (######################################################################)
 
 ## NorthAmerica-CANADA
 + [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
 + [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
 
+[//]: # (######################################################################)
+
 ## NorthAmerica-MEXICO
 + [JuliaLangEs](http://www.meetup.com/julialanges-mx/) - México, D.F.
 + [México City](http://www.meetup.com/julialang-mx/), Mexico.
 
+[//]: # (######################################################################)
 
 ## NorthAmerica-USA
 #### CA
@@ -258,19 +236,28 @@ __Local meetup groups located in the various continents around the world.__
 #### WA
 + [Seattle](http://www.meetup.com/Seattle-Julia-Users/) JUG.
 
-
-## [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
-+ [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
+[//]: # (######################################################################)
 
 ## SouthAmerica-BRAZIL
 + [Campinas](http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group.
 + [Rio de Janeiro](http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG.
 + [Sao Paulo](http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group.
 
+[//]: # (######################################################################)
+
+## [Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA
++ [Sydney JUG](http://www.meetup.com/Sydney-Julia-User-Group/)
+
 ----
 
 
 # JUPYTER NOTEBOOKS
++ JuliaCon-2015 ::
+   + [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
+   + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
+   + [JuliaCon2015 by @simonster](https://github.com/simonster/JuliaCon2015) :: Slides from my presentations at JuliaCon 2015.
++ [ACM-SPLASH-2013](https://github.com/ViralBShah/julia-presentations/tree/master/SPLASH-2013) :: Stefan, Jeff, and Viral's talk.
++ [2013 StrangeLoop]((http://nbviewer.ipython.org/b8fe9dbb36c1427b9f22)) :: Stefan Karpinski's talk notes on _The Design Impact of Multiple Dispatch_. 
 + [Introduction_to_Julia_tutorials](https://github.com/xorJane/Introduction_to_Julia_tutorials) :: These are the jupyter notebooks used for intro tutorials to teach Julia.
 + [100-julia-exercises](https://github.com/chezou/julia-100-exercises) :: @rougier's 100 numpy exercises as 100-julia-exercises.
 + [A gallery of interesting Julia notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#julia).
@@ -292,15 +279,17 @@ __Local meetup groups located in the various continents around the world.__
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
 + [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
 
+
+
 ----
 
 
 # NEWS
 
-### Blogs
+## Blogs
 + [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
 
-### Media
+## Media
 + 2015-11-15 :: HN post on [Julia Computing Granted $600k by Moore Foundation](https://news.ycombinator.com/item?id=10565940). 
 + [Why the creators of the Julia programming language just launched a startup](http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/).
 + 2014-01-23 :: Evan Miller's [__Why I’m Betting on Julia__](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
@@ -315,6 +304,8 @@ __Local meetup groups located in the various continents around the world.__
 ----
 
 # SLIDES
++ [Presentations](https://github.com/JuliaCon/presentations) for JuliaCon.
++ [JuliaCon Slides and Presentations](https://github.com/JuliaCon/presentations)
 + [BAJU-WhatsNew](https://github.com/tkelman/BAJU-WhatsNew) :: Bay Area Julia Users talk from Oct 29th 2015. 
 + [Setting up Julia for EE103](https://web.stanford.edu/class/ee103/slides/julia_ee103_slides.pdf) slides, Stanford.
 + [Matrices in Julia](http://stanford.edu/class/ee103/slides/julia_matrices_slides.pdf) slides, Stanford.
@@ -334,6 +325,8 @@ __Local meetup groups located in the various continents around the world.__
 ----
 
 # TUTORIALS
++ Juliacon-2017 :: [RoboticsJuliaCon2017.jl](https://github.com/tkoolen/RoboticsJuliaCon2017.jl) :: Code accompanying JuliaCon 2017 talk "The Present and Future of Robotics in Julia".
++ Juliacon-2016 :: [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html
 + [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
 + [First Steps With Julia](https://www.kaggle.com/c/street-view-getting-started-with-julia).
 + [Julia3D-Demos](https://github.com/d2dev/Julia3D-Demos)
@@ -381,6 +374,12 @@ __Local meetup groups located in the various continents around the world.__
    * Westley Hennigh : [Who optimizes the optimizers](http://youtu.be/Qito5AGSv4s?a)
    * Yee Sian Ng : [JuliaGeo - Working with Geospatial data in Julia](http://youtu.be/MLGFzPS4FTg?a)
    * Zachary Yedidia : [SFML.jl - Julia bindings for the Simple Fast](http://youtu.be/UKfM7EopMe0?a)
-
-----
++ Leah Hanson (@astrieanna) talks about _[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
++ EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
++ JuliaCon-2014 ::
+   + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.
+   + [Moving Julia into Production](https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta.
+   + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
++ SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
++ 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
 

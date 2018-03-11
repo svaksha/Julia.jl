@@ -41,6 +41,8 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 + [Proj4.jl](https://github.com/FugroRoames/Proj4.jl) :: Julia wrapper for PROJ.4 cartographic projections library. 
 + [PyProj.jl](https://github.com/kshramt/PyProj.jl) ::  A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
 
+[//]: # (######################################################################)
+
 ## [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
 + [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 + [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) :: A library for measuring approximate distance and location given latitudes and longitudes.
@@ -48,9 +50,11 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 + [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
 + [GDAL.jl](https://github.com/wkearn/GDAL.jl) :: Geospatial Data Analysis Library Wrapper for Julia.
 + [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper.
++ [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
 + [GeographicLibPy.jl](https://github.com/kshramt/GeographicLibPy.jl) :: Thin wrapper of geographiclib Python package.
 + [GIS.jl](https://github.com/wkearn/GIS.jl) :: A package for the visualization and manipulation of geographic data.
 + [GeoIP.jl](https://github.com/johnmyleswhite/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
++ [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) :: Utilities for working with GeoJSON data in Julia.
 + [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
    + *Forks*
    + https://github.com/ihnorton/GMT.jl
@@ -62,13 +66,11 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 + [Tyndall.jl](https://github.com/jsbj/Tyndall.jl) :: Radiative transfer in Julia.
 + [Watershed.jl](https://github.com/seung-lab/Watershed.jl) :: Julia version of watershed.
 
+[//]: # (######################################################################)
+
 ## GPS
 + [NMEA.jl](https://github.com/templarlabs/NMEA.jl) :: Julia package for parsing GPS NMEA messages.
 
-## Org-[JuliaGeo](https://github.com/JuliaGeo)
-Ask questions and discuss Geo-related Julia packages on the [geosciences mailing list](https://groups.google.com/forum/#!forum/julia-geo) and view their packages on the github org .
-+ [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
-+ [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) :: Utilities for working with GeoJSON data in Julia.
 
 ----
 
