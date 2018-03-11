@@ -52,11 +52,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
 + [TimeZones.jl](https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language.
 + [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
-
-----
-
-# MONITORING
-+ [Zabbix.jl](https://github.com/rahulkp220/Zabbix.jl) :: Julia bindings for ZabbixAPI by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
++ [Zabbix.jl](https://github.com/rahulkp220/Zabbix.jl) :: Julia bindings for ZabbixAPI
 
 ----
 
@@ -80,11 +76,11 @@ Networking, web security, frameworks and other Web related things go here!
 # WEB
 + [Biryani.jl](https://github.com/eraviart/Biryani.jl) :: A conversion and validation toolbox.
 + [Curl.jl](https://github.com/forio/Curl.jl) :: A Julia HTTP curl library.
-+ [CutShortURL.jl](https://github.com/rahulkp220/CutShortURL.jl) :: The simplest URL Shortener for Julia. A Julia wrapper around https://tinyurl.com/
 + [Diana.jl](https://github.com/codeneomatrix/Diana.jl) :: GraphQL for Julia 0.6
 + [Escher.jl](http://escher-jl.org) :: Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 + [Fuji.jl](https://github.com/jackcook/Fuji.jl) :: A lightweight web server written in Julia.
 + [GumboParser.jl](https://github.com/porterjamesj/Gumbo.jl) :: Julia wrapper around google's gumbo library for parsing HTML.
++ [HackerNews.jl](https://github.com/rahulkp220/HackerNews.jl) :: The unofficial Julia API wrapper for HackerNews
 + [HTTP2.jl](https://github.com/sorpaas/HTTP2.jl) :: A HTTP2 support library for Julia.
 + [Hyperscript.jl](https://github.com/yurivish/Hyperscript.jl) :: A lightweight DOM representation for working with HTML, SVG, and CSS in Julia.
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
@@ -93,6 +89,7 @@ Networking, web security, frameworks and other Web related things go here!
 + [Pages.jl](https://github.com/EricForgy/Pages.jl) :: A simple way to create and interact with web pages.
 + [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
++ [Tinyurl.jl](https://github.com/rahulkp220/Tinyurl.jl) :: A Julia wrapper around the URL shortening service https://tinyurl.com/
 + [WebSocketClient.jl](https://github.com/dandeliondeathray/WebSocketClient.jl) :: A Julia package for client side WebSockets.
 
 ## CSS
