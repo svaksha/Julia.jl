@@ -2266,7 +2266,6 @@ Utilities,UTILS,Osmosis.jl,https://github.com/SimonDanisch/Osmosis.jl,Chat clien
 Utilities,UTILS,SO.jl,https://github.com/dlfivefifty/SO.jl,Personal macros for Julia.
 Utilities,UTILS,ist of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX,https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt,
 Utilities,UTILS,Utils.jl,https://github.com/SimonDanisch/Utils.jl,Some utility functions by @SimonDanisch.
-Utilities,UTILS,Tinyurl.jl,https://github.com/rahulkp220/Tinyurl.jl,A Julia wrapper around https://tinyurl.com/ by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
 Utilities,Terminal,AnsiColor.jl,https://github.com/Aerlinger/AnsiColor.jl,Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 Utilities,Terminal,ArgParse.jl,https://github.com/carlobaldassi/ArgParse.jl,Package for parsing command-line arguments to Julia programs.
 Utilities,Terminal,DocOpt.jl,https://github.com/docopt/DocOpt.jl,generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.

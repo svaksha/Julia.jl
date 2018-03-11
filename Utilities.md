@@ -160,7 +160,6 @@
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
    + List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
-+ [Tinyurl.jl](https://github.com/rahulkp220/Tinyurl.jl) :: A Julia wrapper around https://tinyurl.com/ by [Rahul Lakhanpal](https://www.rahullakhanpal.in/)
 
 ## Terminal
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
