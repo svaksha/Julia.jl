@@ -5,9 +5,10 @@
 + [BUILD AUTOMATION](#build-automation)
 + [DEVELOPMENT](#development)
 + [Operating System Technology](#operating-system-technology)
-   + [Binaries](#binaries)
+   + [Binaries](#binaries) 
    + [Containers-Virtualization](#containers-virtualization)
    + [DistrOS](#distros)
+   + [Executables](#executables)
    + [Packaging](#packaging)
    + [Sandbox](#sandbox)
 + [NEWS](#news)
@@ -76,6 +77,10 @@ __Pre-compiled Binaries__
 + The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
       - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
+[//]: # (######################################################################)
+[//]: # ( Platform independent comment line between multiple sub-sections )
+[//]: # (######################################################################)
+
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
 ### Ansible
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
@@ -89,6 +94,9 @@ __Pre-compiled Binaries__
 ### Vagrant
 + [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 
+[//]: # (######################################################################)
+[//]: # ( Platform independent comment line between multiple sub-sections )
+[//]: # (######################################################################)
 
 ## DistrOS
 #### Debian-Ubuntu
@@ -106,6 +114,12 @@ __Pre-compiled Binaries__
 #### OSX
 + [Homebrew.jl](https://github.com/JuliaLang/Homebrew.jl/) :: OSX Binary dependency provider for Julia.
 
+[//]: # (######################################################################)
+
+## Executables
++ [BuildExecutable.jl](https://github.com/dhoegh/BuildExecutable.jl) :: Build standalone executables from a Julia script.
+
+[//]: # (######################################################################)
 
 ## Packaging
 + [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
@@ -127,6 +141,8 @@ __Pre-compiled Binaries__
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
+
+[//]: # (######################################################################)
 
 ## Sandbox
 + [JDock](https://github.com/amitmurthy/JDock) :: An IJulia sandboxed by Docker containers.

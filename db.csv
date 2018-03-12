@@ -368,6 +368,7 @@ Build-Automation,Debian-Ubuntu,DebbyPacker.jl,https://github.com/UCL/DebbyPacker
 Build-Automation,Fedora-RHEL,RPMmd.jl,https://github.com/ihnorton/RPMmd.jl,A front-end installer for RPM-md packages and a fork of WinRPM.jl.
 Build-Automation,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 Build-Automation,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
+Build-Automation,Executables,BuildExecutable.jl,https://github.com/dhoegh/BuildExecutable.jl,Build standalone executables from a Julia script.
 Build-Automation,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
 Build-Automation,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
 Build-Automation,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
