@@ -1,18 +1,15 @@
-__List of communities, development links, JSoC, events, (un)conferences, forums/ meetup groups, NEWS, social networks, and other useful learning resources, including other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, say, a _Julia for Statistics_ tutorial would be listed on the Statistics page.__ 
+__List of communities, development links, events, (un)conferences, forums/ meetup groups, NEWS, social networks, and other useful learning resources, including other random resources that does not have its own topic page goes here under various sub-section titles. Topical learning resources, for example, code that is not a package, interesting code snippets, etc...will be listed here but specific resources, say, a _Julia for Statistics_ tutorial would be listed on the Statistics page.__ 
 
 ----
 
 + [COMMUNITY](#community)
+   + [NEWS](#news)
 + [BOOKS](#books)
-+ [BLOGS](#blogs)
 + [CHEATSHEETS](#cheatsheets)
 + [COOKBOOKS](#cookbooks)
 + [GENERAL RESOURCES](#general-resources)
 + [Julia User Groups](#julia-user-groups)
 + [JUPYTER NOTEBOOKS](#jupyter-notebooks)
-+ [NEWS](#news)
-   + [Blogs](#blogs)
-   + [Media](#media)
 + [SLIDES](#slides)
 + [TUTORIALS](#tutorials) 
 + [VIDEOS](#videos)
@@ -26,12 +23,6 @@ The Julia [community](http://julialang.org/community/) is distributed over vario
 + The official list of resources to [learn Julia](http://julialang.org/learning/).
 + The official Julia conference : [JuliaCon](http://juliacon.org/), an annual technical conference where community members from around the world come together to learn and share information about the latest trends and technologies in Julia development. The code running the website is at [juliacon.github.io](https://github.com/JuliaCon/juliacon.github.io).
 
-__NEWS from social networking communities, QA sites and Twitter.__
-+ [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
-+ [Reddit](http://www.reddit.com/r/Julia/)
-+ [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
-+ [Julialang news on Twitter](https://twitter.com/julialang_news)
-
 ### Contributing to Julia core development
 To contribute to the Julia language, read the [how-to contribute](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md) page, the sections on [continuous integration](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#continuous-integration) and [git hooks](https://github.com/svaksha/Julia.jl/blob/master/Build-Automation.md#git-hooks) and the links to (open) BUGS on Github:
 + [Documentation bugs](https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc).
@@ -39,29 +30,24 @@ To contribute to the Julia language, read the [how-to contribute](https://github
 + [Bug #9493](https://github.com/JuliaLang/julia/issues/9493) for more comprehensive test coverage. Check out the [coveralls](https://coveralls.io/r/timholy/julia) page for a quickview of ToDo tests.
 + IainNZ lists [Ways to contribute to the Julia ecosystem](https://github.com/IainNZ/ContributeToJulia)
 
-__For development news, see the following links :__
+
+## NEWS 
+__For development-related news, see the following links :__
++ The official [Julia language blog](http://julialang.org/blog/)
++ The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
 + [NEWS](https://github.com/JuliaLang/julia/blob/master/NEWS.md) :: Track the Julia release notes, changes, new language features, library improvements,...
 + [2014 GSoC project ideas page](http://julialang.org/gsoc/2014/). [Add the project ideas with a brief description, then make pull request](https://github.com/JuliaLang/julialang.github.com/blob/master/gsoc/2014/index.md). 
 + [ThisWeekInJulia](http://thisweekinjulia.github.io) :: A blog detailing major updates and changes to the Julia language.
 
+__NEWS from social networking communities, QA sites and Twitter.__
++ [Julia page at Wikipedia](https://en.wikipedia.org/wiki/Julia_%28programming_language%29).
++ [Reddit](http://www.reddit.com/r/Julia/)
++ [Stackoverflow](http://stackoverflow.com/questions/tagged/julia-lang)
++ [Julialang news on Twitter](https://twitter.com/julialang_news)
 
-# BOOKS
-+ [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
-+ The book _[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)_ by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
-+ Trends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
-+ Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
-+ [List of free programming books](https://github.com/vhf/free-programming-books)
-+ [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
-+ [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) :: Port of the book `Think Python` to the Julia programming language.
-
-----
-
-# BLOGS 
-+ The official [Julia language blog](http://julialang.org/blog/)
-+ The [Julia Planet](http://www.juliabloggers.com/) aggregates community blogs on Julia and the content is also aggregated into [Twitter](https://twitter.com/juliabloggers). If you'd like to contribute your content to Julia Bloggers, [submit your RSS/Atom feed link here](http://www.juliabloggers.com/julia-bloggers-submit-rss-feed/). 
-### Blogs
-+ [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
-+ Understanding object oriented programming in julia - [Part-1](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-part-1) and [Part-2](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-inheritance-part-2/) and later another post on [Revisiting emulated OOP behaviour and multiple dispatch in Julia](https://thenewphalls.wordpress.com/2014/06/02/revisiting-emulated-oop-behaviour-and-multiple-dispatch-in-julia/).
+### Interesting blogs on Julia - (various topics).
++ [Why 1-based indexing is *OK*](https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok/
++ [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).+ Understanding object oriented programming in julia - [Part-1](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-part-1) and [Part-2](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-inheritance-part-2/) and later another post on [Revisiting emulated OOP behaviour and multiple dispatch in Julia](https://thenewphalls.wordpress.com/2014/06/02/revisiting-emulated-oop-behaviour-and-multiple-dispatch-in-julia/).
 + Chris Rackauckas [blog posts on Julia](http://www.stochasticlifestyle.com/).
 + [Writing good Julia functions](http://doodlingindata.com/2015/08/11/writing-good-julia-functions/)
 + [Julia Package Ecosystem Dependency Graphs](http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning.
@@ -84,6 +70,29 @@ __For development news, see the following links :__
 + [Julia Vs. R](https://github.com/johnmyleswhite/JuliaVsR)
 + [Importing tabular data into Julia](http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC.
 
+
+### Media
++ 2015-11-15 :: HN post on [Julia Computing Granted $600k by Moore Foundation](https://news.ycombinator.com/item?id=10565940). 
++ [Why the creators of the Julia programming language just launched a startup](http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/).
++ 2014-01-23 :: Evan Miller's [__Why I’m Betting on Julia__](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
++ 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
++ 2014-03-12 :: [Interview with the Julia language creators in The Programmer magazine (Chinese)](http://www.csdn.net/article/2014-03-12/2818732)
++ 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
+
+##### Yellow Press 
++ A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
+
+
+----
+
+# BOOKS
++ [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way).
++ The book _[Getting started with Julia Programming](https://www.packtpub.com/application-development/getting-started-julia-programming)_ by @Ivo-Balbaert was published by Packt Publishing, ISBN13: 9781783284795, 214 pages, 28-Feb-2015. The [source code](https://github.com/Ivo-Balbaert/start_julia) used in the book. __NotaBene__: If you are using Julia version-0.4 and above, this book may be outdated due to the fast paced development of the core language bits.
++ Trends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_](https://github.com/scidom/hmc_and_zv_book_chapter.jl) book.
++ Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
++ [List of free programming books](https://github.com/vhf/free-programming-books)
++ [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
++ [ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl) :: Port of the book `Think Python` to the Julia programming language.
 
 ----
 
@@ -278,28 +287,6 @@ __Local meetup groups located in various continents around the world.__
 + [mcrib.jl](https://gitlab.com/parindie/parindie.mcrib.jl) :: A couple of jupyter mathbook notes taken while learning julia language.
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
 + [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
-
-
-
-----
-
-
-# NEWS
-
-## Blogs
-+ [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).
-
-## Media
-+ 2015-11-15 :: HN post on [Julia Computing Granted $600k by Moore Foundation](https://news.ycombinator.com/item?id=10565940). 
-+ [Why the creators of the Julia programming language just launched a startup](http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/).
-+ 2014-01-23 :: Evan Miller's [__Why I’m Betting on Julia__](http://www.evanmiller.org/why-im-betting-on-julia.html) blog post hits [Hackernews](https://news.ycombinator.com/item?id=7109982 https://news.ycombinator.com/item?id=7109982)
-+ 2014-02-28 :: Emmett O'Ryan's asks if [Julia is the Future for Big Data Analytics?](http://news.dice.com/2014/02/28/julia-future-big-data-analytics/).
-+ 2014-03-12 :: [Interview with the Julia language creators in The Programmer magazine (Chinese)](http://www.csdn.net/article/2014-03-12/2818732)
-+ 2013 : [Viral Shah's interview](http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/)
-
-##### Yellow Press 
-+ A [Wired article on Julia](http://www.wired.com/wiredenterprise/2014/02/julia/) gets some pushback from scientific programmers [for not getting the basics right](http://scientopia.org/blogs/goodmath/2014/02/04/everyone-stop-implementing-programming-languages-right-now-its-been-solved/), which [was again published in the UK version with a new title, but retained the old article](http://www.wired.co.uk/news/archive/2014-02/04/julia).
-
 
 ----
 

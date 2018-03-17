@@ -328,69 +328,6 @@ Biology,Resources-Teaching,capetown2014,https://github.com/aidanbudd/capetown201
 Biology,Resources-Teaching,course_EMBO_at_TGAC_PPI_Sep2015,https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015,"Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015."
 Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio,http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions),
 Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
-Build-Automation,INSTALL,Download and install Julia on various Operating Systems,http://julialang.org/downloads/,
-Build-Automation,INSTALL,ist of [Julia Modules,http://docs.julialang.org/en/latest/manual/modules/),
-Build-Automation,INSTALL,The Julia Standard Library,http://docs.julialang.org/en/latest/stdlib/,
-Build-Automation,INSTALL,ulia [Sample programs,https://github.com/JuliaLang/julia/tree/master/examples,
-Build-Automation,BACKPORTS,Julia-Backports,https://groups.google.com/forum/#!forum/julia-backports) Mailing list,
-Build-Automation,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
-Build-Automation,BUILDAUTOMATION,Juke.jl,https://github.com/kshramt/Juke.jl,`make` in Julia.
-Build-Automation,BUILDAUTOMATION,OpenStack.jl,https://github.com/Keno/OpenStack.jl),
-Build-Automation,DEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
-Build-Automation,DEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
-Build-Automation,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/PkgVerifierPrototype,Julia package verifier prototype.
-Build-Automation,Binaries,BinaryBuilder.jl,https://github.com/JuliaPackaging/BinaryBuilder.jl,Binary Dependency Builder for Julia.
-Build-Automation,Binaries,BinaryProvider.jl,https://github.com/JuliaPackaging/BinaryProvider.jl,A reliable binary provider for Julia.
-Build-Automation,Binaries,BinDeps.jl,https://github.com/JuliaLang/BinDeps.jl,Tool for building binary dependencies for Julia modules.
-Build-Automation,Binaries,SnappyBuilder,https://github.com/davidanthoff/SnappyBuilder,BinaryBuilder for `libsnappy`.
-Build-Automation,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
-Build-Automation,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball",
-Build-Automation,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,fficial [Julia Package list,http://pkg.julialang.org/),
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,NettleBuilder,https://github.com/staticfloat/NettleBuilder/,BinaryBuilder repo for `libnettle`.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
-Build-Automation,Package/InfrastructuremanagementtoolsandDocumentation,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
-Build-Automation,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
-Build-Automation,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
-Build-Automation,Ansible,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/,
-Build-Automation,Ansible,julia-ansible-scripts,https://github.com/staticfloat/julia-ansible-scripts,"Various julia ansible scripts for provisioning servers, buildbots etc..."
-Build-Automation,Docker,Docker,https://registry.hub.docker.com/_/julia/) image for Julia,
-Build-Automation,Docker,julia,https://github.com/docker-library/julia,Docker Official Image packaging for [Julia](http://julialang.org/).
-Build-Automation,Docker,RudeOil.jl,https://github.com/UCL/RudeOil.jl,A package to easily interact with docker and docker-machine.
-Build-Automation,Vagrant,julia-vagrant,https://github.com/staticfloat/julia-vagrant,Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
-Build-Automation,Debian-Ubuntu,APT.jl,https://github.com/bbshortcut/APT.jl,"A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists."
-Build-Automation,Debian-Ubuntu,DebbyPacker.jl,https://github.com/UCL/DebbyPacker.jl,Set of scripts to easily create debian packages.
-Build-Automation,Fedora-RHEL,RPMmd.jl,https://github.com/ihnorton/RPMmd.jl,A front-end installer for RPM-md packages and a fork of WinRPM.jl.
-Build-Automation,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
-Build-Automation,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
-Build-Automation,Executables,BuildExecutable.jl,https://github.com/dhoegh/BuildExecutable.jl,Build standalone executables from a Julia script.
-Build-Automation,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
-Build-Automation,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
-Build-Automation,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
-Build-Automation,Packaging,PrivateModules.jl,https://github.com/JuliaPackageMirrors/PrivateModules.jl,Julia package mirror.
-Build-Automation,Packaging,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
-Build-Automation,Packaging,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
-Build-Automation,Packaging,JuliaArchive,https://JuliaArchive.github.io,Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
-Build-Automation,Packaging,Compat.jl,https://github.com/JuliaLang/Compat.jl,A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
-Build-Automation,Packaging,DeclarativePackages.jl,https://github.com/rened/DeclarativePackages.jl,"(jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details."
-Build-Automation,Packaging,Julia Ecosystem Status,http://status.julialang.org/,Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
-Build-Automation,Packaging,julia-buildbot,https://github.com/staticfloat/julia-buildbot,Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
-Build-Automation,Packaging,julia-require,https://github.com/MetalNinjas/julia-require,Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
-Build-Automation,Packaging,JPM.jl,https://github.com/MikeInnes/JPM.jl,Decentralised Julia Packages.
-Build-Automation,Packaging,Kip.jl,https://github.com/jkroso/Kip.jl,A metadata free package manager for Julia.
-Build-Automation,Packaging,LibALPM.jl,https://github.com/yuyichao/LibALPM.jl,"Wrapper for libalpm, the ArchLinux package manager."
-Build-Automation,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/PackageEvaluator.jl,The Julia package evaluator.
-Build-Automation,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
-Build-Automation,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
-Build-Automation,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
-Build-Automation,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
-Build-Automation,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,"A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments."
-Build-Automation,NEWS,Devops Weekly,http://www.devopsweekly.com/),
 Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
 Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
 Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
@@ -602,6 +539,70 @@ DataIO,ImageFormats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia suppor
 DataIO,ImageFormats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
 DataIO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
 DataIO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+DevOps,INSTALL,Download and install Julia on various Operating Systems,http://julialang.org/downloads/,
+DevOps,INSTALL,ist of [Julia Modules,http://docs.julialang.org/en/latest/manual/modules/),
+DevOps,INSTALL,The Julia Standard Library,http://docs.julialang.org/en/latest/stdlib/,
+DevOps,INSTALL,ulia [Sample programs,https://github.com/JuliaLang/julia/tree/master/examples,
+DevOps,BACKPORTS,Julia-Backports,https://groups.google.com/forum/#!forum/julia-backports) Mailing list,
+DevOps,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
+DevOps,BUILDAUTOMATION,Juke.jl,https://github.com/kshramt/Juke.jl,`make` in Julia.
+DevOps,BUILDAUTOMATION,OpenStack.jl,https://github.com/Keno/OpenStack.jl),
+DevOps,DEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
+DevOps,DEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
+DevOps,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/PkgVerifierPrototype,Julia package verifier prototype.
+DevOps,Binaries,BinaryBuilder.jl,https://github.com/JuliaPackaging/BinaryBuilder.jl,Binary Dependency Builder for Julia.
+DevOps,Binaries,BinaryProvider.jl,https://github.com/JuliaPackaging/BinaryProvider.jl,A reliable binary provider for Julia.
+DevOps,Binaries,BinDeps.jl,https://github.com/JuliaLang/BinDeps.jl,Tool for building binary dependencies for Julia modules.
+DevOps,Binaries,SnappyBuilder,https://github.com/davidanthoff/SnappyBuilder,BinaryBuilder for `libsnappy`.
+DevOps,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
+DevOps,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball",
+DevOps,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,fficial [Julia Package list,http://pkg.julialang.org/),
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Uncurated,https://github.com/JuliaRegistries/Uncurated,"The official, public, uncurated registry of Julia packages."
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,NettleBuilder,https://github.com/staticfloat/NettleBuilder/,BinaryBuilder repo for `libnettle`.
+DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
+DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
+DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
+DevOps,Ansible,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/,
+DevOps,Ansible,julia-ansible-scripts,https://github.com/staticfloat/julia-ansible-scripts,"Various julia ansible scripts for provisioning servers, buildbots etc..."
+DevOps,Docker,Docker,https://registry.hub.docker.com/_/julia/) image for Julia,
+DevOps,Docker,julia,https://github.com/docker-library/julia,Docker Official Image packaging for [Julia](http://julialang.org/).
+DevOps,Docker,RudeOil.jl,https://github.com/UCL/RudeOil.jl,A package to easily interact with docker and docker-machine.
+DevOps,Vagrant,julia-vagrant,https://github.com/staticfloat/julia-vagrant,Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
+DevOps,Debian-Ubuntu,APT.jl,https://github.com/bbshortcut/APT.jl,"A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists."
+DevOps,Debian-Ubuntu,DebbyPacker.jl,https://github.com/UCL/DebbyPacker.jl,Set of scripts to easily create debian packages.
+DevOps,Fedora-RHEL,RPMmd.jl,https://github.com/ihnorton/RPMmd.jl,A front-end installer for RPM-md packages and a fork of WinRPM.jl.
+DevOps,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
+DevOps,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
+DevOps,Executables,BuildExecutable.jl,https://github.com/dhoegh/BuildExecutable.jl,Build standalone executables from a Julia script.
+DevOps,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
+DevOps,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
+DevOps,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
+DevOps,Packaging,PrivateModules.jl,https://github.com/JuliaPackageMirrors/PrivateModules.jl,Julia package mirror.
+DevOps,Packaging,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
+DevOps,Packaging,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
+DevOps,Packaging,JuliaArchive,https://JuliaArchive.github.io,Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
+DevOps,Packaging,Compat.jl,https://github.com/JuliaLang/Compat.jl,A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
+DevOps,Packaging,DeclarativePackages.jl,https://github.com/rened/DeclarativePackages.jl,"(jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details."
+DevOps,Packaging,Julia Ecosystem Status,http://status.julialang.org/,Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
+DevOps,Packaging,julia-buildbot,https://github.com/staticfloat/julia-buildbot,Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
+DevOps,Packaging,julia-require,https://github.com/MetalNinjas/julia-require,Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
+DevOps,Packaging,JPM.jl,https://github.com/MikeInnes/JPM.jl,Decentralised Julia Packages.
+DevOps,Packaging,Kip.jl,https://github.com/jkroso/Kip.jl,A metadata free package manager for Julia.
+DevOps,Packaging,LibALPM.jl,https://github.com/yuyichao/LibALPM.jl,"Wrapper for libalpm, the ArchLinux package manager."
+DevOps,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/PackageEvaluator.jl,The Julia package evaluator.
+DevOps,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
+DevOps,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
+DevOps,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
+DevOps,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
+DevOps,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,"A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments."
+DevOps,NEWS,Devops Weekly,http://www.devopsweekly.com/),
 Earth-Science,AERONAUTICS,Rotations.jl,https://github.com/ronisbr/Rotations.jl,"Functions related to rotations of coordinate frames, angle2dcm, dcm2angle."
 Earth-Science,AERONAUTICS,Quaternions.jl,https://github.com/forio/Quaternions.jl,A Julia module with quaternion and dual-quaternion functionality.
 Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),ClimateTools.jl,https://github.com/Balinus/ClimateTools.jl,This package is a collection of commonly-used tools in Climate Science.
@@ -1500,40 +1501,43 @@ QA,UNITTEST,testfast.jl,https://github.com/Veraticus/testfast.jl,Automatically f
 QA,UNITTEST,UnitTest.jl,https://github.com/analyzere/UnitTest.jl,"Another unit-testing library for Julia, that provides nose test style output to the command line and is capable of producing an junit compatible xml result file."
 Resources,COMMUNITY,he [discourse,https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of this FOSS alternative),
 Resources,COMMUNITY,he official list of resources to [learn Julia,http://julialang.org/learning/),
-Resources,COMMUNITY,Julia page at Wikipedia,https://en.wikipedia.org/wiki/Julia_%28programming_language%29),
-Resources,COMMUNITY,Reddit,http://www.reddit.com/r/Julia/,
-Resources,COMMUNITY,Stackoverflow,http://stackoverflow.com/questions/tagged/julia-lang,
-Resources,COMMUNITY,Julialang news on Twitter,https://twitter.com/julialang_news,
 Resources,ContributingtoJuliacoredevelopment,Documentation bugs,https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc),
 Resources,ContributingtoJuliacoredevelopment,he [up for grabs,https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_,
 Resources,ContributingtoJuliacoredevelopment,ainNZ lists [Ways to contribute to the Julia ecosystem,https://github.com/IainNZ/ContributeToJulia,
-Resources,ContributingtoJuliacoredevelopment,NEWS,https://github.com/JuliaLang/julia/blob/master/NEWS.md,"Track the Julia release notes, changes, new language features, library improvements,..."
-Resources,ContributingtoJuliacoredevelopment,ThisWeekInJulia,http://thisweekinjulia.github.io,A blog detailing major updates and changes to the Julia language.
+Resources,NEWS,he official [Julia language blog,http://julialang.org/blog/,
+Resources,NEWS,NEWS,https://github.com/JuliaLang/julia/blob/master/NEWS.md,"Track the Julia release notes, changes, new language features, library improvements,..."
+Resources,NEWS,ThisWeekInJulia,http://thisweekinjulia.github.io,A blog detailing major updates and changes to the Julia language.
+Resources,NEWS,Julia page at Wikipedia,https://en.wikipedia.org/wiki/Julia_%28programming_language%29),
+Resources,NEWS,Reddit,http://www.reddit.com/r/Julia/,
+Resources,NEWS,Stackoverflow,http://stackoverflow.com/questions/tagged/julia-lang,
+Resources,NEWS,Julialang news on Twitter,https://twitter.com/julialang_news,
+Resources,InterestingblogsonJulia-(varioustopics).,Why 1-based indexing is *OK*,https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok,
+Resources,InterestingblogsonJulia-(varioustopics).,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
+Resources,InterestingblogsonJulia-(varioustopics).,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
+Resources,InterestingblogsonJulia-(varioustopics).,Julia Package Ecosystem Dependency Graphs,http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning,
+Resources,InterestingblogsonJulia-(varioustopics).,Values vs. Bindings: The Map is Not the Territory,http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/,
+Resources,InterestingblogsonJulia-(varioustopics).,Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,
+Resources,InterestingblogsonJulia-(varioustopics).,"Helpful Julia functions: help, methods, etc..",http://blog.leahhanson.us/julia-helps.html) by Leah Hanson,
+Resources,InterestingblogsonJulia-(varioustopics).,sing [JuMP to Solve a TSP with Lazy Constraints,http://iaindunning.com/2013/mip-callback.html,
+Resources,InterestingblogsonJulia-(varioustopics).,lasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza,https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school,
+Resources,InterestingblogsonJulia-(varioustopics).,Getting comfortable with the julia programming language,http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language,
+Resources,InterestingblogsonJulia-(varioustopics).,Cool things you can do in Julia,http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia,
+Resources,InterestingblogsonJulia-(varioustopics).,ow to [call Python libraries,http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia,
+Resources,InterestingblogsonJulia-(varioustopics).,Exploratory-type functions/tools,http://blog.leahhanson.us/julia-helps.html,
+Resources,InterestingblogsonJulia-(varioustopics).,nother opinion on [Julia first impressions,http://eyeballtrees.com/posts/julia-impressions.html,
+Resources,InterestingblogsonJulia-(varioustopics).,"Fun With Just-In-Time Compiling: Julia, Python, R and pqR",http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch,
+Resources,InterestingblogsonJulia-(varioustopics).,Tabular Data I/O in Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch,
+Resources,InterestingblogsonJulia-(varioustopics).,John Myles White recounts his JuliaCon experience,http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/,
+Resources,InterestingblogsonJulia-(varioustopics).,Julia at EuroSciPy 2014,https://github.com/stevengj/Julia-EuroSciPy14),
+Resources,InterestingblogsonJulia-(varioustopics).,Julia Vs. R,https://github.com/johnmyleswhite/JuliaVsR,
+Resources,InterestingblogsonJulia-(varioustopics).,Importing tabular data into Julia,"http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC",
+Resources,Media,Why the creators of the Julia programming language just launched a startup,http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/),
+Resources,Media,013 : [Viral Shah's interview,http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/,
 Resources,BOOKS,Learn Julia the Hard Way,https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way),
 Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_,https://github.com/scidom/hmc_and_zv_book_chapter.jl) book,
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
 Resources,BOOKS,ThinkJulia.jl,https://github.com/BenLauwens/ThinkJulia.jl,Port of the book `Think Python` to the Julia programming language.
-Resources,BLOGS,he official [Julia language blog,http://julialang.org/blog/,
-Resources,Blogs,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
-Resources,Blogs,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
-Resources,Blogs,Julia Package Ecosystem Dependency Graphs,http://iaindunning.com/2014/pkg-deps.html) by Iain Dunning,
-Resources,Blogs,Values vs. Bindings: The Map is Not the Territory,http://www.johnmyleswhite.com/notebook/2014/09/06/values-vs-bindings-the-map-is-not-the-territory/,
-Resources,Blogs,Julia vs. Python: Monte Carlo Simulations of Bitcoin Options,http://rawrjustin.github.io/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/,
-Resources,Blogs,"Helpful Julia functions: help, methods, etc..",http://blog.leahhanson.us/julia-helps.html) by Leah Hanson,
-Resources,Blogs,sing [JuMP to Solve a TSP with Lazy Constraints,http://iaindunning.com/2013/mip-callback.html,
-Resources,Blogs,lasdair McAndrew blogs about investigating the [fitting of an SIR model of disease spread to an outbreak of influenza,https://amca01.wordpress.com/2014/01/08/meeting-julia/) at a boarding school,
-Resources,Blogs,Getting comfortable with the julia programming language,http://assoc.tumblr.com/post/70484963303/getting-comfortable-with-the-julia-programming-language,
-Resources,Blogs,Cool things you can do in Julia,http://assoc.tumblr.com/post/71454527084/cool-things-you-can-do-in-julia,
-Resources,Blogs,ow to [call Python libraries,http://blog.leahhanson.us/julia-calling-python-calling-julia.html) in Julia,
-Resources,Blogs,Exploratory-type functions/tools,http://blog.leahhanson.us/julia-helps.html,
-Resources,Blogs,nother opinion on [Julia first impressions,http://eyeballtrees.com/posts/julia-impressions.html,
-Resources,Blogs,"Fun With Just-In-Time Compiling: Julia, Python, R and pqR",http://randyzwitch.com/python-pypy-julia-r-pqr-jit-just-in-time-compiler/) by @randyzwitch,
-Resources,Blogs,Tabular Data I/O in Julia,http://www.r-bloggers.com/tabular-data-io-in-julia/) by Randy Zwitch,
-Resources,Blogs,John Myles White recounts his JuliaCon experience,http://www.johnmyleswhite.com/notebook/2014/06/30/my-experience-at-juliacon/,
-Resources,Blogs,Julia at EuroSciPy 2014,https://github.com/stevengj/Julia-EuroSciPy14),
-Resources,Blogs,Julia Vs. R,https://github.com/johnmyleswhite/JuliaVsR,
-Resources,Blogs,Importing tabular data into Julia,"http://www.r-bloggers.com/tabular-data-io-in-julia/) can be done in (at least) three ways: reading a delimited file into an array, reading a delimited file into a DataFrame and accessing databases using ODBC",
 Resources,CHEATSHEETS,Julia-cheatsheet.pdf,http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf,StevenJ's Julia cheatsheet.
 Resources,CHEATSHEETS, [Julia Types,https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay,
 Resources,CHEATSHEETS,Julia cheatsheet,http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski,
@@ -1611,8 +1615,6 @@ Resources,JUPYTERNOTEBOOKS,JuliaWorkshop2015,https://github.com/arinbasu/JuliaWo
 Resources,JUPYTERNOTEBOOKS,learn-julia,https://github.com/aviks/learn-julia) : Another Julia Tutorial,
 Resources,JUPYTERNOTEBOOKS,mcrib.jl,https://gitlab.com/parindie/parindie.mcrib.jl,A couple of jupyter mathbook notes taken while learning julia language.
 Resources,JUPYTERNOTEBOOKS,SSAI,https://github.com/simonbyrne/SSAI,Jupyter notebooks introducing you to scientific programming with Julia.
-Resources,Media,Why the creators of the Julia programming language just launched a startup,http://venturebeat.com/2015/05/18/why-the-creators-of-the-julia-programming-language-just-launched-a-startup/),
-Resources,Media,013 : [Viral Shah's interview,http://analyticsindiamag.com/interview-viral-shah-co-creator-of-julia/,
 Resources,SLIDES,Presentations,https://github.com/JuliaCon/presentations) for JuliaCon,
 Resources,SLIDES,JuliaCon Slides and Presentations,https://github.com/JuliaCon/presentations,
 Resources,SLIDES,BAJU-WhatsNew,https://github.com/tkelman/BAJU-WhatsNew,Bay Area Julia Users talk from Oct 29th 2015.
