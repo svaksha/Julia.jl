@@ -557,18 +557,6 @@ DevOps,Binaries,SnappyBuilder,https://github.com/davidanthoff/SnappyBuilder,Bina
 DevOps,Binaries,Conda.jl,https://github.com/Luthaf/Conda.jl,Conda managing Julia binary dependencies.
 DevOps,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com/bin/linux/x64/0.3/julia-0.3.9-linux-x86_64.tar.gz), as a gzipped tar ball",
 DevOps,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,fficial [Julia Package list,http://pkg.julialang.org/),
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Uncurated,https://github.com/JuliaRegistries/Uncurated,"The official, public, uncurated registry of Julia packages."
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,NettleBuilder,https://github.com/staticfloat/NettleBuilder/,BinaryBuilder repo for `libnettle`.
-DevOps,Package/InfrastructuremanagementtoolsandDocumentation,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
-DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
-DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 DevOps,Ansible,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/,
 DevOps,Ansible,julia-ansible-scripts,https://github.com/staticfloat/julia-ansible-scripts,"Various julia ansible scripts for provisioning servers, buildbots etc..."
 DevOps,Docker,Docker,https://registry.hub.docker.com/_/julia/) image for Julia,
@@ -581,25 +569,37 @@ DevOps,Fedora-RHEL,RPMmd.jl,https://github.com/ihnorton/RPMmd.jl,A front-end ins
 DevOps,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md processing library - WinRPM is an installer for RPM packages provided by an RPM-md build system.
 DevOps,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
 DevOps,Executables,BuildExecutable.jl,https://github.com/dhoegh/BuildExecutable.jl,Build standalone executables from a Julia script.
-DevOps,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
-DevOps,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
-DevOps,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
-DevOps,Packaging,PrivateModules.jl,https://github.com/JuliaPackageMirrors/PrivateModules.jl,Julia package mirror.
+DevOps,Packaging,fficial [Julia Package list,http://pkg.julialang.org/),
 DevOps,Packaging,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
 DevOps,Packaging,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 DevOps,Packaging,JuliaArchive,https://JuliaArchive.github.io,Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
+DevOps,Packaging,Pkg3.jl,https://github.com/StefanKarpinski/Pkg3.jl,Next-generation package manager for Julia.
+DevOps,Packaging,Uncurated,https://github.com/JuliaRegistries/Uncurated,"The official, public, uncurated registry of Julia packages."
+DevOps,Packaging,Julia Ecosystem Status,http://status.julialang.org/,Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
 DevOps,Packaging,Compat.jl,https://github.com/JuliaLang/Compat.jl,A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.
 DevOps,Packaging,DeclarativePackages.jl,https://github.com/rened/DeclarativePackages.jl,"(jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details."
-DevOps,Packaging,Julia Ecosystem Status,http://status.julialang.org/,Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
+DevOps,Packaging,EasyPkg.jl,https://github.com/oschulz/EasyPkg.jl,A Julia package to simplify package development.
+DevOps,Packaging,Help.jl,https://github.com/nkottary/Help.jl,Reverse documentation for Julia.
 DevOps,Packaging,julia-buildbot,https://github.com/staticfloat/julia-buildbot,Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 DevOps,Packaging,julia-require,https://github.com/MetalNinjas/julia-require,Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
+DevOps,Packaging,JuliaPackageMirrors,https://github.com/JuliaPackageMirrors,An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
+DevOps,Packaging,mirror-updater,https://github.com/JuliaPackageMirrors/mirror-updater,Update script for JuliaPackageMirrors.
+DevOps,Packaging,PrivateModules.jl,https://github.com/JuliaPackageMirrors/PrivateModules.jl,Julia package mirror.
+DevOps,Packaging,Julz.jl,https://github.com/djsegal/Julz.jl,Opinionated Framework for Developing Packages.
 DevOps,Packaging,JPM.jl,https://github.com/MikeInnes/JPM.jl,Decentralised Julia Packages.
 DevOps,Packaging,Kip.jl,https://github.com/jkroso/Kip.jl,A metadata free package manager for Julia.
 DevOps,Packaging,LibALPM.jl,https://github.com/yuyichao/LibALPM.jl,"Wrapper for libalpm, the ArchLinux package manager."
+DevOps,Packaging,MetadataTools.jl,https://github.com/JuliaPackaging/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
+DevOps,Packaging,NettleBuilder,https://github.com/staticfloat/NettleBuilder/,BinaryBuilder repo for `libnettle`.
+DevOps,Packaging,Nix.jl,https://github.com/JuliaPackaging/Nix.jl,Package manager for Julia.
 DevOps,Packaging,PackageEvaluator.jl,https://github.com/IainNZ/PackageEvaluator.jl,The Julia package evaluator.
+DevOps,Packaging,PkgDev.jl,https://github.com/JuliaLang/PkgDev.jl,Julia Package Development Kit.
 DevOps,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools for analyzing Julia packages.
 DevOps,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
 DevOps,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
+DevOps,Packaging,VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
+DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
+DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 DevOps,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
 DevOps,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,"A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments."
 DevOps,NEWS,Devops Weekly,http://www.devopsweekly.com/),

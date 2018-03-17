@@ -58,26 +58,6 @@ __Pre-compiled Binaries__
 + Build an executable binary with [this script](https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl).
 
 
-### Package/Infrastructure management tools and Documentation
-+ Official [Julia Package list](http://pkg.julialang.org/).
-+ [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
-+ [Pkg3.jl](https://github.com/StefanKarpinski/Pkg3.jl) :: Next-generation package manager for Julia.
-+ [Uncurated](https://github.com/JuliaRegistries/Uncurated) :: The official, public, uncurated registry of Julia packages.
-+ [MetadataTools.jl](https://github.com/JuliaPackaging/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
-   - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
-   - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
-   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
-+ [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
-+ [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
-+ [Julz.jl](https://github.com/djsegal/Julz.jl) :: Opinionated Framework for Developing Packages.
-+ [NettleBuilder](https://github.com/staticfloat/NettleBuilder/) :: BinaryBuilder repo for `libnettle`.
-+ [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) :: Package manager for Julia.
-
-##### DOCS
-+ Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
-+ The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
-      - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
-
 [//]: # (######################################################################)
 [//]: # ( Platform independent comment line between multiple sub-sections )
 [//]: # (######################################################################)
@@ -123,25 +103,46 @@ __Pre-compiled Binaries__
 [//]: # (######################################################################)
 
 ## Packaging
-+ [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
-+ [JuliaPackageMirrors](https://github.com/JuliaPackageMirrors) :: An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
-    + [mirror-updater](https://github.com/JuliaPackageMirrors/mirror-updater) :: Update script for JuliaPackageMirrors.
-    + [PrivateModules.jl](https://github.com/JuliaPackageMirrors/PrivateModules.jl) :: Julia package mirror.
+__Package/Infrastructure management tools and Documentation__
+
++ Official [Julia Package list](http://pkg.julialang.org/).
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    + [JuliaArchive](https://JuliaArchive.github.io) :: Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
++ [Pkg3.jl](https://github.com/StefanKarpinski/Pkg3.jl) :: Next-generation package manager for Julia.
++ [Uncurated](https://github.com/JuliaRegistries/Uncurated) :: The official, public, uncurated registry of Julia packages.
++ [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
+
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
-+ [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
++ [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
++ [Help.jl](https://github.com/nkottary/Help.jl) :: Reverse documentation for Julia.
 + [julia-buildbot](https://github.com/staticfloat/julia-buildbot) :: Buildbot configuration for build.julialang.org. It is written in Python and is listed by virtue of being a tool used within the Julia ecosystem.
 + [julia-require](https://github.com/MetalNinjas/julia-require) :: Macros to make loading (and reloading) files in Julia easier. {__NB: Not maintained for the current Julia releases__}.
++ [JuliaPackageMirrors](https://github.com/JuliaPackageMirrors) :: An organization that mirrors/archives and tracks METADATA - the official Julia package manager for all registered Julia packages.
+    + [mirror-updater](https://github.com/JuliaPackageMirrors/mirror-updater) :: Update script for JuliaPackageMirrors.
+    + [PrivateModules.jl](https://github.com/JuliaPackageMirrors/PrivateModules.jl) :: Julia package mirror.
++ [Julz.jl](https://github.com/djsegal/Julz.jl) :: Opinionated Framework for Developing Packages.
 + [JPM.jl](https://github.com/MikeInnes/JPM.jl) :: Decentralised Julia Packages.
 + [Kip.jl](https://github.com/jkroso/Kip.jl) :: A metadata free package manager for Julia.
 + [LibALPM.jl](https://github.com/yuyichao/LibALPM.jl) :: Wrapper for libalpm, the ArchLinux package manager.
++ [MetadataTools.jl](https://github.com/JuliaPackaging/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
+   - [packages.julialang.org](https://github.com/IainNZ/packages.julialang.org) :: Concept for a next-gen package listing.
+   - [cache.julialang.org](https://github.com/staticfloat/cache.julialang.org) :: Super-simple bottle-caching infrastructure for the site.
+   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)   
++ [NettleBuilder](https://github.com/staticfloat/NettleBuilder/) :: BinaryBuilder repo for `libnettle`.
++ [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) :: Package manager for Julia.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
++ [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
 + [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
++ [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) :: flexible VersionNumber parsing in Julia. 
+
+##### DOCS
++ Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
++ The [Julia package manager manual](http://docs.julialang.org/en/latest/manual/packages/)
+   - [Package Development Documentation](http://docs.julialang.org/en/latest/manual/packages/#package-development)
 
 [//]: # (######################################################################)
 
