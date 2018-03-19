@@ -2223,20 +2223,30 @@ Utilities,GTK,GtkApps.jl,https://github.com/tknopp/GtkApps.jl,GTK Apps by @tknop
 Utilities,GTK,GtkInteract.jl,https://github.com/jverzani/GtkInteract.jl,Part of Interact.jl functionality with Gtk.
 Utilities,IDE,Acorn.jl,https://github.com/nick-paul/Acorn.jl,A pure julia text editor.
 Utilities,IDE,BlinkEditor.jl,https://github.com/EricForgy/BlinkEditor.jl,A simple Blink editor based on Mike Innes' JuliaCon 2015 presentation.
+Utilities,IDE,CSSUtil,https://github.com/JuliaGizmos/CSSUtil,
 Utilities,IDE,jEdit-julia,https://github.com/tuckerkevin/jedit-julia,A jEdit mode for Julia.
 Utilities,IDE,Jewel.jl,https://github.com/MikeInnes/Jewel.jl,is the Julia package which handles communication with Light Table for Jewel.
 Utilities,IDE,JuliaDT.jl,https://github.com/JuliaComputing/JuliaDT,Julia Development Toolkit for Eclipse.
 Utilities,IDE,julia-ide,https://github.com/malmaud/julia-ide,YAJI.
+Utilities,IDE,Jewel.jl,https://github.com/JuliaIDE/Jewel.jl,IDE backend for Julia.
+Utilities,IDE,Julia-LT,https://github.com/JuliaIDE/Julia-LT,Julia plugin for Light Table.
+Utilities,IDE,June-LT,https://github.com/JuliaIDE/June-LT,The June themes for Light Table.
+Utilities,IDE,JunoLTDistro,https://github.com/JuliaIDE/JunoLTDistro,Juno-LT Distribution & Installer.
+Utilities,IDE,Juno-LT,https://github.com/JuliaIDE/Juno-LT,A Julia environment built on Light Table. [JunoLab](http://junolab.org).
 Utilities,IDE,Julia-Studio,http://forio.com/products/julia-studio/,Julia Studio by Forio.com and [Tutorials for Julia-Studio](http://forio.com/products/julia-studio/tutorials/) and its [source on github](https://github.com/forio/julia-tutorials).
 Utilities,IDE,Julia.tmbundle,https://github.com/JuliaLang/Julia.tmbundle,Julia language support for TextMate 2 (and Sublime Text).
 Utilities,IDE,Julia-Vim,https://github.com/JuliaLang/julia-vim),
 Utilities,IDE,Julietta.jl,https://github.com/tknopp/Julietta.jl,An integrated developement environment (IDE) for the programming language Julia.
 Utilities,IDE,Juno-LT,https://github.com/MikeInnes/Juno-LT,A Julia environment built on Light Table.
+Utilities,IDE,Interact.jl,https://github.com/JuliaLang/Interact.jl,Library for interactive widgets in IJulia.
+Utilities,IDE,InteractNext.jl,https://github.com/JuliaGizmos/InteractNext.jl,"is a lot like Interact.jl, except that as well as running in IJulia, it also works in the Atom/Juno IDE, in a desktop window with `Blink.jl`, and served in a webpage via `Mux.jl`."
 Utilities,IDE,Liclipse,http://brainwy.github.io/liclipse/,"LiClipse, Eclipse plus some customizations, supports Julia."
 Utilities,IDE,Neovim.jl,https://github.com/bfredl/Neovim.jl) by @bfred,Neovim client for Julia.
+Utilities,IDE,Reminisce,https://github.com/JuliaIDE/Reminisce,Sublime-style saving of tabs and content for Light Table.
 Utilities,IDE,Sublime-Julia,https://github.com/quinnj/Sublime-Julia,"Sublime Syntax, Build, Snippets, and REPL for the Julia language."
 Utilities,IDE,JuliaCompletions,https://github.com/jakeconnor/JuliaCompletions,Make all of Julia's UTF-8 autocompletions available in Sublime Text.
 Utilities,IDE,vim-notebook,https://github.com/baruchel/vim-notebook,Vim users can use Julia from the `vim-notebook` plugin.
+Utilities,IDE,WebIO.jl,https://github.com/JuliaGizmos/WebIO.jl) : A DSL for web-based widgets in Julia,
 Utilities,Atom,Atom.jl,https://github.com/JunoLab/Atom.jl,Julia Client for Atom.
 Utilities,Atom,atom-language-julia,https://github.com/JuliaLang/atom-language-julia,A Julia language support package for the Atom editor.
 Utilities,Atom,atom-julia-client,https://github.com/JunoLab/atom-julia-client,Julia Eval in Atom.
@@ -2246,16 +2256,6 @@ Utilities,Atom,Juno-Bundle-for-Windows,https://github.com/YaoLuCNS/Juno-Bundle-f
 Utilities,Emacs,emacs-ess-julia.el,https://github.com/emacs-ess/ESS/blob/master/lisp/ess-julia.el,"ESS support for julia language, includes font-lock, indentation, sending code to sub-process, interactive documentation, imenu, completion and eldoc."
 Utilities,Emacs,julia-emacs,https://github.com/JuliaLang/julia-emacs,Julia support in Emacs.
 Utilities,Emacs,julia-repl,https://github.com/tpapp/julia-repl,Run an inferior Julia REPL in a terminal inside Emacs.
-Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),CSSUtil,https://github.com/JuliaGizmos/CSSUtil,
-Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),Interact.jl,https://github.com/JuliaLang/Interact.jl,Library for interactive widgets in IJulia.
-Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),InteractNext.jl,https://github.com/JuliaGizmos/InteractNext.jl,"is a lot like Interact.jl, except that as well as running in IJulia, it also works in the Atom/Juno IDE, in a desktop window with `Blink.jl`, and served in a webpage via `Mux.jl`."
-Utilities,Org-[JuliaGizmos](https://github.com/JuliaGizmos/),WebIO.jl,https://github.com/JuliaGizmos/WebIO.jl) : A DSL for web-based widgets in Julia,
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Jewel.jl,https://github.com/JuliaIDE/Jewel.jl,IDE backend for Julia.
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Julia-LT,https://github.com/JuliaIDE/Julia-LT,Julia plugin for Light Table.
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),June-LT,https://github.com/JuliaIDE/June-LT,The June themes for Light Table.
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),JunoLTDistro,https://github.com/JuliaIDE/JunoLTDistro,Juno-LT Distribution & Installer.
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Juno-LT,https://github.com/JuliaIDE/Juno-LT,A Julia environment built on Light Table. [JunoLab](http://junolab.org).
-Utilities,Org-[JuliaIDE](https://github.com/JuliaIDE),Reminisce,https://github.com/JuliaIDE/Reminisce,Sublime-style saving of tabs and content for Light Table.
 Utilities,[Jupyter](https://github.com/jupyter),Autoreload.jl,https://github.com/malmaud/Autoreload.jl,"A package for autoreloading files for interactive work in IJulia - Modeled after IPython's autoreload extension, it will automatically reload any specified julia source files that have been modified."
 Utilities,[Jupyter](https://github.com/jupyter),Colaboratory,https://github.com/jupyter/colaboratory,Create and store notebooks in Google Drive and allow for collaborative editing of notebooks.
 Utilities,[Jupyter](https://github.com/jupyter),ErrorLineNumber.jl,https://github.com/StephenVavasis/ErrorLineNumber.jl,Address line number bug in Julia 0.4 error reporting.
