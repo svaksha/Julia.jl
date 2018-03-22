@@ -488,6 +488,7 @@ DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,"channels(), tspaces(), kvspaces() and more."
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM)."
+DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Parsers.jl,https://github.com/quinnj/Parsers.jl),
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ResultTypes.jl,https://github.com/iamed2/ResultTypes.jl, A Result type for Julia—it's like Nullables for Exceptions.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
@@ -1459,11 +1460,12 @@ Publications,RESEARCHPAPERS,"hah, Viral B., et al. _[Novel Algebras for Advanced
 Publications,RESEARCHPAPERS,"ezanson Jeff, et al. _[Julia: A fresh approach to numerical computing","http://arxiv.org/abs/1411.1607)_, 07-November-2014",
 Publications,OpenPortals,"016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing",https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_,
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
+QA,,ow to do [test driven development (TDD),https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia,
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,https://github.com/MikeInnes/Digger.jl,Digger is a fuzz tester designed to fish bugs out of Dagger.jl
 QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 QA,CONTINUOUSINTEGRATION,erge your Julia code with mainline to test it on a [Travis-CI build server,https://travis-ci.org/JuliaLang/),
 QA,CONTINUOUSINTEGRATION,TestDocs.jl,https://github.com/simonbyrne/TestDocs.jl,A test package to try to automatically build docs on travis.
-QA,Org-[Julia-CI](https://github.com/julia-ci),TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
+QA,CONTINUOUSINTEGRATION,TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
 QA,Git-Hooks,julia-helper,https://github.com/jiahao/julia-helper,Scripts to help Julia developers.
 QA,Debugging,DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
 QA,Debugging,RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
