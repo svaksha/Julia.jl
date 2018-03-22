@@ -176,6 +176,7 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl) :: Experimental Julia interface to `slurm.schedmd.com`.
 
 ### [SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing) 
++ [MPIArrays.jl](https://github.com/barche/MPIArrays.jl) :: Distributed arrays based on MPI onesided communication.
 + [SIMD.jl](https://github.com/eschnett/SIMD.jl) :: Explicit SIMD vector operations for Julia.
 + [SIMDVectors.jl](https://github.com/KristofferC/SIMDVectors.jl) :: An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 + [Yeppp.jl](https://github.com/JuliaLang/Yeppp.jl) :: A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp).
