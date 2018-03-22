@@ -61,6 +61,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ----
 
 # NOSQL
++ [CQLdriver.jl](https://github.com/r3tex/CQLdriver.jl) :: A Julia package for interfacing with CQL compliant databases. 
 
 ## LMDB
 + [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
