@@ -75,7 +75,7 @@ The Julia community has [ethical guidelines](http://julialang.org/community/stan
 
 
 ## Package Status
-These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
+Please note that this repo lists packages that are outdated and/or worked on older versions of Julia. These continue to remain listed as its openly available along with the hope that someone may want to continue with the work as a fork as it aligns with their research or work. These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not. 
 
 Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria : 
 

@@ -692,6 +692,7 @@ Graphics,GRAPHICS,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++
 Graphics,GRAPHICS,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
 Graphics,GRAPHICS,Painter.jl,https://github.com/andferrari/Painter.jl,A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
 Graphics,GRAPHICS,PerceptualColourMaps.jl,https://github.com/peterkovesi/PerceptualColourMaps.jl,Perceptually Uniform Colour Maps for Julia.
+Graphics,GRAPHICS,PGFPlotsX.jl,https://github.com/KristofferC/PGFPlotsX.jl,Seamlessly create plots in Julia using the PGFPlots LaTeX package.
 Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
 Graphics,GRAPHICS,Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
 Graphics,GRAPHICS,Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
@@ -896,7 +897,6 @@ Mathematics,MATH,BasisFunctions.jl,https://github.com/daanhb/BasisFunctions.jl,"
 Mathematics,MATH,Bijections.jl,https://github.com/scheinerman/Bijections.jl,Bijection datatype for Julia.
 Mathematics,MATH,Church.jl,https://github.com/LaurenceA/Church.jl,"helps you perform inference in complex, and simple, probabilistic models."
 Mathematics,MATH,Cartesian.jl,https://github.com/timholy/Cartesian.jl,Fast multidimensional algorithms.
-Mathematics,MATH,Catalan.jl,https://github.com/andrioni/Catalan.jl,a combinatorics library for Julia.
 Mathematics,MATH,CRF.jl,https://github.com/slyrz/CRF.jl,Conditional Random Fields in Julia.
 Mathematics,MATH,CellularAutomata.jl,https://github.com/natj/CellularAutomata.jl,Cellular Automata package.
 Mathematics,MATH,ContinuedFractions.jl,https://github.com/johnmyleswhite/ContinuedFractions.jl,Types and functions for working with continued fractions in Julia.
@@ -977,6 +977,7 @@ Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,"A computer algebra package for 
 Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
 Mathematics,ALGEBRA,PolynomialRoots.jl,https://github.com/giordano/PolynomialRoots.jl,"Fast complex polynomial root finder, with support for arbitrary precision calculations"
 Mathematics,ALGEBRA,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
+Mathematics,ALGEBRA,Reduce.jl,https://github.com/chakravala/Reduce.jl,Symbolic parser generator for Julia language expressions using REDUCE algebra term rewrite system.
 Mathematics,ALGEBRA,Remez.jl,https://github.com/simonbyrne/Remez.jl,Remez algorithm for computing minimax polynomial approximations.
 Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
@@ -1026,7 +1027,7 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
-Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayMeta.jl,https://github.com/shashi/ArrayMeta.j,metaprogramming for Julia arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayMeta.jl,https://github.com/shashi/ArrayMeta.jl,metaprogramming for Julia arrays.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),AxisAlgorithms.jl,https://github.com/timholy/AxisAlgorithms.jl,Efficient filtering and linear algebra routines for multidimensional arrays.
@@ -1035,7 +1036,7 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),CatIndices.jl,https://github.com/JuliaArrays/CatIndices.jl,Julia package for indices-aware array concatenation and growth.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),CategoricalArrays.jl,https://github.com/JuliaData/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
-Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),DataFrames.jl,https://github.com/JuliaData/DataFrames.jl,Library for working with tabular data in Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),DataFrames.jl,https://github.com/JuliaData/DataFrames.jl,Library for working with tabular data in Julia. [Documentation](https://juliadata.github.io/DataFrames.jl/stable/man/getting_started.html).
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),DataFramesMeta.jl,https://github.com/JuliaStats/DataFramesMeta.jl,Metaprogramming tools for DataFrames and Associative objects. These macros improve performance and provide more convenient syntax.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),EndpointRanges.jl,https://github.com/JuliaArrays/EndpointRanges.jl,Julia package for doing arithmetic on endpoints in array indexing.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
@@ -1196,22 +1197,25 @@ Mathematics,Resources,NumericalMath’s documentation for Integration,http://hwb
 Mathematics,Resources,FinealeBook.jl,https://github.com/goedman/FinealeBook.jl,Trying to understand Petr Krysl's FinEALE book.
 Mathematics,[SpecialFunctions](http://en.wikipedia.org/wiki/Category:Special_functions),LambertW.jl,https://github.com/jlapeyre/LambertW.jl,A package implementing the Lambert_W function and associated omega constant.
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Complementarity.jl,https://github.com/chkwon/Complementarity.jl,"This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl."
+Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Fatou.jl,https://github.com/chakravala/Fatou.jl,"Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,"Closed intervals of the form [a,b]."
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteInference.jl,https://github.com/lindahua/DiscreteInference.jl,Viterbi algorithm.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Intervals.jl,https://github.com/andrioni/Intervals.jl,"A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library."
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IntModN.jl,https://github.com/andrewcooke/IntModN.jl,Ring(s) of Integers Modulo-N.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IntsWithInfinty.jl,https://github.com/Jeffrey-Sarnoff/IntsWithInfinty.jl,Ints augmented with Infinity.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IPPMath.jl,https://github.com/lindahua/IPPMath.jl,A Julia package for vectorized math computation based on Intel IPP.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PermPlain.jl,https://github.com/jlapeyre/PermPlain.jl,"Permutations implemented with plain data types - This package implements methods for manipulating permutations. The methods operate on data types in the Base module, or in modules providing generic data types."
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Permutations.jl,https://github.com/scheinerman/Permutations.jl) by @scheinerma,Permutations class for Julia.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PermutationsA.jl,https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyr,Permutation data types and methods.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PrimeSieve.jl,https://github.com/jlapeyre/PrimeSieve.jl,This package provides an interface to tables of primes and a sieve library.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),RomanNumerals.jl,https://github.com/anthonyclays/RomanNumerals.jl,Support for Roman numerals in Julia.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Shannon.jl,https://github.com/kzahedi/Shannon.jl,"Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data."
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),SimplePosets.jl,https://github.com/scheinerman/SimplePosets.jl,Simple partially ordered sets for Julia.
-Mathematics,[DiscreteMath](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ZChop.jl,https://github.com/jlapeyre/ZChop.jl,"This package replaces small numbers with zero, works on complex and rational numbers, arrays, and some other structures. The idea is for zchop to descend into structures, chopping numbers, and acting as the the identity on anything that can't be sensibly compared to eps."
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,"Closed intervals of the form [a,b]."
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteInference.jl,https://github.com/lindahua/DiscreteInference.jl,Viterbi algorithm.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Intervals.jl,https://github.com/andrioni/Intervals.jl,"A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library."
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IntModN.jl,https://github.com/andrewcooke/IntModN.jl,Ring(s) of Integers Modulo-N.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IntsWithInfinty.jl,https://github.com/Jeffrey-Sarnoff/IntsWithInfinty.jl,Ints augmented with Infinity.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IPPMath.jl,https://github.com/lindahua/IPPMath.jl,A Julia package for vectorized math computation based on Intel IPP.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PermPlain.jl,https://github.com/jlapeyre/PermPlain.jl,"Permutations implemented with plain data types - This package implements methods for manipulating permutations. The methods operate on data types in the Base module, or in modules providing generic data types."
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Permutations.jl,https://github.com/scheinerman/Permutations.jl) by @scheinerma,Permutations class for Julia.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PermutationsA.jl,https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyr,Permutation data types and methods.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PrimeSieve.jl,https://github.com/jlapeyre/PrimeSieve.jl,This package provides an interface to tables of primes and a sieve library.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),RomanNumerals.jl,https://github.com/anthonyclays/RomanNumerals.jl,Support for Roman numerals in Julia.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Shannon.jl,https://github.com/kzahedi/Shannon.jl,"Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data."
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),SimplePosets.jl,https://github.com/scheinerman/SimplePosets.jl,Simple partially ordered sets for Julia.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ZChop.jl,https://github.com/jlapeyre/ZChop.jl,"This package replaces small numbers with zero, works on complex and rational numbers, arrays, and some other structures. The idea is for zchop to descend into structures, chopping numbers, and acting as the the identity on anything that can't be sensibly compared to eps."
+Mathematics,[Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics),Catalan.jl,https://github.com/andrioni/Catalan.jl,a combinatorics library for Julia.
+Mathematics,[Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics),Dendriform.jl,https://github.com/chakravala/Dendriform.jl,Dendriform di-algebra algorithms to compute using Loday's arithmetic on groves of planar binary trees.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),AbstractTrees.jl,https://github.com/Keno/AbstractTrees.jl,Abstract julia interfaces for working with trees.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Arrowhead.jl,https://github.com/ivanslapnicar/Arrowhead.jl,Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),ASTInterpreter.jl,https://github.com/Keno/ASTInterpreter.jl,Gallium's AST interpreter as a separate package to simplify development.

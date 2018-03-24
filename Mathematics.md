@@ -28,7 +28,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
         + [General Differential Equations](#general-differential-equations)
         + [Special Functions](#special-functions)
     + [Mathematical Analysis](#mathematical-analysis)
-+ [Discrete Math](#discrete-math)
++ [DISCRETE MATH](#discrete-math)
     + [Graph Theory](#graph-theory)
 + [Geometry](#geometry)
     + [Algebraic Geometry](#algebraic-geometry)
@@ -71,7 +71,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Bijections.jl](https://github.com/scheinerman/Bijections.jl) :: Bijection datatype for Julia.
 + [Church.jl](https://github.com/LaurenceA/Church.jl) :: helps you perform inference in complex, and simple, probabilistic models.
 + [Cartesian.jl](https://github.com/timholy/Cartesian.jl) :: Fast multidimensional algorithms.
-+ [Catalan.jl](https://github.com/andrioni/Catalan.jl) :: a combinatorics library for Julia.
 + [CRF.jl](https://github.com/slyrz/CRF.jl) :: Conditional Random Fields in Julia.
 + [CellularAutomata.jl](https://github.com/natj/CellularAutomata.jl) :: Cellular Automata package.
 + [ContinuedFractions.jl](https://github.com/johnmyleswhite/ContinuedFractions.jl) :: Types and functions for working with continued fractions in Julia.
@@ -171,6 +170,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast complex polynomial root finder, with support for arbitrary precision calculations
 + [QNaN.jl](https://github.com/J-Sarnoff/QNaN.jl) :: Quiet NaNs were designed to propagate information from within numerical computations.
++ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewrite system.
 + [Remez.jl](https://github.com/simonbyrne/Remez.jl) :: Remez algorithm for computing minimax polynomial approximations.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
@@ -255,7 +255,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 + [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
-+ [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl :: metaprogramming for Julia arrays.
++ [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) :: metaprogramming for Julia arrays.
 + [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) :: A Julia package to explore a new system of array views.
 + [ArrayViewsAPL.jl](https://github.com/timholy/ArrayViewsAPL.jl) :: Generic array-view type with APL indexing semantics.
 + [AxisAlgorithms.jl](https://github.com/timholy/AxisAlgorithms.jl) :: Efficient filtering and linear algebra routines for multidimensional arrays.
@@ -264,7 +264,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CatIndices.jl](https://github.com/JuliaArrays/CatIndices.jl) :: Julia package for indices-aware array concatenation and growth.
 + [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) :: Arrays for working with categorical data (both nominal and ordinal) in Julia.
 + [ChunkedArrays.jl](https://github.com/ChrisRackauckas/ChunkedArrays.jl) :: A package for increasing the performance of arrays generated.
-+ [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: Library for working with tabular data in Julia.
++ [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: Library for working with tabular data in Julia. [Documentation](https://juliadata.github.io/DataFrames.jl/stable/man/getting_started.html).
 + [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) :: Metaprogramming tools for DataFrames and Associative objects. These macros improve performance and provide more convenient syntax.
 + [EndpointRanges.jl](https://github.com/JuliaArrays/EndpointRanges.jl) :: Julia package for doing arithmetic on endpoints in array indexing.
 + [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
@@ -487,12 +487,12 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 ## [Mathematical Analysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis)
 + [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) :: This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
++ [Fatou.jl](https://github.com/chakravala/Fatou.jl) :: Fatou sets in Julia (Fractals, Newton basins, Mandelbrot).
 + [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) :: Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
-
 
 ----
 
-# [Discrete Math](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
+# [DISCRETE MATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
 + [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
 + [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
 + [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) :: Viterbi algorithm.
@@ -509,6 +509,9 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [SimplePosets.jl](https://github.com/scheinerman/SimplePosets.jl) :: Simple partially ordered sets for Julia.
 + [ZChop.jl](https://github.com/jlapeyre/ZChop.jl) :: This package replaces small numbers with zero, works on complex and rational numbers, arrays, and some other structures. The idea is for zchop to descend into structures, chopping numbers, and acting as the the identity on anything that can't be sensibly compared to eps.
 
+### [Combinatorics](https://en.wikipedia.org/wiki/Category:Combinatorics)
++ [Catalan.jl](https://github.com/andrioni/Catalan.jl) :: a combinatorics library for Julia.
++ [Dendriform.jl](https://github.com/chakravala/Dendriform.jl) :: Dendriform di-algebra algorithms to compute using Loday's arithmetic on groves of planar binary trees. 
 
 ### [Graph Theory](https://en.wikipedia.org/wiki/Category:Graph_theory)
 __Hash tables, Linked Lists, Functional / Trees data structures__
