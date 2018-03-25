@@ -1064,6 +1064,7 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RecursiveArrayTools.jl,https://github.com/JuliaDiffEq/RecursiveArrayTools.jl,a set of tools for dealing with recursive arrays like arrays of arrays.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Rotations.jl,https://github.com/FugroRoames/Rotations.jl, Julia implementations for different rotation parameterisations.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.

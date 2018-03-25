@@ -292,6 +292,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [RandomBandedMatrices.jl](https://github.com/dlfivefifty/RandomBandedMatrices.jl).
 + [Ranges.jl](https://github.com/JuliaArrays/Ranges.jl) :: Array-like objects with compact storage for the Julia language.
 + [RangeArrays.jl](https://github.com/JuliaArrays/RangeArrays.jl) :: Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
++ [RecursiveArrayTools.jl](https://github.com/JuliaDiffEq/RecursiveArrayTools.jl) :: a set of tools for dealing with recursive arrays like arrays of arrays. 
 + [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
 + [Rotations.jl](https://github.com/FugroRoames/Rotations.jl) ::  Julia implementations for different rotation parameterisations.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
