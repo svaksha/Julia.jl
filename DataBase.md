@@ -80,6 +80,8 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ----
 
 # RDBMS
++ [Octo.jl](https://github.com/wookay/Octo.jl) :: an SQL Query DSL in Julia.
+
 ## MySQL
 + [MariaDB.jl](https://github.com/Dynactionize/MariaDB.jl) :: A wrapper around the MariaDB C connector.
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.

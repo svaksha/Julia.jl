@@ -369,6 +369,7 @@ DataBase,MongoDB,Mongo.jl,https://github.com/pzion/Mongo.jl,Mongo bindings for t
 DataBase,MongoDB,Mongo.jl,https://github.com/Lytol/Mongo.jl) {__UnMaintained__,Mongo bindings for the Julia programming language.
 DataBase,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 DataBase,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
+DataBase,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
 DataBase,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
 DataBase,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 DataBase,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
