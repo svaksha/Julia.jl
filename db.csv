@@ -390,6 +390,7 @@ DataIO,BinaryIO,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and di
 DataIO,BinaryIO,LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
 DataIO,BinaryIO,StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 DataIO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,"general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions."
+DataIO,GeneralIO,MapD.jl,https://github.com/r3tex/MapD.jl,A julia library for conveniently inserting data to MapD.
 DataIO,GeneralIO,Missings.jl,https://github.com/JuliaData/Missings.jl,A missing value representation for Julia for databases and statistics.
 DataIO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
 DataIO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.

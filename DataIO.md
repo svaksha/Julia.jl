@@ -26,6 +26,7 @@
 
 # General IO
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
++ [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.
 + [Missings.jl](https://github.com/JuliaData/Missings.jl) :: A missing value representation for Julia for databases and statistics.
 + [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
 + [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
