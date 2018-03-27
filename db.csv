@@ -832,18 +832,19 @@ Hardware,AUDIO-VIDEO,Bebop.jl,https://github.com/zhemao/Bebop.jl,An audio librar
 Hardware,AUDIO-VIDEO,Chango,https://bitbucket.org/mbaz/chango,"A simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink."
 Hardware,AUDIO-VIDEO,FLAC.jl,https://github.com/dmbates/FLAC.jl,Julia bindings for libFLAC.
 Hardware,AUDIO-VIDEO,gr-juliaffi,https://github.com/JayKickliter/gr-juliaffi,A GNU Radio package that lets you write custom signal processing blocks in Julia.
+Hardware,AUDIO-VIDEO,LibSndFile.jl,https://github.com/JuliaAudio/LibSndFile.jl,"A wrapper for libsndfile, and supports a wide variety of file and sample formats."
 Hardware,AUDIO-VIDEO,Midi.jl,https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files,
+Hardware,AUDIO-VIDEO,MP3.jl,https://github.com/JuliaAudio/MP3.jl,MP3 codec for Julia using JuliaAudio idioms. LAME and mpg123 working under the hood.
 Hardware,AUDIO-VIDEO,Opus.jl,https://github.com/staticfloat/Opus.jl,Julia library to interface with Opus audio files.
 Hardware,AUDIO-VIDEO,OSC.jl,https://github.com/fundamental/OSC.jl,"Open Sound Control serialization library, a port of RTOSC for Julia."
-Hardware,AUDIO-VIDEO,PortAudio.jl,https://github.com/ssfrr/PortAudio.jl,Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
+Hardware,AUDIO-VIDEO,PortAudio.jl,https://github.com/ssfrr/PortAudio.jl,Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library for cross-platform access to audio devices.
 Hardware,AUDIO-VIDEO,Radio.jl,https://github.com/JayKickliter/Radio.jl,A digital communications package for the Julia language.
 Hardware,AUDIO-VIDEO,Rasim.jl,https://github.com/maemre/Rasim.jl,A time-slot based radio network simulator written in Julia.
+Hardware,AUDIO-VIDEO,RingBuffers.jl,https://github.com/JuliaAudio/RingBuffers.jl,"A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling."
+Hardware,AUDIO-VIDEO,SampledSignals.jl,https://github.com/JuliaAudio/SampledSignals.jl,"Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio."
+Hardware,AUDIO-VIDEO,SampleTypes.jl,https://github.com/JuliaAudio/SampleTypes.jl,"A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages."
 Hardware,AUDIO-VIDEO,Sound.jl,https://github.com/JuliaLang/Sound.jl,Reading and writing from WAV files.
 Hardware,AUDIO-VIDEO,Tablo.jl,https://github.com/dmbates/Tablo.jl,Julia interface to the Tablo over-the-air digital video recorder.
-Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),LibSndFile.jl,https://github.com/JuliaAudio/LibSndFile.jl,"A wrapper for libsndfile, and supports a wide variety of file and sample formats."
-Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),PortAudio.jl,https://github.com/JuliaAudio/PortAudio.jl,"A wrapper for libportaudio, which gives cross-platform access to audio devices."
-Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),RingBuffers.jl,https://github.com/JuliaAudio/RingBuffers.jl,"A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling."
-Hardware,Org-[JuliaAudio](https://github.com/JuliaAudio),SampleTypes.jl,https://github.com/JuliaAudio/SampleTypes.jl,"A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages."
 Hardware,BOTS,MakiBot.jl,https://github.com/SimonDanisch/MakiBot.jl,A Telegram plot bot for MakiE.jl.
 Hardware,BOTS,Q.jl,https://github.com/enlnt/Q.jl,Julia for [kdb+](https://github.com/prologic/kdb). Docs: https://enlnt.github.io/Q.jl/latest
 Hardware,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplified generation of device CAD files for superconducting device design.

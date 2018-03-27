@@ -1,4 +1,4 @@
-**Other software libraries,..**
+**Other hardware related software libraries,..**
 
 + [API](#api)
 + [Architectures](#architectures)
@@ -7,7 +7,6 @@
     + [National Instruments](#national-instruments)
     + [Virtual Instrument Software Architecture](#virtual-instrument-software-architecture)
 + [AUDIO-VIDEO](#audio-video)
-    + [Org-JuliaAudio](#org-juliaaudio)
 + [BOTS](#bots)
 + [CAD-CAM](#cad-cam)
 + [Control System](#control-system)
@@ -52,20 +51,20 @@
 + [Chango](https://bitbucket.org/mbaz/chango) :: A simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink.
 + [FLAC.jl](https://github.com/dmbates/FLAC.jl) :: Julia bindings for libFLAC. 
 + [gr-juliaffi](https://github.com/JayKickliter/gr-juliaffi) :: A GNU Radio package that lets you write custom signal processing blocks in Julia.
++ [LibSndFile.jl](https://github.com/JuliaAudio/LibSndFile.jl) :: A wrapper for libsndfile, and supports a wide variety of file and sample formats.
 + [Midi.jl](https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files. 
++ [MP3.jl](https://github.com/JuliaAudio/MP3.jl) :: MP3 codec for Julia using JuliaAudio idioms. LAME and mpg123 working under the hood.
 + [Opus.jl](https://github.com/staticfloat/Opus.jl) :: Julia library to interface with Opus audio files.
 + [OSC.jl](https://github.com/fundamental/OSC.jl) :: Open Sound Control serialization library, a port of RTOSC for Julia.
-+ [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library.
++ [PortAudio.jl](https://github.com/ssfrr/PortAudio.jl) :: Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library for cross-platform access to audio devices.
 + [Radio.jl](https://github.com/JayKickliter/Radio.jl) :: A digital communications package for the Julia language.
 + [Rasim.jl](https://github.com/maemre/Rasim.jl) :: A time-slot based radio network simulator written in Julia. 
++ [RingBuffers.jl](https://github.com/JuliaAudio/RingBuffers.jl) :: A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling.
++ [SampledSignals.jl](https://github.com/JuliaAudio/SampledSignals.jl) :: Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio.
++ [SampleTypes.jl](https://github.com/JuliaAudio/SampleTypes.jl) :: A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages.
 + [Sound.jl](https://github.com/JuliaLang/Sound.jl) :: Reading and writing from WAV files.
 + [Tablo.jl](https://github.com/dmbates/Tablo.jl) :: Julia interface to the Tablo over-the-air digital video recorder.
 
-### Org-[JuliaAudio](https://github.com/JuliaAudio)
-+ [LibSndFile.jl](https://github.com/JuliaAudio/LibSndFile.jl) :: A wrapper for libsndfile, and supports a wide variety of file and sample formats.
-+ [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) :: A wrapper for libportaudio, which gives cross-platform access to audio devices.
-+ [RingBuffers.jl](https://github.com/JuliaAudio/RingBuffers.jl) :: A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling.
-+ [SampleTypes.jl](https://github.com/JuliaAudio/SampleTypes.jl) :: A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages.
 
 ----
 
