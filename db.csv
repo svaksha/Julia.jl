@@ -25,7 +25,7 @@ AI,MACHINELEARNING,JuML.jl,https://github.com/Statfactory/JuML.jl,Machine Learni
 AI,MACHINELEARNING,KaggleDigitRecognizer.jl,https://github.com/benhamner/KaggleDigitRecognizer.jl,Julia code for Kaggle's Digit Recognizer competition.
 AI,MACHINELEARNING,KDTrees.jl,https://github.com/KristofferC/KDTrees.jl,KD Trees.
 AI,MACHINELEARNING,Kernels.jl,https://github.com/trthatcher/Kernels.jl,A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning.
-AI,MACHINELEARNING,Knet.jl,https://github.com/denizyuret/Knet.jl,A machine learning module implemented in Julia.
+AI,MACHINELEARNING,Knet.jl,https://github.com/denizyuret/Knet.jl,Koç University deep learning framework - A machine learning module implemented in Julia.
 AI,MACHINELEARNING,kNN.jl,https://github.com/johnmyleswhite/kNN.jl,The k-Nearest Neighbors algorithm in Julia.
 AI,MACHINELEARNING,KSVM.jl,https://github.com/remusao/KSVM.jl) by @remusa,Kernel Support Vector Machine (SVM) written in Julia.
 AI,MACHINELEARNING,KSVM.jl,https://github.com/Evizero/KSVM.jl) by @Evizer,Support Vector Machines in pure Julia.
@@ -510,10 +510,10 @@ DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://git
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),WeakRefStrings.jl,https://github.com/quinnj/WeakRefStrings.jl,a minimal String type for Julia that allows for efficient string representation and transfer.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
-DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
-DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
-DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
-DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types,Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
+DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
+DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
+DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
+DataIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),Modifyfield.jl,https://github.com/StephenVavasis/Modifyfield.jl,It creates functions to modify immutable fields of a composite type inside a container.
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),ArbDecimals.jl,https://github.com/JuliaArbTypes/ArbDecimals.jl,reliable and performant extended precision floating point math.
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),ArbFloats.jl,https://github.com/JuliaArbTypes/ArbFloats.jl,"extended precision *values* for arithmetic, elementary, and some special functions (25..500 digits)."
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),AutoTypeParameters.jl,https://github.com/andrewcooke/AutoTypeParameters.jl,A Julia library to reversibly encode any value so that it can be used as a type parameter.
@@ -1413,13 +1413,13 @@ Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),T
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),WaveToy.jl,https://github.com/eschnett/WaveToy.jl,Julia WaveToy.
 Physics,Miscellaneous,fys,https://github.com/jhlq/fys,Physics and misc unmaintained Julia code.
 Programming-Paradigms,,Turing.jl,https://github.com/yebai/Turing.jl,Probabilistic programming in Julia.
-Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
-Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
-Programming-Paradigms,Org-[JuliaLang](https://github.com/JuliaLang),JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
 Programming-Paradigms,ProgrammingParadigms,BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
 Programming-Paradigms,ProgrammingParadigms,ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.
 Programming-Paradigms,ProgrammingParadigms,FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting."
+Programming-Paradigms,ProgrammingParadigms,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
 Programming-Paradigms,ProgrammingParadigms,InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,"Intervals are inter-values, an interval is its values and their intra-values."
+Programming-Paradigms,ProgrammingParadigms,JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
+Programming-Paradigms,ProgrammingParadigms,JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
 Programming-Paradigms,ProgrammingParadigms,LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,"Mathematics, Compilers, Functional Programming, and other papers."
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.

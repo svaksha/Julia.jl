@@ -1,4 +1,3 @@
-+ [Org-JuliaLang](#org-julialang)
 + [Programming Paradigms](#programming-paradigms)
    + [Control Flow](#control-flow)
    + [Declarative Programming](#declarative-programming)
@@ -22,26 +21,24 @@
 
 ----
 
-# Org-[JuliaLang](https://github.com/JuliaLang)
-+ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
-+ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
-+ [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
-
-
-----
-
 # Programming Paradigms
 __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 + [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
 + [ChainMap.jl](https://github.com/bramtayl/ChainMap.jl) :: Combine chaining and mapping.
 + [FemtoCleaner.jl](https://github.com/JuliaComputing/FemtoCleaner.jl) :: It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting. 
++ [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.
++ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
++ [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
+
 
 ###### RESOURCES
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
+
 ## [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
+* [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) :: Naïve combined subexpression elimination in Julia.
 + [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and C functions.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
 

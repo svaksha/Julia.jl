@@ -177,7 +177,7 @@
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 
-### [Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types
+### [Composite Data Types](https://en.wikipedia.org/wiki/Category:Composite_data_types)
 + [DictWrappers.jl](https://github.com/iamed2/DictWrappers.jl) :: Wrap any Julia composite type in an Associative interface.
 + [EMLTranslator.jl](https://github.com/DANA-Laboratory/EMLTranslator.jl) :: Adds Inheritance to julia composite type.
 + [ExtractMacro.jl](https://github.com/carlobaldassi/ExtractMacro.jl) ::  Provides a convenience Julia macro to extract fields from composite types.
