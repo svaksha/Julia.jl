@@ -97,7 +97,8 @@
 + [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
 + [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD.
-+ [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files
++ [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files.
++ [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, that provides a "distributed array" -like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster.
 + [MAT.jl](https://github.com/JuliaIO/MAT.jl) :: Julia module for reading MATLAB files.
 + [Parquet.jl](https://github.com/JuliaComputing/Parquet.jl) :: Julia implementation of parquet columnar file format reader and writer.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
@@ -139,7 +140,7 @@
 + [DictViews.jl](https://github.com/daviddelaat/DictViews.jl) :: KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 + [DotPlusInheritance.jl](https://github.com/DANA-Laboratory/DotPlusInheritance.jl) :: Expression parser that simulates type inheritance.
 + [FixedPointNumbers.jl](https://github.com/JeffBezanson/FixedPointNumbers.jl) :: This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor.
-+ [FixedSizeStrings.jl]/https://github.com/JuliaComputing/FixedSizeStrings.jl) :: A type for efficiently storing short strings of known size.
++ [FixedSizeStrings.jl](https://github.com/JuliaComputing/FixedSizeStrings.jl) :: A type for efficiently storing short strings of known size.
 + [Format.jl](https://github.com/JuliaString/Format.jl) :: This Julia package provides C and Python-style types and functions formatting support.
 + [Formatting.jl](https://github.com/lindahua/Formatting.jl) :: A Julia package to provide Python-like formatting support.
 + [FreeTypeAbstraction.jl](https://github.com/SimonDanisch/FreeTypeAbstraction.jl) :: A Julian abstraction layer over FreeType.jl.

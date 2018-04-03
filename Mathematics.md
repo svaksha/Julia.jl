@@ -277,7 +277,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [IndexedTables.jl](https://github.com/JuliaComputing/IndexedTables.jl) :: N-dimensional sparse array structure in julia.
 + [IndirectArrays.jl](https://github.com/JuliaArrays/IndirectArrays.jl) :: Julia implementation of indexed or "lookup" arrays.
 + [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
-+ [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, provides a distributed-array-like data model for working with large persistent data sets. Given a set of CSV files, it builds and saves an index that allows the data to be accessed efficiently in the future. It also supports an "ingest" mode that converts data to a more efficient binary format.
 + [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
 + [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
 + [JSparse.jl](https://github.com/dmbates/JSparse.jl) :: A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis. 

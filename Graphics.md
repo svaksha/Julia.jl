@@ -28,6 +28,7 @@
 + [CVVideoIO.jl](https://github.com/JuliaOpenCV/CVVideoIO.jl) :: Media I/O.
 + [DelayedBuffer.jl](https://github.com/jfsantos/DelayedBuffer.jl) :: Delayed buffer view for Julia 1D arrays.
 + [DevIL.jl](https://github.com/JuliaGL/DevIL.jl) :: [DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
++ [DrakeVisualizer.jl](https://github.com/rdeits/DrakeVisualizer.jl) :: Interface to the RobotLocomotion Drake Visualizer tool from Julia.
 + [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 + [Drawing.jl](https://github.com/andrewcooke/Drawing.jl) :: A library for easy, extensible drawing (diagrams, lines, shapes).
 + [Fontconfig.jl](https://github.com/JuliaGraphics/Fontconfig.jl) :: provides basic binding to fontconfig.

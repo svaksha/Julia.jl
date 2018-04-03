@@ -14,20 +14,20 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
    + [MySQL](#mysql)
    + [PostgreSQL](#postgresql)
    + [SQLite](#sqlite)
-+ [Org-JuliaDB](#org-juliadb)
 + [RESOURCES](#resources)
 
 ----
 
-
 # API
-**Middleware API's** - see also [API website](http://juliadb.github.io/)
+**Middleware API's**
 + [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
++ [DataStreams.jl](https://github.com/JuliaDatabases/DataStreams.jl) :: A Julia package to stream data.
 + [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
 + [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
++ [DBPerf.jl](https://github.com/JuliaDatabases/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
 + [LevelDB.jl](https://github.com/jerryzhenleicai/LevelDB.jl) :: Julia interface to Google's LevelDB key value database.
 + [Memcache.jl](https://github.com/tanmaykm/Memcache.jl) :: Julia memcached client.
-+ [JDBC.jl](https://github.com/JuliaDB/JDBC.jl) :: Julia interface to Java database drivers.
++ [JDBC.jl](https://github.com/JuliaDatabases/JDBC.jl) :: Julia interface to Java database drivers.
 + [ODBC.jl](https://github.com/quinnj/ODBC.jl) :: A low-level ODBC interface for the Julia programming language.
    + __RESOURCES__
    + [Tabular Data I/O in Julia](http://randyzwitch.com/julia-import-data/)
@@ -84,6 +84,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 ## MySQL
 + [MariaDB.jl](https://github.com/Dynactionize/MariaDB.jl) :: A wrapper around the MariaDB C connector.
++ [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 + [SQLAlchemy.jl](https://github.com/malmaud/SQLAlchemy.jl) :: Wrapper over Python's SQLAlchemy library. 
 
@@ -94,17 +95,8 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) :: An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl).
 
 ## SQLite
-+ [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
-
-----
-
-# Org-[JuliaDatabases](https://github.com/JuliaDatabases) 
-+ [DataStreams.jl](https://github.com/JuliaDatabases/DataStreams.jl) :: A Julia package to stream data.
-+ [DBAPI.jl](https://github.com/JuliaDatabases/DBAPI.jl) :: A new database interface proposal.
-+ [DBPerf.jl](https://github.com/JuliaDatabases/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.
 + [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
-+ [JDBC.jl](https://github.com/JuliaDatabases/JDBC.jl) :: Julia interface to Java database drivers.
-+ [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
++ [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 
 ----
 

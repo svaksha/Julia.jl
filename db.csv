@@ -346,11 +346,13 @@ Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQ
 Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
 DataBase,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
+DataBase,API,DataStreams.jl,https://github.com/JuliaDatabases/DataStreams.jl,A Julia package to stream data.
 DataBase,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
 DataBase,API,DBI.jl,https://github.com/johnmyleswhite/DBI.jl,An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
+DataBase,API,DBPerf.jl,https://github.com/JuliaDatabases/DBPerf.jl,The code repository that benchmarks all the Julia Database Drivers / Wrappers.
 DataBase,API,LevelDB.jl,https://github.com/jerryzhenleicai/LevelDB.jl,Julia interface to Google's LevelDB key value database.
 DataBase,API,Memcache.jl,https://github.com/tanmaykm/Memcache.jl,Julia memcached client.
-DataBase,API,JDBC.jl,https://github.com/JuliaDB/JDBC.jl,Julia interface to Java database drivers.
+DataBase,API,JDBC.jl,https://github.com/JuliaDatabases/JDBC.jl,Julia interface to Java database drivers.
 DataBase,API,ODBC.jl,https://github.com/quinnj/ODBC.jl,A low-level ODBC interface for the Julia programming language.
 DataBase,API,Tabular Data I/O in Julia,http://randyzwitch.com/julia-import-data/,
 DataBase,API,ViewDBI.jl,https://github.com/kmsquire/ViewDBI.jl,View-based DBI for Julia.
@@ -371,19 +373,15 @@ DataBase,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia impleme
 DataBase,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
 DataBase,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
 DataBase,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
+DataBase,MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
 DataBase,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
 DataBase,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
 DataBase,PostgreSQL,DBI.jl,https://github.com/swt30/DBI.jl,Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
 DataBase,PostgreSQL,libpq.jl,https://github.com/iamed2/libpq.jl,A libpq interface for Julia.
 DataBase,PostgreSQL,Postgres.jl,https://github.com/NCarson/Postgres.jl,Postgres database interface for the Julia language. {Tag: Unmaintained}
 DataBase,PostgreSQL,PostgreSQL.jl,https://github.com/swt30/PostgreSQL.jl,"An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl)."
+DataBase,SQLite,DBDSQLite.jl,https://github.com/JuliaDatabases/DBDSQLite.jl,DBI-compliant driver for SQLite3.
 DataBase,SQLite,SQLite.jl,https://github.com/quinnj/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),DataStreams.jl,https://github.com/JuliaDatabases/DataStreams.jl,A Julia package to stream data.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),DBAPI.jl,https://github.com/JuliaDatabases/DBAPI.jl,A new database interface proposal.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),DBPerf.jl,https://github.com/JuliaDatabases/DBPerf.jl,The code repository that benchmarks all the Julia Database Drivers / Wrappers.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),DBDSQLite.jl,https://github.com/JuliaDatabases/DBDSQLite.jl,DBI-compliant driver for SQLite3.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),JDBC.jl,https://github.com/JuliaDatabases/JDBC.jl,Julia interface to Java database drivers.
-DataBase,Org-[JuliaDatabases](https://github.com/JuliaDatabases),MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
 DataBase,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/,
 DataIO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
 DataIO,BinaryIO,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
@@ -444,7 +442,8 @@ DataIO,TabularDataMatrix,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read
 DataIO,TabularDataMatrix,HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
 DataIO,TabularDataMatrix,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
 DataIO,TabularDataMatrix,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
-DataIO,TabularDataMatrix,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files
+DataIO,TabularDataMatrix,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files.
+DataIO,TabularDataMatrix,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl,"A package based on Dagger and IndexedTables, that provides a ""distributed array"" -like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster."
 DataIO,TabularDataMatrix,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module for reading MATLAB files.
 DataIO,TabularDataMatrix,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
 DataIO,TabularDataMatrix,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
@@ -475,6 +474,7 @@ DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://g
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,"This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor."
+DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedSizeStrings.jl,https://github.com/JuliaComputing/FixedSizeStrings.jl,A type for efficiently storing short strings of known size.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Format.jl,https://github.com/JuliaString/Format.jl,This Julia package provides C and Python-style types and functions formatting support.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
 DataIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
@@ -662,6 +662,7 @@ Graphics,GRAPHICS,CVHighGUI.jl,https://github.com/JuliaOpenCV/CVHighGUI.jl,High-
 Graphics,GRAPHICS,CVVideoIO.jl,https://github.com/JuliaOpenCV/CVVideoIO.jl,Media I/O.
 Graphics,GRAPHICS,DelayedBuffer.jl,https://github.com/jfsantos/DelayedBuffer.jl,Delayed buffer view for Julia 1D arrays.
 Graphics,GRAPHICS,DevIL.jl,https://github.com/JuliaGL/DevIL.jl,[DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
+Graphics,GRAPHICS,DrakeVisualizer.jl,https://github.com/rdeits/DrakeVisualizer.jl,Interface to the RobotLocomotion Drake Visualizer tool from Julia.
 Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,"A 3D graphics package with a Julia API, built on OpenGL."
 Graphics,GRAPHICS,Drawing.jl,https://github.com/andrewcooke/Drawing.jl,"A library for easy, extensible drawing (diagrams, lines, shapes)."
 Graphics,GRAPHICS,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,provides basic binding to fontconfig.
@@ -1052,7 +1053,6 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),IndexedTables.jl,https://github.com/JuliaComputing/IndexedTables.jl,N-dimensional sparse array structure in julia.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),IndirectArrays.jl,https://github.com/JuliaArrays/IndirectArrays.jl,"Julia implementation of indexed or ""lookup"" arrays."
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),InplaceOps.jl,https://github.com/simonbyrne/InplaceOps.jl,Convenient macros for in-place matrix operations in Julia.
-Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl,"A package based on Dagger and IndexedTables, provides a distributed-array-like data model for working with large persistent data sets. Given a set of CSV files, it builds and saves an index that allows the data to be accessed efficiently in the future. It also supports an ""ingest"" mode that converts data to a more efficient binary format."
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
