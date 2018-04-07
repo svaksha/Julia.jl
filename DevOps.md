@@ -110,6 +110,7 @@ __Package/Infrastructure management tools and Documentation__
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    + [JuliaArchive](https://JuliaArchive.github.io) :: Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
 + [Pkg3.jl](https://github.com/StefanKarpinski/Pkg3.jl) :: Next-generation package manager for Julia.
+   * Stefan Karpinski talking about "[Pkg3](https://www.youtube.com/watch?v=-yUiLCGegJs) : Julia's New Package Manager" at JuliaCon 2017. 
 + [Uncurated](https://github.com/JuliaRegistries/Uncurated) :: The official, public, uncurated registry of Julia packages.
 + [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
 

@@ -24,6 +24,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
 + [STOCHASTICS](#stochastics)
+   + [HMM](#hmm)   
 + [RESOURCES](#resources)
    + [Cookbooks](#cookbooks)
    + [Videos](#videos)
@@ -434,12 +435,13 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 ----
 
 # [STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process)
++ [CTMCEnsemble.jl](https://github.com/innerlee/CTMCEnsemble.jl) :: Integrating Specialized Classifiers Based on Continuous Time Markov Chain.
 + [DESPOT.jl](https://github.com/JuliaPOMDP/DESPOT.jl] :: Package implementing DESPOT POMDP solver for [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl).
 + [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) :: The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics. 
 + [DSPsolver.jl](https://github.com/Argonne-National-Laboratory/DSPsolver.jl) :: This package provides an interface for using an open-source software package DSP for solving stochastic mixed-integer programming problems from the Julia language.
 + [HJBFiniteDifference.jl](https://github.com/matthieugomez/HJBFiniteDifference.jl) :: Solve HJB equations through finite difference schemes.
 + [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
-+ [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: API for solving POMDPs in Julia).
++ [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: A Julia framework for solving Markov decision processes and reinforcement learning.
 + [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
 + [SGDOptim.jl](https://github.com/lindahua/SGDOptim.jl) :: A julia package for Stochastic Gradient Descent.
 + [SGD.jl](https://github.com/johnmyleswhite/SGD.jl) :: Fit models using SGD in Julia.
@@ -447,6 +449,13 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [SGD2.jl](https://github.com/johnmyleswhite/SGD2.jl) :: Stochastic gradient descent, a draft of new methods for SGD calculations.
 + [SolveDSGE](https://github.com/RJDennis/SolveDSGE) :: The package contains a variety of methods for solving Dynamic Stochastic General Equilibrium (DSGE) models to first- or second-order accuracy. It will be of most interest to macro-economists, but others may find the routines for reordering the complex Schur form and the generalized complex Schur form useful.
 + [StochasticSearch.jl](https://github.com/phrb/StochasticSearch.jl) :: Stochastic Local Search using Julia.
+
+
+## HMM
++ [DynamicDiscreteModels.jl](https://github.com/BenConnault/DynamicDiscreteModels.jl) :: Inference for partially observed Markov chains.
++ [HiddenMarkovModels.jl](https://github.com/BenConnault/HiddenMarkovModels.jl) :: Basic inference with Hidden Markov Models.
++ [RustModels.jl](https://github.com/BenConnault/RustModels.jl) :: Dynamic Discrete Choice Models with or without unobserved state variables.
+
 
 ###### Resources
 + [gradient analysis](https://github.com/NeuroanatomyAndConnectivity/gradient_analysis) :: Notebooks on Gradient analysis.

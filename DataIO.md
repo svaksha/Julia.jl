@@ -206,6 +206,7 @@
 
 
 ###### Resources
++ Jeff Bezanson on [The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017.
 + Jameson Nash on [Static and Ahead of Time (AOT) compiled Julia](http://juliacomputing.com/blog/2016/02/09/static-julia.html)
 + [A more thorough look at Julia's __double colon__ syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
 

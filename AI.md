@@ -1,8 +1,6 @@
 **Artificial Intelligence, Machine Learning, Neural Networks, NLP, Speech Recognition and Voice tools,...**
 
 + [MACHINE LEARNING](#machine-learning)
-   + [Org-JuliaML](#org-juliaml)
-+ [HMM](#hmm)   
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
    + [Finite Automata](#finite-automata)
@@ -66,8 +64,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [OnlineAI.jl](https://github.com/tbreloff/OnlineAI.jl) :: Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}
 + [Orchestra.jl](https://github.com/svs14/Orchestra.jl) :: Heterogeneous ensemble learning package for the Julia programming language.
 + [ParticleFilters.jl](https://github.com/JuliaPOMDP/ParticleFilters.jl) :: Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
-+ [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: A Julia framework for solving Markov decision processes and reinforcement learning.
-+ [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
 + [PrivateMultiplicativeWeights.jl](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) :: Differentially private synthetic data.
 + [ProjectiveDictionaryPairLearning.jl](https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl) :: Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
 + [RegERMs.jl](https://github.com/BigCrunsh/RegERMs.jl) :: A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
@@ -104,13 +100,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ML4H.jl](https://github.com/johnmyleswhite/ML4H.jl) :: Machine Learning for Hackers in Julia.
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 + A HN site for [ML](http://news.startup.ml/).
-
-----
-
-# HMM
-+ [DynamicDiscreteModels.jl](https://github.com/BenConnault/DynamicDiscreteModels.jl) :: Inference for partially observed Markov chains.
-+ [HiddenMarkovModels.jl](https://github.com/BenConnault/HiddenMarkovModels.jl) :: Basic inference with Hidden Markov Models.
-+ [RustModels.jl](https://github.com/BenConnault/RustModels.jl) :: Dynamic Discrete Choice Models with or without unobserved state variables.
 
 ----
 
@@ -189,4 +178,5 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SPTK.jl](https://github.com/r9y9/SPTK.jl) :: A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 + [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters.
 + [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
+
 
