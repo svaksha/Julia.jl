@@ -1,4 +1,5 @@
-**Utilities.md :: Desktop User Interface, GUI and other handy utilities, Web browser UI-UX, etc..**
+# Utilities.md 
+**Desktop User Interface, GUI and other handy utilities, Web browser UI-UX, etc..**
 
 + [DOCUMENTATION](#documentation)
 + [GeSHI](#geshi)
@@ -155,6 +156,7 @@
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
    + List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
+* https://github.com/BioJulia/Automa.jl
 
 ## Terminal
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.

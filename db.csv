@@ -51,8 +51,6 @@ AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online L
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,"Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}"
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
 AI,MACHINELEARNING,ParticleFilters.jl,https://github.com/JuliaPOMDP/ParticleFilters.jl,Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
-AI,MACHINELEARNING,POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes and reinforcement learning.
-AI,MACHINELEARNING,POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
 AI,MACHINELEARNING,PrivateMultiplicativeWeights.jl,https://github.com/mrtzh/PrivateMultiplicativeWeights.jl,Differentially private synthetic data.
 AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,"Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014."
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,"A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia."
@@ -85,9 +83,6 @@ AI,Resources,juliastreetview,https://github.com/evq/juliastreetview,Updated samp
 AI,Resources,ML4H.jl,https://github.com/johnmyleswhite/ML4H.jl,Machine Learning for Hackers in Julia.
 AI,Resources,A curated list of awesome places to learn and/or practice algorithms,https://github.com/tayllan/awesome-algorithms),
 AI,Resources, HN site for [ML,http://news.startup.ml/),
-AI,HMM,DynamicDiscreteModels.jl,https://github.com/BenConnault/DynamicDiscreteModels.jl,Inference for partially observed Markov chains.
-AI,HMM,HiddenMarkovModels.jl,https://github.com/BenConnault/HiddenMarkovModels.jl,Basic inference with Hidden Markov Models.
-AI,HMM,RustModels.jl,https://github.com/BenConnault/RustModels.jl,Dynamic Discrete Choice Models with or without unobserved state variables.
 AI,NEURALNETWORKS,ANN.jl,https://github.com/EricChiang/ANN.jl,Artifical Neural Networks.
 AI,NEURALNETWORKS,log post on [Neural networks and a dive into Julia,http://blog.yhathq.com/posts/julia-neural-networks.html,
 AI,NEURALNETWORKS,Boltzmann.jl,https://github.com/dfdx/Boltzmann.jl,Restricted Boltzmann Machines and Deep Belief Networks in Julia
@@ -101,6 +96,7 @@ AI,NEURALNETWORKS,neural.jl,https://github.com/compressed/neural.jl,"is a Julia 
 AI,NEURALNETWORKS,NeuralNets.jl,https://github.com/anj1/NeuralNets.jl,Generic artificial neural networks in Julia.
 AI,NEURALNETWORKS,neuralnetwork.jl,https://github.com/tomaskrehlik/neuralnetwork.jl,is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
 AI,NEURALNETWORKS,NeuralNetworks.jl,https://github.com/soumith/NeuralNetworks.jl,Various functions for Neural Networks implemented in Julia.
+AI,NEURALNETWORKS,ONNX.jl,https://github.com/FluxML/ONNX.jl,Read ONNX graphs and load these models in Julia.
 AI,NEURALNETWORKS,RecurrentNN.jl,https://github.com/Andy-P/RecurrentNN.jl,Deep RNN and LSTM in Julia.
 AI,NEURALNETWORKS,RNN.jl,https://github.com/kzahedi/RNN.jl,Recurrent Neural Networks.
 AI,NEURALNETWORKS,SimpleNets,https://github.com/rgehring/SimpleNets,Simple neural nets implementions in Julia.
@@ -254,6 +250,7 @@ Biology,BIOINFORMATICS,Bio.jl,https://github.com/BioJulia/Bio.jl,Bioinformatics 
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 Biology,BIOINFORMATICS,EMIRT.jl,https://github.com/seung-lab/EMIRT.jl,Electron Microscopy Image Reconstruction Toolbox using julia language.
 Biology,BIOINFORMATICS,MIToS.jl,https://github.com/diegozea/MIToS.jl),
+Biology,BIOINFORMATICS,MMTF.jl,https://github.com/joels94/MMTF.jl,The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 Biology,BIOINFORMATICS,openBF,https://github.com/INSIGNEO/openBF,A finite-volume solver for elastic arterial networks.
 Biology,BIOINFORMATICS,Rosalind.jl,https://github.com/PilgrimShadow/Rosalind.jl,A bioinformatics library for solving problems from rosalind.info.
 Biology,BIOINFORMATICS,smoothlife-jl,https://github.com/jamak/smoothlife-jl,an implementation of the SmoothLife algorithm in Julia.
@@ -531,6 +528,7 @@ DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),Typeclass.jl
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypedDelegation.jl,https://github.com/JuliaArbTypes/TypedDelegation.jl, Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeGraph.jl,https://github.com/johnmyleswhite/TypeGraph.jl,Visualize the Julia type system.
 DataIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeTree.jl,https://github.com/johnmyleswhite/TypeTree.jl,source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
+DataIO,Resources,eff Bezanson on [The State of the Type System,https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017,
 DataIO,Resources,ameson Nash on [Static and Ahead of Time (AOT) compiled Julia,http://juliacomputing.com/blog/2016/02/09/static-julia.html,
 DataIO,Resources,A more thorough look at Julia's __double colon__ syntax,http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb,
 DataIO,ImageFormats,AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
@@ -1412,15 +1410,16 @@ Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),P
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),ThermodynamicsTable.jl,https://github.com/DANA-Laboratory/ThermodynamicsTable.jl,"Thermodynamics table for critical values, heat capacity, etc.."
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),WaveToy.jl,https://github.com/eschnett/WaveToy.jl,Julia WaveToy.
 Physics,Miscellaneous,fys,https://github.com/jhlq/fys,Physics and misc unmaintained Julia code.
-Programming-Paradigms,,Turing.jl,https://github.com/yebai/Turing.jl,Probabilistic programming in Julia.
-Programming-Paradigms,ProgrammingParadigms,BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
-Programming-Paradigms,ProgrammingParadigms,ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.
-Programming-Paradigms,ProgrammingParadigms,FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting."
-Programming-Paradigms,ProgrammingParadigms,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
-Programming-Paradigms,ProgrammingParadigms,InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,"Intervals are inter-values, an interval is its values and their intra-values."
-Programming-Paradigms,ProgrammingParadigms,JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
-Programming-Paradigms,ProgrammingParadigms,JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
-Programming-Paradigms,ProgrammingParadigms,LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Automa.jl,https://github.com/BioJulia/Automa.jl,"A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler."
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Turing.jl,https://github.com/yebai/Turing.jl,Probabilistic programming in Julia.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting."
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,"Intervals are inter-values, an interval is its values and their intra-values."
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,"Mathematics, Compilers, Functional Programming, and other papers."
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),StatefulIterators.jl,https://github.com/andrewcooke/StatefulIterators.jl,A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
@@ -2069,12 +2068,13 @@ Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeM
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeriesQueries.jl,https://github.com/milktrader/TimeSeriesQueries.jl,experimental query of TimeSeries objects.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,TimeSeriesRegressions.jl,https://github.com/andreasnoack/TimeSeriesRegressions.jl,Tools for working with regression based time series modelling.
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),CTMCEnsemble.jl,https://github.com/innerlee/CTMCEnsemble.jl,Integrating Specialized Classifiers Based on Continuous Time Markov Chain.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DESPOT.jl,https://github.com/JuliaPOMDP/DESPOT.jl,Package implementing DESPOT POMDP solver for [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl).
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSGE.jl,https://github.com/FRBNY-DSGE/DSGE.jl,"The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics."
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),DSPsolver.jl,https://github.com/Argonne-National-Laboratory/DSPsolver.jl,This package provides an interface for using an open-source software package DSP for solving stochastic mixed-integer programming problems from the Julia language.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),HJBFiniteDifference.jl,https://github.com/matthieugomez/HJBFiniteDifference.jl,Solve HJB equations through finite difference schemes.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),JuMPStoch.jl,https://github.com/joehuchette/JuMPStoch.jl,A stochastic optimization framework for JuMP.
-Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,API for solving POMDPs in Julia).
+Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes and reinforcement learning.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDOptim.jl,https://github.com/lindahua/SGDOptim.jl,A julia package for Stochastic Gradient Descent.
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD.jl,https://github.com/johnmyleswhite/SGD.jl,Fit models using SGD in Julia.
@@ -2082,6 +2082,9 @@ Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGDDe
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SGD2.jl,https://github.com/johnmyleswhite/SGD2.jl,"Stochastic gradient descent, a draft of new methods for SGD calculations."
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),SolveDSGE,https://github.com/RJDennis/SolveDSGE,"The package contains a variety of methods for solving Dynamic Stochastic General Equilibrium (DSGE) models to first- or second-order accuracy. It will be of most interest to macro-economists, but others may find the routines for reordering the complex Schur form and the generalized complex Schur form useful."
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),StochasticSearch.jl,https://github.com/phrb/StochasticSearch.jl,Stochastic Local Search using Julia.
+Statistics,HMM,DynamicDiscreteModels.jl,https://github.com/BenConnault/DynamicDiscreteModels.jl,Inference for partially observed Markov chains.
+Statistics,HMM,HiddenMarkovModels.jl,https://github.com/BenConnault/HiddenMarkovModels.jl,Basic inference with Hidden Markov Models.
+Statistics,HMM,RustModels.jl,https://github.com/BenConnault/RustModels.jl,Dynamic Discrete Choice Models with or without unobserved state variables.
 Statistics,Resources,gradient analysis,https://github.com/NeuroanatomyAndConnectivity/gradient_analysis,Notebooks on Gradient analysis.
 Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
 Statistics,Cookbooks,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
