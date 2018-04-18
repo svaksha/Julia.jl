@@ -36,6 +36,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
 + [Dolo.jl](https://github.com/EconForge/Dolo.jl) :: A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
++ [Econometrics.jl](https://github.com/JuliaFinMetriX/Econometrics.jl) :: The Econometrics.jl package contains functionalities for (financial) econometric research.
 + [FredData.jl](https://github.com/micahjsmith/FredData.jl) :: Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 + [fund.jl](https://github.com/davidanthoff/fund.jl) :: An implementation of FUND in Julia.
 + [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
@@ -55,6 +56,8 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [BusinessDays.jl](https://github.com/felipenoris/BusinessDays.jl) :: A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
 + [Currencies.jl](https://github.com/TotalVerb/Currencies.jl) ::  Simple checked fixed-point currencies for Julia. 
 + [CTechCommon.jl](https://github.com/tbreloff/CTechCommon.jl) :: Some functionality to be shared among packages.  {Usable: 4, Robust: 4, Active: 1}
++ [DynAssMgmt.jl](https://github.com/JuliaFinMetriX/DynAssMgmt.jl) :: This package implements a framework to set up and test dynamic asset management strategies.
++ [EconDatasets.jl](https://github.com/JuliaFinMetriX/EconDatasets.jl) :: Accessing econometric datasets in Julia.
 + [EodData.jl](https://github.com/adriantorrie/EodData.jl) :: Julia package for connecting to the [EodData.com XML Web Service](http://eoddata.com/products/webservice.aspx).
 + [FinMarkets.jl](https://github.com/imanuelcostigan/FinMarkets.jl) :: Describe and model financial markets objects using Julia.
 + [FinancialMarkets.jl](https://github.com/imanuelcostigan/FinancialMarkets.jl) :: Describe and model financial markets objects using Julia.
