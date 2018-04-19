@@ -34,7 +34,6 @@
 **NOTE**: This is a list of Julia language packages that automate the loading process for specific datasets. To use the datasets you may use these packages or write your own Julia package or modify existing ones.
 + [CommonCrawl.jl](https://github.com/tanmaykm/CommonCrawl.jl) :: Interface to common crawl dataset on Amazon S3.
 + [DataDeps.jl](https://github.com/oxinabox/DataDeps.jl): BinDeps for Data. Read the [demo blog post](http://white.ucc.asn.au/2018/01/18/DataDeps.jl-Repeatabled-Data-Setup-for-Repeatable-Science.html).
-+ [DataStreams.jl](https://github.com/lindahua/DataStreams.jl) :: A Julia package to support streaming process of data .
 + [Faker.jl](https://github.com/codeneomatrix/Faker.jl) :: A package that generates fake data.
 + [FaceDatasets.jl](https://github.com/dfdx/FaceDatasets.jl) :: A package for easy access to face-related datasets.
 + [Maker.jl](https://github.com/tshort/Maker.jl) :: A tool like `make` for data analysis in Julia.
@@ -77,12 +76,11 @@
 
 ## Genome
 + [ChromosomeMappings](https://github.com/dpryan79/ChromosomeMappings) :: This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes. 
-+ A database of OA/free [RNA-seq and genomic](http://jtleek.com/data/) data-sets used in research projects at JHU.
 + Download [Gene](https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide.
 + [Saccharomyces Genome Database](https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database)
-+ [Genome Project Database](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj)
++ [Genome Project Database](https://www.ncbi.nlm.nih.gov/bioproject).
 + [RefSeqGene](https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project.
-+ The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and [Journal](http://www.gigasciencejournal.com/content/3/1/8) and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
++ The [3000 Rice Genomes Project Data](http://dx.doi.org/10.5524/200001), GigaScience Database and Journal, and [blog article in BMC](See also: http://blogs.biomedcentral.com/gigablog/2014/05/29/publish-data-fight-world-hunger/).
 + NCBI's [Sequence Read Archive (SRA)](http://www.ncbi.nlm.nih.gov/sra)
 + [DataLad](http://datalad.org) :: aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github.
 
@@ -128,7 +126,7 @@
 # DATA
 
 ## DATA-DataScience
-+ Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html).
++ Korowjev blogs about [Julia in safe Data Science](http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html).
 
 ## DATA-General
 + [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) :: A collection of large-scale public datasets on the Internet.

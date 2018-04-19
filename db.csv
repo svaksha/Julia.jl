@@ -878,6 +878,10 @@ i18n-L10n,Chinese,julia_zh_cn,https://github.com/JuliaCN/julia_zh_cn,Simplified 
 i18n-L10n,Chinese,JetAlpha,http://jetalpha.org/,A Julia playground (in Chinese) for Julians. [Source Code](https://github.com/KDr2/JetAlpha.jl).
 i18n-L10n,Japanese,julia_doc_ja,https://github.com/iTakeshi/julia_doc_ja,Japanese documentation.
 i18n-L10n,OtherSites,Shapecatcher.com,http://shapecatcher.com/) is a Unicode character recognition website,
+LICENSE-AGPLv3,CODELICENSE:AGPLv3+,OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
+LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
+LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
+LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),he __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License,"https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 Mathematics,CRYPTOGRAPHY,BlockCipherSelfStudy.jl,https://github.com/andrewcooke/BlockCipherSelfStudy.jl,"Blocks, and RC5."
 Mathematics,CRYPTOGRAPHY,Crypto.jl,https://github.com/danielsuo/Crypto.jl,"A library that wraps OpenSSL, but also has pure Julia implementations for reference."
 Mathematics,CRYPTOGRAPHY,FNVHash.jl,https://github.com/samoconnor/FNVHash.jl,"FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion."
@@ -1311,7 +1315,6 @@ Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl,A simp
 Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
 OpenData,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
-OpenData,SOFTWARE,DataStreams.jl,https://github.com/lindahua/DataStreams.jl,A Julia package to support streaming process of data .
 OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
 OpenData,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
 OpenData,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
@@ -1328,10 +1331,9 @@ OpenData,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open
 OpenData,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
 OpenData,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
 OpenData,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
-OpenData,Genome, database of OA/free [RNA-seq and genomic,http://jtleek.com/data/) data-sets used in research projects at JHU,
 OpenData,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
 OpenData,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
-OpenData,Genome,Genome Project Database,http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?DB=genomeprj,
+OpenData,Genome,Genome Project Database,https://www.ncbi.nlm.nih.gov/bioproject),
 OpenData,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
 OpenData,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
 OpenData,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
@@ -1354,7 +1356,7 @@ OpenData,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki
 OpenData,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
 OpenData,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
 OpenData,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
-OpenData,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/26/Julia-safe-data-science.html),
+OpenData,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html),
 OpenData,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
 OpenData,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
 OpenData,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
@@ -2323,7 +2325,7 @@ Utilities,DocumentProcessors,ConfParser.jl,https://github.com/templarlabs/ConfPa
 Utilities,DocumentProcessors,ExcelReaders.jl,https://github.com/davidanthoff/ExcelReaders.jl,A package that provides functionality to read Excel files.
 Utilities,DocumentProcessors,JuliaReport.jl,https://github.com/mpastell/JuliaReport.jl,A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 Utilities,DocumentProcessors,Taro.jl,https://github.com/aviks/Taro.jl,can process office documents in Julia.
-Utilities,LaTeX,Expr2LaTeX.jl,https://github.com/oxinaboxExpr2LaTeX.jl,Take a julia `Expr` and render it as LaTeX.
+Utilities,LaTeX,Expr2LaTeX.jl,https://github.com/oxinabox/Expr2LaTeX.jl,Take a julia `Expr` and render it as LaTeX.
 Utilities,LaTeX,LaTeX.jl,https://github.com/rened/LaTeX.jl,"Create LaTeX documents from within Julia, including image handling."
 Utilities,LaTeX,LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
 Utilities,LaTeX,LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,"This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson."

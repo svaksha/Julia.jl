@@ -16,25 +16,27 @@ function scrape_links()
     end
 end
 
-# `nruning` is the number of concurrent requests, and `nlimit` is it's limit
-cond, nruning, nlimit = Condition(), Ref(0), try parse(Int, ARGS[1]) catch 20 end
+# `nrunning` is the number of concurrent requests, and `nlimit` is it's limit
+cond, nrunning, nlimit = Condition(), Ref(0), try parse(Int, ARGS[1]) catch 20 end
 
 for (file, line, link) in Task(scrape_links)
-    nruning[] < nlimit || wait(cond)
+    nrunning[] < nlimit || wait(cond)
 
-    nruning[] += 1
+    nrunning[] += 1
 
     @schedule try
         status = get(link) |> statuscode
         status != 200 && println("In file $file, line: $line, link $link responses $status")
     catch e
-        println("In file $file, line: $line, request to link $link failed with exception:\n", e)
+        print("In file $file, line: $line, request to link $link failed with exception:\n", e)
     finally
-        nruning[] -= 1
+        nrunning[] -= 1
         notify(cond)
     end
 end
 
-while nruning[] != 0 wait(cond) end # do not exit before all requests done
+while nrunning[] != 0 wait(cond)
+    close(file)
+end # do not exit before all requests done
 
-println("finished~")
+print("Finished checking all the markdown files for broken URIs !")

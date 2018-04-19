@@ -199,7 +199,7 @@
 + [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
 ### LaTeX
-+ [Expr2LaTeX.jl](https://github.com/oxinaboxExpr2LaTeX.jl) :: Take a julia `Expr` and render it as LaTeX.
++ [Expr2LaTeX.jl](https://github.com/oxinabox/Expr2LaTeX.jl) :: Take a julia `Expr` and render it as LaTeX.
 + [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
 + [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
 + [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
