@@ -526,7 +526,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [Brim.jl](https://github.com/PoisotLab/Brim.jl) :: BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
 + [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) :: Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
-+ [EvolvingGraphs.jl](ttps://github.com/weijianzhang/EvolvingGraphs.jl) :: Dynamic Graph Analysis Framework in Julia.
++ [EvolvingGraphs.jl](https://github.com/EtymoIO/EvolvingGraphs.jl) :: Working with time-dependent networks in Julia.
 + [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
 + [Flow.jl](https://github.com/MikeInnes/Flow.jl) :: DataFlow programming for Julia.
 + [FunctionalCollections.jl](https://github.com/zachallaun/FunctionalCollections.jl) :: Functional and and persistent data structures for Julia.

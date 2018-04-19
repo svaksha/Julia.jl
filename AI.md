@@ -3,6 +3,7 @@
 + [MACHINE LEARNING](#machine-learning)
 + [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
+   + [English](#english)
    + [Finite Automata](#finite-automata)
    + [Japanese](#japanese)
 + [SPEECH RECOGNITION](#speech-recognition)
@@ -161,6 +162,9 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
 + [Word2Vec.jl](https://github.com/weijianzhang/Word2Vec.jl) :: Julia interface to word2vec.
 + [WordNet.jl](https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®. 
+
+### English
++ [EnglishText.jl](https://github.com/TotalVerb/EnglishText.jl) :: Utilities for English-language quirks in Julia.
 
 ### [Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 + [FiniteStateMachine.jl](https://github.com/tinybike/FiniteStateMachine.jl) :: A simple Julia implementation of finite state machines.

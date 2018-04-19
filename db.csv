@@ -132,6 +132,7 @@ AI,NLP,TopicModels.jl,https://github.com/slycoder/TopicModels.jl),
 AI,NLP,TOML.jl,https://github.com/pygy/TOML.jl,A TOML parser.
 AI,NLP,Word2Vec.jl,https://github.com/weijianzhang/Word2Vec.jl,Julia interface to word2vec.
 AI,NLP,WordNet.jl,https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®,
+AI,English,EnglishText.jl,https://github.com/TotalVerb/EnglishText.jl,Utilities for English-language quirks in Julia.
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
 AI,Resources,Text-Benchmarks,http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/,Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
@@ -1234,6 +1235,7 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),B
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),DeepReshapes.jl,https://github.com/lmshk/DeepReshapes.jl,Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),EvolvingGraphs.jl,https://github.com/EtymoIO/EvolvingGraphs.jl,Working with time-dependent networks in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),FingerTrees.jl,https://github.com/mschauer/FingerTrees.jl,"A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented."
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Flow.jl,https://github.com/MikeInnes/Flow.jl,DataFlow programming for Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),FunctionalCollections.jl,https://github.com/zachallaun/FunctionalCollections.jl,Functional and and persistent data structures for Julia.
