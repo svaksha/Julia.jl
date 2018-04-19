@@ -216,6 +216,7 @@ API,JavaScript,PlotlyJS.jl,https://github.com/spencerlyon2/PlotlyJS.jl,Julia wra
 API,JavaScript,TableView.jl,https://github.com/JuliaComputing/TableView.jl,A spreadsheet-like display wrapping `Handsontable.js`.
 API,JavaScript,twiddle.jl,https://github.com/intdxdt/twiddle.jl,Bit twiddle port from port from bit-twiddle.
 API,JavaScript,Vue.jl,https://github.com/JuliaGizmos/Vue.jl,A Julia wrapper for `Vue.js`.
+API,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
 API,MATLAB,jlcall,https://github.com/twadleigh/jlcall,Call Julia from MATLAB.
 API,MATLAB,M2J.jl,https://github.com/iamed2/M2J.jl,A MATLAB to Julia Compiler.
 API,MATLAB,MAT.jl,https://github.com/simonster/MAT.jl,A Julia module for reading MATLAB files.
@@ -1665,6 +1666,7 @@ Server,FRAMEWORKS,skeleton-webapp.jl,https://bitbucket.org/jocklawrie/skeleton-w
 Server,RoR,RoR_julia_eg,https://github.com/Ken-B/RoR_julia_eg,An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
 Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP,
 Server,Middleware,Mongrel2.jl,https://github.com/aviks/Mongrel2.jl,Mongrel2 handlers in Julia.
+Server,Middleware,Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,"a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use."
 Server,Middleware,ZMQ.jl,https://github.com/JuliaLang/ZMQ.jl,Julia interface to ZeroMQ.
 Server,Middleware,hread on building a [web app for enterprise risk management,https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g),
@@ -1687,8 +1689,8 @@ Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia impl
 Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
 Server,SECURITY,SSH.jl,https://github.com/Keno/SSH.jl,An SSH implementation.
 Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
-Server,TemplateEngines,Mustache.jl,https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia,
 Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
+Server,WEB,Blink.jl,https://github.com/JunoLab/Blink.jl,Web-based GUIs for Julia.
 Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
 Server,WEB,CutShortURL.jl,https://github.com/rahulkp220/CutShortURL.jl,The simplest URL Shortener for Julia. A Julia wrapper around https://tinyurl.com/
 Server,WEB,Diana.jl,https://github.com/codeneomatrix/Diana.jl,GraphQL for Julia 0.6
@@ -1720,16 +1722,14 @@ Server,CSS,Cascadia.jl,https://github.com/Algocircle/Cascadia.jl,A CSS Selector 
 Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
 Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
 Server,Videos,WebPlayer.jl,https://github.com/SimonDanisch/WebPlayer.jl,Playing videos with Julia in the web.
-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Blink.jl,https://github.com/JunoLab/Blink.jl,"A Julia API (a web-based GUI) for creating and working with browser windows, (currently) via Atom-Shell."
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),CodeTools.jl,https://github.com/JunoLab/CodeTools.jl,"A collection of tools for handling Julia code (evaluation, autocompletion etc.), designed to be used as a backend library for IDE support."
-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),DevTools.jl,https://github.com/JunoLab/DevTools.jl,Dev tools that uses the `Media.jl` display system.
+Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),DevTools.jl,https://github.com/JunoLab/DevTools.jl,"provides a couple of useful graphical tools for working with Julia, built on top of Blink.jl."
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Hiccup.jl,https://github.com/JunoLab/Hiccup.jl,A super-simple library designed to make making HTML easy in Julia. It's heavily inspired by Clojure's Hiccup DSL.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaWebRepl.jl,https://github.com/vtjnash/JuliaWebRepl.jl,
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),LanguageServer.jl,https://github.com/JuliaEditorSupport/LanguageServer.jl,An implementation of the Microsoft Language Server Protocol for the julia language.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),LNR.jl,https://github.com/JunoLab/LNR.jl,Line numbering reader.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Media.jl,https://github.com/JunoLab/Media.jl,A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),MethImp.jl,https://github.com/JunoLab/MethImp.jl,Method Importing.
-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Space-Science,Aeronautics,ices-desktop,https://github.com/abieler/ices-desktop),
 Space-Science,Aeronautics,Spice.jl,https://github.com/abieler/Spice.jl,NASA's SPICE observation geometry system.
 Space-Science,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
