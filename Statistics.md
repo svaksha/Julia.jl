@@ -3,21 +3,19 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [ACTUARIAL SCIENCE](#actuarial-science)
    + [Econometrics](#econometrics)
    + [Finance](#finance)
-   + [Org-JuliaQuant](#org-juliaquant)
 + [DATA SCIENCE](#data-science)
 + [OPERATIONS RESEARCH](#operations-research)
    + [Optimization](#optimization)
-      + [Genetic Programming](#genetic-programming)
-      + [Geometric Programming](#geometric-programming)
+        + [Genetic Programming](#genetic-programming)
+        + [Geometric Programming](#geometric-programming)
    + [Org-JuliaOpt](#org-juliaopt)
    + [Org-JuliaSmoothOptimizers](#org-juliasmoothoptimizers)
    + [Regression Analysis](#regression-analysis)
    + [Simulation](#simulation)
 + [STATISTICS](#statistics)
    + [Org-JuliaStats](#org-juliastats)
-      + [Probabilistic Programming](#probabilistic-programming)
+        + [Probabilistic Programming](#probabilistic-programming)
    + [Geostatistics (Spatial Statistics)](#geostatistics)
-   + [Extreme values](#extreme-values)
    + [Bayesian](#bayesian)
    + [Gaussian](#gaussian)
    + [Models](#models)
@@ -61,9 +59,12 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [DynAssMgmt.jl](https://github.com/JuliaFinMetriX/DynAssMgmt.jl) :: This package implements a framework to set up and test dynamic asset management strategies.
 + [EconDatasets.jl](https://github.com/JuliaFinMetriX/EconDatasets.jl) :: Accessing econometric datasets in Julia.
 + [EodData.jl](https://github.com/adriantorrie/EodData.jl) :: Julia package for connecting to the [EodData.com XML Web Service](http://eoddata.com/products/webservice.aspx).
++ [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
 + [FinMarkets.jl](https://github.com/imanuelcostigan/FinMarkets.jl) :: Describe and model financial markets objects using Julia.
 + [FinancialMarkets.jl](https://github.com/imanuelcostigan/FinancialMarkets.jl) :: Describe and model financial markets objects using Julia.
++ [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
 + [FRED.jl](https://github.com/joidegn/FRED.jl) :: Package to read from the St. Louis Federal Reserve Bank API.
++ [Grist.jl](https://github.com/JuliaQuant/Grist.jl) :: Financial blotter.
 + [InterestRates.jl](https://github.com/felipenoris/InterestRates.jl) :: Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures.
 + [Ito.jl](https://github.com/aviks/Ito.jl) :: An open source toolkit for financial computing in Julia.
 + [LibTrading.jl](https://github.com/StefanKarpinski/LibTrading.jl) :: A wrapper for the libtrading library, an _open source API for high-performance, low-latency trading applications_.
@@ -75,22 +76,16 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [RobHood.jl](https://github.com/cndesantana/RobHood.jl) :: Open platform to investigate markets. 
 + [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
 + [stockMonitor.jl](https://github.com/krthkj/stockMonitor.jl) :: A module which constantly collects and performs analyses the stock market.
++ [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values.
++ [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
++ [TradingLogic.jl](https://github.com/JuliaQuant/TradingLogic.jl) :: An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
 + [TradingSystem.jl](https://github.com/milktrader/TradingSystem.jl) :: Quantitative trading framework in Julia.
 + [WorldBankDataTd.jl](https://github.com/JuliaFinMetriX/WorldBankDataTd.jl) :: Accessing World Bank Data.
 + [YStockData.jl](https://github.com/Algocircle/YStockData.jl) :: Fetch Data from Yahoo Finance.
 + [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) :: The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 
 
-## Org-[JuliaQuant](https://github.com/JuliaQuant)
-+ [FinancialBlotter.jl](https://github.com/JuliaQuant/FinancialBlotter.jl) :: Financial Instruments and Accounting in Julia.
-+ [FinanceStats.jl](https://github.com/JuliaQuant/FinanceStats.jl) :: An experimental sandbox of functions that implement common statistical methods in finance.
-+ [Grist.jl](https://github.com/JuliaQuant/Grist.jl) :: Financial blotter.
-+ [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values.
-+ [TradeModels.jl](https://github.com/JuliaQuant/TradeModels.jl) :: Modeling the allocation of resources to markets based on the restraints of objective functions.
-+ [TradingLogic.jl](https://github.com/JuliaQuant/TradingLogic.jl) :: An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
-
-
-###### Resources
+##### Resources
 + [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: A repository that houses example code, applications and teaching material related to QuantEcon.
 + [Self-Study Plan for Becoming a Quantitative Developer](http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 + Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo.
@@ -100,7 +95,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 # DATASCIENCE
 + [DataScienceBestPractices](https://github.com/AllenDowney/DataScienceBestPractices) :: Supporting code for a video series on best practices for exploratory data analysis.
 
-###### Learning Resources
+##### Learning Resources
 + [Free Data Mining Books](http://christonard.com/12-free-data-mining-books/) and the [HN thread with more links](https://news.ycombinator.com/item?id=7760969)
 
 ----
@@ -319,12 +314,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
 
 
-## Org-[JuliaData](https://github.com/JuliaData/)
-+ [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: A package for working with tabular data in Julia.
-   * _DOCS_:: The [DataFrames manual](https://juliadata.github.io/DataFrames.jl/stable/).
-+ [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) :: An array type to work with categorical (nominal and ordinal) data.
-
-
 ## Org-[JuliaStats](https://JuliaStats.github.io)
 + [ConjugatePriors.jl](https://github.com/JuliaStats/ConjugatePriors.jl) :: A package to support conjugate prior distributions.
 + [DataArrays.jl](https://github.com/JuliaStats/DataArrays.jl) :: This package provides a type to store arrays with missing values efficiently.
@@ -368,9 +357,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [GslibIO.jl](https://github.com/juliohm/GslibIO.jl) :: Utilities to read/write extended GSLIB files in Julia.
 + [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
 
-## Extreme values
-
-+ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme value statistics in Julia
 
 ## Bayesian
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
