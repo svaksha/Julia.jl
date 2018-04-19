@@ -146,7 +146,6 @@ __Local meetup groups located in various continents around the world.__
 ## Asia- CHINA
 + [Beijing](http://www.meetup.com/juliacn/) Julia Programming Language Meetup.
 + [Shenzhen,2016](http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen.
-+ [meetups in China](http://julialang.cn) more informations about Julia Programming Language Meetup in China.
 
 [//]: # (######################################################################)
 
@@ -242,8 +241,6 @@ __Local meetup groups located in various continents around the world.__
 #### NY
 + [NYC](http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group.
 
-#### WA
-+ [Seattle](http://www.meetup.com/Seattle-Julia-Users/) JUG.
 
 [//]: # (######################################################################)
 
@@ -361,7 +358,6 @@ __Local meetup groups located in various continents around the world.__
    * Westley Hennigh : [Who optimizes the optimizers](http://youtu.be/Qito5AGSv4s?a)
    * Yee Sian Ng : [JuliaGeo - Working with Geospatial data in Julia](http://youtu.be/MLGFzPS4FTg?a)
    * Zachary Yedidia : [SFML.jl - Julia bindings for the Simple Fast](http://youtu.be/UKfM7EopMe0?a)
-+ Leah Hanson (@astrieanna) talks about _[How Julia Goes Fast](https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014.
 + EuroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython](https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson.
 + JuliaCon-2014 ::
    + [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson.

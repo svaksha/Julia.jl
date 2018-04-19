@@ -60,7 +60,7 @@ __Networking, web security, frameworks and other Web server related things go he
 + [OAuth.jl](https://github.com/randyzwitch/OAuth.jl) :: Pure Julia implementation of OAuth v1.0a.
 + [SecureSessions.jl](https://github.com/JockLawrie/SecureSessions.jl) :: Secure sessions for web apps written in Julia.
 + [SSH.jl](https://github.com/Keno/SSH.jl) :: An SSH implementation.
-+ [wildcore.jl](https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl) :: A password hashing algorithm ported from of the Python implementation of PBKDF2.
+
 
 ----
    
@@ -86,14 +86,12 @@ __Networking, web security, frameworks and other Web server related things go he
 + [Morsel.jl](https://github.com/JuliaLang/Morsel.jl) :: A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl.
 + [Pages.jl](https://github.com/EricForgy/Pages.jl) :: A simple way to create and interact with web pages.
 + [Requests.jl](https://github.com/JuliaWeb/Requests.jl) :: HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing. 
-+ [RestClient.jl](https://github.com/analyzere/RestClient.jl) :: A simple REST client for Julia.
 + [Romeo.jl](https://github.com/mneudert/Romeo.jl) :: Another HTTP server to log requests, events, responses.
 + [URITemplate.jl](https://github.com/JuliaWeb/URITemplate.jl) :: This package provides URI Template interpolation by implementing (RFC 6570).
 + [UAParser.jl](https://github.com/JuliaWeb/UAParser.jl) :: UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser.
 + [URIParser.jl](https://github.com/JuliaWeb/URIParser.jl) :: Pure julia URI parser.
 + [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) :: A WebSockets server library for Julia.
 + [WebSocketClient.jl](https://github.com/dandeliondeathray/WebSocketClient.jl) :: A Julia package for client side WebSockets.
-+ [WWWClient.jl](https://github.com/JuliaWeb//WWWClient.jl) :: is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing. 
 
 ###### Resources
 + The [Julia Webstack](http://juliawebstack.org) documentation for [TCP Sockets for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
@@ -120,5 +118,4 @@ __Networking, web security, frameworks and other Web server related things go he
 + [LanguageServer.jl](https://github.com/JuliaEditorSupport/LanguageServer.jl) :: An implementation of the Microsoft Language Server Protocol for the julia language.
 + [LNR.jl](https://github.com/JunoLab/LNR.jl) :: Line numbering reader.
 + [Media.jl](https://github.com/JunoLab/Media.jl) :: A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
-+ [MethImp.jl](https://github.com/JunoLab/MethImp.jl) :: Method Importing.
 

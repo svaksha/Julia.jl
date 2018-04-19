@@ -139,7 +139,7 @@
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
 
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
-+ [JuliaBox](http://www.juliabox.org/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) and a [mailing list](https://groups.google.com/forum/#!topic/julia-box/) for discussions.
++ [JuliaBox](https://juliabox.com/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks).
    + [JuliaBoxUtils.jl](https://github.com/tanmaykm/JuliaBoxUtils.jl) :: JuliaBox utility methods.
 + [Julia on the SageMath cloud server](https://cloud.sagemath.com).
 + [koding](https://koding.com/Julia) has an interactive online Julia REPL.
@@ -154,7 +154,6 @@
 + [Humanize.jl](https://github.com/IainNZ/Humanize.jl) :: Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron.
 + [Osmosis.jl](https://github.com/SimonDanisch/Osmosis.jl) :: Chat client for Julia. 
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
-   + List of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX](https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt)
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
 * https://github.com/BioJulia/Automa.jl
 

@@ -43,7 +43,7 @@
 + [PublicSuffix.jl](https://github.com/tanmaykm/PublicSuffix.jl) :: Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 + [PubMedMiner.jl](https://github.com/bcbi/PubMedMiner.jl) :: Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept. 
 + [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl) :: Julia package for loading many of the datasets available in R.
-+ [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
++ [Socrata.jl](https://github.com/drewgendreau/Socrata.jl) :: An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA. 
 + [UCIMLRepo.jl](https://github.com/siddhantjain/UCIMLRepo.jl) :: A small package to allow for easy access and download of datasets from UCI ML repository.
 + [WorldBankData.jl](https://github.com/4gh/WorldBankData.jl) :: The World Bank provides free access to data about development at data.worldbank.org.
 

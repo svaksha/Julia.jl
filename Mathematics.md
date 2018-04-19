@@ -236,7 +236,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CUSPARSE.jl](https://github.com/kshyatt/CUSPARSE.jl) :: Julia interface to NVIDIA's CUSPARSE library.
 + [CUSOLVER.jl](https://github.com/kshyatt/CUSOLVER.jl) :: Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
 + [green-fairy](https://github.com/carnaval/green-fairy) :: Lattice trees.
-+ [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
++ [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the Hypre library.
 + [IDRsSolver.jl](https://github.com/mschauer/IDRsSolver.jl) :: Induced Dimension Reduction method [IDR(s)] for solving general linear equations. 
 + [juliaSpot](https://github.com/slimgroup/juliaSpot) :: The Julia implementation of the Spot Linear Algebra Package.
 + [KrylovSolvers.jl](https://github.com/cfbaptista/KrylovSolvers.jl) :: Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
@@ -296,7 +296,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
 + [Rotations.jl](https://github.com/FugroRoames/Rotations.jl) ::  Julia implementations for different rotation parameterisations.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
-+ [SizeArrays.jl](https://github.com/andreasnoackjensen/SizeArrays.jl) :: Julia array parametrised by size instead of dimension.
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) :: Statically sized arrays for Julia `v0.5`.
@@ -632,6 +631,4 @@ algebra library in Julia.
 + [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) :: A simple Sudoku solver in Julia by @johnmyleswhite.
 + [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
 + [SudokuService](https://github.com/IainNZ/SudokuService) :: Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
-+ [TowerOfHanoi.jl](https://github.com/thiruk/TowerOfHanoi.jl) :: Solution to Tower Of Hanoi using Julia.
-
 

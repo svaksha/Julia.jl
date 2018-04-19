@@ -1014,7 +1014,7 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CUSPARSE.jl,https://github.com/kshyatt/CUSPARSE.jl,Julia interface to NVIDIA's CUSPARSE library.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CUSOLVER.jl,https://github.com/kshyatt/CUSOLVER.jl,Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),green-fairy,https://github.com/carnaval/green-fairy,Lattice trees.
-Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Hypre.jl,https://github.com/jgoldfar/Hypre.jl,A wrapper for the [Hypre](http://acts.nersc.gov/hypre/) library.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Hypre.jl,https://github.com/jgoldfar/Hypre.jl,A wrapper for the Hypre library.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),IDRsSolver.jl,https://github.com/mschauer/IDRsSolver.jl,Induced Dimension Reduction method [IDR(s)] for solving general linear equations.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),juliaSpot,https://github.com/slimgroup/juliaSpot,The Julia implementation of the Spot Linear Algebra Package.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),KrylovSolvers.jl,https://github.com/cfbaptista/KrylovSolvers.jl,Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
@@ -1071,7 +1071,6 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Rotations.jl,https://github.com/FugroRoames/Rotations.jl, Julia implementations for different rotation parameterisations.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
-Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SizeArrays.jl,https://github.com/andreasnoackjensen/SizeArrays.jl,Julia array parametrised by size instead of dimension.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StaticArrays.jl,https://github.com/JuliaArrays/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
@@ -1311,7 +1310,6 @@ Mathematics,PUZZLES,sudoku,https://github.com/Alexander-N/sudoku,Reimplementing 
 Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl,A simple Sudoku solver in Julia by @johnmyleswhite.
 Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
-Mathematics,PUZZLES,TowerOfHanoi.jl,https://github.com/thiruk/TowerOfHanoi.jl,Solution to Tower Of Hanoi using Julia.
 OpenData,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
 OpenData,SOFTWARE,DataStreams.jl,https://github.com/lindahua/DataStreams.jl,A Julia package to support streaming process of data .
 OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
@@ -1322,7 +1320,7 @@ OpenData,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Juli
 OpenData,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
 OpenData,SOFTWARE,PubMedMiner.jl,https://github.com/bcbi/PubMedMiner.jl,Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept.
 OpenData,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the datasets available in R.
-OpenData,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the [Socrata Open Data API](http://dev.socrata.com) and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
+OpenData,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
 OpenData,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
 OpenData,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
 OpenData,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
@@ -1576,7 +1574,6 @@ Resources,GENERALRESOURCES,List of free online programming and CS courses,https:
 Resources,GENERALRESOURCES,LectureNotes,https://github.com/UWSEDS/LectureNotes,Lecture content for UW Software Engineering for Data Scientists.
 Resources,Asia-CHINA,Beijing,http://www.meetup.com/juliacn/) Julia Programming Language Meetup,
 Resources,Asia-CHINA,"Shenzhen,2016",http://julialang.cn/meetup) Register for Julia Programming Language Meetup 2016 @ Shenzhen,
-Resources,Asia-CHINA,meetups in China,http://julialang.cn) more informations about Julia Programming Language Meetup in China,
 Resources,[Delhi](https://en.wikipedia.org/wiki/Delhi),Julia Delhi,https://github.com/juliadelhi,
 Resources,KA,Bangalore,https://www.meetup.com/Bangalore-Julia-User-Group/) Julia User Group,
 Resources,Asia-JAPAN,Tokyo Julia User Group,http://juliatokyo.connpass.com/event/6891/,
@@ -1600,7 +1597,6 @@ Resources,IL,Chicago,http://www.meetup.com/JuliaChicago/) Julia Meetup group,
 Resources,MA,Cambridge Area Julia Users Network (C.A.J.U.N.),http://www.meetup.com/julia-cajun/,
 Resources,NC,Triangle Julia Users,"http://www.meetup.com/Triangle-Julia-Users/), Raleigh",
 Resources,NY,NYC,http://www.meetup.com/NYC-Julia-User-Group/) Julia User Group,
-Resources,WA,Seattle,http://www.meetup.com/Seattle-Julia-Users/) JUG,
 Resources,SouthAmerica-BRAZIL,Campinas,http://www.meetup.com/Campinas-Julia-Language-Meetup/) meetup group,
 Resources,SouthAmerica-BRAZIL,Rio de Janeiro,http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG,
 Resources,SouthAmerica-BRAZIL,Sao Paulo,http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group,
@@ -1652,7 +1648,6 @@ Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/wat
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
 Resources,VIDEOS,2015-JuliaCon Videos,https://www.youtube.com/playlist?list=PLP8iPy9hna6Sdx4soiGrSefrmOPdUWixM,
 Resources,VIDEOS,lides for the [Optimization,http://iaindunning.com/talks/JuliaCon15JuliaOpt.pdf) talk,
-Resources,VIDEOS,eah Hanson (@astrieanna) talks about _[How Julia Goes Fast,"https://yow.eventer.com/yow-2014-1222/how-julia-goes-faster-by-leah-hanson-1694)_, the details of design and implementation choices that help Julia get good performance. YOW!, Australia, Dec/2014",
 Resources,VIDEOS,"uroSciPy-2014 Video: [Crossing Language Barriers with Julia, SciPy, IPython",https://www.youtube.com/watch?v=jhlVHoeB05A&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi) by Steven G. Johnson,
 Resources,VIDEOS,Introduction to Julia Internals,https://www.youtube.com/watch?v=osdeT-tWjzk) by Jeff Bezanson,
 Resources,VIDEOS,Moving Julia into Production,https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta,
@@ -1689,7 +1684,6 @@ Server,SECURITY,HttpServer.jl,https://github.com/JuliaLang/HttpServer.jl,"a basi
 Server,SECURITY,OAuth.jl,https://github.com/randyzwitch/OAuth.jl,Pure Julia implementation of OAuth v1.0a.
 Server,SECURITY,SecureSessions.jl,https://github.com/JockLawrie/SecureSessions.jl,Secure sessions for web apps written in Julia.
 Server,SECURITY,SSH.jl,https://github.com/Keno/SSH.jl,An SSH implementation.
-Server,SECURITY,wildcore.jl,https://github.com/codr4life/wildcore.jl/blob/master/pbkdf2.jl,A password hashing algorithm ported from of the Python implementation of PBKDF2.
 Server,WEB,Biryani.jl,https://github.com/eraviart/Biryani.jl,A conversion and validation toolbox.
 Server,WEB,Blink.jl,https://github.com/JunoLab/Blink.jl,Web-based GUIs for Julia.
 Server,WEB,Curl.jl,https://github.com/forio/Curl.jl,A Julia HTTP curl library.
@@ -1711,14 +1705,12 @@ Server,WEB,Merly.jl,https://github.com/codeneomatrix/Merly.jl,Micro framework fo
 Server,WEB,Morsel.jl,https://github.com/JuliaLang/Morsel.jl,"A Sintra-like micro framework for declaring routes and handling requests, built over HttpServer.jl and Meddle.jl."
 Server,WEB,Pages.jl,https://github.com/EricForgy/Pages.jl,A simple way to create and interact with web pages.
 Server,WEB,Requests.jl,https://github.com/JuliaWeb/Requests.jl,HTTP client written in julia (depends on joyent/http-parser) for HTTP parsing.
-Server,WEB,RestClient.jl,https://github.com/analyzere/RestClient.jl,A simple REST client for Julia.
 Server,WEB,Romeo.jl,https://github.com/mneudert/Romeo.jl,"Another HTTP server to log requests, events, responses."
 Server,WEB,URITemplate.jl,https://github.com/JuliaWeb/URITemplate.jl,This package provides URI Template interpolation by implementing (RFC 6570).
 Server,WEB,UAParser.jl,https://github.com/JuliaWeb/UAParser.jl,"UAParser is a Julia port of ua-parser, which itself is a multi-language port of BrowserScope's user agent string parser."
 Server,WEB,URIParser.jl,https://github.com/JuliaWeb/URIParser.jl,Pure julia URI parser.
 Server,WEB,WebSockets.jl,https://github.com/JuliaWeb/WebSockets.jl,A WebSockets server library for Julia.
 Server,WEB,WebSocketClient.jl,https://github.com/dandeliondeathray/WebSocketClient.jl,A Julia package for client side WebSockets.
-Server,WEB,WWWClient.jl,https://github.com/JuliaWeb//WWWClient.jl,"is a HTTP client written in julia, and depends on _joyent/http-parser_ for HTTP parsing."
 Server,CSS,Cascadia.jl,https://github.com/Algocircle/Cascadia.jl,A CSS Selector library in Julia.
 Server,Email,Mandrill.jl,https://github.com/aviks/Mandrill.jl,Mandrill API in Julia.
 Server,Email,SMTPClient.jl,https://github.com/JuliaWeb/SMTPClient.jl,An SMTP client to send emails from Julia.
@@ -1730,7 +1722,6 @@ Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environme
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),LanguageServer.jl,https://github.com/JuliaEditorSupport/LanguageServer.jl,An implementation of the Microsoft Language Server Protocol for the julia language.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),LNR.jl,https://github.com/JunoLab/LNR.jl,Line numbering reader.
 Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Media.jl,https://github.com/JunoLab/Media.jl,A display system which enables the user handle multiple input/output devices and decide what media types get displayed where.
-Server,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),MethImp.jl,https://github.com/JunoLab/MethImp.jl,Method Importing.
 Space-Science,Aeronautics,ices-desktop,https://github.com/abieler/ices-desktop),
 Space-Science,Aeronautics,Spice.jl,https://github.com/abieler/Spice.jl,NASA's SPICE observation geometry system.
 Space-Science,AstroLibs,Astro.jl,https://github.com/cormullion/Astro.jl,Jan Meeus astronomical formulas and some time/date code in Julia.
@@ -2089,6 +2080,7 @@ Statistics,HMM,HiddenMarkovModels.jl,https://github.com/BenConnault/HiddenMarkov
 Statistics,HMM,RustModels.jl,https://github.com/BenConnault/RustModels.jl,Dynamic Discrete Choice Models with or without unobserved state variables.
 Statistics,Resources,gradient analysis,https://github.com/NeuroanatomyAndConnectivity/gradient_analysis,Notebooks on Gradient analysis.
 Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
+Statistics,Cookbooks,General guidelines (table) for choosing a statistical analysis,"http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm) which was adapted from ""Choosing the Correct Statistic"" developed by James D. Leeper, Ph.D",
 Statistics,Cookbooks,Rational and Irrational Thought: The Thinking that IQ Tests Miss,http://www.scientificamerican.com/article/rational-and-irrational-thought-the-thinking-that-iq-tests-miss/,
 Statistics,Slides,Julia For R Programmers,http://www.stat.wisc.edu/~bates/JuliaForRProgrammers.pdf) by Douglas Bates,
 Statistics,Videos,Statistical Models in Julia,https://www.youtube.com/watch?v=v9Io-p_iymI) video by Douglas Bates (@dmbates),
@@ -2285,7 +2277,7 @@ Utilities,[Jupyter](https://github.com/jupyter),Sublime-IJulia,https://github.co
 Utilities,[Jupyter](https://github.com/jupyter),WeavePynb.jl,https://github.com/jverzani/WeavePynb.jl,Simple package to convert markdown files to IJulia notebooks.
 Utilities,Resources,ow to create a [Custom IJulia Widget,http://nbviewer.ipython.org/urls/gist.githubusercontent.com/avrahamruderman/116845471f0d79942aff/raw/fb1f659e635f4585ebb449aa2519deffd15aba31/writing-custom-ijulia-widgets.ipynb,
 Utilities,Resources,Run Jupyterhub on a Supercomputer,http://zonca.github.io/2015/04/jupyterhub-hpc.html),
-Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaBox,http://www.juliabox.org/,"Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks) and a [mailing list](https://groups.google.com/forum/#!topic/julia-box/) for discussions."
+Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaBox,https://juliabox.com/,"Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks)."
 Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),JuliaBoxUtils.jl,https://github.com/tanmaykm/JuliaBoxUtils.jl,JuliaBox utility methods.
 Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Julia on the SageMath cloud server,https://cloud.sagemath.com),
 Utilities,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),koding,https://koding.com/Julia) has an interactive online Julia REPL,
@@ -2296,7 +2288,6 @@ Utilities,UTILS,Graze.jl,https://github.com/iamed2/Graze.jl,A feed reader.
 Utilities,UTILS,Humanize.jl,https://github.com/IainNZ/Humanize.jl,"Humanize numbers, based on the Python package [humanize](https://github.com/jmoiron/humanize) by @jmoiron."
 Utilities,UTILS,Osmosis.jl,https://github.com/SimonDanisch/Osmosis.jl,Chat client for Julia.
 Utilities,UTILS,SO.jl,https://github.com/dlfivefifty/SO.jl,Personal macros for Julia.
-Utilities,UTILS,ist of commands that Sheehan Olver keeps around to remind himself how to [reinstall Julia/IPython Notbook/Matplotlib in OSX,https://github.com/dlfivefifty/SO.jl/blob/master/Julia%20installation.txt,
 Utilities,UTILS,Utils.jl,https://github.com/SimonDanisch/Utils.jl,Some utility functions by @SimonDanisch.
 Utilities,Terminal,AnsiColor.jl,https://github.com/Aerlinger/AnsiColor.jl,Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 Utilities,Terminal,ArgParse.jl,https://github.com/carlobaldassi/ArgParse.jl,Package for parsing command-line arguments to Julia programs.
