@@ -373,6 +373,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [MiniNest.jl](https://github.com/iamed2/MiniNest.jl) :: Julia implementation of nested sampling examples.
 + [NestedSampling.jl](https://github.com/kbarbary/NestedSampling.jl) :: Nested Sampling algorithms for Julia.
 + [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia. 
++ [PSIS.jl](https://github.com/alvaro1101/PSIS.jl) :: Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 + [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
 ## Gaussian

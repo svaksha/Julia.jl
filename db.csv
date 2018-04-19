@@ -2026,6 +2026,7 @@ Statistics,Bayesian,MCBN.jl,https://github.com/binarybana/MCBN.jl,Monte Carlo Ba
 Statistics,Bayesian,MiniNest.jl,https://github.com/iamed2/MiniNest.jl,Julia implementation of nested sampling examples.
 Statistics,Bayesian,NestedSampling.jl,https://github.com/kbarbary/NestedSampling.jl,Nested Sampling algorithms for Julia.
 Statistics,Bayesian,PortHamiltonian.jl,https://github.com/flavioluiz/PortHamiltonian.jl,Port-Hamiltonian systems in Julia.
+Statistics,Bayesian,PSIS.jl,https://github.com/alvaro1101/PSIS.jl,Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 Statistics,Bayesian,VarBayes.jl,https://github.com/acetoline/VarBayes.jl,Variational Bayesian methods in Julia.
 Statistics,Gaussian,GP.jl,https://github.com/pschulam/GP.jl,Gaussian processes in Julia.
 Statistics,Gaussian,GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
