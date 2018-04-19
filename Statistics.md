@@ -17,6 +17,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Org-JuliaStats](#org-juliastats)
       + [Probabilistic Programming](#probabilistic-programming)
    + [Geostatistics (Spatial Statistics)](#geostatistics)
+   + [Extreme values](#extreme-values)
    + [Bayesian](#bayesian)
    + [Gaussian](#gaussian)
    + [Models](#models)
@@ -365,6 +366,10 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: High-performance geostatistical algorithms in Julia.
 + [GslibIO.jl](https://github.com/juliohm/GslibIO.jl) :: Utilities to read/write extended GSLIB files in Julia.
 + [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
+
+## Extreme values
+
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme value statistics in Julia
 
 ## Bayesian
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
