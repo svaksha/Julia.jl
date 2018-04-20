@@ -268,6 +268,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [DPMM.jl](https://github.com/sbos/DPMM.jl) :: Dirichlet Process Mixture Models in Julia.
 + [DirichletProcessMixtures.jl](https://github.com/sbos/DirichletProcessMixtures.jl) :: This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
 + [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.
 + [FactorModels.jl](https://github.com/joidegn/FactorModels.jl) :: Factor models or diffusion index models.
 + [FastGroupBy.jl](https://github.com/xiaodaigh/FastGroupBy.jl) :: Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 + [FeldtLib.jl](https://github.com/robertfeldt/FeldtLib.jl) :: Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
@@ -335,7 +336,6 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 + [SVM.jl](https://github.com/JuliaStats/SVM.jl) :: Native Julia implementations of standard SVM algorithms.
 
 ### Probabilistic Programming
-+ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia. 
 + [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
 + [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
 + [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
