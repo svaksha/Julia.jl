@@ -248,7 +248,7 @@ An umbrella group for Julia-based optimization-related projects, with its own [m
 # STATISTICS
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation.
 + [AD_StatTest-julia](https://github.com/manuamador/AD_StatTest-julia) :: An implementation of the Anderson Darling statistical test for exponential or Rayleigh distributions in Julia.
-+ [ASH.jl](https://github.com/joshday/ASH.jl) :: David Scott's Average Shifted Histogram density estimation.
++ [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R _basicspace_ package to Julia.
 + [Bootstrap.jl](https://github.com/julian-gehring/Bootstrap.jl) :: Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
 + [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
