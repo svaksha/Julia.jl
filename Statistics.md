@@ -23,7 +23,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
 + [STOCHASTICS](#stochastics)
-   + [HMM](#hmm)   
+   + [HMM](#hmm)
 + [RESOURCES](#resources)
    + [Cookbooks](#cookbooks)
    + [Videos](#videos)

@@ -61,7 +61,6 @@ Wrappers's and programming API's for other languages and general backend server 
 + [Cxx.jl](https://github.com/Keno/Cxx.jl) :: The Julia C++ Foreign Function Interface (FFI).
 + [CxxROOT.jl](https://github.com/Keno/CxxROOT.jl) :: A Cxx.jl based interface to CERN's ROOT. 
 + [CxxWrap.jl](https://github.com/barche/CxxWrap.jl) :: A package to provide a Boost.Python-like wrapping for C++ types and functions to Julia. 
-+ [Gallium.jl](https://github.com/Keno/Gallium.jl) :: The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 
 ## Erlang
 + [ErlPort.jl](https://github.com/thorgisl/ErlPort.jl) :: A Julia-Erlang module for use in the erlport project.

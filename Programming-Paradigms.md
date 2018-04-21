@@ -16,15 +16,14 @@ __Packages and resources that support various programming styles, Software Archi
    + [Multiple Dispatch](#multiple-dispatch)
 + [Program Analysis](#program-analysis)
 + [Reactive Programming](#reactive-programming)
++ [STATIC ANALYSIS](#static-analysis)
+    + [Turnaround Time](#turnaround-time)
 + [Style Guidelines](#style-guidelines)
 
 ----
 
 # [Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation))
 + [Automa.jl](https://github.com/BioJulia/Automa.jl) :: A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler.
-+ [Turing.jl](https://github.com/yebai/Turing.jl) :: Probabilistic programming in Julia. 
-
-
 + [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
 + [ChainMap.jl](https://github.com/bramtayl/ChainMap.jl) :: Combine chaining and mapping.
 + [FemtoCleaner.jl](https://github.com/JuliaComputing/FemtoCleaner.jl) :: It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting. 
@@ -33,6 +32,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 + [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
++ [Turing.jl](https://github.com/yebai/Turing.jl) :: Probabilistic programming in Julia. 
 
 
 ###### RESOURCES
@@ -80,16 +80,17 @@ __Packages and resources that support various programming styles, Software Archi
 
 ----
 
-# Macros
-+ [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
-+ [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
+# [Macro](https://en.wikipedia.org/wiki/Macro_(computer_science))
++ [ImportMacros.jl](https://github.com/fredrikekre/ImportMacros.jl) :: Provides three macros: @import and @using which loads a module and binds it to an alias, and @from which loads an object from a module and binds it to an alias.
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
 + [MetaMerge.jl](https://github.com/davidagold/MetaMerge.jl) :: Merge functions with identical names from distinct modules.
++ [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
++ [Reexport.jl](https://github.com/simonster/Reexport.jl) :: Julia macro for re-exporting one module from another.
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 + [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) :: A julia macro for unrolling conditional `for` loops.
 + [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) :: Universal Time using local system timezone.
 
-###### Resources
+##### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
 
 
@@ -107,7 +108,7 @@ __Packages and resources that support various programming styles, Software Archi
 
 ## [Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
 + [Cassette.jl](https://github.com/jrevels/Cassette.jl) :: a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs. 
-+ [Revise.jl](https://github.com/timholy/Revise.jl) :: Automatically update function definitions in a running Julia session.
++ [Revise.jl](https://github.com/timholy/Revise.jl) :: Automatically update function definitions in a running Julia session. It will help you keep your sessions running longer, reducing the need to restart Julia whenever you make changes to code.
 
 ----
 
@@ -141,6 +142,17 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 
 ----
 
+
+# STATIC ANALYSIS
+__Static Program Analysis__
++ [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
++ [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
++ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) :: Intuitive, useful stack traces for Julia.
+
+## [Turnaround Time](https://en.wikipedia.org/wiki/Turnaround_time)
++ [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
+
+----
 # Style Guidelines
 + [Official Julia style guide](https://julia.readthedocs.org/en/latest/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.

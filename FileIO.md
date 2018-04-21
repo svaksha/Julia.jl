@@ -1,5 +1,4 @@
 + [Binary IO](#binary-io)
-+ [General IO](#general-io)
 + [Data Formats](#data-formats)
     + [BSON](#bson)
     + [JSON](#json)
@@ -12,30 +11,26 @@
 + [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
     + [Type Parameters](#type-parameters)
++ [Document Processors](#document-processors)
+   + [LaTeX](#latex)
++ [General IO](#general-io)
 + [Image Formats](#image-formats)
 
 ----
 
 # Binary IO
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
++ [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
++ [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) :: Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions.
 + [StrPack.jl](https://github.com/pao/StrPack.jl) :: For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 
 ----
 
-# General IO
-+ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
-+ [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.
-+ [Missings.jl](https://github.com/JuliaData/Missings.jl) :: A missing value representation for Julia for databases and statistics.
-+ [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
-+ [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
-+ [ULID.jl](https://github.com/ararslan/ULID.jl) :: Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
-
-----
 
 # Data Formats
-**Libraries for Data serialization and File formats.**
+**Libraries for Data serialization and (human readable) file formats.**
 + [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
 + [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 + [BDF.jl](https://github.com/sam81/BDF.jl) :: Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
@@ -93,12 +88,10 @@
 + [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
 + [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
 + [Feather.jl](https://github.com/JuliaData/Feather.jl) :: Julia library for working with feather-formatted files.
-+ [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
-+ [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
 + [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD.
 + [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files.
-+ [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, that provides a "distributed array" -like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster.
++ [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, that provides a "distributed array"-like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster.
 + [MAT.jl](https://github.com/JuliaIO/MAT.jl) :: Julia module for reading MATLAB files.
 + [Parquet.jl](https://github.com/JuliaComputing/Parquet.jl) :: Julia implementation of parquet columnar file format reader and writer.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
@@ -209,6 +202,37 @@
 + Jeff Bezanson on [The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017.
 + Jameson Nash on [Static and Ahead of Time (AOT) compiled Julia](http://juliacomputing.com/blog/2016/02/09/static-julia.html)
 + [A more thorough look at Julia's __double colon__ syntax](http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb)
+
+----
+
+
+# [Document Processors](https://en.wikipedia.org/wiki/Document_processor)
++ [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
++ [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) :: A package that provides functionality to read Excel files.
++ [JuliaReport.jl](https://github.com/mpastell/JuliaReport.jl) :: A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
++ [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
+
+### LaTeX
++ [Expr2LaTeX.jl](https://github.com/oxinabox/Expr2LaTeX.jl) :: Take a julia `Expr` and render it as LaTeX.
++ [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
++ [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
++ [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
++ [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) :: Tools for automatic manipulation and management of LaTeX Documents.
+
+## Document Generator 
++ [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
++ [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
++ [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
++ [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
+
+----
+# General IO
++ [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
++ [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.
++ [Missings.jl](https://github.com/JuliaData/Missings.jl) :: A missing value representation for Julia for databases and statistics.
++ [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
++ [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
++ [ULID.jl](https://github.com/ararslan/ULID.jl) :: Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
 
 ----
 

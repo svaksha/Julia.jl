@@ -3,11 +3,9 @@
 + [Black Box Testing](#black-box-testing)
 + [CONTINUOUS INTEGRATION](#continuous-integration)
    + [Git-Hooks](#git-hooks)
-+ [Debugging](#debugging)
-+ [Documentation Driven Development](#documentation-driven-development)
+   + [Gitlab-CI](#gitlab-ci)
 + [LOGGING](#logging)
 + [Regression Testing](#regression-testing)
-+ [STATIC ANALYSIS](#static-analysis)
 + [UNITTEST](#unittest)
 
 ----
@@ -30,28 +28,11 @@
 ### Git-Hooks
 + [julia-helper](https://github.com/jiahao/julia-helper) :: Scripts to help Julia developers.
 
-----
-
-# Debugging
-+ [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) :: Simple utilities for debugging julia code.
-+ [RR.jl](https://github.com/Keno/RR.jl) :: Julia interface to mozilla's `rr`.
-+ [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) ::  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
-+ [Traceur.jl](https://github.com/MikeInnes/Traceur.jl).
-
-## Timers
-+ [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
+### Gitlab-CI
+* [GitlabJuliaDemo.jl](https://gitlab.com/tkpapp/GitlabJuliaDemo.jl) :: A minimal example for setting up CI with Julia on Gitlab. The [blog post](https://tpapp.github.io/post/julia-ci-gitlab/) describing how a Julia package repo in Gitlab can be setup with continuous integration and coverage summary.
 
 ----
 
-# [Documentation Driven Development](http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/)
-+ [DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) :: Extensions for Julia's docsystem.
-+ [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) :: A documentation generator for Julia. 
-+ [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.
-
-###### Resources
-+ [Making nice documentation](http://maurow.bitbucket.org/notes/documenting-a-julia-package.html) for a Julia Package.
-
-----
 
 # LOGGING
 + [Log4jl.jl](https://github.com/wildart/Log4jl.jl) :: A comprehensive and flexible logging framework for Julia programs.
@@ -65,16 +46,8 @@
 # Regression Testing
 + [VisualRegressionTests.jl](https://github.com/JuliaPlots/VisualRegressionTests.jl) Automated integrated regression tests for graphics libraries.
 
-
 ----
 
-# STATIC ANALYSIS
-__Static Program Analysis__
-+ [Lint.jl](https://github.com/tonyhffong/Lint.jl) :: A lint tool to hunt for imperfections and dodgy structures that could be improved for Julia code.
-+ [Quantity.jl](https://github.com/rephorm/Quantity.jl) :: Numbers with units.
-+ [StackTraces.jl](https://github.com/invenia/StackTraces.jl) :: Intuitive, useful stack traces for Julia.
-
-----
 
 # UNITTEST 
 + [BaseTestDeprecated.jl](https://github.com/IainNZ/BaseTestDeprecated.jl) :: Provides the `Base.Test` functionality removed in `Julia v0.5`.
