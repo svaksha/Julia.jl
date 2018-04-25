@@ -94,13 +94,16 @@
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
 
 
-
 ## GWAS
 __Genome Wide Association Study (GWAS)__
 + [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) :: A package for statistical analyses of sequence alignments.
 + [JWAS.jl](https://github.com/reworkhow/JWAS.jl) :: An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
++ [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) :: contains the base functions of OpenMendel. 
++ [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl) :: provides utilities for handling compressed storage of biallelic SNP (Single-Nucleotide Polymorphism) data.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
 + [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) :: A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
+
+
 
 ###### Resources
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.

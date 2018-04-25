@@ -207,6 +207,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     
 ## [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 + [ApproXD.jl](https://github.com/floswald/ApproXD.jl) :: B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
++ [AMD.jl](https://github.com/JuliaSmoothOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
 + [Dopri.jl](https://github.com/helgee/Dopri.jl) :: A Julia wrapper for the DOPRI5 and DOP853 integrators.
 + [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl ):: A Julia wrapper for the Dierckx Fortran library for spline fitting.
 + [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) :: A Julia wrapper of the Fortran library __eiscor__ (Fortran 90 subroutines for structured matrix eigenvalue problems using 2x2 unitary matrices) for efficiently solving structured matrix eigenvalue problems using unitary core transformations 
@@ -239,6 +240,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the Hypre library.
 + [IDRsSolver.jl](https://github.com/mschauer/IDRsSolver.jl) :: Induced Dimension Reduction method [IDR(s)] for solving general linear equations. 
 + [juliaSpot](https://github.com/slimgroup/juliaSpot) :: The Julia implementation of the Spot Linear Algebra Package.
++ [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) :: A Julia Basket of Hand-Picked Krylov Methods.
 + [KrylovSolvers.jl](https://github.com/cfbaptista/KrylovSolvers.jl) :: Solve sparse linear systems in an efficient and iterative manner with Krylov Solvers.
 + [LinearAlgebra.jl](https://github.com/andreasnoack/LinearAlgebra.jl) :: Eigenvalue and -vector calculations in Julia.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently. 

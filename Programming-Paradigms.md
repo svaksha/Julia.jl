@@ -97,6 +97,7 @@ __Packages and resources that support various programming styles, Software Archi
 ----
 
 # Multi-Threading
++ [KissThreading.jl](https://github.com/bkamins/KissThreading.jl) :: Simple patterns supporting working with threads in Julia.
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 + [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
