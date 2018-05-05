@@ -461,6 +461,7 @@ DesktopApplications,[Jupyter](https://github.com/jupyter),Colaboratory,https://g
 DesktopApplications,[Jupyter](https://github.com/jupyter),ErrorLineNumber.jl,https://github.com/StephenVavasis/ErrorLineNumber.jl,Address line number bug in Julia 0.4 error reporting.
 DesktopApplications,[Jupyter](https://github.com/jupyter),Hydra.jl,https://github.com/Keno/Hydra.jl,Hosted Multi-user IJulia distribution.
 DesktopApplications,[Jupyter](https://github.com/jupyter),IJuliaWidgets.jl,https://github.com/shashi/IJuliaWidgets.jl,Interactive widgets for IJulia.
+DesktopApplications,[Jupyter](https://github.com/jupyter),IPython.jl,https://github.com/tkf/IPython.jl,Launch IPython in Julia.
 DesktopApplications,[Jupyter](https://github.com/jupyter),jlbox,https://github.com/compressed/jlbox,uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
 DesktopApplications,[Jupyter](https://github.com/jupyter),Multiuser-server,https://github.com/jupyter/multiuser-server,Multi-user server for Jupyter notebooks.
 DesktopApplications,[Jupyter](https://github.com/jupyter),NBInclude.jl,https://github.com/stevengj/NBInclude.jl,Import code from IJulia Jupyter notebooks into Julia programs.

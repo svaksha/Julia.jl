@@ -138,6 +138,7 @@ __Generic Syntax Highlighter__
 + [ErrorLineNumber.jl](https://github.com/StephenVavasis/ErrorLineNumber.jl) :: Address line number bug in Julia 0.4 error reporting.
 + [Hydra.jl](https://github.com/Keno/Hydra.jl) :: Hosted Multi-user IJulia distribution.
 + [IJuliaWidgets.jl](https://github.com/shashi/IJuliaWidgets.jl) :: Interactive widgets for IJulia.
++ [IPython.jl](https://github.com/tkf/IPython.jl) :: Launch IPython in Julia.
 + [jlbox](https://github.com/compressed/jlbox) :: uses node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket.
 + [Multiuser-server](https://github.com/jupyter/multiuser-server) :: Multi-user server for Jupyter notebooks.
 + [NBInclude.jl](https://github.com/stevengj/NBInclude.jl) :: Import code from IJulia Jupyter notebooks into Julia programs. 
