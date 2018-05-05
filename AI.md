@@ -25,6 +25,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
++ [EmpiricalRiskMinimization.jl](https://github.com/reesepathak/EmpiricalRiskMinimization.jl) :: Empirical Risk Minimization (and modeling) in Julia. 
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection.
 + [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine Learning for Julia.
 + [Flux.jl](https://github.com/MikeInnes/Flux.jl) :: A library for machine learning implemented in Julia. (Alpha stage)
