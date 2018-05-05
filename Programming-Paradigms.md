@@ -68,7 +68,7 @@ __Packages and resources that support various programming styles, Software Archi
 ----
 
 # [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
-+ [SciCompDSL.jl](https://github.com/JuliaDiffEq/SciCompDSL.jl) :: A DSL for Scientific Computing in Julia. 
++ [ModelingToolkit.jl](https://github.com/JuliaDiffEq/ModelingToolkit.jl) :: A toolkit for modeling and creating DSLs for Scientific Computing in Julia.
 
 
 ----
@@ -88,6 +88,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 + [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) :: A julia macro for unrolling conditional `for` loops.
 + [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) :: Universal Time using local system timezone.
++ [ForceImport.jl](https://github.com/chakravala/ForceImport.jl) :: Macro that force imports conflicting methods in Julia modules
 
 ###### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)
