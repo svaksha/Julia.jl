@@ -45,6 +45,7 @@
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
++ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
 + [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) ::  Package to calculate Leaf Area Index from Hemisperical Images.
 + [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) :: OpenCV library dependencies.

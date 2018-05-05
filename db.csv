@@ -784,6 +784,7 @@ Graphics,GRAPHICS,ImageSegmentation.jl,https://github.com/JuliaImages/ImageSegme
 Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
 Graphics,GRAPHICS,ImplicitEquations.jl,https://github.com/jverzani/ImplicitEquations.jl,Julia package to facilitate graphing of implicit equations and inequalities.
 Graphics,GRAPHICS,Konthe.jl,https://github.com/meggart/Konthe.jl,Collection of convenience function for plotting using the OpenGL package.
+Graphics,GRAPHICS,LatticeVis.jl,https://github.com/ffreyer/LatticeVis.jl),
 Graphics,GRAPHICS,Layout.jl,https://github.com/timholy/Layout.jl,Graphics layout management for Julia.
 Graphics,GRAPHICS,LeafAreaIndex.jl,https://github.com/ETC-UA/LeafAreaIndex.jl, Package to calculate Leaf Area Index from Hemisperical Images.
 Graphics,GRAPHICS,LibOpenCV.jl,https://github.com/JuliaOpenCV/LibOpenCV.jl,OpenCV library dependencies.
