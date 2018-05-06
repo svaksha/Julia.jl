@@ -226,6 +226,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [MovcolN.jl](https://github.com/pwl/MovcolN.jl) :: Moving collocation method to solve one dimensional partial differential equations.
++ [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) :: A simple interface for interpolations on timeseries with first order discontinuities (using Dierckx.jl).
 + [SortedVectors.jl](https://github.com/colintbowers/SortedVectors.jl) :: A WIP package that implements a SortedVector type.
 
     
@@ -267,6 +268,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CatIndices.jl](https://github.com/JuliaArrays/CatIndices.jl) :: Julia package for indices-aware array concatenation and growth.
 + [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) :: Arrays for working with categorical data (both nominal and ordinal) in Julia.
 + [ChunkedArrays.jl](https://github.com/ChrisRackauckas/ChunkedArrays.jl) :: A package for increasing the performance of arrays generated.
++ [ConvolutionTools.jl](https://github.com/gwater/ConvolutionTools.jl) :: Tools for convolutions of multi-dimensional arrays in Julia. 
 + [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: Library for working with tabular data in Julia. [Documentation](https://juliadata.github.io/DataFrames.jl/stable/man/getting_started.html).
 + [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) :: Metaprogramming tools for DataFrames and Associative objects. These macros improve performance and provide more convenient syntax.
 + [EndpointRanges.jl](https://github.com/JuliaArrays/EndpointRanges.jl) :: Julia package for doing arithmetic on endpoints in array indexing.
@@ -330,7 +332,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SparseVectorMatrix.jl](https://github.com/pranavtbhat/SparseVectorMatrix.jl) :: SparseMatrices as a vector of SparseVectors.
 
 
-
 ### Numerical Linear Algebra 
 __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numerical Analysis and Linear Algebra algorithms for the numerical solution of matrix problems.__
 + [Accelereval.jl](https://github.com/lindahua/Accelereval.jl) :: A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
@@ -352,6 +353,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [ParallelLinalg.jl](https://github.com/intirb/ParallelLinalg.jl) :: Distributed Dense Linear Algebra for Julia.
 + [PNLA_Julia](https://github.com/kbatseli/PNLA_Julia) :: Polynomial Multi-functional Numerical Linear Algebra package for solving all kinds of problems with multivariate polynomials in double precision in Julia.
 + [RK4.jl](https://github.com/ntezak/RK4.jl) :: This package implements a fairly fast Runge-Kutta 4th order with fixed stepsize, also implements a stochastic solver that is not technically provably accurate, but works well for finite bandwidth SDE's.
++ [RungeKuttaFehlberg.jl](https://github.com/gwater/RungeKuttaFehlberg.jl) :: A Julia implementation of the RKF45 method for time integration.
 + [SpecialMatrices.jl](https://github.com/timbers/SpecialMatrices.jl) :: Package that adds support for several common matrices: Strang, Hankel, Toeplitz, and Vander matrices.
 + [SpecialMatrices.jl](https://github.com/jiahao/SpecialMatrices.jl) :: Julia package for working with special matrix types.
 + [TaylorModels.jl](https://github.com/dpsanders/TaylorModels.jl) :: A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
@@ -444,6 +446,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [CLFFT.jl](https://github.com/JuliaGPU/CLFFT.jl) :: Julia bindings for AMD's clFFT library.
 + [CUFFT.jl](https://github.com/JuliaGPU/CUFFT.jl) :: Wrapper for the CUDA FFT library.
 + [FFTViews.jl](https://github.com/JuliaArrays/FFTViews.jl) :: Julia package for fast fourier transforms and periodic views.
++ [HexFFT.jl](https://github.com/gwater/HexFFT.jl) :: Fast Fourier transform on hexagonal grids using Birdsong and Rummelt's algorithm.
 + [NFFT.jl](https://github.com/tknopp/NFFT.jl) :: Julia implementation of the NFFT : Non-equidistant Fast Fourier Transform.
 + [SnFFT.jl](https://github.com/GDPlumb/SnFFT.jl) :: A Julia package designed to facilitate harmonic analyis on the symmetric group of order n, denoted Sn. 
 
@@ -482,7 +485,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 ### [Special Functions](http://en.wikipedia.org/wiki/Category:Special_functions)
 + [LambertW.jl](https://github.com/jlapeyre/LambertW.jl) :: A package implementing the Lambert_W function and associated omega constant.
-
++ [Struve.jl](https://github.com/gwater/Struve.jl) :: Struve functions for Julia.
 
 [//]: # (######################################################################)
 [//]: # ( Platform independent comment line between multiple sub-sections )
