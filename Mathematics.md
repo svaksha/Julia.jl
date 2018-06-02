@@ -372,6 +372,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 ## [Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials)
 + [ChebyshevApprox](https://github.com/RJDennis/ChebyshevApprox) :: Julia code to approximate continuous functions using Chebyshev polynomials.
++ [CoordinateSplittingPTrees.jl](https://github.com/timholy/CoordinateSplittingPTrees.jl) :: Accurate and efficient full-degree multidimensional polynomial interpolation.
 + [FixedPolynomials.jl](https://github.com/JuliaAlgebra/FixedPolynomials.jl) :: A package for really fast evaluation of multivariate polynomials.
 + [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
 + [Jacobi.jl](https://github.com/pjabardo/Jacobi.jl) :: Jacobi polynomials and Gauss quadrature related functions.
@@ -385,7 +386,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [Symata.jl](https://github.com/jlapeyre/Symata.jl) :: language for symbolic mathematics.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 + [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
-
 
 ----
 
