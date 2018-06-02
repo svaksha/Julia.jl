@@ -136,6 +136,9 @@ Wrappers's and programming API's for other languages and general backend server 
 + [runr](http://rpubs.com/yihui/julia-knitr) :: Allows you to run Julia from R using [julia_socket.jl](https://github.com/yihui/runr/blob/master/inst/lang/julia_socket.jl)
 + [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
 
+## REDUCE
++ [ReduceAlgebra.jl](https://github.com/JuliaReducePkg/ReduceAlgebra.jl) :: Meta-package for [Reduce.jl](https://github.com/chakravala/Reduce.jl) and External Packages (symbolic programming language)
+
 ## Ruby
 + [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 + [jl4rb](https://github.com/rcqls/jl4rb) :: Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects.

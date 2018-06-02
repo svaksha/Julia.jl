@@ -170,7 +170,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast complex polynomial root finder, with support for arbitrary precision calculations
 + [QNaN.jl](https://github.com/J-Sarnoff/QNaN.jl) :: Quiet NaNs were designed to propagate information from within numerical computations.
-+ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewrite system.
++ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 + [Remez.jl](https://github.com/simonbyrne/Remez.jl) :: Remez algorithm for computing minimax polynomial approximations.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 

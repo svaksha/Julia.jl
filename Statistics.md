@@ -250,7 +250,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 # STATISTICS
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation.
 + [AD_StatTest-julia](https://github.com/manuamador/AD_StatTest-julia) :: An implementation of the Anderson Darling statistical test for exponential or Rayleigh distributions in Julia.
-+ [ASH.jl](https://github.com/joshday/ASH.jl) :: David Scott's Average Shifted Histogram density estimation.
++ [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [BasicSpace.jl](https://github.com/johnmyleswhite/BasicSpace.jl) :: A port of the R _basicspace_ package to Julia.
 + [Bootstrap.jl](https://github.com/julian-gehring/Bootstrap.jl) :: Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions.
 + [Causality.jl](https://github.com/tfgit/Causality.jl) :: A Julia Package for Causal Inference.
@@ -276,6 +276,8 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [Distances.jl](https://github.com/JuliaStats/Distances.jl) ::  A Julia package for evaluating distances(metrics) between vectors.
 + [Distributions.jl](http://juliastats.github.io/Distributions.jl/index.html) :: The Distributions package.
    * _DOCS_:: Distributions [manual](http://juliastats.github.io/Distributions.jl/stable/)
++ [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.
 + [FactorModels.jl](https://github.com/joidegn/FactorModels.jl) :: Factor models or diffusion index models.
 + [FastGroupBy.jl](https://github.com/xiaodaigh/FastGroupBy.jl) :: Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 + [FeldtLib.jl](https://github.com/robertfeldt/FeldtLib.jl) :: Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
@@ -334,7 +336,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
 
 
-## Probabilistic Programming
+### Probabilistic Programming
 + [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia. 
 + [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
 + [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
