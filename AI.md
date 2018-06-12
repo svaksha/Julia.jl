@@ -67,8 +67,10 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Orchestra.jl](https://github.com/svs14/Orchestra.jl) :: Heterogeneous ensemble learning package for the Julia programming language.
 + [ParticleFilters.jl](https://github.com/JuliaPOMDP/ParticleFilters.jl) :: Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
 + [PrivateMultiplicativeWeights.jl](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) :: Differentially private synthetic data.
-+ [ProjectiveDictionaryPairLearning.jl](https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl) :: Julia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
++ [ProjectiveDictionaryPairLearning.jl](https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl) :: Juia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
 + [RegERMs.jl](https://github.com/BigCrunsh/RegERMs.jl) :: A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
++ [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) :: A Reinforcement Learning package by @jbrea.
++ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl):: A Reinforcement Learning package by @benhamner.
 + [SALSA.jl](https://github.com/jumutc/SALSA.jl) :: _S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
 + [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) :: Julia implementation of the scikit-learn API.
     + Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
