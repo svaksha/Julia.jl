@@ -47,6 +47,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Ladder.jl](https://github.com/mrtzh/Ladder.jl) :: A reliable leaderboard algorithm for machine learning competitions.
 + [Learn.jl](https://github.com/Rory-Finnegan/Learn.jl) :: Base framework library for machine learning packages.
 + [LearnBase.jl](https://github.com/Evizero/LearnBase.jl) :: Abstractions for Julia Machine Learning Packages.
++ [LearningStrategies.jl](https://github.com/JuliaML/LearningStrategies.jl) :: A generic and modular framework for building custom iterative algorithms in Julia. 
 + [liblinear.jl](https://github.com/tuzzeg/liblinear.jl) :: Liblinear binding to Julia.
 + [LIBSVM.jl](https://github.com/simonster/LIBSVM.jl) :: Julia bindings for LIBSVM.
 + [LossFunctions.jl](https://github.com/JuliaML/LossFunctions.jl) :: Julia package of loss functions for machine learning. Documentation: http://lossesjl.readthedocs.io/
