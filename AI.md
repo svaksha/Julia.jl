@@ -39,6 +39,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [JuML.jl](https://github.com/Statfactory/JuML.jl) :: Machine Learning in Julia. 
 + [KaggleDigitRecognizer.jl](https://github.com/benhamner/KaggleDigitRecognizer.jl) :: Julia code for Kaggle's Digit Recognizer competition.
 + [KDTrees.jl](https://github.com/KristofferC/KDTrees.jl) :: KD Trees.
++ [Keras.jl](https://github.com/ayush1999/Keras.jl) :: A package built atop Flux to directly load Keras(.py) models into Flux.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning. 
 + [Knet.jl](https://github.com/denizyuret/Knet.jl) :: Koç University deep learning framework - A machine learning module implemented in Julia.
 + [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
