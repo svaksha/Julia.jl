@@ -30,6 +30,7 @@
 
 # BUILD AUTOMATION
 + [Jake.jl](https://github.com/nolta/Jake.jl) :: Rake for Julia.
++ [jlbuild](https://github.com/jlbuild) :: A bot that controls the julia buildbots to build releases and perform some additional continous integration on secondary platforms. Ping (`@jlbuild`) in a comment, PR, issue, etc... and this GitHub comment-based interface to testing buildbots will build the relevant Julia version on all platforms, post download links and even execute small chunks of code across those platforms.
 + [Juke.jl](https://github.com/kshramt/Juke.jl) :: `make` in Julia.
 + [OpenStack.jl](https://github.com/Keno/OpenStack.jl).
 
@@ -37,6 +38,7 @@
 
 # DEVELOPMENT
 Helper tools for core `julia` language development.
++ [FemtoCleaner.jl](https://github.com/JuliaComputing/FemtoCleaner.jl) :: The [FemtoCleaner](https://github.com/apps/femtocleaner) app cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path. 
 + [HackThatBase.jl](https://github.com/ihnorton/HackThatBase.jl) :: A helper tool to reload and test modifications to base without recompiling the full system image.
 + [PkgSearch](https://github.com/essenciary/PkgSearch) :: A Julia REPL utility for package discovery.
 
@@ -113,7 +115,7 @@ __Package/Infrastructure management tools and Documentation__
    * Stefan Karpinski talking about "[Pkg3](https://www.youtube.com/watch?v=-yUiLCGegJs) : Julia's New Package Manager" at JuliaCon 2017. 
 + [Uncurated](https://github.com/JuliaRegistries/Uncurated) :: The official, public, uncurated registry of Julia packages.
 + [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
-
++ [attobot](https://github.com/integration/attobot) :: Julia package release bot.
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
@@ -155,3 +157,4 @@ __Package/Infrastructure management tools and Documentation__
 
 # NEWS
 + [Devops Weekly](http://www.devopsweekly.com/).
+
