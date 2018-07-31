@@ -115,7 +115,7 @@ __Package/Infrastructure management tools and Documentation__
    * Stefan Karpinski talking about "[Pkg3](https://www.youtube.com/watch?v=-yUiLCGegJs) : Julia's New Package Manager" at JuliaCon 2017. 
 + [Uncurated](https://github.com/JuliaRegistries/Uncurated) :: The official, public, uncurated registry of Julia packages.
 + [Julia Ecosystem Status](http://status.julialang.org/) :: Track the status of various parts of the Julia language ecosystem; from nightly binary builds of Julia to automated testing of packages.
-+ [attobot](https://github.com/integration/attobot) :: Julia package release bot.
++ [attobot]( https://github.com/attobot/attobot) :: Julia package release bot.
 + [Compat.jl](https://github.com/JuliaLang/Compat.jl) :: A package for cross-version compatibility between Julia v0.3 and v0.4 - takes care of syntax breakage and provides compatibility constructs that will work in both versions without warnings.       
 + [DeclarativePackages.jl](https://github.com/rened/DeclarativePackages.jl) :: (jdp for short), allows the project to declaratively specify which Julia packages are being used, with exact version or commit details.
 + [EasyPkg.jl](https://github.com/oschulz/EasyPkg.jl) :: A Julia package to simplify package development.
