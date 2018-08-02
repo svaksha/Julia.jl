@@ -41,7 +41,6 @@ AI,MACHINELEARNING,LossFunctions.jl,https://github.com/JuliaML/LossFunctions.jl,
 AI,MACHINELEARNING,NMF.jl,https://github.com/lindahua/NMF.jl,A Julia package for non-negative matrix factorization (NMF).
 AI,MACHINELEARNING,MachineLearning.jl,https://github.com/benhamner/MachineLearning.jl,is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 AI,MACHINELEARNING,Merlin.jl,https://github.com/hshindo/Merlin.jl,Flexible Deep Learning Framework in Julia.
-AI,MACHINELEARNING,Milk.jl,https://github.com/faithlessfriend/Milk.jl,Machine Learning Kit.
 AI,MACHINELEARNING,MLDatasets.jl,https://github.com/JuliaML/MLDatasets.jl,Utility package for accessing common Machine Learning datasets in Julia.
 AI,MACHINELEARNING,MLLabelUtils.jl,https://github.com/JuliaML/MLLabelUtils.jl,Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 AI,MACHINELEARNING,MLKernels.jl,https://github.com/trthatcher/MLKernels.jl,Mercer kernels and Gramian matrix calculation/approximation.
@@ -73,7 +72,6 @@ AI,MACHINELEARNING,TensorFlow.jl,https://github.com/malmaud/TensorFlow.jl,"A Jul
 AI,MACHINELEARNING,TheDataMustFlow.jl,https://github.com/ExpandingMan/TheDataMustFlow.jl,Julia tools for feeding tabular data into machine learning.
 AI,MACHINELEARNING,TSVD.jl,https://github.com/andreasnoack/TSVD.jl,Truncated singular value decomposition with partial reorthogonalization.
 AI,MACHINELEARNING,ValueHistories.jl,https://github.com/JuliaML/ValueHistories.jl,Utilities to efficiently track learning curves or other optimization information.
-AI,MACHINELEARNING,YCaret.jl,https://github.com/EricChiang/YCaret.jl,Machine learning utility functions in Julia.
 AI,Resources,DistLearn.jl,https://github.com/pluskid/DistLearn.jl,"An example of distributed learning in Julia. Note: this is not a full featured distributed machine learning library, therefore we are not going to register this in the Julia package system."
 AI,Resources,Examples from _Thoughtful Machine Learning_,https://github.com/thoughtfulml/examples),
 AI,Resources,CIML,https://github.com/hal3/ciml,"A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.)."
@@ -94,7 +92,6 @@ AI,NEURALNETWORKS,Boltzmann.jl,https://github.com/dfdx/Boltzmann.jl,Restricted B
 AI,NEURALNETWORKS,FANN.jl,https://github.com/gasagna/FANN.jl,A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 AI,NEURALNETWORKS,hinton.jl,https://github.com/lepisma/hinton.jl,Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 AI,NEURALNETWORKS,Julia_Neural_Network,https://github.com/nwenzel/Julia_Neural_Network,Basic Neural Network written in JuliaLang.
-AI,NEURALNETWORKS,KUnet.jl,https://github.com/denizyuret/KUnet.jl,Neural network code based on Julia and CUDA.
 AI,NEURALNETWORKS,mlpnnets.jl,https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl,Feed-forward MLP neural network implementation.
 AI,NEURALNETWORKS,MultiLabelNeuralNetwork.jl,https://github.com/jperla/MultiLabelNeuralNetwork.jl,A simple feed-forward neural network for multi-label classification.
 AI,NEURALNETWORKS,neural.jl,https://github.com/compressed/neural.jl,"is a Julia implementation of a neural network, based on Sergio Fierens Ruby version."
@@ -115,7 +112,6 @@ AI,NLP,CorpusLoaders.jl,https://github.com/JuliaText/CorpusLoaders.jl,A variety 
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,"Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home"
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,"A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane."
-AI,NLP,Jukai.jl,https://github.com/hshindo/Jukai.jl, Natural Language Processing Toolkit.
 AI,NLP,JuliaParser.jl,https://github.com/jakebolewski/JuliaParser.jl,A rewrite of Julia's parser in Julia.
 AI,NLP,KUparser.jl,https://github.com/denizyuret/KUparser.jl,Dependency parsing with word vectors.
 AI,NLP,Languages.jl,https://github.com/JuliaText/Languages.jl,A package for working with human languages.
@@ -140,7 +136,6 @@ AI,NLP,WordNet.jl,https://github.com/JuliaText/WordNet.jl) : A Julia package for
 AI,English,EnglishText.jl,https://github.com/TotalVerb/EnglishText.jl,Utilities for English-language quirks in Julia.
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
-AI,Resources,Text-Benchmarks,http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/,Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,"It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia."
 AI,SPEECHRECOGNITION,SpeechBase.jl,https://github.com/r9y9/SpeechBase.jl),
 AI,SPEECHRECOGNITION,SPTK.jl,https://github.com/r9y9/SPTK.jl,"A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK."
@@ -421,7 +416,6 @@ DesktopApplications,GUI,PySide.jl,https://github.com/jverzani/PySide.jl,A julia 
 DesktopApplications,GUI,QML.jl,https://github.com/barche/QML.jl,Small example for starting an interface to Qt5 QML.
 DesktopApplications,GUI,Qt5.jl,https://github.com/tbreloff/Qt5.jl,"A wrapper around C++ library `Qt5`.  {Usable: 1, Robust: 1, Active: 1}"
 DesktopApplications,GUI,Table.jl,https://github.com/cpritcha/Table.jl,"Display Tables in plain text, HTML, LaTex."
-DesktopApplications,GUI,Tealeaf.jl,https://github.com/rennis250/Tealeaf.jl,A simple GUI package for Julia that is based on Processing.jl and Reactive.jl.
 DesktopApplications,GUI,Tk.jl,https://github.com/JuliaLang/Tk.jl,The Julia interface for the Tk windowing toolkit.
 DesktopApplications,GUI,XClipboard.jl,https://github.com/kmsquire/XClipboard.jl,Xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays).
 DesktopApplications,GTK,GI.jl,https://github.com/bfredl/GI.jl,Julia bindings using libgobject-introspection.

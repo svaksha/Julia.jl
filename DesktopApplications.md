@@ -71,12 +71,12 @@ __Generic Syntax Highlighter__
 + [QML.jl](https://github.com/barche/QML.jl) :: Small example for starting an interface to Qt5 QML.
 + [Qt5.jl](https://github.com/tbreloff/Qt5.jl) :: A wrapper around C++ library `Qt5`.  {Usable: 1, Robust: 1, Active: 1}
 + [Table.jl](https://github.com/cpritcha/Table.jl) :: Display Tables in plain text, HTML, LaTex.
-+ [Tealeaf.jl](https://github.com/rennis250/Tealeaf.jl) :: A simple GUI package for Julia that is based on Processing.jl and Reactive.jl.
 + [Tk.jl](https://github.com/JuliaLang/Tk.jl) :: The Julia interface for the Tk windowing toolkit.
 + [XClipboard.jl](https://github.com/kmsquire/XClipboard.jl) :: Xlib clipboard bindings to drag and drop in X11(X-Window System for bitmap displays). 
 
 
 ### GTK
+
 **GIMP Toolkit**
 + [GI.jl](https://github.com/bfredl/GI.jl) :: Julia bindings using libgobject-introspection.
 + [Gtk.jl](https://github.com/JuliaLang/Gtk.jl) :: Julia interface to the GTK windowing toolkit.

@@ -10,6 +10,7 @@
 
 ----
 
+
 # MACHINE LEARNING
 Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia.
@@ -55,7 +56,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 + [Merlin.jl](https://github.com/hshindo/Merlin.jl) :: Flexible Deep Learning Framework in Julia.
-+ [Milk.jl](https://github.com/faithlessfriend/Milk.jl) :: Machine Learning Kit.
 + [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
 + [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
@@ -87,8 +87,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) :: Julia tools for feeding tabular data into machine learning. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
-+ [YCaret.jl](https://github.com/EricChiang/YCaret.jl) :: Machine learning utility functions in Julia.
-
 
 
 ###### Resources
@@ -117,7 +115,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 + [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 + [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
-+ [KUnet.jl](https://github.com/denizyuret/KUnet.jl) :: Neural network code based on Julia and CUDA.
 + [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) :: Feed-forward MLP neural network implementation.
 + [MultiLabelNeuralNetwork.jl](https://github.com/jperla/MultiLabelNeuralNetwork.jl) :: A simple feed-forward neural network for multi-label classification.
 + [neural.jl](https://github.com/compressed/neural.jl) :: is a Julia implementation of a neural network, based on Sergio Fierens Ruby version.
@@ -145,7 +142,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [DPL.jl](https://github.com/quxiaofeng/DPL.jl) :: Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors.
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
-+ [Jukai.jl](https://github.com/hshindo/Jukai.jl) ::  Natural Language Processing Toolkit.
 + [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors.
 + [Languages.jl](https://github.com/JuliaText/Languages.jl) :: A package for working with human languages.
@@ -176,9 +172,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 ### Japanese
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
-
-###### Resources
-+ [Text-Benchmarks](http://matthewrocklin.com/blog/work/2014/01/13/Text-Benchmarks/) :: Comparing Python v. Clojure v. Julia performance in text-processing and dynamic collections.
 
 ----
 
