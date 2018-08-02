@@ -626,7 +626,7 @@ FileIO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for wo
 FileIO,JSON,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
 FileIO,JSON,LazyJSON.jl,https://github.com/samoconnor/LazyJSON.jl,LazyJSON is an interface for reading JSON data in Julia programs.
 FileIO,JSON,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
-FileIO,ODS,OdsIO.jl,https://github.com/sylvaticus/OdsIO.jl,ODS I/O for Julia Dict or DF using the python ezodf module.
+FileIO,ODS,OdsIO.jl,https://github.com/sylvaticus/OdsIO.jl,Open Document Format Spreadsheet (ODS) I/O for Julia using the python ezodf module.
 FileIO,PDF,PDFIO.jl,https://github.com/sambitdash/PDFIO.jl,PDF Reader Library for native Julia.
 FileIO,PDF,LabelNumerals.jl,"https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc",
 FileIO,Silo,Silo.jl,https://github.com/jgoldfar/Silo.jl,"Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl."
@@ -644,6 +644,7 @@ FileIO,TabularDataMatrix,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl
 FileIO,TabularDataMatrix,LAJuliaUtils.jl,https://github.com/sylvaticus/LAJuliaUtils.jl,"Utility functions for Julia, mainly dataframes operations."
 FileIO,TabularDataMatrix,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module for reading MATLAB files.
 FileIO,TabularDataMatrix,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
+FileIO,TabularDataMatrix,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
 FileIO,TabularDataMatrix,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
 FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 FileIO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).

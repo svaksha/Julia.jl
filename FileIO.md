@@ -71,7 +71,7 @@
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 
 ## ODS
-+ [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) :: ODS I/O for Julia Dict or DF using the python ezodf module. 
++ [OdsIO.jl](https://github.com/sylvaticus/OdsIO.jl) :: Open Document Format Spreadsheet (ODS) I/O for Julia using the python ezodf module.
 
 ## PDF
 + [PDFIO.jl](https://github.com/sambitdash/PDFIO.jl) :: PDF Reader Library for native Julia.
@@ -95,6 +95,7 @@
 + [LAJuliaUtils.jl](https://github.com/sylvaticus/LAJuliaUtils.jl) :: Utility functions for Julia, mainly dataframes operations.
 + [MAT.jl](https://github.com/JuliaIO/MAT.jl) :: Julia module for reading MATLAB files.
 + [Parquet.jl](https://github.com/JuliaComputing/Parquet.jl) :: Julia implementation of parquet columnar file format reader and writer.
++ [TableWidgets.jl](https://github.com/piever/TableWidgets.jl) :: Interactive widgets to work with tabular data in Julia.
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 
