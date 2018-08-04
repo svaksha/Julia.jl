@@ -95,6 +95,7 @@
 + [LAJuliaUtils.jl](https://github.com/sylvaticus/LAJuliaUtils.jl) :: Utility functions for Julia, mainly dataframes operations.
 + [MAT.jl](https://github.com/JuliaIO/MAT.jl) :: Julia module for reading MATLAB files.
 + [Parquet.jl](https://github.com/JuliaComputing/Parquet.jl) :: Julia implementation of parquet columnar file format reader and writer.
++ [ReadWriteDlm2](https://github.com/strickek/ReadWriteDlm2.jl) :: CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types. 
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 
