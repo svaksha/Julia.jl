@@ -31,8 +31,6 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 # [GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics)
 + [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
 + [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: Geostatistics in Julia.
-+ [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
-+ [ImageQuilting.jl](https://github.com/juliohm/ImageQuilting.jl) :: 3D image quilting simulation.
 
 ----
 
