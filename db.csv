@@ -263,6 +263,7 @@ Biology,BIOINFORMATICS,Rosalind.jl,https://github.com/PilgrimShadow/Rosalind.jl,
 Biology,BIOINFORMATICS,smoothlife-jl,https://github.com/jamak/smoothlife-jl,an implementation of the SmoothLife algorithm in Julia.
 Biology,BIOINFORMATICS,taxize.jl,https://github.com/sckott/taxize.jl,A taxonomic toolbelt for Julia.
 Biology,BIOINFORMATICS,Crispulator.jl,https://github.com/tlnagy/Crispulator.jl,A discrete simulation tool for designing pooled genetic screens
+Biology,BIOINFORMATICS,NormalizeQuantiles.jl,https://github.com/oheil/NormalizeQuantiles.jl,implements quantile normalization
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,"Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0."
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,"Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures."
