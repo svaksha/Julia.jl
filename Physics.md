@@ -29,7 +29,6 @@
 + [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 + [ROOTDataFrames.jl](https://github.com/jpata/ROOTDataFrames.jl) :: A wrapper for ROOT Trees through the Abstract DataFrame interface.
 + [Signals.jl](https://github.com/mbauman/Signals.jl) :: A high level Signal type with a common timebase and groups of channels.
-+ [Sparrow.jl](https://github.com/rennis250/Sparrow.jl) :: Visual Psychophysics package for Julia.
 
 ----
 
@@ -51,14 +50,11 @@
 ----
 
 # Laser Physics
-+ [LaserOpticalCommunicationExperiments.jl](https://github.com/scidom/LaserOpticalCommunicationExperiments.jl) :: A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia.
 
 ----
 
 # Medical Physics
-+ [Psychosis.jl](https://github.com/rennis250/Psychosis.jl) :: A Julia package for visual psychophysics that mimics the Processing environment. 
-+ [Willow.jl](https://github.com/rennis250/Willow.jl) :: A Julia package for visual psychophyscis that primarily mimics the Processing environment. 
 + [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database.
 
 ----

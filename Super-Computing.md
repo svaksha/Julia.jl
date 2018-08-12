@@ -2,7 +2,6 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 
 + [ARM-CUDA](#arm-cuda)
    + [GPU](#gpu)
-        + [Org-JuliaGPU](#org-juliagpu)
 + [BENCHMARKS](#benchmarks)
 + [COMPILERS](#compilers)
    + [Preprocessor](#preprocessor)
@@ -31,10 +30,6 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
 + [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
-
-### Org-[JuliaGPU](https://github.com/JuliaGPU)
-Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
-+ [AbstractGPUArray.jl](https://github.com/JuliaGPU/AbstractGPUArray.jl) :: An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL.
 + [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
 + [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
 + [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
@@ -128,7 +123,6 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [HavenOnDemand.jl](https://github.com/richitmx/HavenOnDemand.jl) :: Julia package to access HPE Haven OnDemand API.
 + [HPAT.jl](https://github.com/IntelLabs/HPAT.jl) :: High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 + [MatlabCluster.jl](https://github.com/simonster/MatlabCluster.jl) :: Julia cluster manager for Matlab Job Scheduler.
-+ [OCAWS.jl](https://github.com/samoconnor/OCAWS.jl) :: An AWS library.
 + [SGEArrays.jl](https://github.com/davidavdav/SGEArrays.jl) :: SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 
 
@@ -159,7 +153,6 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [ClusterManagers.jl](https://github.com/JuliaLang/ClusterManagers.jl) :: Support for different clustering technologies.
 + [Collectl.jl](https://github.com/ranjanan/Collectl.jl) :: Plotting information from Collectl in julia.
 + [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
-+ [LoraMPI.jl](https://github.com/scidom/LoraMPI.jl) :: MPI Job Manager for Lora Parralel-Centric Runners.
 + [Persist.jl](https://github.com/eschnett/Persist.jl) :: The package Persist allows running jobs independent of the Julia shell. 
 + [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 
@@ -197,9 +190,6 @@ Mailing list : https://groups.google.com/forum/#!forum/julia-gpu
 + [Parallel Computing](http://docs.julialang.org/en/latest/manual/parallel-computing/)
 + [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 + [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
-+ Julia Ferraioli on using Julia on Google Compute Engine (GCE): 
-   + Julia [installation and first steps](http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html).
-   + An example of [interfacing with the Cloud Datastore via JSON](http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html)
 
 
 ----

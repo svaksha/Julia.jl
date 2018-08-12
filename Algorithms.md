@@ -18,7 +18,6 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 # [ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures)
 
 + [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: Data pre-processing algorithms.
-+ [SimDistComp.jl](https://github.com/CUHK-MMLAB/SimDistComp.jl) :: A Julia framework to support the simulation of distributed computing algorithms.
 
 ### Association Rule
 + [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
@@ -34,10 +33,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ### Pattern Matching
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.
 + [association_rules_jl](https://github.com/bcbi/association_rules_jl) :: This package implements algorithms for association rule mining and sequential pattern mining, viz., the Apriori algorithm (Agrawal & Srikant, 1994) and the SPADE algorithm (Zaki, 2001). The former is used for association rule mining (e.g., "market basket" analysis), and the latter is used for identifying sequential patterns when the data possess a temporal ordering.
-+ [bfs.jl](https://github.com/adlawson/bfs.jl) :: Breadth First Search implementation in Julia.
 + [BlossomV.jl](https://github.com/mlewe/BlossomV.jl) :: An interface for the Blossom V perfect matching algorithm.
-+ [dfs.jl](https://github.com/adlawson/dfs.jl) :: Depth First Search.
-+ [ExpressionMatch.jl](https://github.com/MikeInnes/ExpressionMatch.jl) :: A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally. 
 + [JellyFish.jl](https://github.com/samuelcolvin/JellyFish.jl) :: Port of the jellyfish string comparison library.
 + [Loess.jl](https://github.com/dcjones/Loess.jl) :: is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space.
 + [Match.jl](https://github.com/kmsquire/Match.jl) :: Advanced Pattern Matching for Julia.
@@ -67,8 +63,6 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ###### RESOURCES
 + [algo-book-julia](https://github.com/Alexander-N/algo-book-julia) :: Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 + [study](https://github.com/codematician/study) :: A study of interesting algorithms.
-+ [Multidimensional algorithms and iteration](http://www.juliabloggers.com/multidimensional-algorithms-and-iteration-3/).
-
 
 ----
 

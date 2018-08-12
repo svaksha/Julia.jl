@@ -83,6 +83,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe.
 + [SupervisedLearning.jl](https://github.com/Evizero/SupervisedLearning.jl) :: Front-end interface for supervised machine learning.
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files.
++ [JuliaTakingFittingAPIsSeriously](https://github.com/JuliaTakingFittingAPIsSeriously) :: proof of concept taking the APIs for statistics, machine learning and other infomatics.
 + [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) :: A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
 + [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) :: Julia tools for feeding tabular data into machine learning. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.

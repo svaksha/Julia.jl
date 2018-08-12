@@ -13,7 +13,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
         + [Boolean Algebra](#boolean-algebra)
         + [Set Theory](#set-theory)
     + [Mathematical Analysis](#mathematical-analysis)
-  + [Numerical Analysis](#numerical-analysis)
+    + [Numerical Analysis](#numerical-analysis)
         + [Linear Algebra](#linear-algebra)
         + [Matrix Theory](#matrix-theory)
            + [Sparse Matrices](#sparse-matrices) 
