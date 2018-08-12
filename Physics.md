@@ -6,6 +6,7 @@
    + [Julia Quantum](#juliaquantum)
 + [Statistical Mechanics](#statistical-mechanics)
 + [Thermodynamics](#thermodynamics)
++ [Complex Systems](#complex-systems)
 + [Miscellaneous](#miscellaneous)
 
 ----
@@ -77,6 +78,14 @@ An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, 
 + [MyIsing.jl](https://github.com/kaslusimoes/MyIsing.jl) :: A naive and first try to implement a 2D Square Ising Model using Julia. 
 
 ----
+
+# Complex Systems
+
++ [DynamicalBilliards.jl](https://github.com/JuliaDynamics/DynamicalBilliards.jl) :: An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions.
++ [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) :: A Julia software library for nonlinear dynamics and chaos. Composed of various sub-packages, `DynamicalSystemsBase`,  `ChaosTools` and `TimeseriesPrediction`. 
+
+----
+
 
 # [Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics)
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamic properties of moist air (real gas mixture).
