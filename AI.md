@@ -20,8 +20,8 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Contingency.jl](https://github.com/svs14/Contingency.jl) :: Assorted techniques for the purpose of enabling automated machine learning.
 + [Clustering.jl](https://github.com/johnmyleswhite/Clustering.jl) :: Basic functions for clustering data ==> k-means, dp-means, etc..
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
-+ [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl).
-+ [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl).
++ [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) :: Julia implementation of Decision Tree (CART) and Random Forest algorithms.
++ [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl) :: {NotSupported}
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
