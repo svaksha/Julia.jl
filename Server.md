@@ -14,6 +14,7 @@ __Networking, web security, frameworks and other Web server related things go he
 ----
 
 # FRAMEWORKS
++ [Bukdu.jl](https://github.com/wookay/Bukdu.jl/) :: A web development framework for Julia, influenced by [Phoenix framework](http://phoenixframework.org).
 + [genie](https://github.com/essenciary/genie) :: Eclectic web framework running on Julia.
 + [Merly.jl](https://github.com/codeneomatrix/Merly.jl) :: A micro framework for web programming in Julia.
 + [mvc-skeleton.jl](https://github.com/halla/mvc-skeleton.jl)
