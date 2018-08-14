@@ -62,16 +62,14 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 # NOSQL
 + [CQLdriver.jl](https://github.com/r3tex/CQLdriver.jl) :: A Julia package for interfacing with CQL compliant databases. 
++ [DataKnots.jl](https://github.com/rbt-lang/DataKnots.jl) :: A Julia library for representing and querying data, including nested and circular structures. It provides integration and analytics across CSV, JSON, XML and SQL data sources with an extensible, practical and coherent algebra of query combinators.
 
 ## LMDB
 + [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
 
 ## MongoDB 
-+ [CMongo.jl](https://github.com/tenthdimension/CMongo.jl) :: Julia wrapper of the C Mongo Driver.
-+ [LibBSON.jl](https://github.com/pzion/LibBSON.jl) :: libbson bindings for the Julia programming language.
-+ [LibMongo.jl](https://github.com/pzion/LibMongo.jl) :: Mongo bindings for the Julia programming language.
-+ [Mongo.jl](https://github.com/pzion/Mongo.jl) :: Mongo bindings for the Julia programming language.
-+ [Mongo.jl](https://github.com/Lytol/Mongo.jl) {__UnMaintained__} :: Mongo bindings for the Julia programming language.
++ [LibBSON.jl](https://github.com/ScottPJones/LibBSON.jl) :: libbson bindings for the Julia programming language.
++ [Mongo.jl](https://github.com/ScottPJones/Mongo.jl) :: Mongo bindings for the Julia programming language.
 
 ## Redis
 + [Redis.jl](https://github.com/jkaye2012/Redis.jl) :: Pure Julia implementation of a Redis client (actively maintained).

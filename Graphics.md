@@ -124,6 +124,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) :: Fast animated (and static) plots for Julia.
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms.
++ [BlenderPlot.jl](https://github.com/wookay/BlenderPlot.jl) :: a prototype version of the bar_chart plot on Blender using PyCall. 
 + [Cairo.jl](https://github.com/JuliaLang/Cairo.jl) :: Bindings for the Cairo graphics library.
 + [CData.jl](https://github.com/ma-laforge/CData.jl) :: C-Data Analysis/Visualization Suite.
 + [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) will replace [Color.jl](https://github.com/JuliaLang/Color.jl) from ver-0.4 onwards.
@@ -160,8 +161,8 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [VennEuler.jl](https://github.com/HarlanH/VennEuler.jl) :: Generate area-proportional Venn/Euler diagrams in Julia.
 + [VGPlot.jl](https://github.com/johnmyleswhite/VGPlot.jl) :: A knock-off of ggplot2 in Julia using Vega.
 + [VTK.jl](https://github.com/timholy/VTK.jl) :: VTK bindings for the Julia language.
-+ JuliaDSP/[Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl) :: Fast Discrete Wavelet Transforms written in Julia.
-+ tomaskrehlik/[Wavelets.jl](https://github.com/tomaskrehlik/Wavelets.jl) :: Implementation of Wavelet methods in Julia.
++ [Wavelets.jl](https://github.com/JuliaDSP/Wavelets.jl), by JuliaDSP :: Fast Discrete Wavelet Transforms written in Julia.
++ [Wavelets.jl](https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehlik :: Implementation of Wavelet methods in Julia.
 
 
 ### Graphical Plotting
