@@ -96,7 +96,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 ## SQLite
 + [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
-+ [SQLite.jl](https://github.com/quinnj/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
++ [SQLite.jl](https://github.com/JuliaDatabases/SQLite.jl) :: Julia interface to the SQLite library with support for operations on DataFrames.
 
 ----
 
