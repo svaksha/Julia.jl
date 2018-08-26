@@ -139,7 +139,7 @@ __NEWS from social networking communities, QA sites and Twitter.__
 ----
 
 # [Julia User Groups](http://julia.meetup.com)
-__Local meetup groups located in various continents around the world.__
+__Local meetup groups located in the [7 continents](https://en.wikipedia.org/wiki/Category:Categories_by_continent) around the [world](https://en.wikipedia.org/wiki/Category:Categories_by_continent).__
 
 ## Asia- CHINA
 + [Beijing](http://www.meetup.com/juliacn/) Julia Programming Language Meetup.
@@ -165,6 +165,12 @@ __Local meetup groups located in various continents around the world.__
 ## Asia-SINGAPORE
 + 2015June05 :: Tutorial on High Performance Cloud Computing Technologies: Julia & OpenTuner, Alan Edelman, Saman P. Amarasinghe, and Jiahao Chen. [Register here](https://www.eventbrite.com/e/tutorial-on-high-performance-cloud-computing-technologies-julia-opentuner-tickets-4866645267)
 
+[//]: # (######################################################################)
+
+## Asia-TURKEY
++ [Julia Istanbul](https://www.meetup.com/JuliaStanbul/), Turkey.
+
+[//]: # (######################################################################)
 
 ## Europe-AUSTRIA
 + [Vienna Julia Meetup Group](http://www.meetup.com/Vienna-Julia-Meetup).
@@ -172,6 +178,11 @@ __Local meetup groups located in various continents around the world.__
 
 [//]: # (######################################################################)
 
+## Europe-DENMARK
++ [JuliaCPH](https://www.meetup.com/JuliaCPH/), Copenhagen, Denmark
+
+[//]: # (######################################################################)
+    
 ## Europe-GERMANY
 
 #### [Baden-Württemberg](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).
@@ -208,6 +219,7 @@ __Local meetup groups located in various continents around the world.__
 [//]: # (######################################################################)
 
 ## NorthAmerica-CANADA
++ [Montréal Julia Programming Language Meetup](https://www.meetup.com/Montreal-Julia-Programming-Language-Meetup/), Montréal, QC.
 + [Ottawa JUG](http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario.
 + [Vancouver JUG](http://www.meetup.com/Vancouver-Julia-Users/), British Columbia.
 
