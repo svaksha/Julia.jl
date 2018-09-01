@@ -167,6 +167,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 ### English
 + [EnglishText.jl](https://github.com/TotalVerb/EnglishText.jl) :: Utilities for English-language quirks in Julia.
++ [Why.jl](https://github.com/TorkelE/Why.jl) :: A simple function, why, which gives randomly generated answers.
 
 ### [Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
 + [FiniteStateMachine.jl](https://github.com/tinybike/FiniteStateMachine.jl) :: A simple Julia implementation of finite state machines.

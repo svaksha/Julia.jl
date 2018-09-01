@@ -92,13 +92,14 @@ __Pre-compiled Binaries__
 [//]: # ( Platform independent comment line between multiple sub-sections )
 [//]: # (######################################################################)
 
+
 ## Containers-[Virtualization](http://en.wikipedia.org/wiki/Category:Virtualization_software)
 ### Ansible
 + [Ansible and Docker](https://developer.rackspace.com/blog/ansible-and-docker/)
 + [julia-ansible-scripts](https://github.com/staticfloat/julia-ansible-scripts) :: Various julia ansible scripts for provisioning servers, buildbots etc...
 
 ### Docker
-+ [Docker](https://registry.hub.docker.com/_/julia/) image for Julia.
++ [Docker](https://hub.docker.com/r/library/julia/) image for Julia. 
 + [julia](https://github.com/docker-library/julia) :: Docker Official Image packaging for [Julia](http://julialang.org/).
 + [RudeOil.jl](https://github.com/UCL/RudeOil.jl) :: A package to easily interact with docker and docker-machine.
 
@@ -108,6 +109,7 @@ __Pre-compiled Binaries__
 [//]: # (######################################################################)
 [//]: # ( Platform independent comment line between multiple sub-sections )
 [//]: # (######################################################################)
+
 
 ## DistrOS
 #### Debian-Ubuntu
