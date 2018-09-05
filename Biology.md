@@ -29,6 +29,7 @@
 + [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 + [Crispulator.jl](https://github.com/tlnagy/Crispulator.jl) :: A discrete simulation tool for designing pooled genetic screens
 + [Bioinformatics.jl](https://github.com/mrtkp9993/Bioinformatics.jl) :: Helper functions for bioinformatics and rosalind.info problems.
++ [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) :: implements quantile normalization
 
 ----
 
