@@ -5,8 +5,8 @@ AI,MACHINELEARNING,ConfidenceWeighted.jl,https://github.com/chezou/ConfidenceWei
 AI,MACHINELEARNING,Contingency.jl,https://github.com/svs14/Contingency.jl,Assorted techniques for the purpose of enabling automated machine learning.
 AI,MACHINELEARNING,Clustering.jl,https://github.com/johnmyleswhite/Clustering.jl,"Basic functions for clustering data ==> k-means, dp-means, etc.."
 AI,MACHINELEARNING,DAI.jl,https://github.com/binarybana/DAI.jl,A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
-AI,MACHINELEARNING,DecisionTree.jl,https://github.com/bensadeghi/DecisionTree.jl),
-AI,MACHINELEARNING,DecisionTrees.jl,https://github.com/MikeInnes/DecisionTrees.jl),
+AI,MACHINELEARNING,DecisionTree.jl,https://github.com/bensadeghi/DecisionTree.jl,Julia implementation of Decision Tree (CART) and Random Forest algorithms.
+AI,MACHINELEARNING,DecisionTrees.jl,https://github.com/MikeInnes/DecisionTrees.jl,{NotSupported}
 AI,MACHINELEARNING,DeepQLearning.jl,https://github.com/Andy-P/DeepQLearning.jl,An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 AI,MACHINELEARNING,Discretizers.jl,https://github.com/sisl/Discretizers.jl,A package to support discretization methods and mapping functions for data discretization and label maps.
 AI,MACHINELEARNING,EGR.jl,https://github.com/stefanks/EGR.jl,The Stochastic Gradient (SG) algorithm for machine learning.
@@ -68,6 +68,7 @@ AI,MACHINELEARNING,SoftConfidenceWeighted.jl,https://github.com/IshitaTakeshi/So
 AI,MACHINELEARNING,Strada.jl,https://github.com/pcmoritz/Strada.jl,A deep learning library for Julia based on Caffe.
 AI,MACHINELEARNING,SupervisedLearning.jl,https://github.com/Evizero/SupervisedLearning.jl,Front-end interface for supervised machine learning.
 AI,MACHINELEARNING,SVMLightLoader.jl,https://github.com/IshitaTakeshi/SVMLightLoader.jl,Loader of svmlight / liblinear format files.
+AI,MACHINELEARNING,JuliaTakingFittingAPIsSeriously,https://github.com/JuliaTakingFittingAPIsSeriously,"proof of concept taking the APIs for statistics, machine learning and other infomatics."
 AI,MACHINELEARNING,TensorFlow.jl,https://github.com/malmaud/TensorFlow.jl,"A Julia wrapper for TensorFlow, the open source machine learning framework from Google."
 AI,MACHINELEARNING,TheDataMustFlow.jl,https://github.com/ExpandingMan/TheDataMustFlow.jl,Julia tools for feeding tabular data into machine learning.
 AI,MACHINELEARNING,TSVD.jl,https://github.com/andreasnoack/TSVD.jl,Truncated singular value decomposition with partial reorthogonalization.
@@ -142,17 +143,13 @@ AI,SPEECHRECOGNITION,SPTK.jl,https://github.com/r9y9/SPTK.jl,"A Julia wrapper fo
 AI,SPEECHRECOGNITION,SynthesisFilters.jl,https://github.com/r9y9/SynthesisFilters.jl,Speech Synthesis Filters.
 AI,SPEECHRECOGNITION,WORLD.jl,https://github.com/r9y9/WORLD.jl,"A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD."
 Algorithms,[ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures),DataDecomposition.jl,https://github.com/trthatcher/DataDecomposition.jl,Data pre-processing algorithms.
-Algorithms,[ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures),SimDistComp.jl,https://github.com/CUHK-MMLAB/SimDistComp.jl,A Julia framework to support the simulation of distributed computing algorithms.
 Algorithms,AssociationRule,ARules.jl,https://github.com/toddleo/ARules.jl,Julia package for Association Rule Learning algorithms.
 Algorithms,Checksum,CRC.jl,https://github.com/andrewcooke/CRC.jl,This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 Algorithms,Checksum,CRC32.jl,https://github.com/fhs/CRC32.jl,32-bit cyclic redundancy check (CRC-32) checksum implementation.
 Algorithms,CollaborativeFiltering,RecSys.jl,https://github.com/abhijithch/RecSys.jl,"An implementation of the algorithm from Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008."
 Algorithms,PatternMatching,AhoCorasick.jl,https://github.com/gilesc/AhoCorasick.jl,Julia implementation of the Aho-Corasick algorithm for fast string searching.
 Algorithms,PatternMatching,association_rules_jl,https://github.com/bcbi/association_rules_jl,"This package implements algorithms for association rule mining and sequential pattern mining, viz., the Apriori algorithm (Agrawal & Srikant, 1994) and the SPADE algorithm (Zaki, 2001). The former is used for association rule mining (e.g., ""market basket"" analysis), and the latter is used for identifying sequential patterns when the data possess a temporal ordering."
-Algorithms,PatternMatching,bfs.jl,https://github.com/adlawson/bfs.jl,Breadth First Search implementation in Julia.
 Algorithms,PatternMatching,BlossomV.jl,https://github.com/mlewe/BlossomV.jl,An interface for the Blossom V perfect matching algorithm.
-Algorithms,PatternMatching,dfs.jl,https://github.com/adlawson/dfs.jl,Depth First Search.
-Algorithms,PatternMatching,ExpressionMatch.jl,https://github.com/MikeInnes/ExpressionMatch.jl,A small library designed to help macro writers deconstruct Julia expressions in a more declarative way without having to know in great detail how syntax is represented internally.
 Algorithms,PatternMatching,JellyFish.jl,https://github.com/samuelcolvin/JellyFish.jl,Port of the jellyfish string comparison library.
 Algorithms,PatternMatching,Loess.jl,https://github.com/dcjones/Loess.jl,"is a loess implementation based on the fast kd-tree based approximation algorithm, a space-partitioning data structure for organizing points in a k-dimensional space."
 Algorithms,PatternMatching,Match.jl,https://github.com/kmsquire/Match.jl,Advanced Pattern Matching for Julia.
@@ -168,12 +165,12 @@ Algorithms,Sorting,SortingLab.jl,https://github.com/xiaodaigh/SortingLab.jl,Expe
 Algorithms,Time,LabelPropagation.jl,https://github.com/afternone/LabelPropagation.jl,"A fast, nearly linear time algorithm for detecting communtiy structure in networks."
 Algorithms,RESOURCES,algo-book-julia,https://github.com/Alexander-N/algo-book-julia,Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 Algorithms,RESOURCES,study,https://github.com/codematician/study,A study of interesting algorithms.
-Algorithms,RESOURCES,Multidimensional algorithms and iteration,http://www.juliabloggers.com/multidimensional-algorithms-and-iteration-3/),
 Algorithms,[NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems),TravelingSalesmanHeuristics.jl,https://github.com/evanfields/TravelingSalesmanHeuristics.jl,Julia package for simple traveling salesman problem heuristics.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),dReal.jl,https://github.com/zenna/dReal.jl,Nonlinear SMT solving using dReal.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),PicoSAT.jl,https://github.com/jakebolewski/PicoSAT.jl,Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),Z3.jl,https://github.com/zenna/Z3.jl,This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 API,API,Hydna.jl,https://github.com/jfd/Hydna.jl,Hydna Julia Client Library implements support for the Hydna Push API.
+API,API,Joseki.jl,https://github.com/amellnik/Joseki.jl,Suggested opening moves for building APIs in Julia. http://joseki.gotfork.net
 API,API,MapLight.jl,https://github.com/WestleyArgentum/MapLight.jl,"A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA."
 API,API,OpenSecrets.jl,https://github.com/WestleyArgentum/OpenSecrets.jl,An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
 API,API,Plotlyjs.jl,https://github.com/spencerlyon2/Plotlyjs.jl,Julia wrapper API for `plotly.js` by @spencerlyon2.
@@ -258,6 +255,8 @@ Biology,BIOINFORMATICS,Rosalind.jl,https://github.com/PilgrimShadow/Rosalind.jl,
 Biology,BIOINFORMATICS,smoothlife-jl,https://github.com/jamak/smoothlife-jl,an implementation of the SmoothLife algorithm in Julia.
 Biology,BIOINFORMATICS,taxize.jl,https://github.com/sckott/taxize.jl,A taxonomic toolbelt for Julia.
 Biology,BIOINFORMATICS,Crispulator.jl,https://github.com/tlnagy/Crispulator.jl,A discrete simulation tool for designing pooled genetic screens
+Biology,BIOINFORMATICS,Bioinformatics.jl,https://github.com/mrtkp9993/Bioinformatics.jl,Helper functions for bioinformatics and rosalind.info problems.
+Biology,BIOINFORMATICS,NormalizeQuantiles.jl,https://github.com/oheil/NormalizeQuantiles.jl,implements quantile normalization
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,"Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0."
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,"Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures."
@@ -364,12 +363,10 @@ DataBase,ENGINES,kyotocabinet.jl,https://github.com/tuzzeg/kyotocabinet.jl,Imple
 DataBase,GraphDB,Neo4j.jl,https://github.com/glesica/Neo4j.jl,Messing around with building a Neo4j driver for Julia.
 DataBase,HDF,EasyData.jl,https://github.com/ma-laforge/EasyData.jl,Simple/Fast(+HDF5) solution to writing datasets & plots to file.
 DataBase,NOSQL,CQLdriver.jl,https://github.com/r3tex/CQLdriver.jl,A Julia package for interfacing with CQL compliant databases.
+DataBase,NOSQL,DataKnots.jl,https://github.com/rbt-lang/DataKnots.jl,"A Julia library for representing and querying data, including nested and circular structures. It provides integration and analytics across CSV, JSON, XML and SQL data sources with an extensible, practical and coherent algebra of query combinators."
 DataBase,LMDB,LMDB.jl,https://github.com/wildart/LMDB.jl,A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project.
-DataBase,MongoDB,CMongo.jl,https://github.com/tenthdimension/CMongo.jl,Julia wrapper of the C Mongo Driver.
-DataBase,MongoDB,LibBSON.jl,https://github.com/pzion/LibBSON.jl,libbson bindings for the Julia programming language.
-DataBase,MongoDB,LibMongo.jl,https://github.com/pzion/LibMongo.jl,Mongo bindings for the Julia programming language.
-DataBase,MongoDB,Mongo.jl,https://github.com/pzion/Mongo.jl,Mongo bindings for the Julia programming language.
-DataBase,MongoDB,Mongo.jl,https://github.com/Lytol/Mongo.jl) {__UnMaintained__,Mongo bindings for the Julia programming language.
+DataBase,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bindings for the Julia programming language.
+DataBase,MongoDB,Mongo.jl,https://github.com/ScottPJones/Mongo.jl,Mongo bindings for the Julia programming language.
 DataBase,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 DataBase,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
 DataBase,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
@@ -383,7 +380,7 @@ DataBase,PostgreSQL,LibPQ.jl,https://github.com/invenia/LibPQ.jl,A Julia wrapper
 DataBase,PostgreSQL,Postgres.jl,https://github.com/NCarson/Postgres.jl,Postgres database interface for the Julia language. {Tag: Unmaintained}
 DataBase,PostgreSQL,PostgreSQL.jl,https://github.com/swt30/PostgreSQL.jl,"An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl)."
 DataBase,SQLite,DBDSQLite.jl,https://github.com/JuliaDatabases/DBDSQLite.jl,DBI-compliant driver for SQLite3.
-DataBase,SQLite,SQLite.jl,https://github.com/quinnj/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
+DataBase,SQLite,SQLite.jl,https://github.com/JuliaDatabases/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
 DataBase,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/,
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),ASTInterpreter2.jl,https://github.com/Keno/ASTInterpreter2.jl,Re-write of ASTInterpreter for julia v0.6+.
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Gallium.jl,https://github.com/Keno/Gallium.jl,The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
@@ -475,6 +472,8 @@ DesktopApplications,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_developm
 DesktopApplications,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),Julia on the SageMath cloud server,https://cloud.sagemath.com),
 DesktopApplications,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),koding,https://koding.com/Julia) has an interactive online Julia REPL,
 DesktopApplications,[WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment),CodeBunk,http://codebunk.com) supports Julia for collaborative screen-sharing on the cloud,
+DevOps,NEWS,Devops Weekly,http://www.devopsweekly.com/),
+DevOps,NEWS,ow to do [test driven development (TDD),https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia,
 DevOps,INSTALL,Download and install Julia on various Operating Systems,http://julialang.org/downloads/,
 DevOps,INSTALL,ist of [Julia Modules,http://docs.julialang.org/en/latest/manual/modules/),
 DevOps,INSTALL,The Julia Standard Library,http://docs.julialang.org/en/latest/stdlib/,
@@ -484,9 +483,13 @@ DevOps,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
 DevOps,BUILDAUTOMATION,jlbuild,https://github.com/jlbuild,"A bot that controls the julia buildbots to build releases and perform some additional continous integration on secondary platforms. Ping (`@jlbuild`) in a comment, PR, issue, etc... and this GitHub comment-based interface to testing buildbots will build the relevant Julia version on all platforms, post download links and even execute small chunks of code across those platforms."
 DevOps,BUILDAUTOMATION,Juke.jl,https://github.com/kshramt/Juke.jl,`make` in Julia.
 DevOps,BUILDAUTOMATION,OpenStack.jl,https://github.com/Keno/OpenStack.jl),
-DevOps,DEVELOPMENT,FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"The [FemtoCleaner](https://github.com/apps/femtocleaner) app cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path."
-DevOps,DEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
-DevOps,DEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
+DevOps,CONTINUOUSINTEGRATION,erge your Julia code with mainline to test it on a [Travis-CI build server,https://travis-ci.org/JuliaLang/),
+DevOps,CONTINUOUSINTEGRATION,TestDocs.jl,https://github.com/simonbyrne/TestDocs.jl,A test package to try to automatically build docs on travis.
+DevOps,CONTINUOUSINTEGRATION,TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
+DevOps,Git-Hooks,julia-helper,https://github.com/jiahao/julia-helper,Scripts to help Julia developers.
+DevOps,JULIADEVELOPMENT,FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"The [FemtoCleaner](https://github.com/apps/femtocleaner) app cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path."
+DevOps,JULIADEVELOPMENT,HackThatBase.jl,https://github.com/ihnorton/HackThatBase.jl,A helper tool to reload and test modifications to base without recompiling the full system image.
+DevOps,JULIADEVELOPMENT,PkgSearch,https://github.com/essenciary/PkgSearch,A Julia REPL utility for package discovery.
 DevOps,Security,PkgVerifierPrototype,https://github.com/LachlanGunn/PkgVerifierPrototype,Julia package verifier prototype.
 DevOps,Binaries,BinaryBuilder.jl,https://github.com/JuliaPackaging/BinaryBuilder.jl,Binary Dependency Builder for Julia.
 DevOps,Binaries,BinaryProvider.jl,https://github.com/JuliaPackaging/BinaryProvider.jl,A reliable binary provider for Julia.
@@ -540,15 +543,37 @@ DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/pack
 DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 DevOps,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
 DevOps,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,"A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments."
-DevOps,NEWS,Devops Weekly,http://www.devopsweekly.com/),
+DevOps,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,https://github.com/MikeInnes/Digger.jl,Digger is a fuzz tester designed to fish bugs out of Dagger.jl
+DevOps,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
+DevOps,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
+DevOps,LOGGING,Logging.jl,https://github.com/kmsquire/Logging.jl,The Logging module.
+DevOps,LOGGING,LogMover.jl,https://github.com/nkottary/LogMover.jl,
+DevOps,LOGGING,Lumberjack.jl,https://github.com/forio/Lumberjack.jl,A logging library by Westley Hennigh.
+DevOps,LOGGING,Stage.jl,https://github.com/saltpork/Stage.jl,"has stage macros, checkpoints and loggers for Julia."
+DevOps,RegressionTesting,VisualRegressionTests.jl,https://github.com/JuliaPlots/VisualRegressionTests.jl) Automated integrated regression tests for graphics libraries,
+DevOps,UNITTEST,BaseTestDeprecated.jl,https://github.com/IainNZ/BaseTestDeprecated.jl,Provides the `Base.Test` functionality removed in `Julia v0.5`.
+DevOps,UNITTEST,CoverageBase.jl,https://github.com/timholy/CoverageBase.jl,Measuring internal test coverage of the Julia programming language.
+DevOps,UNITTEST,Coverage.jl,https://github.com/IainNZ/Coverage.jl,"Take the Julia test coverage results and bundle them up in JSON - it processes a .jl file and its matching .cov file, tracking your Julia packages for test coverage and works with Coveralls, which integrates with TravisCI."
+DevOps,UNITTEST,Debug.jl,https://github.com/toivoh/Debug.jl,Prototype interactive debugger for Julia.
+DevOps,UNITTEST,FactCheck.jl,https://github.com/zachallaun/FactCheck.jl,Midje-like testing framework written for Julia.
+DevOps,UNITTEST,Fixtures.jl,https://github.com/burrowsa/Fixtures.jl,"provides fixtures, mocks, matchers and patching to improve your tests with Julia."
+DevOps,UNITTEST,Jig.jl,https://github.com/milktrader/Jig.jl,Testing framework for Julia.
+DevOps,UNITTEST,JLTest,https://github.com/smangano/JLTest,A unittest framework for Julia (inspired by Python's unittest).
+DevOps,UNITTEST,JulieTest.jl,https://github.com/arypurnomoz/JulieTest.jl,A Julia testing framework inspired by javascript's Mocha. See the [Wiki](https://github.com/arypurnomoz/JulieTest.jl/wiki)
+DevOps,UNITTEST,microcoverage,https://github.com/StephenVavasis/microcoverage,"This module computes code coverage for a Julia program at a more fine-grained level than the built-in coverage feature. Specifically, it provides coverage counts for each branch of the ||, && and ?: operators where they occur. It also counts the number of invocations to statement-functions."
+DevOps,UNITTEST,Mocking.jl,https://github.com/invenia/Mocking.jl) : Allows temporary overwriting of Julia methods for testing purposes,
+DevOps,UNITTEST,PackageTesting.jl,https://github.com/johnmyleswhite/PackageTesting.jl,A standard for testing Julia packages.
+DevOps,UNITTEST,RunTests.jl,https://github.com/burrowsa/RunTests.jl,A test running framework for Julia that extends Base.Test
+DevOps,UNITTEST,Saute.jl,https://github.com/milktrader/Saute.jl,is another testing framework for Julia.
+DevOps,UNITTEST,testfast.jl,https://github.com/Veraticus/testfast.jl,Automatically finds test files and runs them.
+DevOps,UNITTEST,UnitTest.jl,https://github.com/analyzere/UnitTest.jl,"Another unit-testing library for Julia, that provides nose test style output to the command line and is capable of producing an junit compatible xml result file."
+DevOps,UNITTEST,Watcher.jl,https://github.com/rened/Watcher.jl):: File watcher in Julia - can be used to auto-run unit tests etc,
 Earth-Science,AERONAUTICS,Rotations.jl,https://github.com/ronisbr/Rotations.jl,"Functions related to rotations of coordinate frames, angle2dcm, dcm2angle."
 Earth-Science,AERONAUTICS,Quaternions.jl,https://github.com/forio/Quaternions.jl,A Julia module with quaternion and dual-quaternion functionality.
 Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),ClimateTools.jl,https://github.com/Balinus/ClimateTools.jl,This package is a collection of commonly-used tools in Climate Science.
 Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),Mimi.jl,https://github.com/anthofflab/Mimi.jl,Integrated Assessment Modeling Framework for climate change.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),Krige.jl,https://github.com/njwilson23/Krige.jl,Kriging estimators in Julia.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/juliohm/GeoStats.jl,Geostatistics in Julia.
-Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
-Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,3D image quilting simulation.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),OpenStreetMapParser.jl,https://github.com/yeesian/OpenStreetMapParser.jl,"This package provides basic functionality for parsing OpenStreetMap data in Julia, in the following file formats: [.osm (XML)](http://wiki.openstreetmap.org/wiki/OSM_XML) and [.pbf (binary)](http://wiki.openstreetmap.org/wiki/PBF_Format)."
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),Proj4.jl,https://github.com/FugroRoames/Proj4.jl,Julia wrapper for PROJ.4 cartographic projections library.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),PyProj.jl,https://github.com/kshramt/PyProj.jl," A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations."
@@ -638,6 +663,7 @@ FileIO,TabularDataMatrix,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl
 FileIO,TabularDataMatrix,LAJuliaUtils.jl,https://github.com/sylvaticus/LAJuliaUtils.jl,"Utility functions for Julia, mainly dataframes operations."
 FileIO,TabularDataMatrix,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module for reading MATLAB files.
 FileIO,TabularDataMatrix,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
+FileIO,TabularDataMatrix,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 FileIO,TabularDataMatrix,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
 FileIO,TabularDataMatrix,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
 FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
@@ -845,6 +871,7 @@ Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This 
 Graphics,INFOGRAPHICS,AnimatedPlots.jl,https://github.com/zyedidia/AnimatedPlots.jl,Fast animated (and static) plots for Julia.
 Graphics,INFOGRAPHICS,AverageShiftedHistograms.jl,https://github.com/joshday/AverageShiftedHistograms.jl,David Scott's Average Shifted Histogram density estimation.
 Graphics,INFOGRAPHICS,BBVis.jl,https://github.com/joehuchette/BBVis.jl,Visualizations for branch-and-bound algorithms.
+Graphics,INFOGRAPHICS,BlenderPlot.jl,https://github.com/wookay/BlenderPlot.jl,a prototype version of the bar_chart plot on Blender using PyCall.
 Graphics,INFOGRAPHICS,Cairo.jl,https://github.com/JuliaLang/Cairo.jl,Bindings for the Cairo graphics library.
 Graphics,INFOGRAPHICS,CData.jl,https://github.com/ma-laforge/CData.jl,C-Data Analysis/Visualization Suite.
 Graphics,INFOGRAPHICS,ColorTypes.jl,https://github.com/JuliaGraphics/ColorTypes.jl,"Color primitives for Julia, based on FixedSizeArrays."
@@ -880,8 +907,8 @@ Graphics,INFOGRAPHICS,VennDiagrams.jl,https://github.com/binarybana/VennDiagrams
 Graphics,INFOGRAPHICS,VennEuler.jl,https://github.com/HarlanH/VennEuler.jl,Generate area-proportional Venn/Euler diagrams in Julia.
 Graphics,INFOGRAPHICS,VGPlot.jl,https://github.com/johnmyleswhite/VGPlot.jl,A knock-off of ggplot2 in Julia using Vega.
 Graphics,INFOGRAPHICS,VTK.jl,https://github.com/timholy/VTK.jl,VTK bindings for the Julia language.
-Graphics,INFOGRAPHICS,uliaDSP/[Wavelets.jl,https://github.com/JuliaDSP/Wavelets.jl,Fast Discrete Wavelet Transforms written in Julia.
-Graphics,INFOGRAPHICS,omaskrehlik/[Wavelets.jl,https://github.com/tomaskrehlik/Wavelets.jl,Implementation of Wavelet methods in Julia.
+Graphics,INFOGRAPHICS,Wavelets.jl,"https://github.com/JuliaDSP/Wavelets.jl), by JuliaDS",Fast Discrete Wavelet Transforms written in Julia.
+Graphics,INFOGRAPHICS,Wavelets.jl,"https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehli",Implementation of Wavelet methods in Julia.
 Graphics,GraphicalPlotting,Bokeh.jl,https://github.com/bokeh/Bokeh.jl,Bokeh bindings for Julia.
 Graphics,GraphicalPlotting,FalseColor.jl,https://github.com/ojwoodford/FalseColor.jl,A Julia package to turn gridded data into pretty images.
 Graphics,GraphicalPlotting,Gadfly.jl,http://gadflyjl.org/,[Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
@@ -1438,61 +1465,61 @@ Mathematics,PUZZLES,sudoku,https://github.com/Alexander-N/sudoku,Reimplementing 
 Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl,A simple Sudoku solver in Julia by @johnmyleswhite.
 Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
-OpenData,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
-OpenData,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
-OpenData,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
-OpenData,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
-OpenData,SOFTWARE,ModelerToolbox.jl,https://github.com/spencerlyon2/ModelerToolbox.jl,Utilities for working with many different versions/parameterizations of models.
-OpenData,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
-OpenData,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
-OpenData,SOFTWARE,PubMedMiner.jl,https://github.com/bcbi/PubMedMiner.jl,Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept.
-OpenData,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the datasets available in R.
-OpenData,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
-OpenData,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
-OpenData,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
-OpenData,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
-OpenData,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
-OpenData,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
-OpenData,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
-OpenData,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
-OpenData,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
-OpenData,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
-OpenData,Genome,Genome Project Database,https://www.ncbi.nlm.nih.gov/bioproject),
-OpenData,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
-OpenData,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
-OpenData,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
-OpenData,"Worms,Virus,Nematodes",he central [MANUELA database,"http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale",
-OpenData,"Worms,Virus,Nematodes",Nematodes DB,"http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from _neglected taxa_ using the PartiGene suite of programmes",
-OpenData,"Worms,Virus,Nematodes",Nematode Transcriptome Analyses,http://www.nematodes.org/nembase4/),
-OpenData,"Worms,Virus,Nematodes",WormBase,http://www.wormbase.org/species/all#0--10,Species genomes with standardized sequence and annotations.
-OpenData,Genetics-Medicine,CBI Resources for [Genetics and Medicine,https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/),
-OpenData,Genetics-Medicine,"HIV-1, Human Protein Interaction Database",http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/,"A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data."
-OpenData,MedicalImaging,Computed Tomography Emphysema Database,http://image.diku.dk/emphysema_database/),
-OpenData,MedicalImaging,ornell's Public [Medical Image Databases,http://www.via.cornell.edu/databases/),
-OpenData,MolecularBiology,SASBDB,http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank,
-OpenData,Neuroscience,Codeneuro-Datasets,https://github.com/codeneuro/datasets,"Shared data sets for collaborating, testing, and benchmarking."
-OpenData,Neuroscience,OpenfMRI.org,https://openfmri.org,"A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data."
-OpenData,Neuroscience,Neuroscience Databases,http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list,
-OpenData,Neuroscience,Neurovault,http://neurovault.org/,A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
-OpenData,Pharma,OSDD - open source drug discovery,http://www.osdd.net/),
-OpenData,CHEMISTRY,Chemical DB,http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP,
-OpenData,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP,
-OpenData,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
-OpenData,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
-OpenData,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
-OpenData,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html),
-OpenData,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
-OpenData,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
-OpenData,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
-OpenData,DATA-General,Freebase,http://www.freebase.com,"A community-curated database of well-known people, places, and things."
-OpenData,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines."
-OpenData,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
-OpenData,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
-OpenData,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
-OpenData,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
-OpenData,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
-OpenData,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
-OpenData,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org)."
+OpenDataScience,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
+OpenDataScience,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
+OpenDataScience,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
+OpenDataScience,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
+OpenDataScience,SOFTWARE,ModelerToolbox.jl,https://github.com/spencerlyon2/ModelerToolbox.jl,Utilities for working with many different versions/parameterizations of models.
+OpenDataScience,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
+OpenDataScience,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
+OpenDataScience,SOFTWARE,PubMedMiner.jl,https://github.com/bcbi/PubMedMiner.jl,Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept.
+OpenDataScience,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the datasets available in R.
+OpenDataScience,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
+OpenDataScience,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
+OpenDataScience,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
+OpenDataScience,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
+OpenDataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
+OpenDataScience,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
+OpenDataScience,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
+OpenDataScience,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
+OpenDataScience,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
+OpenDataScience,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
+OpenDataScience,Genome,Genome Project Database,https://www.ncbi.nlm.nih.gov/bioproject),
+OpenDataScience,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
+OpenDataScience,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
+OpenDataScience,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
+OpenDataScience,"Worms,Virus,Nematodes",he central [MANUELA database,"http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale",
+OpenDataScience,"Worms,Virus,Nematodes",Nematodes DB,"http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from _neglected taxa_ using the PartiGene suite of programmes",
+OpenDataScience,"Worms,Virus,Nematodes",Nematode Transcriptome Analyses,http://www.nematodes.org/nembase4/),
+OpenDataScience,"Worms,Virus,Nematodes",WormBase,http://www.wormbase.org/species/all#0--10,Species genomes with standardized sequence and annotations.
+OpenDataScience,Genetics-Medicine,CBI Resources for [Genetics and Medicine,https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/),
+OpenDataScience,Genetics-Medicine,"HIV-1, Human Protein Interaction Database",http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/,"A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data."
+OpenDataScience,MedicalImaging,Computed Tomography Emphysema Database,http://image.diku.dk/emphysema_database/),
+OpenDataScience,MedicalImaging,ornell's Public [Medical Image Databases,http://www.via.cornell.edu/databases/),
+OpenDataScience,MolecularBiology,SASBDB,http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank,
+OpenDataScience,Neuroscience,Codeneuro-Datasets,https://github.com/codeneuro/datasets,"Shared data sets for collaborating, testing, and benchmarking."
+OpenDataScience,Neuroscience,OpenfMRI.org,https://openfmri.org,"A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data."
+OpenDataScience,Neuroscience,Neuroscience Databases,http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list,
+OpenDataScience,Neuroscience,Neurovault,http://neurovault.org/,A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
+OpenDataScience,Pharma,OSDD - open source drug discovery,http://www.osdd.net/),
+OpenDataScience,CHEMISTRY,Chemical DB,http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP,
+OpenDataScience,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP,
+OpenDataScience,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
+OpenDataScience,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
+OpenDataScience,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
+OpenDataScience,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html),
+OpenDataScience,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
+OpenDataScience,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
+OpenDataScience,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
+OpenDataScience,DATA-General,Freebase,http://www.freebase.com,"A community-curated database of well-known people, places, and things."
+OpenDataScience,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines."
+OpenDataScience,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
+OpenDataScience,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
+OpenDataScience,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
+OpenDataScience,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
+OpenDataScience,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
+OpenDataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
+OpenDataScience,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org)."
 Physics,,ACME.jl,https://github.com/HSU-ANT/ACME.jl,Analog Circuit Modeling and Emulation for Julia.
 Physics,,auditory.jl,https://github.com/jfsantos/auditory.jl,Auditory filterbanks in Julia.
 Physics,,Chipmunk.jl,https://github.com/zyedidia/Chipmunk.jl,A binding of the physics engine Chipmunk for Julia.
@@ -1510,7 +1537,6 @@ Physics,,Quantities.jl,https://github.com/ElOceanografo/Quantities.jl,Dimensions
 Physics,,ROOT.jl,https://github.com/jpata/ROOT.jl,A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 Physics,,ROOTDataFrames.jl,https://github.com/jpata/ROOTDataFrames.jl,A wrapper for ROOT Trees through the Abstract DataFrame interface.
 Physics,,Signals.jl,https://github.com/mbauman/Signals.jl,A high level Signal type with a common timebase and groups of channels.
-Physics,,Sparrow.jl,https://github.com/rennis250/Sparrow.jl,Visual Psychophysics package for Julia.
 Physics,Electromagnetism,Dipole julia,https://github.com/manuamador/Dipole_julia,A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
 Physics,Electromagnetism,Reverb Julia,https://github.com/manuamador/Reverb_Julia,A julia version of an electromagnetic reverberation chamber model based on image theory.
 Physics,Electromagnetism,SpikeSorting.jl,https://github.com/paulmthompson/SpikeSorting.jl,Online spike sorting methods in Julia.
@@ -1520,10 +1546,7 @@ Physics,FluidDynamics,Granular.jl,https://github.com/anders-dc/Granular.jl,Julia
 Physics,FluidDynamics,hydro,http://github.com/natj/hydro,"Fairly simple, relatively small & mildly interesting hydrodynamic code."
 Physics,FluidDynamics,A video of the _hydro_ code in use,https://vimeo.com/95607699,
 Physics,FluidDynamics,LatBo.jl,https://github.com/UCL/LatBo.jl,Lattice-Boltzmann implementation in Julia.
-Physics,LaserPhysics,LaserOpticalCommunicationExperiments.jl,https://github.com/scidom/LaserOpticalCommunicationExperiments.jl,A scratch space for the statistical analysis of optical communication experiments with lasers using Julia.
 Physics,LaserPhysics,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
-Physics,MedicalPhysics,Psychosis.jl,https://github.com/rennis250/Psychosis.jl,A Julia package for visual psychophysics that mimics the Processing environment.
-Physics,MedicalPhysics,Willow.jl,https://github.com/rennis250/Willow.jl,A Julia package for visual psychophyscis that primarily mimics the Processing environment.
 Physics,QuantumMechanics,QuantumOptics.jl,https://github.com/bastikr/QuantumOptics.jl,Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 Physics,QuantumMechanics,QuDOS.jl,https://github.com/acroy/QuDOS.jl,Quantum Dynamics of Open Systems in Julia.
 Physics,QuantumMechanics,WignerSymbols.jl,https://github.com/Jutho/WignerSymbols.jl,A Julia package for computing Wigner symbols and related quantities.
@@ -1532,6 +1555,8 @@ Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuDirac.jl,https://github
 Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuDynamics.jl,https://github.com/JuliaQuantum/QuDynamics.jl,A library for solving dynamical equations in quantum mechanics.
 Physics,StatisticalMechanics,IsingModels.jl,https://github.com/johnmyleswhite/IsingModels.jl,The Ising model as a Julian distribution.
 Physics,StatisticalMechanics,MyIsing.jl,https://github.com/kaslusimoes/MyIsing.jl,A naive and first try to implement a 2D Square Ising Model using Julia.
+Physics,ComplexSystems,DynamicalBilliards.jl,https://github.com/JuliaDynamics/DynamicalBilliards.jl,"An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions."
+Physics,ComplexSystems,DynamicalSystems.jl,https://github.com/JuliaDynamics/DynamicalSystems.jl,"A Julia software library for nonlinear dynamics and chaos. Composed of various sub-packages, `DynamicalSystemsBase`,  `ChaosTools` and `TimeseriesPrediction`."
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamic properties of moist air (real gas mixture).
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),ThermodynamicsTable.jl,https://github.com/DANA-Laboratory/ThermodynamicsTable.jl,"Thermodynamics table for critical values, heat capacity, etc.."
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),WaveToy.jl,https://github.com/eschnett/WaveToy.jl,Julia WaveToy.
@@ -1601,40 +1626,10 @@ Publications,RESEARCHPAPERS,"hah, Viral B., et al. _[Novel Algebras for Advanced
 Publications,RESEARCHPAPERS,"ezanson Jeff, et al. _[Julia: A fresh approach to numerical computing","http://arxiv.org/abs/1411.1607)_, 07-November-2014",
 Publications,OpenPortals,"016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing",https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_,
 Publications,OpenPortals,GitXiv,http://gitxiv.com,Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
-QA,,ow to do [test driven development (TDD),https://blog.staffjoy.com/test-driven-development-in-juliajk-8b66d3664852) in Julia,
-QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,https://github.com/MikeInnes/Digger.jl,Digger is a fuzz tester designed to fish bugs out of Dagger.jl
-QA,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
-QA,CONTINUOUSINTEGRATION,erge your Julia code with mainline to test it on a [Travis-CI build server,https://travis-ci.org/JuliaLang/),
-QA,CONTINUOUSINTEGRATION,TestDocs.jl,https://github.com/simonbyrne/TestDocs.jl,A test package to try to automatically build docs on travis.
-QA,CONTINUOUSINTEGRATION,TravisTest.jl,https://github.com/JuliaCI/TravisTest.jl,Repository for testing Julia support at the Travis Continuous Integration (CI) service.
-QA,Git-Hooks,julia-helper,https://github.com/jiahao/julia-helper,Scripts to help Julia developers.
-QA,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
-QA,LOGGING,Logging.jl,https://github.com/kmsquire/Logging.jl,The Logging module.
-QA,LOGGING,LogMover.jl,https://github.com/nkottary/LogMover.jl,
-QA,LOGGING,Lumberjack.jl,https://github.com/forio/Lumberjack.jl,A logging library by Westley Hennigh.
-QA,LOGGING,Stage.jl,https://github.com/saltpork/Stage.jl,"has stage macros, checkpoints and loggers for Julia."
-QA,RegressionTesting,VisualRegressionTests.jl,https://github.com/JuliaPlots/VisualRegressionTests.jl) Automated integrated regression tests for graphics libraries,
-QA,UNITTEST,BaseTestDeprecated.jl,https://github.com/IainNZ/BaseTestDeprecated.jl,Provides the `Base.Test` functionality removed in `Julia v0.5`.
-QA,UNITTEST,CoverageBase.jl,https://github.com/timholy/CoverageBase.jl,Measuring internal test coverage of the Julia programming language.
-QA,UNITTEST,Coverage.jl,https://github.com/IainNZ/Coverage.jl,"Take the Julia test coverage results and bundle them up in JSON - it processes a .jl file and its matching .cov file, tracking your Julia packages for test coverage and works with Coveralls, which integrates with TravisCI."
-QA,UNITTEST,Debug.jl,https://github.com/toivoh/Debug.jl,Prototype interactive debugger for Julia.
-QA,UNITTEST,FactCheck.jl,https://github.com/zachallaun/FactCheck.jl,Midje-like testing framework written for Julia.
-QA,UNITTEST,Fixtures.jl,https://github.com/burrowsa/Fixtures.jl,"provides fixtures, mocks, matchers and patching to improve your tests with Julia."
-QA,UNITTEST,Jig.jl,https://github.com/milktrader/Jig.jl,Testing framework for Julia.
-QA,UNITTEST,JLTest,https://github.com/smangano/JLTest,A unittest framework for Julia (inspired by Python's unittest).
-QA,UNITTEST,JulieTest.jl,https://github.com/arypurnomoz/JulieTest.jl,A Julia testing framework inspired by javascript's Mocha. See the [Wiki](https://github.com/arypurnomoz/JulieTest.jl/wiki)
-QA,UNITTEST,microcoverage,https://github.com/StephenVavasis/microcoverage,"This module computes code coverage for a Julia program at a more fine-grained level than the built-in coverage feature. Specifically, it provides coverage counts for each branch of the ||, && and ?: operators where they occur. It also counts the number of invocations to statement-functions."
-QA,UNITTEST,Mocking.jl,https://github.com/invenia/Mocking.jl) : Allows temporary overwriting of Julia methods for testing purposes,
-QA,UNITTEST,PackageTesting.jl,https://github.com/johnmyleswhite/PackageTesting.jl,A standard for testing Julia packages.
-QA,UNITTEST,RunTests.jl,https://github.com/burrowsa/RunTests.jl,A test running framework for Julia that extends Base.Test
-QA,UNITTEST,Saute.jl,https://github.com/milktrader/Saute.jl,is another testing framework for Julia.
-QA,UNITTEST,testfast.jl,https://github.com/Veraticus/testfast.jl,Automatically finds test files and runs them.
-QA,UNITTEST,UnitTest.jl,https://github.com/analyzere/UnitTest.jl,"Another unit-testing library for Julia, that provides nose test style output to the command line and is capable of producing an junit compatible xml result file."
 Resources,COMMUNITY,he [discourse,https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of this FOSS alternative),
 Resources,COMMUNITY,he official list of resources to [learn Julia,http://julialang.org/learning/),
 Resources,ContributingtoJuliacoredevelopment,Documentation bugs,https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc),
 Resources,ContributingtoJuliacoredevelopment,he [up for grabs,https://github.com/JuliaLang/julia/labels/up%20for%20grabs) label on Github. _PS: Not all the bugs tagged thus are meant for newbies to programming_,
-Resources,ContributingtoJuliacoredevelopment,ainNZ lists [Ways to contribute to the Julia ecosystem,https://github.com/IainNZ/ContributeToJulia,
 Resources,NEWS,he official [Julia language blog,http://julialang.org/blog/,
 Resources,NEWS,NEWS,https://github.com/JuliaLang/julia/blob/master/NEWS.md,"Track the Julia release notes, changes, new language features, library improvements,..."
 Resources,NEWS,ThisWeekInJulia,http://thisweekinjulia.github.io,A blog detailing major updates and changes to the Julia language.
@@ -1668,7 +1663,6 @@ Resources,BOOKS,Learn Julia the Hard Way,https://github.com/chrisvoncsefalvay/le
 Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_,https://github.com/scidom/hmc_and_zv_book_chapter.jl) book,
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
-Resources,BOOKS,ThinkJulia.jl,https://github.com/BenLauwens/ThinkJulia.jl,Port of the book `Think Python` to the Julia programming language.
 Resources,CHEATSHEETS,Julia-cheatsheet.pdf,http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf,StevenJ's Julia cheatsheet.
 Resources,CHEATSHEETS, [Julia Types,https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay,
 Resources,CHEATSHEETS,Julia cheatsheet,http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski,
@@ -1698,8 +1692,10 @@ Resources,Asia-CHINA,"Shenzhen,2016",http://julialang.cn/meetup) Register for Ju
 Resources,[Delhi](https://en.wikipedia.org/wiki/Delhi),Julia Delhi,https://github.com/juliadelhi,
 Resources,KA,Bangalore,https://www.meetup.com/Bangalore-Julia-User-Group/) Julia User Group,
 Resources,Asia-JAPAN,Tokyo Julia User Group,http://juliatokyo.connpass.com/event/6891/,
+Resources,Asia-TURKEY,Julia Istanbul,"https://www.meetup.com/JuliaStanbul/), Turkey",
 Resources,Europe-AUSTRIA,Vienna Julia Meetup Group,http://www.meetup.com/Vienna-Julia-Meetup),
 Resources,Europe-AUSTRIA,Talks and code for the Vienna Julia Meetups,https://github.com/rened/ViennaJuliaMeetup),
+Resources,Europe-DENMARK,JuliaCPH,"https://www.meetup.com/JuliaCPH/), Copenhagen, Denmar",
 Resources,[Baden-Württemberg](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).,Tübingen Julia Users,http://www.meetup.com/Julia-Users-Germany/) group,
 Resources,Berlin,Julia Users Berlin,https://julia-users-berlin.github.io/,
 Resources,Europe-IRELAND,Dublin Julia Programming Language Meetup,http://www.meetup.com/Dublin-Julia-Programming-Language-Meetup/),
@@ -1707,6 +1703,7 @@ Resources,Europe-POLAND,Warszawskie Forum Julia,"https://www.meetup.com/Warszaws
 Resources,Europe-SPAIN,Barcelona Julia Meetup,"https://www.meetup.com/Barcelona-Julia-Meetup/) in Barcelona, Spain",
 Resources,Europe-SWITZERLAND,Zurich Julia User Group,http://www.meetup.com/Zurich-Julia-User-Group/,
 Resources,Europe-UK,London Julia User Group,http://www.meetup.com/London-Julia-User-Group/,
+Resources,NorthAmerica-CANADA,Montréal Julia Programming Language Meetup,"https://www.meetup.com/Montreal-Julia-Programming-Language-Meetup/), Montréal, QC",
 Resources,NorthAmerica-CANADA,Ottawa JUG,"http://www.meetup.com/Ottawa-Julia-Meetup/), Ontario",
 Resources,NorthAmerica-CANADA,Vancouver JUG,"http://www.meetup.com/Vancouver-Julia-Users/), British Columbia",
 Resources,NorthAmerica-MEXICO,JuliaLangEs,"http://www.meetup.com/julialanges-mx/) - México, D.F",
@@ -1774,6 +1771,7 @@ Resources,VIDEOS,Introduction to Julia Internals,https://www.youtube.com/watch?v
 Resources,VIDEOS,Moving Julia into Production,https://www.youtube.com/watch?v=eQ8-_Q67-2U) by Avik Sengupta,
 Resources,VIDEOS,Publishing Online Interactive Julia Models,https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean,
 Resources,VIDEOS,"013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance",http://www.infoq.com/presentations/julia-vectors-maps-sets),
+Server,FRAMEWORKS,Bukdu.jl,https://github.com/wookay/Bukdu.jl/,"A web development framework for Julia, influenced by [Phoenix framework](http://phoenixframework.org)."
 Server,FRAMEWORKS,genie,https://github.com/essenciary/genie,Eclectic web framework running on Julia.
 Server,FRAMEWORKS,Merly.jl,https://github.com/codeneomatrix/Merly.jl,A micro framework for web programming in Julia.
 Server,FRAMEWORKS,mvc-skeleton.jl,https://github.com/halla/mvc-skeleton.jl,
@@ -2042,6 +2040,7 @@ Statistics,STATISTICS,Bootstrap.jl,https://github.com/julian-gehring/Bootstrap.j
 Statistics,STATISTICS,Causality.jl,https://github.com/tfgit/Causality.jl,A Julia Package for Causal Inference.
 Statistics,STATISTICS,CauseMap.jl,https://github.com/cyrusmaher/CauseMap.jl,"An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia."
 Statistics,STATISTICS,Civecm.jl,https://github.com/andreasnoackjensen/Civecm.jl,Cointegration in Vector Error Correction Models in Julia.
+Statistics,STATISTICS,CoDa.jl,https://github.com/juliohm/CoDa.jl,Compositional Data Analysis in Julia
 Statistics,STATISTICS,ConditionalRandomFields.jl,https://github.com/jperla/ConditionalRandomFields.jl,Scalable Conditional Random Fields code for Julia.
 Statistics,STATISTICS,ConjugatePriors.jl,https://github.com/johnmyleswhite/ConjugatePriors.jl,Closed form expressions for conjugate priors in Julia.
 Statistics,STATISTICS,CRBM.jl,https://github.com/kzahedi/CRBM.jl,Conditional RBMs package.
@@ -2213,19 +2212,18 @@ Super-Computing,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://dr
 Super-Computing,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
 Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
 Super-Computing,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),AbstractGPUArray.jl,https://github.com/JuliaGPU/AbstractGPUArray.jl,"An abstract interface for a GPU array, must be implemented by a back-end like OpenCL or OpenGL."
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),julia-kernels,https://github.com/toivoh/julia-kernels,"A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels."
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,"OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL."
-Super-Computing,Org-[JuliaGPU](https://github.com/JuliaGPU),UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,"Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl."
+Super-Computing,GPU,CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
+Super-Computing,GPU,CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
+Super-Computing,GPU,CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
+Super-Computing,GPU,CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
+Super-Computing,GPU,CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
+Super-Computing,GPU,CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
+Super-Computing,GPU,HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
+Super-Computing,GPU,julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
+Super-Computing,GPU,julia-kernels,https://github.com/toivoh/julia-kernels,"A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels."
+Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
+Super-Computing,GPU,OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,"OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL."
+Super-Computing,GPU,UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,"Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl."
 Super-Computing,Resources,log post on [Compiling Julia for NVIDIA GPUs,http://blog.maleadt.net/2015/01/15/julia-cuda/,
 Super-Computing,BENCHMARKS,Microbenchmark timings,https://julialang.org/benchmarks/,
 Super-Computing,BENCHMARKS,Benchmark.jl,https://github.com/johnmyleswhite/Benchmark.jl,"A package for computing simple benchmarks, comparing functions and packages."
@@ -2273,7 +2271,6 @@ Super-Computing,ClusterComputing,ClusterDicts.jl,https://github.com/amitmurthy/C
 Super-Computing,ClusterComputing,HavenOnDemand.jl,https://github.com/richitmx/HavenOnDemand.jl,Julia package to access HPE Haven OnDemand API.
 Super-Computing,ClusterComputing,HPAT.jl,https://github.com/IntelLabs/HPAT.jl,High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.
 Super-Computing,ClusterComputing,MatlabCluster.jl,https://github.com/simonster/MatlabCluster.jl,Julia cluster manager for Matlab Job Scheduler.
-Super-Computing,ClusterComputing,OCAWS.jl,https://github.com/samoconnor/OCAWS.jl,An AWS library.
 Super-Computing,ClusterComputing,SGEArrays.jl,https://github.com/davidavdav/SGEArrays.jl,SGEArray implements a simple iterator in Julia to efficiently handle Sun Grid Engine task arrays.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
 Super-Computing,[DistributedComputing](https://en.wikipedia.org/wiki/Category:Distributed_computing),ClusterDicts.jl,https://github.com/amitmurthy/ClusterDicts.jl,Global and Distributed dictionaries for Julia.
@@ -2293,7 +2290,6 @@ Super-Computing,Resources,log post on [High-Performance GPU Computing,https://de
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),ClusterManagers.jl,https://github.com/JuliaLang/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Collectl.jl,https://github.com/ranjanan/Collectl.jl,Plotting information from Collectl in julia.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LCJC.jl,https://github.com/amitmurthy/LCJC.jl,Loosely Coupled Julia Clusters.
-Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),LoraMPI.jl,https://github.com/scidom/LoraMPI.jl,MPI Job Manager for Lora Parralel-Centric Runners.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),Persist.jl,https://github.com/eschnett/Persist.jl,The package Persist allows running jobs independent of the Julia shell.
 Super-Computing,[JobScheduler](https://en.wikipedia.org/wiki/Job_scheduler),SimJulia.jl,https://github.com/BenLauwens/SimJulia.jl,A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ArrayFire.jl,https://github.com/hshindo/ArrayFire.jl) by @hshind,Julia bindings for ArrayFire.
@@ -2323,8 +2319,6 @@ Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel
 Super-Computing,Resources,Parallel Computing,http://docs.julialang.org/en/latest/manual/parallel-computing/,
 Super-Computing,Resources,How to use AWS EC2 machines via addprocs for parallel computing,http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing),
 Super-Computing,Resources,Parallel and Distributed Computing with Julia,"http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014",
-Super-Computing,Resources,ulia [installation and first steps,http://www.blog.juliaferraioli.com/2013/12/julia-on-google-compute-engine.html),
-Super-Computing,Resources,n example of [interfacing with the Cloud Datastore via JSON,http://www.blog.juliaferraioli.com/2014/01/julia-on-google-compute-engine-working.html,
 Super-Computing,PUBLICATIONS,"Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof",http://jiahao.github.io/parallel-prefix/,A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 Utilities,UTILS,Events.jl,https://github.com/SimonDanisch/Events.jl,Simple Event system.
 Utilities,UTILS,FilePaths.jl,https://github.com/Rory-Finnegan/FilePaths.jl, A type based approach to working with filesystem paths in julia.
