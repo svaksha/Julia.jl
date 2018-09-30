@@ -32,6 +32,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 + [JSON.jl](https://github.com/JuliaLang/JSON.jl) :: JSON parsing and printing.
 + [LilKanren.jl](https://github.com/lilinjn/LilKanren.jl) :: A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
++ [MacroTools.jl](https://github.com/MikeInnes/MacroTools.jl) :: A library providing helpful tools for writing macros, notably a very simple templating system with some functions (see utils.jl)
 + [Turing.jl](https://github.com/yebai/Turing.jl) :: Probabilistic programming in Julia. 
 
 
@@ -45,7 +46,6 @@ __Packages and resources that support various programming styles, Software Archi
 * [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) :: Naïve combined subexpression elimination in Julia.
 + [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and C functions.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
-
 
 ----
 

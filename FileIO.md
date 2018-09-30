@@ -147,7 +147,6 @@
 + [julia-prettyshow](https://github.com/toivoh/julia-prettyshow) :: A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs.
 + [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language.
 + [LHEF.jl](https://github.com/Keno/LHEF.jl) :: Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure.
-+ [MacroTools.jl](https://github.com/MikeInnes/MacroTools.jl) :: A library providing helpful tools for writing macros, notably a very simple templating system with some functions.
 + [MonkeyString.jl](https://github.com/malmaud/MonkeyString.jl) :: Fast string implementation inspired by SpiderMonkey.
 + [MPFI.jl](https://github.com/andrioni/MPFI.jl) :: A MPFI wrapper for Julia.
 + [MutableStrings.jl](https://github.com/tanmaykm/MutableStrings.jl) :: Mutable string types for Julia.
@@ -219,9 +218,11 @@
 + [Expr2LaTeX.jl](https://github.com/oxinabox/Expr2LaTeX.jl) :: Take a julia `Expr` and render it as LaTeX.
 + [jlcode](https://github.com/wg030/jlcode) :: A latex package for displaying Julia code with the listings package. 
 + [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
++ [Latexify.jl](https://github.com/korsbo/Latexify.jl) :: Convert julia objects to LaTeX equations, arrays or other environments. 
 + [LatexPrint.jl](https://github.com/scheinerman/LatexPrint.jl) :: Julia objects in a form suitable for LaTeX mathematics mode. 
 + [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
 + [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) :: Tools for automatic manipulation and management of LaTeX Documents.
+
 
 ## Document Generator 
 + [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.

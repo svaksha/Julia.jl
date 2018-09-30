@@ -44,7 +44,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Crypto.jl](https://github.com/danielsuo/Crypto.jl) :: A library that wraps OpenSSL, but also has pure Julia implementations for reference.
 + [FNVHash.jl](https://github.com/samoconnor/FNVHash.jl) :: FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion.
 + [Hashlib.jl](https://github.com/samgre/Hashlib.jl) :: SHA1 implementation for Julia.
-
 + [MbedTLS.jl](https://github.com/malmaud/MbedTLS.jl) :: Wrapper around mbedtls.
 + [MD5.jl](https://github.com/oxinabox/MD5.jl) :: A pure julia MD5 implementation.
 + [Nettle.jl](https://github.com/staticfloat/Nettle.jl) :: is a simple wrapper around libnettle, a cryptographic library.
@@ -123,6 +122,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ### [Floating Point](https://en.wikipedia.org/wiki/Category:Floating_point)
 + [ArbFloats.jl](https://github.com/Jeffrey-Sarnoff/ArbFloats.jl) ::  Arb available as an extended precision floating point context.
 + [ArbIntervals.jl](https://github.com/Jeffrey-Sarnoff/ArbIntervals.jl) ::  Julia interface to Fredrik Johansson's Arb software.
++ [BFloat16s.jl](https://github.com/JuliaComputing/BFloat16s.jl) :: This package defines the BFloat16 data type. The only currently available hardware implementation of this datatype are Google's Cloud TPUs. As such, this package is suitable to evaluate whether using TPUs would cause precision problems for any particular algorithm, even without access to TPU hardware. Note that this package is designed for functionality, not performance, so this package should be used for precision experiments only, not performance experiments.
 + [DecFP.jl](https://github.com/stevengj/DecFP.jl) :: The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library. 
 + [Decimals.jl](https://github.com/tinybike/Decimals.jl) :: Pure Julia decimal arithmetic library.
 + [DoubDouble.jl](https://github.com/J-Sarnoff/DoubDouble.jl).
@@ -134,10 +134,11 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Floats512.jl](https://github.com/J-Sarnoff/Floats512.jl) :: Accurate floating point math at extended precision for Float-512.
 + [Floats1024.jl](https://github.com/J-Sarnoff/Floats1024.jl) :: Accurate floating point math at extended precision for Float-1024.
 + [FloatHigher.jl](https://github.com/J-Sarnoff/FloatHigher.jl) :: accurate floating point math at extended precisions.
-+ [HigherPrecision.jl](https://github.com/saschatimme/HigherPrecision.jl) :: High precision replacements for Float64.
++ [HigherPrecision.jl](https://github.com/saschatimme/HigherPrecision.jl) :: HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat. 
 + [Ryu.jl](https://github.com/quinnj/Ryu.jl) :: Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings. 
 + [UnumX.jl](https://github.com/JuliaComputing/UnumX.jl) :: Experimental Unums.
 + [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
+
 
 ###### Resources
 + [Elementary Number Theory](https://github.com/williamstein/ent) :: Primes, Congruences, and Secrets.
@@ -398,7 +399,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [FastPolynomials.jl](https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl) :: Basic polynomials with Horner-like evaluation over x^2 and x.
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
-+ [HigherPrecision.jl](https://github.com/saschatimme/HigherPrecision.jl) :: HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat. 
 + [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) :: Accurate summation (Yuhang Zhao's iFastSum).
 + [MINE.jl](https://github.com/zhmz90/MINE.jl) :: Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 + [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.

@@ -3,6 +3,7 @@ __Networking, web security, frameworks and other Web server related things go he
 + [FRAMEWORKS](#frameworks)
     + [RoR](#ror)
 + [Middleware](#middleware)
+   + [Worker Processes](#worker-processes)
 + [NETWORKING](#networking)
 + [SECURITY](#security)
 + [WEB](#web)
@@ -35,6 +36,9 @@ __Networking, web security, frameworks and other Web server related things go he
 + [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
 + [ZMQ.jl](https://github.com/JuliaLang/ZMQ.jl) :: Julia interface to ZeroMQ.
    + Thread on building a [web app for enterprise risk management](https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g).
+
+### Worker Processes
++ [ParallelDataTransfer.jl](https://github.com/ChrisRackauckas/ParallelDataTransfer.jl) :: A bunch of helper functions for transferring data between worker processes.
 
 ----
 
