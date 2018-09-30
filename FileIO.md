@@ -18,6 +18,10 @@
 
 ----
 
++ [Schemata.jl](https://github.com/JockLawrie/Schemata.jl) :: Schema (specification of a data set) for tabular data sets in Julia. 
+
+----
+
 # Binary IO
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
 + [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
