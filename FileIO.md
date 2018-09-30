@@ -97,6 +97,7 @@
 + [Parquet.jl](https://github.com/JuliaComputing/Parquet.jl) :: Julia implementation of parquet columnar file format reader and writer.
 + [Tables.jl](https://github.com/JuliaData/Tables.jl) :: This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 + [TableWidgets.jl](https://github.com/piever/TableWidgets.jl) :: Interactive widgets to work with tabular data in Julia.
++ [ReadWriteDlm2](https://github.com/strickek/ReadWriteDlm2.jl) :: CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types. 
 + [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
 
 
