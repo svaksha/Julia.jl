@@ -159,6 +159,7 @@
 
 # MACHINE LEARNING
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
++ [Flux: The Julia Machine Learning Library](http://fluxml.ai/Flux.jl/stable/index.html)
 
 ----
 

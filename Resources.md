@@ -91,6 +91,7 @@ __NEWS from social networking communities, QA sites and Twitter.__
 + Teaching :: [Julia in the Classroom](http://julialang.org/teaching/)
 + [List of free programming books](https://github.com/vhf/free-programming-books)
 + [List of free software testing books](https://github.com/ligurio/free-software-testing-books)
++ [Julia for Data Science](https://www.amazon.com/Julia-Data-Science-Zacharias-Voulgaris/dp/1634621301/ref=sr_1_3?ie=UTF8&qid=1538493091&sr=8-3&keywords=julia+for+data+science)
 
 ----
 
@@ -375,4 +376,5 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
    + [Publishing Online Interactive Julia Models](https://www.youtube.com/watch?v=bV39IkeMCSY) by Michael Bean.
 + SciPy-2014 :: [Julia tutorial](https://www.youtube.com/watch?v=vWkgEddb4-A) at SciPy by @dpsanders with the [IJulia notebooks, aka Jupyter](https://github.com/dpsanders/scipy_2014_julia).
 + 2013 StrangeLoop conference video: Zach Allaun shows how to build a [functional and persistent vector, hash map, and set in Julia on top of the same data structure, and how to optimize the code for performance](http://www.infoq.com/presentations/julia-vectors-maps-sets). 
++ Zacharias Voulgaris [A Pythonista’s Guide to the Julia Language for Data Science](https://www.oreilly.com/library/view/a-pythonistas-guide/9781634621656/)
 
