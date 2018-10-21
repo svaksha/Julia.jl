@@ -112,6 +112,9 @@ __Pre-compiled Binaries__
 
 
 ## DistrOS
+
++ Track [versions of julia](https://repology.org/metapackage/julia/versions) in the __Repology__ service which tracks and compares package versions in more than 120 package repositories.
+
 #### Debian-Ubuntu
 + [APT.jl](https://github.com/bbshortcut/APT.jl) :: A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists.
 + [DebbyPacker.jl](https://github.com/UCL/DebbyPacker.jl) :: Set of scripts to easily create debian packages.
