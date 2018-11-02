@@ -68,7 +68,7 @@
    + A fork maintained for the current Julia-0.4 (master) by @AlainLich : https://github.com/AlainLich/Romeo.jl
 + [Rsvg.jl](https://github.com/lobingera/Rsvg.jl) :: An adaptation of the librsvg to render SVG to Cairo surfaces.
 + [SchroedingersSmoke.jl](https://github.com/SimonDanisch/SchroedingersSmoke.jl) :: Schrödinger's Smoke.
-+ [SDL.jl](https://github.com/rennis250/SDL.jl) :: Julia interface to SDL.
++ [SimpleDirectMediaLayer.jl](https://github.com/jonathanBieler/SimpleDirectMediaLayer.jl) :: Julia interface to SDL2.
 + [seg2seg.jl](https://github.com/intdxdt/seg2seg.jl) :: Computes the minimum distance between two segments in a 2D plane.
 + [ShaderToy.jl](https://github.com/SimonDanisch/ShaderToy.jl) :: Shade objects in Julia, created with GLVisualize.jl + OpenGL.
 + [ShapeModels.jl](https://github.com/rened/ShapeModels.jl) :: Statistical shape models / point distribution models.
