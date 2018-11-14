@@ -36,29 +36,29 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 
 # [CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography)
 + [OpenStreetMapParser.jl](https://github.com/yeesian/OpenStreetMapParser.jl) :: This package provides basic functionality for parsing OpenStreetMap data in Julia, in the following file formats: [.osm (XML)](http://wiki.openstreetmap.org/wiki/OSM_XML) and [.pbf (binary)](http://wiki.openstreetmap.org/wiki/PBF_Format).
-+ [Proj4.jl](https://github.com/FugroRoames/Proj4.jl) :: Julia wrapper for PROJ.4 cartographic projections library. 
++ [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) :: Julia wrapper for PROJ.4 cartographic projections library. 
 + [PyProj.jl](https://github.com/kshramt/PyProj.jl) ::  A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations.
 
 [//]: # (######################################################################)
 
 ## [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
++ [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) :: A high level API for GDAL - Geospatial Data Abstraction Library.
 + [DtPlot.jl](https://github.com/dejakaymac/DtPlot.jl)
 + [EarthSphere.jl](https://github.com/cuevasclemente/EarthSphere.jl) :: A library for measuring approximate distance and location given latitudes and longitudes.
 + [FlowNetworks.jl](https://github.com/scheidan/FlowNetworks.jl) :: Types and function to represent hydrological flow networks.
 + [Gaia.jl](https://github.com/jsbj/Gaia.jl) :: Unified interface for observational datasets of the Earth's weather and climate.
-+ [GDAL.jl](https://github.com/wkearn/GDAL.jl) :: Geospatial Data Analysis Library Wrapper for Julia.
-+ [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) :: GDAL wrapper.
++ [GDAL.jl](https://github.com/JuliaGeo/GDAL.jl) :: Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
 + [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) :: Work with points defined in various coordinate systems.
 + [GeographicLibPy.jl](https://github.com/kshramt/GeographicLibPy.jl) :: Thin wrapper of geographiclib Python package.
++ [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) :: A Julia Protocol for Geospatial Data.
 + [GIS.jl](https://github.com/wkearn/GIS.jl) :: A package for the visualization and manipulation of geographic data.
-+ [GeoIP.jl](https://github.com/johnmyleswhite/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
++ [GeoIP.jl](https://github.com/JuliaWeb/GeoIP.jl) :: is a Julia package that can estimate the geographic location of IP addresses.
 + [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) :: Utilities for working with GeoJSON data in Julia.
 + [GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views. 
-   + *Forks*
-   + https://github.com/ihnorton/GMT.jl
 + [hillerislambers](https://github.com/wkearn/hillerislambers) :: Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics.
 + [Jultran.jl](https://github.com/jsbj/Jultran.jl) :: Julia interface for the HITRAN database of spectral lines, based on Ray Pierrehumbert's PyTran.
 + [OpenStreetMap.jl](https://github.com/tedsteiner/OpenStreetMap.jl) :: The Julia OpenStreetMap package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
++ [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) :: OpenStreetMap support for Julia 1.0.
 + [SpatialStats.jl](https://github.com/dchudz/SpatialStats.jl) :: Spatial Statistics.
 + [Turf.jl](https://github.com/yeesian/Turf.jl) :: A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 + [Tyndall.jl](https://github.com/jsbj/Tyndall.jl) :: Radiative transfer in Julia.

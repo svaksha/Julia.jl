@@ -133,8 +133,9 @@ AI,NLP,TextAnalysis.jl,https://github.com/JuliaText/TextAnalysis.jl,A Julia pack
 AI,NLP,TopicModels.jl,https://github.com/slycoder/TopicModels.jl),
 AI,NLP,TOML.jl,https://github.com/pygy/TOML.jl,A TOML parser.
 AI,NLP,Word2Vec.jl,https://github.com/weijianzhang/Word2Vec.jl,Julia interface to word2vec.
-AI,NLP,WordNet.jl,https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®,
+AI,NLP,WordNet.jl,https://github.com/JuliaText/WordNet.jl,A Julia package for Princeton's WordNet®.
 AI,English,EnglishText.jl,https://github.com/TotalVerb/EnglishText.jl,Utilities for English-language quirks in Julia.
+AI,English,Why.jl,https://github.com/TorkelE/Why.jl,"A simple function, why, which gives randomly generated answers."
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,"It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia."
@@ -500,7 +501,7 @@ DevOps,Binaries,Julia-0.3.9 for Linux 64-bit,"https://julialang.s3.amazonaws.com
 DevOps,Binaries,uild an executable binary with [this script,https://github.com/JuliaLang/julia/blob/master/contrib/build_executable.jl),
 DevOps,Ansible,Ansible and Docker,https://developer.rackspace.com/blog/ansible-and-docker/,
 DevOps,Ansible,julia-ansible-scripts,https://github.com/staticfloat/julia-ansible-scripts,"Various julia ansible scripts for provisioning servers, buildbots etc..."
-DevOps,Docker,Docker,https://registry.hub.docker.com/_/julia/) image for Julia,
+DevOps,Docker,Docker,https://hub.docker.com/r/library/julia/) image for Julia,
 DevOps,Docker,julia,https://github.com/docker-library/julia,Docker Official Image packaging for [Julia](http://julialang.org/).
 DevOps,Docker,RudeOil.jl,https://github.com/UCL/RudeOil.jl,A package to easily interact with docker and docker-machine.
 DevOps,Vagrant,julia-vagrant,https://github.com/staticfloat/julia-vagrant,Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
@@ -575,23 +576,25 @@ Earth-Science,[CLIMATOLOGY](https://en.wikipedia.org/wiki/Category:Climatology),
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),Krige.jl,https://github.com/njwilson23/Krige.jl,Kriging estimators in Julia.
 Earth-Science,[GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/juliohm/GeoStats.jl,Geostatistics in Julia.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),OpenStreetMapParser.jl,https://github.com/yeesian/OpenStreetMapParser.jl,"This package provides basic functionality for parsing OpenStreetMap data in Julia, in the following file formats: [.osm (XML)](http://wiki.openstreetmap.org/wiki/OSM_XML) and [.pbf (binary)](http://wiki.openstreetmap.org/wiki/PBF_Format)."
-Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),Proj4.jl,https://github.com/FugroRoames/Proj4.jl,Julia wrapper for PROJ.4 cartographic projections library.
+Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),Proj4.jl,https://github.com/JuliaGeo/Proj4.jl,Julia wrapper for PROJ.4 cartographic projections library.
 Earth-Science,[CARTOGRAPHY](https://en.wikipedia.org/wiki/Category:Cartography),PyProj.jl,https://github.com/kshramt/PyProj.jl," A Julia wrapper of PyProj, that performs cartographic transformations and geodetic computations."
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),ArchGDAL.jl,https://github.com/yeesian/ArchGDAL.jl,A high level API for GDAL - Geospatial Data Abstraction Library.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),DtPlot.jl,https://github.com/dejakaymac/DtPlot.jl,
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),EarthSphere.jl,https://github.com/cuevasclemente/EarthSphere.jl,A library for measuring approximate distance and location given latitudes and longitudes.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),FlowNetworks.jl,https://github.com/scheidan/FlowNetworks.jl,Types and function to represent hydrological flow networks.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Gaia.jl,https://github.com/jsbj/Gaia.jl,Unified interface for observational datasets of the Earth's weather and climate.
-Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GDAL.jl,https://github.com/wkearn/GDAL.jl,Geospatial Data Analysis Library Wrapper for Julia.
-Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GDALfuns.jl,https://github.com/meggart/GDALfuns.jl,GDAL wrapper.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GDAL.jl,https://github.com/JuliaGeo/GDAL.jl,Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Geodesy.jl,https://github.com/JuliaGeo/Geodesy.jl,Work with points defined in various coordinate systems.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeographicLibPy.jl,https://github.com/kshramt/GeographicLibPy.jl,Thin wrapper of geographiclib Python package.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeoInterface.jl,https://github.com/JuliaGeo/GeoInterface.jl,A Julia Protocol for Geospatial Data.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GIS.jl,https://github.com/wkearn/GIS.jl,A package for the visualization and manipulation of geographic data.
-Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeoIP.jl,https://github.com/johnmyleswhite/GeoIP.jl,is a Julia package that can estimate the geographic location of IP addresses.
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeoIP.jl,https://github.com/JuliaWeb/GeoIP.jl,is a Julia package that can estimate the geographic location of IP addresses.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GeoJSON.jl,https://github.com/JuliaGeo/GeoJSON.jl,Utilities for working with GeoJSON data in Julia.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),GMT.jl,https://github.com/joa-quim/GMT.jl,"is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views."
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),hillerislambers,https://github.com/wkearn/hillerislambers,Julia implementation of the HilleRisLambers et al. 2001 model of arid vegetation dynamics.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Jultran.jl,https://github.com/jsbj/Jultran.jl,"Julia interface for the HITRAN database of spectral lines, based on Ray Pierrehumbert's PyTran."
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),OpenStreetMap.jl,https://github.com/tedsteiner/OpenStreetMap.jl,"The Julia OpenStreetMap package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data."
+Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),OpenStreetMapX.jl,https://github.com/pszufe/OpenStreetMapX.jl,OpenStreetMap support for Julia 1.0.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),SpatialStats.jl,https://github.com/dchudz/SpatialStats.jl,Spatial Statistics.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Turf.jl,https://github.com/yeesian/Turf.jl,A geospatial engine encoding the collections of simple geographical features using the JS lib Turfjs in the GeoJSON format.
 Earth-Science,[GIS](https://en.wikipedia.org/wiki/Geographic_information_system),Tyndall.jl,https://github.com/jsbj/Tyndall.jl,Radiative transfer in Julia.
@@ -605,6 +608,7 @@ Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiat
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 Earth-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia code for performing temperature, pressure and volume and buoyancy calculations."
 Earth-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
+FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
 FileIO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
 FileIO,BinaryIO,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
 FileIO,BinaryIO,HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
@@ -665,6 +669,7 @@ FileIO,TabularDataMatrix,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module f
 FileIO,TabularDataMatrix,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
 FileIO,TabularDataMatrix,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 FileIO,TabularDataMatrix,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
+FileIO,TabularDataMatrix,ReadWriteDlm2,https://github.com/strickek/ReadWriteDlm2.jl,"CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types."
 FileIO,TabularDataMatrix,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
 FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 FileIO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
@@ -704,7 +709,6 @@ FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://githu
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,"A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs."
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,This is a small package to make it easier to type LaTeX equations in string literals in the Julia language.
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,"Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,"A library providing helpful tools for writing macros, notably a very simple templating system with some functions."
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
 FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
@@ -760,6 +764,7 @@ FileIO,[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor),Ta
 FileIO,LaTeX,Expr2LaTeX.jl,https://github.com/oxinabox/Expr2LaTeX.jl,Take a julia `Expr` and render it as LaTeX.
 FileIO,LaTeX,jlcode,https://github.com/wg030/jlcode,A latex package for displaying Julia code with the listings package.
 FileIO,LaTeX,LaTeX.jl,https://github.com/rened/LaTeX.jl,"Create LaTeX documents from within Julia, including image handling."
+FileIO,LaTeX,Latexify.jl,https://github.com/korsbo/Latexify.jl,"Convert julia objects to LaTeX equations, arrays or other environments."
 FileIO,LaTeX,LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
 FileIO,LaTeX,LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,"This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson."
 FileIO,LaTeX,LaTeXTools.jl,https://github.com/jgoldfar/LaTeXTools.jl,Tools for automatic manipulation and management of LaTeX Documents.
@@ -1088,9 +1093,10 @@ Mathematics,MATH,UnumTests.jl,https://github.com/goedman/UnumTests.jl,Some exper
 Mathematics,MATH,utils.jl,https://github.com/juho-lee/utils.jl,basic utilities needed for scientific coding with julia.
 Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),Calc.jl,https://github.com/tshort/Calc.jl],An RPN calculator for the Julia REPL.
 Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),DeepConvert.jl,https://github.com/jlapeyre/DeepConvert.jl,This package provides convenient literal construction of values of large data types.
-Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),ErrorFreeArith.jl,https://github.com/J-Sarnoff/ErrorFreeArith.jl,Error-Free transformations for arithmetic ops.
+Mathematics,[ComputerArithmetic](https://en.wikipedia.org/wiki/Category:Computer_arithmetic),ErrorfreeArithmetic.jl,https://github.com/JeffreySarnoff/ErrorfreeArithmetic.jl,Error-free transformations for arithmetic ops.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ArbFloats.jl,https://github.com/Jeffrey-Sarnoff/ArbFloats.jl, Arb available as an extended precision floating point context.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ArbIntervals.jl,https://github.com/Jeffrey-Sarnoff/ArbIntervals.jl, Julia interface to Fredrik Johansson's Arb software.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),BFloat16s.jl,https://github.com/JuliaComputing/BFloat16s.jl,"This package defines the BFloat16 data type. The only currently available hardware implementation of this datatype are Google's Cloud TPUs. As such, this package is suitable to evaluate whether using TPUs would cause precision problems for any particular algorithm, even without access to TPU hardware. Note that this package is designed for functionality, not performance, so this package should be used for precision experiments only, not performance experiments."
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DecFP.jl,https://github.com/stevengj/DecFP.jl,"The package provides 32-bit, 64-bit, and 128-bit binary-encoded decimal floating-point types following the IEEE 754-2008, implemented as a wrapper around the (BSD-licensed) Intel Decimal Floating-Point Math Library."
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Decimals.jl,https://github.com/tinybike/Decimals.jl,Pure Julia decimal arithmetic library.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),DoubDouble.jl,https://github.com/J-Sarnoff/DoubDouble.jl),
@@ -1102,7 +1108,7 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats512.jl,https://github.com/J-Sarnoff/Floats512.jl,Accurate floating point math at extended precision for Float-512.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats1024.jl,https://github.com/J-Sarnoff/Floats1024.jl,Accurate floating point math at extended precision for Float-1024.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FloatHigher.jl,https://github.com/J-Sarnoff/FloatHigher.jl,accurate floating point math at extended precisions.
-Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),HigherPrecision.jl,https://github.com/saschatimme/HigherPrecision.jl,High precision replacements for Float64.
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),HigherPrecision.jl,https://github.com/saschatimme/HigherPrecision.jl,"HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat."
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Ryu.jl,https://github.com/quinnj/Ryu.jl,Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),UnumX.jl,https://github.com/JuliaComputing/UnumX.jl,Experimental Unums.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ValidatedNumerics.jl,https://github.com/dpsanders/ValidatedNumerics.jl,Rigorous floating-point calculations via interval arithmetic.
@@ -1296,7 +1302,6 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),FastPolynomials.jl,https://github.com/Jeffrey-Sarnoff/FastPolynomials.jl,Basic polynomials with Horner-like evaluation over x^2 and x.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealFactorization.jl,https://github.com/timholy/HemirealFactorization.jl,Matrix factorizations over the hemireals.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealNumbers.jl,https://github.com/timholy/HemirealNumbers.jl,Implementation of hemireal arithmetic for Julia.
-Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HigherPrecision.jl,https://github.com/saschatimme/HigherPrecision.jl,"HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat."
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),IFastSum.jl,https://github.com/J-Sarnoff/IFastSum.jl,Accurate summation (Yuhang Zhao's iFastSum).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),MINE.jl,https://github.com/zhmz90/MINE.jl,Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Options.jl,https://github.com/JuliaLang/Options.jl,A framework for providing optional arguments to functions.
@@ -1570,6 +1575,7 @@ Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),JLD.jl,https://github.com/JuliaLang/JLD.jl,HDF5 interface for the Julia language to save and load julia variables while preserving native types.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),JSON.jl,https://github.com/JuliaLang/JSON.jl,JSON parsing and printing.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),LilKanren.jl,https://github.com/lilinjn/LilKanren.jl,A collection of Kanren implementations in Julia. _miniKanren_ is an embedded Domain Specific Language for logic programming.
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,"A library providing helpful tools for writing macros, notably a very simple templating system with some functions (see utils.jl)"
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Turing.jl,https://github.com/yebai/Turing.jl,Probabilistic programming in Julia.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,"Mathematics, Compilers, Functional Programming, and other papers."
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.
@@ -1785,6 +1791,7 @@ Server,Middleware,Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,"a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use."
 Server,Middleware,ZMQ.jl,https://github.com/JuliaLang/ZMQ.jl,Julia interface to ZeroMQ.
 Server,Middleware,hread on building a [web app for enterprise risk management,https://groups.google.com/forum/#!topic/julia-users/umHiBwVLQ4g),
+Server,WorkerProcesses,ParallelDataTransfer.jl,https://github.com/ChrisRackauckas/ParallelDataTransfer.jl,A bunch of helper functions for transferring data between worker processes.
 Server,NETWORKING,Dates.jl,https://github.com/quinnj/Dates.jl,A Date and DateTime implementation for Julia.
 Server,NETWORKING,DandelionWebSockets.jl,https://github.com/dandeliondeathray/DandelionWebSockets.jl,A Julia package for client side WebSockets.
 Server,NETWORKING,IPNets.jl,https://github.com/sbromberger/IPNets.jl,IPv4 / IPv6 network abstractions for Julia.
