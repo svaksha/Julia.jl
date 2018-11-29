@@ -287,6 +287,7 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 + [IJuliaNotebooks](https://github.com/JuliaX/IJuliaNotebooks) :: IJulia notebooks highlighting code features of Julia.
 + [IJulia PLEAC](https://github.com/catawbasam/IJulia_PLEAC) :: IJulia version of PLEAC - Programming Language Examples Alike Cookbook.
 + [Julia-0.2 Community tour](https://github.com/JuliaX/IJuliaNotebooks) in an [ipython viewer](http://nbviewer.ipython.org/urls/raw.github.com/JuliaX/IJuliaNotebooks/master/julia-0.2-community-tour.ipynb).
++ [JuliaBoxTutorials](https://github.com/JuliaComputing/JuliaBoxTutorials) :: Jupyter notebooks used to teach Julia in JuliaBox.
 + [Julia Tutorial](http://julialang.org https://github.com/JuliaX/JuliaTutorial)
 + [JuliaHTML](https://github.com/ppalmes/JuliaHTML) :: @ppalmes Julia notebooks.
 + [JuliaWorkshop2015](https://github.com/arinbasu/JuliaWorkshop2015) :: Files for the Julia Workshop ANZStat Conference. 
