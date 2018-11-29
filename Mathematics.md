@@ -40,6 +40,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 ----
 
 # CRYPTOGRAPHY
+* [BitcoinBlockchain.jl](https://github.com/stejin/BitcoinBlockchain.jl) :: Julia package for analyzing the Bitcoin blockchain via the API provided by https://blockchain.info/
 + [BlockCipherSelfStudy.jl](https://github.com/andrewcooke/BlockCipherSelfStudy.jl) :: Blocks, and RC5.
 + [Crypto.jl](https://github.com/danielsuo/Crypto.jl) :: A library that wraps OpenSSL, but also has pure Julia implementations for reference.
 + [FNVHash.jl](https://github.com/samoconnor/FNVHash.jl) :: FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion.

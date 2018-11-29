@@ -4,6 +4,7 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
     + [Association Rule](#association-rule)
     + [Checksum](#checksum)
     + [Collaborative Filtering](#collaborative-filtering)
+    + [Graph Algorithms](#graph-algorithms)
     + [Pattern Matching](#pattern-matching)
     + [Quantum](#quantum)
     + [Scheduling Algorithm](#scheduling-algorithm)
@@ -17,8 +18,6 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 
 # [ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures)
 
-+ [DataDecomposition.jl](https://github.com/trthatcher/DataDecomposition.jl) :: Data pre-processing algorithms.
-
 ### Association Rule
 + [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
 
@@ -29,6 +28,8 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 ### Collaborative Filtering
 + [RecSys.jl](https://github.com/abhijithch/RecSys.jl) :: An implementation of the algorithm from Yunhong Zhou, Dennis Wilkinson, Robert Schreiber and Rong Pan. Large-Scale Parallel Collaborative Filtering for the Netflix Prize. Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management. Shanghai, China pp. 337-348, 2008.
 
+### [Graph Algorithms](https://en.wikipedia.org/wiki/Category:Graph_algorithms)
++ [aleph_star](https://github.com/imagry/aleph_star) :: Reinforcement learning with A* and a deep heuristic.
 
 ### Pattern Matching
 + [AhoCorasick.jl](https://github.com/gilesc/AhoCorasick.jl) :: Julia implementation of the Aho-Corasick algorithm for fast string searching.

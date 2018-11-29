@@ -18,6 +18,8 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Gaussian](#gaussian)
    + [Models](#models)
    + [Monte Carlo Method](#monte-carlo-method)
+   + [Multivariate Statistics](#multivariate-statistics)
+        + [Dimension Reduction](#dimension-reduction)
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
 + [STOCHASTICS](#stochastics)
@@ -260,7 +262,6 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [ConditionalRandomFields.jl](https://github.com/jperla/ConditionalRandomFields.jl) :: Scalable Conditional Random Fields code for Julia.
 + [ConjugatePriors.jl](https://github.com/johnmyleswhite/ConjugatePriors.jl) :: Closed form expressions for conjugate priors in Julia.
 + [CRBM.jl](https://github.com/kzahedi/CRBM.jl) :: Conditional RBMs package.
-+ [CrossDecomposition.jl](https://github.com/simonster/CrossDecomposition.jl) :: Canonical-Correlation Analysis (CCA).
 + [CTDE.jl](https://github.com/adolgert/CTDE.jl) :: Continuous time, discrete event system in Julia.
 + [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) :: Simple least squares and curve fitting functions.
 + [ConjugatePriors.jl](https://github.com/JuliaStats/ConjugatePriors.jl) :: A package to support conjugate prior distributions.
@@ -298,7 +299,6 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) :: A Julia package for manifold learning and non-linear dimensionality reduction.
    + [Documentation](http://manifoldlearningjl.readthedocs.org/en/latest/index.html)
 + [MixedModels.jl](https://github.com/dmbates/MixedModels.jl) :: A Julia package for fitting (statistical) mixed-effects models.
-+ [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
 + [MLBase.jl](https://github.com/JuliaStats/MLBase.jl) :: A set of functions to support the development of machine learning algorithms.
 + [NaiveBayes.jl](https://github.com/nutsiepully/NaiveBayes.jl) :: Simple Naive Bayes implementation in Julia.
 + [NullableArrays.jl](https://github.com/johnmyleswhite/NullableArrays.jl) :: Prototype of the new JuliaStats NullableArrays package designed to replace DataArrays.jl.
@@ -400,6 +400,15 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [MCMCExampleRepository.jl](https://github.com/goedman/MCMCExampleRepository.jl) :: Repository for MCMC Julia examples.
 + [MCMCModels.jl](https://github.com/scidom/MCMCModels.jl) :: Scratch space for hosting temporarily current model specification for MCMC inference.
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
+
+
+## [Multivariate Statistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
++ [CrossDecomposition.jl](https://github.com/simonster/CrossDecomposition.jl) :: Canonical-Correlation Analysis (CCA).
+
+### [Dimension Reduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction)
++ [FeatureExtraction.jl](https://github.com/trthatcher/FeatureExtraction.jl) :: Data pre-processing algorithms.
++ [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
+
 
 ## Sampling 
 + [GeneralizedSampling.jl](https://github.com/robertdj/GeneralizedSampling.jl) :: Generalized Sampling in Julia
