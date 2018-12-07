@@ -33,8 +33,6 @@
 + [Drawing.jl](https://github.com/andrewcooke/Drawing.jl) :: A library for easy, extensible drawing (diagrams, lines, shapes).
 + [Fontconfig.jl](https://github.com/JuliaGraphics/Fontconfig.jl) :: provides basic binding to fontconfig.
 + [GLAbstraction.jl](https://github.com/JuliaGL/GLAbstraction.jl) :: Utility package for ModernGL.
-+ [GLText.jl](https://github.com/SimonDanisch/GLText.jl) :: Text Rendering for OpenGL.
-+ [GLUT.jl](https://github.com/rennis250/GLUT.jl) :: A Julia interface to GLUT. Ref: [OpenGL Utility Toolkit](http://en.wikipedia.org/wiki/OpenGL_Utility_Toolkit).
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
 + [HalideCall.jl](https://github.com/timholy/HalideCall.jl) :: Use shared libraries created by Halide from Julia.
