@@ -178,6 +178,18 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 
 [//]: # (######################################################################)
 
+## Europe-BELGIUM
++ [BeNeLux](https://www.meetup.com/BeNeLux-Julia-User-Group/), Belgium.
+
+
+[//]: # (######################################################################)
+    
+## Europe-HUNGARY
+* [Budapest Julia User Group](https://www.meetup.com/meetup-group-qHEnKmfw/)
+
+
+[//]: # (######################################################################)
+    
 ## Europe-DENMARK
 + [JuliaCPH](https://www.meetup.com/JuliaCPH/), Copenhagen, Denmark
 
