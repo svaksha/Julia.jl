@@ -105,7 +105,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Shannon.jl](https://github.com/kzahedi/Shannon.jl) :: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 + [SimilarityMetrics.jl](https://github.com/johnmyleswhite/SimilarityMetrics.jl) :: Standard similarity metrics in Julia.
 + [Smolyak](https://github.com/EconForge/Smolyak) :: Efficient implementations of Smolyak's algorithm for function approxmation in Python and Julia.
-+ [Sobol.jl](https://github.com/stevengj/Sobol.jl) :: is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates __quasi-random__ sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 + [SymPy.jl](https://github.com/jverzani/SymPy.jl) :: Julia interface to SymPy via PyCall.
 + [TSne.jl](https://github.com/lejon/TSne.jl) :: Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique. Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
 + [TwoBasedIndexing.jl](https://github.com/simonster/TwoBasedIndexing.jl) :: Two-based indexing.
@@ -229,6 +228,8 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) :: A simple interface for interpolations on timeseries with first order discontinuities (using Dierckx.jl).
++ [Simplices.jl](https://github.com/kahaaga/Simplices.jl) :: Compute exact simplex intersections in N dimensions. 
++ [Sobol.jl](https://github.com/stevengj/Sobol.jl) :: is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates __quasi-random__ sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 + [SortedVectors.jl](https://github.com/colintbowers/SortedVectors.jl) :: A WIP package that implements a SortedVector type.
 
     
@@ -581,7 +582,6 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
 + [TSPSubgradient.jl](https://github.com/whilo/TSPSubgradient.jl) :: A TSP approximation with the subgradient method. 
 + [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
-
 
 ----
 
