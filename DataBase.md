@@ -67,9 +67,10 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 ## LMDB
 + [LMDB.jl](https://github.com/wildart/LMDB.jl) :: A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project. 
 
-## MongoDB 
-+ [LibBSON.jl](https://github.com/ScottPJones/LibBSON.jl) :: libbson bindings for the Julia programming language.
+## MongoDB
++ [Mongoc.jl](https://github.com/felipenoris/Mongoc.jl) :: MongoDB bindings (newer) and a wrapper around libbson, for the Julia language.
 + [Mongo.jl](https://github.com/ScottPJones/Mongo.jl) :: Mongo bindings for the Julia programming language.
++ [LibBSON.jl](https://github.com/ScottPJones/LibBSON.jl) :: libbson bindings for the Julia programming language.
 
 ## Redis
 + [Redis.jl](https://github.com/jkaye2012/Redis.jl) :: Pure Julia implementation of a Redis client (actively maintained).
@@ -90,9 +91,8 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [DBI.jl](https://github.com/swt30/DBI.jl) :: Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
 + [libpq.jl](https://github.com/iamed2/libpq.jl) :: A libpq interface for Julia.
 + [LibPQ.jl](https://github.com/invenia/LibPQ.jl) :: A Julia wrapper for the PostgreSQL libpq C library.
-+ [Postgres.jl](https://github.com/NCarson/Postgres.jl) :: Postgres database interface for the Julia language. {Tag: Unmaintained}
 + [PostgreSQL.jl](https://github.com/swt30/PostgreSQL.jl) :: An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl).
-
++ [Postgres.jl](https://github.com/NCarson/Postgres.jl) :: Postgres database interface for the Julia language. {Tag: Unmaintained}
 
 ## SQLite
 + [DBDSQLite.jl](https://github.com/JuliaDatabases/DBDSQLite.jl) :: DBI-compliant driver for SQLite3.
