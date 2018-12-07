@@ -163,7 +163,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl).
 + [TOML.jl](https://github.com/pygy/TOML.jl) :: A TOML parser.
 + [Word2Vec.jl](https://github.com/weijianzhang/Word2Vec.jl) :: Julia interface to word2vec.
-+ [WordNet.jl](https://github.com/JuliaText/WordNet.jl) : A Julia package for Princeton's WordNet®. 
++ [WordNet.jl](https://github.com/JuliaText/WordNet.jl) :: A Julia package for Princeton's WordNet®.
 
 ### English
 + [EnglishText.jl](https://github.com/TotalVerb/EnglishText.jl) :: Utilities for English-language quirks in Julia.

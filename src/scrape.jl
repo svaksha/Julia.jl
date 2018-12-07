@@ -42,8 +42,8 @@ function scrape_md(filename)
     records
 end
 
-function write_csv_line{N, T<:AbstractString}(io::IO, record::NTuple{N,T})
-    record = map(x->replace(x, '"', "\"\""), record)
+function write_csv_line(io::IO, record::NTuple{N,T}) where {N, T<:AbstractString}
+    record = map(x->replace(x, '"'=>"\"\""), record)
 
     for (i, el) in enumerate(record)
         any(x->x in el, (',', '"')) ? write(io, '"', el, '"') :
