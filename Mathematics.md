@@ -259,7 +259,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 
 
-### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
+### Special Array Types and Algorithms
 + [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
 + [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) :: metaprogramming for Julia arrays.
 + [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) :: A Julia package to explore a new system of array views.
@@ -271,17 +271,13 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) :: Arrays for working with categorical data (both nominal and ordinal) in Julia.
 + [ChunkedArrays.jl](https://github.com/ChrisRackauckas/ChunkedArrays.jl) :: A package for increasing the performance of arrays generated.
 + [ConvolutionTools.jl](https://github.com/gwater/ConvolutionTools.jl) :: Tools for convolutions of multi-dimensional arrays in Julia. 
-+ [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) :: Library for working with tabular data in Julia. [Documentation](https://juliadata.github.io/DataFrames.jl/stable/man/getting_started.html).
-+ [DataFramesMeta.jl](https://github.com/JuliaStats/DataFramesMeta.jl) :: Metaprogramming tools for DataFrames and Associative objects. These macros improve performance and provide more convenient syntax.
 + [EndpointRanges.jl](https://github.com/JuliaArrays/EndpointRanges.jl) :: Julia package for doing arithmetic on endpoints in array indexing.
 + [FArrayMod.jl](https://github.com/alsam/FArrayMod.jl) :: provides the ability to use arbitrary starting indices for arrays in Julia programming language.
-+ [FastGroupBy.jl](https://github.com/xiaodaigh/FastGroupBy.jl) :: Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 + [FlexibleArrays.jl](http://eschnett.github.io/FlexibleArrays.jl/) :: Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
-+ [FreqTables.jl](https://github.com/nalimilan/FreqTables.jl) :: Frequency tables in Julia.
 + [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
 + [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 + [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
-+ [IndexedTables.jl](https://github.com/JuliaComputing/IndexedTables.jl) :: N-dimensional sparse array structure in julia.
+
 + [IndirectArrays.jl](https://github.com/JuliaArrays/IndirectArrays.jl) :: Julia implementation of indexed or "lookup" arrays.
 + [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
 + [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
