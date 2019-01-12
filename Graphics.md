@@ -173,6 +173,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [GLPlot.jl](https://github.com/SimonDanisch/GLPlot.jl) :: Plotting for Julia with OpenGL.
 + [GLFW.jl](https://github.com/JuliaGL/GLFW.jl) :: Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events.
 + [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl) :: Visualization library written in Julia and OpenGL.
+[GMT.jl](https://github.com/joa-quim/GMT.jl) :: is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views.
 + [GoogleCharts.jl](https://github.com/jverzani/GoogleCharts.jl) :: The Julia interface to Google Chart Tools.
 + [julia-glplot](https://github.com/o-jasper/julia-glplot) :: Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter.
 + [paper](https://github.com/andrewcooke/paper) :: Crumpled paper - PDF plot in Julia.
