@@ -7,6 +7,7 @@
    + [Aquatic Ecology](#aquatic-ecology)
 + [GENOMICS](#genomics)
    + [GWAS](#gwas) 
+   + [Molecular Biology](#molecular-biology)
 + [NEUROSCIENCE](#neuroscience)
 + [Resources-Teaching](#resources-teaching)
 
@@ -105,10 +106,14 @@ __Genome Wide Association Study (GWAS)__
 + [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) :: A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
 
-
 ###### Resources
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 + [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
+
+
+## Molecular Biology
++ [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) :: A Julia package to fold all local and long-range RNA duplexes.
+
 
 ----
 
