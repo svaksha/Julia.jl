@@ -1,3 +1,4 @@
++ [Saving Julia Objects](#saving-julia-objects)
 + [Binary IO](#binary-io)
 + [Data Formats](#data-formats)
     + [BSON](#bson)
@@ -5,7 +6,7 @@
     + [ODS](#ods)
     + [PDF](#pdf)
     + [Silo](#silo)
-    + [Tabular Data Matrix](#tabular-data-matrix)
+    + [Tabular Data](#tabular-data)
     + [XDMF](#xdmf)
     + [XML](#xml)
 + [Data Type](#data-type)
@@ -21,6 +22,10 @@
 + [Schemata.jl](https://github.com/JockLawrie/Schemata.jl) :: Schema (specification of a data set) for tabular data sets in Julia. 
 
 ----
+
+# Saving Julia Objects
++ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading Julia variables & types
++ [JLD2](https://github.com/simonster/JLD2) :: Next-generation successor to JLD.
 
 # Binary IO
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
@@ -84,17 +89,12 @@
 ## Silo
 + [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl.
 
-## Tabular Data Matrix
-+ [CSV.jl](https://github.com/tanmaykm/CSV.jl) by @tanmaykm :: reads CSV files.
+## Tabular Data
 + [CSV.jl](https://github.com/JuliaData/CSV.jl) by @JuliaData ::  Utility library for working with CSV and other delimited files in the Julia programming language.
-+ [CSVFiles.jl](https://github.com/davidanthoff/CSVFiles.jl) :: `FileIO.jl` integration for CSV files.
-+ [CSVReaders.jl](https://github.com/johnmyleswhite/CSVReaders.jl) :: A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
-+ [DataFramesIO.jl](https://github.com/johnmyleswhite/DataFramesIO.jl) :: Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON.
-+ [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: can read files from Stata, SAS, and SPSS.
++ [CSVFiles.jl](https://github.com/queryverse/CSVFiles.jl) :: `FileIO.jl` integration for CSV files.
++ [DataRead.jl](https://github.com/WizardMac/DataRead.jl) :: Read files from Stata, SAS, and SPSS.
++ [StatFiles.jl](https://github.com/queryverse/StatFiles.jl) :: `FileIO.jl` integration for Stata, SPSS, and SAS files
 + [Feather.jl](https://github.com/JuliaData/Feather.jl) :: Julia library for working with feather-formatted files.
-+ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading julia variables & types
-+ [JLD2](https://github.com/simonster/JLD2) :: next-generation successor to JLD.
-+ [Jld2Mat.jl](https://github.com/maemre/Jld2Mat.jl) :: A utility and Julia package to create MAT files form JLD files.
 + [JuliaDB.jl](https://github.com/JuliaComputing/JuliaDB.jl) :: A package based on Dagger and IndexedTables, that provides a "distributed array"-like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster.
 + [LAJuliaUtils.jl](https://github.com/sylvaticus/LAJuliaUtils.jl) :: Utility functions for Julia, mainly dataframes operations.
 + [MAT.jl](https://github.com/JuliaIO/MAT.jl) :: Julia module for reading MATLAB files.
@@ -103,8 +103,6 @@
 + [Tables.jl](https://github.com/JuliaData/Tables.jl) :: This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 + [TableWidgets.jl](https://github.com/piever/TableWidgets.jl) :: Interactive widgets to work with tabular data in Julia.
 + [ReadWriteDlm2](https://github.com/strickek/ReadWriteDlm2.jl) :: CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types. 
-+ [XSV.jl](https://github.com/benhamner/XSV.jl) :: CSV, TSV, etc. streaming and batch parser.
-
 
 ## XDMF
 + [XDMF.jl](https://github.com/JuliaFEM/Xdmf.jl) :: A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
@@ -240,7 +238,6 @@
 # General IO
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
 + [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.
-+ [Missings.jl](https://github.com/JuliaData/Missings.jl) :: A missing value representation for Julia for databases and statistics.
 + [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
 + [StructIO.jl](https://github.com/Keno/StructIO.jl) :: Experimental new implementation of StrPack.jl-like functionality.
 + [ULID.jl](https://github.com/ararslan/ULID.jl) :: Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
