@@ -928,6 +928,7 @@ Graphics,GraphicalPlotting,Gaston.jl,https://github.com/mbaz/Gaston.jl,A julia f
 Graphics,GraphicalPlotting,GLPlot.jl,https://github.com/SimonDanisch/GLPlot.jl,Plotting for Julia with OpenGL.
 Graphics,GraphicalPlotting,GLFW.jl,https://github.com/JuliaGL/GLFW.jl,"Julia interface to [GLFW](http://www.glfw.org/), a multi-platform library for creating windows with OpenGL contexts and managing input and events."
 Graphics,GraphicalPlotting,GLVisualize.jl,https://github.com/JuliaGL/GLVisualize.jl,Visualization library written in Julia and OpenGL.
+Graphics,GraphicalPlotting,GMT.jl,https://github.com/joa-quim/GMT.jl,"is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views."
 Graphics,GraphicalPlotting,GoogleCharts.jl,https://github.com/jverzani/GoogleCharts.jl,The Julia interface to Google Chart Tools.
 Graphics,GraphicalPlotting,julia-glplot,https://github.com/o-jasper/julia-glplot,"Opengl plotting - Plotting of arrays, functions, Histograms, oscilloscope style real-time plotter."
 Graphics,GraphicalPlotting,paper,https://github.com/andrewcooke/paper,Crumpled paper - PDF plot in Julia.
@@ -2195,6 +2196,7 @@ Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),Solve
 Statistics,[STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process),StochasticSearch.jl,https://github.com/phrb/StochasticSearch.jl,Stochastic Local Search using Julia.
 Statistics,HMM,DynamicDiscreteModels.jl,https://github.com/BenConnault/DynamicDiscreteModels.jl,Inference for partially observed Markov chains.
 Statistics,HMM,HiddenMarkovModels.jl,https://github.com/BenConnault/HiddenMarkovModels.jl,Basic inference with Hidden Markov Models.
+Statistics,HMM,HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight and efficient abstraction for hidden Markov models in Julia.
 Statistics,HMM,RustModels.jl,https://github.com/BenConnault/RustModels.jl,Dynamic Discrete Choice Models with or without unobserved state variables.
 Statistics,Resources,gradient analysis,https://github.com/NeuroanatomyAndConnectivity/gradient_analysis,Notebooks on Gradient analysis.
 Statistics,Cookbooks,Little Inference Book,https://github.com/bcaffo/LittleInferenceBook,A book for the coursera statistical inference class.
