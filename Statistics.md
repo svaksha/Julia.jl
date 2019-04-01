@@ -129,6 +129,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [BilinearJuMP.jl](https://github.com/IainNZ/BilinearJuMP.jl) :: A JuMP extension for bilinear optimization problems. 
 + [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) :: An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 + [BLOM.jl](https://github.com/tkelman/BLOM.jl) :: A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
++ [Caching.jl](https://github.com/zgornel/Caching.jl) :: Memoization mechanism.
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers. 
 + [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
 + [Clp.jl](https://github.com/JuliaOpt/Clp.jl) :: Interface to the Coin-OR Linear Programming solver (CLP)
