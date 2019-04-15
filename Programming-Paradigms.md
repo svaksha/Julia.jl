@@ -107,6 +107,7 @@ __Packages and resources that support various programming styles, Software Archi
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)
 + [NotInferenceDontLookHere.jl](https://github.com/Keno/NotInferenceDontLookHere.jl) :: Package to help with Inference development. This is not inference. However, it does help you with developing inference by loading a separate copy of inference into this package and hooking up Revise. This allows you to easily test changes to inference in isolation.
++ [SyntaxTree.jl](https://github.com/chakravala/SyntaxTree.jl) :: Toolset for modifying Julia AST and characteristic values.
 
 ## [Automatic Programming](https://en.wikipedia.org/wiki/Automatic_programming)
 + [Cassette.jl](https://github.com/jrevels/Cassette.jl) :: a Julia package that provides a mechanism for dynamically injecting code transformation passes into Julia’s just-in-time (JIT) compilation cycle, enabling post hoc analysis, optimization, and modification of "Cassette-unaware" Julia programs. 

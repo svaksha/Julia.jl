@@ -17,6 +17,7 @@
    + [Perl](#perl)
    + [Python](#python)
    + [R](#r)
+   + [REDUCE](#reduce)
    + [Ruby](#ruby)
 + [RESOURCES](#resources)
 
@@ -138,7 +139,9 @@ Wrappers's and programming API's for other languages and general backend server 
 + [utils.jl](https://github.com/johnmyleswhite/utils.jl) :: Utility functions for Julia + R compatibility wrapper.
 
 ## REDUCE
-+ [ReduceAlgebra.jl](https://github.com/JuliaReducePkg/ReduceAlgebra.jl) :: Meta-package for [Reduce.jl](https://github.com/chakravala/Reduce.jl) and External Packages (symbolic programming language)
++ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
++ [ReduceAlgebra.jl](https://github.com/JuliaReducePkg/ReduceAlgebra.jl) :: Meta-package for Reduce.jl and External Packages.
++ [ReduceLinAlg.jl](https://github.com/JuliaReducePkg/ReduceLinAlg.jl) :: A selection of functions that are useful in the world of linear algebra.
 
 ## Ruby
 + [guard-julia](https://github.com/svs14/guard-julia) :: Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
