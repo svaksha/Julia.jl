@@ -140,6 +140,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
 + [CorpusLoaders.jl](https://github.com/JuliaText/CorpusLoaders.jl) :: A variety of loaders for various NLP corpora.
++ [DependencyTrees.jl](https://github.com/dellison/DependencyTrees.jl) :: A package for dependency parsing.
 + [DPL.jl](https://github.com/quxiaofeng/DPL.jl) :: Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors.
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.

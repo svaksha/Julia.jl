@@ -110,6 +110,7 @@ AI,Resources,log post on '[Chess position evaluation with convolutional neural n
 AI,NLP,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation in Julia.
 AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural language parser.
 AI,NLP,CorpusLoaders.jl,https://github.com/JuliaText/CorpusLoaders.jl,A variety of loaders for various NLP corpora.
+AI,NLP,DependencyTrees.jl,https://github.com/dellison/DependencyTrees.jl,A package for dependency parsing.
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,"Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home"
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,"A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane."
