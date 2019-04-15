@@ -951,6 +951,7 @@ Graphics,GraphicalPlotting,Vulkan.jl,https://github.com/JuliaGPU/Vulkan.jl,"Wrap
 Graphics,GraphicalPlotting,Winston.jl,https://github.com/nolta/Winston.jl,2D plotting for Julia.
 Graphics,GraphicalPlotting,YT.jl,https://github.com/jzuhone/YT.jl,A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 Graphics,Non-GraphicalPlotting,ASCIIPlots.jl,https://github.com/johnmyleswhite/ASCIIPlots.jl,
+Graphics,Non-GraphicalPlotting,GMT.jl,https://github.com/joa-quim/GMT.jl,"is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views."
 Graphics,Non-GraphicalPlotting,Hinton.jl,https://github.com/ninjin/Hinton.jl,"A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support."
 Graphics,Non-GraphicalPlotting,ImageTerm.jl,https://github.com/meggart/ImageTerm.jl,Julia functions to plot colorful maps in the terminal.
 Graphics,Non-GraphicalPlotting,MakiE.jl,https://github.com/SimonDanisch/MakiE.jl,High level plotting on the GPU.
