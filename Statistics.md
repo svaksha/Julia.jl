@@ -453,6 +453,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 ## HMM
 + [DynamicDiscreteModels.jl](https://github.com/BenConnault/DynamicDiscreteModels.jl) :: Inference for partially observed Markov chains.
 + [HiddenMarkovModels.jl](https://github.com/BenConnault/HiddenMarkovModels.jl) :: Basic inference with Hidden Markov Models.
++ [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) :: A lightweight and efficient abstraction for hidden Markov models in Julia.
 + [RustModels.jl](https://github.com/BenConnault/RustModels.jl) :: Dynamic Discrete Choice Models with or without unobserved state variables.
 
 
