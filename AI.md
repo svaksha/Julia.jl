@@ -64,6 +64,7 @@ Machine learning and statistics are closely related fields, so do check out the 
    + An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb).
 + [MochaTheano.jl](https://github.com/benmoran/MochaTheano.jl) :: Allow use of Theano for automatic differentiation within Mocha, via PyCall.
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: Flexible and efficient deep learning in Julia.
++ [NetworkLearning.jl](https://github.com/zgornel/NetworkLearning.jl) :: Baseline collective classification library.
 + [Ollam.jl](https://github.com/mit-nlp/Ollam.jl) :: OLLAM = Online Learning of Linear Adaptatable Models.
 + [OnlineAI.jl](https://github.com/tbreloff/OnlineAI.jl) :: Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}
 + [Orchestra.jl](https://github.com/svs14/Orchestra.jl) :: Heterogeneous ensemble learning package for the Julia programming language.
@@ -139,10 +140,13 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation in Julia.
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
++ [BKTrees.jl](https://github.com/zgornel/BKTrees.jl) :: Julia implementation of Burkhard-Keller trees.
++ [ConceptnetNumberbatch.jl](https://github.com/zgornel/ConceptnetNumberbatch.jl) :: Julia interface to [ConceptnetNumberbatch](https://github.com/commonsense/conceptnet-numberbatch).
 + [CorpusLoaders.jl](https://github.com/JuliaText/CorpusLoaders.jl) :: A variety of loaders for various NLP corpora.
 + [DependencyTrees.jl](https://github.com/dellison/DependencyTrees.jl) :: A package for dependency parsing.
 + [DPL.jl](https://github.com/quxiaofeng/DPL.jl) :: Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home
 + [GloVe.jl](https://github.com/domluna/GloVe.jl) :: Implements Global Word Vectors.
++ [Glowe.jl](https://github.com/zgornel/Glowe.jl) :: Julia interface to Global Word Vectors.
 + [GoodTuring.jl](https://github.com/JoFrhwld/GoodTuring.jl) :: A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane.
 + [JuliaParser.jl](https://github.com/jakebolewski/JuliaParser.jl) :: A rewrite of Julia's parser in Julia.
 + [KUparser.jl](https://github.com/denizyuret/KUparser.jl) :: Dependency parsing with word vectors.
@@ -157,6 +161,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [PyLexYacc.jl](https://github.com/iamed2/PyLexYacc.jl) :: An interface to Python Lex-Yacc package that uses reflection for most of its processing.
 + [SimpleParser.jl](https://github.com/ordovician/SimpleParser.jl) :: A very simple hackable parser and lexer for simple languages.
 + [Stemmers.jl](https://github.com/tanmaykm/Stemmers.jl) :: Interface for text stemmer implementations.
++ [StringAnalysis.jl](https://github.com/zgornel/StringAnalysis.jl) :: A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API.
 + [Sumup.jl](https://github.com/remusao/Sumup.jl) :: Automatic multi-documents, multi-topics summarization based on topic extraction.
 + [Treekenize.jl](https://github.com/o-jasper/Treekenize.jl) :: Parser with beginners and enders and infix.
 + [Text.jl](https://github.com/mit-nlp/Text.jl) :: Numerous tools for text processing.

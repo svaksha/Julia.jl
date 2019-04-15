@@ -162,7 +162,9 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [Blocks.jl](https://github.com/JuliaParallel/Blocks.jl) :: A framework to represent chunks of entities and parallel methods on them.
 + [ClusterManagers.jl](https://github.com/JuliaParallel/ClusterManagers.jl) :: Support for different clustering technologies.
 + [Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) :: A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
-+ [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl) :: Distributed Arrays in Julia.
++ [Dispatcher.jl](https://github.com/invenia/Dispatcher.jl) :: A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
++ [DispatcherCache.jl](https://github.com/zgornel/DispatcherCache.jl) :: Tool for building and executing a computation graph given a series of dependent operations.
++ [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl) :: A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 + [Elly.jl](https://github.com/JuliaParallel/Elly.jl) :: Hadoop HDFS and Yarn client.
 + [Flume.jl](https://github.com/malmaud/Flume.jl) :: A port of the Google Flume Data-Parallel Pipeline system.
 + [HDFS.jl](https://github.com/JuliaParallel/HDFS.jl) :: An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.

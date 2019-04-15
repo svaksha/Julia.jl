@@ -49,6 +49,7 @@ AI,MACHINELEARNING,ew tutorial on [unsupervised pre-training with stacked denois
 AI,MACHINELEARNING,n IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification,http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb),
 AI,MACHINELEARNING,MochaTheano.jl,https://github.com/benmoran/MochaTheano.jl,"Allow use of Theano for automatic differentiation within Mocha, via PyCall."
 AI,MACHINELEARNING,MXNet.jl,https://github.com/dmlc/MXNet.jl,Flexible and efficient deep learning in Julia.
+AI,MACHINELEARNING,NetworkLearning.jl,https://github.com/zgornel/NetworkLearning.jl,Baseline collective classification library.
 AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online Learning of Linear Adaptatable Models.
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,"Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}"
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
@@ -109,10 +110,13 @@ AI,NEURALNETWORKS,SumProductNetworks.jl,https://github.com/trappmartin/SumProduc
 AI,Resources,log post on '[Chess position evaluation with convolutional neural network in Julia,http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)',
 AI,NLP,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation in Julia.
 AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural language parser.
+AI,NLP,BKTrees.jl,https://github.com/zgornel/BKTrees.jl,Julia implementation of Burkhard-Keller trees.
+AI,NLP,ConceptnetNumberbatch.jl,https://github.com/zgornel/ConceptnetNumberbatch.jl,Julia interface to [ConceptnetNumberbatch](https://github.com/commonsense/conceptnet-numberbatch).
 AI,NLP,CorpusLoaders.jl,https://github.com/JuliaText/CorpusLoaders.jl,A variety of loaders for various NLP corpora.
 AI,NLP,DependencyTrees.jl,https://github.com/dellison/DependencyTrees.jl,A package for dependency parsing.
 AI,NLP,DPL.jl,https://github.com/quxiaofeng/DPL.jl,"Projective Dictionary Pair Learning - code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 20144. https://sites.google.com/site/shuhanggu/home"
 AI,NLP,GloVe.jl,https://github.com/domluna/GloVe.jl,Implements Global Word Vectors.
+AI,NLP,Glowe.jl,https://github.com/zgornel/Glowe.jl,Julia interface to Global Word Vectors.
 AI,NLP,GoodTuring.jl,https://github.com/JoFrhwld/GoodTuring.jl,"A Julia implementation of Simple Good Turing smoothing, largely adapted from @maxbane."
 AI,NLP,JuliaParser.jl,https://github.com/jakebolewski/JuliaParser.jl,A rewrite of Julia's parser in Julia.
 AI,NLP,KUparser.jl,https://github.com/denizyuret/KUparser.jl,Dependency parsing with word vectors.
@@ -126,6 +130,7 @@ AI,NLP,Parsimonious.jl,https://github.com/gitfoxi/Parsimonious.jl,A PEG parser g
 AI,NLP,PEGParser.jl,https://github.com/abeschneider/PEGParser.jl,"A PEG Parser for Julia with Packrat capabilties, inspired by pyparsing, parsimonious, boost::spirit, as well as several others."
 AI,NLP,PyLexYacc.jl,https://github.com/iamed2/PyLexYacc.jl,An interface to Python Lex-Yacc package that uses reflection for most of its processing.
 AI,NLP,SimpleParser.jl,https://github.com/ordovician/SimpleParser.jl,A very simple hackable parser and lexer for simple languages.
+AI,NLP,StringAnalysis.jl,https://github.com/zgornel/StringAnalysis.jl,A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API.
 AI,NLP,Stemmers.jl,https://github.com/tanmaykm/Stemmers.jl,Interface for text stemmer implementations.
 AI,NLP,Sumup.jl,https://github.com/remusao/Sumup.jl,"Automatic multi-documents, multi-topics summarization based on topic extraction."
 AI,NLP,Treekenize.jl,https://github.com/o-jasper/Treekenize.jl,Parser with beginners and enders and infix.
@@ -1945,6 +1950,7 @@ Statistics,Optimization,BARON.jl,https://github.com/joehuchette/BARON.jl,A wrapp
 Statistics,Optimization,BilinearJuMP.jl,https://github.com/IainNZ/BilinearJuMP.jl,A JuMP extension for bilinear optimization problems.
 Statistics,Optimization,BlackBoxOptim.jl,https://github.com/robertfeldt/BlackBoxOptim.jl,"An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc)."
 Statistics,Optimization,BLOM.jl,https://github.com/tkelman/BLOM.jl,A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
+Statistics,Optimization,Caching.jl,https://github.com/zgornel/Caching.jl,Memoization mechanism.
 Statistics,Optimization,ConicNonlinearBridge.jl,https://github.com/mlubin/ConicNonlinearBridge.jl,Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
 Statistics,Optimization,Cbc.jl,https://github.com/JuliaOpt/Cbc.jl,Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
 Statistics,Optimization,Clp.jl,https://github.com/JuliaOpt/Clp.jl,Interface to the Coin-OR Linear Programming solver (CLP)
@@ -2296,6 +2302,8 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dispatcher.jl,https://github.com/invenia/Dispatcher.jl,Tool for building and executing a computation graph given a series of dependent operations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
