@@ -141,6 +141,7 @@ __Pre-compiled Binaries__
 __Package/Infrastructure management tools and Documentation__
 
 + Official [Julia Package list](http://pkg.julialang.org/).
++ [Registrator.jl](https://github.com/JuliaComputing/Registrator.jl) :: Julia [package](https://pkg.julialang.org/) registration bot.
 + [METADATA.jl](https://github.com/JuliaLang/METADATA.jl) :: The official set of Julia packages.
    + [MetadataTools.jl](https://github.com/IainNZ/MetadataTools.jl) :: Functionality to analyze the structure of Julia's METADATA repository.
    + [JuliaArchive](https://JuliaArchive.github.io) :: Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
