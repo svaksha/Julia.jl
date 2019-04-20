@@ -235,7 +235,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
 + [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
-+ [DirectSum.jl](https://github.com/chakravala/DirectSum.jl) :: Abstract vector space type operations at compile-time.
++ [DirectSum.jl](https://github.com/chakravala/DirectSum.jl) :: Abstract tangent bundle vector space type operations.
 + [Divergences.jl](https://github.com/gragusa/Divergences.jl) :: A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 + [OpenCLBLAS.jl](https://github.com/mikhail-j/OpenCLBLAS.jl) :: OpenCL BLAS library wrapper for Julia with samples.
 + [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) :: Syntactic sugar for BLAS polynomials.
@@ -591,7 +591,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
-+ [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: Conformal geometric product algebra based on static dual multivectors with graded-blade indexing.
++ [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: ⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
 + [JointMoments.jl](https://github.com/tinybike/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 + [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 

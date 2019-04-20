@@ -1167,7 +1167,7 @@ Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Sobol.jl,https://github.com/stevengj/Sobol.jl,"is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates __quasi-random__ sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube."
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),SortedVectors.jl,https://github.com/colintbowers/SortedVectors.jl,A WIP package that implements a SortedVector type.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),CLBLAS.jl,https://github.com/ekobir/CLBLAS.jl,CLBLAS integration for Julia.
-Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),DirectSum.jl,https://github.com/chakravala/DirectSum.jl,Abstract vector space type operations at compile-time.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),DirectSum.jl,https://github.com/chakravala/DirectSum.jl,Abstract tangent bundle vector space type operations.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),OpenCLBLAS.jl,https://github.com/mikhail-j/OpenCLBLAS.jl,OpenCL BLAS library wrapper for Julia with samples.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SugarBLAS.jl,https://github.com/lopezm94/SugarBLAS.jl,Syntactic sugar for BLAS polynomials.
@@ -1444,7 +1444,7 @@ Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.j
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,"An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002."
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,httpsL//github.com/chakravala/Grassmann.jl,Conformal geometric product algebra based on static dual multivectors with graded-blade indexing.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,httpsL//github.com/chakravala/Grassmann.jl,⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),JointMoments.jl,https://github.com/tinybike/JointMoments.jl,Tensors and statistics for joint central moments.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),mbr.jl,https://github.com/intdxdt/mbr.jl,axis aligned minimum bounding box.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tau.jl,https://github.com/Aerlinger/Tau.jl,A simple module providing definition of the Tau constant.
