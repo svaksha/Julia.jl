@@ -130,8 +130,8 @@ AI,NLP,Parsimonious.jl,https://github.com/gitfoxi/Parsimonious.jl,A PEG parser g
 AI,NLP,PEGParser.jl,https://github.com/abeschneider/PEGParser.jl,"A PEG Parser for Julia with Packrat capabilties, inspired by pyparsing, parsimonious, boost::spirit, as well as several others."
 AI,NLP,PyLexYacc.jl,https://github.com/iamed2/PyLexYacc.jl,An interface to Python Lex-Yacc package that uses reflection for most of its processing.
 AI,NLP,SimpleParser.jl,https://github.com/ordovician/SimpleParser.jl,A very simple hackable parser and lexer for simple languages.
-AI,NLP,StringAnalysis.jl,https://github.com/zgornel/StringAnalysis.jl,A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API.
 AI,NLP,Stemmers.jl,https://github.com/tanmaykm/Stemmers.jl,Interface for text stemmer implementations.
+AI,NLP,StringAnalysis.jl,https://github.com/zgornel/StringAnalysis.jl,"A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API."
 AI,NLP,Sumup.jl,https://github.com/remusao/Sumup.jl,"Automatic multi-documents, multi-topics summarization based on topic extraction."
 AI,NLP,Treekenize.jl,https://github.com/o-jasper/Treekenize.jl,Parser with beginners and enders and infix.
 AI,NLP,Text.jl,https://github.com/mit-nlp/Text.jl,Numerous tools for text processing.
@@ -956,7 +956,6 @@ Graphics,GraphicalPlotting,Vulkan.jl,https://github.com/JuliaGPU/Vulkan.jl,"Wrap
 Graphics,GraphicalPlotting,Winston.jl,https://github.com/nolta/Winston.jl,2D plotting for Julia.
 Graphics,GraphicalPlotting,YT.jl,https://github.com/jzuhone/YT.jl,A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 Graphics,Non-GraphicalPlotting,ASCIIPlots.jl,https://github.com/johnmyleswhite/ASCIIPlots.jl,
-Graphics,Non-GraphicalPlotting,GMT.jl,https://github.com/joa-quim/GMT.jl,"is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views."
 Graphics,Non-GraphicalPlotting,Hinton.jl,https://github.com/ninjin/Hinton.jl,"A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support."
 Graphics,Non-GraphicalPlotting,ImageTerm.jl,https://github.com/meggart/ImageTerm.jl,Julia functions to plot colorful maps in the terminal.
 Graphics,Non-GraphicalPlotting,MakiE.jl,https://github.com/SimonDanisch/MakiE.jl,High level plotting on the GPU.
@@ -1538,6 +1537,7 @@ Physics,,JuliaPower,https://github.com/prezaei85/JuliaPower,A package of scripts
 Physics,,LambertW.jl,https://github.com/robertdj/LambertW.jl,Lambert's W function in Julia.
 Physics,,Mass.jl,https://github.com/ggggggggg/Mass.jl,An experimental frameworks for TES pulse analysis.
 Physics,,Measurements.jl,https://github.com/giordano/Measurements.jl,Error
+Physics,,MonteCarloMeasurements.jl,https://github.com/baggepinnen/MonteCarloMeasurements.jl,Error
 Physics,,Physical.jl,https://github.com/ggggggggg/Physical.jl,
 Physics,,Quantities.jl,https://github.com/ElOceanografo/Quantities.jl,Dimensions and Quantities.
 Physics,,ROOT.jl,https://github.com/jpata/ROOT.jl,A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
@@ -2302,9 +2302,9 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dispatcher.jl,https://github.com/invenia/Dispatcher.jl,Tool for building and executing a computation graph given a series of dependent operations.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dispatcher.jl,https://github.com/invenia/Dispatcher.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,Tool for building and executing a computation graph given a series of dependent operations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
