@@ -25,6 +25,8 @@
 + [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error
   propagation calculator and library. It supports real and complex numbers with
   uncertainty, arbitrary precision calculations, and operations with arrays.
++ [MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) :: Error
+  propagation using Monte-Carlo simulation. Similar to Measurements.jl, but more accurate for highly nonlinear functions at the expense of longer execution time.
 + [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 + [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) :: Dimensions and Quantities.
 + [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
