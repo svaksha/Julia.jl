@@ -130,8 +130,8 @@ AI,NLP,Parsimonious.jl,https://github.com/gitfoxi/Parsimonious.jl,A PEG parser g
 AI,NLP,PEGParser.jl,https://github.com/abeschneider/PEGParser.jl,"A PEG Parser for Julia with Packrat capabilties, inspired by pyparsing, parsimonious, boost::spirit, as well as several others."
 AI,NLP,PyLexYacc.jl,https://github.com/iamed2/PyLexYacc.jl,An interface to Python Lex-Yacc package that uses reflection for most of its processing.
 AI,NLP,SimpleParser.jl,https://github.com/ordovician/SimpleParser.jl,A very simple hackable parser and lexer for simple languages.
-AI,NLP,StringAnalysis.jl,https://github.com/zgornel/StringAnalysis.jl,A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API.
 AI,NLP,Stemmers.jl,https://github.com/tanmaykm/Stemmers.jl,Interface for text stemmer implementations.
+AI,NLP,StringAnalysis.jl,https://github.com/zgornel/StringAnalysis.jl,"A hard fork of the [TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl) package, designed to provide a richer, faster and orthogonal API."
 AI,NLP,Sumup.jl,https://github.com/remusao/Sumup.jl,"Automatic multi-documents, multi-topics summarization based on topic extraction."
 AI,NLP,Treekenize.jl,https://github.com/o-jasper/Treekenize.jl,Parser with beginners and enders and infix.
 AI,NLP,Text.jl,https://github.com/mit-nlp/Text.jl,Numerous tools for text processing.
@@ -517,6 +517,7 @@ DevOps,Ansible,julia-ansible-scripts,https://github.com/staticfloat/julia-ansibl
 DevOps,Docker,Docker,https://hub.docker.com/r/library/julia/) image for Julia,
 DevOps,Docker,julia,https://github.com/docker-library/julia,Docker Official Image packaging for [Julia](http://julialang.org/).
 DevOps,Docker,RudeOil.jl,https://github.com/UCL/RudeOil.jl,A package to easily interact with docker and docker-machine.
+DevOps,Kubernetes,Kuber.jl,https://github.com/JuliaComputing/Kuber.jl,A Julia Kubernetes Client.
 DevOps,Vagrant,julia-vagrant,https://github.com/staticfloat/julia-vagrant,Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 DevOps,DistrOS,rack [versions of julia,https://repology.org/metapackage/julia/versions) in the __Repology__ service which tracks and compares package versions in more than 120 package repositories,
 DevOps,Debian-Ubuntu,APT.jl,https://github.com/bbshortcut/APT.jl,"A module to manipulate Debian Advanced Package Tool (APT). It comes with `pnlt`, an executable that allows to manage package name lists."
@@ -526,6 +527,7 @@ DevOps,Fedora-RHEL,WinRPM.jl,https://github.com/JuliaLang/WinRPM.jl,RPM-md proce
 DevOps,OSX,Homebrew.jl,https://github.com/JuliaLang/Homebrew.jl/,OSX Binary dependency provider for Julia.
 DevOps,Executables,BuildExecutable.jl,https://github.com/dhoegh/BuildExecutable.jl,Build standalone executables from a Julia script.
 DevOps,Packaging,fficial [Julia Package list,http://pkg.julialang.org/),
+DevOps,Packaging,Registrator.jl,https://github.com/JuliaComputing/Registrator.jl,Julia [package](https://pkg.julialang.org/) registration bot.
 DevOps,Packaging,METADATA.jl,https://github.com/JuliaLang/METADATA.jl,The official set of Julia packages.
 DevOps,Packaging,MetadataTools.jl,https://github.com/IainNZ/MetadataTools.jl,Functionality to analyze the structure of Julia's METADATA repository.
 DevOps,Packaging,JuliaArchive,https://JuliaArchive.github.io,Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
@@ -621,6 +623,7 @@ Earth-Science,METEOROLOGY,Met_Plots_Models.jl,https://github.com/zhujinxuan/Met_
 Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiative transfer in Julia.
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 Earth-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia code for performing temperature, pressure and volume and buoyancy calculations."
+Earth-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
 Earth-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
 FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
 FileIO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
@@ -956,7 +959,6 @@ Graphics,GraphicalPlotting,Vulkan.jl,https://github.com/JuliaGPU/Vulkan.jl,"Wrap
 Graphics,GraphicalPlotting,Winston.jl,https://github.com/nolta/Winston.jl,2D plotting for Julia.
 Graphics,GraphicalPlotting,YT.jl,https://github.com/jzuhone/YT.jl,A Julia interface to the Python-based yt analysis toolkit. YT exposes a number of functionalities from yt.
 Graphics,Non-GraphicalPlotting,ASCIIPlots.jl,https://github.com/johnmyleswhite/ASCIIPlots.jl,
-Graphics,Non-GraphicalPlotting,GMT.jl,https://github.com/joa-quim/GMT.jl,"is a package containing Julia bindings for the Generic Mapping Tools Library, a.k.a libgmt - a set of libraries tht allows manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing Encapsulated PostScript File (EPS) illustrations ranging from simple x-y plots via contour maps to artificially illuminated surfaces and 3-D perspective views."
 Graphics,Non-GraphicalPlotting,Hinton.jl,https://github.com/ninjin/Hinton.jl,"A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support."
 Graphics,Non-GraphicalPlotting,ImageTerm.jl,https://github.com/meggart/ImageTerm.jl,Julia functions to plot colorful maps in the terminal.
 Graphics,Non-GraphicalPlotting,MakiE.jl,https://github.com/SimonDanisch/MakiE.jl,High level plotting on the GPU.
@@ -2302,9 +2304,9 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Blocks.jl,https://github.com/JuliaParallel/Blocks.jl,A framework to represent chunks of entities and parallel methods on them.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ClusterManagers.jl,https://github.com/JuliaParallel/ClusterManagers.jl,Support for different clustering technologies.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dagger.jl,https://github.com/JuliaParallel/Dagger.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dispatcher.jl,https://github.com/invenia/Dispatcher.jl,Tool for building and executing a computation graph given a series of dependent operations.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
-Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,Distributed Arrays in Julia.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Dispatcher.jl,https://github.com/invenia/Dispatcher.jl,A framework for out-of-core and parallel computation and hierarchical Scheduling of DAG Structured Computations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,Tool for building and executing a computation graph given a series of dependent operations.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.

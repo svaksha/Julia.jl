@@ -103,6 +103,9 @@ __Pre-compiled Binaries__
 + [julia](https://github.com/docker-library/julia) :: Docker Official Image packaging for [Julia](http://julialang.org/).
 + [RudeOil.jl](https://github.com/UCL/RudeOil.jl) :: A package to easily interact with docker and docker-machine.
 
+### Kubernetes
++ [Kuber.jl](https://github.com/JuliaComputing/Kuber.jl) :: A Julia Kubernetes Client.
+
 ### Vagrant
 + [julia-vagrant](https://github.com/staticfloat/julia-vagrant) :: Packer/Vagrant script recipes for making virtual machines (VM's) - create Vagrant boxes and Openstack images for performing builds and tests of Julia.
 
