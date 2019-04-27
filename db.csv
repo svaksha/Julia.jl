@@ -1540,6 +1540,7 @@ Physics,,JuliaPower,https://github.com/prezaei85/JuliaPower,A package of scripts
 Physics,,LambertW.jl,https://github.com/robertdj/LambertW.jl,Lambert's W function in Julia.
 Physics,,Mass.jl,https://github.com/ggggggggg/Mass.jl,An experimental frameworks for TES pulse analysis.
 Physics,,Measurements.jl,https://github.com/giordano/Measurements.jl,Error
+Physics,,MonteCarloMeasurements.jl,https://github.com/baggepinnen/MonteCarloMeasurements.jl,Error
 Physics,,Physical.jl,https://github.com/ggggggggg/Physical.jl,
 Physics,,Quantities.jl,https://github.com/ElOceanografo/Quantities.jl,Dimensions and Quantities.
 Physics,,ROOT.jl,https://github.com/jpata/ROOT.jl,A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
