@@ -1,6 +1,7 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOINFORMATICS](#bioinformatics)
++ [BIOMEDICINE](#biomedicine)
 + [BIOSTATISTICS](#bioinformatics)
 + [ECOLOGY](#ecology)
    + [Agronomy](#agronomy)
@@ -13,7 +14,6 @@
 
 ----
 
-+ [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 + [COBRA.jl](https://github.com/opencobra/COBRA.jl) :: COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
 
 ----
@@ -31,6 +31,12 @@
 + [Crispulator.jl](https://github.com/tlnagy/Crispulator.jl) :: A discrete simulation tool for designing pooled genetic screens
 + [Bioinformatics.jl](https://github.com/mrtkp9993/Bioinformatics.jl) :: Helper functions for bioinformatics and rosalind.info problems.
 + [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) :: implements quantile normalization
+
+----
+
+# [BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine)
++ [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
++ Link to Clinical research data management: https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md
 
 ----
 

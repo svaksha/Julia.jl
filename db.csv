@@ -54,6 +54,7 @@ AI,MACHINELEARNING,Ollam.jl,https://github.com/mit-nlp/Ollam.jl,OLLAM = Online L
 AI,MACHINELEARNING,OnlineAI.jl,https://github.com/tbreloff/OnlineAI.jl,"Machine learning for sequential/streaming data.  {Usable: 3, Robust: 3, Active: 3}"
 AI,MACHINELEARNING,Orchestra.jl,https://github.com/svs14/Orchestra.jl,Heterogeneous ensemble learning package for the Julia programming language.
 AI,MACHINELEARNING,ParticleFilters.jl,https://github.com/JuliaPOMDP/ParticleFilters.jl,Simple particle filter implementation in Julia - works with `POMDPs.jl` models or others.
+AI,MACHINELEARNING,PredictMD.jl,https://github.com/bcbi/PredictMD.jl,Uniform interface for machine learning in Julia.
 AI,MACHINELEARNING,PrivateMultiplicativeWeights.jl,https://github.com/mrtzh/PrivateMultiplicativeWeights.jl,Differentially private synthetic data.
 AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,"Juia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014."
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,"A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia."
@@ -250,7 +251,6 @@ Algorithms,[NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_prob
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),dReal.jl,https://github.com/zenna/dReal.jl,Nonlinear SMT solving using dReal.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),PicoSAT.jl,https://github.com/jakebolewski/PicoSAT.jl,Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),Z3.jl,https://github.com/zenna/Z3.jl,This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
-Biology,,BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 Biology,,COBRA.jl,https://github.com/opencobra/COBRA.jl,"COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`."
 Biology,BIOINFORMATICS,Bio.jl,https://github.com/BioJulia/Bio.jl,Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
 Biology,BIOINFORMATICS,Circuitscape.jl,https://github.com/tanmaykm/Circuitscape.jl,The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
@@ -264,6 +264,7 @@ Biology,BIOINFORMATICS,taxize.jl,https://github.com/sckott/taxize.jl,A taxonomic
 Biology,BIOINFORMATICS,Crispulator.jl,https://github.com/tlnagy/Crispulator.jl,A discrete simulation tool for designing pooled genetic screens
 Biology,BIOINFORMATICS,Bioinformatics.jl,https://github.com/mrtkp9993/Bioinformatics.jl,Helper functions for bioinformatics and rosalind.info problems.
 Biology,BIOINFORMATICS,NormalizeQuantiles.jl,https://github.com/oheil/NormalizeQuantiles.jl,implements quantile normalization
+Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,"Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0."
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,"Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures."
@@ -353,7 +354,7 @@ Chemistry,QuantumChemistry,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,Th
 Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-DataManagement,[ResearchDataManagement](#research-data-management),REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
+DataManagement,BiomedicalResearch,REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
 Database,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
 Database,API,Tables.jl,https://github.com/JuliaData/Tables.jl,An interface for tables in Julia.
 Database,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
