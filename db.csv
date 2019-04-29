@@ -353,49 +353,50 @@ Chemistry,QuantumChemistry,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,Th
 Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-DataBase,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
-DataBase,API,Tables.jl,https://github.com/JuliaData/Tables.jl,An interface for tables in Julia.
-DataBase,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
-DataBase,API,DBI.jl,https://github.com/johnmyleswhite/DBI.jl,An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
-DataBase,API,DBPerf.jl,https://github.com/JuliaDatabases/DBPerf.jl,The code repository that benchmarks all the Julia Database Drivers / Wrappers.
-DataBase,API,LevelDB.jl,https://github.com/jerryzhenleicai/LevelDB.jl,Julia interface to Google's LevelDB key value database.
-DataBase,API,Memcache.jl,https://github.com/tanmaykm/Memcache.jl,Julia memcached client.
-DataBase,API,JDBC.jl,https://github.com/JuliaDatabases/JDBC.jl,Julia interface to Java database drivers.
-DataBase,API,ODBC.jl,https://github.com/quinnj/ODBC.jl,A low-level ODBC interface for the Julia programming language.
-DataBase,API,Tabular Data I/O in Julia,http://randyzwitch.com/julia-import-data/,
-DataBase,API,ViewDBI.jl,https://github.com/kmsquire/ViewDBI.jl,View-based DBI for Julia.
-DataBase,In-MemoryStorage,DataFrames.jl,https://github.com/JuliaData/DataFrames.jl,Library for working with tabular data in Julia.
-DataBase,In-MemoryStorage,IndexedTables.jl,https://github.com/JuliaComputing/IndexedTables.jl,Tabular data structures where some of the columns form a sorted index.
-DataBase,In-MemoryStorage,Pandas.jl,https://github.com/malmaud/Pandas.jl,A Julia front-end to Python's Pandas package.
-DataBase,In-MemoryStorage,DataFramesMeta.jl,https://github.com/JuliaStats/DataFramesMeta.jl,Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
-DataBase,In-MemoryStorage,FastGroupBy.jl,https://github.com/xiaodaigh/FastGroupBy.jl,Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
-DataBase,[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)Storage,Accumulo.jl,https://github.com/JuliaDB/Accumulo.jl,Apache Accumulo client.
-DataBase,SciDB,SciDB-Julia,https://github.com/Paradigm4/SciDB-Julia,The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
-DataBase,SciDB,TAQ,https://github.com/Paradigm4/TAQ,Example SciDB queries for finance trade and quote data.
-DataBase,ENGINES,kyotocabinet.jl,https://github.com/tuzzeg/kyotocabinet.jl,Implementation of Kyoto Cabinet in Julia language.
-DataBase,GraphDB,Neo4j.jl,https://github.com/glesica/Neo4j.jl,Messing around with building a Neo4j driver for Julia.
-DataBase,HDF,EasyData.jl,https://github.com/ma-laforge/EasyData.jl,Simple/Fast(+HDF5) solution to writing datasets & plots to file.
-DataBase,NOSQL,CQLdriver.jl,https://github.com/r3tex/CQLdriver.jl,A Julia package for interfacing with CQL compliant databases.
-DataBase,NOSQL,DataKnots.jl,https://github.com/rbt-lang/DataKnots.jl,"A Julia library for representing and querying data, including nested and circular structures. It provides integration and analytics across CSV, JSON, XML and SQL data sources with an extensible, practical and coherent algebra of query combinators."
-DataBase,LMDB,LMDB.jl,https://github.com/wildart/LMDB.jl,A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project.
-DataBase,MongoDB,Mongoc.jl,https://github.com/felipenoris/Mongoc.jl,"MongoDB bindings (newer) and a wrapper around libbson, for the Julia language."
-DataBase,MongoDB,Mongo.jl,https://github.com/ScottPJones/Mongo.jl,Mongo bindings for the Julia programming language.
-DataBase,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bindings for the Julia programming language.
-DataBase,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
-DataBase,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
-DataBase,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
-DataBase,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
-DataBase,MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
-DataBase,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
-DataBase,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
-DataBase,PostgreSQL,DBI.jl,https://github.com/swt30/DBI.jl,Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
-DataBase,PostgreSQL,libpq.jl,https://github.com/iamed2/libpq.jl,A libpq interface for Julia.
-DataBase,PostgreSQL,LibPQ.jl,https://github.com/invenia/LibPQ.jl,A Julia wrapper for the PostgreSQL libpq C library.
-DataBase,PostgreSQL,PostgreSQL.jl,https://github.com/swt30/PostgreSQL.jl,"An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl)."
-DataBase,PostgreSQL,Postgres.jl,https://github.com/NCarson/Postgres.jl,Postgres database interface for the Julia language. {Tag: Unmaintained}
-DataBase,SQLite,DBDSQLite.jl,https://github.com/JuliaDatabases/DBDSQLite.jl,DBI-compliant driver for SQLite3.
-DataBase,SQLite,SQLite.jl,https://github.com/JuliaDatabases/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
-DataBase,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/,
+DataManagement,[ResearchDataManagement](#research-data-management),REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
+Database,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
+Database,API,Tables.jl,https://github.com/JuliaData/Tables.jl,An interface for tables in Julia.
+Database,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
+Database,API,DBI.jl,https://github.com/johnmyleswhite/DBI.jl,An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
+Database,API,DBPerf.jl,https://github.com/JuliaDatabases/DBPerf.jl,The code repository that benchmarks all the Julia Database Drivers / Wrappers.
+Database,API,LevelDB.jl,https://github.com/jerryzhenleicai/LevelDB.jl,Julia interface to Google's LevelDB key value database.
+Database,API,Memcache.jl,https://github.com/tanmaykm/Memcache.jl,Julia memcached client.
+Database,API,JDBC.jl,https://github.com/JuliaDatabases/JDBC.jl,Julia interface to Java database drivers.
+Database,API,ODBC.jl,https://github.com/quinnj/ODBC.jl,A low-level ODBC interface for the Julia programming language.
+Database,API,Tabular Data I/O in Julia,http://randyzwitch.com/julia-import-data/,
+Database,API,ViewDBI.jl,https://github.com/kmsquire/ViewDBI.jl,View-based DBI for Julia.
+Database,In-MemoryStorage,DataFrames.jl,https://github.com/JuliaData/DataFrames.jl,Library for working with tabular data in Julia.
+Database,In-MemoryStorage,IndexedTables.jl,https://github.com/JuliaComputing/IndexedTables.jl,Tabular data structures where some of the columns form a sorted index.
+Database,In-MemoryStorage,Pandas.jl,https://github.com/malmaud/Pandas.jl,A Julia front-end to Python's Pandas package.
+Database,In-MemoryStorage,DataFramesMeta.jl,https://github.com/JuliaStats/DataFramesMeta.jl,Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
+Database,In-MemoryStorage,FastGroupBy.jl,https://github.com/xiaodaigh/FastGroupBy.jl,Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
+Database,[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)Storage,Accumulo.jl,https://github.com/JuliaDB/Accumulo.jl,Apache Accumulo client.
+Database,SciDB,SciDB-Julia,https://github.com/Paradigm4/SciDB-Julia,The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
+Database,SciDB,TAQ,https://github.com/Paradigm4/TAQ,Example SciDB queries for finance trade and quote data.
+Database,ENGINES,kyotocabinet.jl,https://github.com/tuzzeg/kyotocabinet.jl,Implementation of Kyoto Cabinet in Julia language.
+Database,GraphDB,Neo4j.jl,https://github.com/glesica/Neo4j.jl,Messing around with building a Neo4j driver for Julia.
+Database,HDF,EasyData.jl,https://github.com/ma-laforge/EasyData.jl,Simple/Fast(+HDF5) solution to writing datasets & plots to file.
+Database,NOSQL,CQLdriver.jl,https://github.com/r3tex/CQLdriver.jl,A Julia package for interfacing with CQL compliant databases.
+Database,NOSQL,DataKnots.jl,https://github.com/rbt-lang/DataKnots.jl,"A Julia library for representing and querying data, including nested and circular structures. It provides integration and analytics across CSV, JSON, XML and SQL data sources with an extensible, practical and coherent algebra of query combinators."
+Database,LMDB,LMDB.jl,https://github.com/wildart/LMDB.jl,A Julia wrapper interface to [Lightning Memory-Mapped Database](http://symas.com/mdb/) (LMDB) key-value embedded data store developed by Symas for the OpenLDAP Project.
+Database,MongoDB,Mongoc.jl,https://github.com/felipenoris/Mongoc.jl,"MongoDB bindings (newer) and a wrapper around libbson, for the Julia language."
+Database,MongoDB,Mongo.jl,https://github.com/ScottPJones/Mongo.jl,Mongo bindings for the Julia programming language.
+Database,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bindings for the Julia programming language.
+Database,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
+Database,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
+Database,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
+Database,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
+Database,MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
+Database,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
+Database,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
+Database,PostgreSQL,DBI.jl,https://github.com/swt30/DBI.jl,Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
+Database,PostgreSQL,libpq.jl,https://github.com/iamed2/libpq.jl,A libpq interface for Julia.
+Database,PostgreSQL,LibPQ.jl,https://github.com/invenia/LibPQ.jl,A Julia wrapper for the PostgreSQL libpq C library.
+Database,PostgreSQL,PostgreSQL.jl,https://github.com/swt30/PostgreSQL.jl,"An interface to PostgreSQL from Julia, [maintained from an older fork](https://github.com/JuliaDatabases/PostgreSQL.jl)."
+Database,PostgreSQL,Postgres.jl,https://github.com/NCarson/Postgres.jl,Postgres database interface for the Julia language. {Tag: Unmaintained}
+Database,SQLite,DBDSQLite.jl,https://github.com/JuliaDatabases/DBDSQLite.jl,DBI-compliant driver for SQLite3.
+Database,SQLite,SQLite.jl,https://github.com/JuliaDatabases/SQLite.jl,Julia interface to the SQLite library with support for operations on DataFrames.
+Database,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http://www.johnmyleswhite.com/notebook/2014/09/10/the-lesser-known-normal-forms/,
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),ASTInterpreter2.jl,https://github.com/Keno/ASTInterpreter2.jl,Re-write of ASTInterpreter for julia v0.6+.
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Gallium.jl,https://github.com/Keno/Gallium.jl,The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
@@ -1147,6 +1148,7 @@ Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),AMD.jl,https://github.com/JuliaSmoothOptimizers/AMD.jl,Approximate Minimum Degree Ordering in Julia.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Dopri.jl,https://github.com/helgee/Dopri.jl,A Julia wrapper for the DOPRI5 and DOP853 integrators.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Dierckx.jl,https://github.com/kbarbary/Dierckx.jl ):: A Julia wrapper for the Dierckx Fortran library for spline fitting,
+Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Dualization.jl,https://github.com/guilhermebodin/Dualization.jl,Repository with first implementations of the automatic dualization feature for MathOptInterface.jl
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),EiSCor.jl,https://github.com/andreasnoack/EiSCor.jl,A Julia wrapper of the Fortran library __eiscor__ (Fortran 90 subroutines for structured matrix eigenvalue problems using 2x2 unitary matrices) for efficiently solving structured matrix eigenvalue problems using unitary core transformations
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),Expokit.jl,https://github.com/acroy/Expokit.jl,A package that provides Julia implementations of some routines contained in EXPOKIT.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),FastGaussQuadrature.jl,https://github.com/ajt60gaibb/FastGaussQuadrature.jl,A Julia package to compute n-point Gauss quadrature nodes and weights to 16-digit accuracy and in O(n) time.
@@ -1647,6 +1649,7 @@ Resources,NEWS,Julia page at Wikipedia,https://en.wikipedia.org/wiki/Julia_%28pr
 Resources,NEWS,Reddit,http://www.reddit.com/r/Julia/,
 Resources,NEWS,Stackoverflow,http://stackoverflow.com/questions/tagged/julia-lang,
 Resources,NEWS,Julialang news on Twitter,https://twitter.com/julialang_news,
+Resources,InterestingblogsonJulia-(varioustopics).,WN article: An introduction to the Julia language - [Part 1,https://lwn.net/Articles/763626/),
 Resources,InterestingblogsonJulia-(varioustopics).,Why 1-based indexing is *OK*,https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok,
 Resources,InterestingblogsonJulia-(varioustopics).,hris Rackauckas [blog posts on Julia,http://www.stochasticlifestyle.com/),
 Resources,InterestingblogsonJulia-(varioustopics).,Writing good Julia functions,http://doodlingindata.com/2015/08/11/writing-good-julia-functions/,
@@ -2311,6 +2314,7 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Heptapus.jl,https://github.com/lcw/Heptapus.jl,The roofline function is a translation of the roofline code from https://github.com/paranumal/libparanumal/.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),hwloc.jl,https://github.com/JuliaParallel/hwloc.jl,"The Portable Hardware Locality (hwloc) package wraps the hwloc library to provide a portable abstraction (across OS, versions, architectures, ...) of the hierarchical topology of modern architectures, including NUMA memory nodes, sockets, shared caches, cores and simultaneous multithreading."
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MessageUtils.jl,https://github.com/JuliaParallel/MessageUtils.jl,A collection of utilities for messaging.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),MPI.jl,https://github.com/JuliaParallel/MPI.jl,A basic Julia wrapper for the portable message passing system Message Passing Interface (MPI).

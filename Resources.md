@@ -44,6 +44,7 @@ __NEWS from social networking communities, QA sites and Twitter.__
 + [Julialang news on Twitter](https://twitter.com/julialang_news)
 
 ### Interesting blogs on Julia - (various topics).
++ LWN article: An introduction to the Julia language - [Part 1](https://lwn.net/Articles/763626/).
 + [Why 1-based indexing is *OK*](https://craftofcoding.wordpress.com/2017/03/12/why-1-based-indexing-is-ok/
 + [Why becoming a data scientist is NOT actually easier than you think](https://medium.com/cs-math/5b65b548069b), and the [HN thread](https://news.ycombinator.com/item?id=4658391).+ Understanding object oriented programming in julia - [Part-1](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-part-1) and [Part-2](https://thenewphalls.wordpress.com/2014/03/06/understanding-object-oriented-programming-in-julia-inheritance-part-2/) and later another post on [Revisiting emulated OOP behaviour and multiple dispatch in Julia](https://thenewphalls.wordpress.com/2014/06/02/revisiting-emulated-oop-behaviour-and-multiple-dispatch-in-julia/).
 + Chris Rackauckas [blog posts on Julia](http://www.stochasticlifestyle.com/).

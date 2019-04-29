@@ -25,7 +25,8 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [DesktopApplications.md](https://github.com/svaksha/Julia.jl/blob/master/DesktopApplications.md) :: Front-end client application software, viz. Debuggers, Documentation generators, Desktop User Interface for word processors, GUI spreadsheets, etc.. 
 + [DevOps.md](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) :: DevOps tools for infrastructure management, continuous integration (CI), continuous delivery (CD), package management, release engineering (RE), release management (RM), software configuration management (SCM), Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools, et al..
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
-+ [DataBase.md](https://github.com/svaksha/Julia.jl/blob/master/DataBase.md) :: NoSQL, RDBMS and Middleware API's.
++ [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
++ [DataManagement.md](https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md) :: Data Management tools for research data management, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [FileIO.md](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
 + [Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.

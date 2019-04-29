@@ -24,7 +24,6 @@
 + [MACHINE LEARNING](#machine-learning)
 + [MATH](#math)
 + [PHYSICS](#physics)
-+ [Reproducibility](#reproducibility)
 + [VIDEO](#video)
 
 

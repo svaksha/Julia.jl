@@ -212,6 +212,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [AMD.jl](https://github.com/JuliaSmoothOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
 + [Dopri.jl](https://github.com/helgee/Dopri.jl) :: A Julia wrapper for the DOPRI5 and DOP853 integrators.
 + [Dierckx.jl](https://github.com/kbarbary/Dierckx.jl ):: A Julia wrapper for the Dierckx Fortran library for spline fitting.
++ [Dualization.jl](https://github.com/guilhermebodin/Dualization.jl) :: Repository with first implementations of the automatic dualization feature for MathOptInterface.jl
 + [EiSCor.jl](https://github.com/andreasnoack/EiSCor.jl) :: A Julia wrapper of the Fortran library __eiscor__ (Fortran 90 subroutines for structured matrix eigenvalue problems using 2x2 unitary matrices) for efficiently solving structured matrix eigenvalue problems using unitary core transformations 
 + [Expokit.jl](https://github.com/acroy/Expokit.jl) :: A package that provides Julia implementations of some routines contained in EXPOKIT.
 + [FastGaussQuadrature.jl](https://github.com/ajt60gaibb/FastGaussQuadrature.jl) :: A Julia package to compute n-point Gauss quadrature nodes and weights to 16-digit accuracy and in O(n) time.

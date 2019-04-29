@@ -143,3 +143,4 @@ __NotaBene__:: Some resources and teaching aids listed here are not Julia langua
 + Ian Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio](http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions).
 + [Ubiquitous Genomics](http://ubiquitousgenomics.teamerlich.org) :: COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
 
+
