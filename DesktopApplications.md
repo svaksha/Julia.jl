@@ -21,6 +21,7 @@ The collective noun [application software](https://en.wikipedia.org/wiki/Applica
 + [ASTInterpreter2.jl](https://github.com/Keno/ASTInterpreter2.jl) :: Re-write of ASTInterpreter for julia v0.6+.
 + [Gallium.jl](https://github.com/Keno/Gallium.jl) :: The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 + [DebuggingUtilities.jl](https://github.com/timholy/DebuggingUtilities.jl) :: Simple utilities for debugging julia code.
++ [Rebugger.jl](https://github.com/timholy/Rebugger.jl) :: An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks (see Gallium), but it can trace execution via the manipulation of Julia expressions.
 + [RR.jl](https://github.com/Keno/RR.jl) :: Julia interface to mozilla's `rr`.
 + [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) ::  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 + [Traceur.jl](https://github.com/MikeInnes/Traceur.jl).

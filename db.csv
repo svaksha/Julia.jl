@@ -286,6 +286,7 @@ Biology,GENOMICS,FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilitie
 Biology,GENOMICS,FusionDirect.jl,https://github.com/OpenGene/FusionDirect.jl,Detect gene fusion directly from raw fastq files.
 Biology,GENOMICS,GenomeAnnotations.jl,https://github.com/nw11/GenomeAnnotations.jl,Manage Local Genome Annotation files.
 Biology,GENOMICS,GenomicTiles.jl,https://github.com/nw11/GenomicTiles.jl,
+Biology,GENOMICS,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
 Biology,GENOMICS,gtf-parse-off,https://github.com/dcjones/gtf-parse-off,Experiments with parsing gene transfer format (GTF).
 Biology,GENOMICS,HTSLIB.jl,https://github.com/OpenGene/HTSLIB.jl,A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 Biology,GENOMICS,HyperNEAT.jl,https://github.com/kzahedi/HyperNEAT.jl,A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
@@ -338,7 +339,6 @@ Biology,Resources-Teaching,course_EMBO_at_TGAC_PPI_Sep2015,https://github.com/ai
 Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio,http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions),
 Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
 Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
-Chemistry,Chemistry,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
 Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Chemistry,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,Chemistry,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
@@ -401,6 +401,7 @@ Database,RESOURCES,log on [The Lesser Known Normal Forms of Database Design,http
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),ASTInterpreter2.jl,https://github.com/Keno/ASTInterpreter2.jl,Re-write of ASTInterpreter for julia v0.6+.
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Gallium.jl,https://github.com/Keno/Gallium.jl,The Julia debugger for CPP. Demo [video](https://youtu.be/Kv6TO_gm2yw).
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),DebuggingUtilities.jl,https://github.com/timholy/DebuggingUtilities.jl,Simple utilities for debugging julia code.
+DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Rebugger.jl,https://github.com/timholy/Rebugger.jl,"An expression-level debugger for Julia, sans the ability to interact with or manipulate call stacks (see Gallium), but it can trace execution via the manipulation of Julia expressions."
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Suppressor.jl,https://github.com/Ismael-VC/Suppressor.jl," Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time."
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Traceur.jl,https://github.com/MikeInnes/Traceur.jl),
@@ -2167,6 +2168,7 @@ Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMC2.jl,https://github.com/johnmyleswhite/MCMC2.jl,Alternative MCMC package design demo.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMCExampleRepository.jl,https://github.com/goedman/MCMCExampleRepository.jl,Repository for MCMC Julia examples.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMCModels.jl,https://github.com/scidom/MCMCModels.jl,Scratch space for hosting temporarily current model specification for MCMC inference.
+Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,"An implementation of the recombinator-k-means method described in the paper ""Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs"" by C. Baldassi ""A method to reduce the rejection rate in Monte Carlo Markov Chains"" by C. Baldassi, submitted for publication, (2019) (arXiv)."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,SimpleMCMC.jl,https://github.com/fredo-dedup/SimpleMCMC.jl,Small framework for MCMC sampling and maximization on user-defined models.
 Statistics,[MultivariateStatistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),CrossDecomposition.jl,https://github.com/simonster/CrossDecomposition.jl,Canonical-Correlation Analysis (CCA).
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),FeatureExtraction.jl,https://github.com/trthatcher/FeatureExtraction.jl,Data pre-processing algorithms.

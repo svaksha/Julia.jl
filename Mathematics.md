@@ -504,6 +504,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
 + [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
 + [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) :: Viterbi algorithm.
+* [Infinity.jl](https://github.com/cjdoris/Infinity.jl) :: Representation of infinity in Julia.
 + [Intervals.jl](https://github.com/andrioni/Intervals.jl) :: A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library.
 + [IntModN.jl](https://github.com/andrewcooke/IntModN.jl) :: Ring(s) of Integers Modulo-N.
 + [IntsWithInfinty.jl](https://github.com/Jeffrey-Sarnoff/IntsWithInfinty.jl) :: Ints augmented with Infinity.

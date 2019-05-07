@@ -391,6 +391,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [MCMC2.jl](https://github.com/johnmyleswhite/MCMC2.jl) :: Alternative MCMC package design demo.
 + [MCMCExampleRepository.jl](https://github.com/goedman/MCMCExampleRepository.jl) :: Repository for MCMC Julia examples.
 + [MCMCModels.jl](https://github.com/scidom/MCMCModels.jl) :: Scratch space for hosting temporarily current model specification for MCMC inference.
++ [RecombinatorKMeans.jl](https://github.com/carlobaldassi/RecombinatorKMeans.jl) :: An implementation of the recombinator-k-means method described in the paper "Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs" by C. Baldassi "A method to reduce the rejection rate in Monte Carlo Markov Chains" by C. Baldassi, submitted for publication, (2019) (arXiv).
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
 
 
