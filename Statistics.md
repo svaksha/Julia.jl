@@ -126,20 +126,20 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [AmplNLWriter.jl](https://github.com/JackDunnNZ/AmplNLWriter.jl) ::  Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 + [AutomotiveDrivingModels.jl](https://github.com/tawheeler/AutomotiveDrivingModels.jl) :: For car encounter models.
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
-+ [BilinearJuMP.jl](https://github.com/IainNZ/BilinearJuMP.jl) :: A JuMP extension for bilinear optimization problems. 
++ [BilinearJuMP.jl](https://github.com/IainNZ/BilinearJuMP.jl) :: A JuMP extension for bilinear optimization problems.
 + [BlackBoxOptim.jl](https://github.com/robertfeldt/BlackBoxOptim.jl) :: An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc).
 + [BLOM.jl](https://github.com/tkelman/BLOM.jl) :: A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
 + [Caching.jl](https://github.com/zgornel/Caching.jl) :: Memoization mechanism.
-+ [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers. 
++ [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
 + [Cbc.jl](https://github.com/JuliaOpt/Cbc.jl) :: Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
 + [Clp.jl](https://github.com/JuliaOpt/Clp.jl) :: Interface to the Coin-OR Linear Programming solver (CLP)
 + [CPLEX.jl](https://github.com/JuliaOpt/CPLEX.jl) :: The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
-+ [CSDP.jl](https://github.com/JuliaOpt/CSDP.jl) :: Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver. 
++ [CSDP.jl](https://github.com/JuliaOpt/CSDP.jl) :: Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver.
 + [CoinOptServices.jl](https://github.com/JuliaOpt/CoinOptServices.jl) ::  Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK.
 + [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) :: Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo.
 + [DDUS.jl](https://github.com/vgupta1/DDUS.jl) :: Data-driven Uncertainty Sets for the JuMPeR framework.
-+ [DReal.jl](https://github.com/zenna/DReal.jl) :: A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver. 
++ [DReal.jl](https://github.com/zenna/DReal.jl) :: A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
 + [ECOS.jl](https://github.com/JuliaOpt/ECOS.jl) :: Julia wrapper for the ECOS conic optimization solver.
 + [EAGO.jl](https://github.com/MatthewStuber/EAGO.jl) :: A development environment for robust and global optimization.
 + [EAGODomainReduction.jl](https://github.com/MatthewStuber/EAGODomainReduction.jl) :: Domain Reduction Procedures in Global Optimization.
@@ -170,16 +170,16 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [Mayday.jl](https://github.com/rdeits/Mayday.jl) :: Sums-of-Squares optimization in Julia, powered by JuMP
 + [Memoize.jl](https://github.com/simonster/Memoize.jl) :: Easy memoization for Julia.
 + [MOpt.jl](https://github.com/floswald/MOpt.jl) :: Parallel derivative-free Moment Optimization for Julia.
-+ [Munkres.jl](https://github.com/FugroRoames/Munkres.jl) :: Munkres algorithm for the optimal assignment problem. 
++ [Munkres.jl](https://github.com/FugroRoames/Munkres.jl) :: Munkres algorithm for the optimal assignment problem.
 + [NEOS.jl](https://github.com/odow/NEOS.jl) :: A Julia interface for the NEOS Optimisation Server.
-+ [NewOptimizer.jl](https://github.com/Keno/NewOptimizer.jl) :: WIP for new optimizer for julia base. 
++ [NewOptimizer.jl](https://github.com/Keno/NewOptimizer.jl) :: WIP for new optimizer for julia base.
 + [NLTester](https://github.com/IainNZ/NLTester) :: Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.
 + [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) :: Package to call the NLopt nonlinear-optimization library from the Julia language.
 + [NLP.jl](https://github.com/JuliaSmoothOptimizers/NLP.jl) :: A Data Structure for Optimization Problems in Julia.
 + [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
 + [NODAL.jl](https://github.com/phrb/NODAL.jl) :: is an Open Distributed Autotuning Library in Julia.
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
-+ [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions. 
++ [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions.
 + [pikaia.jl](https://github.com/tmeits/pikaia.jl) :: Genetic Algorithms (GA's).
 + [PolyJuMP](https://github.com/JuliaOpt/PolyJuMP.jl) :: A JuMP extension for Polynomial Optimization.
 + [Polyopt.jl](https://github.com/MOSEK/Polyopt.jl) :: Julia package for polynomial optimization using semidefinite programming, with some [presentation notebooks](https://github.com/MOSEK/Polyopt.jl/tree/master/notebooks) of an optimization package.
@@ -228,7 +228,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 ## [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis)
 + [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
 + [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
-+ [FirthRegression.jl](https://github.com/simonster/FirthRegression.jl) :: Firth penalized logistic/Poisson regression. 
++ [FirthRegression.jl](https://github.com/simonster/FirthRegression.jl) :: Firth penalized logistic/Poisson regression.
 + [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects.
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
 + [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM) and generalized linear models (GLM).
@@ -330,7 +330,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 
 
 ### Probabilistic Programming
-+ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia. 
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.
 + [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
 + [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
 + [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
@@ -367,7 +367,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [MCBN.jl](https://github.com/binarybana/MCBN.jl) :: Monte Carlo Bayesian averaging over Bayesian networks.
 + [MiniNest.jl](https://github.com/iamed2/MiniNest.jl) :: Julia implementation of nested sampling examples.
 + [NestedSampling.jl](https://github.com/kbarbary/NestedSampling.jl) :: Nested Sampling algorithms for Julia.
-+ [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia. 
++ [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia.
 + [PSIS.jl](https://github.com/alvaro1101/PSIS.jl) :: Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 + [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
@@ -391,6 +391,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [MCMC2.jl](https://github.com/johnmyleswhite/MCMC2.jl) :: Alternative MCMC package design demo.
 + [MCMCExampleRepository.jl](https://github.com/goedman/MCMCExampleRepository.jl) :: Repository for MCMC Julia examples.
 + [MCMCModels.jl](https://github.com/scidom/MCMCModels.jl) :: Scratch space for hosting temporarily current model specification for MCMC inference.
++ [MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) :: Uncertainty propagation by Monte-Carlo sampling: Real numbers with uncertainty represented by particle clouds.
 + [RecombinatorKMeans.jl](https://github.com/carlobaldassi/RecombinatorKMeans.jl) :: An implementation of the recombinator-k-means method described in the paper "Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs" by C. Baldassi "A method to reduce the rejection rate in Monte Carlo Markov Chains" by C. Baldassi, submitted for publication, (2019) (arXiv).
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
 
@@ -403,7 +404,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
 
 
-## Sampling 
+## Sampling
 + [GeneralizedSampling.jl](https://github.com/robertdj/GeneralizedSampling.jl) :: Generalized Sampling in Julia
 + [Jackknife.jl](https://github.com/ararslan/Jackknife.jl) :: [Jackknife resampling](https://en.wikipedia.org/wiki/Jackknife_resampling) and estimation in Julia.
 + [JAGS.jl](https://github.com/olofsen/JAGS.jl) :: A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler.
@@ -417,14 +418,16 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 
 ## [TimeSeries](https://en.wikipedia.org/wiki/Time_series) Analysis
 + [BasisFunctionExpansions.jl](https://github.com/baggepinnen/BasisFunctionExpansions.jl) :: Basis Function Expansions for Julia.
++ [ControlSystemIdentification.jl](https://github.com/baggepinnen/ControlSystemIdentification.jl) :: System Identification for LTI systems, compatible with ControlSystems.jl.
 + [DependentBootstrap](https://github.com/colintbowers/DependentBootstrap.jl) :: A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 + [DFA.jl](https://github.com/afternone/DFA.jl) :: Detrended fluctuation analysis in Julia.
 + [julia_timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
 + [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators that can handle univariate and bivariate data, but only continuous variables.
 + [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The julia package for nonparametric density estimate and regression.
 + [KernelStat](https://github.com/colintbowers/KernelStat.jl) :: A module for the Julia language for kernel-function based statistics.
++ [LPVSpectral.jl](https://github.com/baggepinnen/LPVSpectral.jl) :: Least-squares (sparse) spectral estimation and (sparse) LPV spectral decomposition.
 + [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
-+ [PerronFrobenius.jl](https://github.com/kahaaga/PerronFrobenius.jl) :: Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series. 
++ [PerronFrobenius.jl](https://github.com/kahaaga/PerronFrobenius.jl) :: Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series.
 + [RARIMA](https://github.com/colintbowers/RARIMA.jl) :: An ARIMA (Autoregressive Integrated Moving Average) module for the Julia language that uses libraries from the R-language.
 + [SmoothingKernels.jl](https://github.com/johnmyleswhite/SmoothingKernels.jl) :: Smoothing kernels for use in kernel regression and kernel density estimation.
 + [Temporal.jl](https://github.com/dysonance/Temporal.jl) :: Flexible and efficient time series class & methods for the Julia language.
@@ -438,7 +441,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 # [STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process)
 + [CTMCEnsemble.jl](https://github.com/innerlee/CTMCEnsemble.jl) :: Integrating Specialized Classifiers Based on Continuous Time Markov Chain.
 + [DESPOT.jl](https://github.com/JuliaPOMDP/DESPOT.jl] :: Package implementing DESPOT POMDP solver for [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl).
-+ [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) :: The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics. 
++ [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) :: The package implements the FRBNY DSGE model and provides general code to estimate many user-specified DSGE models with a [blog post](http://libertystreeteconomics.newyorkfed.org/2015/12/the-frbny-dsge-model-meets-julia.html) to announce the release. [Dynamic stochastic general equilibrium](https://en.wikipedia.org/wiki/Dynamic_stochastic_general_equilibrium) modeling (abbreviated as DSGE, SDGE or DGE) is a branch of applied general equilibrium theory that is influential in contemporary macroeconomics.
 + [DSPsolver.jl](https://github.com/Argonne-National-Laboratory/DSPsolver.jl) :: This package provides an interface for using an open-source software package DSP for solving stochastic mixed-integer programming problems from the Julia language.
 + [HJBFiniteDifference.jl](https://github.com/matthieugomez/HJBFiniteDifference.jl) :: Solve HJB equations through finite difference schemes.
 + [JuMPStoch.jl](https://github.com/joehuchette/JuMPStoch.jl) :: A stochastic optimization framework for JuMP.
