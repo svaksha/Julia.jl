@@ -265,6 +265,7 @@ Biology,BIOINFORMATICS,Crispulator.jl,https://github.com/tlnagy/Crispulator.jl,A
 Biology,BIOINFORMATICS,Bioinformatics.jl,https://github.com/mrtkp9993/Bioinformatics.jl,Helper functions for bioinformatics and rosalind.info problems.
 Biology,BIOINFORMATICS,NormalizeQuantiles.jl,https://github.com/oheil/NormalizeQuantiles.jl,implements quantile normalization
 Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
+Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),OrbitTomography.jl,https://github.com/lstagner/OrbitTomography.jl),
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,"Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0."
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,"Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures."
@@ -304,7 +305,6 @@ Biology,GENOMICS,PlmDCA,https://github.com/pagnani/PlmDCA,Pseudo Likelihood Maxi
 Biology,GENOMICS,ProgressiveAligner.jl,https://github.com/latticetower/ProgressiveAligner.jl,Progressive alignment scripts for protein sequences.
 Biology,GENOMICS,PseudoGenomes.jl,https://github.com/nw11/PseudoGenomes.jl,Read alleles without a VCF parser.
 Biology,GENOMICS,PureSeq.jl,https://github.com/slundberg/PureSeq.jl,Code for the Pure-seq project.
-Biology,GENOMICS,SeqUtils.jl,https://github.com/nlhepler/SeqUtils.jl,Seqencing analysis Utilities for Julia.
 Biology,GENOMICS,seqhax.jl,https://github.com/kdmurray91/seqhax.jl,yet another NGS command.
 Biology,GENOMICS,SpeedDate.jl,https://github.com/Ward9250/SpeedDate.jl,A simple tool for the estimation of coalescence times between sequences.
 Biology,GENOMICS,TimeTrees.jl,https://github.com/tgvaughan/TimeTrees.jl,Phylogenetic tree type for julia.
@@ -2170,6 +2170,7 @@ Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMCModels.jl,https://github.com/scidom/MCMCModels.jl,Scratch space for hosting temporarily current model specification for MCMC inference.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,"An implementation of the recombinator-k-means method described in the paper ""Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs"" by C. Baldassi ""A method to reduce the rejection rate in Monte Carlo Markov Chains"" by C. Baldassi, submitted for publication, (2019) (arXiv)."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,SimpleMCMC.jl,https://github.com/fredo-dedup/SimpleMCMC.jl,Small framework for MCMC sampling and maximization on user-defined models.
+Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl,Numerical stabilization routines for determinant quantum Monte Carlo.
 Statistics,[MultivariateStatistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),CrossDecomposition.jl,https://github.com/simonster/CrossDecomposition.jl,Canonical-Correlation Analysis (CCA).
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),FeatureExtraction.jl,https://github.com/trthatcher/FeatureExtraction.jl,Data pre-processing algorithms.
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),MultivariateAnalysis.jl,https://github.com/lindahua/MultivariateAnalysis.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).

@@ -1,7 +1,7 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOINFORMATICS](#bioinformatics)
-+ [BIOMEDICINE(#biomedicine)
++ [BIOMEDICINE](#biomedicine)
 + [BIOSTATISTICS](#bioinformatics)
 + [ECOLOGY](#ecology)
    + [Agronomy](#agronomy)
@@ -37,7 +37,8 @@
 # [BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine)
 + [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 + Link to Clinical research data management: https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md
-
++ [OrbitTomography.jl](https://github.com/lstagner/OrbitTomography.jl).
+    
 ----
 
 # BIOSTATISTICS
@@ -94,7 +95,6 @@
 + [ProgressiveAligner.jl](https://github.com/latticetower/ProgressiveAligner.jl) :: Progressive alignment scripts for protein sequences.
 + [PseudoGenomes.jl](https://github.com/nw11/PseudoGenomes.jl) :: Read alleles without a VCF parser.
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
-+ [SeqUtils.jl](https://github.com/nlhepler/SeqUtils.jl) :: Seqencing analysis Utilities for Julia.
 + [seqhax.jl](https://github.com/kdmurray91/seqhax.jl) :: yet another NGS command.
 + [SpeedDate.jl](https://github.com/Ward9250/SpeedDate.jl) :: A simple tool for the estimation of coalescence times between sequences.
 + [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
