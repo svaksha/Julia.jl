@@ -1,7 +1,7 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
 + [BIOINFORMATICS](#bioinformatics)
-+ [BIOMEDICINE(#biomedicine)
++ [BIOMEDICINE](#biomedicine)
 + [BIOSTATISTICS](#bioinformatics)
 + [ECOLOGY](#ecology)
    + [Agronomy](#agronomy)
