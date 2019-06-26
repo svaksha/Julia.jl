@@ -167,7 +167,7 @@
 + [Sexpr.jl](https://github.com/vshesh/Sexpr.jl) :: A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
 + [ShortStrings.jl](https://github.com/xiaodaigh/ShortStrings.jl) :: A fast and efficient string format implementation for storing strings of size less than 15 bytes.
 + [SimpleStructs.jl](https://github.com/pluskid/SimpleStructs.jl) :: Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors.
-+ [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl] :: String Distances in Julia.
++ [StringDistances.jl](https://github.com/matthieugomez/StringDistances.jl) :: String Distances in Julia.
 + [StringLiterals.jl](https://github.com/JuliaString/StringLiterals.jl) :: Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities. 
 + [StringUtils.jl](https://github.com/ScottPJones/StringUtils.jl) :: String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc.
 + [TexExtensions.jl](https://github.com/Keno/TexExtensions.jl) :: Tex Pretty printing of Julia Base types.
@@ -175,7 +175,7 @@
 + [Units.jl](https://github.com/timholy/Units.jl) :: Infrastructure for handling physical units for the Julia programming language.
 + [Unitful.jl](https://github.com/ajkeller34/Unitful.jl) :: A Julia package for physical units.
 + [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) :: flexible VersionNumber parsing in Julia.
-+ [WeakRefStrings.jl](https://github.com/quinnj/WeakRefStrings.jl] :: a minimal String type for Julia that allows for efficient string representation and transfer.
++ [WeakRefStrings.jl](https://github.com/quinnj/WeakRefStrings.jl) :: a minimal String type for Julia that allows for efficient string representation and transfer.
 + [YAML.jl](https://github.com/dcjones/YAML.jl) :: A flexible data serialization format that is designed to be easily read and written by human beings.
 
 

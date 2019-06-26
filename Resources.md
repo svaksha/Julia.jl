@@ -282,6 +282,7 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 
 
 # JUPYTER NOTEBOOKS
++ [Learning Julia Workshop](https://github.com/kescobo/intro_julia) for the Harvard Big Data Club.
 + JuliaCon-2015 ::
    + [juliacon15](https://github.com/aviks/juliacon15) :: Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc.	
    + [JuliaCon-2015](https://github.com/JuliaOpt/JuliaCon-2015) :: Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
@@ -334,6 +335,7 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 ----
 
 # TUTORIALS
++ [JuliaAcademyData.jl](https://github.com/JuliaComputing/JuliaAcademyData.jl) :: Supplementary materials for Julia Academy courses.
 + Juliacon-2017 :: [RoboticsJuliaCon2017.jl](https://github.com/tkoolen/RoboticsJuliaCon2017.jl) :: Code accompanying JuliaCon 2017 talk "The Present and Future of Robotics in Julia".
 + Juliacon-2016 :: [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html
 + [algorithms.jl](https://github.com/cfusting/algorithms.jl) :: Algorithms in Julia.
