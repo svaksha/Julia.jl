@@ -9,6 +9,7 @@
 + [GENOMICS](#genomics)
    + [GWAS](#gwas) 
    + [Molecular Biology](#molecular-biology)
+        + [DNA Sequencing}(#dna-sequencing)
 + [NEUROSCIENCE](#neuroscience)
 + [Resources-Teaching](#resources-teaching)
 
@@ -120,6 +121,10 @@ __Genome Wide Association Study (GWAS)__
 
 ## Molecular Biology
 + [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) :: A Julia package to fold all local and long-range RNA duplexes.
+
+### [DNA Sequencing](https://en.wikipedia.org/wiki/DNA_sequencing)
+#### [Single-Cell Sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing)
++ [CellFishing.jl ](https://github.com/bicycle1885/CellFishing.jl) :: (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing. 
 
 
 ----

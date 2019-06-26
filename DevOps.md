@@ -190,6 +190,10 @@ __Package/Infrastructure management tools and Documentation__
 + [JDock](https://github.com/amitmurthy/JDock) :: An IJulia sandboxed by Docker containers.
 + [Playground.jl](https://github.com/Rory-Finnegan/Playground.jl) :: A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments.
 
+## [Shell Scripting](https://en.wikipedia.org/wiki/Shell_script)
++ [Shell Scripting](https://github.com/ninjaaron/administrative-scripting-with-julia) :: A guide for writing shell scripts in Julia.
+
+
 ----
 
 # TDD
