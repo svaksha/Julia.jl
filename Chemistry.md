@@ -20,6 +20,8 @@
 ----
 
 # Computational Chemistry 
++ [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
+
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 + [JuLIP.jl](https://github.com/libAtoms/JuLIP.jl) :: Julia Library for Interatomic Potentials.
 

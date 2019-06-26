@@ -342,6 +342,7 @@ Chemistry,Chemistry,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Jul
 Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Chemistry,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,Chemistry,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
+Chemistry,ComputationalChemistry,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),JuLIP.jl,https://github.com/libAtoms/JuLIP.jl,Julia Library for Interatomic Potentials.
 Chemistry,MaterialScience,BucklingOfPipes.jl,https://github.com/goedman/BucklingOfPipes.jl,"This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes."
 Chemistry,MaterialScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
@@ -1678,6 +1679,7 @@ Resources,BOOKS,Learn Julia the Hard Way,https://github.com/chrisvoncsefalvay/le
 Resources,BOOKS,rends in Bayesian Methodology:: [Source code for _Hamiltonian Methods and Zero Variance Principle_ chapter of _Trends in Bayesian Methodology_,https://github.com/scidom/hmc_and_zv_book_chapter.jl) book,
 Resources,BOOKS,List of free programming books,https://github.com/vhf/free-programming-books,
 Resources,BOOKS,List of free software testing books,https://github.com/ligurio/free-software-testing-books,
+Resources,CHEATSHEETS,ulia [v1.0 Cheat Sheet,https://juliadocs.github.io/Julia-Cheat-Sheet/),
 Resources,CHEATSHEETS,Julia-cheatsheet.pdf,http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf,StevenJ's Julia cheatsheet.
 Resources,CHEATSHEETS, [Julia Types,https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay,
 Resources,CHEATSHEETS,Julia cheatsheet,http://bogumilkaminski.pl/files/julia_express.pdf) by Bogumil Kaminski,
@@ -2170,7 +2172,7 @@ Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMCModels.jl,https://github.com/scidom/MCMCModels.jl,Scratch space for hosting temporarily current model specification for MCMC inference.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,"An implementation of the recombinator-k-means method described in the paper ""Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs"" by C. Baldassi ""A method to reduce the rejection rate in Monte Carlo Markov Chains"" by C. Baldassi, submitted for publication, (2019) (arXiv)."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,SimpleMCMC.jl,https://github.com/fredo-dedup/SimpleMCMC.jl,Small framework for MCMC sampling and maximization on user-defined models.
-Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl,Numerical stabilization routines for determinant quantum Monte Carlo.
+Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl                   ,Numerical stabilization routines for determinant quantum Monte Carlo.
 Statistics,[MultivariateStatistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),CrossDecomposition.jl,https://github.com/simonster/CrossDecomposition.jl,Canonical-Correlation Analysis (CCA).
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),FeatureExtraction.jl,https://github.com/trthatcher/FeatureExtraction.jl,Data pre-processing algorithms.
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),MultivariateAnalysis.jl,https://github.com/lindahua/MultivariateAnalysis.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).

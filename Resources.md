@@ -96,6 +96,7 @@ __NEWS from social networking communities, QA sites and Twitter.__
 ----
 
 # CHEATSHEETS
++ Julia [v1.0 Cheat Sheet](https://juliadocs.github.io/Julia-Cheat-Sheet/).
 + [The Fast Track to Julia](https://dl.dropboxusercontent.com/u/8252984/julia.html), a cheatsheet by Ian Hellström. The source is [available on BB](https://bitbucket.org/hell316/dbline/src/).
 + [Julia-cheatsheet.pdf](http://math.mit.edu/~stevenj/Julia-cheatsheet.pdf) :: StevenJ's Julia cheatsheet.
 + A [Julia Types](https://github.com/tanmaykm/julia_types) cheatsheet by Tanmay.
