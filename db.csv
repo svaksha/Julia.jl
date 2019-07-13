@@ -320,6 +320,7 @@ Biology,GWAS,VarianceComponentTest.jl,https://github.com/Tao-Hu/VarianceComponen
 Biology,Resources,ikipedia's [list of RNA-Seq bioinformatics tools,"http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API",
 Biology,Resources,Data Analysis for Genomics,https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia,
 Biology,MolecularBiology,EvoDuplexes.jl,https://github.com/timbitz/EvoDuplexes.jl,A Julia package to fold all local and long-range RNA duplexes.
+Biology,[Single-CellSequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing),CellFishing.jl ,https://github.com/bicycle1885/CellFishing.jl,"(cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing."
 Biology,NEUROSCIENCE,BrainWave.jl,https://github.com/sam81/BrainWave.jl,Julia functions to process electroencephalographic (EEG) recordings.
 Biology,NEUROSCIENCE,CodeNeuro,http://codeneuro.org/,Bringing neuroscience and data science together.
 Biology,NEUROSCIENCE,DCEMRI.jl,https://github.com/davidssmith/DCEMRI.jl,"A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/)."
@@ -564,6 +565,7 @@ DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/pack
 DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 DevOps,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.
 DevOps,Sandbox,Playground.jl,https://github.com/Rory-Finnegan/Playground.jl,"A Julia-lang environment builder (like python's virtualenv) package to create Julia sandboxes, similar to python virtual environments."
+DevOps,[ShellScripting](https://en.wikipedia.org/wiki/Shell_script),Shell Scripting,https://github.com/ninjaaron/administrative-scripting-with-julia,A guide for writing shell scripts in Julia.
 DevOps,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Digger.jl,https://github.com/MikeInnes/Digger.jl,Digger is a fuzz tester designed to fish bugs out of Dagger.jl
 DevOps,[BlackBoxTesting](http://en.wikipedia.org/wiki/Black-box_testing),Fuzz.jl,https://github.com/danluu/Fuzz.jl,A naive fuzzer that can generate bugs.
 DevOps,LOGGING,Log4jl.jl,https://github.com/wildart/Log4jl.jl,A comprehensive and flexible logging framework for Julia programs.
@@ -914,6 +916,7 @@ Graphics,INFOGRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.
 Graphics,INFOGRAPHICS,GLWindow.jl,https://github.com/JuliaGL/GLWindow.jl,Simple package to create an OpenGL window with an OpenGL context.
 Graphics,INFOGRAPHICS,GR,https://github.com/jheinen/gr) framewor,A graphics library for visualisation applications. {{Has Julia routines compatible with the current ver0.4-stable release}}
 Graphics,INFOGRAPHICS,GracePlot.jl,https://github.com/ma-laforge/GracePlot.jl,Publication-quality plotting for julia using Grace/xmgrace.
+Graphics,INFOGRAPHICS,GraphRecipes.jl,https://github.com/JuliaPlots/GraphRecipes.jl):: Graph-related recipes to be used with Plots.jl,
 Graphics,INFOGRAPHICS,GraphCentrality.jl,https://github.com/sbromberger/GraphCentrality.jl,"All centrality measures relating to graphs for degree (with indegree and outdegree), betweenness, and closeness centrality measures."
 Graphics,INFOGRAPHICS,GraphPlot.jl,https://github.com/afternone/GraphPlot.jl,Graph visualization for Julia.
 Graphics,INFOGRAPHICS,GraphVisualize.jl,https://github.com/JuliaGraphs/GraphVisualize.jl,Graph visualization with tight integration with LightGraphs.jl package.
@@ -1189,6 +1192,7 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LDA.jl,https://github.com/remusao/LDA.jl,Linear Discriminant Analysis and Kernel Fisher Analysis.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LLLplus.jl,https://github.com/christianpeel/LLLplus.jl,"LLL lattice reduction, sphere decoder, and related lattice tools."
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),LMCLUS.jl,https://github.com/wildart/LMCLUS.jl,Julia's package for Linear Manifold Clustering.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MKL.jl,https://github.com/JuliaComputing/MKL.jl,is a package that makes Julia's linear algebra use Intel MKL BLAS and LAPACK instead of OpenBLAS. The build step of the package will automatically download Intel MKL and rebuild Julia's system image against Intel MKL.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS,https://github.com/lruthotto/MUMPS,A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS1.jl,https://github.com/dmbates/MUMPS1.jl,An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),NonuniformArray.jl,https://github.com/ReidAtcheson/NonuniformArray.jl,This library handles the case of __array of arrays__ where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
@@ -1737,6 +1741,7 @@ Resources,SouthAmerica-BRAZIL,Campinas,http://www.meetup.com/Campinas-Julia-Lang
 Resources,SouthAmerica-BRAZIL,Rio de Janeiro,http://www.meetup.com/Rio-de-Janeiro-Julia-Meetup/) JUG,
 Resources,SouthAmerica-BRAZIL,Sao Paulo,http://www.meetup.com/Sao-Paulo-Julia-Meetup/) meetup group,
 Resources,[Oceania](https://en.wikipedia.org/wiki/Oceania)-AUSTRALIA,Sydney JUG,http://www.meetup.com/Sydney-Julia-User-Group/,
+Resources,JUPYTERNOTEBOOKS,Learning Julia Workshop,https://github.com/kescobo/intro_julia) for the Harvard Big Data Club,
 Resources,JUPYTERNOTEBOOKS,juliacon15,https://github.com/aviks/juliacon15,"Notebooks on using GMP, calling Python/Ruby/Java from Julia, etc."
 Resources,JUPYTERNOTEBOOKS,JuliaCon-2015,https://github.com/JuliaOpt/JuliaCon-2015,Notebooks and slides from the JuliaOpt workshop at JuliaCon 2015.
 Resources,JUPYTERNOTEBOOKS,JuliaCon2015 by @simonster,https://github.com/simonster/JuliaCon2015,Slides from my presentations at JuliaCon 2015.
@@ -1773,6 +1778,7 @@ Resources,SLIDES,Julia language slides,http://wiki.scinethpc.ca/wiki/images/7/71
 Resources,SLIDES,Julia introduction,https://github.com/projectbanana/projectbanana.github.io/tree/master/presentations/julia) by M. Schauer,
 Resources,SLIDES,arlos Becker's Julia presentation [comparing Julia with Matlab,https://sites.google.com/site/carlosbecker/a-few-notes),
 Resources,Slidesfrom[JuliaTokyomeetups](https://github.com/JuliaTokyo/julia-wakalang),JuliaTokyo second meetup slides,http://juliatokyo.connpass.com/event/8010/presentation/),
+Resources,TUTORIALS,JuliaAcademyData.jl,https://github.com/JuliaComputing/JuliaAcademyData.jl,Supplementary materials for Julia Academy courses.
 Resources,TUTORIALS,algorithms.jl,https://github.com/cfusting/algorithms.jl,Algorithms in Julia.
 Resources,TUTORIALS,First Steps With Julia,https://www.kaggle.com/c/street-view-getting-started-with-julia),
 Resources,TUTORIALS,Julia3D-Demos,https://github.com/d2dev/Julia3D-Demos,
