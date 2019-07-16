@@ -46,4 +46,6 @@ __Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_
 
 ### Astronomical Imaging
 + [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
++ [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) :: Plots.jl and Images.jl integration of Astronomical Images for Julia.
++ [Reproject.jl](https://github.com/JuliaAstro/Reproject.jl) :: Reproject Astronomical Images from one world coordinate to another.
 
