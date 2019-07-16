@@ -22,7 +22,6 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 # API
 **Middleware API's**
 + [D4M.jl](https://github.com/achen12/D4M.jl) :: A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
-+ [Tables.jl](https://github.com/JuliaData/Tables.jl) :: An interface for tables in Julia.
 + [DBAPI.jl](https://github.com/JuliaDB/DBAPI.jl) :: A new database interface proposal.
 + [DBI.jl](https://github.com/johnmyleswhite/DBI.jl) :: An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 + [DBPerf.jl](https://github.com/JuliaDatabases/DBPerf.jl) :: The code repository that benchmarks all the Julia Database Drivers / Wrappers.

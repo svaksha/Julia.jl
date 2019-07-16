@@ -360,7 +360,6 @@ Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
 DataManagement,BiomedicalResearch,REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
 Database,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
-Database,API,Tables.jl,https://github.com/JuliaData/Tables.jl,An interface for tables in Julia.
 Database,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
 Database,API,DBI.jl,https://github.com/johnmyleswhite/DBI.jl,An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
 Database,API,DBPerf.jl,https://github.com/JuliaDatabases/DBPerf.jl,The code repository that benchmarks all the Julia Database Drivers / Wrappers.
@@ -634,6 +633,8 @@ Earth-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia c
 Earth-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
 Earth-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
 FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
+FileIO,SavingJuliaObjects,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
+FileIO,SavingJuliaObjects,JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
 FileIO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
 FileIO,BinaryIO,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
 FileIO,BinaryIO,HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
@@ -672,31 +673,26 @@ FileIO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the S
 FileIO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 FileIO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures."
 FileIO,JSON,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
+FileIO,JSON,JSONTables.jl,https://github.com/JuliaData/JSONTables.jl,JSON + Tables.jl
 FileIO,JSON,LazyJSON.jl,https://github.com/samoconnor/LazyJSON.jl,LazyJSON is an interface for reading JSON data in Julia programs.
 FileIO,JSON,uJSON.jl,https://github.com/samuelcolvin/uJSON.jl,JSON library for Julia using ultraJSON.
 FileIO,ODS,OdsIO.jl,https://github.com/sylvaticus/OdsIO.jl,Open Document Format Spreadsheet (ODS) I/O for Julia using the python ezodf module.
 FileIO,PDF,PDFIO.jl,https://github.com/sambitdash/PDFIO.jl,PDF Reader Library for native Julia.
 FileIO,PDF,LabelNumerals.jl,"https://github.com/sambitdash/LabelNumerals.jl) : Numbers used as labels like page number like alpha, roman numerals or prefixed like A-1,2 etc",
 FileIO,Silo,Silo.jl,https://github.com/jgoldfar/Silo.jl,"Wrapper for the [Silo file format](https://wci.llnl.gov/simulation/computer-codes/silo) (version 4.10.2) in Julia, generated using Clang.jl."
-FileIO,TabularDataMatrix,CSV.jl,https://github.com/tanmaykm/CSV.jl) by @tanmayk,reads CSV files.
-FileIO,TabularDataMatrix,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
-FileIO,TabularDataMatrix,CSVFiles.jl,https://github.com/davidanthoff/CSVFiles.jl,`FileIO.jl` integration for CSV files.
-FileIO,TabularDataMatrix,CSVReaders.jl,https://github.com/johnmyleswhite/CSVReaders.jl,A (beta) package designed to provide a standardized API for reading CSV files into arbitrary Julia data structures.
-FileIO,TabularDataMatrix,DataFramesIO.jl,https://github.com/johnmyleswhite/DataFramesIO.jl,"Advanced import/export tools for DataFrames: Stata, SPSS, Excel, JSON."
-FileIO,TabularDataMatrix,DataRead.jl,https://github.com/WizardMac/DataRead.jl,"can read files from Stata, SAS, and SPSS."
-FileIO,TabularDataMatrix,Feather.jl,https://github.com/JuliaData/Feather.jl,Julia library for working with feather-formatted files.
-FileIO,TabularDataMatrix,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading julia variables & types
-FileIO,TabularDataMatrix,JLD2,https://github.com/simonster/JLD2,next-generation successor to JLD.
-FileIO,TabularDataMatrix,Jld2Mat.jl,https://github.com/maemre/Jld2Mat.jl,A utility and Julia package to create MAT files form JLD files.
-FileIO,TabularDataMatrix,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl,"A package based on Dagger and IndexedTables, that provides a ""distributed array""-like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster."
-FileIO,TabularDataMatrix,LAJuliaUtils.jl,https://github.com/sylvaticus/LAJuliaUtils.jl,"Utility functions for Julia, mainly dataframes operations."
-FileIO,TabularDataMatrix,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module for reading MATLAB files.
-FileIO,TabularDataMatrix,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
-FileIO,TabularDataMatrix,ParquetFiles.jl,https://github.com/queryverse/ParquetFiles.jl,This package provides load support for Parquet files under the FileIO.jl package.
-FileIO,TabularDataMatrix,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
-FileIO,TabularDataMatrix,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
-FileIO,TabularDataMatrix,ReadWriteDlm2,https://github.com/strickek/ReadWriteDlm2.jl,"CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types."
-FileIO,TabularDataMatrix,XSV.jl,https://github.com/benhamner/XSV.jl,"CSV, TSV, etc. streaming and batch parser."
+FileIO,TabularData,CSV.jl,https://github.com/JuliaData/CSV.jl) by @JuliaDat, Utility library for working with CSV and other delimited files in the Julia programming language.
+FileIO,TabularData,CSVFiles.jl,https://github.com/queryverse/CSVFiles.jl,`FileIO.jl` integration for CSV files.
+FileIO,TabularData,DataRead.jl,https://github.com/WizardMac/DataRead.jl,"Read files from Stata, SAS, and SPSS."
+FileIO,TabularData,StatFiles.jl,https://github.com/queryverse/StatFiles.jl,"`FileIO.jl` integration for Stata, SPSS, and SAS files"
+FileIO,TabularData,Feather.jl,https://github.com/JuliaData/Feather.jl,Julia library for working with feather-formatted files.
+FileIO,TabularData,JuliaDB.jl,https://github.com/JuliaComputing/JuliaDB.jl,"A package based on Dagger and IndexedTables, that provides a ""distributed array""-like data model for working with large persistent data sets. This all-Julia, end-to-end tool can load multi-dimensional datasets quickly and incrementally, index the data and perform filter, aggregate, sort and join operations, then save results and load them efficiently later using Julia's built-in parallelism to fully utilize any machine or cluster."
+FileIO,TabularData,LAJuliaUtils.jl,https://github.com/sylvaticus/LAJuliaUtils.jl,"Utility functions for Julia, mainly dataframes operations."
+FileIO,TabularData,MAT.jl,https://github.com/JuliaIO/MAT.jl,Julia module for reading MATLAB files.
+FileIO,TabularData,Parquet.jl,https://github.com/JuliaComputing/Parquet.jl,Julia implementation of parquet columnar file format reader and writer.
+FileIO,TabularData,ParquetFiles.jl,https://github.com/queryverse/ParquetFiles.jl,This package provides load support for Parquet files under the FileIO.jl package.
+FileIO,TabularData,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
+FileIO,TabularData,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
+FileIO,TabularData,ReadWriteDlm2,https://github.com/strickek/ReadWriteDlm2.jl,"CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types."
 FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 FileIO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 FileIO,XML,EzXML.jl,https://github.com/bicycle1885/EzXML.jl,XML/HTML handling tools for primates.
@@ -801,7 +797,6 @@ FileIO,DocumentGenerator,Report.jl,https://github.com/sveme/Report.jl,A Markdown
 FileIO,DocumentGenerator,VerTeX.jl,https://github.com/chakravala/VerTeX.jl,Typeset scattered graph data rewriter based on LaTeX nodes.
 FileIO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,"general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions."
 FileIO,GeneralIO,MapD.jl,https://github.com/r3tex/MapD.jl,A julia library for conveniently inserting data to MapD.
-FileIO,GeneralIO,Missings.jl,https://github.com/JuliaData/Missings.jl,A missing value representation for Julia for databases and statistics.
 FileIO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
 FileIO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
 FileIO,GeneralIO,ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
@@ -815,6 +810,7 @@ FileIO,ImageFormats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia suppor
 FileIO,ImageFormats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
 FileIO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
 FileIO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+Graphics,,julia-logo-graphics,https://github.com/JuliaLang/julia-logo-graphics,official versions of the Julia logo.
 Graphics,GRAPHICS,AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.
 Graphics,GRAPHICS,Bezier.jl,https://github.com/dronir/Bezier.jl,Julia functions for computing a Bezier curve.
 Graphics,GRAPHICS,Blending.jl,https://github.com/dejakaymac/Blending.jl),
@@ -1899,6 +1895,8 @@ Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),DustExtinction.jl,h
 Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),ERFA.jl,https://github.com/JuliaAstro/ERFA.jl,Julia wrapper for liberfa.
 Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),WCS.jl,https://github.com/JuliaAstro/WCS.jl,Astronomical World Coordinate Systems library for Julia.
 Space-Science,AstronomicalImaging,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
+Space-Science,AstronomicalImaging,AstroImages.jl,https://github.com/JuliaAstro/AstroImages.jl,Plots.jl and Images.jl integration of Astronomical Images for Julia.
+Space-Science,AstronomicalImaging,Reproject.jl,https://github.com/JuliaAstro/Reproject.jl,Reproject Astronomical Images from one world coordinate to another.
 Statistics,Econometrics,copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
 Statistics,Econometrics,Dolo.jl,https://github.com/EconForge/Dolo.jl,A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 Statistics,Econometrics,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,"This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models."

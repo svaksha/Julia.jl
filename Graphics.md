@@ -11,6 +11,8 @@
 
 ----
 
++ [julia-logo-graphics](https://github.com/JuliaLang/julia-logo-graphics) :: official versions of the Julia logo. 
+
 # GRAPHICS
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.

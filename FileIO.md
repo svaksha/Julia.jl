@@ -76,6 +76,7 @@
 
 ## JSON
 + [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia.
++ [JSONTables.jl](https://github.com/JuliaData/JSONTables.jl) :: JSON + Tables.jl 
 + [LazyJSON.jl](https://github.com/samoconnor/LazyJSON.jl) :: LazyJSON is an interface for reading JSON data in Julia programs. 
 + [uJSON.jl](https://github.com/samuelcolvin/uJSON.jl) :: JSON library for Julia using ultraJSON.
 
