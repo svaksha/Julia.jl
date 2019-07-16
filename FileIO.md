@@ -233,6 +233,7 @@
 + [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
 + [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
 + [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
++ [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) :: Typeset scattered graph data rewriter based on LaTeX nodes.
 
 ----
 # General IO

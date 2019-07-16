@@ -236,6 +236,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
     
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
 + [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
++ [DirectSum.jl](https://github.com/chakravala/DirectSum.jl) :: Abstract tangent bundle vector space type operations.
 + [Divergences.jl](https://github.com/gragusa/Divergences.jl) :: A Julia package that makes it easy to evaluate divergence measures between two vectors. The package allows calculating the gradient and the diagonal of the Hessian of several divergences which can be used to good effect by the MomentBasedEstimators package.
 + [OpenCLBLAS.jl](https://github.com/mikhail-j/OpenCLBLAS.jl) :: OpenCL BLAS library wrapper for Julia with samples.
 + [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) :: Syntactic sugar for BLAS polynomials.
@@ -260,6 +261,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia. 
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
++ [Wilkinson.jl](https://github.com/chakravala/Wilkinson.jl) :: Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 
 
 ### Special Array Types and Algorithms
@@ -585,12 +587,14 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 ----
 
 # [Geometry](http://en.wikipedia.org/wiki/Geometry)
++ [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) :: Tensor algebra abstract type system interoperability with vector space parameter.
 + [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) :: Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 + [D4.jl](https://github.com/khwilson/D4.jl) :: An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
++ [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: ⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
 + [JointMoments.jl](https://github.com/tinybike/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 + [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 
