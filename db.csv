@@ -182,6 +182,7 @@ API,Resources,"otes on [Calling Fortran from Python, Julia and Matlab",http://ma
 API,Go,GoTMSupport.jl,https://github.com/ordovician/GoTMSupport.jl,Support for writing bundle commands for the Go programming language in Julia.
 API,Java,JavaCall.jl,https://github.com/JuliaInterop/JavaCall.jl,is a package that lets you call Java programs from Julia.
 API,Java,JDBC.jl,https://github.com/aviks/JDBC.jl,Julia interface to Java database drivers.
+API,Java,TeaSeis.jl,https://github.com/ChevronETC/TeaSeis.jl,JavaSeis IO implementation for the Julia language.
 API,JavaScript,DThree.jl,https://github.com/jverzani/DThree.jl,Simple interface to d3.js from Julia.
 API,JavaScript,GoogleCharts.jl,https://github.com/jverzani/GoogleCharts.jl,Julia interface to Google Chart Tools.
 API,JavaScript,ijulia_d3_tutorial,https://github.com/cgroll/ijulia_d3_tutorial,A step by step guide to d3.js chart usage in ijulia notebooks.
@@ -215,6 +216,7 @@ API,R,jl4R,https://github.com/rcqls/jl4R,"`Julia for R` will embed the julia lan
 API,R,ProjectTemplate.jl,https://github.com/johnmyleswhite/ProjectTemplate.jl,is a draft port of the ProjectTemplate package for R to Julia.
 API,R,RCall.jl,https://github.com/JuliaStats/RCall.jl,Embedded R within Julia - ports all the `R` API functions from C into Julia.
 API,R,RCalling.jl,https://github.com/randy3k/RCalling.jl,An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages.
+API,R,RData.jl,https://github.com/JuliaData/RData.jl,CodeIssues 5Pull requests 0Projects 0WikiSecurityInsightsRead R data files from Julia.
 API,R,Rif.jl,https://github.com/lgautier/Rif.jl,"An interface to the R language and its fork, [Julio](https://github.com/tshort/julio)."
 API,R,RJulia,https://github.com/armgong/RJulia,R package to call Julia - Use Julia embedded API to write a packege for R.
 API,R,ReadStat.jl,https://github.com/WizardMac/ReadStat.jl,"Read files from Stata, SAS, and SPSS."

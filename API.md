@@ -82,6 +82,7 @@ Wrappers's and programming API's for other languages and general backend server 
 ## Java 
 + [JavaCall.jl](https://github.com/JuliaInterop/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
 + [JDBC.jl](https://github.com/aviks/JDBC.jl) :: Julia interface to Java database drivers.
++ [TeaSeis.jl](https://github.com/ChevronETC/TeaSeis.jl) :: JavaSeis IO implementation for the Julia language. 
 
 ## JavaScript
 + [DThree.jl](https://github.com/jverzani/DThree.jl) :: Simple interface to d3.js from Julia.
@@ -132,6 +133,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [ProjectTemplate.jl](https://github.com/johnmyleswhite/ProjectTemplate.jl) :: is a draft port of the ProjectTemplate package for R to Julia.
 + [RCall.jl](https://github.com/JuliaStats/RCall.jl) :: Embedded R within Julia - ports all the `R` API functions from C into Julia.
 + [RCalling.jl](https://github.com/randy3k/RCalling.jl) :: An R interface of Julia - uses the Julia API (in C) and `R` API (also in C) intensively to call R library packages. 
++ [RData.jl](https://github.com/JuliaData/RData.jl) :: CodeIssues 5Pull requests 0Projects 0WikiSecurityInsightsRead R data files from Julia.
 + [Rif.jl](https://github.com/lgautier/Rif.jl) :: An interface to the R language and its fork, [Julio](https://github.com/tshort/julio).
 + [RJulia](https://github.com/armgong/RJulia) :: R package to call Julia - Use Julia embedded API to write a packege for R.
 + [ReadStat.jl](https://github.com/WizardMac/ReadStat.jl) :: Read files from Stata, SAS, and SPSS.
