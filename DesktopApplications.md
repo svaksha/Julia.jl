@@ -43,6 +43,7 @@ The collective noun [application software](https://en.wikipedia.org/wiki/Applica
 + [JuliaVM](https://github.com/pmargreff/juliavm) :: Simple bash script to manage multiple Julia environments
 + [Lexicon.jl](https://github.com/MichaelHatherly/Lexicon.jl) :: Julia package documentation generator that provides access to the documentation created by the @doc macro from Docile.jl. It allows querying of package documentation from the Julia REPL and building HTML documentation.
 + [Markdown.jl](https://github.com/johnmyleswhite/Markdown.jl) :: Translate Markdown to HTML from Julia using Sundown.
++ [Remark.jl](https://github.com/piever/Remark.jl) :: A Julia package to create presentations from markdown using Remark.
 + [Roxygen.jl](https://github.com/johnmyleswhite/Roxygen.jl) :: A Roxygen-like documentation package for automatically generating documentation from Julia source files.
 + [sphinx-julia](https://github.com/bastikr/sphinx-julia) :: Documenting Julia projects with Sphinx.
 + [Tuxedo.jl](https://github.com/milktrader/Tuxedo.jl) :: Dressing up your algorithms with documentation-driven development.

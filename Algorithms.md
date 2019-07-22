@@ -18,6 +18,8 @@ __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algori
 
 # [ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures)
 
++ [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) :: This package implements a variety of data structures, viz. Deque, CircularBuffer, CircularDeque, Stack, Queue, Accumulators and Counters (i.e. Multisets / Bags), Disjoint Sets, Binary Heap, Mutable Binary Heap, Ordered Dicts and Sets, Dictionaries with Defaults, Trie, Linked List and Mutable Linked List, Sorted Dict, Sorted Multi-Dict and Sorted Set, DataStructures.IntSet, Priority Queue, Fenwick Tree
+
 ### Association Rule
 + [ARules.jl](https://github.com/toddleo/ARules.jl) :: Julia package for Association Rule Learning algorithms.
 

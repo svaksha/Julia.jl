@@ -11,7 +11,7 @@ __List of communities, development links, events, (un)conferences, forums/ meetu
 + [Julia User Groups](#julia-user-groups)
 + [JUPYTER NOTEBOOKS](#jupyter-notebooks)
 + [SLIDES](#slides)
-+ [TUTORIALS](#tutorials) 
++ [TUTORIALS - WORKSHOPS](#tutorials-workshops) 
 + [VIDEOS](#videos)
 
 ----
@@ -334,7 +334,9 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 
 ----
 
-# TUTORIALS
+# TUTORIALS - WORKSHOPS
++ [Intermediate Julia workshop](https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, USA
++ [Machine Learning Workshop 2019](https://github.com/mbauman/MachineLearningWorkshop2019).
 + [JuliaAcademyData.jl](https://github.com/JuliaComputing/JuliaAcademyData.jl) :: Supplementary materials for Julia Academy courses.
 + Juliacon-2017 :: [RoboticsJuliaCon2017.jl](https://github.com/tkoolen/RoboticsJuliaCon2017.jl) :: Code accompanying JuliaCon 2017 talk "The Present and Future of Robotics in Julia".
 + Juliacon-2016 :: [JuliaCon2016workshop](https://github.com/tkelman/JuliaCon2016workshop) : Resources for workshop on Creating, Distributing, and Testing Julia Packages with Binary Dependencies. http://juliacon.org/workshops.html

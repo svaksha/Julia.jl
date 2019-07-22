@@ -228,6 +228,7 @@ API,REDUCE,ReduceLinAlg.jl,https://github.com/JuliaReducePkg/ReduceLinAlg.jl,A s
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,"Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects."
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
+Algorithms,[ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures),DataStructures.jl,https://github.com/JuliaCollections/DataStructures.jl,"This package implements a variety of data structures, viz. Deque, CircularBuffer, CircularDeque, Stack, Queue, Accumulators and Counters (i.e. Multisets / Bags), Disjoint Sets, Binary Heap, Mutable Binary Heap, Ordered Dicts and Sets, Dictionaries with Defaults, Trie, Linked List and Mutable Linked List, Sorted Dict, Sorted Multi-Dict and Sorted Set, DataStructures.IntSet, Priority Queue, Fenwick Tree"
 Algorithms,AssociationRule,ARules.jl,https://github.com/toddleo/ARules.jl,Julia package for Association Rule Learning algorithms.
 Algorithms,Checksum,CRC.jl,https://github.com/andrewcooke/CRC.jl,This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
 Algorithms,Checksum,CRC32.jl,https://github.com/fhs/CRC32.jl,32-bit cyclic redundancy check (CRC-32) checksum implementation.
@@ -419,6 +420,7 @@ DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documenta
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),JuliaVM,https://github.com/pmargreff/juliavm,Simple bash script to manage multiple Julia environments
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Lexicon.jl,https://github.com/MichaelHatherly/Lexicon.jl,Julia package documentation generator that provides access to the documentation created by the @doc macro from Docile.jl. It allows querying of package documentation from the Julia REPL and building HTML documentation.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Markdown.jl,https://github.com/johnmyleswhite/Markdown.jl,Translate Markdown to HTML from Julia using Sundown.
+DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Remark.jl,https://github.com/piever/Remark.jl,A Julia package to create presentations from markdown using Remark.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Roxygen.jl,https://github.com/johnmyleswhite/Roxygen.jl,A Roxygen-like documentation package for automatically generating documentation from Julia source files.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),sphinx-julia,https://github.com/bastikr/sphinx-julia,Documenting Julia projects with Sphinx.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Tuxedo.jl,https://github.com/milktrader/Tuxedo.jl,Dressing up your algorithms with documentation-driven development.
@@ -1784,14 +1786,16 @@ Resources,SLIDES,Julia language slides,http://wiki.scinethpc.ca/wiki/images/7/71
 Resources,SLIDES,Julia introduction,https://github.com/projectbanana/projectbanana.github.io/tree/master/presentations/julia) by M. Schauer,
 Resources,SLIDES,arlos Becker's Julia presentation [comparing Julia with Matlab,https://sites.google.com/site/carlosbecker/a-few-notes),
 Resources,Slidesfrom[JuliaTokyomeetups](https://github.com/JuliaTokyo/julia-wakalang),JuliaTokyo second meetup slides,http://juliatokyo.connpass.com/event/8010/presentation/),
-Resources,TUTORIALS,JuliaAcademyData.jl,https://github.com/JuliaComputing/JuliaAcademyData.jl,Supplementary materials for Julia Academy courses.
-Resources,TUTORIALS,algorithms.jl,https://github.com/cfusting/algorithms.jl,Algorithms in Julia.
-Resources,TUTORIALS,First Steps With Julia,https://www.kaggle.com/c/street-view-getting-started-with-julia),
-Resources,TUTORIALS,Julia3D-Demos,https://github.com/d2dev/Julia3D-Demos,
-Resources,TUTORIALS,julia-tutorial,https://github.com/JuliaLang/julia-tutorial,Julia Tutorial from MIT IAP 2013.
-Resources,TUTORIALS,JuliaByExample,http://www.scolvin.com/juliabyexample/,Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
-Resources,TUTORIALS,JuliaIntro.jl,https://github.com/scidom/JuliaIntro.jl,An Introduction to Julia (Tutorial and Toy Examples).
-Resources,TUTORIALS,Learn Julia in Y minutes,http://learnxinyminutes.com/docs/julia/),
+Resources,TUTORIALS-WORKSHOPS,Intermediate Julia workshop,"https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, US",
+Resources,TUTORIALS-WORKSHOPS,Machine Learning Workshop 2019,https://github.com/mbauman/MachineLearningWorkshop2019),
+Resources,TUTORIALS-WORKSHOPS,JuliaAcademyData.jl,https://github.com/JuliaComputing/JuliaAcademyData.jl,Supplementary materials for Julia Academy courses.
+Resources,TUTORIALS-WORKSHOPS,algorithms.jl,https://github.com/cfusting/algorithms.jl,Algorithms in Julia.
+Resources,TUTORIALS-WORKSHOPS,First Steps With Julia,https://www.kaggle.com/c/street-view-getting-started-with-julia),
+Resources,TUTORIALS-WORKSHOPS,Julia3D-Demos,https://github.com/d2dev/Julia3D-Demos,
+Resources,TUTORIALS-WORKSHOPS,julia-tutorial,https://github.com/JuliaLang/julia-tutorial,Julia Tutorial from MIT IAP 2013.
+Resources,TUTORIALS-WORKSHOPS,JuliaByExample,http://www.scolvin.com/juliabyexample/,Collection of Julia language examples. [Source code on github](https://github.com/samuelcolvin/JuliaByExample).
+Resources,TUTORIALS-WORKSHOPS,JuliaIntro.jl,https://github.com/scidom/JuliaIntro.jl,An Introduction to Julia (Tutorial and Toy Examples).
+Resources,TUTORIALS-WORKSHOPS,Learn Julia in Y minutes,http://learnxinyminutes.com/docs/julia/),
 Resources,VIDEOS,ohn Myles White: [Julia’s Approach to Open Source Machine Learning,http://k4webcast.mediasite.com/Mediasite/Play/2529ebcb20794942874d5c277c5dcc981d),
 Resources,VIDEOS,yData-NYC2014 [Julia + Python = ♥,https://www.youtube.com/watch?v=PsjANO10KgM) talk by Stefan Karpinski,
 Resources,VIDEOS, video of [Spencer Lyon's talk on Julia,https://youtu.be/mHr-cEGqiuw?t=56m14s) at PyData NYC meetup,
