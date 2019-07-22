@@ -303,6 +303,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [RecursiveArrayTools.jl](https://github.com/JuliaDiffEq/RecursiveArrayTools.jl) :: a set of tools for dealing with recursive arrays like arrays of arrays. 
 + [RingArrays.jl](https://github.com/invenia/RingArrays.jl) :: A sliding window over a huge array.
 + [Rotations.jl](https://github.com/FugroRoames/Rotations.jl) ::  Julia implementations for different rotation parameterisations.
++ [ShiftedArrays.jl](https://github.com/piever/ShiftedArrays.jl) :: Lazy shifted arrays implementation for data analysis in Julia. A ShiftedArray is a lazy view of an Array, shifted on some or all of its indexing dimensions by some constant values.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
@@ -595,6 +596,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
 + [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: ⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
++ [ITensors.jl](https://github.com/ITensor/ITensors.jl):: A Julia library for efficient tensor calculations.
 + [JointMoments.jl](https://github.com/tinybike/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
 + [Tau.jl](https://github.com/Aerlinger/Tau.jl) :: A simple module providing definition of the Tau constant. 

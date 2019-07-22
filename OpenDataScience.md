@@ -102,6 +102,7 @@
 
 ## Neuroscience
 + [Codeneuro-Datasets](https://github.com/codeneuro/datasets) :: Shared data sets for collaborating, testing, and benchmarking.
++ [MindResearchRepository.jl](https://github.com/dmbates/MindResearchRepository.jl) :: Access data sets from the Mind Research Repository. 
 + [OpenfMRI.org](https://openfmri.org) :: A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data.
 + [Neuroscience Databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list.
 + [Neurovault](http://neurovault.org/) :: A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
