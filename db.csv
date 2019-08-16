@@ -2046,6 +2046,7 @@ Statistics,Optimization,SemidefiniteModels,https://github.com/JuliaOpt/Semidefin
 Statistics,Optimization,simplex.jl,https://github.com/davidagold/simplex.jl,Practice project program that performs the simplex algorithm.
 Statistics,Optimization,StructJuMP.jl,https://github.com/joehuchette/StructJuMP.jl,A block-structured optimization framework for JuMP.
 Statistics,Optimization,SumOfSquares.jl,https://github.com/JuliaOpt/SumOfSquares.jl,Sum of Squares Programming for Julia.
+Statistics,Optimization,Surrogates.jl,https://github.com/JuliaDiffEq/Surrogates.jl,Surrogate modeling and optimization.
 Statistics,Optimization,VinDsl.jl,https://github.com/jmxpearson/VinDsl.jl,A fast and furious domain-specific language for variational inference in Julia.
 Statistics,Optimization,Xpress.jl,https://github.com/JuliaOpt/Xpress.jl,A Julia interface for the FICO Xpress optimization suite.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),CGP.jl,https://github.com/glesica/CGP.jl,Cartesian Genetic Programming (CGP) implemented in Julia.

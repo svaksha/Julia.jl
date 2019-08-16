@@ -200,6 +200,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [StructJuMP.jl](https://github.com/joehuchette/StructJuMP.jl) :: A block-structured optimization framework for JuMP.
 + [StochasticDualDynamicProgramming](github.com/blegat/StochasticDualDynamicProgramming.jl) :: Implementation of Stochastic Dual Dynamic Programming using the StructJuMP modeling interface.
 + [SumOfSquares.jl](https://github.com/JuliaOpt/SumOfSquares.jl) :: Sum of Squares Programming for Julia.
++ [Surrogates.jl](https://github.com/JuliaDiffEq/Surrogates.jl) :: Surrogate modeling and optimization.
 + [VinDsl.jl](https://github.com/jmxpearson/VinDsl.jl) :: A fast and furious domain-specific language for variational inference in Julia.
 + [Xpress.jl](https://github.com/JuliaOpt/Xpress.jl) :: A Julia interface for the FICO Xpress optimization suite.
 
