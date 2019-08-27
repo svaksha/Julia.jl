@@ -566,6 +566,7 @@ DevOps,Packaging,PkgUtils.jl,https://github.com/johnmyleswhite/PkgUtils.jl,Tools
 DevOps,Packaging,Require.jl,https://github.com/jkroso/Require.jl,A better module system for Julia.
 DevOps,Packaging,Requires.jl,https://github.com/MikeInnes/Requires.jl,A Julia package that will quickly load your package dependencies.
 DevOps,Packaging,VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
+DevOps,Packaging,Yggdrasil,https://github.com/JuliaPackaging/Yggdrasil,Collection of builder repositories for `BinaryBuilder.jl`.
 DevOps,DOCS,fficial [Julia Package list,http://docs.julialang.org/en/latest/packages/packagelist/),
 DevOps,DOCS,he [Julia package manager manual,http://docs.julialang.org/en/latest/manual/packages/,
 DevOps,Sandbox,JDock,https://github.com/amitmurthy/JDock,An IJulia sandboxed by Docker containers.

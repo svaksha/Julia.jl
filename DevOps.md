@@ -178,6 +178,7 @@ __Package/Infrastructure management tools and Documentation__
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
 + [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) :: flexible VersionNumber parsing in Julia. 
++ [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) :: Collection of builder repositories for `BinaryBuilder.jl`. 
 
 ##### DOCS
 + Official [Julia Package list](http://docs.julialang.org/en/latest/packages/packagelist/).
