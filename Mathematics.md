@@ -466,6 +466,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [FastAnonymous.jl](https://github.com/timholy/FastAnonymous.jl) :: Fast __anonymous functions__ for Julia.
 
 ### [Integral Equation](https://en.wikipedia.org/wiki/Integral_equation)
++ [ChainRulesCore.jl](https://github.com/JuliaDiff/ChainRulesCore.jl) :: The ChainRulesCore package provides a light-weight dependency for defining sensitivities for functions in your packages, without self-dependency on `ChainRules.jl`, which aims to provide a variety of common utilities that can be used by downstream automatic differentiation (AD) tools to define and execute forward-, reverse-, and mixed-mode primitives.
 + [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
 + [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
 + [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.

@@ -11,6 +11,7 @@
    + [Molecular Biology](#molecular-biology)
         + [DNA Sequencing}(#dna-sequencing)
 + [NEUROSCIENCE](#neuroscience)
++ [PHARMACOLOGY](#pharmacology)
 + [Resources-Teaching](#resources-teaching)
 
 ----
@@ -139,6 +140,16 @@ __Genome Wide Association Study (GWAS)__
 + [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) :: A set of tools to load data written by the Open Ephys GUI.
 + [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) :: Macaque brain and skull extraction tools.
 + [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
+
+----
+
+# [PHARMACOLOGY](https://en.wikipedia.org/wiki/Pharmacology)
+
++ [DataInterpolations.jl](https://github.com/PumasAI/DataInterpolations.jl) :: A library of data interpolation and smoothing functions.
++ [Pumas.jl](https://github.com/PumasAI/Pumas.jl) :: A Pharmaceutical Modeling and Simulation toolkit. https://pumas.ai/
+   + [PumasDocs.jl](https://github.com/PumasAI/PumasDocs.jl) :: Documentation for Pumas: Pharmaceutical Modeling and Simulation in Julia http://docs.pumas.ai/dev
+   + [PumasTutorials.jl](https://github.com/PumasAI/PumasTutorials.jl) :: Tutorials for pharmaceutical modeling and simulation with Pumas.jl. http://tutorials.pumas.ai
++ [PumasPlots.jl](https://github.com/PumasAI/PumasPlots.jl) :: Plotting utilities for Pumas.jl.
 
 ----
 
