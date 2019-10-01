@@ -529,7 +529,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 __Hash tables, Linked Lists, Functional / Trees data structures__
 + [AbstractTrees.jl](https://github.com/Keno/AbstractTrees.jl) :: Abstract julia interfaces for working with trees.
 + [Arrowhead.jl](https://github.com/ivanslapnicar/Arrowhead.jl) :: Arrowhead and Diagonal-plus-rank-one Eigenvalue Solvers.
-+ [ASTInterpreter.jl](https://github.com/Keno/ASTInterpreter.jl) :: Gallium's AST interpreter as a separate package to simplify development.
 + [BGraph.jl](https://github.com/adolgert/BGraph.jl) :: An adjacency list that uses typed properties for vertices, edges, and graphs.
 + [BlockArrays.jl](https://github.com/KristofferC/BlockArrays.jl) :: BlockArrays for Julia.
 + [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
