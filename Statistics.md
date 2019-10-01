@@ -5,10 +5,9 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Finance](#finance)
 + [DATA SCIENCE](#data-science)
 + [OPERATIONS RESEARCH](#operations-research)
-   + [Optimization](#optimization)
+   + [Mathematical Optimization](#mathematical-optimization)
         + [Genetic Programming](#genetic-programming)
         + [Geometric Programming](#geometric-programming)
-   + [Regression Analysis](#regression-analysis)
    + [Simulation](#simulation)
 + [STATISTICS](#statistics)
    + [Geostatistics](#geostatistics)
@@ -16,9 +15,11 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Gaussian](#gaussian)
    + [Models](#models)
    + [Monte Carlo Method](#monte-carlo-method)
-   + [Multivariate Statistics](#multivariate-statistics)
-        + [Dimension Reduction](#dimension-reduction)
-   + [Probabilistic Programming](#probabilistic-programming)
++ [MULTIVARIATE STATISTICS](#multivariate-statistics)
+   + [Dimension Reduction](#dimension-reduction)
+   + [Multinomial Logistic Regression](#multinomial-logistic-regression)
+   + [Regression Analysis](#regression-analysis)
++ [PROBABILISTIC PROGRAMMING](#probabilistic-programming)
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
 + [STOCHASTICS](#stochastics)
@@ -53,7 +54,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + flashcrash-ui](https://github.com/shashi/flashcrash-ui) :: UI for `BigFinance.jl`.
 + [Bloomberg.jl](https://github.com/milktrader/Bloomberg.jl) :: Providing access to Bloomberg financial data in Julia.
 + [BusinessDays.jl](https://github.com/felipenoris/BusinessDays.jl) :: A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
-+ [Currencies.jl](https://github.com/TotalVerb/Currencies.jl) ::  Simple checked fixed-point currencies for Julia. 
++ [Currencies.jl](https://github.com/TotalVerb/Currencies.jl) ::  Simple checked fixed-point currencies for Julia.
 + [CTechCommon.jl](https://github.com/tbreloff/CTechCommon.jl) :: Some functionality to be shared among packages.  {Usable: 4, Robust: 4, Active: 1}
 + [DynAssMgmt.jl](https://github.com/JuliaFinMetriX/DynAssMgmt.jl) :: This package implements a framework to set up and test dynamic asset management strategies.
 + [EconDatasets.jl](https://github.com/JuliaFinMetriX/EconDatasets.jl) :: Accessing econometric datasets in Julia.
@@ -72,7 +73,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [OpenFiscaCore.jl](https://github.com/openfisca/OpenFiscaCore.jl) :: A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data.
 + [OpenFiscaFrance.jl](https://github.com/openfisca/OpenFiscaFrance.jl) :: A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system.
 + [Quandl.jl](https://github.com/milktrader/Quandl.jl) :: Julia api to Quandl open source financial, economic and social datasets.
-+ [RobHood.jl](https://github.com/cndesantana/RobHood.jl) :: Open platform to investigate markets. 
++ [RobHood.jl](https://github.com/cndesantana/RobHood.jl) :: Open platform to investigate markets.
 + [SDE.jl](https://github.com/mschauer/SDE.jl) :: Simulation and inference for Ito processes and diffusions.
 + [stockMonitor.jl](https://github.com/krthkj/stockMonitor.jl) :: A module which constantly collects and performs analyses the stock market.
 + [Timestamps.jl](https://github.com/JuliaQuant/Timestamps.jl) :: Immutable timestamped values.
@@ -99,7 +100,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 
 ----
 
-# OPERATIONS RESEARCH
+# [OPERATIONS RESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research)
 + [CGRASP.jl](https://github.com/tautologico/CGRASP.jl) :: Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia.
 + [CSDP.jl](https://github.com/joehuchette/CSDP.jl) :: Julia wrapper for the CSDP semidefinite programming solver.
 + [ConstraintProgramming.jl](https://github.com/dpsanders/ConstraintProgramming.jl) ::  Calculates the feasible region for a set of real-valued inequalities with Julia.
@@ -120,7 +121,8 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [ORSoftwareTools2014](https://github.com/IainNZ/ORSoftwareTools2014) :: This is the repository for code/examples/instructions for the MIT course 15.S60 _Software Tools for Operations Research_.
 + [DG2012Tutorial.jl](https://github.com/johnmyleswhite/DG2012Tutorial.jl) :: Simple examples of SGD-style computations in Julia.
 
-## Optimization
+
+## [Mathematical Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
 + [AMPLMathProgInterface.jl](https://github.com/mlubin/AMPLMathProgInterface.jl) :: Wrapper for MathProgBase.jl {see the `JuliaOpt` section below}.
 + [AmplNLWriter.jl](https://github.com/JackDunnNZ/AmplNLWriter.jl) ::  Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
 + [AutomotiveDrivingModels.jl](https://github.com/tawheeler/AutomotiveDrivingModels.jl) :: For car encounter models.
@@ -178,6 +180,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
 + [NODAL.jl](https://github.com/phrb/NODAL.jl) :: is an Open Distributed Autotuning Library in Julia.
 + [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
++ [OSQP.jl](https://github.com/oxfordcontrol/OSQP.jl) :: A Julia wrapper for the Operator Splitting Quadratic Program (OSQP) solver is a numerical optimization package.
 + [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions.
 + [pikaia.jl](https://github.com/tmeits/pikaia.jl) :: Genetic Algorithms (GA's).
 + [PolyJuMP](https://github.com/JuliaOpt/PolyJuMP.jl) :: A JuMP extension for Polynomial Optimization.
@@ -203,6 +206,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [VinDsl.jl](https://github.com/jmxpearson/VinDsl.jl) :: A fast and furious domain-specific language for variational inference in Julia.
 + [Xpress.jl](https://github.com/JuliaOpt/Xpress.jl) :: A Julia interface for the FICO Xpress optimization suite.
 
+
 ### [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming)
 + [CGP.jl](https://github.com/glesica/CGP.jl) :: Cartesian Genetic Programming (CGP) implemented in Julia.
 + [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
@@ -219,32 +223,6 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 
 ### [Geometric Programming](https://en.wikipedia.org/wiki/Geometric_programming)
 + [JuGP.jl](https://github.com/mlubin/JuGP.jl) :: A prototype JuMP extension for geometric programming.
-
-
-[//]: # (######################################################################)
-[//]: # ( Platform independent comment line to bifurcate multiple sub-sections )
-[//]: # (######################################################################)
-
-## [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis)
-+ [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
-+ [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
-+ [FirthRegression.jl](https://github.com/simonster/FirthRegression.jl) :: Firth penalized logistic/Poisson regression.
-+ [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects.
-+ [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
-+ [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM) and generalized linear models (GLM).
-+ [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools.
-+ [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
-+ [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) :: Some nonnegative least squares solvers in Julia.
-+ [OutOfSampleBootstrap.jl](https://github.com/grayclhn/OutOfSampleBootstrap.jl) :: Regression model validation (out-of-sample) statistics.
-+ [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
-+ [QuantileRegression.jl](https://github.com/vincentarelbundock/QuantileRegression.jl) :: Quantile regression in the Julia language.
-+ [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
-+ [RegTools.jl](https://github.com/joemliang/RegTools.jl) ::  A Julia package for assisting regression analysis.
-+ [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.
-
-###### Resources
-+ [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
-+ [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 
 
 ## Simulation
@@ -296,7 +274,6 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [JointMoments.jl](https://github.com/tensorjack/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
 + [KLDivergence.jl](https://github.com/johnmyleswhite/KLDivergence.jl) :: KL-divergence estimation in Julia.
-+ [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
 + [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) :: A julia package for modeling and fitting generalized low rank models.
 + [ManifoldLearning.jl](https://github.com/wildart/ManifoldLearning.jl) :: A Julia package for manifold learning and non-linear dimensionality reduction.
    + [Documentation](http://manifoldlearningjl.readthedocs.org/en/latest/index.html)
@@ -381,17 +358,55 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [SimpleMCMC.jl](https://github.com/fredo-dedup/SimpleMCMC.jl) :: Small framework for MCMC sampling and maximization on user-defined models.
 + [StableDQMC.jl](https://github.com/crstnbr/StableDQMC.jl                   ) :: Numerical stabilization routines for determinant quantum Monte Carlo.
 
-## [Multivariate Statistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
+----
+
+# [MULTIVARIATE STATISTICS](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
 + [CrossDecomposition.jl](https://github.com/simonster/CrossDecomposition.jl) :: Canonical-Correlation Analysis (CCA).
 
-### [Dimension Reduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction)
+## [Dimension Reduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction)
 + [FeatureExtraction.jl](https://github.com/trthatcher/FeatureExtraction.jl) :: Data pre-processing algorithms.
 + [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
 
+## [Multinomial Logistic Regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
+* [decision_regions](https://github.com/geraq/decision_regions) :: A little experiment to assest linear and polynomial decision regions in logistic regression.
++ [KernelizedLogisticRegression](https://github.com/salbro/KernelizedLogisticRegression) :: Kernelized Logistic Regression in Julia. Contains JupyterBooks.
++ [logistic_regression.jl](https://github.com/ThanhTunggggg/logistic_regression.jl) :: Logistic regression in Julia.
++ [LogisticRegression](https://github.com/int8/LogisticRegression) :: Julia implementation of Logistic Regression with optimization of log-likelihood function using gradient descent method and basic evaluation metrics such as AUC has been implemented too.
++ [Powerlog.jl](https://github.com/mwsohn/Powerlog.jl) :: Logistic regression power analysis for continuous variable.
++ [PowerLogistic.jl](https://github.com/mwsohn/PowerLogistic.jl) :: Power for simple logistic regression, a Julia version of `powerLogisticReg.R` in powerMediation package.
+
+##### Resources
++ A Jupyter [https://github.com/Aymanf-sherief/Logistic-regression-in-Julia](notebook implementation of logistic regression).
++ Simple Logistic Regression with Julia over the [Fame dataset of titanic kaggle](https://github.com/Pantelispanka/TitanicDataWithJulia).  
++ Predict user subscription using [Logistic Regression, Decision Tree and Random Forest classifiers](https://github.com/MNoorFawi/classification-with-julia) in Julia with the Bank Marketing dataset at https://archive.ics.uci.edu/ml/datasets/Bank+Marketing to predict if the client will subscribe a term deposit (variable y).
+
+## [Regression Analysis](https://en.wikipedia.org/wiki/Regression_analysis)
++ [BestSubsetRegression.jl](https://github.com/IainNZ/BestSubsetRegression.jl) :: Implements algorithms for the best subset regression problem in Julia.
++ [Earth.jl](https://github.com/lendle/Earth.jl) :: is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis.
++ [FirthRegression.jl](https://github.com/simonster/FirthRegression.jl) :: Firth penalized logistic/Poisson regression.
++ [FixedEffectModels.jl](https://github.com/matthieugomez/fixedeffectmodels.jl) :: Linear models with instrumental variables and/or high dimensional fixed effects.
++ [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
++ [GLM.jl](https://github.com/JuliaStats/GLM.jl) :: Linear models (LM) and generalized linear models (GLM).
++ [HD.jl](https://github.com/mlakolar/HD.jl) :: High-dimensional tools.
++ [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
++ [Lasso.jl](https://github.com/simonster/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
++ [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) :: Some nonnegative least squares solvers in Julia.
++ [OutOfSampleBootstrap.jl](https://github.com/grayclhn/OutOfSampleBootstrap.jl) :: Regression model validation (out-of-sample) statistics.
++ [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
++ [QuantileRegression.jl](https://github.com/vincentarelbundock/QuantileRegression.jl) :: Quantile regression in the Julia language.
++ [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
++ [RegTools.jl](https://github.com/joemliang/RegTools.jl) ::  A Julia package for assisting regression analysis.
++ [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.
+
+##### Resources
++ [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
++ [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 
 
-## [Probabilistic Programming](https://en.wikipedia.org/wiki/Probabilistic_programming)
-+ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
+----
+
+## [PROBABILISTIC PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming)
++ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
 + [Church.jl](https://github.com/LaurenceA/Church.jl) :: Perform MCMC inference in complex, and simple, probabilistic models.
 + [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
 + [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.

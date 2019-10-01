@@ -1069,7 +1069,6 @@ Mathematics,Cryptocurrency,it[Coin.jl,https://github.com/danielsuo/Coin.jl,A lib
 Mathematics,MATH,ApApproximation.jl,https://github.com/dprn/ApApproximation.jl,Implementation of the almost-periodic approximation.
 Mathematics,MATH,BasisFunctions.jl,https://github.com/daanhb/BasisFunctions.jl,"A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package."
 Mathematics,MATH,Bijections.jl,https://github.com/scheinerman/Bijections.jl,Bijection datatype for Julia.
-Mathematics,MATH,Church.jl,https://github.com/LaurenceA/Church.jl,"helps you perform inference in complex, and simple, probabilistic models."
 Mathematics,MATH,Cartesian.jl,https://github.com/timholy/Cartesian.jl,Fast multidimensional algorithms.
 Mathematics,MATH,CRF.jl,https://github.com/slyrz/CRF.jl,Conditional Random Fields in Julia.
 Mathematics,MATH,CellularAutomata.jl,https://github.com/natj/CellularAutomata.jl,Cellular Automata package.
@@ -1387,7 +1386,6 @@ Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathem
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Fatou.jl,https://github.com/chakravala/Fatou.jl,"Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,"Closed intervals of the form [a,b]."
-Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteInference.jl,https://github.com/lindahua/DiscreteInference.jl,Viterbi algorithm.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Intervals.jl,https://github.com/andrioni/Intervals.jl,"A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library."
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),IntModN.jl,https://github.com/andrewcooke/IntModN.jl,Ring(s) of Integers Modulo-N.
@@ -1409,7 +1407,6 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),A
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),BGraph.jl,https://github.com/adolgert/BGraph.jl,"An adjacency list that uses typed properties for vertices, edges, and graphs."
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),BlockArrays.jl,https://github.com/KristofferC/BlockArrays.jl,BlockArrays for Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),bloom.jl,https://github.com/boydgreenfield/bloom.jl,Bloom filter implementation in Julia.
-Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Blox.jl,https://github.com/tbreloff/Blox.jl,"Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}"
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
@@ -1964,98 +1961,99 @@ Statistics,Resources,QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,"A r
 Statistics,Resources,Self-Study Plan for Becoming a Quantitative Developer,http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer,
 Statistics,Resources,log : [Julia introduction by Sébastien Villemot,http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo,
 Statistics,DATASCIENCE,DataScienceBestPractices,https://github.com/AllenDowney/DataScienceBestPractices,Supporting code for a video series on best practices for exploratory data analysis.
-Statistics,OPERATIONSRESEARCH,CGRASP.jl,https://github.com/tautologico/CGRASP.jl,"Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia."
-Statistics,OPERATIONSRESEARCH,CSDP.jl,https://github.com/joehuchette/CSDP.jl,Julia wrapper for the CSDP semidefinite programming solver.
-Statistics,OPERATIONSRESEARCH,ConstraintProgramming.jl,https://github.com/dpsanders/ConstraintProgramming.jl, Calculates the feasible region for a set of real-valued inequalities with Julia.
-Statistics,OPERATIONSRESEARCH,CutPools.jl,https://github.com/joehuchette/CutPools.jl,Pools of cutting planes for JuMP models.
-Statistics,OPERATIONSRESEARCH,jlSimplex,https://github.com/mlubin/jlSimplex,Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
-Statistics,OPERATIONSRESEARCH,jobshop,https://github.com/stefan-k/jobshop,The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
-Statistics,OPERATIONSRESEARCH,MinFinder.jl,https://github.com/Ken-B/MinFinder.jl,The MinFinder algorithm to find all the minima for a differentiable function inside a bounded domain.
-Statistics,OPERATIONSRESEARCH,OptimizationServices.jl,https://github.com/tkelman/OptimizationServices.jl,"Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format."
-Statistics,OPERATIONSRESEARCH,Predictors.jl,https://github.com/dejakaymac/Predictors.jl,
-Statistics,OPERATIONSRESEARCH,Ranking.jl,https://github.com/johnmyleswhite/Ranking.jl,Tools for ranking in Julia.
-Statistics,OPERATIONSRESEARCH,RankStatistics.jl,https://github.com/korowjev/RankStatistics.jl,A package that implements rank-based statistics methods.
-Statistics,OPERATIONSRESEARCH,RationalSimplex.jl,https://github.com/IainNZ/RationalSimplex.jl,Pure Julia implementation of the simplex algorithm.
-Statistics,OPERATIONSRESEARCH,SemidefiniteProgramming.jl,https://github.com/daviddelaat/SemidefiniteProgramming.jl,This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
-Statistics,OPERATIONSRESEARCH,TrafficAssignment.jl,https://github.com/chkwon/TrafficAssignment.jl,A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
-Statistics,OPERATIONSRESEARCH,VRP,https://github.com/IainNZ/VRP,Vehicle Routing Problem (VRP) is a combinatorial optimization and integer programming problem.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),CGRASP.jl,https://github.com/tautologico/CGRASP.jl,"Continuous Greedy Randomized Adaptive Search Procedure (CGRASP), in Julia."
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),CSDP.jl,https://github.com/joehuchette/CSDP.jl,Julia wrapper for the CSDP semidefinite programming solver.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),ConstraintProgramming.jl,https://github.com/dpsanders/ConstraintProgramming.jl, Calculates the feasible region for a set of real-valued inequalities with Julia.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),CutPools.jl,https://github.com/joehuchette/CutPools.jl,Pools of cutting planes for JuMP models.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),jlSimplex,https://github.com/mlubin/jlSimplex,Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),jobshop,https://github.com/stefan-k/jobshop,The Jobshop (Open Shop Scheduling Problem (OSSP)) problem is solved with evolutionary strategies in Julia.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),MinFinder.jl,https://github.com/Ken-B/MinFinder.jl,The MinFinder algorithm to find all the minima for a differentiable function inside a bounded domain.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),OptimizationServices.jl,https://github.com/tkelman/OptimizationServices.jl,"Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format."
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),Predictors.jl,https://github.com/dejakaymac/Predictors.jl,
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),Ranking.jl,https://github.com/johnmyleswhite/Ranking.jl,Tools for ranking in Julia.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),RankStatistics.jl,https://github.com/korowjev/RankStatistics.jl,A package that implements rank-based statistics methods.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),RationalSimplex.jl,https://github.com/IainNZ/RationalSimplex.jl,Pure Julia implementation of the simplex algorithm.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),SemidefiniteProgramming.jl,https://github.com/daviddelaat/SemidefiniteProgramming.jl,This package provides a Julia interface for low-level modeling of semidefinite programming problems and for solving semidefinite programs with solvers such as SDPA and CSDP.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),TrafficAssignment.jl,https://github.com/chkwon/TrafficAssignment.jl,A package for traffic assignment that loads the network data and finds the user equilibrium traffic pattern.
+Statistics,[OPERATIONSRESEARCH](https://en.wikipedia.org/wiki/Category:Operations_research),VRP,https://github.com/IainNZ/VRP,Vehicle Routing Problem (VRP) is a combinatorial optimization and integer programming problem.
 Statistics,Resources,ORSoftwareTools2014,https://github.com/IainNZ/ORSoftwareTools2014,This is the repository for code/examples/instructions for the MIT course 15.S60 _Software Tools for Operations Research_.
 Statistics,Resources,DG2012Tutorial.jl,https://github.com/johnmyleswhite/DG2012Tutorial.jl,Simple examples of SGD-style computations in Julia.
-Statistics,Optimization,AMPLMathProgInterface.jl,https://github.com/mlubin/AMPLMathProgInterface.jl,Wrapper for MathProgBase.jl {see the `JuliaOpt` section below}.
-Statistics,Optimization,AmplNLWriter.jl,https://github.com/JackDunnNZ/AmplNLWriter.jl, Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
-Statistics,Optimization,AutomotiveDrivingModels.jl,https://github.com/tawheeler/AutomotiveDrivingModels.jl,For car encounter models.
-Statistics,Optimization,BARON.jl,https://github.com/joehuchette/BARON.jl,A wrapper for the BARON mixed-integer nonlinear programming solver.
-Statistics,Optimization,BilinearJuMP.jl,https://github.com/IainNZ/BilinearJuMP.jl,A JuMP extension for bilinear optimization problems.
-Statistics,Optimization,BlackBoxOptim.jl,https://github.com/robertfeldt/BlackBoxOptim.jl,"An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc)."
-Statistics,Optimization,BLOM.jl,https://github.com/tkelman/BLOM.jl,A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
-Statistics,Optimization,Caching.jl,https://github.com/zgornel/Caching.jl,Memoization mechanism.
-Statistics,Optimization,ConicNonlinearBridge.jl,https://github.com/mlubin/ConicNonlinearBridge.jl,Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
-Statistics,Optimization,Cbc.jl,https://github.com/JuliaOpt/Cbc.jl,Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
-Statistics,Optimization,Clp.jl,https://github.com/JuliaOpt/Clp.jl,Interface to the Coin-OR Linear Programming solver (CLP)
-Statistics,Optimization,CPLEX.jl,https://github.com/JuliaOpt/CPLEX.jl,The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
-Statistics,Optimization,CSDP.jl,https://github.com/JuliaOpt/CSDP.jl,Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver.
-Statistics,Optimization,CoinOptServices.jl,https://github.com/JuliaOpt/CoinOptServices.jl, Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
-Statistics,Optimization,Convex.jl,https://github.com/JuliaOpt/Convex.jl,"a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK."
-Statistics,Optimization,CUTEst.jl,https://github.com/JuliaSmoothOptimizers/CUTEst.jl,"Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo."
-Statistics,Optimization,DDUS.jl,https://github.com/vgupta1/DDUS.jl,Data-driven Uncertainty Sets for the JuMPeR framework.
-Statistics,Optimization,DReal.jl,https://github.com/zenna/DReal.jl,A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
-Statistics,Optimization,ECOS.jl,https://github.com/JuliaOpt/ECOS.jl,Julia wrapper for the ECOS conic optimization solver.
-Statistics,Optimization,EAGO.jl,https://github.com/MatthewStuber/EAGO.jl,A development environment for robust and global optimization.
-Statistics,Optimization,EAGODomainReduction.jl,https://github.com/MatthewStuber/EAGODomainReduction.jl,Domain Reduction Procedures in Global Optimization.
-Statistics,Optimization,GeneticAlgorithms.jl,https://github.com/forio/GeneticAlgorithms.jl,is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
-Statistics,Optimization,GLPK.jl,https://github.com/JuliaOpt/GLPK.jl,GLPK wrapper module for Julia.
-Statistics,Optimization,GLPKMathProgInterface.jl,https://github.com/JuliaOpt/GLPKMathProgInterface.jl,Interface between the GLPK.jl wrapper and MathProgBase.jl.
-Statistics,Optimization,Gurobi.jl,https://github.com/JuliaOpt/Gurobi.jl,"is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP)."
-Statistics,Optimization,HSL.jl,https://github.com/JuliaSmoothOptimizers/HSL.jl,Julia interface to the HSL Mathematical Software Library.
-Statistics,Optimization,Ipopt.jl,https://github.com/JuliaOpt/Ipopt.jl,Julia interface to the Ipopt nonlinear solver.
-Statistics,Optimization,JuliaCMAES,https://github.com/Staross/JuliaCMAES,CMA-ES port - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
-Statistics,Optimization,julia-nlopt,https://github.com/MetalNinjas/julia-nlopt,NLopt bindings for julia. {__NB: Not maintained for the current Julia releases__}.
-Statistics,Optimization,JuMP.jl,https://github.com/JuliaOpt/JuMP.jl,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)."
-Statistics,Optimization,JuMPSupplement,https://github.com/mlubin/JuMPSupplement,"Repository containing supplementary materials and code for _JuMP: A Modeling Language for Mathematical Optimization_ by I. Dunning, J. Huchette, and M. Lubin."
-Statistics,Optimization,CMU-notebooks,https://github.com/joehuchette/CMU-notebooks,IJulia notebooks for the JuMP tutorial at CMU.
-Statistics,Optimization,JuMPeR.jl,https://github.com/IainNZ/JuMPeR.jl,Julia for Mathematical Programming (JuMP) extension for Robust optimization.
-Statistics,Optimization,JuMPTools.jl,https://github.com/IainNZ/JuMPTools.jl,Small helper functions for JuMP models.
-Statistics,Optimization,Junquo.jl,http://github.com/IainNZ/Junquo.jl,"stands for _JUlia Nonconvex QUadratically constrained quadratic program Optimizer_, a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver."
-Statistics,Optimization,LinearOperators.jl,https://github.com/JuliaSmoothOptimizers/LinearOperators.jl,Linear Operators for Julia.
-Statistics,Optimization,LinearResponseVariationalBayes.jl,https://github.com/rgiordan/LinearResponseVariationalBayes.jl,Julia tools for building simple variational Bayes models with JuMP.
-Statistics,Optimization,LossFuns.jl,https://github.com/lindahua/LossFuns.jl,An implementation of loss functions for empirical risk minimization.
-Statistics,Optimization,LsqFit.jl,https://github.com/JuliaOpt/LsqFit.jl,Simple curve fitting functionality from Optim.jl has been moved into its own package.
-Statistics,Optimization,LSQ.jl,https://github.com/davidlizeng/LSQ.jl,is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
-Statistics,Optimization,MathProgBase.jl,https://github.com/JuliaOpt/MathProgBase.jl,Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming.
-Statistics,Optimization,Mosek.jl,https://github.com/JuliaOpt/Mosek.jl,Interface to the Mosek solver in Julia.
-Statistics,Optimization,Mayday.jl,https://github.com/rdeits/Mayday.jl,"Sums-of-Squares optimization in Julia, powered by JuMP"
-Statistics,Optimization,Memoize.jl,https://github.com/simonster/Memoize.jl,Easy memoization for Julia.
-Statistics,Optimization,MOpt.jl,https://github.com/floswald/MOpt.jl,Parallel derivative-free Moment Optimization for Julia.
-Statistics,Optimization,Munkres.jl,https://github.com/FugroRoames/Munkres.jl,Munkres algorithm for the optimal assignment problem.
-Statistics,Optimization,NEOS.jl,https://github.com/odow/NEOS.jl,A Julia interface for the NEOS Optimisation Server.
-Statistics,Optimization,NewOptimizer.jl,https://github.com/Keno/NewOptimizer.jl,WIP for new optimizer for julia base.
-Statistics,Optimization,NLTester,https://github.com/IainNZ/NLTester,"Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling."
-Statistics,Optimization,NLopt.jl,https://github.com/JuliaOpt/NLopt.jl,Package to call the NLopt nonlinear-optimization library from the Julia language.
-Statistics,Optimization,NLP.jl,https://github.com/JuliaSmoothOptimizers/NLP.jl,A Data Structure for Optimization Problems in Julia.
-Statistics,Optimization,NLPModels.jl,https://github.com/JuliaSmoothOptimizers/NLPModels.jl,An NLP Interface for JuMP Models.
-Statistics,Optimization,NODAL.jl,https://github.com/phrb/NODAL.jl,is an Open Distributed Autotuning Library in Julia.
-Statistics,Optimization,Optim.jl,https://github.com/JuliaOpt/Optim.jl,A basic optimization algorithms implementation.
-Statistics,Optimization,PiecewiseLinearOpt.jl,https://github.com/joehuchette/PiecewiseLinearOpt.jl,Optimizing over piecewise linear functions.
-Statistics,Optimization,pikaia.jl,https://github.com/tmeits/pikaia.jl,Genetic Algorithms (GA's).
-Statistics,Optimization,PolyJuMP,https://github.com/JuliaOpt/PolyJuMP.jl,A JuMP extension for Polynomial Optimization.
-Statistics,Optimization,Polyopt.jl,https://github.com/MOSEK/Polyopt.jl,"Julia package for polynomial optimization using semidefinite programming, with some [presentation notebooks](https://github.com/MOSEK/Polyopt.jl/tree/master/notebooks) of an optimization package."
-Statistics,Optimization,ProfileView.jl,https://github.com/GlenHertz/ProfileView.jl,Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
-Statistics,Optimization,ProxAlgs.jl,https://github.com/ahwillia/ProxAlgs.jl,Proximal algorithms for optimization in Julia.
-Statistics,Optimization,Proximal.jl,https://github.com/johnmyleswhite/Proximal.jl,Translation of Parikh and Boyd code for proximal algorithms.
-Statistics,Optimization,QuadDIRECT.jl,https://github.com/timholy/QuadDIRECT.jl,Global optimization without derivatives.
-Statistics,Optimization,Quadprog.jl,https://github.com/harmeling/Quadprog.jl,A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
-Statistics,Optimization,QuickCheck.jl,https://github.com/pao/QuickCheck.jl,is listed in METADATA and based on QuickCheck specification-based randomized tester for Julia.
-Statistics,Optimization,scheduleCrew.jl,https://github.com/hugdiniz/scheduleCrew.jl),
-Statistics,Optimization,SCIP.jl,https://github.com/mlubin/SCIP.jl) by @mlubi,An optimization software for mixed-integer programs.
-Statistics,Optimization,SCIP.jl,https://github.com/ryanjoneil/SCIP.jl) by @ryanjonei,A Julia interface to the SCIP solver.
-Statistics,Optimization,SCS.jl,https://github.com/JuliaOpt/SCS.jl,Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
-Statistics,Optimization,SemidefiniteModels,https://github.com/JuliaOpt/SemidefiniteModels.jl,A MathProgBase extension for Semidefinite Modelling.
-Statistics,Optimization,simplex.jl,https://github.com/davidagold/simplex.jl,Practice project program that performs the simplex algorithm.
-Statistics,Optimization,StructJuMP.jl,https://github.com/joehuchette/StructJuMP.jl,A block-structured optimization framework for JuMP.
-Statistics,Optimization,SumOfSquares.jl,https://github.com/JuliaOpt/SumOfSquares.jl,Sum of Squares Programming for Julia.
-Statistics,Optimization,Surrogates.jl,https://github.com/JuliaDiffEq/Surrogates.jl,Surrogate modeling and optimization.
-Statistics,Optimization,VinDsl.jl,https://github.com/jmxpearson/VinDsl.jl,A fast and furious domain-specific language for variational inference in Julia.
-Statistics,Optimization,Xpress.jl,https://github.com/JuliaOpt/Xpress.jl,A Julia interface for the FICO Xpress optimization suite.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),AMPLMathProgInterface.jl,https://github.com/mlubin/AMPLMathProgInterface.jl,Wrapper for MathProgBase.jl {see the `JuliaOpt` section below}.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),AmplNLWriter.jl,https://github.com/JackDunnNZ/AmplNLWriter.jl, Julia interface to [AMPL-enabled solvers](http://ampl.com/products/solvers/all-solvers-for-ampl/).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),AutomotiveDrivingModels.jl,https://github.com/tawheeler/AutomotiveDrivingModels.jl,For car encounter models.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),BARON.jl,https://github.com/joehuchette/BARON.jl,A wrapper for the BARON mixed-integer nonlinear programming solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),BilinearJuMP.jl,https://github.com/IainNZ/BilinearJuMP.jl,A JuMP extension for bilinear optimization problems.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),BlackBoxOptim.jl,https://github.com/robertfeldt/BlackBoxOptim.jl,"An experimental, work-in-progress global optimization framework for Julia, supporting both multi- and single-objective optimization problems, focused on (meta-)heuristic/stochastic algorithms (DE, PSO, CMA-ES etc)."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),BLOM.jl,https://github.com/tkelman/BLOM.jl,A Julia port of the Berkeley Library for Optimization Modeling (Work-In-Progress).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Caching.jl,https://github.com/zgornel/Caching.jl,Memoization mechanism.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),ConicNonlinearBridge.jl,https://github.com/mlubin/ConicNonlinearBridge.jl,Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Cbc.jl,https://github.com/JuliaOpt/Cbc.jl,Interface to the Coin-OR Cbc solver for mixed-integer programming<Paste>
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Clp.jl,https://github.com/JuliaOpt/Clp.jl,Interface to the Coin-OR Linear Programming solver (CLP)
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),CPLEX.jl,https://github.com/JuliaOpt/CPLEX.jl,The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),CSDP.jl,https://github.com/JuliaOpt/CSDP.jl,Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),CoinOptServices.jl,https://github.com/JuliaOpt/CoinOptServices.jl, Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Convex.jl,https://github.com/JuliaOpt/Convex.jl,"a Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems. It can use (nearly) any solver that complies with the MathProgBase interface, including Mosek, Gurobi, ECOS, SCS, and GLPK."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),CUTEst.jl,https://github.com/JuliaSmoothOptimizers/CUTEst.jl,"Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),DDUS.jl,https://github.com/vgupta1/DDUS.jl,Data-driven Uncertainty Sets for the JuMPeR framework.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),DReal.jl,https://github.com/zenna/DReal.jl,A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),ECOS.jl,https://github.com/JuliaOpt/ECOS.jl,Julia wrapper for the ECOS conic optimization solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),EAGO.jl,https://github.com/MatthewStuber/EAGO.jl,A development environment for robust and global optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),EAGODomainReduction.jl,https://github.com/MatthewStuber/EAGODomainReduction.jl,Domain Reduction Procedures in Global Optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),GeneticAlgorithms.jl,https://github.com/forio/GeneticAlgorithms.jl,is a lightweight framework that simplifies the process of creating genetic algorithms and running them in parallel.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),GLPK.jl,https://github.com/JuliaOpt/GLPK.jl,GLPK wrapper module for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),GLPKMathProgInterface.jl,https://github.com/JuliaOpt/GLPKMathProgInterface.jl,Interface between the GLPK.jl wrapper and MathProgBase.jl.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Gurobi.jl,https://github.com/JuliaOpt/Gurobi.jl,"is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP)."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),HSL.jl,https://github.com/JuliaSmoothOptimizers/HSL.jl,Julia interface to the HSL Mathematical Software Library.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Ipopt.jl,https://github.com/JuliaOpt/Ipopt.jl,Julia interface to the Ipopt nonlinear solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),JuliaCMAES,https://github.com/Staross/JuliaCMAES,CMA-ES port - a mix of the original minimal MATLAB implementation (purecmaes.m) and the full one (cmaes.m).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),julia-nlopt,https://github.com/MetalNinjas/julia-nlopt,NLopt bindings for julia. {__NB: Not maintained for the current Julia releases__}.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),JuMP.jl,https://github.com/JuliaOpt/JuMP.jl,"Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),JuMPSupplement,https://github.com/mlubin/JuMPSupplement,"Repository containing supplementary materials and code for _JuMP: A Modeling Language for Mathematical Optimization_ by I. Dunning, J. Huchette, and M. Lubin."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),CMU-notebooks,https://github.com/joehuchette/CMU-notebooks,IJulia notebooks for the JuMP tutorial at CMU.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),JuMPeR.jl,https://github.com/IainNZ/JuMPeR.jl,Julia for Mathematical Programming (JuMP) extension for Robust optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),JuMPTools.jl,https://github.com/IainNZ/JuMPTools.jl,Small helper functions for JuMP models.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Junquo.jl,http://github.com/IainNZ/Junquo.jl,"stands for _JUlia Nonconvex QUadratically constrained quadratic program Optimizer_, a (mixed-integer) nonconvex quadratically constrained quadratic program (QCQP) solver."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),LinearOperators.jl,https://github.com/JuliaSmoothOptimizers/LinearOperators.jl,Linear Operators for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),LinearResponseVariationalBayes.jl,https://github.com/rgiordan/LinearResponseVariationalBayes.jl,Julia tools for building simple variational Bayes models with JuMP.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),LossFuns.jl,https://github.com/lindahua/LossFuns.jl,An implementation of loss functions for empirical risk minimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),LsqFit.jl,https://github.com/JuliaOpt/LsqFit.jl,Simple curve fitting functionality from Optim.jl has been moved into its own package.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),LSQ.jl,https://github.com/davidlizeng/LSQ.jl,is a library that makes it easy to formulate and solve least-squares optimization problems with linear equality constraints.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),MathProgBase.jl,https://github.com/JuliaOpt/MathProgBase.jl,Solver-independent functions (incl. linprog and mixintprog) and low-level interface for Mathematical Programming.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Mosek.jl,https://github.com/JuliaOpt/Mosek.jl,Interface to the Mosek solver in Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Mayday.jl,https://github.com/rdeits/Mayday.jl,"Sums-of-Squares optimization in Julia, powered by JuMP"
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Memoize.jl,https://github.com/simonster/Memoize.jl,Easy memoization for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),MOpt.jl,https://github.com/floswald/MOpt.jl,Parallel derivative-free Moment Optimization for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Munkres.jl,https://github.com/FugroRoames/Munkres.jl,Munkres algorithm for the optimal assignment problem.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NEOS.jl,https://github.com/odow/NEOS.jl,A Julia interface for the NEOS Optimisation Server.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NewOptimizer.jl,https://github.com/Keno/NewOptimizer.jl,WIP for new optimizer for julia base.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NLTester,https://github.com/IainNZ/NLTester,"Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NLopt.jl,https://github.com/JuliaOpt/NLopt.jl,Package to call the NLopt nonlinear-optimization library from the Julia language.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NLP.jl,https://github.com/JuliaSmoothOptimizers/NLP.jl,A Data Structure for Optimization Problems in Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NLPModels.jl,https://github.com/JuliaSmoothOptimizers/NLPModels.jl,An NLP Interface for JuMP Models.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),NODAL.jl,https://github.com/phrb/NODAL.jl,is an Open Distributed Autotuning Library in Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Optim.jl,https://github.com/JuliaOpt/Optim.jl,A basic optimization algorithms implementation.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),OSQP.jl,https://github.com/oxfordcontrol/OSQP.jl,A Julia wrapper for the Operator Splitting Quadratic Program (OSQP) solver is a numerical optimization package.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),PiecewiseLinearOpt.jl,https://github.com/joehuchette/PiecewiseLinearOpt.jl,Optimizing over piecewise linear functions.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),pikaia.jl,https://github.com/tmeits/pikaia.jl,Genetic Algorithms (GA's).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),PolyJuMP,https://github.com/JuliaOpt/PolyJuMP.jl,A JuMP extension for Polynomial Optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Polyopt.jl,https://github.com/MOSEK/Polyopt.jl,"Julia package for polynomial optimization using semidefinite programming, with some [presentation notebooks](https://github.com/MOSEK/Polyopt.jl/tree/master/notebooks) of an optimization package."
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),ProfileView.jl,https://github.com/GlenHertz/ProfileView.jl,Interactive SVG flame graphs for analyzing/profiling. An HTML preview of the [SVG example](http://htmlpreview.github.io/?https://raw.github.com/GlenHertz/ProfileView.jl/master/readme_images/profile.svg)
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),ProxAlgs.jl,https://github.com/ahwillia/ProxAlgs.jl,Proximal algorithms for optimization in Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Proximal.jl,https://github.com/johnmyleswhite/Proximal.jl,Translation of Parikh and Boyd code for proximal algorithms.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),QuadDIRECT.jl,https://github.com/timholy/QuadDIRECT.jl,Global optimization without derivatives.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Quadprog.jl,https://github.com/harmeling/Quadprog.jl,A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),QuickCheck.jl,https://github.com/pao/QuickCheck.jl,is listed in METADATA and based on QuickCheck specification-based randomized tester for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),scheduleCrew.jl,https://github.com/hugdiniz/scheduleCrew.jl),
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),SCIP.jl,https://github.com/mlubin/SCIP.jl) by @mlubi,An optimization software for mixed-integer programs.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),SCIP.jl,https://github.com/ryanjoneil/SCIP.jl) by @ryanjonei,A Julia interface to the SCIP solver.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),SCS.jl,https://github.com/JuliaOpt/SCS.jl,Julia Wrapper for SCS (https://github.com/cvxgrp/scs).
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),SemidefiniteModels,https://github.com/JuliaOpt/SemidefiniteModels.jl,A MathProgBase extension for Semidefinite Modelling.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),simplex.jl,https://github.com/davidagold/simplex.jl,Practice project program that performs the simplex algorithm.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),StructJuMP.jl,https://github.com/joehuchette/StructJuMP.jl,A block-structured optimization framework for JuMP.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),SumOfSquares.jl,https://github.com/JuliaOpt/SumOfSquares.jl,Sum of Squares Programming for Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Surrogates.jl,https://github.com/JuliaDiffEq/Surrogates.jl,Surrogate modeling and optimization.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),VinDsl.jl,https://github.com/jmxpearson/VinDsl.jl,A fast and furious domain-specific language for variational inference in Julia.
+Statistics,[MathematicalOptimization](https://en.wikipedia.org/wiki/Mathematical_optimization),Xpress.jl,https://github.com/JuliaOpt/Xpress.jl,A Julia interface for the FICO Xpress optimization suite.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),CGP.jl,https://github.com/glesica/CGP.jl,Cartesian Genetic Programming (CGP) implemented in Julia.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 Statistics,[GeneticProgramming](https://en.wikipedia.org/wiki/Genetic_programming),InformedDifferentialEvolution.jl,https://github.com/rened/InformedDifferentialEvolution.jl,Implementation of Differential Evolution with optional custom predictors.
@@ -2065,23 +2063,6 @@ Statistics,[AMPL](https://en.wikipedia.org/wiki/AMPL),AmplNLReader.jl,https://gi
 Statistics,[AMPL](https://en.wikipedia.org/wiki/AMPL),AmplNLWriter.jl,https://github.com/JuliaOpt/AmplNLWriter.jl,Julia interface to AMPL-enabled solvers
 Statistics,[AMPL](https://en.wikipedia.org/wiki/AMPL),KNITRO.jl,https://github.com/JuliaOpt/KNITRO.jl,"This package provides an interface for using the KNITRO solver from the Julia language, which can only be used after having purchased and installed a copy of KNITRO from Ziena Optimization."
 Statistics,[GeometricProgramming](https://en.wikipedia.org/wiki/Geometric_programming),JuGP.jl,https://github.com/mlubin/JuGP.jl,A prototype JuMP extension for geometric programming.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),BestSubsetRegression.jl,https://github.com/IainNZ/BestSubsetRegression.jl,Implements algorithms for the best subset regression problem in Julia.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Earth.jl,https://github.com/lendle/Earth.jl,"is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis."
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FirthRegression.jl,https://github.com/simonster/FirthRegression.jl,Firth penalized logistic/Poisson regression.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM) and generalized linear models (GLM).
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),HD.jl,https://github.com/mlakolar/HD.jl,High-dimensional tools.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/simonster/Lasso.jl,Lasso solvers for linear and generalized linear models.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),OutOfSampleBootstrap.jl,https://github.com/grayclhn/OutOfSampleBootstrap.jl,Regression model validation (out-of-sample) statistics.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),QuantileRegression.jl,https://github.com/vincentarelbundock/QuantileRegression.jl,Quantile regression in the Julia language.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Regression.jl,https://github.com/lindahua/Regression.jl,Algorithms for regression analysis (e.g. linear regression and logistic regression).
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),RegTools.jl,https://github.com/joemliang/RegTools.jl, A Julia package for assisting regression analysis.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),SparseRegression.jl,https://github.com/joshday/SparseRegression.jl,Statistical Models with Regularization in Pure Julia.
-Statistics,Resources,juliaopt-notebooks,https://github.com/JuliaOpt/juliaopt-notebooks,A collection of IJulia notebooks related to optimization.
-Statistics,Resources,Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages,https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup,
 Statistics,Simulation,AutomotiveDrivingModels.jl,https://github.com/sisl/AutomotiveDrivingModels.jl,A Julia package containing tools for simulating automotive driving models.
 Statistics,Simulation,AutoUrban.jl,https://github.com/sisl/AutoUrban.jl,"A Julia package expanding the AutomotiveDrivingModels.jl with intersections, enabling auto-converting roadway in AutomotiveDrivingModels.jl into OpenDrive format (.xodr) used in VIRES VirtualTestDrive. It also contains some driver models."
 Statistics,Simulation,AutoViz.jl,https://github.com/sisl/AutoViz.jl,This package provides visualization tools for AutomotiveDrivingModels.
@@ -2124,7 +2105,6 @@ Statistics,STATISTICS,ITC.jl,https://github.com/johnmyleswhite/ITC.jl,Code for m
 Statistics,STATISTICS,JointMoments.jl,https://github.com/tensorjack/JointMoments.jl,Tensors and statistics for joint central moments.
 Statistics,STATISTICS,KernSmooth.jl,https://github.com/lendle/KernSmooth.jl,"A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license."
 Statistics,STATISTICS,KLDivergence.jl,https://github.com/johnmyleswhite/KLDivergence.jl,KL-divergence estimation in Julia.
-Statistics,STATISTICS,LARS.jl,https://github.com/simonster/LARS.jl,Least angle regression.
 Statistics,STATISTICS,LowRankModels.jl,https://github.com/madeleineudell/LowRankModels.jl,A julia package for modeling and fitting generalized low rank models.
 Statistics,STATISTICS,ManifoldLearning.jl,https://github.com/wildart/ManifoldLearning.jl,A Julia package for manifold learning and non-linear dimensionality reduction.
 Statistics,STATISTICS,Documentation,http://manifoldlearningjl.readthedocs.org/en/latest/index.html,
@@ -2152,22 +2132,6 @@ Statistics,Resources,StatsLearningByExample.jl,https://github.com/scidom/StatsLe
 Statistics,Resources,Biostat 778,https://github.com/rdpeng/biostat778_notes,Advanced Statistical Computing.
 Statistics,Resources,DCStats.jl,https://github.com/johnmyleswhite/DCStats.jl,IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 Statistics,Resources,What’s Wrong with Statistics in Julia?,http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/,
-Statistics,ProbabilisticProgramming,ExtremeStats.jl,https://github.com/juliohm/ExtremeStats.jl,Extreme Value Statistics in Julia.
-Statistics,ProbabilisticProgramming,MixtureModels.jl,https://github.com/lindahua/MixtureModels.jl,A Julia package for probabilistic mixture models.
-Statistics,ProbabilisticProgramming,OpenPP.jl,https://github.com/JuliaStats/OpenPP.jl,Open Source Probabilistic Programming in Julia.
-Statistics,ProbabilisticProgramming,pgm.jl,https://github.com/daydreamt/pgm.jl,Another probabilistic graphical model repo.
-Statistics,ProbabilisticProgramming,PGM0.jl,https://github.com/micklat/PGM0.jl,A bottom-up approach to probabilistic graphical models.
-Statistics,ProbabilisticProgramming,ProbabilisticModeling.jl,https://github.com/johnmyleswhite/ProbabilisticModeling.jl,A BUGS-like language for describing probabilistic models in Julia.
-Statistics,ProbabilisticProgramming,ProbTopicModels.jl,https://github.com/lindahua/ProbTopicModels.jl,Probabilistic topic models.
-Statistics,ProbabilisticProgramming,Rmath.jl,https://github.com/dmbates/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
-Statistics,ProbabilisticProgramming,Sigma.jl,https://github.com/zenna/Sigma.jl,"A probabilistic programming environment implemented in Julia that allows you to specify probabilistic models as normal programs, and perform inference."
-Statistics,ProbabilisticProgramming,Stan.jl,https://github.com/goedman/Stan.jl,"Julia package for using [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29), a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function."
-Statistics,ProbabilisticProgramming,Stochy.jl,https://github.com/null-a/Stochy.jl,Probabilistic Programming in Julia.
-Statistics,ProbabilisticProgramming,Turing.jl,https://github.com/LaurenceA/Turing.jl,A Turing complete probabilistic programming language embedded in Julia.
-Statistics,RESOURCES,NorvigProbability,https://github.com/getzdan/NorvigProbability,Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
-Statistics,Geostatistics,GeoStats.jl,https://github.com/juliohm/GeoStats.jl,High-performance geostatistical algorithms in Julia.
-Statistics,Geostatistics,GslibIO.jl,https://github.com/juliohm/GslibIO.jl,Utilities to read/write extended GSLIB files in Julia.
-Statistics,Geostatistics,GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
 Statistics,Bayesian,ABCAuction,https://github.com/mcreel/ABCAuction,"Code for ABC, SMIL and CU-II estimation of a structural auction model."
 Statistics,Bayesian,ABCDistances.jl,https://github.com/dennisprangle/ABCDistances.jl,Performs approximate Bayesian computation (ABC) using various distance functions.
 Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
@@ -2191,9 +2155,11 @@ Statistics,Gaussian,GaussianProcesses.jl,https://github.com/johnmyleswhite/Gauss
 Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
 Statistics,Gaussian,NaiveBayes.jl,https://github.com/johnmyleswhite/NaiveBayes.jl,The Gaussian Naive Bayes model in Julia.
 Statistics,Gaussian,Schauder.jl,https://github.com/mschauer/Schauder.jl,A graphical perspective on Gauss-Markov process priors and fast sparse Cholesky for hierarchically structured (generalized arrow) matrices.
+Statistics,Geostatistics,GeoStats.jl,https://github.com/juliohm/GeoStats.jl,High-performance geostatistical algorithms in Julia.
+Statistics,Geostatistics,GslibIO.jl,https://github.com/juliohm/GslibIO.jl,Utilities to read/write extended GSLIB files in Julia.
+Statistics,Geostatistics,GeoStatsImages.jl,https://github.com/juliohm/GeoStatsImages.jl,Training images for geostastical simulation.
 Statistics,[Models](https://en.wikipedia.org/wiki/Category:Model_selection),Mads.jl,https://github.com/madsjulia/Mads.jl,Model Analysis & Decision Support. https://madsjulia.lanl.gov
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,Augur.jl,https://github.com/AugurProject/Augur.jl,"Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm."
-Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,Church.jl,https://github.com/LaurenceA/Church.jl,"Perform MCMC inference in complex, and simple, probabilistic models."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,ClusterUtils.jl,https://github.com/pearcemc/ClusterUtils.jl,"Message passing, control and display utilities for parallel and distributed computing."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,GeometricMCMC.jl,https://github.com/scidom/GeometricMCMC.jl,Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,MCMC2.jl,https://github.com/johnmyleswhite/MCMC2.jl,Alternative MCMC package design demo.
@@ -2203,9 +2169,51 @@ Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,"An implementation of the recombinator-k-means method described in the paper ""Recombinator-k-means: Enhancing k-means++ by seeding from pools of previous runs"" by C. Baldassi ""A method to reduce the rejection rate in Monte Carlo Markov Chains"" by C. Baldassi, submitted for publication, (2019) (arXiv)."
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,SimpleMCMC.jl,https://github.com/fredo-dedup/SimpleMCMC.jl,Small framework for MCMC sampling and maximization on user-defined models.
 Statistics,[MonteCarlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)Method,StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl                   ,Numerical stabilization routines for determinant quantum Monte Carlo.
-Statistics,[MultivariateStatistics](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),CrossDecomposition.jl,https://github.com/simonster/CrossDecomposition.jl,Canonical-Correlation Analysis (CCA).
+Statistics,[MULTIVARIATESTATISTICS](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),CrossDecomposition.jl,https://github.com/simonster/CrossDecomposition.jl,Canonical-Correlation Analysis (CCA).
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),FeatureExtraction.jl,https://github.com/trthatcher/FeatureExtraction.jl,Data pre-processing algorithms.
 Statistics,[DimensionReduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction),MultivariateAnalysis.jl,https://github.com/lindahua/MultivariateAnalysis.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).
+Statistics,[MultinomialLogisticRegression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression),KernelizedLogisticRegression,https://github.com/salbro/KernelizedLogisticRegression,Kernelized Logistic Regression in Julia. Contains JupyterBooks.
+Statistics,[MultinomialLogisticRegression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression),logistic_regression.jl,https://github.com/ThanhTunggggg/logistic_regression.jl,Logistic regression in Julia.
+Statistics,[MultinomialLogisticRegression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression),LogisticRegression,https://github.com/int8/LogisticRegression,Julia implementation of Logistic Regression with optimization of log-likelihood function using gradient descent method and basic evaluation metrics such as AUC has been implemented too.
+Statistics,[MultinomialLogisticRegression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression),Powerlog.jl,https://github.com/mwsohn/Powerlog.jl,Logistic regression power analysis for continuous variable.
+Statistics,[MultinomialLogisticRegression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression),PowerLogistic.jl,https://github.com/mwsohn/PowerLogistic.jl,"Power for simple logistic regression, a Julia version of `powerLogisticReg.R` in powerMediation package."
+Statistics,Resources,imple Logistic Regression with Julia over the [Fame dataset of titanic kaggle,https://github.com/Pantelispanka/TitanicDataWithJulia),
+Statistics,Resources,"redict user subscription using [Logistic Regression, Decision Tree and Random Forest classifiers",https://github.com/MNoorFawi/classification-with-julia) in Julia with the Bank Marketing dataset at https://archive.ics.uci.edu/ml/datasets/Bank+Marketing to predict if the client will subscribe a term deposit (variable y),
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),BestSubsetRegression.jl,https://github.com/IainNZ/BestSubsetRegression.jl,Implements algorithms for the best subset regression problem in Julia.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Earth.jl,https://github.com/lendle/Earth.jl,"is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis."
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FirthRegression.jl,https://github.com/simonster/FirthRegression.jl,Firth penalized logistic/Poisson regression.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM) and generalized linear models (GLM).
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),HD.jl,https://github.com/mlakolar/HD.jl,High-dimensional tools.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),LARS.jl,https://github.com/simonster/LARS.jl,Least angle regression.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/simonster/Lasso.jl,Lasso solvers for linear and generalized linear models.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),OutOfSampleBootstrap.jl,https://github.com/grayclhn/OutOfSampleBootstrap.jl,Regression model validation (out-of-sample) statistics.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),QuantileRegression.jl,https://github.com/vincentarelbundock/QuantileRegression.jl,Quantile regression in the Julia language.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Regression.jl,https://github.com/lindahua/Regression.jl,Algorithms for regression analysis (e.g. linear regression and logistic regression).
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),RegTools.jl,https://github.com/joemliang/RegTools.jl, A Julia package for assisting regression analysis.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),SparseRegression.jl,https://github.com/joshday/SparseRegression.jl,Statistical Models with Regularization in Pure Julia.
+Statistics,Resources,juliaopt-notebooks,https://github.com/JuliaOpt/juliaopt-notebooks,A collection of IJulia notebooks related to optimization.
+Statistics,Resources,Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages,https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup,
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Church.jl,https://github.com/LaurenceA/Church.jl,"Perform MCMC inference in complex, and simple, probabilistic models."
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ExtremeStats.jl,https://github.com/juliohm/ExtremeStats.jl,Extreme Value Statistics in Julia.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),MixtureModels.jl,https://github.com/lindahua/MixtureModels.jl,A Julia package for probabilistic mixture models.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),OpenPP.jl,https://github.com/JuliaStats/OpenPP.jl,Open Source Probabilistic Programming in Julia.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),pgm.jl,https://github.com/daydreamt/pgm.jl,Another probabilistic graphical model repo.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),PGM0.jl,https://github.com/micklat/PGM0.jl,A bottom-up approach to probabilistic graphical models.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ProbabilisticModeling.jl,https://github.com/johnmyleswhite/ProbabilisticModeling.jl,A BUGS-like language for describing probabilistic models in Julia.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ProbTopicModels.jl,https://github.com/lindahua/ProbTopicModels.jl,Probabilistic topic models.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Rmath.jl,https://github.com/dmbates/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Sigma.jl,https://github.com/zenna/Sigma.jl,"A probabilistic programming environment implemented in Julia that allows you to specify probabilistic models as normal programs, and perform inference."
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Soss.jl,https://github.com/cscherrer/Soss.jl,a library for probabilistic programming.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stan.jl,https://github.com/goedman/Stan.jl,"Julia package for using [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29), a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function."
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stochy.jl,https://github.com/null-a/Stochy.jl,Probabilistic Programming in Julia.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Turing.jl,https://github.com/LaurenceA/Turing.jl,A Turing complete probabilistic programming language embedded in Julia.
+Statistics,RESOURCES,NorvigProbability,https://github.com/getzdan/NorvigProbability,Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
 Statistics,Sampling,GeneralizedSampling.jl,https://github.com/robertdj/GeneralizedSampling.jl,Generalized Sampling in Julia
 Statistics,Sampling,Jackknife.jl,https://github.com/ararslan/Jackknife.jl,[Jackknife resampling](https://en.wikipedia.org/wiki/Jackknife_resampling) and estimation in Julia.
 Statistics,Sampling,JAGS.jl,https://github.com/olofsen/JAGS.jl,"A Julia interface to JAGS, to provide a shared library as an interface between Julia and JAGS - Just another Gibbs sampler."
