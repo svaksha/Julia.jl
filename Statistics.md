@@ -11,15 +11,14 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
    + [Regression Analysis](#regression-analysis)
    + [Simulation](#simulation)
 + [STATISTICS](#statistics)
-   + [Org-JuliaStats](#org-juliastats)
-        + [Probabilistic Programming](#probabilistic-programming)
-   + [Geostatistics (Spatial Statistics)](#geostatistics)
+   + [Geostatistics](#geostatistics)
    + [Bayesian](#bayesian)
    + [Gaussian](#gaussian)
    + [Models](#models)
    + [Monte Carlo Method](#monte-carlo-method)
    + [Multivariate Statistics](#multivariate-statistics)
         + [Dimension Reduction](#dimension-reduction)
+   + [Probabilistic Programming](#probabilistic-programming)
    + [Statistical Tests](#statistical-tests)
    + [TimeSeries Analysis](#timeseries-analysis)
 + [STOCHASTICS](#stochastics)
@@ -247,6 +246,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) :: A collection of IJulia notebooks related to optimization.
 + [Slides of Iain Dunning's 2013 talk about the JuliaOpt collection of packages](https://docs.google.com/presentation/d/1FlHt245YxPXFwOHmxLYW1z5_QjdCYHVPjy5Zo12lx1I/edit?usp=sharing) at the Cambridge Area Julia Users Network Meetup.
 
+
 ## Simulation
 + [AutomotiveDrivingModels.jl](https://github.com/sisl/AutomotiveDrivingModels.jl) :: A Julia package containing tools for simulating automotive driving models.
 + [AutoUrban.jl](https://github.com/sisl/AutoUrban.jl) :: A Julia package expanding the AutomotiveDrivingModels.jl with intersections, enabling auto-converting roadway in AutomotiveDrivingModels.jl into OpenDrive format (.xodr) used in VIRES VirtualTestDrive. It also contains some driver models.
@@ -329,31 +329,6 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [DCStats.jl](https://github.com/johnmyleswhite/DCStats.jl) :: IJulia Notebooks that provide a brief introduction to Julia for statistical programming.
 + [What’s Wrong with Statistics in Julia?](http://www.johnmyleswhite.com/notebook/2014/11/29/whats-wrong-with-statistics-in-julia/)
 
-
-### Probabilistic Programming
-+ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.
-+ [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
-+ [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
-+ [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
-+ [PGM0.jl](https://github.com/micklat/PGM0.jl) :: A bottom-up approach to probabilistic graphical models.
-+ [ProbabilisticModeling.jl](https://github.com/johnmyleswhite/ProbabilisticModeling.jl) :: A BUGS-like language for describing probabilistic models in Julia.
-+ [ProbTopicModels.jl](https://github.com/lindahua/ProbTopicModels.jl) :: Probabilistic topic models.
-+ [Rmath.jl](https://github.com/dmbates/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
-+ [Sigma.jl](https://github.com/zenna/Sigma.jl) :: A probabilistic programming environment implemented in Julia that allows you to specify probabilistic models as normal programs, and perform inference.
-+ [Stan.jl](https://github.com/goedman/Stan.jl) :: Julia package for using [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29), a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function.
-+ [Stochy.jl](https://github.com/null-a/Stochy.jl) :: Probabilistic Programming in Julia.
-+ [Turing.jl](https://github.com/LaurenceA/Turing.jl) :: A Turing complete probabilistic programming language embedded in Julia.
-
-###### RESOURCES
-+ Video :: Posner Lecture - [Probabilistic Machine Learning](http://research.microsoft.com/apps/video/default.aspx?id=259579&l=i) - Foundations and Frontiers.
-+ [NorvigProbability](https://github.com/getzdan/NorvigProbability) :: Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
-
-## Geostatistics
-+ [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: High-performance geostatistical algorithms in Julia.
-+ [GslibIO.jl](https://github.com/juliohm/GslibIO.jl) :: Utilities to read/write extended GSLIB files in Julia.
-+ [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
-
-
 ## Bayesian
 + [ABCAuction](https://github.com/mcreel/ABCAuction) :: Code for ABC, SMIL and CU-II estimation of a structural auction model.
 + [ABCDistances.jl](https://github.com/dennisprangle/ABCDistances.jl) :: Performs approximate Bayesian computation (ABC) using various distance functions.
@@ -372,6 +347,8 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [PSIS.jl](https://github.com/alvaro1101/PSIS.jl) :: Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 + [VarBayes.jl](https://github.com/acetoline/VarBayes.jl) :: Variational Bayesian methods in Julia.
 
+
+
 ## Gaussian
 + [GP.jl](https://github.com/pschulam/GP.jl) :: Gaussian processes in Julia.
 + [GaussianMixtures.jl](https://github.com/davidavdav/GaussianMixtures.jl) :: Julia modules for Gaussian Mixture Models.
@@ -381,12 +358,19 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [NaiveBayes.jl](https://github.com/johnmyleswhite/NaiveBayes.jl) :: The Gaussian Naive Bayes model in Julia.
 + [Schauder.jl](https://github.com/mschauer/Schauder.jl) :: A graphical perspective on Gauss-Markov process priors and fast sparse Cholesky for hierarchically structured (generalized arrow) matrices.
 
+
+## Geostatistics
++ [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: High-performance geostatistical algorithms in Julia.
++ [GslibIO.jl](https://github.com/juliohm/GslibIO.jl) :: Utilities to read/write extended GSLIB files in Julia.
++ [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) :: Training images for geostastical simulation.
+
+
 ## [Models](https://en.wikipedia.org/wiki/Category:Model_selection)
 + [Mads.jl](https://github.com/madsjulia/Mads.jl) :: Model Analysis & Decision Support. https://madsjulia.lanl.gov
 
+
 ## [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method) Method
 + [Augur.jl](https://github.com/AugurProject/Augur.jl) :: Monte Carlo simulations, statistics and plotting tools for the Augur event consensus algorithm.
-+ [Church.jl](https://github.com/LaurenceA/Church.jl) :: Perform MCMC inference in complex, and simple, probabilistic models.
 + [ClusterUtils.jl](https://github.com/pearcemc/ClusterUtils.jl) :: Message passing, control and display utilities for parallel and distributed computing.
 + [GeometricMCMC.jl](https://github.com/scidom/GeometricMCMC.jl) :: Geometric MCMC algorithms and zero-variance (ZV) Monte Carlo Bayesian routines.
 + [MCMC2.jl](https://github.com/johnmyleswhite/MCMC2.jl) :: Alternative MCMC package design demo.
@@ -403,6 +387,30 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 ### [Dimension Reduction](https://en.wikipedia.org/wiki/Category:Dimension_reduction)
 + [FeatureExtraction.jl](https://github.com/trthatcher/FeatureExtraction.jl) :: Data pre-processing algorithms.
 + [MultivariateAnalysis.jl](https://github.com/lindahua/MultivariateAnalysis.jl) :: A Julia package for multivariate data analysis (e.g. dimension reduction).
+
+
+
+## [Probabilistic Programming](https://en.wikipedia.org/wiki/Probabilistic_programming)
++ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
++ [Church.jl](https://github.com/LaurenceA/Church.jl) :: Perform MCMC inference in complex, and simple, probabilistic models.
++ [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
++ [ExtremeStats.jl](https://github.com/juliohm/ExtremeStats.jl) :: Extreme Value Statistics in Julia.
++ [MixtureModels.jl](https://github.com/lindahua/MixtureModels.jl) :: A Julia package for probabilistic mixture models.
++ [OpenPP.jl](https://github.com/JuliaStats/OpenPP.jl) :: Open Source Probabilistic Programming in Julia.
++ [pgm.jl](https://github.com/daydreamt/pgm.jl) :: Another probabilistic graphical model repo.
++ [PGM0.jl](https://github.com/micklat/PGM0.jl) :: A bottom-up approach to probabilistic graphical models.
++ [ProbabilisticModeling.jl](https://github.com/johnmyleswhite/ProbabilisticModeling.jl) :: A BUGS-like language for describing probabilistic models in Julia.
++ [ProbTopicModels.jl](https://github.com/lindahua/ProbTopicModels.jl) :: Probabilistic topic models.
++ [Rmath.jl](https://github.com/dmbates/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
++ [Sigma.jl](https://github.com/zenna/Sigma.jl) :: A probabilistic programming environment implemented in Julia that allows you to specify probabilistic models as normal programs, and perform inference.
++ [Soss.jl](https://github.com/cscherrer/Soss.jl) :: a library for probabilistic programming.
++ [Stan.jl](https://github.com/goedman/Stan.jl) :: Julia package for using [Stan](http://en.wikipedia.org/wiki/Stan_%28software%29), a probabilistic programming language for Bayesian inference written in C++, and licensed under the New BSD License. The Stan language is used to specify a Bayesian statistical model, which is an imperative declaration of the log probability density function.
++ [Stochy.jl](https://github.com/null-a/Stochy.jl) :: Probabilistic Programming in Julia.
++ [Turing.jl](https://github.com/LaurenceA/Turing.jl) :: A Turing complete probabilistic programming language embedded in Julia.
+
+###### RESOURCES
++ Video :: Posner Lecture - [Probabilistic Machine Learning](http://research.microsoft.com/apps/video/default.aspx?id=259579&l=i) - Foundations and Frontiers.
++ [NorvigProbability](https://github.com/getzdan/NorvigProbability) :: Julia translation of Peter Norvig's [Jupyter notebook](http://nbviewer.ipython.org/github/getzdan/NorvigProbability/blob/master/NorvigProbabilityNotebook.ipynb) on probability and related puzzles.
 
 
 ## Sampling

@@ -69,7 +69,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [ApApproximation.jl](https://github.com/dprn/ApApproximation.jl) :: Implementation of the almost-periodic approximation.
 + [BasisFunctions.jl](https://github.com/daanhb/BasisFunctions.jl) :: A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package.
 + [Bijections.jl](https://github.com/scheinerman/Bijections.jl) :: Bijection datatype for Julia.
-+ [Church.jl](https://github.com/LaurenceA/Church.jl) :: helps you perform inference in complex, and simple, probabilistic models.
 + [Cartesian.jl](https://github.com/timholy/Cartesian.jl) :: Fast multidimensional algorithms.
 + [CRF.jl](https://github.com/slyrz/CRF.jl) :: Conditional Random Fields in Julia.
 + [CellularAutomata.jl](https://github.com/natj/CellularAutomata.jl) :: Cellular Automata package.
@@ -507,7 +506,6 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 
 # [DISCRETE MATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
 + [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
-+ [DiscreteFactor.jl](https://github.com/wlbksy/DiscreteFactor.jl) :: Discrete factor and its operations in Probabilistic Graphical Models.
 + [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) :: Viterbi algorithm.
 * [Infinity.jl](https://github.com/cjdoris/Infinity.jl) :: Representation of infinity in Julia.
 + [Intervals.jl](https://github.com/andrioni/Intervals.jl) :: A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library.
@@ -535,7 +533,6 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [BGraph.jl](https://github.com/adolgert/BGraph.jl) :: An adjacency list that uses typed properties for vertices, edges, and graphs.
 + [BlockArrays.jl](https://github.com/KristofferC/BlockArrays.jl) :: BlockArrays for Julia.
 + [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
-+ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 + [Blox.jl](https://github.com/tbreloff/Blox.jl) :: Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
 + [Brim.jl](https://github.com/PoisotLab/Brim.jl) :: BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
