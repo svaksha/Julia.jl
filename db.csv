@@ -640,6 +640,7 @@ Earth-Science,METEOROLOGY,Met_Plots_Models.jl,https://github.com/zhujinxuan/Met_
 Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiative transfer in Julia.
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 Earth-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia code for performing temperature, pressure and volume and buoyancy calculations."
+Earth-Science,SPACE,SpaceShuttle.jl,https://github.com/mbauman/SpaceShuttle.jl,
 Earth-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
 Earth-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
 FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
@@ -1230,7 +1231,6 @@ Mathematics,SpecialArrayTypesandAlgorithms,IndirectArrays.jl,https://github.com/
 Mathematics,SpecialArrayTypesandAlgorithms,InplaceOps.jl,https://github.com/simonbyrne/InplaceOps.jl,Convenient macros for in-place matrix operations in Julia.
 Mathematics,SpecialArrayTypesandAlgorithms,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
 Mathematics,SpecialArrayTypesandAlgorithms,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
-Mathematics,SpecialArrayTypesandAlgorithms,JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Mathematics,SpecialArrayTypesandAlgorithms,KSVD.jl,https://github.com/IshitaTakeshi/KSVD.jl,K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 Mathematics,SpecialArrayTypesandAlgorithms,LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,Handle large columns (vectors of equal length) with bits types in Julia using mmap.
 Mathematics,SpecialArrayTypesandAlgorithms,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
@@ -1256,9 +1256,11 @@ Mathematics,SpecialArrayTypesandAlgorithms,SymDict.jl,https://github.com/samocon
 Mathematics,SpecialArrayTypesandAlgorithms,TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 Mathematics,SpecialArrayTypesandAlgorithms,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
 Mathematics,SpecialArrayTypesandAlgorithms,WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Kronecker.jl,https://github.com/MichielStock/Kronecker.jl,A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitely work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),CSparse.jl,https://github.com/dmbates/CSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),_[https://github.com/JuliaSparse,https://github.com/JuliaSparse)_,"For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch."
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),JSparse.jl,https://github.com/dmbates/JSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries developed by Tim Davis.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),MatrixMarket.jl,https://github.com/JuliaSparse/MatrixMarket.jl,A package to read the MatrixMarket file format.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Meshpart.jl,https://github.com/JuliaSparse/Meshpart.jl,A Julia port of some of the functions from John Gilbert and Shang Hua Teng's Meshpart toolbox.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),Metis.jl,https://github.com/JuliaSparse/Metis.jl,Julia interface to the Metis graph-partitioning algorithms.

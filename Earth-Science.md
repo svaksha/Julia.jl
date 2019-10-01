@@ -84,6 +84,7 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 
 # SPACE
 + [Airship.jl](https://github.com/ordovician/Airship.jl) :: Julia code for performing temperature, pressure and volume and buoyancy calculations.
++ [SpaceShuttle.jl](https://github.com/mbauman/SpaceShuttle.jl)
 + [SPICE.jl](https://github.com/JuliaAstro/SPICE.jl) :: a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles.
 + [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl) :: ODE integration using Taylor's method in Julia.
 
