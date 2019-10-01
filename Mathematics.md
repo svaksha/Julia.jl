@@ -165,8 +165,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Juniper.jl](https://github.com/jcrist/Juniper.jl) :: A simple computer algebra system.
 + [Lifts.jl](https://github.com/scheinerman/Lifts.jl) :: Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation. 
 + [Mods.jl](https://github.com/scheinerman/Mods.jl) :: Easy modular arithmetic for Julia.
-+ [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
-+ [MultivariatePolynomials.jl](github.com/blegat/MultivariatePolynomials.jl) :: Multivariate polynomials and multivariate moments.
 + [Nemo.jl](http://nemocas.org/) :: A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors.
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast complex polynomial root finder, with support for arbitrary precision calculations
@@ -263,7 +261,9 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Wilkinson.jl](https://github.com/chakravala/Wilkinson.jl) :: Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 
 
-### Special Array Types and Algorithms
+
+### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
+__Special Array Types and Algorithms__
 + [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
 + [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) :: metaprogramming for Julia arrays.
 + [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) :: A Julia package to explore a new system of array views.
@@ -281,13 +281,15 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [HMat.jl](https://github.com/YingzhouLi/HMat.jl) :: Hierarchical Matrix.
 + [ImmutableArrays.jl](https://github.com/twadleigh/ImmutableArrays.jl) :: Statically-sized immutable vectors and matrices.
 + [IndexedArrays.jl](https://github.com/garrison/IndexedArrays.jl) :: A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
-
 + [IndirectArrays.jl](https://github.com/JuliaArrays/IndirectArrays.jl) :: Julia implementation of indexed or "lookup" arrays.
++ [InfiniteArrays.jl](https://github.com/JuliaArrays/InfiniteArrays.jl) :: A Julia package for representing infinite-dimensional arrays.
 + [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) :: Convenient macros for in-place matrix operations in Julia.
 + [JudyDicts.jl](https://github.com/tanmaykm/JudyDicts.jl) :: Judy Array for Julia.
 + [julia-delayed-matrix](https://github.com/kk49/julia-delayed-matrix) :: Delayed processing of Vector / Matrix expression in Julia with various backends.
++ [Kronecker.jl](https://github.com/MichielStock/Kronecker.jl) :: A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitely work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
 + [KSVD.jl](https://github.com/IshitaTakeshi/KSVD.jl) :: K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
 + [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) :: Handle large columns (vectors of equal length) with bits types in Julia using mmap. 
++ [LazyArrays.jl](https://github.com/JuliaArrays/LazyArrays.jl) :: Lazy arrays and linear algebra in Julia.
 + [MappedArrays.jl](https://github.com/JuliaArrays/MappedArrays.jl) :: Lazy in-place transformations of arrays.
 + [MatrixDepot.jl](https://github.com/JuliaMatrices/MatrixDepot.jl) :: An Extensible Test Matrix Collection for Julia. Documentation: http://matrixdepotjl.readthedocs.org/
 + [NamedArrays.jl](https://github.com/davidavdav/NamedArrays.jl) :: Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
@@ -310,11 +312,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SymDict.jl](https://github.com/samoconnor/SymDict.jl) :: Dictionaries with Symbol keys.
 + [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
 + [WoodburyMatrices.jl](https://github.com/timholy/WoodburyMatrices.jl) :: Library support for the Woodbury matrix identity.
-+ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
-
-
-### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
-+ [Kronecker.jl](https://github.com/MichielStock/Kronecker.jl) :: A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitely work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
 
 
 #### [Sparse Matrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices) 
@@ -338,6 +335,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SparseGrids.jl](https://github.com/Zac12345/SparseGrids.jl).
 + [SparseVectors.jl](https://github.com/JuliaSparse/SparseVectors.jl) :: A Julia package to support sparse vectors.
 + [SparseVectorMatrix.jl](https://github.com/pranavtbhat/SparseVectorMatrix.jl) :: SparseMatrices as a vector of SparseVectors.
++ [WSMP.jl](https://github.com/JuliaSparse/WSMP.jl) :: Interface to the Watson Sparse Matrix Package.
 
 
 ### Numerical Linear Algebra 
@@ -369,7 +367,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [ToeplitzMatrices.jl](https://github.com/andreasnoackjensen/ToeplitzMatrices.jl) :: Fast matrix multiplication and division for Toeplitz matrices in Julia.
 
 ##### Resources
-+ [JuliaCon2015](https://github.com/JuliaSparse/JuliaCon2015) :: Sparse Matrices in Julia worksho at JuliaCon2015.
++ [JuliaCon2015](https://github.com/JuliaSparse/JuliaCon2015) :: Sparse Matrices in Julia workshop at JuliaCon2015.
 + 2015Apr09 : [Video of Andreas Noack and Jiahao Chen](https://www.youtube.com/channel/UCizxnsw19qcTOdJdIJVtl0Q) speaking at the Linear Algebra and Optimization seminar at the Institute for Computational and Mathematical Engineering at Stanford. [Notebook presentation of the talk](http://andreasnoack.github.io/talks/2015AprilStanford_AndreasNoack.ipynb).
 + Learn the [theory of linear algebra](https://github.com/ULAFF/notebooks) hand-in-hand with the practice of [software library development](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x)
 + [The Performance Cost of Integer Overflow Checking](http://danluu.com/integer-overflow/).
@@ -384,6 +382,8 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [FixedPolynomials.jl](https://github.com/JuliaAlgebra/FixedPolynomials.jl) :: A package for really fast evaluation of multivariate polynomials.
 + [InterPol.jl](https://github.com/pwl/InterPol.jl) :: Interpolating polynomial for Julia.
 + [Jacobi.jl](https://github.com/pjabardo/Jacobi.jl) :: Jacobi polynomials and Gauss quadrature related functions.
++ [MultiPoly.jl](https://github.com/daviddelaat/MultiPoly.jl) :: Sparse multivariate polynomials in Julia.
++ [MultivariatePolynomials.jl](github.com/blegat/MultivariatePolynomials.jl) :: Multivariate polynomials and multivariate moments.
 + [Orthopolys.jl](https://github.com/daviddelaat/Orthopolys.jl) :: Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials.
 + [Polynomial.jl](https://github.com/vtjnash/Polynomial.jl) :: Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules. 
 + [Remez.jl](https://github.com/simonbyrne/Remez.jl) :: Remez algorithm for computing minimax polynomial approximations.
@@ -510,6 +510,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 ----
 
 # [DISCRETE MATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics)
++ [BitIntegers.jl](https://github.com/rfourquet/BitIntegers.jl) :: This package implements fixed-width integer types similar to standard builtin-ones like Int or UInt128.
 + [ClosedIntervals.jl](https://github.com/scheinerman/ClosedIntervals.jl) :: Closed intervals of the form [a,b]. 
 + [DiscreteInference.jl](https://github.com/lindahua/DiscreteInference.jl) :: Viterbi algorithm.
 * [Infinity.jl](https://github.com/cjdoris/Infinity.jl) :: Representation of infinity in Julia.
@@ -540,6 +541,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [Blox.jl](https://github.com/tbreloff/Blox.jl) :: Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
 + [Brim.jl](https://github.com/PoisotLab/Brim.jl) :: BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
++ [ContinuumArrays.jl](https://github.com/JuliaApproximation/ContinuumArrays.jl) :: A package for representing quasi arrays with continuous indices.
 + [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) :: Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
 + [EvolvingGraphs.jl](https://github.com/EtymoIO/EvolvingGraphs.jl) :: Working with time-dependent networks in Julia.
 + [FingerTrees.jl](https://github.com/mschauer/FingerTrees.jl) :: A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented.
@@ -558,7 +560,6 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [Lists.jl](https://github.com/adolgert/Lists.jl) :: Singly linked list and doubly linked list for Julia.
 + [LSH.jl](https://github.com/Keno/LSH.jl) :: Locality Sensitive Hashing functions.
 + [MatrixNetworks.jl](https://github.com/nassarhuda/MatrixNetworks.jl) :: Graph and Network algorithms.
-+ [MatrixDepot.jl](https://github.com/weijianzhang/MatrixDepot.jl) :: A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
 + [MinimalPerfectHashes.jl](https://github.com/soundcloud/MinimalPerfectHashes.jl) :: An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
 + [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
 + [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.

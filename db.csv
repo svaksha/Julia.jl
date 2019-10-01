@@ -1147,7 +1147,6 @@ Mathematics,ALGEBRA,Hecke,https://github.com/thofma/hecke,A package for algebrai
 Mathematics,ALGEBRA,Juniper.jl,https://github.com/jcrist/Juniper.jl,A simple computer algebra system.
 Mathematics,ALGEBRA,Lifts.jl,https://github.com/scheinerman/Lifts.jl,Linear fractional transformations in Julia. This module defines a Lift data type to represent a complex linear fractional transformation.
 Mathematics,ALGEBRA,Mods.jl,https://github.com/scheinerman/Mods.jl,Easy modular arithmetic for Julia.
-Mathematics,ALGEBRA,MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
 Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,"A computer algebra package for the Julia programming language. The [source code](https://github.com/wbhart/Nemo.jl) is maintained by William Hart, Tommy Hofmann, Claus Fieker, Fredrik Johansson, Oleksandr Motsak and other contributors."
 Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
 Mathematics,ALGEBRA,PolynomialRoots.jl,https://github.com/giordano/PolynomialRoots.jl,"Fast complex polynomial root finder, with support for arbitrary precision calculations"
@@ -1210,53 +1209,54 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Wilkinson.jl,https://github.com/chakravala/Wilkinson.jl,Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
-Mathematics,SpecialArrayTypesandAlgorithms,ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
-Mathematics,SpecialArrayTypesandAlgorithms,ArrayMeta.jl,https://github.com/shashi/ArrayMeta.jl,metaprogramming for Julia arrays.
-Mathematics,SpecialArrayTypesandAlgorithms,ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
-Mathematics,SpecialArrayTypesandAlgorithms,ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
-Mathematics,SpecialArrayTypesandAlgorithms,AxisAlgorithms.jl,https://github.com/timholy/AxisAlgorithms.jl,Efficient filtering and linear algebra routines for multidimensional arrays.
-Mathematics,SpecialArrayTypesandAlgorithms,AxisArrays.jl,https://github.com/JuliaArrays/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
-Mathematics,SpecialArrayTypesandAlgorithms,BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
-Mathematics,SpecialArrayTypesandAlgorithms,CatIndices.jl,https://github.com/JuliaArrays/CatIndices.jl,Julia package for indices-aware array concatenation and growth.
-Mathematics,SpecialArrayTypesandAlgorithms,CategoricalArrays.jl,https://github.com/JuliaData/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
-Mathematics,SpecialArrayTypesandAlgorithms,ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
-Mathematics,SpecialArrayTypesandAlgorithms,ConvolutionTools.jl,https://github.com/gwater/ConvolutionTools.jl,Tools for convolutions of multi-dimensional arrays in Julia.
-Mathematics,SpecialArrayTypesandAlgorithms,EndpointRanges.jl,https://github.com/JuliaArrays/EndpointRanges.jl,Julia package for doing arithmetic on endpoints in array indexing.
-Mathematics,SpecialArrayTypesandAlgorithms,FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
-Mathematics,SpecialArrayTypesandAlgorithms,FlexibleArrays.jl,http://eschnett.github.io/FlexibleArrays.jl/,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
-Mathematics,SpecialArrayTypesandAlgorithms,HMat.jl,https://github.com/YingzhouLi/HMat.jl,Hierarchical Matrix.
-Mathematics,SpecialArrayTypesandAlgorithms,ImmutableArrays.jl,https://github.com/twadleigh/ImmutableArrays.jl,Statically-sized immutable vectors and matrices.
-Mathematics,SpecialArrayTypesandAlgorithms,IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
-Mathematics,SpecialArrayTypesandAlgorithms,IndirectArrays.jl,https://github.com/JuliaArrays/IndirectArrays.jl,"Julia implementation of indexed or ""lookup"" arrays."
-Mathematics,SpecialArrayTypesandAlgorithms,InplaceOps.jl,https://github.com/simonbyrne/InplaceOps.jl,Convenient macros for in-place matrix operations in Julia.
-Mathematics,SpecialArrayTypesandAlgorithms,JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
-Mathematics,SpecialArrayTypesandAlgorithms,julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
-Mathematics,SpecialArrayTypesandAlgorithms,KSVD.jl,https://github.com/IshitaTakeshi/KSVD.jl,K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
-Mathematics,SpecialArrayTypesandAlgorithms,LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,Handle large columns (vectors of equal length) with bits types in Julia using mmap.
-Mathematics,SpecialArrayTypesandAlgorithms,MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
-Mathematics,SpecialArrayTypesandAlgorithms,MatrixDepot.jl,https://github.com/JuliaMatrices/MatrixDepot.jl,An Extensible Test Matrix Collection for Julia. Documentation: http://matrixdepotjl.readthedocs.org/
-Mathematics,SpecialArrayTypesandAlgorithms,NamedArrays.jl,https://github.com/davidavdav/NamedArrays.jl,Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
-Mathematics,SpecialArrayTypesandAlgorithms,NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
-Mathematics,SpecialArrayTypesandAlgorithms,NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
-Mathematics,SpecialArrayTypesandAlgorithms,PaddedViews.jl,https://github.com/JuliaArrays/PaddedViews.jl,"Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add ""virtual"" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be ""promoted"" to have common indices using the `paddedviews` function."
-Mathematics,SpecialArrayTypesandAlgorithms,Pseudospectra.jl,https://github.com/RalphAS/Pseudospectra.jl,"a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues (""spectral portraits"")."
-Mathematics,SpecialArrayTypesandAlgorithms,RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
-Mathematics,SpecialArrayTypesandAlgorithms,Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
-Mathematics,SpecialArrayTypesandAlgorithms,RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
-Mathematics,SpecialArrayTypesandAlgorithms,RecursiveArrayTools.jl,https://github.com/JuliaDiffEq/RecursiveArrayTools.jl,a set of tools for dealing with recursive arrays like arrays of arrays.
-Mathematics,SpecialArrayTypesandAlgorithms,RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
-Mathematics,SpecialArrayTypesandAlgorithms,Rotations.jl,https://github.com/FugroRoames/Rotations.jl, Julia implementations for different rotation parameterisations.
-Mathematics,SpecialArrayTypesandAlgorithms,ShiftedArrays.jl,https://github.com/piever/ShiftedArrays.jl,"Lazy shifted arrays implementation for data analysis in Julia. A ShiftedArray is a lazy view of an Array, shifted on some or all of its indexing dimensions by some constant values."
-Mathematics,SpecialArrayTypesandAlgorithms,Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
-Mathematics,SpecialArrayTypesandAlgorithms,StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
-Mathematics,SpecialArrayTypesandAlgorithms,SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
-Mathematics,SpecialArrayTypesandAlgorithms,StaticArrays.jl,https://github.com/JuliaArrays/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
-Mathematics,SpecialArrayTypesandAlgorithms,SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
-Mathematics,SpecialArrayTypesandAlgorithms,SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
-Mathematics,SpecialArrayTypesandAlgorithms,TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
-Mathematics,SpecialArrayTypesandAlgorithms,WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
-Mathematics,SpecialArrayTypesandAlgorithms,WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayMeta.jl,https://github.com/shashi/ArrayMeta.jl,metaprogramming for Julia arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViewsAPL.jl,https://github.com/timholy/ArrayViewsAPL.jl,Generic array-view type with APL indexing semantics.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),AxisAlgorithms.jl,https://github.com/timholy/AxisAlgorithms.jl,Efficient filtering and linear algebra routines for multidimensional arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),AxisArrays.jl,https://github.com/JuliaArrays/AxisArrays.jl,Performant arrays where each dimension can have a named axis with values.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),BandedMatrices.jl,https://github.com/ApproxFun/BandedMatrices.jl,A Julia package for representing banded matrices.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),CatIndices.jl,https://github.com/JuliaArrays/CatIndices.jl,Julia package for indices-aware array concatenation and growth.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),CategoricalArrays.jl,https://github.com/JuliaData/CategoricalArrays.jl,Arrays for working with categorical data (both nominal and ordinal) in Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ChunkedArrays.jl,https://github.com/ChrisRackauckas/ChunkedArrays.jl,A package for increasing the performance of arrays generated.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ConvolutionTools.jl,https://github.com/gwater/ConvolutionTools.jl,Tools for convolutions of multi-dimensional arrays in Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),EndpointRanges.jl,https://github.com/JuliaArrays/EndpointRanges.jl,Julia package for doing arithmetic on endpoints in array indexing.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),FArrayMod.jl,https://github.com/alsam/FArrayMod.jl,provides the ability to use arbitrary starting indices for arrays in Julia programming language.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),FlexibleArrays.jl,http://eschnett.github.io/FlexibleArrays.jl/,Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed or flexible. [Source Code](https://github.com/eschnett/FlexibleArrays.jl).
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),HMat.jl,https://github.com/YingzhouLi/HMat.jl,Hierarchical Matrix.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ImmutableArrays.jl,https://github.com/twadleigh/ImmutableArrays.jl,Statically-sized immutable vectors and matrices.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),IndexedArrays.jl,https://github.com/garrison/IndexedArrays.jl,A data structure that acts like a Vector of unique elements allowing a quick lookup of the index of any vector element in the array.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),IndirectArrays.jl,https://github.com/JuliaArrays/IndirectArrays.jl,"Julia implementation of indexed or ""lookup"" arrays."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),InfiniteArrays.jl,https://github.com/JuliaArrays/InfiniteArrays.jl,A Julia package for representing infinite-dimensional arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),InplaceOps.jl,https://github.com/simonbyrne/InplaceOps.jl,Convenient macros for in-place matrix operations in Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),JudyDicts.jl,https://github.com/tanmaykm/JudyDicts.jl,Judy Array for Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),julia-delayed-matrix,https://github.com/kk49/julia-delayed-matrix,Delayed processing of Vector / Matrix expression in Julia with various backends.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Kronecker.jl,https://github.com/MichielStock/Kronecker.jl,A general-purpose toolbox for efficient Kronecker-based algebra that combines lazy evaluation and algebraic tricks such that it can implicitely work with huge matrices. It allows to work with large Kronecker systems both much faster and using much less memory than the naive implementation of the [Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product).
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),KSVD.jl,https://github.com/IshitaTakeshi/KSVD.jl,K-SVD is an algorithm for creating overcomplete dictionaries for sparse representations.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,Handle large columns (vectors of equal length) with bits types in Julia using mmap.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),LazyArrays.jl,https://github.com/JuliaArrays/LazyArrays.jl,Lazy arrays and linear algebra in Julia.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),MappedArrays.jl,https://github.com/JuliaArrays/MappedArrays.jl,Lazy in-place transformations of arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),MatrixDepot.jl,https://github.com/JuliaMatrices/MatrixDepot.jl,An Extensible Test Matrix Collection for Julia. Documentation: http://matrixdepotjl.readthedocs.org/
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),NamedArrays.jl,https://github.com/davidavdav/NamedArrays.jl,Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),NamedAxesArrays.jl,https://github.com/timholy/NamedAxesArrays.jl,Performant arrays where each axis can be named.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),PaddedViews.jl,https://github.com/JuliaArrays/PaddedViews.jl,"Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add ""virtual"" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be ""promoted"" to have common indices using the `paddedviews` function."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Pseudospectra.jl,https://github.com/RalphAS/Pseudospectra.jl,"a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues (""spectral portraits"")."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RecursiveArrayTools.jl,https://github.com/JuliaDiffEq/RecursiveArrayTools.jl,a set of tools for dealing with recursive arrays like arrays of arrays.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RingArrays.jl,https://github.com/invenia/RingArrays.jl,A sliding window over a huge array.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Rotations.jl,https://github.com/FugroRoames/Rotations.jl, Julia implementations for different rotation parameterisations.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ShiftedArrays.jl,https://github.com/piever/ShiftedArrays.jl,"Lazy shifted arrays implementation for data analysis in Julia. A ShiftedArray is a lazy view of an Array, shifted on some or all of its indexing dimensions by some constant values."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Showoff.jl,https://github.com/dcjones/Showoff.jl,Nicely format an array of n things for tables and plots.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StaticArrays.jl,https://github.com/JuliaArrays/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),WoodburyMatrices.jl,https://github.com/timholy/WoodburyMatrices.jl,Library support for the Woodbury matrix identity.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),CSparse.jl,https://github.com/dmbates/CSparse.jl,A Julia implementation of functions in the CSparse and CXSparse libraries.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),_[https://github.com/JuliaSparse,https://github.com/JuliaSparse)_,"For the development of interfaces to sparse matrix solvers such as sequential MUMPS, SuperLU, perhaps Pastix and fill-reducing permutation software such as Metis and Scotch."
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),HarwellRutherfordBoeing.jl,https://github.com/JuliaSparse/HarwellRutherfordBoeing.jl,A Julia Reader for the Harwell-Boeing and Rutherford-Boeing Formats.
@@ -1277,6 +1277,7 @@ Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matri
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseGrids.jl,https://github.com/Zac12345/SparseGrids.jl),
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectors.jl,https://github.com/JuliaSparse/SparseVectors.jl,A Julia package to support sparse vectors.
 Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),SparseVectorMatrix.jl,https://github.com/pranavtbhat/SparseVectorMatrix.jl,SparseMatrices as a vector of SparseVectors.
+Mathematics,[SparseMatrices](https://en.wikipedia.org/wiki/Category:Sparse_matrices),WSMP.jl,https://github.com/JuliaSparse/WSMP.jl,Interface to the Watson Sparse Matrix Package.
 Mathematics,NumericalLinearAlgebra,Accelereval.jl,https://github.com/lindahua/Accelereval.jl,A Julia framework for accelerated re-compiled evaluation of numerical functions that ensures faster computation.
 Mathematics,NumericalLinearAlgebra,BSplines.jl,https://github.com/gusl/BSplines.jl,"This package provides B-Splines for 1D signals, i.e. functions of type Real -> Real."
 Mathematics,NumericalLinearAlgebra,Cuba.jl,https://github.com/giordano/Cuba.jl,"Library for multidimensional numerical integration with four independent algorithms: Vegas, Suave, Divonne, and Cuhre. [Documentation](https://cubajl.readthedocs.org/)"
@@ -1302,7 +1303,7 @@ Mathematics,NumericalLinearAlgebra,SpecialMatrices.jl,https://github.com/jiahao/
 Mathematics,NumericalLinearAlgebra,TaylorModels.jl,https://github.com/dpsanders/TaylorModels.jl,A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
 Mathematics,NumericalLinearAlgebra,TetGen.jl,https://github.com/JuliaFEM/TetGen.jl,Finite Element method solver.
 Mathematics,NumericalLinearAlgebra,ToeplitzMatrices.jl,https://github.com/andreasnoackjensen/ToeplitzMatrices.jl,Fast matrix multiplication and division for Toeplitz matrices in Julia.
-Mathematics,Resources,JuliaCon2015,https://github.com/JuliaSparse/JuliaCon2015,Sparse Matrices in Julia worksho at JuliaCon2015.
+Mathematics,Resources,JuliaCon2015,https://github.com/JuliaSparse/JuliaCon2015,Sparse Matrices in Julia workshop at JuliaCon2015.
 Mathematics,Resources,The Performance Cost of Integer Overflow Checking,http://danluu.com/integer-overflow/),
 Mathematics,Resources,julia-paper-arrays,https://github.com/jiahao/julia-paper-arrays,Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
 Mathematics,Resources,Benchmarking Matrix Multiplication,http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.335/Matrix-multiplication-experiments.ipynb,
@@ -1311,6 +1312,7 @@ Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Co
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),FixedPolynomials.jl,https://github.com/JuliaAlgebra/FixedPolynomials.jl,A package for really fast evaluation of multivariate polynomials.
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),InterPol.jl,https://github.com/pwl/InterPol.jl,Interpolating polynomial for Julia.
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Jacobi.jl,https://github.com/pjabardo/Jacobi.jl,Jacobi polynomials and Gauss quadrature related functions.
+Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),MultiPoly.jl,https://github.com/daviddelaat/MultiPoly.jl,Sparse multivariate polynomials in Julia.
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Orthopolys.jl,https://github.com/daviddelaat/Orthopolys.jl,"Orthogonal Polynomials - Currently supports Jacobi polyonomials, Gegenbauer polynomials, Hermite polynomials."
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Polynomial.jl,https://github.com/vtjnash/Polynomial.jl,"Polynomial manipulations and [PolyExt.jl](https://gist.github.com/mathpup/8514578), an extension of Polynomial.jl to support polynomial division, with handy conversions and promotion rules."
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Remez.jl,https://github.com/simonbyrne/Remez.jl,Remez algorithm for computing minimax polynomial approximations.
@@ -1387,6 +1389,7 @@ Mathematics,[SpecialFunctions](http://en.wikipedia.org/wiki/Category:Special_fun
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Complementarity.jl,https://github.com/chkwon/Complementarity.jl,"This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Fatou.jl,https://github.com/chakravala/Fatou.jl,"Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),BitIntegers.jl,https://github.com/rfourquet/BitIntegers.jl,This package implements fixed-width integer types similar to standard builtin-ones like Int or UInt128.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,"Closed intervals of the form [a,b]."
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteInference.jl,https://github.com/lindahua/DiscreteInference.jl,Viterbi algorithm.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Intervals.jl,https://github.com/andrioni/Intervals.jl,"A pure Julia reimplementation of MPFI, a multiple precision interval arithmetic library."
@@ -1411,6 +1414,7 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),b
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Blox.jl,https://github.com/tbreloff/Blox.jl,"Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}"
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),ContinuumArrays.jl,https://github.com/JuliaApproximation/ContinuumArrays.jl,A package for representing quasi arrays with continuous indices.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),DeepReshapes.jl,https://github.com/lmshk/DeepReshapes.jl,Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),EvolvingGraphs.jl,https://github.com/EtymoIO/EvolvingGraphs.jl,Working with time-dependent networks in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),FingerTrees.jl,https://github.com/mschauer/FingerTrees.jl,"A Finger Tree is a functional data structure that can give an amortized constant time access to the fingers (leaves) of the tree where the data is stored, while the internal nodes are labeled in some way as to provide the functionality of the particular data structure being implemented."
@@ -1428,7 +1432,6 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),L
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Lists.jl,https://github.com/adolgert/Lists.jl,Singly linked list and doubly linked list for Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LSH.jl,https://github.com/Keno/LSH.jl,Locality Sensitive Hashing functions.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MatrixNetworks.jl,https://github.com/nassarhuda/MatrixNetworks.jl,Graph and Network algorithms.
-Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MatrixDepot.jl,https://github.com/weijianzhang/MatrixDepot.jl,A multi-language collection of test matrices for Julia. [Documentation](http://matrixdepotjl.readthedocs.org/en/latest/)
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MinimalPerfectHashes.jl,https://github.com/soundcloud/MinimalPerfectHashes.jl,An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Named.jl,https://github.com/HarlanH/Named.jl,Julia named index and named vector types.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
