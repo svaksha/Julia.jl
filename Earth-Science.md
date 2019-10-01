@@ -7,7 +7,6 @@
   + [GPS](#gps)
   + [Org-JuliaGeo](#org-juliageo)
 + [METEOROLOGY](#meteorology)
-+ [SPACE](#space)
 
 ----
 
@@ -80,12 +79,5 @@ Ecology packages (including subjects such as agronomy, forestry and oceanographi
 + [Scriabin.jl](https://github.com/jsbj/Scriabin.jl) :: Radiative transfer in Julia.
 + [TTCal.jl](https://github.com/mweastwood/TTCal.jl) :: A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 
-----
-
-# SPACE
-+ [Airship.jl](https://github.com/ordovician/Airship.jl) :: Julia code for performing temperature, pressure and volume and buoyancy calculations.
-+ [SpaceShuttle.jl](https://github.com/mbauman/SpaceShuttle.jl)
-+ [SPICE.jl](https://github.com/JuliaAstro/SPICE.jl) :: a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles.
-+ [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl) :: ODE integration using Taylor's method in Julia.
 
 

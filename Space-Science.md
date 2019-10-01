@@ -4,6 +4,7 @@ __Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_
 + [AstroLibs](#astrolibs)
 + [Org-JuliaAstro](#org-juliaastro)
    + [Astronomical Imaging](#astronomicalimaging)
++ [SPACE](#space)
 
 ----
 
@@ -48,4 +49,13 @@ __Aeronautics, Astronomy, [Space science](https://en.wikipedia.org/wiki/Outline_
 + [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
 + [AstroImages.jl](https://github.com/JuliaAstro/AstroImages.jl) :: Plots.jl and Images.jl integration of Astronomical Images for Julia.
 + [Reproject.jl](https://github.com/JuliaAstro/Reproject.jl) :: Reproject Astronomical Images from one world coordinate to another.
+
+----
+
+# SPACE
++ [Airship.jl](https://github.com/ordovician/Airship.jl) :: Julia code for performing temperature, pressure and volume and buoyancy calculations.
++ [SpaceShuttle.jl](https://github.com/mbauman/SpaceShuttle.jl)
++ [SPICE.jl](https://github.com/JuliaAstro/SPICE.jl) :: a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles.
++ [TaylorIntegration.jl](https://github.com/PerezHz/TaylorIntegration.jl) :: ODE integration using Taylor's method in Julia.
+
 

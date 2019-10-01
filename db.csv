@@ -153,6 +153,7 @@ AI,SPEECHRECOGNITION,WORLD.jl,https://github.com/r9y9/WORLD.jl,"A Julia wrapper 
 API,API,Hydna.jl,https://github.com/jfd/Hydna.jl,Hydna Julia Client Library implements support for the Hydna Push API.
 API,API,Joseki.jl,https://github.com/amellnik/Joseki.jl,Suggested opening moves for building APIs in Julia. http://joseki.gotfork.net
 API,API,MapLight.jl,https://github.com/WestleyArgentum/MapLight.jl,"A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA."
+API,API,NewsAPI.jl,https://github.com/joshday/NewsAPI.jl,Helper functions for using newsapi.org
 API,API,OpenSecrets.jl,https://github.com/WestleyArgentum/OpenSecrets.jl,An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
 API,API,Plotlyjs.jl,https://github.com/spencerlyon2/Plotlyjs.jl,Julia wrapper API for `plotly.js` by @spencerlyon2.
 API,API,PlotlyJS.jl,https://github.com/EricForgy/PlotlyJS.jl,A Julia wrapper API for `plotly.js`by @EricForgy.
@@ -326,6 +327,7 @@ Biology,Resources,ikipedia's [list of RNA-Seq bioinformatics tools,"http://en.wi
 Biology,Resources,Data Analysis for Genomics,https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia,
 Biology,MolecularBiology,EvoDuplexes.jl,https://github.com/timbitz/EvoDuplexes.jl,A Julia package to fold all local and long-range RNA duplexes.
 Biology,[Single-CellSequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing),CellFishing.jl ,https://github.com/bicycle1885/CellFishing.jl,"(cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing."
+Biology,[MIOCROSCOPY](https://en.wikipedia.org/wiki/Microscopy),MicroscopyLabels.jl,https://github.com/tlnagy/MicroscopyLabels.jl,Embed annotations in your microscopy images.
 Biology,NEUROSCIENCE,BrainWave.jl,https://github.com/sam81/BrainWave.jl,Julia functions to process electroencephalographic (EEG) recordings.
 Biology,NEUROSCIENCE,CodeNeuro,http://codeneuro.org/,Bringing neuroscience and data science together.
 Biology,NEUROSCIENCE,DCEMRI.jl,https://github.com/davidssmith/DCEMRI.jl,"A Fast, Validated Toolkit for Dynamic Contrast Enhanced MRI Analysis. A paper on the code is in press at [PeerJ](https://peerj.com/preprints/670/)."
@@ -639,10 +641,6 @@ Earth-Science,METEOROLOGY,Hotwire.jl,https://github.com/pjabardo/Hotwire.jl,Hotw
 Earth-Science,METEOROLOGY,Met_Plots_Models.jl,https://github.com/zhujinxuan/Met_Plots_Models.jl,A simple wrapper of matlibplot for a meteorologist.
 Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiative transfer in Julia.
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
-Earth-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia code for performing temperature, pressure and volume and buoyancy calculations."
-Earth-Science,SPACE,SpaceShuttle.jl,https://github.com/mbauman/SpaceShuttle.jl,
-Earth-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
-Earth-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
 FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
 FileIO,SavingJuliaObjects,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
 FileIO,SavingJuliaObjects,JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
@@ -1918,6 +1916,10 @@ Space-Science,Org-[JuliaAstro](https://JuliaAstro.github.io),WCS.jl,https://gith
 Space-Science,AstronomicalImaging,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
 Space-Science,AstronomicalImaging,AstroImages.jl,https://github.com/JuliaAstro/AstroImages.jl,Plots.jl and Images.jl integration of Astronomical Images for Julia.
 Space-Science,AstronomicalImaging,Reproject.jl,https://github.com/JuliaAstro/Reproject.jl,Reproject Astronomical Images from one world coordinate to another.
+Space-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia code for performing temperature, pressure and volume and buoyancy calculations."
+Space-Science,SPACE,SpaceShuttle.jl,https://github.com/mbauman/SpaceShuttle.jl,
+Space-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
+Space-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
 Statistics,Econometrics,copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
 Statistics,Econometrics,Dolo.jl,https://github.com/EconForge/Dolo.jl,A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 Statistics,Econometrics,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,"This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models."

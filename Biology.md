@@ -10,6 +10,7 @@
    + [GWAS](#gwas) 
    + [Molecular Biology](#molecular-biology)
         + [DNA Sequencing}(#dna-sequencing)
++ [MIOCROSCOPY](#microscopy)
 + [NEUROSCIENCE](#neuroscience)
 + [PHARMACOLOGY](#pharmacology)
 + [Resources-Teaching](#resources-teaching)
@@ -126,6 +127,12 @@ __Genome Wide Association Study (GWAS)__
 ### [DNA Sequencing](https://en.wikipedia.org/wiki/DNA_sequencing)
 #### [Single-Cell Sequencing](https://en.wikipedia.org/wiki/Single_cell_sequencing)
 + [CellFishing.jl ](https://github.com/bicycle1885/CellFishing.jl) :: (cell finder via hashing) is a tool to find similar cells of query cells based on their transcriptome expression profiles, a.k.a. single-cell sequencing. 
+
+
+----
+
+# [MIOCROSCOPY](https://en.wikipedia.org/wiki/Microscopy)
++ [MicroscopyLabels.jl](https://github.com/tlnagy/MicroscopyLabels.jl) :: Embed annotations in your microscopy images.
 
 
 ----

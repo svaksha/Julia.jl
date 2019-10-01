@@ -27,6 +27,7 @@
 + [Hydna.jl](https://github.com/jfd/Hydna.jl) :: Hydna Julia Client Library implements support for the Hydna Push API.
 + [Joseki.jl](https://github.com/amellnik/Joseki.jl) :: Suggested opening moves for building APIs in Julia. http://joseki.gotfork.net
 + [MapLight.jl](https://github.com/WestleyArgentum/MapLight.jl) :: A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA.
++ [NewsAPI.jl](https://github.com/joshday/NewsAPI.jl) :: Helper functions for using newsapi.org 
 + [OpenSecrets.jl](https://github.com/WestleyArgentum/OpenSecrets.jl) :: An API package for working with [OpenSecrets data](http://opensecrets.org/resources/create/)
 + [Plotlyjs.jl](https://github.com/spencerlyon2/Plotlyjs.jl) :: Julia wrapper API for `plotly.js` by @spencerlyon2. 
 + [PlotlyJS.jl](https://github.com/EricForgy/PlotlyJS.jl) :: A Julia wrapper API for `plotly.js`by @EricForgy.
