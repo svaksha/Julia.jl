@@ -1242,6 +1242,7 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,Provides a high performance implementation of named tuples for Julia (cf named tuples in python).
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),PaddedViews.jl,https://github.com/JuliaArrays/PaddedViews.jl,"Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add ""virtual"" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be ""promoted"" to have common indices using the `paddedviews` function."
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Pseudospectra.jl,https://github.com/RalphAS/Pseudospectra.jl,"a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues (""spectral portraits"")."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),QuasiArrays.jl,https://github.com/JuliaApproximation/QuasiArrays.jl,"A package for representing quasi-arrays, viz. arrays with non-classical indexing, including possibly continuous indexing."
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RandomBandedMatrices.jl,https://github.com/dlfivefifty/RandomBandedMatrices.jl),
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Ranges.jl,https://github.com/JuliaArrays/Ranges.jl,Array-like objects with compact storage for the Julia language.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),RangeArrays.jl,https://github.com/JuliaArrays/RangeArrays.jl,Efficient and convenient array data structures where the columns of the arrays are generated (on the fly) by Ranges.
@@ -1491,6 +1492,7 @@ Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Compu
 Mathematics,[ComputationalGeometry](https://en.wikipedia.org/wiki/Category:Computational_geometry),Vec.jl,https://github.com/tawheeler/Vec.jl,Provides 2D and 3D vector types for vector operations in Julia.
 Mathematics,[SolidGeometry](https://en.wikipedia.org/wiki/Solid_geometry),Descartes.jl,https://github.com/FactoryOS/Descartes.jl,A research project into the representation of solid geometry.
 Mathematics,[Trigonometry](https://en.wikipedia.org/wiki/Category:Trigonometry),Tau.jl,https://github.com/JuliaMath/Tau.jl,A simple module providing definition of the Tau constant.
+Mathematics,PUZZLES,Chess.jl,https://github.com/romstad/Chess.jl,Julia chess programming library.
 Mathematics,PUZZLES,Deepthought.jl,https://github.com/dejakaymac/Deepthought.jl,
 Mathematics,PUZZLES,euler,https://github.com/somu/euler,Project Euler solutions in Julia.
 Mathematics,PUZZLES,PlayingCards.jl,https://github.com/DataWookie/PlayingCards.jl,Package for simulating Playing Cards games in Julia.
