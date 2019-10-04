@@ -237,6 +237,7 @@
 + [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) :: Typeset scattered graph data rewriter based on LaTeX nodes.
 
 ----
+
 # General IO
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
 + [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.

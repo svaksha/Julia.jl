@@ -12,7 +12,9 @@
 
 
 # MACHINE LEARNING
+
 Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
+
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
@@ -90,7 +92,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [TheDataMustFlow.jl](https://github.com/ExpandingMan/TheDataMustFlow.jl) :: Julia tools for feeding tabular data into machine learning. 
 + [TSVD.jl](https://github.com/andreasnoack/TSVD.jl) :: Truncated singular value decomposition with partial reorthogonalization.
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
-
++ [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) :: Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
 
 ###### Resources
 + [DistLearn.jl](https://github.com/pluskid/DistLearn.jl) :: An example of distributed learning in Julia. Note: this is not a full featured distributed machine learning library, therefore we are not going to register this in the Julia package system.
