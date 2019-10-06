@@ -92,12 +92,14 @@ Wrappers's and programming API's for other languages and general backend server 
 + [j2d3.jl](https://github.com/fredo-dedup/j2d3.jl) :: trying to generate d3 statements from within julia.
 + [JavaScriptBridge.jl](https://github.com/EricForgy/JavaScriptBridge.jl) :: A simple package that allows Julia to interact with JavaScript in a browser and is heavily inspired by Blink.jl.
 + [jlbox](https://github.com/compressed/jlbox) :: Use node.js to provide a mechanism for automatically reloading julia source and test files via gulp.js and a ZMQ socket. 
++ [JSExpr.jl](https://github.com/JuliaGizmos/JSExpr.jl) :: Translate Julia to JavaScript.
 + [JSTypes.jl](https://github.com/johnmyleswhite/JSTypes.jl) :: Mimic Javascript objects using Julian types.
 + [node-julia](https://github.com/waTeim/node-julia) ::  Fast and simple access to `Julia` embedded in `node.js`. Documentation: [Getting Started with Node Julia](https://node-julia.readme.io/).
 + [PlotlyJS.jl](https://github.com/spencerlyon2/PlotlyJS.jl) :: Julia wrapper/API for plotly.js.
 + [TableView.jl](https://github.com/JuliaComputing/TableView.jl) :: A spreadsheet-like display wrapping `Handsontable.js`.
 + [twiddle.jl](https://github.com/intdxdt/twiddle.jl) :: Bit twiddle port from port from bit-twiddle.
 + [Vue.jl](https://github.com/JuliaGizmos/Vue.jl) :: A Julia wrapper for `Vue.js`.
+
 
 ### Template Engines
 + [Mustache.jl](https://github.com/jverzani/Mustache.jl) : Port of mustache.js to julia.
