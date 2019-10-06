@@ -37,6 +37,7 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 + [Dolo.jl](https://github.com/EconForge/Dolo.jl) :: A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
 + [Econometrics.jl](https://github.com/JuliaFinMetriX/Econometrics.jl) :: The Econometrics.jl package contains functionalities for (financial) econometric research.
++ [Expectations.jl](https://github.com/QuantEcon/Expectations.jl) ::  Expectation operators for `Distributions.jl` objects.
 + [FredData.jl](https://github.com/micahjsmith/FredData.jl) :: Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
 + [fund.jl](https://github.com/davidanthoff/fund.jl) :: An implementation of FUND in Julia.
 + [GARCH.jl](https://github.com/AndreyKolev/GARCH.jl) :: Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.

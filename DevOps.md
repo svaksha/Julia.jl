@@ -174,7 +174,8 @@ __Package/Infrastructure management tools and Documentation__
 + [Nix.jl](https://github.com/JuliaPackaging/Nix.jl) :: Package manager for Julia.
 + [PackageEvaluator.jl](https://github.com/IainNZ/PackageEvaluator.jl) :: The Julia package evaluator.
 + [PkgDev.jl](https://github.com/JuliaLang/PkgDev.jl) :: Julia Package Development Kit.
-+ [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) :: Tools for analyzing Julia packages.
++ [PkgUtils.jl](https://github.com/johnmyleswhite/PkgUtils.jl) @johnmyleswhite :: Tools for analyzing Julia packages.
++ [PkgUtils.jl](https://github.com/arnavs/PkgUtils.jl) by @arnavs :: Some small utilities to help with Julia packages
 + [Require.jl](https://github.com/jkroso/Require.jl) :: A better module system for Julia.
 + [Requires.jl](https://github.com/MikeInnes/Requires.jl) :: A Julia package that will quickly load your package dependencies.
 + [VersionParsing.jl](https://github.com/stevengj/VersionParsing.jl) :: flexible VersionNumber parsing in Julia. 
