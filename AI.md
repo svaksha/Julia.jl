@@ -188,6 +188,7 @@ Machine learning and statistics are closely related fields, so do check out the 
 
 # SPEECH RECOGNITION
 + [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) :: It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
++ [MFCC.jl](https://github.com/JuliaDSP/MFCC.jl) :: Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 + [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
 + [SPTK.jl](https://github.com/r9y9/SPTK.jl) :: A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 + [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters.
