@@ -23,6 +23,9 @@
 
 # BIOINFORMATICS
 + [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
++ [BioJulia](https://github.com/BioJulia) :: The bioinformatics infrastructure for the Julia language. It contains packages like
+  [BioSequences.jl](https://github.com/BioJulia/BioSequences.jl), [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl)
+  and many others !
 + [Circuitscape.jl](https://github.com/tanmaykm/Circuitscape.jl) :: The Julia implementation of the [Circuitscape lib in Python](http://www.circuitscape.org/) that uses electronic circuit theory to solve problems in landscape ecology.
 + [EMIRT.jl](https://github.com/seung-lab/EMIRT.jl) :: Electron Microscopy Image Reconstruction Toolbox using julia language.
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
