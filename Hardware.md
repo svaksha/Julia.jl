@@ -101,7 +101,7 @@
 + [TinyG.jl](https://github.com/sjkelly/TinyG.jl) :: This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos.
 
 ## [Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers)
-+ [Arduino.jl](https://github.com/rennis250/Arduino.jl) :: Basic Arduino interface for Julia.
++ [Arduino.jl](https://github.com/ihnorton/Arduino.jl) :: Basic Arduino interface for Julia.
 + [PiGPIO.jl](https://github.com/aviks/PiGPIO.jl) :: Manage external hardware using GPIO pins on the Raspberry Pi.
 
 ----
