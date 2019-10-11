@@ -134,9 +134,11 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Floats1024.jl](https://github.com/J-Sarnoff/Floats1024.jl) :: Accurate floating point math at extended precision for Float-1024.
 + [FloatHigher.jl](https://github.com/J-Sarnoff/FloatHigher.jl) :: accurate floating point math at extended precisions.
 + [HigherPrecision.jl](https://github.com/saschatimme/HigherPrecision.jl) :: HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat. 
++ [IEEEFloat16.jl](https://github.com/vchuravy/IEEEFloat16.jl)
 + [Ryu.jl](https://github.com/quinnj/Ryu.jl) :: Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings. 
 + [UnumX.jl](https://github.com/JuliaComputing/UnumX.jl) :: Experimental Unums.
 + [ValidatedNumerics.jl](https://github.com/dpsanders/ValidatedNumerics.jl) :: Rigorous floating-point calculations via interval arithmetic.
+
 
 
 ###### Resources

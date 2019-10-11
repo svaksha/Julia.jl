@@ -130,6 +130,7 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [CallGraphs.jl](https://github.com/timholy/CallGraphs.jl) :: A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses.
 + [dataflow.jl](https://github.com/JeffBezanson/dataflow.jl) :: Introduction to dataflow analysis using julia.
 + [ExpressionPatterns.jl](https://github.com/fcard/ExpressionPatterns.jl) :: Match, Destructure and Dispatch on expressions.
++ [Lens.jl](https://github.com/zenna/Lens.jl) :: A simple Julia library to inspect the runtime behaviour of your programs, with minimal interference to the program itself. 
 + [LRUCache.jl](https://github.com/jcrist/LRUCache.jl) :: An implementation of a Least Recently Used (LRU) Cache.
 + [PAPI.jl](https://github.com/jakebolewski/PAPI.jl) :: Julia bindings to the Performance Application Programming Interface (PAPI).
 + [StatProfilerHTML.jl](https://github.com/tkluck/StatProfilerHTML.jl) :: Show Julia profiling data in an explorable HTML page.

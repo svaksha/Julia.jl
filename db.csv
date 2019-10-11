@@ -147,6 +147,7 @@ AI,English,Why.jl,https://github.com/TorkelE/Why.jl,"A simple function, why, whi
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,"It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia."
+AI,SPEECHRECOGNITION,MFCC.jl,https://github.com/JuliaDSP/MFCC.jl,Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 AI,SPEECHRECOGNITION,SpeechBase.jl,https://github.com/r9y9/SpeechBase.jl),
 AI,SPEECHRECOGNITION,SPTK.jl,https://github.com/r9y9/SPTK.jl,"A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK."
 AI,SPEECHRECOGNITION,SynthesisFilters.jl,https://github.com/r9y9/SynthesisFilters.jl,Speech Synthesis Filters.
@@ -949,6 +950,7 @@ Graphics,INFOGRAPHICS,VTK.jl,https://github.com/timholy/VTK.jl,VTK bindings for 
 Graphics,INFOGRAPHICS,Wavelets.jl,"https://github.com/JuliaDSP/Wavelets.jl), by JuliaDS",Fast Discrete Wavelet Transforms written in Julia.
 Graphics,INFOGRAPHICS,Wavelets.jl,"https://github.com/tomaskrehlik/Wavelets.jl), by tomaskrehli",Implementation of Wavelet methods in Julia.
 Graphics,GraphicalPlotting,Bokeh.jl,https://github.com/bokeh/Bokeh.jl,Bokeh bindings for Julia.
+Graphics,GraphicalPlotting,CMPlot.jl,https://github.com/g-insana/CMPlot.jl,Cloudy Mountain Plot function in Julia.
 Graphics,GraphicalPlotting,FalseColor.jl,https://github.com/ojwoodford/FalseColor.jl,A Julia package to turn gridded data into pretty images.
 Graphics,GraphicalPlotting,Gadfly.jl,http://gadflyjl.org/,[Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
 Graphics,GraphicalPlotting,Gaston.jl,https://github.com/mbaz/Gaston.jl,A julia front-end for gnuplot.
@@ -1039,7 +1041,7 @@ Hardware,ControlSystem,Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapp
 Hardware,Resources,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
 Hardware,Resources,omer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia,http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
 Hardware,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,"This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos."
-Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/rennis250/Arduino.jl,Basic Arduino interface for Julia.
+Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/ihnorton/Arduino.jl,Basic Arduino interface for Julia.
 Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
 Hardware,Robots,FPTControl.jl,https://github.com/krisztiankosi/FPTControl.jl,Fixed Point Transformation Based Control.
 Hardware,Robots,MotionCaptureJointCalibration.jl,https://github.com/tkoolen/MotionCaptureJointCalibration.jl,Kinematic calibration for robots using motion capture data.
@@ -1132,6 +1134,7 @@ Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_poin
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Floats1024.jl,https://github.com/J-Sarnoff/Floats1024.jl,Accurate floating point math at extended precision for Float-1024.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),FloatHigher.jl,https://github.com/J-Sarnoff/FloatHigher.jl,accurate floating point math at extended precisions.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),HigherPrecision.jl,https://github.com/saschatimme/HigherPrecision.jl,"HigherPrecision defines the subtypes of `AbstractFloat`, `DoubleFloat64`, a 128 bit number type with around 30 bits of precision, intended as a drop-in replacement for Float64 and BigFloat."
+Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),IEEEFloat16.jl,https://github.com/vchuravy/IEEEFloat16.jl,
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),Ryu.jl,https://github.com/quinnj/Ryu.jl,Julia implementation of [ryu](https://github.com/ulfjack/ryu) that converts floating point numbers to decimal strings.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),UnumX.jl,https://github.com/JuliaComputing/UnumX.jl,Experimental Unums.
 Mathematics,[FloatingPoint](https://en.wikipedia.org/wiki/Category:Floating_point),ValidatedNumerics.jl,https://github.com/dpsanders/ValidatedNumerics.jl,Rigorous floating-point calculations via interval arithmetic.
@@ -1651,6 +1654,7 @@ Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:P
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),CallGraphs.jl,https://github.com/timholy/CallGraphs.jl,"A package for analyzing source-code callgraphs, particularly of Julia's `src/` directory. The main motivation for this package was to aid in finding all functions that might trigger garbage collection by directly or indirectly calling `jl_gc_collect`; however, the package has broader uses."
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),dataflow.jl,https://github.com/JeffBezanson/dataflow.jl,Introduction to dataflow analysis using julia.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),ExpressionPatterns.jl,https://github.com/fcard/ExpressionPatterns.jl,"Match, Destructure and Dispatch on expressions."
+Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),Lens.jl,https://github.com/zenna/Lens.jl,"A simple Julia library to inspect the runtime behaviour of your programs, with minimal interference to the program itself."
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),LRUCache.jl,https://github.com/jcrist/LRUCache.jl,An implementation of a Least Recently Used (LRU) Cache.
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),PAPI.jl,https://github.com/jakebolewski/PAPI.jl,Julia bindings to the Performance Application Programming Interface (PAPI).
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),StatProfilerHTML.jl,https://github.com/tkluck/StatProfilerHTML.jl,Show Julia profiling data in an explorable HTML page.
@@ -2131,7 +2135,6 @@ Statistics,STATISTICS,NURBS.jl,https://github.com/TheBB/NURBS.jl,"A Julia packag
 Statistics,STATISTICS,NHST.jl,https://github.com/johnmyleswhite/NHST.jl,Null hypothesis significance tests.
 Statistics,STATISTICS,OnlineStats.jl,https://github.com/joshday/OnlineStats.jl,Online algorithms for statistics.
 Statistics,STATISTICS,PowerLaws.jl,https://github.com/johnybx/PowerLaws.jl,"A Julia package for power laws distributions according to the paper, [POWER-LAW DISTRIBUTIONS IN EMPIRICAL DATA](http://arxiv.org/pdf/0706.1062v2.pdf)."
-Statistics,STATISTICS,PGM.jl,https://github.com/JuliaStats/PGM.jl,A Julia framework for probabilistic graphical models.
 Statistics,STATISTICS,PValueAdjust.jl,https://github.com/dirkschumacher/PValueAdjust.jl,P-value adjustment methods for multiple testing correction.
 Statistics,STATISTICS,Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 Statistics,STATISTICS,RandomProcesses.jl,https://github.com/johnmyleswhite/RandomProcesses.jl,"Random processes (CRP, CRT) in Julia."
@@ -2218,7 +2221,9 @@ Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilisti
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ExtremeStats.jl,https://github.com/juliohm/ExtremeStats.jl,Extreme Value Statistics in Julia.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),MixtureModels.jl,https://github.com/lindahua/MixtureModels.jl,A Julia package for probabilistic mixture models.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),OpenPP.jl,https://github.com/JuliaStats/OpenPP.jl,Open Source Probabilistic Programming in Julia.
+Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),PGM.jl,https://github.com/JuliaStats/PGM.jl,A Julia framework for probabilistic graphical models.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),pgm.jl,https://github.com/daydreamt/pgm.jl,Another probabilistic graphical model repo.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),PGM0.jl,https://github.com/micklat/PGM0.jl,A bottom-up approach to probabilistic graphical models.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ProbabilisticModeling.jl,https://github.com/johnmyleswhite/ProbabilisticModeling.jl,A BUGS-like language for describing probabilistic models in Julia.

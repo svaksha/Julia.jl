@@ -168,6 +168,7 @@ __Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
 
 ### Graphical Plotting
 + [Bokeh.jl](https://github.com/bokeh/Bokeh.jl) :: Bokeh bindings for Julia.
++ [CMPlot.jl](https://github.com/g-insana/CMPlot.jl) :: Cloudy Mountain Plot function in Julia.
 + [FalseColor.jl](https://github.com/ojwoodford/FalseColor.jl) :: A Julia package to turn gridded data into pretty images.
 + [Gadfly.jl](http://gadflyjl.org/) :: [Gadfly](https://github.com/dcjones/Gadfly.jl) is a statistical graphics plotting and data visualization system.
    * _DOCS_
