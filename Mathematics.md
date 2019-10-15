@@ -256,7 +256,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [MKL.jl](https://github.com/JuliaComputing/MKL.jl) :: is a package that makes Julia's linear algebra use Intel MKL BLAS and LAPACK instead of OpenBLAS. The build step of the package will automatically download Intel MKL and rebuild Julia's system image against Intel MKL. 
 + [MUMPS](https://github.com/lruthotto/MUMPS) :: A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 + [MUMPS1.jl](https://github.com/dmbates/MUMPS1.jl) :: An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
-+ [NonuniformArray.jl](https://github.com/ReidAtcheson/NonuniformArray.jl) :: This library handles the case of __array of arrays__ where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia. 
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
@@ -297,6 +296,7 @@ __Special Array Types and Algorithms__
 + [NamedArrays.jl](https://github.com/davidavdav/NamedArrays.jl) :: Julia type that implements a drop-in replacement of Array with named dimensions and Dict-type indexes.
 + [NamedAxesArrays.jl](https://github.com/timholy/NamedAxesArrays.jl) :: Performant arrays where each axis can be named. 
 + [NamedTuples.jl](https://github.com/blackrock/NamedTuples.jl) :: Provides a high performance implementation of named tuples for Julia (cf named tuples in python). 
++ [NonuniformArray.jl](https://github.com/ReidAtcheson/NonuniformArray.jl) :: This library handles the case of __array of arrays__ where each subarray may have different lengths - but enforces contiguity of data for ease of passing to outside linear algebra packages.
 + [PaddedViews.jl](https://github.com/JuliaArrays/PaddedViews.jl) :: Add virtual padding to the edges of an array - provides a simple wrapper type, PaddedView, to add "virtual" padding to any array without copying data. Edge values not specified by the array are assigned a fillvalue. Multiple arrays may be "promoted" to have common indices using the `paddedviews` function.
 + [Pseudospectra.jl](https://github.com/RalphAS/Pseudospectra.jl) :: a package for computing pseudospectra of non-symmetric matrices, and plotting them along with eigenvalues ("spectral portraits").
 + [QuasiArrays.jl](https://github.com/JuliaApproximation/QuasiArrays.jl) :: A package for representing quasi-arrays, viz. arrays with non-classical indexing, including possibly continuous indexing.
@@ -308,6 +308,7 @@ __Special Array Types and Algorithms__
 + [Rotations.jl](https://github.com/FugroRoames/Rotations.jl) ::  Julia implementations for different rotation parameterisations.
 + [ShiftedArrays.jl](https://github.com/piever/ShiftedArrays.jl) :: Lazy shifted arrays implementation for data analysis in Julia. A ShiftedArray is a lazy view of an Array, shifted on some or all of its indexing dimensions by some constant values.
 + [Showoff.jl](https://github.com/dcjones/Showoff.jl) :: Nicely format an array of n things for tables and plots.
++ [StructArrays.jl](https://github.com/piever/StructArrays.jl) :: Efficient implementation of struct arrays in Julia 
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) :: Statically sized arrays for Julia `v0.5`.

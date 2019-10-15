@@ -1,5 +1,6 @@
 **Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
 
++ [Graphic Design](#graphic-design)
 + [GRAPHICS](#graphics)
    * [2D Vector Graphics](#v2d-ector-graphics)
    * [3D graphics imaging](#3d-graphics-imaging)
@@ -12,6 +13,14 @@
 ----
 
 + [julia-logo-graphics](https://github.com/JuliaLang/julia-logo-graphics) :: official versions of the Julia logo. 
+
+----
+
+# [Graphic Design](https://en.wikipedia.org/wiki/Category:Graphic_design)
++ [FIGlet.jl](https://github.com/kdheepak/FIGlet.jl) :: Fonts port of FIGlet.
+
+
+----
 
 # GRAPHICS
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
