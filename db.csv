@@ -1559,6 +1559,7 @@ OpenDataScience,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked d
 OpenDataScience,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
 OpenDataScience,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
 OpenDataScience,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
+OpenDataScience,MACHINELEARNING,Celeb-DF,http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html,"A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos."
 OpenDataScience,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
 OpenDataScience,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
 OpenDataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,

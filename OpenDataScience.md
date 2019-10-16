@@ -158,7 +158,9 @@
 ----
 
 # MACHINE LEARNING
++ [Celeb-DF](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html) :: A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos. 
 + [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+
 
 ----
 
