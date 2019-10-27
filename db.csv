@@ -7,7 +7,6 @@ AI,MACHINELEARNING,Clustering.jl,https://github.com/johnmyleswhite/Clustering.jl
 AI,MACHINELEARNING,DAI.jl,https://github.com/binarybana/DAI.jl,A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 AI,MACHINELEARNING,DecisionTree.jl,https://github.com/bensadeghi/DecisionTree.jl,Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 AI,MACHINELEARNING,DecisionTrees.jl,https://github.com/MikeInnes/DecisionTrees.jl,{NotSupported}
-AI,MACHINELEARNING,DeepQLearning.jl,https://github.com/Andy-P/DeepQLearning.jl,An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 AI,MACHINELEARNING,Discretizers.jl,https://github.com/sisl/Discretizers.jl,A package to support discretization methods and mapping functions for data discretization and label maps.
 AI,MACHINELEARNING,EGR.jl,https://github.com/stefanks/EGR.jl,The Stochastic Gradient (SG) algorithm for machine learning.
 AI,MACHINELEARNING,ELM.jl,https://github.com/lepisma/ELM.jl,Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
@@ -18,7 +17,6 @@ AI,MACHINELEARNING,Flux.jl,https://github.com/MikeInnes/Flux.jl,A library for ma
 AI,MACHINELEARNING,FunctionalDataUtils.jl,https://github.com/rened/FunctionalDataUtils.jl,"Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning."
 AI,MACHINELEARNING,go.jl,https://github.com/dmrd/go.jl,A deep learning based Go bot implemented in Julia.
 AI,MACHINELEARNING,GradientBoost.jl,https://github.com/svs14/GradientBoost.jl,Gradient boosting framework for Julia.
-AI,MACHINELEARNING,GURLS.jl,https://github.com/joehuchette/GURLS.jl,A pure Julia port of the GURLS supervised learning library.
 AI,MACHINELEARNING,Glmnet.jl,https://github.com/simonster/Glmnet.jl,Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 AI,MACHINELEARNING,HopfieldNets.jl,https://github.com/johnmyleswhite/HopfieldNets.jl,Discrete and continuous Hopfield networks in Julia.
 AI,MACHINELEARNING,HSIC.jl,https://github.com/trappmartin/HSIC.jl,Julia implementations of the Hilbert-Schmidt Independence Criterion (HSIC).
@@ -44,9 +42,6 @@ AI,MACHINELEARNING,Merlin.jl,https://github.com/hshindo/Merlin.jl,Flexible Deep 
 AI,MACHINELEARNING,MLDatasets.jl,https://github.com/JuliaML/MLDatasets.jl,Utility package for accessing common Machine Learning datasets in Julia.
 AI,MACHINELEARNING,MLLabelUtils.jl,https://github.com/JuliaML/MLLabelUtils.jl,Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 AI,MACHINELEARNING,MLKernels.jl,https://github.com/trthatcher/MLKernels.jl,Mercer kernels and Gramian matrix calculation/approximation.
-AI,MACHINELEARNING,Mocha.jl,https://github.com/pluskid/Mocha.jl,"A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe."
-AI,MACHINELEARNING,ew tutorial on [unsupervised pre-training with stacked denoising auto-encoders,http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html),
-AI,MACHINELEARNING,n IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification,http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb),
 AI,MACHINELEARNING,MochaTheano.jl,https://github.com/benmoran/MochaTheano.jl,"Allow use of Theano for automatic differentiation within Mocha, via PyCall."
 AI,MACHINELEARNING,MXNet.jl,https://github.com/dmlc/MXNet.jl,Flexible and efficient deep learning in Julia.
 AI,MACHINELEARNING,NetworkLearning.jl,https://github.com/zgornel/NetworkLearning.jl,Baseline collective classification library.
@@ -58,8 +53,6 @@ AI,MACHINELEARNING,PredictMD.jl,https://github.com/bcbi/PredictMD.jl,Uniform int
 AI,MACHINELEARNING,PrivateMultiplicativeWeights.jl,https://github.com/mrtzh/PrivateMultiplicativeWeights.jl,Differentially private synthetic data.
 AI,MACHINELEARNING,ProjectiveDictionaryPairLearning.jl,https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl,"Juia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014."
 AI,MACHINELEARNING,RegERMs.jl,https://github.com/BigCrunsh/RegERMs.jl,"A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia."
-AI,MACHINELEARNING,ReinforcementLearning.jl,https://github.com/jbrea/ReinforcementLearning.jl,A Reinforcement Learning package by @jbrea.
-AI,MACHINELEARNING,ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl):: A Reinforcement Learning package by @benhamner,
 AI,MACHINELEARNING,SALSA.jl,https://github.com/jumutc/SALSA.jl,_S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
 AI,MACHINELEARNING,ScikitLearn.jl,https://github.com/cstjean/ScikitLearn.jl,Julia implementation of the scikit-learn API.
 AI,MACHINELEARNING,heatsheet for [choosing the right estimator,http://scikit-learn.org/stable/tutorial/machine_learning_map/),
@@ -68,7 +61,6 @@ AI,MACHINELEARNING,SimpleML.jl,https://github.com/aviks/SimpleML.jl,Textbook imp
 AI,MACHINELEARNING,SFA.jl,https://github.com/makokal/SFA.jl,Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 AI,MACHINELEARNING,SoftConfidenceWeighted.jl,https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl,Exact Soft Confidence-Weighted Learning.
 AI,MACHINELEARNING,Strada.jl,https://github.com/pcmoritz/Strada.jl,A deep learning library for Julia based on Caffe.
-AI,MACHINELEARNING,SupervisedLearning.jl,https://github.com/Evizero/SupervisedLearning.jl,Front-end interface for supervised machine learning.
 AI,MACHINELEARNING,SVMLightLoader.jl,https://github.com/IshitaTakeshi/SVMLightLoader.jl,Loader of svmlight / liblinear format files.
 AI,MACHINELEARNING,JuliaTakingFittingAPIsSeriously,https://github.com/JuliaTakingFittingAPIsSeriously,"proof of concept taking the APIs for statistics, machine learning and other infomatics."
 AI,MACHINELEARNING,TensorFlow.jl,https://github.com/malmaud/TensorFlow.jl,"A Julia wrapper for TensorFlow, the open source machine learning framework from Google."
@@ -81,7 +73,6 @@ AI,Resources,Examples from _Thoughtful Machine Learning_,https://github.com/thou
 AI,Resources,CIML,https://github.com/hal3/ciml,"A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.)."
 AI,Resources,deepframeworks,https://github.com/zer0n/deepframeworks,An evaluation of Deep Learning Frameworks.
 AI,Resources, [Machine Learning,http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube,
-AI,Resources,ml_cheat_sheet,https://github.com/rcompton/ml_cheat_sheet,Supervised learning superstitions cheat sheet.
 AI,Resources,Machine Learning Algorithm Cheat Sheet,http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton,
 AI,Resources,machine-learning-cheat-sheet,https://github.com/soulmachine/machine-learning-cheat-sheet,Classical equations and diagrams in machine learning by @soulmachine.
 AI,Resources,Machine Learning cheatsheet,http://eferm.com/machine-learning-cheat-sheet/),
@@ -90,26 +81,6 @@ AI,Resources,juliastreetview,https://github.com/evq/juliastreetview,Updated samp
 AI,Resources,ML4H.jl,https://github.com/johnmyleswhite/ML4H.jl,Machine Learning for Hackers in Julia.
 AI,Resources,A curated list of awesome places to learn and/or practice algorithms,https://github.com/tayllan/awesome-algorithms),
 AI,Resources, HN site for [ML,http://news.startup.ml/),
-AI,NEURALNETWORKS,ANN.jl,https://github.com/EricChiang/ANN.jl,Artifical Neural Networks.
-AI,NEURALNETWORKS,log post on [Neural networks and a dive into Julia,http://blog.yhathq.com/posts/julia-neural-networks.html,
-AI,NEURALNETWORKS,Boltzmann.jl,https://github.com/dfdx/Boltzmann.jl,Restricted Boltzmann Machines and Deep Belief Networks in Julia
-AI,NEURALNETWORKS,FANN.jl,https://github.com/gasagna/FANN.jl,A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
-AI,NEURALNETWORKS,hinton.jl,https://github.com/lepisma/hinton.jl,Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
-AI,NEURALNETWORKS,Julia_Neural_Network,https://github.com/nwenzel/Julia_Neural_Network,Basic Neural Network written in JuliaLang.
-AI,NEURALNETWORKS,mlpnnets.jl,https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl,Feed-forward MLP neural network implementation.
-AI,NEURALNETWORKS,MultiLabelNeuralNetwork.jl,https://github.com/jperla/MultiLabelNeuralNetwork.jl,A simple feed-forward neural network for multi-label classification.
-AI,NEURALNETWORKS,neural.jl,https://github.com/compressed/neural.jl,"is a Julia implementation of a neural network, based on Sergio Fierens Ruby version."
-AI,NEURALNETWORKS,NeuralNets.jl,https://github.com/anj1/NeuralNets.jl,Generic artificial neural networks in Julia.
-AI,NEURALNETWORKS,neuralnetwork.jl,https://github.com/tomaskrehlik/neuralnetwork.jl,is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
-AI,NEURALNETWORKS,NeuralNetworks.jl,https://github.com/soumith/NeuralNetworks.jl,Various functions for Neural Networks implemented in Julia.
-AI,NEURALNETWORKS,ONNX.jl,https://github.com/FluxML/ONNX.jl,Read ONNX graphs and load these models in Julia.
-AI,NEURALNETWORKS,RecurrentNN.jl,https://github.com/Andy-P/RecurrentNN.jl,Deep RNN and LSTM in Julia.
-AI,NEURALNETWORKS,RNN.jl,https://github.com/kzahedi/RNN.jl,Recurrent Neural Networks.
-AI,NEURALNETWORKS,SimpleNets,https://github.com/rgehring/SimpleNets,Simple neural nets implementions in Julia.
-AI,NEURALNETWORKS,SpikeNet.jl,https://github.com/damiendr/SpikeNet.jl,A spiking neural network simulator written in Julia.
-AI,NEURALNETWORKS,StackedNets.jl,https://github.com/yarlett/StackedNets.jl,A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
-AI,NEURALNETWORKS,SumProductNetworks.jl,https://github.com/trappmartin/SumProductNetworks.jl,Sum-Product Networks (deep probabilistic networks) package in Julia.
-AI,Resources,log post on '[Chess position evaluation with convolutional neural network in Julia,http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)',
 AI,NLP,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation in Julia.
 AI,NLP,allen,https://github.com/ninjin/allen,A syntacto-semantic natural language parser.
 AI,NLP,BKTrees.jl,https://github.com/zgornel/BKTrees.jl,Julia implementation of Burkhard-Keller trees.
@@ -146,12 +117,42 @@ AI,English,EnglishText.jl,https://github.com/TotalVerb/EnglishText.jl,Utilities 
 AI,English,Why.jl,https://github.com/TorkelE/Why.jl,"A simple function, why, which gives randomly generated answers."
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),DeepQLearning.jl,https://github.com/Andy-P/DeepQLearning.jl,An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/jbrea/ReinforcementLearning.jl) by @jbre,A Reinforcement Learning package.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl) by @benhamne,A Reinforcement Learning package.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearnin,A package for reinforcement learning research in Julia.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,"It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia."
 AI,SPEECHRECOGNITION,MFCC.jl,https://github.com/JuliaDSP/MFCC.jl,Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 AI,SPEECHRECOGNITION,SpeechBase.jl,https://github.com/r9y9/SpeechBase.jl),
 AI,SPEECHRECOGNITION,SPTK.jl,https://github.com/r9y9/SPTK.jl,"A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK."
 AI,SPEECHRECOGNITION,SynthesisFilters.jl,https://github.com/r9y9/SynthesisFilters.jl,Speech Synthesis Filters.
 AI,SPEECHRECOGNITION,WORLD.jl,https://github.com/r9y9/WORLD.jl,"A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD."
+AI,[SUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Supervised_learning),GURLS.jl,https://github.com/joehuchette/GURLS.jl,A pure Julia port of the GURLS supervised learning library.
+AI,[SUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Supervised_learning),SupervisedLearning.jl,https://github.com/Evizero/SupervisedLearning.jl,Front-end interface for supervised machine learning.
+AI,Resources,ml_cheat_sheet,https://github.com/rcompton/ml_cheat_sheet,Supervised learning superstitions cheat sheet.
+AI,[UNSUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning),Mocha.jl,https://github.com/pluskid/Mocha.jl,"A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe."
+AI,[UNSUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning),ew tutorial on [unsupervised pre-training with stacked denoising auto-encoders,http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html),
+AI,[UNSUPERVISEDLEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning),n IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification,http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb),
+AI,NeuralNetworks,ANN.jl,https://github.com/EricChiang/ANN.jl,Artifical Neural Networks.
+AI,NeuralNetworks,log post on [Neural networks and a dive into Julia,http://blog.yhathq.com/posts/julia-neural-networks.html,
+AI,NeuralNetworks,Boltzmann.jl,https://github.com/dfdx/Boltzmann.jl,Restricted Boltzmann Machines and Deep Belief Networks in Julia
+AI,NeuralNetworks,FANN.jl,https://github.com/gasagna/FANN.jl,A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
+AI,NeuralNetworks,hinton.jl,https://github.com/lepisma/hinton.jl,Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
+AI,NeuralNetworks,Julia_Neural_Network,https://github.com/nwenzel/Julia_Neural_Network,Basic Neural Network written in JuliaLang.
+AI,NeuralNetworks,mlpnnets.jl,https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl,Feed-forward MLP neural network implementation.
+AI,NeuralNetworks,MultiLabelNeuralNetwork.jl,https://github.com/jperla/MultiLabelNeuralNetwork.jl,A simple feed-forward neural network for multi-label classification.
+AI,NeuralNetworks,neural.jl,https://github.com/compressed/neural.jl,"is a Julia implementation of a neural network, based on Sergio Fierens Ruby version."
+AI,NeuralNetworks,NeuralNets.jl,https://github.com/anj1/NeuralNets.jl,Generic artificial neural networks in Julia.
+AI,NeuralNetworks,neuralnetwork.jl,https://github.com/tomaskrehlik/neuralnetwork.jl,is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
+AI,NeuralNetworks,NeuralNetworks.jl,https://github.com/soumith/NeuralNetworks.jl,Various functions for Neural Networks implemented in Julia.
+AI,NeuralNetworks,ONNX.jl,https://github.com/FluxML/ONNX.jl,Read ONNX graphs and load these models in Julia.
+AI,NeuralNetworks,RecurrentNN.jl,https://github.com/Andy-P/RecurrentNN.jl,Deep RNN and LSTM in Julia.
+AI,NeuralNetworks,RNN.jl,https://github.com/kzahedi/RNN.jl,Recurrent Neural Networks.
+AI,NeuralNetworks,SimpleNets,https://github.com/rgehring/SimpleNets,Simple neural nets implementions in Julia.
+AI,NeuralNetworks,SpikeNet.jl,https://github.com/damiendr/SpikeNet.jl,A spiking neural network simulator written in Julia.
+AI,NeuralNetworks,StackedNets.jl,https://github.com/yarlett/StackedNets.jl,A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
+AI,NeuralNetworks,SumProductNetworks.jl,https://github.com/trappmartin/SumProductNetworks.jl,Sum-Product Networks (deep probabilistic networks) package in Julia.
+AI,Resources,log post on '[Chess position evaluation with convolutional neural network in Julia,http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)',
 API,API,Hydna.jl,https://github.com/jfd/Hydna.jl,Hydna Julia Client Library implements support for the Hydna Push API.
 API,API,Joseki.jl,https://github.com/amellnik/Joseki.jl,Suggested opening moves for building APIs in Julia. http://joseki.gotfork.net
 API,API,MapLight.jl,https://github.com/WestleyArgentum/MapLight.jl,"A Julia package for using the [MapLight API](http://maplight.org/apis/bill-positions), which has interesting legislative data about how much money has been spent on lobbying for or against a particular bill in the USA."
@@ -997,63 +998,64 @@ Graphics,ComputationalGeometry,TetGen.jl,https://github.com/JuliaGeometry/TetGen
 Graphics,ComputationalGeometry,TriangleIntersect.jl,https://github.com/JuliaGeometry/TriangleIntersect.jl,Fast ray-triangle intersections for raytracing.
 Graphics,ComputationalGeometry,VoronoiCells.jl,https://github.com/jlapeyre/VoronoiCells.jl,Manipulate Voronoi cells in 2D.
 Graphics,ComputationalGeometry,VoronoiDelaunay.jl,https://github.com/JuliaGeometry/VoronoiDelaunay.jl,"Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package."
-Hardware,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,"API wrapper for Julia, bare bones."
-Hardware,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
-Hardware,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
-Hardware,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
-Hardware,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,"Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM."
-Hardware,Architectures,ZenFab.jl,https://github.com/FactoryOS/ZenFab.jl,Software for using digital manufacturing devices.
-Hardware,FTDI,FTD2XX.jl,https://github.com/cstook/FTD2XX.jl,Wrapper for FTDI FTD2XX library.
-Hardware,Intel,RdRand.jl,https://github.com/SamChill/RdRand.jl,Generate random numbers using Intel's RDRAND instruction.
-Hardware,NationalInstruments,NIDAQ.jl,https://github.com/JaneliaSciComp/NIDAQ.jl,This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
-Hardware,VirtualInstrumentSoftwareArchitecture,Instruments.jl,https://github.com/BBN-Q/Instruments.jl,"A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers."
-Hardware,VirtualInstrumentSoftwareArchitecture,VISA.jl,https://github.com/ajkeller34/VISA.jl,VISA wrapper for Julia.
-Hardware,AUDIO-VIDEO,AudioIO.jl,https://github.com/ssfrr/AudioIO.jl,"is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported."
-Hardware,AUDIO-VIDEO,AV.jl,https://github.com/kmsquire/AV.jl,"Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale."
-Hardware,AUDIO-VIDEO,Bebop.jl,https://github.com/zhemao/Bebop.jl,An audio library for the Julia programming language.
-Hardware,AUDIO-VIDEO,Chango,https://bitbucket.org/mbaz/chango,"A simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink."
-Hardware,AUDIO-VIDEO,FLAC.jl,https://github.com/dmbates/FLAC.jl,Julia bindings for libFLAC.
-Hardware,AUDIO-VIDEO,gr-juliaffi,https://github.com/JayKickliter/gr-juliaffi,A GNU Radio package that lets you write custom signal processing blocks in Julia.
-Hardware,AUDIO-VIDEO,LibSndFile.jl,https://github.com/JuliaAudio/LibSndFile.jl,"A wrapper for libsndfile, and supports a wide variety of file and sample formats."
-Hardware,AUDIO-VIDEO,Midi.jl,https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files,
-Hardware,AUDIO-VIDEO,MP3.jl,https://github.com/JuliaAudio/MP3.jl,MP3 codec for Julia using JuliaAudio idioms. LAME and mpg123 working under the hood.
-Hardware,AUDIO-VIDEO,Opus.jl,https://github.com/staticfloat/Opus.jl,Julia library to interface with Opus audio files.
-Hardware,AUDIO-VIDEO,OSC.jl,https://github.com/fundamental/OSC.jl,"Open Sound Control serialization library, a port of RTOSC for Julia."
-Hardware,AUDIO-VIDEO,PortAudio.jl,https://github.com/ssfrr/PortAudio.jl,Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library for cross-platform access to audio devices.
-Hardware,AUDIO-VIDEO,Radio.jl,https://github.com/JayKickliter/Radio.jl,A digital communications package for the Julia language.
-Hardware,AUDIO-VIDEO,Rasim.jl,https://github.com/maemre/Rasim.jl,A time-slot based radio network simulator written in Julia.
-Hardware,AUDIO-VIDEO,RingBuffers.jl,https://github.com/JuliaAudio/RingBuffers.jl,"A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling."
-Hardware,AUDIO-VIDEO,SampledSignals.jl,https://github.com/JuliaAudio/SampledSignals.jl,"Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio."
-Hardware,AUDIO-VIDEO,SampleTypes.jl,https://github.com/JuliaAudio/SampleTypes.jl,"A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages."
-Hardware,AUDIO-VIDEO,Sound.jl,https://github.com/JuliaLang/Sound.jl,Reading and writing from WAV files.
-Hardware,AUDIO-VIDEO,Tablo.jl,https://github.com/dmbates/Tablo.jl,Julia interface to the Tablo over-the-air digital video recorder.
-Hardware,BOTS,MakiBot.jl,https://github.com/SimonDanisch/MakiBot.jl,A Telegram plot bot for MakiE.jl.
-Hardware,BOTS,Q.jl,https://github.com/enlnt/Q.jl,Julia for [kdb+](https://github.com/prologic/kdb). Docs: https://enlnt.github.io/Q.jl/latest
-Hardware,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplified generation of device CAD files for superconducting device design.
-Hardware,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
-Hardware,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
-Hardware,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
-Hardware,ControlSystem,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,Basic Julia bindings for fontconfig.
-Hardware,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
-Hardware,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
-Hardware,ControlSystem,LinearControl.jl,https://github.com/jemofthewest/LinearControl.jl,Julia package for analysis and design of control strategies for linear systems.
-Hardware,ControlSystem,ProtoBuf.jl,https://github.com/tanmaykm/ProtoBuf.jl,"is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more."
-Hardware,ControlSystem,Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapper for SLICOT Routines.
-Hardware,Resources,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
-Hardware,Resources,omer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia,http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
-Hardware,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,"This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos."
-Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/ihnorton/Arduino.jl,Basic Arduino interface for Julia.
-Hardware,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
-Hardware,Robots,FPTControl.jl,https://github.com/krisztiankosi/FPTControl.jl,Fixed Point Transformation Based Control.
-Hardware,Robots,MotionCaptureJointCalibration.jl,https://github.com/tkoolen/MotionCaptureJointCalibration.jl,Kinematic calibration for robots using motion capture data.
-Hardware,Robots,RigidBodyDynamics.jl,https://github.com/tkoolen/RigidBodyDynamics.jl,Julia implementation of various rigid body dynamics and kinematics algorithms.
-Hardware,Robots,Robotics.jl,https://github.com/cdsousa/Robotics.jl,"Toolbox for (serial manipulator) robotics, focusing robot dynamics."
-Hardware,Robots,RobotOS.jl,https://github.com/phobon/RobotOS.jl,Julia interface to ROS (Robot Operating System).
-Hardware,TouchScreen,Taste.jl,https://github.com/jiahao/Taste.jl,A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),he __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License,"https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
+Machines,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,"API wrapper for Julia, bare bones."
+Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
+Machines,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
+Machines,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
+Machines,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,"Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM."
+Machines,Architectures,ZenFab.jl,https://github.com/FactoryOS/ZenFab.jl,Software for using digital manufacturing devices.
+Machines,FTDI,FTD2XX.jl,https://github.com/cstook/FTD2XX.jl,Wrapper for FTDI FTD2XX library.
+Machines,Intel,RdRand.jl,https://github.com/SamChill/RdRand.jl,Generate random numbers using Intel's RDRAND instruction.
+Machines,NationalInstruments,NIDAQ.jl,https://github.com/JaneliaSciComp/NIDAQ.jl,This package provides an interface to NIDAQmx - National Instruments' driver for their data acquisition boards.
+Machines,VirtualInstrumentSoftwareArchitecture,Instruments.jl,https://github.com/BBN-Q/Instruments.jl,"A package for controlling laboratory instruments through Julia over TCPIP/GPIB/USB/Serial, wrapped around the NI-VISA library (which needs to be separately installed) similar to PyVISA and has some starts towards making it easier to write custom instrument drivers."
+Machines,VirtualInstrumentSoftwareArchitecture,VISA.jl,https://github.com/ajkeller34/VISA.jl,VISA wrapper for Julia.
+Machines,AUDIO-VIDEO,AudioIO.jl,https://github.com/ssfrr/AudioIO.jl,"is a Julia library for interfacing to audio streams, which include playing to and recording from sound cards, reading and writing audio files, sending to network audio streams, etc. Currently only playing to the sound card through PortAudio is supported."
+Machines,AUDIO-VIDEO,AV.jl,https://github.com/kmsquire/AV.jl,"Julia bindings for libav/ffmpeg, libavcodec, libavformat, libavutil, and libswscale."
+Machines,AUDIO-VIDEO,Bebop.jl,https://github.com/zhemao/Bebop.jl,An audio library for the Julia programming language.
+Machines,AUDIO-VIDEO,Chango,https://bitbucket.org/mbaz/chango,"A simulator written in Julia, somewhat similar to GNU Radio, LabView and Simulink."
+Machines,AUDIO-VIDEO,FLAC.jl,https://github.com/dmbates/FLAC.jl,Julia bindings for libFLAC.
+Machines,AUDIO-VIDEO,gr-juliaffi,https://github.com/JayKickliter/gr-juliaffi,A GNU Radio package that lets you write custom signal processing blocks in Julia.
+Machines,AUDIO-VIDEO,LibSndFile.jl,https://github.com/JuliaAudio/LibSndFile.jl,"A wrapper for libsndfile, and supports a wide variety of file and sample formats."
+Machines,AUDIO-VIDEO,Midi.jl,https://github.com/JoelHobson/Midi.jl) : A Julia library for reading and writing Midi files,
+Machines,AUDIO-VIDEO,MP3.jl,https://github.com/JuliaAudio/MP3.jl,MP3 codec for Julia using JuliaAudio idioms. LAME and mpg123 working under the hood.
+Machines,AUDIO-VIDEO,Nextion.jl,https://github.com/scls19fr/Nextion.jl,An unofficial Julia library to communicate with Itead Nextion display.
+Machines,AUDIO-VIDEO,Opus.jl,https://github.com/staticfloat/Opus.jl,Julia library to interface with Opus audio files.
+Machines,AUDIO-VIDEO,OSC.jl,https://github.com/fundamental/OSC.jl,"Open Sound Control serialization library, a port of RTOSC for Julia."
+Machines,AUDIO-VIDEO,PortAudio.jl,https://github.com/ssfrr/PortAudio.jl,Julia interface API for the [PortAudio](http://en.wikipedia.org/wiki/PortAudio) (audio) library for cross-platform access to audio devices.
+Machines,AUDIO-VIDEO,Radio.jl,https://github.com/JayKickliter/Radio.jl,A digital communications package for the Julia language.
+Machines,AUDIO-VIDEO,Rasim.jl,https://github.com/maemre/Rasim.jl,A time-slot based radio network simulator written in Julia.
+Machines,AUDIO-VIDEO,RingBuffers.jl,https://github.com/JuliaAudio/RingBuffers.jl,"A simple non-allocating circular RingBuffer type, with configurable overflow and underflow handling."
+Machines,AUDIO-VIDEO,SampledSignals.jl,https://github.com/JuliaAudio/SampledSignals.jl,"Core types for regularly-sampled multichannel signals like Audio, RADAR and Software-Defined Radio."
+Machines,AUDIO-VIDEO,SampleTypes.jl,https://github.com/JuliaAudio/SampleTypes.jl,"A collection of core types for regularly-sampled multichannel sampled signals like radio or Audiodata, RADAR and Software-Defined Radio, EEG signals, etc., to provide better interoperability between packages that read data from files or streams, DSP packages, and output and display packages."
+Machines,AUDIO-VIDEO,Sound.jl,https://github.com/JuliaLang/Sound.jl,Reading and writing from WAV files.
+Machines,AUDIO-VIDEO,Tablo.jl,https://github.com/dmbates/Tablo.jl,Julia interface to the Tablo over-the-air digital video recorder.
+Machines,BOTS,MakiBot.jl,https://github.com/SimonDanisch/MakiBot.jl,A Telegram plot bot for MakiE.jl.
+Machines,BOTS,Q.jl,https://github.com/enlnt/Q.jl,Julia for [kdb+](https://github.com/prologic/kdb). Docs: https://enlnt.github.io/Q.jl/latest
+Machines,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplified generation of device CAD files for superconducting device design.
+Machines,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
+Machines,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
+Machines,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
+Machines,ControlSystem,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,Basic Julia bindings for fontconfig.
+Machines,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
+Machines,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
+Machines,ControlSystem,LinearControl.jl,https://github.com/jemofthewest/LinearControl.jl,Julia package for analysis and design of control strategies for linear systems.
+Machines,ControlSystem,ProtoBuf.jl,https://github.com/tanmaykm/ProtoBuf.jl,"is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more."
+Machines,ControlSystem,Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapper for SLICOT Routines.
+Machines,Resources,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
+Machines,Resources,omer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia,http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
+Machines,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,"This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos."
+Machines,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/ihnorton/Arduino.jl,Basic Arduino interface for Julia.
+Machines,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
+Machines,Robots,FPTControl.jl,https://github.com/krisztiankosi/FPTControl.jl,Fixed Point Transformation Based Control.
+Machines,Robots,MotionCaptureJointCalibration.jl,https://github.com/tkoolen/MotionCaptureJointCalibration.jl,Kinematic calibration for robots using motion capture data.
+Machines,Robots,RigidBodyDynamics.jl,https://github.com/tkoolen/RigidBodyDynamics.jl,Julia implementation of various rigid body dynamics and kinematics algorithms.
+Machines,Robots,Robotics.jl,https://github.com/cdsousa/Robotics.jl,"Toolbox for (serial manipulator) robotics, focusing robot dynamics."
+Machines,Robots,RobotOS.jl,https://github.com/phobon/RobotOS.jl,Julia interface to ROS (Robot Operating System).
+Machines,TouchScreen,Taste.jl,https://github.com/jiahao/Taste.jl,A simple package for computerized human-computer olfaction and gustation interactivity that supports integrated Instant Olfaction Technology Screens.
 Mathematics,CRYPTOGRAPHY,BlockCipherSelfStudy.jl,https://github.com/andrewcooke/BlockCipherSelfStudy.jl,"Blocks, and RC5."
 Mathematics,CRYPTOGRAPHY,Crypto.jl,https://github.com/danielsuo/Crypto.jl,"A library that wraps OpenSSL, but also has pure Julia implementations for reference."
 Mathematics,CRYPTOGRAPHY,FNVHash.jl,https://github.com/samoconnor/FNVHash.jl,"FNV (Fowler/Noll/Vo) is a fast, non-cryptographic hash algorithm with good dispersion."

@@ -1,19 +1,21 @@
-**Artificial Intelligence, Machine Learning, Neural Networks, NLP, Speech Recognition and Voice tools,...**
+**Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages. Category sorting of packages is a WIP.**
 
 + [MACHINE LEARNING](#machine-learning)
-+ [NEURAL NETWORKS](#neural-networks)
 + [NLP](#nlp)
    + [English](#english)
    + [Finite Automata](#finite-automata)
    + [Japanese](#japanese)
++ [REINFORCEMENT LEARNING](#reinforcement-learning)
 + [SPEECH RECOGNITION](#speech-recognition)
++ [SUPERVISED LEARNING](#supervised-learning)
++ [UNSUPERVISED LEARNING](#unsupervised-learning)
+   + [Neural Networks](#neural-networks)
 
 ----
 
 
 # MACHINE LEARNING
 
-Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages.
 
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
@@ -24,7 +26,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [DAI.jl](https://github.com/binarybana/DAI.jl) :: A julia binding to the C++ discrete approximate inference library for graphical models: libDAI.
 + [DecisionTree.jl](https://github.com/bensadeghi/DecisionTree.jl) :: Julia implementation of Decision Tree (CART) and Random Forest algorithms.
 + [DecisionTrees.jl](https://github.com/MikeInnes/DecisionTrees.jl) :: {NotSupported}
-+ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 + [Discretizers.jl](https://github.com/sisl/Discretizers.jl) :: A package to support discretization methods and mapping functions for data discretization and label maps.
 + [EGR.jl](https://github.com/stefanks/EGR.jl) :: The Stochastic Gradient (SG) algorithm for machine learning.
 + [ELM.jl](https://github.com/lepisma/ELM.jl) :: Extreme Learning Machines are a variant of Single-Hidden Layer Feedforward Networks (SLFNs) with a significant departure as their weights aren't iteratively tuned. This boosts the speed of neurals nets heavily.
@@ -35,7 +36,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
 + [go.jl](https://github.com/dmrd/go.jl) :: A deep learning based Go bot implemented in Julia.
 + [GradientBoost.jl](https://github.com/svs14/GradientBoost.jl) :: Gradient boosting framework for Julia.
-+ [GURLS.jl](https://github.com/joehuchette/GURLS.jl) :: A pure Julia port of the GURLS supervised learning library.
 + [Glmnet.jl](https://github.com/simonster/Glmnet.jl) :: Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 + [HopfieldNets.jl](https://github.com/johnmyleswhite/HopfieldNets.jl) :: Discrete and continuous Hopfield networks in Julia.
 + [HSIC.jl](https://github.com/trappmartin/HSIC.jl) :: Julia implementations of the Hilbert-Schmidt Independence Criterion (HSIC).
@@ -61,9 +61,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
 + [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
-+ [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe.
-   + New tutorial on [unsupervised pre-training with stacked denoising auto-encoders](http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html).
-   + An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb).
 + [MochaTheano.jl](https://github.com/benmoran/MochaTheano.jl) :: Allow use of Theano for automatic differentiation within Mocha, via PyCall.
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: Flexible and efficient deep learning in Julia.
 + [NetworkLearning.jl](https://github.com/zgornel/NetworkLearning.jl) :: Baseline collective classification library.
@@ -75,8 +72,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [PrivateMultiplicativeWeights.jl](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) :: Differentially private synthetic data.
 + [ProjectiveDictionaryPairLearning.jl](https://github.com/quxiaofeng/ProjectiveDictionaryPairLearning.jl) :: Juia code for the paper S. Gu, L. Zhang, W. Zuo, and X. Feng, “Projective Dictionary Pair Learning for Pattern Classification,” In NIPS 2014.
 + [RegERMs.jl](https://github.com/BigCrunsh/RegERMs.jl) :: A package implementing several machine learning algorithms in a regularised empirical risk minimisation framework (SVMs, LogReg, Linear Regression) in Julia.
-+ [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) :: A Reinforcement Learning package by @jbrea.
-+ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl):: A Reinforcement Learning package by @benhamner.
 + [SALSA.jl](https://github.com/jumutc/SALSA.jl) :: _S_oftware Lab for _A_dvanced Machine _L_earning and _S_tochastic _A_lgorithms is a native Julia implementation of the well known stochastic algorithms for linear and non-linear Support Vector Machines.
 + [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) :: Julia implementation of the scikit-learn API.
     + Cheatsheet for [choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/).
@@ -85,7 +80,6 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SFA.jl](https://github.com/makokal/SFA.jl) :: Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 + [SoftConfidenceWeighted.jl](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl) :: Exact Soft Confidence-Weighted Learning.
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe.
-+ [SupervisedLearning.jl](https://github.com/Evizero/SupervisedLearning.jl) :: Front-end interface for supervised machine learning.
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files.
 + [JuliaTakingFittingAPIsSeriously](https://github.com/JuliaTakingFittingAPIsSeriously) :: proof of concept taking the APIs for statistics, machine learning and other infomatics.
 + [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) :: A Julia wrapper for TensorFlow, the open source machine learning framework from Google.
@@ -94,13 +88,13 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [ValueHistories.jl](https://github.com/JuliaML/ValueHistories.jl) :: Utilities to efficiently track learning curves or other optimization information.
 + [XLATools.jl](https://github.com/MikeInnes/XLATools.jl) :: Provides access to XLA and the XRT runtime (in Tensorflow), including the ability to build and compile XLA computations using the IRTools format.
 
-###### Resources
+
+##### Resources
 + [DistLearn.jl](https://github.com/pluskid/DistLearn.jl) :: An example of distributed learning in Julia. Note: this is not a full featured distributed machine learning library, therefore we are not going to register this in the Julia package system.
 + [Examples from _Thoughtful Machine Learning_](https://github.com/thoughtfulml/examples).
 + [CIML](https://github.com/hal3/ciml) :: A Course in Machine Learning. This repository contains the source code for the CIML book (see http://ciml.info/) as well as any course materials that seem useful (slides, documents, labs, etc.).
 + [deepframeworks](https://github.com/zer0n/deepframeworks) :: An evaluation of Deep Learning Frameworks.
 + A [Machine Learning](http://work.caltech.edu/telecourse.html#lectures) course by Prof. Yaser Abu-Mostafa with videos on Youtube.
-+ [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
 + [Machine Learning Algorithm Cheat Sheet](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet) by Laura D Hamilton.
 + [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) :: Classical equations and diagrams in machine learning by @soulmachine.
 + [Machine Learning cheatsheet](http://eferm.com/machine-learning-cheat-sheet/).
@@ -110,36 +104,11 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms).
 + A HN site for [ML](http://news.startup.ml/).
 
-----
-
-# NEURAL NETWORKS
-+ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
-   + __Resources__
-   + Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
-+ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann Machines and Deep Belief Networks in Julia
-+ [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
-+ [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
-+ [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
-+ [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) :: Feed-forward MLP neural network implementation.
-+ [MultiLabelNeuralNetwork.jl](https://github.com/jperla/MultiLabelNeuralNetwork.jl) :: A simple feed-forward neural network for multi-label classification.
-+ [neural.jl](https://github.com/compressed/neural.jl) :: is a Julia implementation of a neural network, based on Sergio Fierens Ruby version.
-+ [NeuralNets.jl](https://github.com/anj1/NeuralNets.jl) :: Generic artificial neural networks in Julia.
-+ [neuralnetwork.jl](https://github.com/tomaskrehlik/neuralnetwork.jl) :: is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
-+ [NeuralNetworks.jl](https://github.com/soumith/NeuralNetworks.jl) :: Various functions for Neural Networks implemented in Julia.
-+ [ONNX.jl](https://github.com/FluxML/ONNX.jl) :: Read ONNX graphs and load these models in Julia.
-+ [RecurrentNN.jl](https://github.com/Andy-P/RecurrentNN.jl) :: Deep RNN and LSTM in Julia.
-+ [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Recurrent Neural Networks.
-+ [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
-+ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia.
-+ [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
-+ [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) :: Sum-Product Networks (deep probabilistic networks) package in Julia.
-
-###### Resources
-+ Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.
 
 ----
 
 # NLP
+
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation in Julia.
 + [Peter Norvig's spelling corrector ported to Julia](https://gist.github.com/kmsquire/7569843), is now a part of the [DataStructures.jl](https://github.com/JuliaLang/DataStructures.jl) package.
 + [allen](https://github.com/ninjin/allen) :: A syntacto-semantic natural language parser.
@@ -175,14 +144,28 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [WordNet.jl](https://github.com/JuliaText/WordNet.jl) :: A Julia package for Princeton's WordNet®.
 
 ### English
+
 + [EnglishText.jl](https://github.com/TotalVerb/EnglishText.jl) :: Utilities for English-language quirks in Julia.
 + [Why.jl](https://github.com/TorkelE/Why.jl) :: A simple function, why, which gives randomly generated answers.
 
 ### [Finite Automata](https://en.wikipedia.org/wiki/Category:Finite_automata)
+
 + [FiniteStateMachine.jl](https://github.com/tinybike/FiniteStateMachine.jl) :: A simple Julia implementation of finite state machines.
 
 ### Japanese
+
 + [MeCab.jl](https://github.com/chezou/MeCab.jl) :: Julia binding of Japanese morphological analyzer MeCab.
+
+
+----
+
+# [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
+
++ [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
++ [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) by @jbrea :: A Reinforcement Learning package.
++ [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner :: A Reinforcement Learning package.
++ [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearning :: A package for reinforcement learning research in Julia.
+
 
 ----
 
@@ -193,5 +176,52 @@ Machine learning and statistics are closely related fields, so do check out the 
 + [SPTK.jl](https://github.com/r9y9/SPTK.jl) :: A Julia wrapper for the Speech Signal Processing Toolkit (SPTK), based on the modified version of SPTK.
 + [SynthesisFilters.jl](https://github.com/r9y9/SynthesisFilters.jl) :: Speech Synthesis Filters.
 + [WORLD.jl](https://github.com/r9y9/WORLD.jl) :: A Julia wrapper for WORLD - a high-quality speech analysis, modification and synthesis system. WORLD provides a way to decompose a speech signal into: Fundamental frequency (F0), spectral envelope, excitation signal (or aperiodicy used in TANDEM-STRAIGHT), and re-synthesize a speech signal from these paramters. See here for the original WORLD.
+
+
+----
+
+# [SUPERVISED LEARNING](https://en.wikipedia.org/wiki/Supervised_learning)
+
++ [GURLS.jl](https://github.com/joehuchette/GURLS.jl) :: A pure Julia port of the GURLS supervised learning library.
++ [SupervisedLearning.jl](https://github.com/Evizero/SupervisedLearning.jl) :: Front-end interface for supervised machine learning.
+
+##### Resources
+
++ [ml_cheat_sheet](https://github.com/rcompton/ml_cheat_sheet) :: Supervised learning superstitions cheat sheet.
+
+
+----
+
+# [UNSUPERVISED LEARNING](https://en.wikipedia.org/wiki/Unsupervised_learning)
+
++ [Mocha.jl](https://github.com/pluskid/Mocha.jl) :: A Deep Learning framework for Julia, inspired by the C++ Deep Learning framework Caffe.
+   + New tutorial on [unsupervised pre-training with stacked denoising auto-encoders](http://mochajl.readthedocs.org/en/latest/tutorial/mnist-sDA.html).
+   + An IJulia Notebook [demo of using pre-trained CNN on imagenet to do image classification](http://nbviewer.ipython.org/github/pluskid/Mocha.jl/blob/master/examples/ijulia/ilsvrc12/imagenet-classifier.ipynb).
+
+## Neural Networks
++ [ANN.jl](https://github.com/EricChiang/ANN.jl) :: Artifical Neural Networks.
+   + __Resources__
+   + Blog post on [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
++ [Boltzmann.jl](https://github.com/dfdx/Boltzmann.jl) :: Restricted Boltzmann Machines and Deep Belief Networks in Julia
++ [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
++ [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
++ [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
++ [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) :: Feed-forward MLP neural network implementation.
++ [MultiLabelNeuralNetwork.jl](https://github.com/jperla/MultiLabelNeuralNetwork.jl) :: A simple feed-forward neural network for multi-label classification.
++ [neural.jl](https://github.com/compressed/neural.jl) :: is a Julia implementation of a neural network, based on Sergio Fierens Ruby version.
++ [NeuralNets.jl](https://github.com/anj1/NeuralNets.jl) :: Generic artificial neural networks in Julia.
++ [neuralnetwork.jl](https://github.com/tomaskrehlik/neuralnetwork.jl) :: is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
++ [NeuralNetworks.jl](https://github.com/soumith/NeuralNetworks.jl) :: Various functions for Neural Networks implemented in Julia.
++ [ONNX.jl](https://github.com/FluxML/ONNX.jl) :: Read ONNX graphs and load these models in Julia.
++ [RecurrentNN.jl](https://github.com/Andy-P/RecurrentNN.jl) :: Deep RNN and LSTM in Julia.
++ [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Recurrent Neural Networks.
++ [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
++ [SpikeNet.jl](https://github.com/damiendr/SpikeNet.jl) :: A spiking neural network simulator written in Julia.
++ [StackedNets.jl](https://github.com/yarlett/StackedNets.jl) :: A simple interface to _deep_ stacks of neural network units that can be trained using gradient descent over defined error measures.
++ [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) :: Sum-Product Networks (deep probabilistic networks) package in Julia.
+
+###### Resources
++ Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.
+
 
 
