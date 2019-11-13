@@ -87,9 +87,11 @@ __Statistics, Operations Research (OR), Actuarial Finance, etc. Machine Learning
 
 
 ##### Resources
++ [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) : A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 + [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) :: A repository that houses example code, applications and teaching material related to QuantEcon.
 + [Self-Study Plan for Becoming a Quantitative Developer](http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 + Blog : [Julia introduction by Sébastien Villemot](http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo.
+
 
 ----
 
