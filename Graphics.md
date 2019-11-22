@@ -43,6 +43,7 @@
 + [Draw3D.jl](https://github.com/ssfrr/Draw3D.jl) :: A 3D graphics package with a Julia API, built on OpenGL.
 + [Drawing.jl](https://github.com/andrewcooke/Drawing.jl) :: A library for easy, extensible drawing (diagrams, lines, shapes).
 + [Fontconfig.jl](https://github.com/JuliaGraphics/Fontconfig.jl) :: provides basic binding to fontconfig.
++ [Ganja.jl](https://github.com/chakravala/Ganja.jl) :: Visualization for geometric algebra, not just algebra using [Ganja.js](https://github.com/enkimute/ganja.js), [Grassmann.jl](https://github.com/chakravala/Grassmann.jl)
 + [GLAbstraction.jl](https://github.com/JuliaGL/GLAbstraction.jl) :: Utility package for ModernGL.
 + [GLWindow.jl](https://github.com/SimonDanisch/GLWindow.jl) :: Create a window with an OpenGL context.
 + [GR.jl](https://github.com/jheinen/GR.jl) :: This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
