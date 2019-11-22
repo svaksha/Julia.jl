@@ -846,6 +846,7 @@ Graphics,GRAPHICS,DrakeVisualizer.jl,https://github.com/rdeits/DrakeVisualizer.j
 Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,"A 3D graphics package with a Julia API, built on OpenGL."
 Graphics,GRAPHICS,Drawing.jl,https://github.com/andrewcooke/Drawing.jl,"A library for easy, extensible drawing (diagrams, lines, shapes)."
 Graphics,GRAPHICS,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,provides basic binding to fontconfig.
+Graphics,GRAPHICS,Ganja.jl,https://github.com/chakravala/Ganja.jl,"Visualization for geometric algebra, not just algebra using [Ganja.js](https://github.com/enkimute/ganja.js), [Grassmann.jl](https://github.com/chakravala/Grassmann.jl)"
 Graphics,GRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Utility package for ModernGL.
 Graphics,GRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Create a window with an OpenGL context.
 Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
@@ -1158,7 +1159,6 @@ Mathematics,ALGEBRA,Nemo.jl,http://nemocas.org/,"A computer algebra package for 
 Mathematics,ALGEBRA,OrderedCollections.jl,https://github.com/kmsquire/OrderedCollections.jl,OrderedDict and OrderedSet for Julia.
 Mathematics,ALGEBRA,PolynomialRoots.jl,https://github.com/giordano/PolynomialRoots.jl,"Fast complex polynomial root finder, with support for arbitrary precision calculations"
 Mathematics,ALGEBRA,QNaN.jl,https://github.com/J-Sarnoff/QNaN.jl,Quiet NaNs were designed to propagate information from within numerical computations.
-Mathematics,ALGEBRA,Reduce.jl,https://github.com/chakravala/Reduce.jl,Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 Mathematics,ALGEBRA,Remez.jl,https://github.com/simonbyrne/Remez.jl,Remez algorithm for computing minimax polynomial approximations.
 Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlgebra.jl,Semiring Algebra.
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
@@ -1214,7 +1214,6 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),PolarFact.jl,https://github.com/weijianzhang/PolarFa.jl,A Julia package for the matrix polar decomposition.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
-Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Wilkinson.jl,https://github.com/chakravala/Wilkinson.jl,Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayMeta.jl,https://github.com/shashi/ArrayMeta.jl,metaprogramming for Julia arrays.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
@@ -1327,6 +1326,7 @@ Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Po
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),Remez.jl,https://github.com/simonbyrne/Remez.jl,Remez algorithm for computing minimax polynomial approximations.
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),SemialgebraicSets.jl,https://github.com/JuliaAlgebra/SemialgebraicSets.jl,Extension of MultivariatePolynomials to semialgebraic sets.
 Mathematics,[Polynomials](https://en.wikipedia.org/wiki/Category:Polynomials),TempInterp.jl,https://github.com/cc7768/TempInterp.jl,Evaluation of Chebyshev polynomials and splines.
+Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),Reduce.jl,https://github.com/chakravala/Reduce.jl,Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),Symata.jl,https://github.com/jlapeyre/Symata.jl,language for symbolic mathematics.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),Symbolic.jl,https://github.com/scidom/Symbolic.jl,Symbolic computations and computer algebra in Julia.
 Mathematics,[SymbolicComputation](https://en.wikipedia.org/wiki/Symbolic_computation),SymEngine.jl,https://github.com/symengine/SymEngine.jl,Julia wrappers of SymEngine.
@@ -1339,6 +1339,7 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealFactorization.jl,https://github.com/timholy/HemirealFactorization.jl,Matrix factorizations over the hemireals.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),HemirealNumbers.jl,https://github.com/timholy/HemirealNumbers.jl,Implementation of hemireal arithmetic for Julia.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),IFastSum.jl,https://github.com/J-Sarnoff/IFastSum.jl,Accurate summation (Yuhang Zhao's iFastSum).
+Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Leibniz.jl,https://github.com/chakravala/Leibniz.jl,Operator algebras for mixed-symmetry multivariate differentiable tensor fields
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),MINE.jl,https://github.com/zhmz90/MINE.jl,Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Options.jl,https://github.com/JuliaLang/Options.jl,A framework for providing optional arguments to functions.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PowerSeries.jl,https://github.com/jwmerrill/PowerSeries.jl,"Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers."
@@ -1398,6 +1399,7 @@ Mathematics,[SpecialFunctions](http://en.wikipedia.org/wiki/Category:Special_fun
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Complementarity.jl,https://github.com/chkwon/Complementarity.jl,"This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Fatou.jl,https://github.com/chakravala/Fatou.jl,"Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)."
 Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),PATHSolver.jl,https://github.com/chkwon/PATHSolver.jl,Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
+Mathematics,[MathematicalAnalysis](https://en.wikipedia.org/wiki/Category:Mathematical_analysis),Wilkinson.jl,https://github.com/chakravala/Wilkinson.jl,Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),BitIntegers.jl,https://github.com/rfourquet/BitIntegers.jl,This package implements fixed-width integer types similar to standard builtin-ones like Int or UInt128.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),ClosedIntervals.jl,https://github.com/scheinerman/ClosedIntervals.jl,"Closed intervals of the form [a,b]."
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),DiscreteInference.jl,https://github.com/lindahua/DiscreteInference.jl,Viterbi algorithm.
@@ -1468,13 +1470,13 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),S
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Trie.jl,https://github.com/JuliaLang/Trie.jl,Implementation of the trie data structure.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),TSPSubgradient.jl,https://github.com/whilo/TSPSubgradient.jl,A TSP approximation with the subgradient method.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),XGBoost.jl,https://github.com/dmlc/XGBoost.jl,XGBoost Julia Package.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AbstractTensors.jl,https://github.com/chakravala/AbstractTensors.jl,Tensor algebra abstract type system interoperability with vector space parameter.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AbstractTensors.jl,https://github.com/chakravala/AbstractTensors.jl,Tensor algebra abstract type interoperability with vector bundle parameter.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineSpaces.jl,https://github.com/anj1/AffineSpaces.jl,"Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ."
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.jl,https://github.com/timholy/AffineTransforms.jl,Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,"An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002."
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,httpsL//github.com/chakravala/Grassmann.jl,⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,httpsL//github.com/chakravala/Grassmann.jl,⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),ITensors.jl,https://github.com/ITensor/ITensors.jl):: A Julia library for efficient tensor calculations,
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),JointMoments.jl,https://github.com/tinybike/JointMoments.jl,Tensors and statistics for joint central moments.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),mbr.jl,https://github.com/intdxdt/mbr.jl,axis aligned minimum bounding box.
@@ -1982,6 +1984,7 @@ Statistics,Finance,TradingSystem.jl,https://github.com/milktrader/TradingSystem.
 Statistics,Finance,WorldBankDataTd.jl,https://github.com/JuliaFinMetriX/WorldBankDataTd.jl,Accessing World Bank Data.
 Statistics,Finance,YStockData.jl,https://github.com/Algocircle/YStockData.jl,Fetch Data from Yahoo Finance.
 Statistics,Finance,ZVSimulator.jl,https://github.com/scidom/ZVSimulator.jl,The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
+Statistics,Resources,awesome-quant,"https://github.com/wilsonfreitas/awesome-quant) : A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
 Statistics,Resources,QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,"A repository that houses example code, applications and teaching material related to QuantEcon."
 Statistics,Resources,Self-Study Plan for Becoming a Quantitative Developer,http://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer,
 Statistics,Resources,log : [Julia introduction by Sébastien Villemot,http://econforge.github.io/posts/2014/juil./28/cef2014-julia/) at Computational in Economics and Finance (CEF) conference 2014 in Oslo,

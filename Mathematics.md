@@ -171,7 +171,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [OrderedCollections.jl](https://github.com/kmsquire/OrderedCollections.jl) :: OrderedDict and OrderedSet for Julia.
 + [PolynomialRoots.jl](https://github.com/giordano/PolynomialRoots.jl) :: Fast complex polynomial root finder, with support for arbitrary precision calculations
 + [QNaN.jl](https://github.com/J-Sarnoff/QNaN.jl) :: Quiet NaNs were designed to propagate information from within numerical computations.
-+ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 + [Remez.jl](https://github.com/simonbyrne/Remez.jl) :: Remez algorithm for computing minimax polynomial approximations.
 + [SemiringAlgebra.jl](https://github.com/ViralBShah/SemiringAlgebra.jl) :: Semiring Algebra.
 
@@ -231,7 +230,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [Simplices.jl](https://github.com/kahaaga/Simplices.jl) :: Compute exact simplex intersections in N dimensions. 
 + [Sobol.jl](https://github.com/stevengj/Sobol.jl) :: is a generation of Sobol low-discrepancy sequence (LDS) implementation, that generates __quasi-random__ sequences of points in N dimensions which are equally distributed over an N-dimensional hypercube.
 + [SortedVectors.jl](https://github.com/colintbowers/SortedVectors.jl) :: A WIP package that implements a SortedVector type.
-
     
 ### [Linear Algebra](https://en.wikipedia.org/wiki/Category:Linear_algebra)
 + [CLBLAS.jl](https://github.com/ekobir/CLBLAS.jl) :: CLBLAS integration for Julia.
@@ -259,9 +257,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia. 
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
-+ [Wilkinson.jl](https://github.com/chakravala/Wilkinson.jl) :: Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
-
-
 
 ### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 __Special Array Types and Algorithms__
@@ -395,6 +390,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [TempInterp.jl](https://github.com/cc7768/TempInterp.jl) :: Evaluation of Chebyshev polynomials and splines.
 
 ## [Symbolic Computation](https://en.wikipedia.org/wiki/Symbolic_computation)
++ [Reduce.jl](https://github.com/chakravala/Reduce.jl) :: Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter.
 + [Symata.jl](https://github.com/jlapeyre/Symata.jl) :: language for symbolic mathematics.
 + [Symbolic.jl](https://github.com/scidom/Symbolic.jl) :: Symbolic computations and computer algebra in Julia.
 + [SymEngine.jl](https://github.com/symengine/SymEngine.jl) :: Julia wrappers of SymEngine.
@@ -411,6 +407,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [HemirealFactorization.jl](https://github.com/timholy/HemirealFactorization.jl) :: Matrix factorizations over the hemireals.
 + [HemirealNumbers.jl](https://github.com/timholy/HemirealNumbers.jl) :: Implementation of hemireal arithmetic for Julia.
 + [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) :: Accurate summation (Yuhang Zhao's iFastSum).
++ [Leibniz.jl](https://github.com/chakravala/Leibniz.jl) :: Operator algebras for mixed-symmetry multivariate differentiable tensor fields
 + [MINE.jl](https://github.com/zhmz90/MINE.jl) :: Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
 + [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
 + [PowerSeries.jl](https://github.com/jwmerrill/PowerSeries.jl) :: Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
@@ -510,6 +507,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [Complementarity.jl](https://github.com/chkwon/Complementarity.jl) :: This package provides a modeling and computational interface for solving Mixed Complementarity Problems (MCP), modeling by JuMP.jl and computing by PATHSolver.jl.
 + [Fatou.jl](https://github.com/chakravala/Fatou.jl) :: Fatou sets in Julia (Fractals, Newton basins, Mandelbrot).
 + [PATHSolver.jl](https://github.com/chkwon/PATHSolver.jl) :: Coverage StatusThis package provides a Julia wrapper of the PATH Solver for solving Mixed Complementarity Problems (MCP).
++ [Wilkinson.jl](https://github.com/chakravala/Wilkinson.jl) :: Toolkit for studying numerical analysis and floating point algebra round-off error in Julia.
 
 ----
 
@@ -595,14 +593,14 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 ----
 
 # [Geometry](http://en.wikipedia.org/wiki/Geometry)
-+ [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) :: Tensor algebra abstract type system interoperability with vector space parameter.
++ [AbstractTensors.jl](https://github.com/chakravala/AbstractTensors.jl) :: Tensor algebra abstract type interoperability with vector bundle parameter.
 + [AffineSpaces.jl](https://github.com/anj1/AffineSpaces.jl) :: Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ.
 + [AffineTransforms.jl](https://github.com/timholy/AffineTransforms.jl) :: Computational geometry with affine transformations for conversion among different representations (mostly between rotation matrices and axis-angle).
 + [D4.jl](https://github.com/khwilson/D4.jl) :: An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002.
 + [GeoAlg.jl](https://github.com/andrioni/GeoAlg.jl) :: A basic geometric 
 algebra library in Julia.
 + [Geometry2D.jl](https://github.com/mroughan/Geometry2D.jl) :: 2D computational geometry package for Julia programming language.
-+ [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: ⟨Grassmann-Clifford-Hestenes-Taylor⟩ differential geometric algebra of hyper-dual multivectors forms.
++ [Grassmann.jl](httpsL//github.com/chakravala/Grassmann.jl) :: ⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
 + [ITensors.jl](https://github.com/ITensor/ITensors.jl):: A Julia library for efficient tensor calculations.
 + [JointMoments.jl](https://github.com/tinybike/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [mbr.jl](https://github.com/intdxdt/mbr.jl) :: axis aligned minimum bounding box.
