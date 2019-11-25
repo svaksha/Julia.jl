@@ -25,6 +25,8 @@ The collective noun [application software](https://en.wikipedia.org/wiki/Applica
 + [RR.jl](https://github.com/Keno/RR.jl) :: Julia interface to mozilla's `rr`.
 + [Suppressor.jl](https://github.com/Ismael-VC/Suppressor.jl) ::  Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time.
 + [Traceur.jl](https://github.com/MikeInnes/Traceur.jl).
++ [ToggleableAsserts.jl](https://github.com/MasonProtter/ToggleableAsserts.jl) :: Assertions that can be turned on or off with a switch, with no runtime penalty when they're off. 
+
 
 ##### Resources
 * "Debugger" topic threads on discourse: https://discourse.julialang.org/tags/debug

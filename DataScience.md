@@ -1,24 +1,27 @@
-**NB :: Not all the Data sets are freely available.**
+**NB :: Not all the Data sets are freely available. Also includes Data Management (Research Data Management, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc..)**
+
 
 + [SOFTWARE](#software)
-    + [Data Science](#data-science)
+   + [Data Science](#data-science)
+   + [Research Data Management](#research-data-management)
+        + [Biomedical Research](#biomedical-research)
 + [ACTUARIAL SCIENCE](#actuarial-science)
-    + [Econometrics](#econometrics)
-    + [Finance](#finance)
+   + [Econometrics](#econometrics)
+   + [Finance](#finance)
 + [ASTRONOMY](#astronomy)
 + [BIOLOGY](#biology)
-    + [Genome](#genome)
-    + [Genetics-Medicine](#genetics-medicine)
-    + [Molecular Biology](#molecular-biology)
-    + [Neuroscience](#neuroscience)
-    + [Pharma](#pharma)
+   + [Genome](#genome)
+   + [Genetics-Medicine](#genetics-medicine)
+   + [Molecular Biology](#molecular-biology)
+   + [Neuroscience](#neuroscience)
+   + [Pharma](#pharma)
 + [CHEMISTRY](#chemistry)
-    + [Crystallography](#crystallography)
+   + [Crystallography](#crystallography)
 + [DATA](#data)
-    + [DATA-DataScience](#data-datascience)
-    + [DATA-General](#data-general)
-    + [DATA-Research](#data-scientific)
-    + [DATA-Scientific](#data-scientific)
+   + [DATA-DataScience](#data-datascience)
+   + [DATA-General](#data-general)
+   + [DATA-Research](#data-scientific)
+   + [DATA-Scientific](#data-scientific)
 + [Earth Science](#earth-science)
 + [Gender Violence](#gender-violence)
 + [MACHINE LEARNING](#machine-learning)
@@ -47,6 +50,13 @@
 
 ## Data Science
 + [jplyr.jl](https://github.com/davidagold/jplyr.jl) :: Data manipulation facilities for Julia.
+
+
+## Research Data Management
+### Biomedical Research
++ [REDCap.jl](https://github.com/bcbi/REDCap.jl) :: A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation.
+
+
 
 ----
 

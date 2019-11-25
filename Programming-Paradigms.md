@@ -8,7 +8,8 @@ __Packages and resources that support various programming styles, Software Archi
 + [DSL](#dsl)
 + [Grammatical Evolution](#grammatical-evolution)
 + [Interpreters](#interpreters)
-+ [Macros](#macros)
++ [Language Comparison](#language-comparison)
++ [Macro](#macro)
 + [Metaprogramming](#metaprogramming)
    + [Automatic Programming](#automatic-programming)
 + [Multi Threading](#multi-threading)
@@ -85,6 +86,11 @@ __Packages and resources that support various programming styles, Software Archi
 + [JuliaInterpreter.jl](https://github.com/JuliaDebug/JuliaInterpreter.jl) :: Interpreter for Julia code. 
 
 
+
+----
+
+# Language Comparison
+* [Basic Language Comparison](https://github.com/JulesKouatchou/basic_language_comparison) :: Basic Comparison of Various Computing Languages : Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran
 
 ----
 

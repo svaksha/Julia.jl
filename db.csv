@@ -372,7 +372,65 @@ Chemistry,QuantumChemistry,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,Th
 Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,QuantumChemistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-DataManagement,BiomedicalResearch,REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
+DataScience,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
+DataScience,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
+DataScience,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
+DataScience,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
+DataScience,SOFTWARE,ModelerToolbox.jl,https://github.com/spencerlyon2/ModelerToolbox.jl,Utilities for working with many different versions/parameterizations of models.
+DataScience,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
+DataScience,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
+DataScience,SOFTWARE,PubMedMiner.jl,https://github.com/bcbi/PubMedMiner.jl,Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept.
+DataScience,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the datasets available in R.
+DataScience,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
+DataScience,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
+DataScience,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
+DataScience,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
+DataScience,BiomedicalResearch,REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
+DataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
+DataScience,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
+DataScience,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
+DataScience,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
+DataScience,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
+DataScience,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
+DataScience,Genome,Genome Project Database,https://www.ncbi.nlm.nih.gov/bioproject),
+DataScience,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
+DataScience,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
+DataScience,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
+DataScience,"Worms,Virus,Nematodes",he central [MANUELA database,"http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale",
+DataScience,"Worms,Virus,Nematodes",Nematodes DB,"http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from _neglected taxa_ using the PartiGene suite of programmes",
+DataScience,"Worms,Virus,Nematodes",Nematode Transcriptome Analyses,http://www.nematodes.org/nembase4/),
+DataScience,"Worms,Virus,Nematodes",WormBase,http://www.wormbase.org/species/all#0--10,Species genomes with standardized sequence and annotations.
+DataScience,Genetics-Medicine,CBI Resources for [Genetics and Medicine,https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/),
+DataScience,Genetics-Medicine,"HIV-1, Human Protein Interaction Database",http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/,"A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data."
+DataScience,MedicalImaging,Computed Tomography Emphysema Database,http://image.diku.dk/emphysema_database/),
+DataScience,MedicalImaging,ornell's Public [Medical Image Databases,http://www.via.cornell.edu/databases/),
+DataScience,MolecularBiology,SASBDB,http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank,
+DataScience,Neuroscience,Codeneuro-Datasets,https://github.com/codeneuro/datasets,"Shared data sets for collaborating, testing, and benchmarking."
+DataScience,Neuroscience,MindResearchRepository.jl,https://github.com/dmbates/MindResearchRepository.jl,Access data sets from the Mind Research Repository.
+DataScience,Neuroscience,OpenfMRI.org,https://openfmri.org,"A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data."
+DataScience,Neuroscience,Neuroscience Databases,http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list,
+DataScience,Neuroscience,Neurovault,http://neurovault.org/,A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
+DataScience,Pharma,OSDD - open source drug discovery,http://www.osdd.net/),
+DataScience,CHEMISTRY,Chemical DB,http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP,
+DataScience,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP,
+DataScience,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
+DataScience,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
+DataScience,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
+DataScience,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html),
+DataScience,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
+DataScience,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
+DataScience,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
+DataScience,DATA-General,Freebase,http://www.freebase.com,"A community-curated database of well-known people, places, and things."
+DataScience,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines."
+DataScience,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
+DataScience,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
+DataScience,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
+DataScience,MACHINELEARNING,Machine learning datasets,https://www.datasetlist.com/,A list of the biggest machine learning datasets from across the web.
+DataScience,MACHINELEARNING,Celeb-DF,http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html,"A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos."
+DataScience,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
+DataScience,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
+DataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
+DataScience,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org)."
 Database,API,D4M.jl,https://github.com/achen12/D4M.jl,A D4M module for Julia. [D4M](http://www.mit.edu/~kepner/D4M/) was developed in MATLAB by Dr Jeremy Kepner and his team at Lincoln Labs.
 Database,API,DBAPI.jl,https://github.com/JuliaDB/DBAPI.jl,A new database interface proposal.
 Database,API,DBI.jl,https://github.com/johnmyleswhite/DBI.jl,An abstract DBI interface to provide a database-independent API protocol that all database drivers can be expected to comply with.
@@ -422,6 +480,7 @@ DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers)
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),RR.jl,https://github.com/Keno/RR.jl,Julia interface to mozilla's `rr`.
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Suppressor.jl,https://github.com/Ismael-VC/Suppressor.jl," Julia macros for suppressing output (STDOUT), warnings (STDERR) or both streams at the same time."
 DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),Traceur.jl,https://github.com/MikeInnes/Traceur.jl),
+DesktopApplications,[DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers),ToggleableAsserts.jl,https://github.com/MasonProtter/ToggleableAsserts.jl,"Assertions that can be turned on or off with a switch, with no runtime penalty when they're off."
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Doc.jl,https://github.com/dcarrera/Doc.jl,Daniel Carrera's modern documentation system for Julia.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),Docile.jl,https://github.com/MichaelHatherly/Docile.jl,Experimental Julia package documentation system.
 DesktopApplications,[DOCUMENTATIONTOOLS](https://en.wikipedia.org/wiki/Documentation_generator),DocStringExtensions.jl,https://github.com/JuliaDocs/DocStringExtensions.jl,Extensions for Julia's docsystem.
@@ -1511,64 +1570,6 @@ Mathematics,PUZZLES,sudoku,https://github.com/Alexander-N/sudoku,Reimplementing 
 Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl,A simple Sudoku solver in Julia by @johnmyleswhite.
 Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
-OpenDataScience,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
-OpenDataScience,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
-OpenDataScience,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
-OpenDataScience,SOFTWARE,Maker.jl,https://github.com/tshort/Maker.jl,A tool like `make` for data analysis in Julia.
-OpenDataScience,SOFTWARE,ModelerToolbox.jl,https://github.com/spencerlyon2/ModelerToolbox.jl,Utilities for working with many different versions/parameterizations of models.
-OpenDataScience,SOFTWARE,NetflixPrize.jl,https://github.com/jiahao/NetflixPrize.jl,Julia package for handling the Netflix Prize data set of 2006.
-OpenDataScience,SOFTWARE,PublicSuffix.jl,https://github.com/tanmaykm/PublicSuffix.jl,Julia Interface for working with the [Public Suffix List](http://publicsuffix.org/).
-OpenDataScience,SOFTWARE,PubMedMiner.jl,https://github.com/bcbi/PubMedMiner.jl,Return and analyze a PubMed/Medline search using MESH descriptors and their corresponding UMLS concept.
-OpenDataScience,SOFTWARE,RDatasets.jl,https://github.com/johnmyleswhite/RDatasets.jl,Julia package for loading many of the datasets available in R.
-OpenDataScience,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An API wrapper for accessing the Socrata Open Data API and importing data into a DataFrame. Socrata is an open data platform used by many local and State governments as well as by the Federal Government in USA.
-OpenDataScience,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
-OpenDataScience,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
-OpenDataScience,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
-OpenDataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
-OpenDataScience,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.
-OpenDataScience,BIOLOGY,P's list of [biological databases,https://en.wikipedia.org/wiki/List_of_biological_databases),
-OpenDataScience,Genome,ChromosomeMappings,https://github.com/dpryan79/ChromosomeMappings,This repository contains chromosome/contig name mappings between UCSC <-> Ensembl <-> Gencode for a variety of genomes.
-OpenDataScience,Genome,ownload [Gene,"https://www.ncbi.nlm.nih.gov/gene) data (via ftp) which integrates information from a wide range of species. A record may include nomenclature, Reference Sequences (RefSeqs), maps, pathways, variations, phenotypes, and links to genome-, phenotype-, and locus-specific resources worldwide",
-OpenDataScience,Genome,Saccharomyces Genome Database,https://secure.wikimedia.org/wikipedia/en/wiki/Saccharomyces_Genome_Database,
-OpenDataScience,Genome,Genome Project Database,https://www.ncbi.nlm.nih.gov/bioproject),
-OpenDataScience,Genome,RefSeqGene,https://www.ncbi.nlm.nih.gov/refseq/rsg/) defines genomic sequences to be used as reference standards for well-characterized genes and is part of the Locus Reference Genomic (LRG) Project,
-OpenDataScience,Genome,CBI's [Sequence Read Archive (SRA),http://www.ncbi.nlm.nih.gov/sra,
-OpenDataScience,Genome,DataLad,http://datalad.org,"aims to provide access to scientific data available from various sources (e.g. lab or consortium web-sites such as Human connectome; data sharing portals such as OpenFMRI and CRCNS) through a single convenient interface and integrated with your software package managers (such as APT in Debian). Although initially targeting neuroimaging and neuroscience data in general, it will not be limited by the domain and a wide range of contributions are welcome. Get the [source code](https://github.com/datalad) on github."
-OpenDataScience,"Worms,Virus,Nematodes",he central [MANUELA database,"http://www.marbef.org/projects/Manuela/data.php), a.k.a. _M_eiobenthic _A_nd _N_ematode biodiversity _U_nravelling _E_cological and _L_atitudinal _A_spects database is compiled by capturing the available data on meiobenthos on a broad European scale",
-OpenDataScience,"Worms,Virus,Nematodes",Nematodes DB,"http://www.nematodes.org/bioinformatics/databases.shtml) from the Blaxter Lab, based on analyses of ESTs or GSSs from _neglected taxa_ using the PartiGene suite of programmes",
-OpenDataScience,"Worms,Virus,Nematodes",Nematode Transcriptome Analyses,http://www.nematodes.org/nembase4/),
-OpenDataScience,"Worms,Virus,Nematodes",WormBase,http://www.wormbase.org/species/all#0--10,Species genomes with standardized sequence and annotations.
-OpenDataScience,Genetics-Medicine,CBI Resources for [Genetics and Medicine,https://www.ncbi.nlm.nih.gov/guide/genetics-medicine/),
-OpenDataScience,Genetics-Medicine,"HIV-1, Human Protein Interaction Database",http://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions/,"A database of known interactions of HIV-1 proteins with proteins from human hosts. It provides annotated bibliographies of published reports of protein interactions, with links to the corresponding PubMed records and sequence data."
-OpenDataScience,MedicalImaging,Computed Tomography Emphysema Database,http://image.diku.dk/emphysema_database/),
-OpenDataScience,MedicalImaging,ornell's Public [Medical Image Databases,http://www.via.cornell.edu/databases/),
-OpenDataScience,MolecularBiology,SASBDB,http://www.sasbdb.org/) ::Small Angle Scattering Biological Data Bank,
-OpenDataScience,Neuroscience,Codeneuro-Datasets,https://github.com/codeneuro/datasets,"Shared data sets for collaborating, testing, and benchmarking."
-OpenDataScience,Neuroscience,MindResearchRepository.jl,https://github.com/dmbates/MindResearchRepository.jl,Access data sets from the Mind Research Repository.
-OpenDataScience,Neuroscience,OpenfMRI.org,https://openfmri.org,"A project dedicated to the free and open sharing of functional magnetic resonance imaging (fMRI) datasets, including raw data."
-OpenDataScience,Neuroscience,Neuroscience Databases,http://en.wikipedia.org/wiki/List_of_neuroscience_databases) list,
-OpenDataScience,Neuroscience,Neurovault,http://neurovault.org/,A place where researchers can publicly store and share unthresholded statistical maps produced by MRI and PET studies.
-OpenDataScience,Pharma,OSDD - open source drug discovery,http://www.osdd.net/),
-OpenDataScience,CHEMISTRY,Chemical DB,http://en.wikipedia.org/wiki/Category:Chemical_databases) list on WP,
-OpenDataScience,Crystallography,Crystallographic databases,http://en.wikipedia.org/wiki/Category:Crystallographic_databases) list on WP,
-OpenDataScience,Crystallography,Crystallography,http://www.crystallography.net/) Open Database,
-OpenDataScience,Crystallography,Protein Data Bank,http://en.wikipedia.org/wiki/Protein_Data_Bank) (PDB) on WP,
-OpenDataScience,Crystallography,Inorganic Crystal Structure Database,http://en.wikipedia.org/wiki/Inorganic_Crystal_Structure_Database,
-OpenDataScience,DATA-DataScience,orowjev blogs about [Julia in safe Data Science,http://korowjev.github.io/jekyll/update/2016/02/25/Julia-safe-data-science.html),
-OpenDataScience,DATA-General,awesome-public-datasets,https://github.com/caesar0301/awesome-public-datasets,A collection of large-scale public datasets on the Internet.
-OpenDataScience,DATA-General,common-workflow-language,https://github.com/common-workflow-language/common-workflow-language,Repository for CWL Specfications.
-OpenDataScience,DATA-General,datasets,https://github.com/ali-ce/datasets,Original data or Aggregated / cleaned / restructured existing datasets. Released under Creative Commons Attribution-ShareAlike 4.0 International License.
-OpenDataScience,DATA-General,Freebase,http://www.freebase.com,"A community-curated database of well-known people, places, and things."
-OpenDataScience,DATA-General,Wikidata,https://www.wikidata.org/,"A free linked database that acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wikisource, and others, that can be read and edited by both humans and machines."
-OpenDataScience,DATA-General,World Bank Open Data,http://data.worldbank.org,Free and open access to data about development in countries around the globe.
-OpenDataScience,DATA-Research,Registry of Research Data Repositories,http://www.re3data.org/,"provides researchers, funding organisations, libraries and publishers with over 1,000 listed research data repositories from all over the world making it the largest and most comprehensive online catalog of research data repositories on the web."
-OpenDataScience,DATA-Scientific,Scientific Databases,http://en.wikipedia.org/wiki/Category:Scientific_databases) list on WP,
-OpenDataScience,MACHINELEARNING,Machine learning datasets,https://www.datasetlist.com/,A list of the biggest machine learning datasets from across the web.
-OpenDataScience,MACHINELEARNING,Celeb-DF,http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html,"A New Dataset for DeepFake Forensics that contains real and DeepFake synthesized videos having similar visual quality on par with those circulated online. The Celeb-DF dataset includes 408 original videos collected from YouTube with subjects of different ages, ethic groups and genders, and 795 DeepFake videos synthesized from these real videos."
-OpenDataScience,MACHINELEARNING,UCI Machine Learning Repository,http://archive.ics.uci.edu/ml/,
-OpenDataScience,MATH,Juliaset.jl,https://github.com/tanmaykm/Juliaset.jl,Generate Julia set images. This is created primarily as an example for JuliaBox hosted REST APIs.
-OpenDataScience,PHYSICS,CERN OpenData,http://opendata.cern.ch/) Portal,
-OpenDataScience,VIDEO,Databrary,https://nyu.databrary.org,"A video data library for developmental science. Share videos, audio files, and related metadata. The source code is on [github](https://nyu.databrary.org)."
 Physics,,ACME.jl,https://github.com/HSU-ANT/ACME.jl,Analog Circuit Modeling and Emulation for Julia.
 Physics,,auditory.jl,https://github.com/jfsantos/auditory.jl,Auditory filterbanks in Julia.
 Physics,,Chipmunk.jl,https://github.com/zyedidia/Chipmunk.jl,A binding of the physics engine Chipmunk for Julia.
@@ -2147,6 +2148,7 @@ Statistics,STATISTICS,PowerLaws.jl,https://github.com/johnybx/PowerLaws.jl,"A Ju
 Statistics,STATISTICS,PValueAdjust.jl,https://github.com/dirkschumacher/PValueAdjust.jl,P-value adjustment methods for multiple testing correction.
 Statistics,STATISTICS,Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
 Statistics,STATISTICS,RandomProcesses.jl,https://github.com/johnmyleswhite/RandomProcesses.jl,"Random processes (CRP, CRT) in Julia."
+Statistics,STATISTICS,RankAggregation.jl,https://github.com/juliohm/RankAggregation.jl,Rank aggregation in Julia.
 Statistics,STATISTICS,RBM.jl,https://github.com/kzahedi/RBM.jl,
 Statistics,STATISTICS,SDP.jl,https://github.com/trthatcher/SDP.jl) by @trthatche,Statistical Data Processing.
 Statistics,STATISTICS,SimpleRL.jl,https://github.com/johnmyleswhite/SimpleRL.jl,A bare-bones package for simulating RL models and estimating them from behavioral data.

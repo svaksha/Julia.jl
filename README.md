@@ -27,14 +27,13 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + [DevOps.md](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) :: DevOps tools for infrastructure management, continuous integration (CI), continuous delivery (CD), package management, release engineering (RE), release management (RM), software configuration management (SCM), Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools, et al..
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
 + [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
-+ [DataManagement.md](https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md) :: Data Management tools for research data management, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc.
++ [DataScience.md](https://github.com/svaksha/Julia.jl/blob/master/DataScience.md) :: OpenData + OpenScience, Free Data Sets, Reproducible research, RDM, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc.
 + [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
 + [FileIO.md](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
 + [Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
 + [Machines.md](https://github.com/svaksha/Julia.jl/blob/master/Machines.md) :: Software for cross-platform hardware, Robotics, and other API libraries for machine-related software.
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md):: Algebra, Geometry,... anything Math related.
-+ [OpenDataScience.md](https://github.com/svaksha/Julia.jl/blob/master/OpenDataScience.md) :: OpenData + OpenScience, Free Data Sets, Reproducible research, et al.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
