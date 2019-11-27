@@ -1130,6 +1130,7 @@ Mathematics,CRYPTOGRAPHY,RNGTesting,https://github.com/johnmyleswhite/RNGTesting
 Mathematics,CRYPTOGRAPHY,SHA.jl,https://github.com/staticfloat/SHA.jl,"a performant, 100% native-julia SHA2-{224,256,384,512} implementation."
 Mathematics,CRYPTOGRAPHY,Sha256.jl,https://github.com/mad4alcohol/Sha256.jl,[Sha256 hash algorithm for Julia.
 Mathematics,CRYPTOGRAPHY,Stupid.jl,https://github.com/andrewcooke/Stupid.jl,Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
+Mathematics,CRYPTOGRAPHY,ToyFHE.jl,https://github.com/JuliaComputing/ToyFHE.jl,Toy implementation of FHE algorithms.
 Mathematics,CRYPTOGRAPHY,VML.jl,https://github.com/JuliaMath/VML.jl,Julia bindings for the Intel Vector Math Library.
 Mathematics,CRYPTOGRAPHY,VSL.jl,https://github.com/sunoru/VSL.jl,Julia bindings for the Intel Vector Statistics Library.
 Mathematics,Cryptocurrency,it[Coin.jl,https://github.com/danielsuo/Coin.jl,A library for working with Bitcoin written in Julia.
@@ -1566,10 +1567,11 @@ Mathematics,PUZZLES,Deepthought.jl,https://github.com/dejakaymac/Deepthought.jl,
 Mathematics,PUZZLES,euler,https://github.com/somu/euler,Project Euler solutions in Julia.
 Mathematics,PUZZLES,PlayingCards.jl,https://github.com/DataWookie/PlayingCards.jl,Package for simulating Playing Cards games in Julia.
 Mathematics,PUZZLES,Project_Euler_Julia.ipynb,http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb,"Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles."
-Mathematics,PUZZLES,sudoku,https://github.com/Alexander-N/sudoku,Reimplementing the Python version of Peter Norvig's Sudoku solver in Julia by @Alexander-N.
-Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl,A simple Sudoku solver in Julia by @johnmyleswhite.
-Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
+Mathematics,PUZZLES,sudoku,https://github.com/Alexander-N/sudoku) by @Alexander-,Reimplementing the Python version of Peter Norvig's Sudoku solver in Julia.
+Mathematics,PUZZLES,sudoku.jl,https://github.com/johnmyleswhite/sudoku.jl) by @johnmyleswhit,A simple Sudoku solver in Julia.
+Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl) by @hay,A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia.
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
+Mathematics,PUZZLES,Tetris.jl,https://github.com/djsegal/Tetris.jl,Kids game https://juliatetris.com/
 Physics,,ACME.jl,https://github.com/HSU-ANT/ACME.jl,Analog Circuit Modeling and Emulation for Julia.
 Physics,,auditory.jl,https://github.com/jfsantos/auditory.jl,Auditory filterbanks in Julia.
 Physics,,Chipmunk.jl,https://github.com/zyedidia/Chipmunk.jl,A binding of the physics engine Chipmunk for Julia.

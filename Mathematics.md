@@ -55,6 +55,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SHA.jl](https://github.com/staticfloat/SHA.jl) :: a performant, 100% native-julia SHA2-{224,256,384,512} implementation.
 + [Sha256.jl](https://github.com/mad4alcohol/Sha256.jl) :: [Sha256 hash algorithm for Julia.
 + [Stupid.jl](https://github.com/andrewcooke/Stupid.jl) :: Analysis of an 8 bit version of the cipher at http://news.quelsolaar.com/#comments101.
++ [ToyFHE.jl](https://github.com/JuliaComputing/ToyFHE.jl) :: Toy implementation of FHE algorithms. 
 + [VML.jl](https://github.com/JuliaMath/VML.jl) :: Julia bindings for the Intel Vector Math Library.
 + [VSL.jl](https://github.com/sunoru/VSL.jl) :: Julia bindings for the Intel Vector Statistics Library.
 
@@ -648,8 +649,8 @@ algebra library in Julia.
 + [euler](https://github.com/somu/euler) :: Project Euler solutions in Julia.
 + [PlayingCards.jl](https://github.com/DataWookie/PlayingCards.jl) :: Package for simulating Playing Cards games in Julia.
 + [Project_Euler_Julia.ipynb](http://nbviewer.ipython.org/github/punkrockpolly/Playing-with-Julia/blob/master/Project_Euler_Julia.ipynb) :: Solutions to [Project Euler](http://projecteuler.net) Problems, algorithm & math puzzles.
-+ [sudoku](https://github.com/Alexander-N/sudoku) :: Reimplementing the Python version of Peter Norvig's Sudoku solver in Julia by @Alexander-N.
-+ [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) :: A simple Sudoku solver in Julia by @johnmyleswhite.
-+ [Sudoku.jl](https://github.com/hayd/Sudoku.jl) :: A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia by @hayd.
++ [sudoku](https://github.com/Alexander-N/sudoku) by @Alexander-N :: Reimplementing the Python version of Peter Norvig's Sudoku solver in Julia.
++ [sudoku.jl](https://github.com/johnmyleswhite/sudoku.jl) by @johnmyleswhite :: A simple Sudoku solver in Julia.
++ [Sudoku.jl](https://github.com/hayd/Sudoku.jl) by @hayd :: A port of Peter Norvig's __Solving Every Sudoku Puzzle__ to Julia.
 + [SudokuService](https://github.com/IainNZ/SudokuService) :: Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver.
-
++ [Tetris.jl](https://github.com/djsegal/Tetris.jl) :: Kids game https://juliatetris.com/
