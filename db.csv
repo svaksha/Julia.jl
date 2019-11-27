@@ -1535,7 +1535,7 @@ Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineTransforms.j
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),D4.jl,https://github.com/khwilson/D4.jl,"An attempted implementation of Enumerating Quartic Dihedral Extensions of Q by Cohen, Diaz y Diaz, and Olivier in Composito Mathematica 2002."
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),GeoAlg.jl,https://github.com/andrioni/GeoAlg.jl,A basic geometric
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Geometry2D.jl,https://github.com/mroughan/Geometry2D.jl,2D computational geometry package for Julia programming language.
-Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,httpsL//github.com/chakravala/Grassmann.jl,⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Grassmann.jl,https://github.com/chakravala/Grassmann.jl,⟨Leibniz-Grassmann-Clifford-Hestenes⟩ differential geometric algebra / multivector simplical complex.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),ITensors.jl,https://github.com/ITensor/ITensors.jl):: A Julia library for efficient tensor calculations,
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),JointMoments.jl,https://github.com/tinybike/JointMoments.jl,Tensors and statistics for joint central moments.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),mbr.jl,https://github.com/intdxdt/mbr.jl,axis aligned minimum bounding box.
