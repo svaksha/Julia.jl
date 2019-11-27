@@ -23,7 +23,8 @@
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
-+ [JuLIP.jl](https://github.com/libAtoms/JuLIP.jl) :: Julia Library for Interatomic Potentials.
++ [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials.
++ [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
 
 ----
 
@@ -47,7 +48,8 @@
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
 
-## Quantum Chemistry
+## Quantum Chemistry 
++ [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
 + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
