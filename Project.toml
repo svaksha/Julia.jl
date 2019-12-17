@@ -2,3 +2,6 @@ name = "Julia"
 uuid = "1dc0f58d-c462-4974-a858-b2935164db25"
 authors = ["svaksha"]
 version = "0.1.0"
+
+[deps]
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"

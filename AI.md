@@ -15,8 +15,6 @@
 
 
 # MACHINE LEARNING
-
-
 + [BackpropNeuralNet.jl](https://github.com/compressed/BackpropNeuralNet.jl) :: A neural network in Julia.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
 + [BNMF.jl](https://github.com/r9y9/BNMF.jl) :: Gamma Process Non-negative Matrix Factorization (GaP-NMF).
@@ -32,7 +30,6 @@
 + [EmpiricalRiskMinimization.jl](https://github.com/reesepathak/EmpiricalRiskMinimization.jl) :: Empirical Risk Minimization (and modeling) in Julia. 
 + [FeatureSelection.jl](https://github.com/Evizero/FeatureSelection.jl) :: Common measures and algorithms for feature selection.
 + [Flimsy.jl](https://github.com/thomlake/Flimsy.jl) :: Gradient based Machine Learning for Julia.
-+ [Flux.jl](https://github.com/MikeInnes/Flux.jl) :: A library for machine learning implemented in Julia. (Alpha stage)
 + [FunctionalDataUtils.jl](https://github.com/rened/FunctionalDataUtils.jl) :: Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning.
 + [go.jl](https://github.com/dmrd/go.jl) :: A deep learning based Go bot implemented in Julia.
 + [GradientBoost.jl](https://github.com/svs14/GradientBoost.jl) :: Gradient boosting framework for Julia.
@@ -162,6 +159,8 @@
 # [REINFORCEMENT LEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
++ [Flux.jl](https://github.com/FluxML/Flux.jl) :: A library for machine learning implemented in Julia. Documentation: https://fluxml.ai/Flux.jl/stable/
+    + [model-zoo](https://github.com/FluxML/model-zoo) :: A repository containing various demonstrations of the Flux machine learning library that can be freely used as a starting point for your own models.
 + [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) by @jbrea :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearning :: A package for reinforcement learning research in Julia.
@@ -213,6 +212,7 @@
 + [neuralnetwork.jl](https://github.com/tomaskrehlik/neuralnetwork.jl) :: is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
 + [NeuralNetworks.jl](https://github.com/soumith/NeuralNetworks.jl) :: Various functions for Neural Networks implemented in Julia.
 + [ONNX.jl](https://github.com/FluxML/ONNX.jl) :: Read ONNX graphs and load these models in Julia.
++ [PyTorch.jl](https://github.com/zenna/PyTorch.jl):: PyTorch wrapper. 
 + [RecurrentNN.jl](https://github.com/Andy-P/RecurrentNN.jl) :: Deep RNN and LSTM in Julia.
 + [RNN.jl](https://github.com/kzahedi/RNN.jl) :: Recurrent Neural Networks.
 + [SimpleNets](https://github.com/rgehring/SimpleNets) :: Simple neural nets implementions in Julia.
