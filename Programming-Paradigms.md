@@ -39,15 +39,28 @@ __Packages and resources that support various programming styles, Software Archi
 
 
 ###### RESOURCES
+
 + [Programming Language Theory](https://github.com/steshaw/plt-study) :: Mathematics, Compilers, Functional Programming, and other papers.
 
 
 ----
 
 # [Control Flow](https://en.wikipedia.org/wiki/Category:Control_flow)
-* [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) :: Naïve combined subexpression elimination in Julia.
+**Implementations of numerical algorithms for computations in systems and control theory.**
+
++ [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) :: A Control Systems Toolbox for Julia.
++ [CommonSubexpressions.jl](https://github.com/rdeits/CommonSubexpressions.jl) :: Naïve combined subexpression elimination in Julia.
 + [Hooking.jl](https://github.com/Keno/Hooking.jl) :: Function entry hooking for julia and C functions.
++ [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) :: Common functional iterator patterns.
+   + Blog post on [Tricked out iterators](http://slendermeans.org/julia-iterators.html) in Julia.
++ [LinearControl.jl](https://github.com/jemofthewest/LinearControl.jl) :: Julia package for analysis and design of control strategies for linear systems.
++ [ProtoBuf.jl](https://github.com/tanmaykm/ProtoBuf.jl) :: A Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
++ [Slicot.jl](https://github.com/jcrist/Slicot.jl) :: Julia wrapper for SLICOT Routines.
 + [StatefulIterators.jl](https://github.com/andrewcooke/StatefulIterators.jl) :: A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
+
+##### Resources
+
++ [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
 
 ----
 
@@ -95,7 +108,9 @@ __Packages and resources that support various programming styles, Software Archi
 ----
 
 # [Macro](https://en.wikipedia.org/wiki/Macro_(computer_science))
++ [ForceImport.jl](https://github.com/chakravala/ForceImport.jl) :: Macro that force imports conflicting methods in Julia modules
 + [ImportMacros.jl](https://github.com/fredrikekre/ImportMacros.jl) :: Provides three macros: @import and @using which loads a module and binds it to an alias, and @from which loads an object from a module and binds it to an alias.
++ [LoopVectorization.jl](https://github.com/chriselrod/LoopVectorization.jl) :: Macro(s) for vectorizing loops. 
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
 + [MetaMerge.jl](https://github.com/davidagold/MetaMerge.jl) :: Merge functions with identical names from distinct modules.
 + [RegexVar.jl](https://github.com/o-jasper/RegexVar.jl) :: A macro to fill variables straight from the string.
@@ -103,7 +118,6 @@ __Packages and resources that support various programming styles, Software Archi
 + [TimeIt.jl](https://github.com/kbarbary/TimeIt.jl) :: Timeit macro for Julia.
 + [Unroll.jl](https://github.com/StephenVavasis/Unroll.jl) :: A julia macro for unrolling conditional `for` loops.
 + [UTime.jl](https://github.com/J-Sarnoff/UTime.jl) :: Universal Time using local system timezone.
-+ [ForceImport.jl](https://github.com/chakravala/ForceImport.jl) :: Macro that force imports conflicting methods in Julia modules
 
 ##### Resources
 + [Meta Programming Manual](http://docs.julialang.org/en/latest/manual/metaprogramming/)

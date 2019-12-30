@@ -13,7 +13,6 @@ AI,MACHINELEARNING,ELM.jl,https://github.com/lepisma/ELM.jl,Extreme Learning Mac
 AI,MACHINELEARNING,EmpiricalRiskMinimization.jl,https://github.com/reesepathak/EmpiricalRiskMinimization.jl,Empirical Risk Minimization (and modeling) in Julia.
 AI,MACHINELEARNING,FeatureSelection.jl,https://github.com/Evizero/FeatureSelection.jl,Common measures and algorithms for feature selection.
 AI,MACHINELEARNING,Flimsy.jl,https://github.com/thomlake/Flimsy.jl,Gradient based Machine Learning for Julia.
-AI,MACHINELEARNING,Flux.jl,https://github.com/MikeInnes/Flux.jl,A library for machine learning implemented in Julia. (Alpha stage)
 AI,MACHINELEARNING,FunctionalDataUtils.jl,https://github.com/rened/FunctionalDataUtils.jl,"Utility functions for the FunctionalData package, mainly from the area of computer vision / machine learning."
 AI,MACHINELEARNING,go.jl,https://github.com/dmrd/go.jl,A deep learning based Go bot implemented in Julia.
 AI,MACHINELEARNING,GradientBoost.jl,https://github.com/svs14/GradientBoost.jl,Gradient boosting framework for Julia.
@@ -118,6 +117,8 @@ AI,English,Why.jl,https://github.com/TorkelE/Why.jl,"A simple function, why, whi
 AI,[FiniteAutomata](https://en.wikipedia.org/wiki/Category:Finite_automata),FiniteStateMachine.jl,https://github.com/tinybike/FiniteStateMachine.jl,A simple Julia implementation of finite state machines.
 AI,Japanese,MeCab.jl,https://github.com/chezou/MeCab.jl,Julia binding of Japanese morphological analyzer MeCab.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),DeepQLearning.jl,https://github.com/Andy-P/DeepQLearning.jl,An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),Flux.jl,https://github.com/FluxML/Flux.jl,A library for machine learning implemented in Julia. Documentation: https://fluxml.ai/Flux.jl/stable/
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),model-zoo,https://github.com/FluxML/model-zoo,A repository containing various demonstrations of the Flux machine learning library that can be freely used as a starting point for your own models.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/jbrea/ReinforcementLearning.jl) by @jbre,A Reinforcement Learning package.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl) by @benhamne,A Reinforcement Learning package.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearnin,A package for reinforcement learning research in Julia.
@@ -146,6 +147,7 @@ AI,NeuralNetworks,NeuralNets.jl,https://github.com/anj1/NeuralNets.jl,Generic ar
 AI,NeuralNetworks,neuralnetwork.jl,https://github.com/tomaskrehlik/neuralnetwork.jl,is an implementation of label neural network originally written for MATLAB/Octave by Andrew Ng for Coursera Machine Learning Class.
 AI,NeuralNetworks,NeuralNetworks.jl,https://github.com/soumith/NeuralNetworks.jl,Various functions for Neural Networks implemented in Julia.
 AI,NeuralNetworks,ONNX.jl,https://github.com/FluxML/ONNX.jl,Read ONNX graphs and load these models in Julia.
+AI,NeuralNetworks,PyTorch.jl,https://github.com/zenna/PyTorch.jl):: PyTorch wrapper,
 AI,NeuralNetworks,RecurrentNN.jl,https://github.com/Andy-P/RecurrentNN.jl,Deep RNN and LSTM in Julia.
 AI,NeuralNetworks,RNN.jl,https://github.com/kzahedi/RNN.jl,Recurrent Neural Networks.
 AI,NeuralNetworks,SimpleNets,https://github.com/rgehring/SimpleNets,Simple neural nets implementions in Julia.
@@ -360,13 +362,15 @@ Chemistry,Chemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilit
 Chemistry,Chemistry,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,Chemistry,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
 Chemistry,ComputationalChemistry,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
-Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),JuLIP.jl,https://github.com/libAtoms/JuLIP.jl,Julia Library for Interatomic Potentials.
+Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),JuLIP.jl,https://github.com/JuliaMolSim/JuLIP.jl,Julia Library for Interatomic Potentials.
+Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),ASE.jl,https://github.com/JuliaMolSim/ASE.jl,Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
 Chemistry,MaterialScience,BucklingOfPipes.jl,https://github.com/goedman/BucklingOfPipes.jl,"This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes."
 Chemistry,MaterialScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 Chemistry,MaterialScience,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
 Chemistry,[ColloidalChemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry),Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes .
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),ChemicalKinetics.jl,https://github.com/scidom/ChemicalKinetics.jl,"Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia."
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),HydrocarbonNets.jl,https://github.com/Ismael-VC/HydrocarbonNets.jl,Artificial Hydrocarbon Networks (AHNs) in Julia.
+Chemistry,QuantumChemistry,DFTK.jl,https://github.com/JuliaMolSim/DFTK.jl,Plane-wave density-functional theory code in Julia.
 Chemistry,QuantumChemistry,DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
 Chemistry,QuantumChemistry,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 Chemistry,QuantumChemistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
@@ -1098,15 +1102,6 @@ Machines,BOTS,Q.jl,https://github.com/enlnt/Q.jl,Julia for [kdb+](https://github
 Machines,CAD-CAM,Devices.jl,https://github.com/ajkeller34/Devices.jl,For simplified generation of device CAD files for superconducting device design.
 Machines,CAD-CAM,Gcode.jl,https://github.com/sjkelly/Gcode.jl,A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 Machines,CAD-CAM,LTspice.jl,https://github.com/cstook/LTspice.jl,It provides a julia interface to LTspice.
-Machines,ControlSystem,ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
-Machines,ControlSystem,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,Basic Julia bindings for fontconfig.
-Machines,ControlSystem,Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
-Machines,ControlSystem,log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
-Machines,ControlSystem,LinearControl.jl,https://github.com/jemofthewest/LinearControl.jl,Julia package for analysis and design of control strategies for linear systems.
-Machines,ControlSystem,ProtoBuf.jl,https://github.com/tanmaykm/ProtoBuf.jl,"is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more."
-Machines,ControlSystem,Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapper for SLICOT Routines.
-Machines,Resources,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
-Machines,Resources,omer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia,http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
 Machines,[EmbeddedSystems](https://en.wikipedia.org/wiki/Category:Embedded_systems),TinyG.jl,https://github.com/sjkelly/TinyG.jl,"This package provides support for CNC controllers running the TinyG firmware, principally developed by Synthetos."
 Machines,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),Arduino.jl,https://github.com/ihnorton/Arduino.jl,Basic Arduino interface for Julia.
 Machines,[Microcontrollers](https://en.wikipedia.org/wiki/Category:Microcontrollers),PiGPIO.jl,https://github.com/aviks/PiGPIO.jl,Manage external hardware using GPIO pins on the Raspberry Pi.
@@ -1371,6 +1366,7 @@ Mathematics,NumericalLinearAlgebra,SpecialMatrices.jl,https://github.com/jiahao/
 Mathematics,NumericalLinearAlgebra,TaylorModels.jl,https://github.com/dpsanders/TaylorModels.jl,A numerical mathematics package to treat the high-order scaling property of the remainder bound interval in a [Taylor polynomial](http://bt.pa.msu.edu/index_TaylorModels.htm).
 Mathematics,NumericalLinearAlgebra,TetGen.jl,https://github.com/JuliaFEM/TetGen.jl,Finite Element method solver.
 Mathematics,NumericalLinearAlgebra,ToeplitzMatrices.jl,https://github.com/andreasnoackjensen/ToeplitzMatrices.jl,Fast matrix multiplication and division for Toeplitz matrices in Julia.
+Mathematics,Resources,omer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia,http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course,
 Mathematics,Resources,JuliaCon2015,https://github.com/JuliaSparse/JuliaCon2015,Sparse Matrices in Julia workshop at JuliaCon2015.
 Mathematics,Resources,The Performance Cost of Integer Overflow Checking,http://danluu.com/integer-overflow/),
 Mathematics,Resources,julia-paper-arrays,https://github.com/jiahao/julia-paper-arrays,Julia position paper for [ARRAY '14](http://www.sable.mcgill.ca/array/).
@@ -1493,6 +1489,7 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),F
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),FunctionalCollections.jl,https://github.com/zachallaun/FunctionalCollections.jl,Functional and and persistent data structures for Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Graphs.jl,https://github.com/JuliaLang/Graphs.jl,a package for working with graph types and algorithms in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),A project report on using the Graphs.jl package,"http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT",
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphDataFrameBridge.jl,https://github.com/JuliaGraphs/GraphDataFrameBridge.jl,Tools for interoperability between DataFrame objects and LightGraphs and MetaGraphs objects.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphLayout.jl,https://github.com/IainNZ/GraphLayout.jl,Graph layout algorithms in pure Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphicalModels.jl,https://github.com/johnmyleswhite/GraphicalModels.jl,Data structures and parsing tools for representing graphical models in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),InfoTheory.jl,https://github.com/robertfeldt/InfoTheory.jl,"Estimating information theoretic measures (entropy, mutual information etc) from data."
@@ -1626,8 +1623,16 @@ Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),MacroTools.jl,https://github.com/MikeInnes/MacroTools.jl,"A library providing helpful tools for writing macros, notably a very simple templating system with some functions (see utils.jl)"
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Turing.jl,https://github.com/yebai/Turing.jl,Probabilistic programming in Julia.
 Programming-Paradigms,RESOURCES,Programming Language Theory,https://github.com/steshaw/plt-study,"Mathematics, Compilers, Functional Programming, and other papers."
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),ControlSystems.jl,https://github.com/JuliaControl/ControlSystems.jl,A Control Systems Toolbox for Julia.
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),CommonSubexpressions.jl,https://github.com/rdeits/CommonSubexpressions.jl,Naïve combined subexpression elimination in Julia.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Hooking.jl,https://github.com/Keno/Hooking.jl,Function entry hooking for julia and C functions.
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Iterators.jl,https://github.com/JuliaLang/Iterators.jl,Common functional iterator patterns.
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),log post on [Tricked out iterators,http://slendermeans.org/julia-iterators.html) in Julia,
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),LinearControl.jl,https://github.com/jemofthewest/LinearControl.jl,Julia package for analysis and design of control strategies for linear systems.
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),ProtoBuf.jl,https://github.com/tanmaykm/ProtoBuf.jl,"A Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more."
+Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),Slicot.jl,https://github.com/jcrist/Slicot.jl,Julia wrapper for SLICOT Routines.
 Programming-Paradigms,[ControlFlow](https://en.wikipedia.org/wiki/Category:Control_flow),StatefulIterators.jl,https://github.com/andrewcooke/StatefulIterators.jl,A stream-like wrapper around [iterable objects](https://en.wikipedia.org/wiki/Category:Iteration_in_programming).
+Programming-Paradigms,Resources,control-flow,http://docs.julialang.org/en/latest/manual/control-flow/,Conditional loops and Control flow constructs.
 Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Functional_programming),FunctionalUtils.jl,https://github.com/zachallaun/FunctionalUtils.jl,Functional Julia – based on fogus/lemonad.
 Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Functional_programming),Glob.jl,https://github.com/vtjnash/Glob.jl,Posix-compliant file name pattern matching.
 Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Functional_programming),Lazy.jl,https://github.com/MikeInnes/Lazy.jl,Functional programming for Julia.
@@ -1643,7 +1648,9 @@ Programming-Paradigms,GrammaticalEvolution,Evolution.jl,https://github.com/xenon
 Programming-Paradigms,GrammaticalEvolution,GrammaticalEvolution,https://github.com/abeschneider/GrammaticalEvolution,"An evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules."
 Programming-Paradigms,[Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing)),ASTInterpreter.jl,https://github.com/Keno/ASTInterpreter.jl,Gallium's AST interpreter as a separate package to simplify development.
 Programming-Paradigms,[Interpreters](https://en.wikipedia.org/wiki/Category:Interpreters_(computing)),JuliaInterpreter.jl,https://github.com/JuliaDebug/JuliaInterpreter.jl,Interpreter for Julia code.
+Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),ForceImport.jl,https://github.com/chakravala/ForceImport.jl,Macro that force imports conflicting methods in Julia modules
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),ImportMacros.jl,https://github.com/fredrikekre/ImportMacros.jl,"Provides three macros: @import and @using which loads a module and binds it to an alias, and @from which loads an object from a module and binds it to an alias."
+Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),LoopVectorization.jl,https://github.com/chriselrod/LoopVectorization.jl,Macro(s) for vectorizing loops.
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),MacroUtils.jl,https://github.com/carlobaldassi/MacroUtils.jl,Collection of Julia macros.
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),MetaMerge.jl,https://github.com/davidagold/MetaMerge.jl,Merge functions with identical names from distinct modules.
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),RegexVar.jl,https://github.com/o-jasper/RegexVar.jl,A macro to fill variables straight from the string.
@@ -1651,7 +1658,6 @@ Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_scie
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),TimeIt.jl,https://github.com/kbarbary/TimeIt.jl,Timeit macro for Julia.
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),Unroll.jl,https://github.com/StephenVavasis/Unroll.jl,A julia macro for unrolling conditional `for` loops.
 Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),UTime.jl,https://github.com/J-Sarnoff/UTime.jl,Universal Time using local system timezone.
-Programming-Paradigms,[Macro](https://en.wikipedia.org/wiki/Macro_(computer_science)),ForceImport.jl,https://github.com/chakravala/ForceImport.jl,Macro that force imports conflicting methods in Julia modules
 Programming-Paradigms,Resources,Meta Programming Manual,http://docs.julialang.org/en/latest/manual/metaprogramming/,
 Programming-Paradigms,Multi-Threading,KissThreading.jl,https://github.com/bkamins/KissThreading.jl,Simple patterns supporting working with threads in Julia.
 Programming-Paradigms,Multi-Threading,OCCA.jl,https://github.com/ReidAtcheson/OCCA.jl,"Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++."
@@ -2232,7 +2238,6 @@ Statistics,Resources,Slides of Iain Dunning's 2013 talk about the JuliaOpt colle
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Church.jl,https://github.com/LaurenceA/Church.jl,"Perform MCMC inference in complex, and simple, probabilistic models."
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),DiscreteFactor.jl,https://github.com/wlbksy/DiscreteFactor.jl,Discrete factor and its operations in Probabilistic Graphical Models.
-Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),ExtremeStats.jl,https://github.com/juliohm/ExtremeStats.jl,Extreme Value Statistics in Julia.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),MixtureModels.jl,https://github.com/lindahua/MixtureModels.jl,A Julia package for probabilistic mixture models.
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
 Statistics,[PROBABILISTICPROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),OpenPP.jl,https://github.com/JuliaStats/OpenPP.jl,Open Source Probabilistic Programming in Julia.
@@ -2260,6 +2265,7 @@ Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,Basis
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,ControlSystemIdentification.jl,https://github.com/baggepinnen/ControlSystemIdentification.jl,"System Identification for LTI systems, compatible with ControlSystems.jl."
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,DependentBootstrap,https://github.com/colintbowers/DependentBootstrap.jl,A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,DFA.jl,https://github.com/afternone/DFA.jl,Detrended fluctuation analysis in Julia.
+Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,DCCA.jl,https://github.com/johncwok/DCCA.jl,Detrended cross-correlations coefficient analysis : an easy to use Julia implementation.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,julia_timeseries,https://github.com/ElOceanografo/julia_timeseries,Time-series analysis functions for Julia.
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,KernelDensity.jl,https://github.com/JuliaStats/KernelDensity.jl,"Kernel density estimators that can handle univariate and bivariate data, but only continuous variables."
 Statistics,[TimeSeries](https://en.wikipedia.org/wiki/Time_series)Analysis,KernelEstimator.jl,https://github.com/panlanfeng/KernelEstimator.jl,The julia package for nonparametric density estimate and regression.
@@ -2407,6 +2413,7 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Slurm.jl,https://github.com/JuliaParallel/Slurm.jl,Experimental Julia interface to `slurm.schedmd.com`.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),MPIArrays.jl,https://github.com/barche/MPIArrays.jl,Distributed arrays based on MPI onesided communication.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDPirates.jl,https://github.com/chriselrod/SIMDPirates.jl,"A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're commiting type piracy"
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,"A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp)."
 Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel/JuliaCon2015_Workshop,Notebooks from the JuliaCon2015 Workshop.

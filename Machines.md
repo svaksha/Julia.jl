@@ -9,7 +9,6 @@
 + [AUDIO-VIDEO](#audio-video)
 + [BOTS](#bots)
 + [CAD-CAM](#cad-cam)
-+ [Control System](#control-system)
 + [Embedded Systems](#embedded-systems)
    + [Microcontrollers](#microcontrollers)
 + [Robots](#robots)
@@ -89,23 +88,6 @@
 + [Gcode.jl](https://github.com/sjkelly/Gcode.jl) :: A wrapper for writing [Gcode](http://en.wikipedia.org/wiki/Gcode) from Julia easily.
 + [LTspice.jl](https://github.com/cstook/LTspice.jl) :: It provides a julia interface to LTspice.
 
-----
-
-# Control System
-**Implementations of numerical algorithms for computations in systems and control theory.**
-
-+ [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) :: A Control Systems Toolbox for Julia.
-+ [Fontconfig.jl](https://github.com/JuliaGraphics/Fontconfig.jl) :: Basic Julia bindings for fontconfig.
-+ [Iterators.jl](https://github.com/JuliaLang/Iterators.jl) :: Common functional iterator patterns.
-   + Blog post on [Tricked out iterators](http://slendermeans.org/julia-iterators.html) in Julia.
-+ [LinearControl.jl](https://github.com/jemofthewest/LinearControl.jl) :: Julia package for analysis and design of control strategies for linear systems.
-+ [ProtoBuf.jl](https://github.com/tanmaykm/ProtoBuf.jl) :: is a Julia implementation for protocol buffers, a language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols, data storage, and more.
-+ [Slicot.jl](https://github.com/jcrist/Slicot.jl) :: Julia wrapper for SLICOT Routines.
-
-##### Resources
-
-+ [control-flow](http://docs.julialang.org/en/latest/manual/control-flow/) :: Conditional loops and Control flow constructs.
-+ Homer Reid's [Introduction to Numerical Analysis - Basic Numerical Programming in Julia](http://homerreid.dyndns.org/teaching/18.330/#ProblemSets) course.
 
 ----
 
