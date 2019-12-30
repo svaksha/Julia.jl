@@ -454,6 +454,7 @@ A Mathematical Programming Language (AMPL) is an algebraic modeling language to 
 + [ControlSystemIdentification.jl](https://github.com/baggepinnen/ControlSystemIdentification.jl) :: System Identification for LTI systems, compatible with ControlSystems.jl.
 + [DependentBootstrap](https://github.com/colintbowers/DependentBootstrap.jl) :: A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
 + [DFA.jl](https://github.com/afternone/DFA.jl) :: Detrended fluctuation analysis in Julia.
++ [DCCA.jl](https://github.com/johncwok/DCCA.jl) :: Detrended cross-correlations coefficient analysis : an easy to use Julia implementation.
 + [julia_timeseries](https://github.com/ElOceanografo/julia_timeseries) :: Time-series analysis functions for Julia.
 + [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators that can handle univariate and bivariate data, but only continuous variables.
 + [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: The julia package for nonparametric density estimate and regression.
