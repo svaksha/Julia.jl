@@ -770,7 +770,7 @@ FileIO,TabularData,ParquetFiles.jl,https://github.com/queryverse/ParquetFiles.jl
 FileIO,TabularData,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 FileIO,TabularData,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
 FileIO,TabularData,ReadWriteDlm2,https://github.com/strickek/ReadWriteDlm2.jl,"CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types."
-FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
+FileIO,XDMF,Xdmf.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 FileIO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 FileIO,XML,EzXML.jl,https://github.com/bicycle1885/EzXML.jl,XML/HTML handling tools for primates.
 FileIO,XML,LibExpat.jl,https://github.com/amitmurthy/LibExpat.jl,A Julia wrapper for libexpat.
@@ -1067,7 +1067,7 @@ LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under 
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),he __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License,"https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 Machines,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,"API wrapper for Julia, bare bones."
-Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
+Machines,API,MicrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
 Machines,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
 Machines,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
 Machines,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,"Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM."
@@ -1128,7 +1128,7 @@ Mathematics,CRYPTOGRAPHY,Stupid.jl,https://github.com/andrewcooke/Stupid.jl,Anal
 Mathematics,CRYPTOGRAPHY,ToyFHE.jl,https://github.com/JuliaComputing/ToyFHE.jl,Toy implementation of FHE algorithms.
 Mathematics,CRYPTOGRAPHY,VML.jl,https://github.com/JuliaMath/VML.jl,Julia bindings for the Intel Vector Math Library.
 Mathematics,CRYPTOGRAPHY,VSL.jl,https://github.com/sunoru/VSL.jl,Julia bindings for the Intel Vector Statistics Library.
-Mathematics,Cryptocurrency,it[Coin.jl,https://github.com/danielsuo/Coin.jl,A library for working with Bitcoin written in Julia.
+Mathematics,Cryptocurrency,Coin.jl,https://github.com/danielsuo/Coin.jl,A library for working with Bitcoin written in Julia.
 Mathematics,MATH,ApApproximation.jl,https://github.com/dprn/ApApproximation.jl,Implementation of the almost-periodic approximation.
 Mathematics,MATH,BasisFunctions.jl,https://github.com/daanhb/BasisFunctions.jl,"A collection of routines for working with a number of standard basis functions, mainly for use in the FrameFuns package."
 Mathematics,MATH,Bijections.jl,https://github.com/scheinerman/Bijections.jl,Bijection datatype for Julia.
@@ -1171,7 +1171,7 @@ Mathematics,MATH,SymPy.jl,https://github.com/jverzani/SymPy.jl,Julia interface t
 Mathematics,MATH,TSne.jl,https://github.com/lejon/TSne.jl,Julia port of L.J.P. van der Maaten and G.E. Hinton's T-SNE visualisation technique. Read about the [t-Distributed Stochastic Neighbor Embedding](http://homepage.tudelft.nl/19j49/t-SNE.html)
 Mathematics,MATH,TwoBasedIndexing.jl,https://github.com/simonster/TwoBasedIndexing.jl,Two-based indexing.
 Mathematics,MATH,Uncertain.jl,https://github.com/rephorm/Uncertain.jl,Uncertain quantities and error propagation for the Julia language.
-Mathematics,MATH,univariate__opt.jl,https://github.com/matthewclegg/univariate_opt.jl,Univariate optimization and root-finding code for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
+Mathematics,MATH,univariate_opt.jl,https://github.com/matthewclegg/univariate_opt.jl,Univariate optimization and root-finding code for Julia and its [newly maintained fork](https://github.com/EconForge/univariate_opt.jl).
 Mathematics,MATH,Unums.jl,https://github.com/tbreloff/Unums.jl,"Unum (Universal Number) types and operations.  {Usable: 1, Robust: 1, Active: 1}"
 Mathematics,MATH,UnumTests.jl,https://github.com/goedman/UnumTests.jl,Some experiments with Unums. {#NonCuratedPackage}
 Mathematics,MATH,utils.jl,https://github.com/juho-lee/utils.jl,basic utilities needed for scientific coding with julia.
@@ -1266,7 +1266,7 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MKL.jl,https://github.com/JuliaComputing/MKL.jl,is a package that makes Julia's linear algebra use Intel MKL BLAS and LAPACK instead of OpenBLAS. The build step of the package will automatically download Intel MKL and rebuild Julia's system image against Intel MKL.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS,https://github.com/lruthotto/MUMPS,A wrapper for a MUltifrontal Massively Parallel sparse direct Solver of large linear systems in Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),MUMPS1.jl,https://github.com/dmbates/MUMPS1.jl,An alternative implementation of a Julia interface to the sparse direct solver MUMPS. A MUMPS package for Julia is already registered but that package does not conform to the packaging standards for Julia.
-Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),PolarFact.jl,https://github.com/weijianzhang/PolarFa.jl,A Julia package for the matrix polar decomposition.
+Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),PolarFact.jl,https://github.com/weijianzhang/PolarFact.jl,A Julia package for the matrix polar decomposition.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
@@ -1884,7 +1884,7 @@ Server,WEB,CutShortURL.jl,https://github.com/rahulkp220/CutShortURL.jl,The simpl
 Server,WEB,Diana.jl,https://github.com/codeneomatrix/Diana.jl,GraphQL for Julia 0.6
 Server,WEB,Escher.jl,http://escher-jl.org,Composable Web UIs in pure Julia. [Source code](https://github.com/shashi/Escher.jl).
 Server,WEB,Fuji.jl,https://github.com/jackcook/Fuji.jl,A lightweight web server written in Julia.
-Server,WEB,GumboParser.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
+Server,WEB,Gumbo.jl,https://github.com/porterjamesj/Gumbo.jl,Julia wrapper around google's gumbo library for parsing HTML.
 Server,WEB,HTTP2.jl,https://github.com/sorpaas/HTTP2.jl,A HTTP2 support library for Julia.
 Server,WEB,HttpCommon.jl,https://github.com/JuliaWeb/HttpCommon.jl,Provides types and helper functions for dealing with the HTTP protocol in Julia.
 Server,WEB,HTTPClient.jl,https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcur,
@@ -2220,7 +2220,7 @@ Statistics,Resources,"redict user subscription using [Logistic Regression, Decis
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),BestSubsetRegression.jl,https://github.com/IainNZ/BestSubsetRegression.jl,Implements algorithms for the best subset regression problem in Julia.
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),Earth.jl,https://github.com/lendle/Earth.jl,"is the wrapper for the stand-alone version of R's earth package. The [Earth package in R](http://cran.r-project.org/web/packages/earth/) for [Multivariate Adaptive Regression Splines](http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) (MARS), a form of regression analysis."
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FirthRegression.jl,https://github.com/simonster/FirthRegression.jl,Firth penalized logistic/Poisson regression.
-Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/matthieugomez/fixedeffectmodels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
+Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/matthieugomez/FixedEffectModels.jl,Linear models with instrumental variables and/or high dimensional fixed effects.
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM) and generalized linear models (GLM).
 Statistics,[RegressionAnalysis](https://en.wikipedia.org/wiki/Regression_analysis),HD.jl,https://github.com/mlakolar/HD.jl,High-dimensional tools.
@@ -2348,7 +2348,7 @@ Super-Computing,COMPILERS,julia-icc-travis,https://github.com/sunoru/julia-icc-t
 Super-Computing,COMPILERS,LLVM.jl,https://github.com/jakebolewski/LLVM.jl,A Julia package for LLVM.
 Super-Computing,COMPILERS,llvm-cbe,https://github.com/JuliaComputing/llvm-cbe,"A resurrected LLVM C Backend, with improvements for Julia."
 Super-Computing,COMPILERS,ParallelAccelerator.jl,https://github.com/IntelLabs/ParallelAccelerator.jl,"The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs."
-Super-Computing,Preprocessor,Precompile.jl,https://github.com/JuliaLang/julia/blob/master/base/precompile.jl,"Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)"
+Super-Computing,Preprocessor,precompile.jl,https://github.com/JuliaLang/julia/blob/master/base/precompile.jl,"Precompilation in Julia base, and its [documentation](http://docs.julialang.org/en/latest/stdlib/base/#Base.precompile)"
 Super-Computing,Preprocessor,SnoopCompile.jl,https://github.com/timholy/SnoopCompile.jl,Make your packages work faster with more extensive precompilation - Spy on the JIT-compiler and learn which functions & types it's compiling.
 Super-Computing,Transpiler,Julia2C,https://github.com/IntelLabs/julia/tree/j2c,A source-to-source translator from Julia to C. This initial version converts basic Julia types and expressions into the corresponding C types and statements.
 Super-Computing,COMPUTERPERFORMANCE,ISPC.jl,https://github.com/damiendr/ISPC.jl,Tools to work with [ISPC](https://ispc.github.io/) in Julia.
