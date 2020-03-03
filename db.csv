@@ -260,7 +260,7 @@ Algorithms,Time,LabelPropagation.jl,https://github.com/afternone/LabelPropagatio
 Algorithms,RESOURCES,algo-book-julia,https://github.com/Alexander-N/algo-book-julia,Snippets from Problem Solving with Algorithms and Data Structures in Julia.
 Algorithms,RESOURCES,study,https://github.com/codematician/study,A study of interesting algorithms.
 Algorithms,[NP-complete](https://en.wikipedia.org/wiki/Category:NP-complete_problems),TravelingSalesmanHeuristics.jl,https://github.com/evanfields/TravelingSalesmanHeuristics.jl,Julia package for simple traveling salesman problem heuristics.
-Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),dReal.jl,https://github.com/zenna/dReal.jl,Nonlinear SMT solving using dReal.
+Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),DReal.jl,https://github.com/zenna/DReal.jl,Nonlinear SMT solving using dReal.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),PicoSAT.jl,https://github.com/jakebolewski/PicoSAT.jl,Provides Julia bindings to the popular SAT solver picosat by Armin Biere. It is based off the Python pycosat and Go pigosat bindings written by Ilan Schnell and Willam Schwartz.
 Algorithms,[SAT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),Z3.jl,https://github.com/zenna/Z3.jl,This is a Julia interface to Z3 - a high performance theorem prover developed at Microsoft Research. Z3 can solve satisfiability modulo theory (SMT) problems.
 Biology,,COBRA.jl,https://github.com/opencobra/COBRA.jl,"COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`."
