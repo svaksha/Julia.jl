@@ -7,7 +7,7 @@ __Networking, web security, frameworks and other Web server related things go he
 + [NETWORKING](#networking)
 + [SECURITY](#security)
 + [WEB](#web)
-   + [CSS](#css)
+   + [HTML-CSS](#html-css)
    + [Email](#email)
    + [Videos](#videos)
 + [WIDE](#wide)
@@ -102,8 +102,9 @@ __Networking, web security, frameworks and other Web server related things go he
 + The [Julia Webstack](http://juliawebstack.org) documentation for [TCP Sockets for webstack.jl](http://blog.leahhanson.us/using-tcp-sockets-in-julia.html)
 
 
-## CSS
+## HTML-CSS
 + [Cascadia.jl](https://github.com/Algocircle/Cascadia.jl) :: A CSS Selector library in Julia.
++ [DisplayAs.jl](https://github.com/tkf/DisplayAs.jl) :: It provides functions to show objects in a chosen MIME type.
 
 ## Email
 + [Mandrill.jl](https://github.com/aviks/Mandrill.jl) :: Mandrill API in Julia.
