@@ -25,6 +25,7 @@
 # Biochemistry
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
++ [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl) :: Nucleic and amino acid primitive types 
 
 # Chemometrics 
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
