@@ -10,6 +10,7 @@
 + [Biochemistry](#Biochemistry)
 + [Chemometrics](#Chemometrics)
 + [Chemoinformatics](#Chemoinformatics)
++ [Computational Tools](#Computational-Tools)
 + [Material Science](#material-science)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
@@ -32,6 +33,10 @@
 # Chemoinformatics
 + [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
 + [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) :: OpenSMILES string representations to LightGraphs.jl format.
+
+# Computational Tools
++ [Lattices](https://github.com/JuliaPhysics/Lattices.jl) :: A Lattice Library for Julia.
+ + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials.
@@ -59,6 +64,7 @@
 # Chemical Properties/Resources
 ## General
 + [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
++ [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
 
 ## Quantum Mechanical
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
@@ -78,10 +84,8 @@
       + [MolSimPy.jl](https://github.com/JuliaMolSim/MolSimPy.jl) :: Python bindings for molecular simulations.
       + [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: neighbour list for particle simulations based on matscipy.
  ### General Registry
- + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
  + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
  + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 
 ###### Resources
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
-
