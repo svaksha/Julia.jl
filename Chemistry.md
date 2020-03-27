@@ -1,26 +1,34 @@
 **Analytical chemistry, Cheminformatics, Physical/Organic chemistry, Crystallography, Nanochemistry, Quantum/Nuclear chemistry ...**
 
-+ [Chemistry](#chemistry)
-+ [Computational Chemistry](#computational-chemistry)
-   + [Molecular Modelling](#molecular-modelling)
++ [Chemistry Input/Output](#Chemistry Input/Output)
++ [Biochemistry](#Biochemistry)
++ [Chemometrics](#Chemometrics)
++ [Chemoinformatics](#Chemoinformatics)
 + [Material Science](#material-science)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
    + [Solid State Chemistry](#solid-state-chemistry)
    + [Quantum Chemistry](#quantum-chemistry)
-
+[Chemical Properties/Resources]
+   + [General](#General)
+   + [Thermochemistry](#Thermochemistry)
+   + [Quantummechanical](#Quantum Mechanical)
 ----
 
-# Chemistry 
-+ [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry files.
+
+# Chemistry Input/Output
++ [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
+
+# Biochemistry
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
-+ [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
-+ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
 
-----
-
-# Computational Chemistry 
+# Chemometrics 
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
++ [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
+
+# Chemoinformatics
++ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
++ [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) :: OpenSMILES string representations to LightGraphs.jl format.
 
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials.
@@ -45,9 +53,17 @@
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 
-###### Resources
+# Chemical Properties/Resources
+## General
++ [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
+
+## Quantum Mechanical
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
+## Thermochemistry
++ [CoolProp](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
++ [Lavoisier](https://github.com/longemen3000/lavoisier) :: Thermodynamics models of gasseus compounds.
++ [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 ## Quantum Chemistry 
 + [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
