@@ -25,6 +25,7 @@
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials.
 + [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
++ [Molly.jl](https://github.com/jgreener64/Molly.jl) :: Molecular dynamics in Julia.
 
 ----
 
