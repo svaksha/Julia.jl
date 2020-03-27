@@ -1,33 +1,28 @@
-**Analytical chemistry, Cheminformatics, Physical/Organic chemistry, Crystallography, Nanochemistry, Quantum/Nuclear chemistry ...**
+** Chemistry in Julia! **
 
-+ [Chemistry Input Output](#Chemistry-Input-Output)
-+ [Chemical Properties & Resources](#Chemical-Properties-&-Resources)
-   + [General](#General)
-   + [Thermochemistry](#Thermochemistry)
-   + [Quantum Mechanical](#Quantum-Mechanical)
-+ [Biochemistry](#Biochemistry)
-+ [Chemometrics](#Chemometrics)
-+ [Chemoinformatics](#Chemoinformatics)
-+ [Computational Tools](#Computational-Tools)
++ [Chemistry Input Output](#chemistry-input-output)
++ [Chemical Properties & Resources](#chemical-properties-&-resources)
+   + [General](#general)
+   + [Thermochemistry](#thermochemistry)
++ [Biochemistry](#biochemistry)
++ [Chemometrics](#chemometrics)
++ [Chemoinformatics](#chemoinformatics)
++ [Computational Tools](#computational-tools)
 + [Material Science](#material-science)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
    + [Solid State Chemistry](#solid-state-chemistry)
    + [Quantum Chemistry](#quantum-chemistry)
-----
 
+----
 
 # Chemistry Input Output
 + [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
-
 
 # Chemical Properties & Resources
 ## General
 + [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
 + [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
-
-## Quantum Mechanical
-+ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
 ## Thermochemistry
 + [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
@@ -89,3 +84,4 @@
 
 # Resources
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
++ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
