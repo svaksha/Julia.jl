@@ -68,7 +68,16 @@
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 ## Quantum Chemistry 
-+ [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
+
+### JuliaMolSim
++ [Molecular Simulation for Julia](https://github.com/JuliaMolSim) :: Organization for molecular simulations. 
+    + [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
+    + [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for Atomic Simulation Environment. 
+    + [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
+    + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials 
+    + [MolSimPy.jl](https://github.com/JuliaMolSim/MolSimPy.jl) :: Python bindings for molecular simulations.
+    + [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: neighbour list for particle simulations based on matscipy. 
+
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
 + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
