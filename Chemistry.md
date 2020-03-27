@@ -30,8 +30,8 @@
 + [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
 ## Thermochemistry
-+ [CoolProp](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
-+ [Lavoisier](https://github.com/longemen3000/lavoisier) :: Thermodynamics models of gasseus compounds.
++ [CoolProp.jl](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
++ [Lavoisier.jl](https://github.com/longemen3000/lavoisier) :: Thermodynamics models of gasseus compounds.
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 # Biochemistry
@@ -48,8 +48,8 @@
 + [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) :: OpenSMILES string representations to LightGraphs.jl format.
 
 # Computational Tools
-+ [Lattices](https://github.com/JuliaPhysics/Lattices.jl) :: A Lattice Library for Julia.
- + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
++ [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) :: A Lattice Library for Julia.
++ [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 
 # [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling)
 + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials.
