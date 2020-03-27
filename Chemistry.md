@@ -1,6 +1,6 @@
 **Analytical chemistry, Cheminformatics, Physical/Organic chemistry, Crystallography, Nanochemistry, Quantum/Nuclear chemistry ...**
 
-+ [Chemistry Input/Output](#Chemistry Input/Output)
++ [Chemistry Input Output](#Chemistry-Input-Output)
 + [Biochemistry](#Biochemistry)
 + [Chemometrics](#Chemometrics)
 + [Chemoinformatics](#Chemoinformatics)
@@ -9,10 +9,10 @@
    + [Colloidal Chemistry](#colloidal-chemistry)
    + [Solid State Chemistry](#solid-state-chemistry)
    + [Quantum Chemistry](#quantum-chemistry)
-[Chemical Properties/Resources]
+[Chemical Properties/Resources](#Chemical-Properties/Resources)
    + [General](#General)
    + [Thermochemistry](#Thermochemistry)
-   + [Quantummechanical](#Quantum Mechanical)
+   + [Quantum Mechanical](#Quantum-Mechanical)
 ----
 
 
