@@ -9,7 +9,7 @@
    + [Colloidal Chemistry](#colloidal-chemistry)
    + [Solid State Chemistry](#solid-state-chemistry)
    + [Quantum Chemistry](#quantum-chemistry)
-[Chemical Properties/Resources](#Chemical-Properties/Resources)
++ [Chemical Properties/Resources](#Chemical-Properties/Resources)
    + [General](#General)
    + [Thermochemistry](#Thermochemistry)
    + [Quantum Mechanical](#Quantum-Mechanical)
