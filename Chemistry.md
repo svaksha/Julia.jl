@@ -9,6 +9,7 @@
 + [Chemoinformatics](#chemoinformatics)
 + [Computational Tools](#computational-tools)
 + [Material Science](#material-science)
++ [Reaction Kinetics](#reaction-kinetics)
 + [Physical Chemistry](#physical-chemistry)
    + [Colloidal Chemistry](#colloidal-chemistry)
    + [Solid State Chemistry](#solid-state-chemistry)
@@ -57,6 +58,12 @@
 + [BucklingOfPipes.jl](https://github.com/goedman/BucklingOfPipes.jl) :: This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes.
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 + [Dimers.jl](https://github.com/sswatson/Dimers.jl) :: Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29
+
+----
+
+# Reaction Kinetics
++ [ChemicalKinetics.jl](https://github.com/papamarkou/ChemicalKinetics.jl) ::  DiffEq related functionality for defining biological models.
++ [DiffEqBiological.jl](https://github.com/SciML/DiffEqBiological.jl) - [Docs](https://docs.sciml.ai/v5.0/models/biological.html) :: Domain Specific Language for doing chemical kinetics provided by DiffEqBiological.jl.
 
 ----
 
