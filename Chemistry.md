@@ -21,7 +21,7 @@
 + [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 
 
-# Chemical Properties/Resources
+# Chemical Properties & Resources
 ## General
 + [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
 + [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
@@ -87,5 +87,5 @@
  + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
  + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 
-###### Resources
+# Resources
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
