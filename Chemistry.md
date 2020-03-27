@@ -1,12 +1,10 @@
 **Analytical chemistry, Cheminformatics, Physical/Organic chemistry, Crystallography, Nanochemistry, Quantum/Nuclear chemistry ...**
 
 + [Chemistry Input Output](#Chemistry-Input-Output)
-+ [Chemical Properties/Resources](#Chemical-Properties/Resources)
++ [Chemical Properties & Resources](#Chemical-Properties-&-Resources)
    + [General](#General)
    + [Thermochemistry](#Thermochemistry)
    + [Quantum Mechanical](#Quantum-Mechanical)
-   
-   
 + [Biochemistry](#Biochemistry)
 + [Chemometrics](#Chemometrics)
 + [Chemoinformatics](#Chemoinformatics)
@@ -19,8 +17,22 @@
 ----
 
 
-# Chemistry Input/Output
+# Chemistry Input Output
 + [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
+
+
+# Chemical Properties/Resources
+## General
++ [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
++ [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
+
+## Quantum Mechanical
++ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
+
+## Thermochemistry
++ [CoolProp](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
++ [Lavoisier](https://github.com/longemen3000/lavoisier) :: Thermodynamics models of gasseus compounds.
++ [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 # Biochemistry
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
@@ -62,20 +74,7 @@
 + [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 
-# Chemical Properties/Resources
-## General
-+ [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
-+ [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
-
-## Quantum Mechanical
-+ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
-
-## Thermochemistry
-+ [CoolProp](https://github.com/CoolProp/CoolProp.jl) :: CoolProp wrapper for Julia
-+ [Lavoisier](https://github.com/longemen3000/lavoisier) :: Thermodynamics models of gasseus compounds.
-+ [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
-
-## Quantum Chemistry 
+# Quantum Chemistry 
  ### JuliaMolSim
  + [Molecular Simulation for Julia](https://github.com/JuliaMolSim) :: Organization for molecular simulations. 
       + [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
