@@ -23,6 +23,7 @@
 
 # Biochemistry
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
++ [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
 
 # Chemometrics 
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
@@ -68,20 +69,18 @@
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 ## Quantum Chemistry 
-
-### JuliaMolSim
-+ [Molecular Simulation for Julia](https://github.com/JuliaMolSim) :: Organization for molecular simulations. 
-    + [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
-    + [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for Atomic Simulation Environment. 
-    + [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
-    + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials 
-    + [MolSimPy.jl](https://github.com/JuliaMolSim/MolSimPy.jl) :: Python bindings for molecular simulations.
-    + [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: neighbour list for particle simulations based on matscipy. 
-
-+ [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
-+ [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
-+ [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
-+ [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
+    ### JuliaMolSim
+    + [Molecular Simulation for Julia](https://github.com/JuliaMolSim) :: Organization for molecular simulations. 
+         + [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Plane-wave density-functional theory code in Julia.
+         + [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for Atomic Simulation Environment. 
+         + [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
+         + [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia Library for Interatomic Potentials 
+         + [MolSimPy.jl](https://github.com/JuliaMolSim/MolSimPy.jl) :: Python bindings for molecular simulations.
+         + [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: neighbour list for particle simulations based on matscipy.
+    ### General Registry
+    + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
+    + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
+    + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 
 ###### Resources
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
