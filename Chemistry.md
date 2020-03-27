@@ -1,4 +1,4 @@
-** Chemistry in Julia! **
+# Chemistry in Julia!
 
 + [Chemistry Input Output](#chemistry-input-output)
 + [Chemical Properties & Resources](#chemical-properties-&-resources)
