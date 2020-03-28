@@ -15,9 +15,9 @@
 
 # INDEX
 
-For Base packages, check if the package you seek is listed in the [built-in package manager](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions. [Pkg3.jl](https://github.com/JuliaLang/Pkg3.jl) is an next-generation package manager for Julia that creates a `Manifest.toml` file that records the exact versions of each dependency and their transitive dependencies.  
+To install a package, use [Pkg](https://julialang.github.io/Pkg.jl/v1/getting-started/), Julia's package manager. The standard registry for Julia packages is [General](https://github.com/JuliaRegistries/General) and is hosted on github. [pkg.julialang.org](http://pkg.julialang.org/) is a unified web UI for all registered packages.
 
-To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Attic](https://github.com/JuliaAttic) organisation.
+To create a package, check out [PkgTemplates](https://github.com/invenia/PkgTemplates.jl) and here is a [sample Julia package](https://github.com/JuliaLang/Example.jl) model. Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Attic](https://github.com/JuliaAttic) organisation.
 
 
 + [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
@@ -59,7 +59,7 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 + The __software__ used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
 + ALL copies and forks of this work must retain the Copyright, respective Licence files for program code (AGPLv3) and data (ODbL) along with this permission notice in all copies or substantial portions of the new work.
 
-The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `METADATA.jl` and various sources. By releasing the website code [publicly](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
+The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `General` and various sources. By releasing the website code [publicly](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
 
 
 ## Mirrors
