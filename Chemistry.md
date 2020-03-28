@@ -71,7 +71,6 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 
 
 ## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
-+ [ChemicalKinetics.jl](https://github.com/scidom/ChemicalKinetics.jl) :: Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia.
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 + [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) :: A Lattice Library for Julia.
