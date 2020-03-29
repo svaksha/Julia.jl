@@ -214,6 +214,7 @@ API,MATLAB,Moonwalk.jl,https://github.com/diogo149/Moonwalk.jl,"A partial MATLAB
 API,ObjectiveC,ObjectiveC.jl,https://github.com/JunoLab/ObjectiveC.jl,A Julia library that allows you to call Objective-C methods using native syntax.
 API,Perl,FileFind.jl,https://github.com/johnmyleswhite/FileFind.jl,Minimal Implementation of Perl's `File::Find` in Julia.
 API,Processing,Processing.jl,https://github.com/rennis250/Processing.jl,"A port of the Processing language, to Julia."
+API,Python,FStrings.jl,https://github.com/magonser/FStrings.jl,"Implementation of Python style 'fsrings' literal string interpolation based on `Printf.@sprintf`."
 API,Python,Polyglot.jl,https://github.com/wavexx/Polyglot.jl,"Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript."
 API,Python,PyCall.jl,https://github.com/stevengj/PyCall.jl,Call Python functions from the Julia language.
 API,Python,PyJulia,https://github.com/jakebolewski/pyjulia,Python interface to julia.
