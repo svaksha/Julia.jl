@@ -160,7 +160,7 @@
 
 + [DeepQLearning.jl](https://github.com/Andy-P/DeepQLearning.jl) :: An implementation of DeepMind's Deep Q Learning algorithm described in _Playing Atari with Deep Reinforcement Learning_.
 + [Flux.jl](https://github.com/FluxML/Flux.jl) :: A library for machine learning implemented in Julia. Documentation: https://fluxml.ai/Flux.jl/stable/
-    + [model-zoo](https://github.com/FluxML/model-zoo) :: A repository containing various demonstrations of the Flux machine learning library that can be freely used as a starting point for your own models.
+   + [model-zoo](https://github.com/FluxML/model-zoo) :: A repository containing various demonstrations of the Flux machine learning library that can be freely used as a starting point for your own models.
 + [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) by @jbrea :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearning :: A package for reinforcement learning research in Julia.
@@ -221,7 +221,7 @@
 + [SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl) :: Sum-Product Networks (deep probabilistic networks) package in Julia.
 
 ###### Resources
-+ Blog post on '[Chess position evaluation with convolutional neural network in Julia](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)'.
++ Blog post on '[Chess position evaluation with convolutional neural networks](http://int8.io/chess-position-evaluation-with-convolutional-neural-networks-in-julia/)' in Julia.
 
 
 

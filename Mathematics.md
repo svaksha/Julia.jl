@@ -258,6 +258,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [PolarFact.jl](https://github.com/weijianzhang/PolarFa.jl) :: A Julia package for the matrix polar decomposition.
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia. 
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
++ [Transducers.jl](https://github.com/tkf/Transducers.jl) :: provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
 
 ### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 __Special Array Types and Algorithms__
