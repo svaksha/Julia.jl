@@ -9,6 +9,7 @@
    - [Thermochemistry](#thermochemistry)
 + [Simulation Methods](#simulation-methods)
 + [Solid State Chemistry and Materials Science](#solid-state-chemistry-and-materials-science)
++ [Uncategorized](#uncategorized) 
 
 ----
 
@@ -55,7 +56,7 @@ Overview of Julia packages for simulation methods related to chemistry and
 such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 [Quantum dynamics](https://en.wikipedia.org/wiki/Quantum_dynamics) or electronic-structure theory.
 
- + [JuliaMolSim](https://github.com/JuliaMolSim) :: Github organization for molecular simulation in Julia
++ [JuliaMolSim](https://github.com/JuliaMolSim) :: Github organization for molecular simulation in Julia
       - [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
       - [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Flexible Julia code for plane-wave [density-functional theory (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory) and related models.
       - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia library for Interatomic Potentials.

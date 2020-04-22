@@ -358,41 +358,33 @@ Biology,Resources-Teaching,capetown2014,https://github.com/aidanbudd/capetown201
 Biology,Resources-Teaching,course_EMBO_at_TGAC_PPI_Sep2015,https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015,"Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015."
 Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio,http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions),
 Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
-Chemistry,ChemistryInputOutput,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
-Chemistry,General,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
-Chemistry,General,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
-Chemistry,Thermochemistry,CoolProp.jl,https://github.com/CoolProp/CoolProp.jl,CoolProp wrapper for Julia
-Chemistry,Thermochemistry,Lavoisier.jl,https://github.com/longemen3000/lavoisier,Thermodynamics models of gasseus compounds.
-Chemistry,Thermochemistry,Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamics properties of wet air and gasses.
+Chemistry,GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
+Chemistry,GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
+Chemistry,GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
+Chemistry,ChemicalFileFormatsandInputOutput,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 Chemistry,Biochemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Biochemistry,DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
 Chemistry,Biochemistry,BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
-Chemistry,Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
-Chemistry,Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,Chemoinformatics,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
 Chemistry,Chemoinformatics,OpenSMILES.jl,https://github.com/caseykneale/OpenSMILES.jl,OpenSMILES string representations to LightGraphs.jl format.
-Chemistry,ComputationalTools,Lattices.jl,https://github.com/JuliaPhysics/Lattices.jl,A Lattice Library for Julia.
-Chemistry,ComputationalTools,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
-Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),JuLIP.jl,https://github.com/JuliaMolSim/JuLIP.jl,Julia Library for Interatomic Potentials.
-Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),ASE.jl,https://github.com/JuliaMolSim/ASE.jl,Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
-Chemistry,[MolecularModelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
-Chemistry,MaterialScience,BucklingOfPipes.jl,https://github.com/goedman/BucklingOfPipes.jl,"This package investigates the buckling behavior of composite pipes, e.g. in long horizontal reach holes."
-Chemistry,MaterialScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
-Chemistry,MaterialScience,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
+Chemistry,Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
+Chemistry,Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,ReactionKinetics,ChemicalKinetics.jl,https://github.com/papamarkou/ChemicalKinetics.jl, DiffEq related functionality for defining biological models.
-Chemistry,[ColloidalChemistry](#https://en.wikipedia.org/wiki/Category:Colloidal_chemistry),Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes .
-Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),ChemicalKinetics.jl,https://github.com/scidom/ChemicalKinetics.jl,"Simulation, Bayesian inference and Bayesian model selection for chemical kinetics in Julia."
-Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry),HydrocarbonNets.jl,https://github.com/Ismael-VC/HydrocarbonNets.jl,Artificial Hydrocarbon Networks (AHNs) in Julia.
-Chemistry,JuliaMolSim,Molecular Simulation for Julia,https://github.com/JuliaMolSim,Organization for molecular simulations.
-Chemistry,JuliaMolSim,DFTK.jl,https://github.com/JuliaMolSim/DFTK.jl,Plane-wave density-functional theory code in Julia.
-Chemistry,JuliaMolSim,ASE.jl,https://github.com/JuliaMolSim/ASE.jl,Julia Bindings for Atomic Simulation Environment.
-Chemistry,JuliaMolSim,SHIPs.jl,https://github.com/JuliaMolSim/SHIPs.jl,Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
-Chemistry,JuliaMolSim,JuLIP.jl,https://github.com/JuliaMolSim/JuLIP.jl,Julia Library for Interatomic Potentials
-Chemistry,JuliaMolSim,MolSimPy.jl,https://github.com/JuliaMolSim/MolSimPy.jl,Python bindings for molecular simulations.
-Chemistry,JuliaMolSim,NeighborLists.jl,https://github.com/JuliaMolSim/NeighborLists.jl,neighbour list for particle simulations based on matscipy.
-Chemistry,GeneralRegistry,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
-Chemistry,GeneralRegistry,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
-Chemistry,Resources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
+Chemistry,Thermochemistry,CoolProp.jl,https://github.com/CoolProp/CoolProp.jl,CoolProp wrapper for Julia
+Chemistry,Thermochemistry,Lavoisier.jl,https://github.com/longemen3000/lavoisier,Thermodynamics models of gasseus compounds.
+Chemistry,Thermochemistry,Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamics properties of wet air and gasses.
+Chemistry,SimulationMethods,JuliaMolSim,https://github.com/JuliaMolSim,Github organization for molecular simulation in Julia
+Chemistry,SimulationMethods,Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
+Chemistry,SimulationMethods,Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices
+Chemistry,SimulationMethods,Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
+Chemistry,SimulationMethods,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
+Chemistry,SimulationMethods,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
+Chemistry,SimulationMethods,QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia
+Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
+Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,HydrocarbonNets.jl,https://github.com/Ismael-VC/HydrocarbonNets.jl,Artificial Hydrocarbon Networks (AHNs) in Julia.
+Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,Lattices.jl,https://github.com/JuliaPhysics/Lattices.jl,A Lattice Library for Julia.
+Chemistry,Uncategorized,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
+Chemistry,Uncategorized,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
 DataScience,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
 DataScience,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
 DataScience,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
@@ -1618,9 +1610,10 @@ Physics,LaserPhysics,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-s
 Physics,QuantumMechanics,QuantumOptics.jl,https://github.com/bastikr/QuantumOptics.jl,Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 Physics,QuantumMechanics,QuDOS.jl,https://github.com/acroy/QuDOS.jl,Quantum Dynamics of Open Systems in Julia.
 Physics,QuantumMechanics,WignerSymbols.jl,https://github.com/Jutho/WignerSymbols.jl,A Julia package for computing Wigner symbols and related quantities.
-Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuBase.jl,https://github.com/JuliaQuantum/QuBase.jl,"A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics."
-Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuDirac.jl,https://github.com/JuliaQuantum/QuDirac.jl,A library for performing quantum mechanics using Dirac notation.
-Physics,[JuliaQuantum](http://juliaquantum.github.io/),QuDynamics.jl,https://github.com/JuliaQuantum/QuDynamics.jl,A library for solving dynamical equations in quantum mechanics.
+Physics,QuantumPhysics,MERA.jl,https://github.com/mhauru/MERA.jl,provides Julia implementations of some basic Multiscale Entaglement Renormalization Ansatz algorithms.
+Physics,QuantumPhysics,QuBase.jl,https://github.com/JuliaQuantum/QuBase.jl,"A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics."
+Physics,QuantumPhysics,QuDirac.jl,https://github.com/JuliaQuantum/QuDirac.jl,A library for performing quantum mechanics using Dirac notation.
+Physics,QuantumPhysics,QuDynamics.jl,https://github.com/JuliaQuantum/QuDynamics.jl,A library for solving dynamical equations in quantum mechanics.
 Physics,StatisticalMechanics,IsingModels.jl,https://github.com/johnmyleswhite/IsingModels.jl,The Ising model as a Julian distribution.
 Physics,StatisticalMechanics,MyIsing.jl,https://github.com/kaslusimoes/MyIsing.jl,A naive and first try to implement a 2D Square Ising Model using Julia.
 Physics,ComplexSystems,DynamicalBilliards.jl,https://github.com/JuliaDynamics/DynamicalBilliards.jl,"An easy-to-use, modular and extendable Julia package for Dynamical Billiard systems in two dimensions."
