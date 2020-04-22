@@ -169,6 +169,7 @@
 ----
 
 # SPEECH RECOGNITION
++ [JuliaTorch](https://github.com/boathit/JuliaTorch) :: Using PyTorch in Julia Language via PyCall.
 + [MelGeneralizedCepstrums.jl](https://github.com/r9y9/MelGeneralizedCepstrums.jl) :: It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia.
 + [MFCC.jl](https://github.com/JuliaDSP/MFCC.jl) :: Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
 + [SpeechBase.jl](https://github.com/r9y9/SpeechBase.jl).
