@@ -1,3 +1,4 @@
++ [Astrophysics](#astrophysics)
 + [Electromagnetism](#electromagnetism)
 + [Fluid Dynamics](#fluid-dynamics)
 + [Laser Physics](#laser-physics)
@@ -22,16 +23,20 @@
 + [JuliaPower](https://github.com/prezaei85/JuliaPower) :: A package of scripts in Julia to solve power flow and simulate cascading failures in power systems.
 + [LambertW.jl](https://github.com/robertdj/LambertW.jl) :: Lambert's W function in Julia.
 + [Mass.jl](https://github.com/ggggggggg/Mass.jl) :: An experimental frameworks for TES pulse analysis.
-+ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error
-  propagation calculator and library. It supports real and complex numbers with
-  uncertainty, arbitrary precision calculations, and operations with arrays.
-+ [MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) :: Error
-  propagation using Monte-Carlo simulation. Similar to Measurements.jl, but more accurate for highly nonlinear functions at the expense of longer execution time.
++ [Measurements.jl](https://github.com/giordano/Measurements.jl) :: Error propagation calculator and library. It supports real and complex numbers with uncertainty, arbitrary precision calculations, and operations with arrays.
++ [MonteCarloMeasurements.jl](https://github.com/baggepinnen/MonteCarloMeasurements.jl) :: Error propagation using Monte-Carlo simulation. Similar to Measurements.jl, but more accurate for highly nonlinear functions at the expense of longer execution time.
 + [Physical.jl](https://github.com/ggggggggg/Physical.jl)
 + [Quantities.jl](https://github.com/ElOceanografo/Quantities.jl) :: Dimensions and Quantities.
 + [ROOT.jl](https://github.com/jpata/ROOT.jl) :: A toy experiment interfacing ROOT and Julia through FWLite. [ROOT](http://root.cern.ch) is a data analysis library widely used at experiments at CERN for HEP data analyses.
 + [ROOTDataFrames.jl](https://github.com/jpata/ROOTDataFrames.jl) :: A wrapper for ROOT Trees through the Abstract DataFrame interface.
 + [Signals.jl](https://github.com/mbauman/Signals.jl) :: A high level Signal type with a common timebase and groups of channels.
+
+----
+
+# [Astrophysics](https://en.wikipedia.org/wiki/Category:Astrophysics)
+
+## Plasma Physics
+* [VlaPy](https://github.com/joglekara/VlaPy) :: 1D-1V Vlasov-Poisson(-Fokker-Planck) Plasma Physics Simulation Tool. 
 
 ----
 
@@ -67,8 +72,9 @@
 + [QuDOS.jl](https://github.com/acroy/QuDOS.jl) :: Quantum Dynamics of Open Systems in Julia.
 + [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) :: A Julia package for computing Wigner symbols and related quantities.
 
-### [Julia Quantum](http://juliaquantum.github.io/)
-An umbrella Org for Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
+## Quantum Physics
+Quantum Physics, Lindblad dynamics, Quantum tensor network, information and computation, etc...
++ [MERA.jl](https://github.com/mhauru/MERA.jl) :: provides Julia implementations of some basic Multiscale Entaglement Renormalization Ansatz algorithms. 
 + [QuBase.jl](https://github.com/JuliaQuantum/QuBase.jl) :: A foundational library for quantum mechanics in Julia, that provides a unifying type structure and set of basic functions for computational quantum mechanics.
 + [QuDirac.jl](https://github.com/JuliaQuantum/QuDirac.jl) :: A library for performing quantum mechanics using Dirac notation.
 + [QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) :: A library for solving dynamical equations in quantum mechanics.

@@ -1,5 +1,6 @@
 **Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, etc...**
 
++ [API's](#api's)
 + [BIOINFORMATICS](#bioinformatics)
 + [BIOMEDICINE](#biomedicine)
 + [BIOSTATISTICS](#bioinformatics)
@@ -20,6 +21,12 @@
 + [COBRA.jl](https://github.com/opencobra/COBRA.jl) :: COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
 
 ----
+
+# API's
++ [BioServices.jl](https://github.com/BioJulia/BioServices.jl) :: Julia interface to APIs for various bio-related web services 
+
+----
+
 
 # BIOINFORMATICS
 + [Bio.jl](https://github.com/BioJulia/Bio.jl) :: Bioinformatics and Computational Biology Infrastructure for Julia. Wiki documentation of [core features](https://github.com/BioJulia/Bio.jl/wiki/core-features)
@@ -70,6 +77,7 @@
 ----
 
 # GENOMICS
++ [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) ::  Sequence alignment tools in BioJulia
 + [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) :: Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 + [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
 + [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
@@ -79,12 +87,14 @@
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [FusionDirect.jl](https://github.com/OpenGene/FusionDirect.jl) :: Detect gene fusion directly from raw fastq files.
 + [GenomeAnnotations.jl](https://github.com/nw11/GenomeAnnotations.jl) :: Manage Local Genome Annotation files. 
++ [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl) ::  A modern genomics framework for julia 
 + [GenomicTiles.jl](https://github.com/nw11/GenomicTiles.jl)
 + [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) :: Stochastic Gillespie-type simulations using Julia.
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
 + [HTSLIB.jl](https://github.com/OpenGene/HTSLIB.jl) :: A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
++ [MerCounting.jl](https://github.com/BioJulia/MerCounting.jl) ::  Kmer counting algorithms and count-data utilities for the BioJulia framework 
 + [LCS.jl](https://github.com/WestleyArgentum/LCS.jl) :: A package for finding longest common and longest contiguous subsequences. 
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
 + [OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) :: OpenGene core library in Julia.
@@ -119,7 +129,7 @@ __Genome Wide Association Study (GWAS)__
 ###### Resources
 + Wikipedia's [list of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API.
 + [Data Analysis for Genomics](https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia.
-
++ [BioTutorials](https://github.com/BioJulia/BioTutorials) :  Tutorial Notebooks of BioJulia 
 
 ## Molecular Biology
 + [EvoDuplexes.jl](https://github.com/timbitz/EvoDuplexes.jl) :: A Julia package to fold all local and long-range RNA duplexes.
