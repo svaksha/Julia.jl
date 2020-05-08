@@ -187,6 +187,6 @@ __Static Program Analysis__
 
 ----
 # Style Guidelines
-+ [Official Julia style guide](https://julia.readthedocs.org/en/latest/manual/style-guide/).
++ [Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
 
