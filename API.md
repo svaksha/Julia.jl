@@ -125,6 +125,7 @@ Wrappers's and programming API's for other languages and general backend server 
 + [Processing.jl](https://github.com/rennis250/Processing.jl) :: A port of the Processing language, to Julia.
 
 ## Python
++ [FStrings.jl](https://github.com/magonser/FStrings.jl) :: Implementation of Python style 'fsrings' literal string interpolation based on `Printf.@sprintf`.
 + [Polyglot.jl](https://github.com/wavexx/Polyglot.jl) :: Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript.
 + [PyCall.jl](https://github.com/stevengj/PyCall.jl) :: Call Python functions from the Julia language.
 + [PyJulia](https://github.com/jakebolewski/pyjulia) :: Python interface to julia.
