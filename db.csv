@@ -398,6 +398,7 @@ DataScience,SOFTWARE,Socrata.jl,https://github.com/drewgendreau/Socrata.jl,An AP
 DataScience,SOFTWARE,UCIMLRepo.jl,https://github.com/siddhantjain/UCIMLRepo.jl,A small package to allow for easy access and download of datasets from UCI ML repository.
 DataScience,SOFTWARE,WorldBankData.jl,https://github.com/4gh/WorldBankData.jl,The World Bank provides free access to data about development at data.worldbank.org.
 DataScience,DataScience,jplyr.jl,https://github.com/davidagold/jplyr.jl,Data manipulation facilities for Julia.
+DataScience,DataScience,Julia-data-science,https://github.com/tirthajyoti/Julia-data-science,Notebooks on DS basics with Julia and why it is suitable for data science.
 DataScience,BiomedicalResearch,REDCap.jl,https://github.com/bcbi/REDCap.jl,"A Julia frontend for the [REDCap](https://en.wikipedia.org/wiki/REDCap) API available under the MIT license, that supports both importing and exporting records, as well as deletion from the REDCap Database. It also includes functions for surveys and report generation."
 DataScience,[ASTRONOMY](https://en.wikipedia.org/wiki/Category:Astronomy),NASA Open DataSets,https://open.nasa.gov/,"To solve looming challenges here on Earth using NASA data, [tools, and resources](https://github.com/nasa)."
 DataScience,AstroPhysics,sndatasets,https://github.com/kbarbary/sndatasets,Download and normalize published supernova photometric data.

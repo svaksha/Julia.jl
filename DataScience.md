@@ -50,7 +50,7 @@
 
 ## Data Science
 + [jplyr.jl](https://github.com/davidagold/jplyr.jl) :: Data manipulation facilities for Julia.
-
++ [Julia-data-science](https://github.com/tirthajyoti/Julia-data-science) :: Notebooks on DS basics with Julia and why it is suitable for data science.
 
 ## Research Data Management
 ### Biomedical Research
