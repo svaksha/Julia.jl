@@ -79,7 +79,6 @@ Wrappers's and programming API's for other languages and general backend server 
 ## Go
 + [GoTMSupport.jl](https://github.com/ordovician/GoTMSupport.jl) :: Support for writing bundle commands for the Go programming language in Julia.
 
-
 ## Java 
 + [JavaCall.jl](https://github.com/JuliaInterop/JavaCall.jl) :: is a package that lets you call Java programs from Julia. 
 + [JDBC.jl](https://github.com/aviks/JDBC.jl) :: Julia interface to Java database drivers.
@@ -108,7 +107,6 @@ Wrappers's and programming API's for other languages and general backend server 
 ## MATLAB
 + [jlcall](https://github.com/twadleigh/jlcall) :: Call Julia from MATLAB.
 + [matlab-to-julia](https://lakras.github.io/matlab-to-julia/) translator.
-+ [M2J.jl
 + [MAT.jl](https://github.com/simonster/MAT.jl) :: A Julia module for reading MATLAB files.
 + [MATJulia](https://github.com/timholy/MATJulia) :: Call Julia from matlab. 
 + [MatlabCompat.jl](https://github.com/MatlabCompat/MatlabCompat.jl) :: Julia library aimed at simplifying conversion of legacy MATLAB/Octave code into Julia by providing functions similar to MATLAB/Octave.
