@@ -79,6 +79,7 @@ __Packages and resources that support various programming styles, Software Archi
 
 ## Reactive Programming
 + [Reactive.jl](https://github.com/JuliaLang/Reactive.jl) :: A package for reactive programming in Julia.
++ [Rocket.jl](https://github.com/biaslab/Rocket.jl) :: A functional reactive programming extensions library for Julia.
 
 ----
 
