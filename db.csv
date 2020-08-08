@@ -1557,6 +1557,7 @@ Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),mbr.jl,https://git
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tau.jl,https://github.com/Aerlinger/Tau.jl,A simple module providing definition of the Tau constant.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tensors.jl,https://github.com/pgawron/Tensors.jl,Julia package for tensor decompositions.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),TensorOperations.jl,https://github.com/Jutho/TensorOperations.jl,Julia package for tensor contractions and related operations.
+Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),Tullio.jl,https://github.com/mcabbott/Tullio.jl,A package for writing array operations in index notation.
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),CSoM.jl,https://github.com/goedman/CSoM.jl,"Investigate Julia version of __Programming the FEM__ by I M Smith, D V Griffiths."
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),EllipticCurves.jl,https://github.com/wwilson/EllipticCurves.jl,Elliptic Curves in Julia.
 Mathematics,[AlgebraicGeometry](http://en.wikipedia.org/wiki/Category:Algebraic_geometry),khypot.jl,https://github.com/intdxdt/khypot.jl,k dimensional hypotenuse.
