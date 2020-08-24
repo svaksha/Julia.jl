@@ -1662,6 +1662,7 @@ Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Func
 Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Functional_programming),PatternDispatch.jl,https://github.com/toivoh/PatternDispatch.jl,Method dispatch based on pattern matching for Julia.
 Programming-Paradigms,[FunctionalProgramming](https://en.wikipedia.org/wiki/Functional_programming),Pipe.jl,https://github.com/oxinabox/Pipe.jl,Improved function piping in Julia.
 Programming-Paradigms,ReactiveProgramming,Reactive.jl,https://github.com/JuliaLang/Reactive.jl,A package for reactive programming in Julia.
+Programming-Paradigms,ReactiveProgramming,Rocket.jl,https://github.com/biaslab/Rocket.jl,A functional reactive programming extensions library for Julia.
 Programming-Paradigms,[DSL](https://en.wikipedia.org/wiki/Domain-specific_language),ModelingToolkit.jl,https://github.com/JuliaDiffEq/ModelingToolkit.jl,A toolkit for modeling and creating DSLs for Scientific Computing in Julia.
 Programming-Paradigms,GrammaticalEvolution,Evolution.jl,https://github.com/xenon-/Evolution.jl,Evolutionary Computation in Julia.
 Programming-Paradigms,GrammaticalEvolution,GrammaticalEvolution,https://github.com/abeschneider/GrammaticalEvolution,"An evolutionary technique that is similar to Genetic Programming (GP). However, unlike GP, it doesn't suffer the same problems with fixing damaged trees. Instead, it uses a grammar that is combined with a genome of integers. The genome is used to select which branch to follow for or-rules."
