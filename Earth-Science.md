@@ -1,7 +1,6 @@
 + [AERONAUTICS](#aeronautics)
 + [CLIMATOLOGY](#climatology)
 + [ECOLOGY](#ecology)
-+ [GEOSTATISTICS](#geostatistics)
 + [CARTOGRAPHY](#cartography)
   + [GIS](#gis)
   + [GPS](#gps)
@@ -23,13 +22,7 @@
 ----
 
 # [ECOLOGY](https://en.wikipedia.org/wiki/Category:Ecology)
-Ecology packages (including subjects such as agronomy, forestry and oceanographic models) are listed under the [Biology](Biology.md) page for easier reference
-
-----
-
-# [GEOSTATISTICS](https://en.wikipedia.org/wiki/Geostatistics)
-+ [Krige.jl](https://github.com/njwilson23/Krige.jl) :: Kriging estimators in Julia.
-+ [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) :: Geostatistics in Julia.
+Ecology packages (including subjects such as agronomy, forestry and oceanographic models) are listed under the [Biology](Biology.md) page for easier reference.
 
 ----
 
