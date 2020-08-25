@@ -2,15 +2,16 @@
    + [ECONOMETRICS](#econometrics)
    + [FINANCE](#finance)
 
----
+----
 
-# [ACTUARIAL SCIENCE]()
+# ACTUARIAL SCIENCE
 
-## [ECONOMETRICS]()
+## ECONOMETRICS
 + [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 + [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) :: FRBNY DSGE model in Julia.
 + [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
-+ [Dolo.jl](https://github.com/EconForge/Dolo.jl) :: A tool to describe and solve economic models. Documentation: http://www.econforge.org/Dolo.jl/latest/
++ [Dolo.jl](https://github.com/EconForge/Dolo.jl) :: A tool to describe and solve economic models. 
+   + Documentation: http://www.econforge.org/Dolo.jl/latest/
 + [Dynare.jl](https://github.com/DynareTeam/Dynare.jl) :: This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models.
 + [Econometrics.jl](https://github.com/JuliaFinMetriX/Econometrics.jl) :: The Econometrics.jl package contains functionalities for (financial) econometric research.
 + [Expectations.jl](https://github.com/QuantEcon/Expectations.jl) ::  Expectation operators for `Distributions.jl` objects.
@@ -25,7 +26,7 @@
    + [Quantitative economic modelling](http://quant-econ.net/jl/index.html) lecture series in Julia language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf) file too.
 + [RuinProbability.jl](https://github.com/Hank-Qian/RuinProbability.jl) :: For calculating the ruin probability with real data under different claims models.
 
-## [FINANCE]()
+## FINANCE
 + [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.
 + [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) :: Analysis of high frequency quantitative data.
    + flashcrash-ui](https://github.com/shashi/flashcrash-ui) :: UI for `BigFinance.jl`.
@@ -60,3 +61,4 @@
 + [WorldBankDataTd.jl](https://github.com/JuliaFinMetriX/WorldBankDataTd.jl) :: Accessing World Bank Data.
 + [YStockData.jl](https://github.com/Algocircle/YStockData.jl) :: Fetch Data from Yahoo Finance.
 + [ZVSimulator.jl](https://github.com/scidom/ZVSimulator.jl) :: The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
+

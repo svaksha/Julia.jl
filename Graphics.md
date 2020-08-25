@@ -66,7 +66,6 @@
 + [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes.
 + [ModernGL.jl](https://github.com/JuliaGL/ModernGL.jl) :: OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
 + [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) :: Julia Interface to visualize Graphs.
-+ [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Package for NRRD IO.
 + [OCV.jl](https://github.com/Keno/OCV.jl) :: A wrapper for OpenCV - __WIP__.
 + [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.

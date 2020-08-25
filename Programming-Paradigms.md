@@ -1,5 +1,4 @@
-# Programming Paradigms
-__Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
+Programming Paradigms: __Packages and resources that support various programming styles, Software Architecture and CS paradigms.__
 
 + [Automata](#automata)
 + [Control Flow](#control-flow)
@@ -19,7 +18,7 @@ __Packages and resources that support various programming styles, Software Archi
 + [Program Analysis](#program-analysis)
 + [Reactive Programming](#reactive-programming)
 + [STATIC ANALYSIS](#static-analysis)
-    + [Turnaround Time](#turnaround-time)
+   + [Turnaround Time](#turnaround-time)
 + [Style Guidelines](#style-guidelines)
 
 ----
@@ -104,7 +103,7 @@ __Packages and resources that support various programming styles, Software Archi
 ----
 
 # Language Comparison
-* [Basic Language Comparison](https://github.com/JulesKouatchou/basic_language_comparison) :: Basic Comparison of Various Computing Languages : Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran
+* [Basic Language Comparison](https://github.com/JulesKouatchou/basic_language_comparison) :: Basic Comparison of Various Computing Languages, eg. Python, Julia, Matlab, IDL, R, Java, Scala, C, Fortran.
 
 ----
 
@@ -165,6 +164,8 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
 
 ## Multiple Dispatch
++ [WhereTraits.jl](https://github.com/schlichtanders/WhereTraits.jl) :: This package exports one powerful macro @traits with which you can extend Julia's where syntax. 
+
 ###### Resources
 + [The Design Impact of Multiple Dispatch](http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013.
 + [What are the advantages of multiple dispatch in Julia](https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch)?
@@ -187,6 +188,7 @@ __Static Program Analysis__
 + [TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) :: Formatted output of timed sections in julia.
 
 ----
+
 # Style Guidelines
 + [Official Julia style guide](https://docs.julialang.org/en/v1/manual/style-guide/).
 + [Style.jl](https://github.com/johnmyleswhite/Style.jl) :: Style guidelines for Julia programming.
