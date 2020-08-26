@@ -240,6 +240,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SugarBLAS.jl](https://github.com/lopezm94/SugarBLAS.jl) :: Syntactic sugar for BLAS polynomials.
 + [CUSPARSE.jl](https://github.com/kshyatt/CUSPARSE.jl) :: Julia interface to NVIDIA's CUSPARSE library.
 + [CUSOLVER.jl](https://github.com/kshyatt/CUSOLVER.jl) :: Julia bindings for the NVIDIA CUSOLVER library. CUSOLVER is a high-performance direct-solver matrix linear algebra library.
+* [FGenerators.jl](https://github.com/JuliaFolds/FGenerators.jl) :: A package for defining Transducers.jl-compatible extended foldl with a simple @yield-based syntax.
 + [green-fairy](https://github.com/carnaval/green-fairy) :: Lattice trees.
 + [Hypre.jl](https://github.com/jgoldfar/Hypre.jl) :: A wrapper for the Hypre library.
 + [IDRsSolver.jl](https://github.com/mschauer/IDRsSolver.jl) :: Induced Dimension Reduction method [IDR(s)] for solving general linear equations. 
@@ -259,6 +260,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [SALT.jl](https://github.com/xdavidliu/SALT.jl) :: SALT (steady-state ab-initio laser theory) solver package for Julia. 
 + [SuperLU.jl](https://github.com/dmbates/SuperLU.jl) :: Julia interface to the SuperLU solver package for sparse systems.
 + [Transducers.jl](https://github.com/tkf/Transducers.jl) :: provides composable algorithms on "sequence" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia.
+
 
 ### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 __Special Array Types and Algorithms__
