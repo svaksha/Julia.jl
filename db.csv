@@ -517,7 +517,7 @@ Database,In-MemoryStorage,Pandas.jl,https://github.com/malmaud/Pandas.jl,A Julia
 Database,In-MemoryStorage,DataFramesMeta.jl,https://github.com/JuliaStats/DataFramesMeta.jl,Metaprogramming tools for `DataFrame`s and `AbstractDict` objects. These macros improve performance and provide more convenient syntax.
 Database,In-MemoryStorage,FastGroupBy.jl,https://github.com/xiaodaigh/FastGroupBy.jl,Some helper functions to make some group by operations on DataFrames and IndexedTables faster.
 Database,[Distributed](https://en.wikipedia.org/wiki/Category:Distributed_data_stores)Storage,Accumulo.jl,https://github.com/JuliaDB/Accumulo.jl,Apache Accumulo client.
-Database,SciDB,SciDB-Julia,https://github.com/Paradigm4/SciDB-Julia,The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications.
+Database,SciDB,SciDB-Julia,https://github.com/Paradigm4/SciDB-Julia,The SciDB-Julia package allows users of Julia to interface with SciDB. The API follows the Julia convention and allows for using Julia language constructs in SciDB operations. SciDB is an [array DBMS](http://en.wikipedia.org/wiki/Array_DBMS) is an array database designed for multidimensional data management and analytics common to scientific applications. {__NB: Not maintained for the latest stable Julia release__}.
 Database,SciDB,TAQ,https://github.com/Paradigm4/TAQ,Example SciDB queries for finance trade and quote data.
 Database,ENGINES,kyotocabinet.jl,https://github.com/tuzzeg/kyotocabinet.jl,Implementation of Kyoto Cabinet in Julia language.
 Database,GraphDB,Neo4j.jl,https://github.com/glesica/Neo4j.jl,Messing around with building a Neo4j driver for Julia.
@@ -994,6 +994,7 @@ Graphics,GRAPHICS,Luxor.jl,https://github.com/cormullion/Luxor.jl,an easy-to-use
 Graphics,GRAPHICS,LuxRay.jl,https://github.com/SimonDanisch/LuxRay.jl,Julia wrapper for LuxRay.
 Graphics,GRAPHICS,MeshSlicer.jl,https://github.com/sjkelly/MeshSlicer.jl,A package for slicing meshes into polygons using Julialang.
 Graphics,GRAPHICS,MeshIO.jl,https://github.com/JuliaIO/MeshIO.jl,IO for Meshes.
+Graphics,GRAPHICS,MiniFB.jl,https://github.com/aviks/MiniFB.jl,"A Julia wrapper around MiniFB, a small cross platform library that makes it easy to render 32 bit pixels in a window."
 Graphics,GRAPHICS,ModernGL.jl,https://github.com/JuliaGL/ModernGL.jl,OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
 Graphics,GRAPHICS,NetworkViz.jl,https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
 Graphics,GRAPHICS,OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for OpenCV - __WIP__.
@@ -1771,90 +1772,90 @@ Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),P
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),ThermodynamicsTable.jl,https://github.com/DANA-Laboratory/ThermodynamicsTable.jl,"Thermodynamics table for critical values, heat capacity, etc.."
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),WaveToy.jl,https://github.com/eschnett/WaveToy.jl,Julia WaveToy.
 Physics,Miscellaneous,fys,https://github.com/jhlq/fys,Physics and misc unmaintained Julia code.
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Gen.jl,https://github.com/probcomp/Gen,Probabilistic programming with programmable inference.
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Soss.jl,https://github.com/cscherrer/Soss.jl,A library for probabilistic programming.
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stan.jl,https://github.com/StanJulia/Stan.jl,A Julia wrapper for the Stan language.
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stheno.jl,https://github.com/willtebbutt/Stheno.jl,Probabilistic programming with Gaussian processes in Julia.
-Probability&Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Turing.jl,https://github.com/TuringLang/Turing.jl,A Turing complete probabilistic programming language.
-Probability&Statistics,Markovian,POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes.
-Probability&Statistics,Markovian,POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
-Probability&Statistics,Markovian,HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight abstraction for hidden Markov models in Julia.
-Probability&Statistics,Gaussian,GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
-Probability&Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
-Probability&Statistics,Bayesian,BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
-Probability&Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
-Probability&Statistics,Bayesian,BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Bayesian estimation of diffusion processes.
-Probability&Statistics,Bayesian,BayesianNonparametrics.jl,https://github.com/OFAI/BayesianNonparametrics.jl,Bayesian nonparametrics in Julia.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CurveFit.jl,https://github.com/pjabardo/CurveFit.jl,Simple least squares and curve fitting functions.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/FixedEffects/FixedEffectModels.jl,Fast estimation of linear models with IV and high dimensional categorical variables.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM) and generalized linear models (GLM).
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Isotonic.jl,https://github.com/ajtulloch/Isotonic.jl,This implements several algorithms for isotonic regression in Julia.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),LARS.jl,https://github.com/simonster/LARS.jl,Least angle regression.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/JuliaStats/Lasso.jl,Lasso solvers for linear and generalized linear models.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),MixedModels.jl,https://github.com/dmbates/MixedModels.jl,A Julia package for fitting (statistical) mixed-effects models.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),QuantileRegression.jl,https://github.com/pkofod/QuantileRegressions.jl,Quantile regression in Julia.
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Regression.jl,https://github.com/lindahua/Regression.jl,Algorithms for regression analysis (e.g. linear regression and logistic regression).
-Probability&Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),SparseRegression.jl,https://github.com/joshday/SparseRegression.jl,Statistical Models with Regularization in Pure Julia.
-Probability&Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),AverageShiftedHistograms.jl,https://github.com/joshday/AverageShiftedHistograms.jl,David Scott's Average Shifted Histogram density estimation.
-Probability&Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelDensity.jl,https://github.com/JuliaStats/KernelDensity.jl,Kernel density estimators for continuous variables.
-Probability&Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelEstimator.jl,https://github.com/panlanfeng/KernelEstimator.jl,A Julia package for nonparametric density estimation.
-Probability&Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),LowRankModels.jl,https://github.com/madeleineudell/LowRankModels.jl,A Julia package for modeling and fitting generalized low rank models.
-Probability&Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),ManifoldLearning.jl,https://github.com/wildart/ManifoldLearning.jl,A Julia package for manifold learning and non-linear dimensionality reduction.
-Probability&Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),MultivariateStats.jl,https://github.com/JuliaStats/MultivariateStats.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).
-Probability&Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/JuliaEarth/GeoStats.jl,High-performance geostatistical algorithms in Julia.
-Probability&Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GeoStatsImages.jl,https://github.com/JuliaEarth/GeoStatsImages.jl,Training images for geostastical simulation.
-Probability&Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GslibIO.jl,https://github.com/JuliaEarth/GslibIO.jl,Utilities to read/write extended GSLIB files in Julia.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),BasisFunctionExpansions.jl,https://github.com/baggepinnen/BasisFunctionExpansions.jl,Basis Function Expansions for Julia.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),ControlSystemIdentification.jl,https://github.com/baggepinnen/ControlSystemIdentification.jl,"System Identification for LTI systems, compatible with ControlSystems.jl."
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),DependentBootstrap.jl,https://github.com/colintbowers/DependentBootstrap.jl,A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),DCCA.jl,https://github.com/johncwok/DCCA.jl,Detrended cross-correlations coefficient analysis : an easy to use Julia implementation.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),LPVSpectral.jl,https://github.com/baggepinnen/LPVSpectral.jl,Least-squares (sparse) spectral estimation and (sparse) LPV spectral decomposition.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),PerronFrobenius.jl,https://github.com/kahaaga/PerronFrobenius.jl,Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),SmoothingKernels.jl,https://github.com/johnmyleswhite/SmoothingKernels.jl,Smoothing kernels for use in kernel regression and kernel density estimation.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),Temporal.jl,https://github.com/dysonance/Temporal.jl,Flexible and efficient time series class & methods for the Julia language.
-Probability&Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
-Probability&Statistics,[ONLINE](),OnlineStats.jl,https://github.com/joshday/OnlineStats.jl,Online algorithms for statistics.
-Probability&Statistics,[COMPOSITIONAL](https://en.wikipedia.org/wiki/Compositional_data),CoDa.jl,https://github.com/JuliaEarth/CoDa.jl,Compositional Data Analysis in Julia
-Probability&Statistics,[EXTREMES](https://en.wikipedia.org/wiki/Extreme_value_theory),ExtremeStats.jl,https://github.com/JuliaEarth/ExtremeStats.jl,Extreme Value Statistics in Julia.
-Probability&Statistics,[CAUSAL](),CauseMap.jl,https://github.com/cyrusmaher/CauseMap.jl,"An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia."
-Probability&Statistics,[SAMPLING](),Bootstrap.jl,https://github.com/julian-gehring/Bootstrap.jl,"Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions."
-Probability&Statistics,[SAMPLING](),GeneralizedSampling.jl,https://github.com/robertdj/GeneralizedSampling.jl,Generalized Sampling in Julia.
-Probability&Statistics,[SAMPLING](),Jackknife.jl,https://github.com/ararslan/Jackknife.jl,Jackknife resampling and estimation in Julia.
-Probability&Statistics,[SAMPLING](),Jags.jl,https://github.com/JagsJulia/Jags.jl,Julia package for using Just another Gibbs sampler.
-Probability&Statistics,[SAMPLING](),MonteCarloMeasurements.jl,https://github.com/baggepinnen/MonteCarloMeasurements.jl,Uncertainty propagation by Monte-Carlo sampling: Real numbers with uncertainty represented by particle clouds.
-Probability&Statistics,[SAMPLING](),PSIS.jl,https://github.com/alvaro1101/PSIS.jl,Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
-Probability&Statistics,[SAMPLING](),RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,An implementation of the recombinator-k-means method.
-Probability&Statistics,[SAMPLING](),StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl                   ,Numerical stabilization routines for determinant quantum Monte Carlo.
-Probability&Statistics,[TESTS](),HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,"T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia."
-Probability&Statistics,[TESTS](),RobustStats.jl,https://github.com/mrxiaohe/RobustStats.jl,A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
-Probability&Statistics,UNCLASSIFIED,BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
-Probability&Statistics,UNCLASSIFIED,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation.
-Probability&Statistics,UNCLASSIFIED,Civecm.jl,https://github.com/andreasnoackjensen/Civecm.jl,Cointegration in Vector Error Correction Models in Julia.
-Probability&Statistics,UNCLASSIFIED,CTDE.jl,https://github.com/adolgert/CTDE.jl,"Continuous time, discrete event system in Julia."
-Probability&Statistics,UNCLASSIFIED,ConjugatePriors.jl,https://github.com/JuliaStats/ConjugatePriors.jl,A package to support conjugate prior distributions.
-Probability&Statistics,UNCLASSIFIED,DiscriminantAnalysis.jl,https://github.com/trthatcher/DiscriminantAnalysis.jl,A package for linear and quadratic regularized Discriminant Analysis.
-Probability&Statistics,UNCLASSIFIED,Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package for evaluating divergences.
-Probability&Statistics,UNCLASSIFIED,DirichletProcessMixtures.jl,https://github.com/sbos/DirichletProcessMixtures.jl,This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
-Probability&Statistics,UNCLASSIFIED,Distances.jl,https://github.com/JuliaStats/Distances.jl, A Julia package for evaluating distances(metrics) between vectors.
-Probability&Statistics,UNCLASSIFIED,Distributions.jl,https://github.com/JuliaStats/Distributions.jl,Probability distributions in Julia.
-Probability&Statistics,UNCLASSIFIED,FactorModels.jl,https://github.com/joidegn/FactorModels.jl,Factor models or diffusion index models.
-Probability&Statistics,UNCLASSIFIED,FeldtLib.jl,https://github.com/robertfeldt/FeldtLib.jl,Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
-Probability&Statistics,UNCLASSIFIED,FreqTables.jl,https://github.com/nalimilan/FreqTables.jl,Frequency tables.
-Probability&Statistics,UNCLASSIFIED,GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
-Probability&Statistics,UNCLASSIFIED,JointMoments.jl,https://github.com/tensorjack/JointMoments.jl,Tensors and statistics for joint central moments.
-Probability&Statistics,UNCLASSIFIED,KernSmooth.jl,https://github.com/lendle/KernSmooth.jl,"A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license."
-Probability&Statistics,UNCLASSIFIED,PowerLaws.jl,https://github.com/johnybx/PowerLaws.jl,A Julia package for power laws distributions.
-Probability&Statistics,UNCLASSIFIED,PValueAdjust.jl,https://github.com/dirkschumacher/PValueAdjust.jl,P-value adjustment methods for multiple testing correction.
-Probability&Statistics,UNCLASSIFIED,Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
-Probability&Statistics,UNCLASSIFIED,RankAggregation.jl,https://github.com/JuliaEarth/RankAggregation.jl,Rank aggregation in Julia.
-Probability&Statistics,UNCLASSIFIED,StatsBase.jl,https://github.com/JuliaStats/StatsBase.jl,Basic statistics.
-Probability&Statistics,UNCLASSIFIED,TopicModels.jl,https://github.com/slycoder/TopicModels.jl,TopicModels for Julia.
-Probability&Statistics,UNCLASSIFIED,CovarianceMatrices.jl,https://github.com/gragusa/CovarianceMatrices.jl,Covariance Matrix Estimation in Julia.
-Probability&Statistics,UNCLASSIFIED,PortHamiltonian.jl,https://github.com/flavioluiz/PortHamiltonian.jl,Port-Hamiltonian systems in Julia.
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Gen.jl,https://github.com/probcomp/Gen,Probabilistic programming with programmable inference.
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Soss.jl,https://github.com/cscherrer/Soss.jl,A library for probabilistic programming.
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stan.jl,https://github.com/StanJulia/Stan.jl,A Julia wrapper for the Stan language.
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stheno.jl,https://github.com/willtebbutt/Stheno.jl,Probabilistic programming with Gaussian processes in Julia.
+Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Turing.jl,https://github.com/TuringLang/Turing.jl,A Turing complete probabilistic programming language.
+Probability-Statistics,Markovian,POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes.
+Probability-Statistics,Markovian,POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
+Probability-Statistics,Markovian,HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight abstraction for hidden Markov models in Julia.
+Probability-Statistics,Gaussian,GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
+Probability-Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
+Probability-Statistics,Bayesian,BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
+Probability-Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
+Probability-Statistics,Bayesian,BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Bayesian estimation of diffusion processes.
+Probability-Statistics,Bayesian,BayesianNonparametrics.jl,https://github.com/OFAI/BayesianNonparametrics.jl,Bayesian nonparametrics in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CurveFit.jl,https://github.com/pjabardo/CurveFit.jl,Simple least squares and curve fitting functions.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/FixedEffects/FixedEffectModels.jl,Fast estimation of linear models with IV and high dimensional categorical variables.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),GLM.jl,https://github.com/JuliaStats/GLM.jl,Linear models (LM) and generalized linear models (GLM).
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Isotonic.jl,https://github.com/ajtulloch/Isotonic.jl,This implements several algorithms for isotonic regression in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),LARS.jl,https://github.com/simonster/LARS.jl,Least angle regression.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/JuliaStats/Lasso.jl,Lasso solvers for linear and generalized linear models.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),MixedModels.jl,https://github.com/dmbates/MixedModels.jl,A Julia package for fitting (statistical) mixed-effects models.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),QuantileRegression.jl,https://github.com/pkofod/QuantileRegressions.jl,Quantile regression in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Regression.jl,https://github.com/lindahua/Regression.jl,Algorithms for regression analysis (e.g. linear regression and logistic regression).
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),SparseRegression.jl,https://github.com/joshday/SparseRegression.jl,Statistical Models with Regularization in Pure Julia.
+Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),AverageShiftedHistograms.jl,https://github.com/joshday/AverageShiftedHistograms.jl,David Scott's Average Shifted Histogram density estimation.
+Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelDensity.jl,https://github.com/JuliaStats/KernelDensity.jl,Kernel density estimators for continuous variables.
+Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelEstimator.jl,https://github.com/panlanfeng/KernelEstimator.jl,A Julia package for nonparametric density estimation.
+Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),LowRankModels.jl,https://github.com/madeleineudell/LowRankModels.jl,A Julia package for modeling and fitting generalized low rank models.
+Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),ManifoldLearning.jl,https://github.com/wildart/ManifoldLearning.jl,A Julia package for manifold learning and non-linear dimensionality reduction.
+Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),MultivariateStats.jl,https://github.com/JuliaStats/MultivariateStats.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).
+Probability-Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GeoStats.jl,https://github.com/JuliaEarth/GeoStats.jl,High-performance geostatistical algorithms in Julia.
+Probability-Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GeoStatsImages.jl,https://github.com/JuliaEarth/GeoStatsImages.jl,Training images for geostastical simulation.
+Probability-Statistics,[SPATIAL](https://en.wikipedia.org/wiki/Geostatistics),GslibIO.jl,https://github.com/JuliaEarth/GslibIO.jl,Utilities to read/write extended GSLIB files in Julia.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),BasisFunctionExpansions.jl,https://github.com/baggepinnen/BasisFunctionExpansions.jl,Basis Function Expansions for Julia.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),ControlSystemIdentification.jl,https://github.com/baggepinnen/ControlSystemIdentification.jl,"System Identification for LTI systems, compatible with ControlSystems.jl."
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),DependentBootstrap.jl,https://github.com/colintbowers/DependentBootstrap.jl,A module that implements several varieties of the dependent statistical bootstrap as well as the corresponding block-length selection procedures.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),DCCA.jl,https://github.com/johncwok/DCCA.jl,Detrended cross-correlations coefficient analysis : an easy to use Julia implementation.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),LPVSpectral.jl,https://github.com/baggepinnen/LPVSpectral.jl,Least-squares (sparse) spectral estimation and (sparse) LPV spectral decomposition.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),PerronFrobenius.jl,https://github.com/kahaaga/PerronFrobenius.jl,Estimating the transfer operator (Perron Frobenius operator) and invariant measures from time series.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),SmoothingKernels.jl,https://github.com/johnmyleswhite/SmoothingKernels.jl,Smoothing kernels for use in kernel regression and kernel density estimation.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),Temporal.jl,https://github.com/dysonance/Temporal.jl,Flexible and efficient time series class & methods for the Julia language.
+Probability-Statistics,[TEMPORAL](https://en.wikipedia.org/wiki/Time_series),TimeSeries.jl,https://github.com/JuliaStats/TimeSeries.jl,Time-series toolkit for Julia.
+Probability-Statistics,[ONLINE](),OnlineStats.jl,https://github.com/joshday/OnlineStats.jl,Online algorithms for statistics.
+Probability-Statistics,[COMPOSITIONAL](https://en.wikipedia.org/wiki/Compositional_data),CoDa.jl,https://github.com/JuliaEarth/CoDa.jl,Compositional Data Analysis in Julia
+Probability-Statistics,[EXTREMES](https://en.wikipedia.org/wiki/Extreme_value_theory),ExtremeStats.jl,https://github.com/JuliaEarth/ExtremeStats.jl,Extreme Value Statistics in Julia.
+Probability-Statistics,[CAUSAL](),CauseMap.jl,https://github.com/cyrusmaher/CauseMap.jl,"An implementation of Convergent Cross Mapping (CCM), a method for causal inference in non-linear dynamics systems, written in Julia."
+Probability-Statistics,[SAMPLING](),Bootstrap.jl,https://github.com/julian-gehring/Bootstrap.jl,"Bootstrapping is a widely applicable technique for statistical estimation, especially in the absence of closed-form solutions."
+Probability-Statistics,[SAMPLING](),GeneralizedSampling.jl,https://github.com/robertdj/GeneralizedSampling.jl,Generalized Sampling in Julia.
+Probability-Statistics,[SAMPLING](),Jackknife.jl,https://github.com/ararslan/Jackknife.jl,Jackknife resampling and estimation in Julia.
+Probability-Statistics,[SAMPLING](),Jags.jl,https://github.com/JagsJulia/Jags.jl,Julia package for using Just another Gibbs sampler.
+Probability-Statistics,[SAMPLING](),MonteCarloMeasurements.jl,https://github.com/baggepinnen/MonteCarloMeasurements.jl,Uncertainty propagation by Monte-Carlo sampling: Real numbers with uncertainty represented by particle clouds.
+Probability-Statistics,[SAMPLING](),PSIS.jl,https://github.com/alvaro1101/PSIS.jl,Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
+Probability-Statistics,[SAMPLING](),RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,An implementation of the recombinator-k-means method.
+Probability-Statistics,[SAMPLING](),StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl                   ,Numerical stabilization routines for determinant quantum Monte Carlo.
+Probability-Statistics,[TESTS](),HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,"T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia."
+Probability-Statistics,[TESTS](),RobustStats.jl,https://github.com/mrxiaohe/RobustStats.jl,A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
+Probability-Statistics,UNCLASSIFIED,BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
+Probability-Statistics,UNCLASSIFIED,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation.
+Probability-Statistics,UNCLASSIFIED,Civecm.jl,https://github.com/andreasnoackjensen/Civecm.jl,Cointegration in Vector Error Correction Models in Julia.
+Probability-Statistics,UNCLASSIFIED,CTDE.jl,https://github.com/adolgert/CTDE.jl,"Continuous time, discrete event system in Julia."
+Probability-Statistics,UNCLASSIFIED,ConjugatePriors.jl,https://github.com/JuliaStats/ConjugatePriors.jl,A package to support conjugate prior distributions.
+Probability-Statistics,UNCLASSIFIED,DiscriminantAnalysis.jl,https://github.com/trthatcher/DiscriminantAnalysis.jl,A package for linear and quadratic regularized Discriminant Analysis.
+Probability-Statistics,UNCLASSIFIED,Divergences.jl,https://github.com/gragusa/Divergences.jl,A Julia package for evaluating divergences.
+Probability-Statistics,UNCLASSIFIED,DirichletProcessMixtures.jl,https://github.com/sbos/DirichletProcessMixtures.jl,This package implements Dirichlet Process Mixture Models in Julia using variational inference for truncated stick-breaking representation of Dirichlet Process.
+Probability-Statistics,UNCLASSIFIED,Distances.jl,https://github.com/JuliaStats/Distances.jl, A Julia package for evaluating distances(metrics) between vectors.
+Probability-Statistics,UNCLASSIFIED,Distributions.jl,https://github.com/JuliaStats/Distributions.jl,Probability distributions in Julia.
+Probability-Statistics,UNCLASSIFIED,FactorModels.jl,https://github.com/joidegn/FactorModels.jl,Factor models or diffusion index models.
+Probability-Statistics,UNCLASSIFIED,FeldtLib.jl,https://github.com/robertfeldt/FeldtLib.jl,Comparing two set of samples (empirical distributions)Baumgartner-Weis-Schindler statistic and tests.
+Probability-Statistics,UNCLASSIFIED,FreqTables.jl,https://github.com/nalimilan/FreqTables.jl,Frequency tables.
+Probability-Statistics,UNCLASSIFIED,GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
+Probability-Statistics,UNCLASSIFIED,JointMoments.jl,https://github.com/tensorjack/JointMoments.jl,Tensors and statistics for joint central moments.
+Probability-Statistics,UNCLASSIFIED,KernSmooth.jl,https://github.com/lendle/KernSmooth.jl,"A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license."
+Probability-Statistics,UNCLASSIFIED,PowerLaws.jl,https://github.com/johnybx/PowerLaws.jl,A Julia package for power laws distributions.
+Probability-Statistics,UNCLASSIFIED,PValueAdjust.jl,https://github.com/dirkschumacher/PValueAdjust.jl,P-value adjustment methods for multiple testing correction.
+Probability-Statistics,UNCLASSIFIED,Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
+Probability-Statistics,UNCLASSIFIED,RankAggregation.jl,https://github.com/JuliaEarth/RankAggregation.jl,Rank aggregation in Julia.
+Probability-Statistics,UNCLASSIFIED,StatsBase.jl,https://github.com/JuliaStats/StatsBase.jl,Basic statistics.
+Probability-Statistics,UNCLASSIFIED,TopicModels.jl,https://github.com/slycoder/TopicModels.jl,TopicModels for Julia.
+Probability-Statistics,UNCLASSIFIED,CovarianceMatrices.jl,https://github.com/gragusa/CovarianceMatrices.jl,Covariance Matrix Estimation in Julia.
+Probability-Statistics,UNCLASSIFIED,PortHamiltonian.jl,https://github.com/flavioluiz/PortHamiltonian.jl,Port-Hamiltonian systems in Julia.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Automa.jl,https://github.com/BioJulia/Automa.jl,"A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler."
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.

@@ -43,6 +43,8 @@
 + [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Bayesian estimation of diffusion processes.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
 
+----
+
 # [STATISTICS](https://en.wikipedia.org/wiki/Statistics)
 
 ## [REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis)
@@ -137,3 +139,4 @@
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
 + [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl) :: Covariance Matrix Estimation in Julia.
 + [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia.
+

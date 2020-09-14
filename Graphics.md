@@ -64,6 +64,7 @@
 + [LuxRay.jl](https://github.com/SimonDanisch/LuxRay.jl) :: Julia wrapper for LuxRay.
 + [MeshSlicer.jl](https://github.com/sjkelly/MeshSlicer.jl) :: A package for slicing meshes into polygons using Julialang.
 + [MeshIO.jl](https://github.com/JuliaIO/MeshIO.jl) :: IO for Meshes.
++ [MiniFB.jl](https://github.com/aviks/MiniFB.jl) :: A Julia wrapper around MiniFB, a small cross platform library that makes it easy to render 32 bit pixels in a window.
 + [ModernGL.jl](https://github.com/JuliaGL/ModernGL.jl) :: OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
 + [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) :: Julia Interface to visualize Graphs.
 + [OCV.jl](https://github.com/Keno/OCV.jl) :: A wrapper for OpenCV - __WIP__.
