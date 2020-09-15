@@ -42,6 +42,7 @@
 + [Keras.jl](https://github.com/ayush1999/Keras.jl) :: A package built atop Flux to directly load Keras(.py) models into Flux.
 + [Kernels.jl](https://github.com/trthatcher/Kernels.jl) :: A Julia package for Mercer kernels and Gramian matrix calculation/approximation functions used in kernel methods of machine learning. 
 + [Knet.jl](https://github.com/denizyuret/Knet.jl) :: Koç University deep learning framework - A machine learning module implemented in Julia.
+   * [KnetNLP](https://github.com/egeersu/KnetNLP) :: NLP models and utilities for Knet.
 + [kNN.jl](https://github.com/johnmyleswhite/kNN.jl) :: The k-Nearest Neighbors algorithm in Julia.
 + [KSVM.jl](https://github.com/remusao/KSVM.jl) by @remusao :: Kernel Support Vector Machine (SVM) written in Julia.
 + [KSVM.jl](https://github.com/Evizero/KSVM.jl) by @Evizero :: Support Vector Machines in pure Julia.
@@ -206,6 +207,7 @@
 + [FANN.jl](https://github.com/gasagna/FANN.jl) :: A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 + [hinton.jl](https://github.com/lepisma/hinton.jl) :: Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 + [Julia_Neural_Network](https://github.com/nwenzel/Julia_Neural_Network) :: Basic Neural Network written in JuliaLang.
++ [KnetOnnx.jl](https://github.com/egeersu/KnetOnnx.jl) :: It reads an ONNX file and creates the corresponding Model in Knet that can be re-designed, re-trained or simply used for inference. 
 + [mlpnnets.jl](https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl) :: Feed-forward MLP neural network implementation.
 + [MultiLabelNeuralNetwork.jl](https://github.com/jperla/MultiLabelNeuralNetwork.jl) :: A simple feed-forward neural network for multi-label classification.
 + [neural.jl](https://github.com/compressed/neural.jl) :: is a Julia implementation of a neural network, based on Sergio Fierens Ruby version.

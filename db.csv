@@ -141,6 +141,7 @@ AI,NeuralNetworks,Boltzmann.jl,https://github.com/dfdx/Boltzmann.jl,Restricted B
 AI,NeuralNetworks,FANN.jl,https://github.com/gasagna/FANN.jl,A Julia wrapper for the Fast Artificial Neural Network Library (FANN).
 AI,NeuralNetworks,hinton.jl,https://github.com/lepisma/hinton.jl,Create hinton diagrams in Julia. Hinton diagrams are used to visualize weight matrices in neural networks.
 AI,NeuralNetworks,Julia_Neural_Network,https://github.com/nwenzel/Julia_Neural_Network,Basic Neural Network written in JuliaLang.
+AI,NeuralNetworks,KnetOnnx.jl,https://github.com/egeersu/KnetOnnx.jl,"It reads an ONNX file and creates the corresponding Model in Knet that can be re-designed, re-trained or simply used for inference."
 AI,NeuralNetworks,mlpnnets.jl,https://github.com/tautologico/learning/blob/master/nnets/mlp/julia/mlpnnets.jl,Feed-forward MLP neural network implementation.
 AI,NeuralNetworks,MultiLabelNeuralNetwork.jl,https://github.com/jperla/MultiLabelNeuralNetwork.jl,A simple feed-forward neural network for multi-label classification.
 AI,NeuralNetworks,neural.jl,https://github.com/compressed/neural.jl,"is a Julia implementation of a neural network, based on Sergio Fierens Ruby version."
