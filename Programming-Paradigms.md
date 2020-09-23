@@ -165,6 +165,7 @@ __Libs for memory management (malloc), bounds checking, literals and other base 
 + [julia-pattern-dispatch](https://github.com/toivoh/julia-pattern-dispatch) :: Support for method dispatch in Julia based on pattern matching.
 
 ## Multiple Dispatch
++ [BinaryTraits.jl](https://github.com/tk3369/BinaryTraits.jl) :: easy-to-use trait library with formal interface specification support.
 + [WhereTraits.jl](https://github.com/schlichtanders/WhereTraits.jl) :: This package exports one powerful macro @traits with which you can extend Julia's where syntax. 
 
 ###### Resources
