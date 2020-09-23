@@ -1750,6 +1750,7 @@ Physics,,ROOT.jl,https://github.com/jpata/ROOT.jl,A toy experiment interfacing R
 Physics,,ROOTDataFrames.jl,https://github.com/jpata/ROOTDataFrames.jl,A wrapper for ROOT Trees through the Abstract DataFrame interface.
 Physics,,Signals.jl,https://github.com/mbauman/Signals.jl,A high level Signal type with a common timebase and groups of channels.
 Physics,Electromagnetism,Dipole julia,https://github.com/manuamador/Dipole_julia,A set of functions that computes the electromagnetic radiation of an Hertz dipole (E and B fields).
+Physics,Electromagnetism,Peacock.jl,https://github.com/sp94/Peacock.jl,Photonic crystals in Julia.
 Physics,Electromagnetism,Reverb Julia,https://github.com/manuamador/Reverb_Julia,A julia version of an electromagnetic reverberation chamber model based on image theory.
 Physics,Electromagnetism,SpikeSorting.jl,https://github.com/paulmthompson/SpikeSorting.jl,Online spike sorting methods in Julia.
 Physics,Electromagnetism,Stirrer,https://github.com/manuamador/Stirrer,A Julia and Python set of tools to model stirrers in reverberation chambers.
