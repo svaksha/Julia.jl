@@ -32,6 +32,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
 + [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
 + [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
++ [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) :: Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl 
 + [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
 + [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
 + [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
@@ -43,10 +44,6 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia. 
 + [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
 + [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-
-* [httCuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) :: Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl 
-
-
 
 ###### Resources
 + Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)

@@ -2206,6 +2206,7 @@ Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Jul
 Super-Computing,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
 Super-Computing,GPU,CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
 Super-Computing,GPU,CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
+Super-Computing,GPU,CuCountMap.jl,https://github.com/xiaodaigh/CuCountMap.jl,Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl
 Super-Computing,GPU,CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
 Super-Computing,GPU,CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
 Super-Computing,GPU,CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
