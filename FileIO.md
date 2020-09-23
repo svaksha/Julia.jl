@@ -255,6 +255,7 @@
 + [NIfTI.jl](https://github.com/simonster/NIfTI.jl) :: Julia module for reading NIfTI MRI files.
 + [NRRD.jl](https://github.com/JuliaIO/NRRD.jl) :: Julia support for the Nearly Raw Raster Data (NRRD) image file format
 + [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) :: Julia support for Netpbm (.ppm, .pgm, .pbm).
++ [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) :: I/O operations for OME-TIFF files in Julia with a focus on correctness.
 + [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) :: Thin wrapper around OSX's native image format saving and loading
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
