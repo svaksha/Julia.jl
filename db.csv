@@ -949,6 +949,7 @@ FileIO,ImageFormats,ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,"Th
 FileIO,ImageFormats,NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
 FileIO,ImageFormats,NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
 FileIO,ImageFormats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia support for Netpbm (.ppm, .pgm, .pbm)."
+FileIO,ImageFormats,OMETIFF.jl,https://github.com/tlnagy/OMETIFF.jl,I/O operations for OME-TIFF files in Julia with a focus on correctness.
 FileIO,ImageFormats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
 FileIO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
 FileIO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
@@ -1926,6 +1927,7 @@ Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:P
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),PAPI.jl,https://github.com/jakebolewski/PAPI.jl,Julia bindings to the Performance Application Programming Interface (PAPI).
 Programming-Paradigms,[ProgramAnalysis](https://en.wikipedia.org/wiki/Category:Program_analysis),StatProfilerHTML.jl,https://github.com/tkluck/StatProfilerHTML.jl,Show Julia profiling data in an explorable HTML page.
 Programming-Paradigms,[DoubleDispatch](https://en.wikipedia.org/wiki/Double_dispatch),julia-pattern-dispatch,https://github.com/toivoh/julia-pattern-dispatch,Support for method dispatch in Julia based on pattern matching.
+Programming-Paradigms,MultipleDispatch,BinaryTraits.jl,https://github.com/tk3369/BinaryTraits.jl,easy-to-use trait library with formal interface specification support.
 Programming-Paradigms,MultipleDispatch,WhereTraits.jl,https://github.com/schlichtanders/WhereTraits.jl,This package exports one powerful macro @traits with which you can extend Julia's where syntax.
 Programming-Paradigms,Resources,The Design Impact of Multiple Dispatch,http://nbviewer.jupyter.org/gist/StefanKarpinski/b8fe9dbb36c1427b9f22) presented by StefanKarpinski at Strange Loop on 19-Sep-2013,
 Programming-Paradigms,Resources,What are the advantages of multiple dispatch in Julia,https://www.quora.com/Julia-programming-language/What-are-the-advantages-of-multiple-dispatch),

@@ -44,6 +44,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
 + [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
 
+* [httCuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) :: Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl 
 
 
 
