@@ -532,10 +532,10 @@ Database,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bi
 Database,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 Database,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
 Database,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
-Database,MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
-Database,MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
-Database,MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
-Database,MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
+Database,MariaDB-MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
+Database,MariaDB-MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
+Database,MariaDB-MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
+Database,MariaDB-MySQL,SQLAlchemy.jl,https://github.com/malmaud/SQLAlchemy.jl,Wrapper over Python's SQLAlchemy library.
 Database,PostgreSQL,DBI.jl,https://github.com/swt30/DBI.jl,Abstract DBI interface meant to provide a database-independent API that all database drivers can be expected to comply with. meant to provide a database-independent API that all database drivers can be expected to comply with. Forked from the unmaintained [JuliaDatabases/DBI.jl](https://github.com/JuliaDatabases/DBI.jl).
 Database,PostgreSQL,libpq.jl,https://github.com/iamed2/libpq.jl,A libpq interface for Julia.
 Database,PostgreSQL,LibPQ.jl,https://github.com/invenia/LibPQ.jl,A Julia wrapper for the PostgreSQL libpq C library.

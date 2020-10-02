@@ -12,7 +12,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
    + [MongoDB](#mongodb) 
    + [Redis](#redis)
 + [RDBMS](#rdbms)
-   + [MySQL](#mysql)
+   + [MariaDB-MySQL](#mariadb-mysql)
    + [PostgreSQL](#postgresql)
    + [SQLite](#sqlite)
 + [RESOURCES](#resources)
@@ -89,7 +89,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 # RDBMS
 + [Octo.jl](https://github.com/wookay/Octo.jl) :: an SQL Query DSL in Julia.
 
-## MySQL
+## MariaDB-MySQL
 + [MariaDB.jl](https://github.com/Dynactionize/MariaDB.jl) :: A wrapper around the MariaDB C connector.
 + [MySQL.jl](https://github.com/JuliaDatabases/MySQL.jl) :: Julia bindings and helper functions for MariaDB/MySQL C library. 
 + [MySQL.jl](https://github.com/johnmyleswhite/MySQL.jl) :: MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
