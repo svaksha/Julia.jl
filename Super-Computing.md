@@ -156,6 +156,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [Collectl.jl](https://github.com/ranjanan/Collectl.jl) :: Plotting information from Collectl in julia.
 + [LCJC.jl](https://github.com/amitmurthy/LCJC.jl) :: Loosely Coupled Julia Clusters.
 + [Persist.jl](https://github.com/eschnett/Persist.jl) :: The package Persist allows running jobs independent of the Julia shell. 
++ [Schedulers.jl](https://github.com/ChevronETC/Schedulers.jl) :: It provides elastic and fault tolerant parallel map and parallel map reduce methods. The primary feature that distinguishes Schedulers parallel map method from Julia's `Distributed.pmap` is elasticity where the cluster is permitted to dynamically grow/shrink.
 + [SimJulia.jl](https://github.com/BenLauwens/SimJulia.jl) :: A combined continuous time / discrete event process oriented simulation framework written in Julia inspired by the Simula library DISCO and the Python library SimPy.
 
 ## [Parallel Computing](https://en.wikipedia.org/wiki/Category:Parallel_computing)
