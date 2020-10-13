@@ -1,7 +1,5 @@
 __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Parallel computing, Hardware arch (ARM, CUDA, GPU, MIPS), Kernels, Compilers (source-to-source compiler, transcompiler/ transpilers)__
 
-+ [ARM-CUDA](#arm-cuda)
-   + [GPU](#gpu)
 + [BENCHMARKS](#benchmarks)
 + [COMPILERS](#compilers)
    + [Preprocessor](#preprocessor)
@@ -16,40 +14,13 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
    + [Job Scheduler](#job-scheduler)
    + [Parallel Computing](#parallel-computing)
         + [SIMD Computing](#simd-computing)
++ [GPGPU](#gpgpu)
+   + [ARM-CUDA](#arm-cuda)
 + [PUBLICATIONS](#publications)
 
 ----
 
 
-# ARM-CUDA
-+ [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
-   + Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
-   + Julia binaries for ARM built on [Ubuntu-14.04](https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA).
-
-## GPU
-+ [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
-+ [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
-+ [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
-+ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
-+ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
-+ [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) :: Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl 
-+ [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
-+ [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
-+ [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
-+ [CURAND.jl](https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library. 
-* [CVortex.jl](https://github.com/hjabird/CVortex.jl) :: Julia wrapper for GPU accelerated vortex filament and vortex particle methods.
-+ [HSA.jl](https://github.com/JuliaGPU/HSA.jl) :: Julia Bindings for the HSA Runtime.
-+ [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
-+ [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
-+ [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia. 
-+ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
-+ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
-
-###### Resources
-+ Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
-+ Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
-
-----
 
 # BENCHMARKS
 + [Microbenchmark timings](https://julialang.org/benchmarks/)
@@ -169,6 +140,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [DispatcherCache.jl](https://github.com/zgornel/DispatcherCache.jl) :: Tool for building and executing a computation graph given a series of dependent operations.
 + [DistributedArrays.jl](https://github.com/JuliaParallel/DistributedArrays.jl) :: A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 + [Elly.jl](https://github.com/JuliaParallel/Elly.jl) :: Hadoop HDFS and Yarn client.
++ [FLoops.jl](https://github.com/JuliaFolds/FLoops.jl):: provides a macro @floop. It can be used to generate a fast generic iteration over complex collections.
 + [Flume.jl](https://github.com/malmaud/Flume.jl) :: A port of the Google Flume Data-Parallel Pipeline system.
 + [HDFS.jl](https://github.com/JuliaParallel/HDFS.jl) :: An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
 + [Heptapus.jl](https://github.com/lcw/Heptapus.jl) :: The roofline function is a translation of the roofline code from https://github.com/paranumal/libparanumal/.
@@ -198,6 +170,39 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [How to use AWS EC2 machines via addprocs for parallel computing](http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing).
 + [Parallel and Distributed Computing with Julia](http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014.
 
+
+----
+
+# [GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
++ [GPU-benchmarking](https://github.com/ranjanan/GPU-benchmarking) :: GPU benchmarking on Julia. 
++ [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
++ [Titan.jl](https://github.com/malmaud/Titan.jl) :: Write GPU kernels using pure Julia.
++ [CLBLAS.jl](https://github.com/JuliaGPU/CLBLAS.jl) :: CLBLAS integration for Julia.
++ [CUBLAS.jl](https://github.com/JuliaGPU/CUBLAS.jl) :: Julia interface to CUBLAS.
++ [CuCountMap.jl](https://github.com/xiaodaigh/CuCountMap.jl) :: Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl 
++ [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) :: This package wraps key functions in CUDA Driver API.
++ [CUDArt.jl](https://github.com/JuliaGPU/CUDArt.jl) :: Wrapper for CUDA runtime API.
++ [CUDNN.jl](https://github.com/JuliaGPU/CUDNN.jl) :: Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
++ [CURAND.jl](https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library. 
+* [CVortex.jl](https://github.com/hjabird/CVortex.jl) :: Julia wrapper for GPU accelerated vortex filament and vortex particle methods.
++ [FoldsCUDA.jl](https://github.com/JuliaFolds/FoldsCUDA.jl):: provides Transducers.jl-compatible fold (reduce) implemented using CUDA.jl. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU.
++ [HSA.jl](https://github.com/JuliaGPU/HSA.jl) :: Julia Bindings for the HSA Runtime.
++ [julia-CuMatrix](https://github.com/stefan-k/julia-CuMatrix) :: CUDA Matrix library.
++ [julia-kernels](https://github.com/toivoh/julia-kernels) :: A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels. 
++ [MXNet.jl](https://github.com/dmlc/MXNet.jl) :: The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia. 
++ [OpenCL.jl](https://github.com/JuliaGPU/OpenCL.jl) :: OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL. 
++ [UberSignals.jl](https://github.com/SimonDanisch/UberSignals.jl) :: Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl.
+
+
+## ARM-CUDA
++ [Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton](https://github.com/JuliaLang/julia/blob/master/README.arm.md).
+   + Bug status of the [Julia port to ARM](https://github.com/JuliaLang/julia/issues/3134) and the [Debian build log](https://buildd.debian.org/status/fetch.php?pkg=julia&arch=armhf&ver=0.1.2%2Bdfsg-3&stamp=1368675598).
+   + Julia binaries for ARM built on [Ubuntu-14.04](https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA).
+
+
+###### Resources
++ Blog post on [Compiling Julia for NVIDIA GPUs](http://blog.maleadt.net/2015/01/15/julia-cuda/)
++ Sample notebooks for: [GPU Julia](http://nbviewer.ipython.org/7436359), and [GPU Transpose](http://nbviewer.ipython.org/7436439).
 
 ----
 

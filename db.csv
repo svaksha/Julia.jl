@@ -2200,25 +2200,6 @@ Space-Science,SPACE,Airship.jl,https://github.com/ordovician/Airship.jl,"Julia c
 Space-Science,SPACE,SpaceShuttle.jl,https://github.com/mbauman/SpaceShuttle.jl,
 Space-Science,SPACE,SPICE.jl,https://github.com/JuliaAstro/SPICE.jl,"a Julia wrapper for the SPICE toolkit which is provided by NASA's Navigation and Ancillary Information Facility (NAIF). It provides functionality to read SPICE data files and compute derived observation geometry such as altitude, latitude/longitude and lighting angles."
 Space-Science,SPACE,TaylorIntegration.jl,https://github.com/PerezHz/TaylorIntegration.jl,ODE integration using Taylor's method in Julia.
-Super-Computing,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton,https://github.com/JuliaLang/julia/blob/master/README.arm.md),
-Super-Computing,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
-Super-Computing,GPU,GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
-Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
-Super-Computing,GPU,Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
-Super-Computing,GPU,CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
-Super-Computing,GPU,CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
-Super-Computing,GPU,CuCountMap.jl,https://github.com/xiaodaigh/CuCountMap.jl,Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl
-Super-Computing,GPU,CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
-Super-Computing,GPU,CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
-Super-Computing,GPU,CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
-Super-Computing,GPU,CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
-Super-Computing,GPU,HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
-Super-Computing,GPU,julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
-Super-Computing,GPU,julia-kernels,https://github.com/toivoh/julia-kernels,"A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels."
-Super-Computing,GPU,MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
-Super-Computing,GPU,OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,"OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL."
-Super-Computing,GPU,UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,"Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl."
-Super-Computing,Resources,log post on [Compiling Julia for NVIDIA GPUs,http://blog.maleadt.net/2015/01/15/julia-cuda/,
 Super-Computing,BENCHMARKS,Microbenchmark timings,https://julialang.org/benchmarks/,
 Super-Computing,BENCHMARKS,Benchmark.jl,https://github.com/johnmyleswhite/Benchmark.jl,"A package for computing simple benchmarks, comparing functions and packages."
 Super-Computing,BENCHMARKS,Benchmarks.jl,https://github.com/johnmyleswhite/Benchmarks.jl) : A new benchmarking library for Julia,
@@ -2296,6 +2277,7 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DispatcherCache.jl,https://github.com/zgornel/DispatcherCache.jl,Tool for building and executing a computation graph given a series of dependent operations.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),DistributedArrays.jl,https://github.com/JuliaParallel/DistributedArrays.jl,A task persistency mechanism based on hash-graphs for Dispatcher.jl.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Elly.jl,https://github.com/JuliaParallel/Elly.jl,Hadoop HDFS and Yarn client.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),FLoops.jl,https://github.com/JuliaFolds/FLoops.jl):: provides a macro @floop. It can be used to generate a fast generic iteration over complex collections,
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Flume.jl,https://github.com/malmaud/Flume.jl,A port of the Google Flume Data-Parallel Pipeline system.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),HDFS.jl,https://github.com/JuliaParallel/HDFS.jl,An interface wrapper over the Hadoop HDFS library that wraps the HDFS C library libhdfs and provides APIs similar to Julia Filesystem APIs which can be used for direct access to HDFS files.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Heptapus.jl,https://github.com/lcw/Heptapus.jl,The roofline function is a translation of the roofline code from https://github.com/paranumal/libparanumal/.
@@ -2318,6 +2300,26 @@ Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel
 Super-Computing,Resources,Parallel Computing,http://docs.julialang.org/en/latest/manual/parallel-computing/,
 Super-Computing,Resources,How to use AWS EC2 machines via addprocs for parallel computing,http://docs.julialang.org/en/latest/stdlib/base/#parallel-computing),
 Super-Computing,Resources,Parallel and Distributed Computing with Julia,"http://www.csd.uwo.ca/~moreno/cs2101a_moreno/Parallel_computing_with_Julia.pdf) by Marc Moreno Maza, for CS2101 at the University of Western Ontario, London, Ontario (Canada). Updated October 16, 2014",
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),GPU-benchmarking,https://github.com/ranjanan/GPU-benchmarking,GPU benchmarking on Julia.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package that brings flexible and efficient GPU computing and state-of-art deep learning to Julia.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),Titan.jl,https://github.com/malmaud/Titan.jl,Write GPU kernels using pure Julia.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CLBLAS.jl,https://github.com/JuliaGPU/CLBLAS.jl,CLBLAS integration for Julia.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CUBLAS.jl,https://github.com/JuliaGPU/CUBLAS.jl,Julia interface to CUBLAS.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CuCountMap.jl,https://github.com/xiaodaigh/CuCountMap.jl,Fast `StatsBase.countmap` for small types on the GPU via CUDA.jl
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CUDA.jl,https://github.com/JuliaGPU/CUDA.jl,This package wraps key functions in CUDA Driver API.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CUDArt.jl,https://github.com/JuliaGPU/CUDArt.jl,Wrapper for CUDA runtime API.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CUDNN.jl,https://github.com/JuliaGPU/CUDNN.jl,Julia wrapper for the NVIDIA cuDNN GPU deep learning library.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),CURAND.jl,https://github.com/JuliaGPU/CURAND.jl) : Wrapper for NVidia's cuRAND library,
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),FoldsCUDA.jl,"https://github.com/JuliaFolds/FoldsCUDA.jl):: provides Transducers.jl-compatible fold (reduce) implemented using CUDA.jl. This brings the transducers and reducing function combinators implemented in Transducers.jl to GPU. Furthermore, using FLoops.jl, you can write parallel for loops that run on GPU",
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),HSA.jl,https://github.com/JuliaGPU/HSA.jl,Julia Bindings for the HSA Runtime.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),julia-CuMatrix,https://github.com/stefan-k/julia-CuMatrix,CUDA Matrix library.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),julia-kernels,https://github.com/toivoh/julia-kernels,"A small suite of tools aimed at being able to write kernels in Julia, which could be executed on the CPU, or as GPU kernels."
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),MXNet.jl,https://github.com/dmlc/MXNet.jl,The dmlc/mxnet Julia package for flexible and efficient GPU computing and state-of-art deep learning in Julia.
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),OpenCL.jl,https://github.com/JuliaGPU/OpenCL.jl,"OpenCL 1.2 Julia bindings - a cross platform parallel computation API for programming parallel devices, with implementations from AMD, Nvidia, Intel, and others, similar in scope to PyOpenCL."
+Super-Computing,[GPGPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units),UberSignals.jl,https://github.com/SimonDanisch/UberSignals.jl,"Concept for a fast event signal system, using JIT and GPU acceleration, loosely inspired by Reactive.jl."
+Super-Computing,ARM-CUDA,Build Julia on ARMv7 / Cortex A15 Samsung Chromebooks running Ubuntu Linux under Crouton,https://github.com/JuliaLang/julia/blob/master/README.arm.md),
+Super-Computing,ARM-CUDA,ulia binaries for ARM built on [Ubuntu-14.04,https://drive.google.com/open?id=0B0rXlkvSbIfhbWxOVllKUXc1RDA),
+Super-Computing,Resources,log post on [Compiling Julia for NVIDIA GPUs,http://blog.maleadt.net/2015/01/15/julia-cuda/,
 Super-Computing,PUBLICATIONS,"Parallel Prefix Polymorphism Permits Parallelization, Presentation & Proof",http://jiahao.github.io/parallel-prefix/,A short [paper](https://github.com/jiahao/parallel-prefix) about parallel prefix.
 Utilities,UTILS,Events.jl,https://github.com/SimonDanisch/Events.jl,Simple Event system.
 Utilities,UTILS,FilePaths.jl,https://github.com/Rory-Finnegan/FilePaths.jl, A type based approach to working with filesystem paths in julia.
