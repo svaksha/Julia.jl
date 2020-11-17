@@ -29,7 +29,7 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 
 ----
 
-# [Nonlinear Programming)(https://en.wikipedia.org/wiki/Nonlinear_programming)
+# [Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming)
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
