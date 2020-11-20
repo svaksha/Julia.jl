@@ -56,6 +56,7 @@
 + [NMF.jl](https://github.com/lindahua/NMF.jl) :: A Julia package for non-negative matrix factorization (NMF).
 + [MachineLearning.jl](https://github.com/benhamner/MachineLearning.jl) :: is a Machine Learning library package that consolidates common machine learning algorithms written in pure Julia and presents a consistent API.
 + [Merlin.jl](https://github.com/hshindo/Merlin.jl) :: Flexible Deep Learning Framework in Julia.
++ [Mitosis.jl](https://github.com/mschauer/Mitosis.jl) :: Automatic probabilistic programming for scientific machine learning and dynamical models.
 + [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
 + [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
