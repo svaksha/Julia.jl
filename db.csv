@@ -2064,6 +2064,7 @@ Resources,JUPYTERNOTEBOOKS,JuliaHTML,https://github.com/ppalmes/JuliaHTML,@ppalm
 Resources,JUPYTERNOTEBOOKS,JuliaWorkshop2015,https://github.com/arinbasu/JuliaWorkshop2015,Files for the Julia Workshop ANZStat Conference.
 Resources,JUPYTERNOTEBOOKS,learn-julia,https://github.com/aviks/learn-julia) : Another Julia Tutorial,
 Resources,JUPYTERNOTEBOOKS,mcrib.jl,https://gitlab.com/parindie/parindie.mcrib.jl,A couple of jupyter mathbook notes taken while learning julia language.
+Resources,JUPYTERNOTEBOOKS,Project-Euler-Julia,https://github.com/heetbeet/project-euler-julia,Project Euler puzzle notebooks for Julia.
 Resources,JUPYTERNOTEBOOKS,SSAI,https://github.com/simonbyrne/SSAI,Jupyter notebooks introducing you to scientific programming with Julia.
 Resources,SLIDES,Presentations,https://github.com/JuliaCon/presentations) for JuliaCon,
 Resources,SLIDES,JuliaCon Slides and Presentations,https://github.com/JuliaCon/presentations,

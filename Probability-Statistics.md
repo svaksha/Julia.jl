@@ -29,6 +29,7 @@
 ## [STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process)
 
 ### Markovian
+[Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 + [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: A Julia framework for solving Markov decision processes.
 + [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
 + [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) :: A lightweight abstraction for hidden Markov models in Julia.
@@ -42,6 +43,8 @@
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
 + [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Bayesian estimation of diffusion processes.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
+
+
 
 ----
 

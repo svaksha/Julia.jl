@@ -309,6 +309,7 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 + [learn-julia](https://github.com/aviks/learn-julia) : Another Julia Tutorial.
 + [mcrib.jl](https://gitlab.com/parindie/parindie.mcrib.jl) :: A couple of jupyter mathbook notes taken while learning julia language.
 + [NotebookNameTest](http://nbviewer.ipython.org/github/staticfloat/notebooks/blob/master/julia_notebooks/NotebookNameTest.ipynb) from the julia-users thread on [How to find the name of the current IJulia notebook](https://groups.google.com/forum/#!topic/julia-users/mnCEQNd7ew0)
++ [Project-Euler-Julia](https://github.com/heetbeet/project-euler-julia) :: Project Euler puzzle notebooks for Julia.
 + [SSAI](https://github.com/simonbyrne/SSAI) :: Jupyter notebooks introducing you to scientific programming with Julia.
 
 ----
