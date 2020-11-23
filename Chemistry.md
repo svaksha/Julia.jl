@@ -30,8 +30,9 @@
 
 
 ## Chemoinformatics
-+ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
++ [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) :: a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
 + [OpenSMILES.jl](https://github.com/caseykneale/OpenSMILES.jl) :: OpenSMILES string representations to LightGraphs.jl format.
++ [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
 
 
 ## Chemometrics

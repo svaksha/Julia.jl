@@ -423,8 +423,9 @@ Chemistry,ChemicalFileFormatsandInputOutput,Chemfiles.jl,https://github.com/chem
 Chemistry,Biochemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Biochemistry,DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
 Chemistry,Biochemistry,BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
-Chemistry,Chemoinformatics,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
+Chemistry,Chemoinformatics,MolecularGraph.jl,https://github.com/mojaie/MolecularGraph.jl,a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
 Chemistry,Chemoinformatics,OpenSMILES.jl,https://github.com/caseykneale/OpenSMILES.jl,OpenSMILES string representations to LightGraphs.jl format.
+Chemistry,Chemoinformatics,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
 Chemistry,Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 Chemistry,Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 Chemistry,ReactionKinetics,ChemicalKinetics.jl,https://github.com/papamarkou/ChemicalKinetics.jl, DiffEq related functionality for defining biological models.
