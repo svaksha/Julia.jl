@@ -2,7 +2,11 @@
  
 ----  
 
+
+
 # RESEARCH PAPERS
++ [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) :: A Survey of hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML) papers, categorized into popular topics with simple counting for some interesting problems and a list of the papers with urls (441 papers).
++ [MT-paper-lists](https://github.com/NiuTrans/MT-paper-lists) :: It contains machine translation papers from recent conferences including ACL, EMNLP, NAACL and COLING and some interesting research works grouped by different areas, such as deep network, neural architecture search, etc..
 + [How to write, publish, and review scientific papers in the early 21st Century](https://github.com/swcarpentry/modern-scientific-authoring) 
 + [Julia language research publications](http://julialang.org/publications/).
 + Shah, Viral B., et al. _[Novel Algebras for Advanced Analytics in Julia](http://ieee-hpec.org/2013/index_htm_files/49.pdf)_, IEEE-HPEC (2013).
