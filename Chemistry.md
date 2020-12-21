@@ -21,6 +21,7 @@
 
 ## Chemical File Formats and Input Output
 + [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
++ [CrystalInfoFramework.jl](https://github.com/jamesrhester/CrystalInfoFramework.jl) :: Support for reading and writing Crystallographic Information Framework data files and dictionaries.
 
 
 ## Biochemistry
