@@ -1,14 +1,17 @@
-**Graphics and other Visualization libraries and packages. Also includes blog links narrating user experiences and howto's.**
+**Computer Vision, Graphics and other Visualization/ plotting libraries and packages.**
 
 + [Graphic Design](#graphic-design)
-+ [GRAPHICS](#graphics)
++ [Computer Vision](#computer-vision)
    * [2D Vector Graphics](#v2d-ector-graphics)
    * [3D graphics imaging](#3d-graphics-imaging)
+   * [Computational Geometry](computational-geometry)
+   * [Feature Detection](#feature-detection)
    * [Games](#games)
+   * [Image Processing](#image-processing)
+   * [OCR](#ocr)
 + [INFOGRAPHICS](#infographics)
    * [Non-Graphical Plotting](#non-graphical-plotting)
    * [Graphical Plotting](#graphical-plotting)
-+ [Computational Geometry](computational-geometry)
 
 ----
 
@@ -22,7 +25,7 @@
 
 ----
 
-# GRAPHICS
+# (Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 + [Blending.jl](https://github.com/dejakaymac/Blending.jl).
@@ -68,8 +71,6 @@
 + [ModernGL.jl](https://github.com/JuliaGL/ModernGL.jl) :: OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
 + [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) :: Julia Interface to visualize Graphs.
 + [OCV.jl](https://github.com/Keno/OCV.jl) :: A wrapper for OpenCV - __WIP__.
-+ [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
-+ [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 + [Painter.jl](https://github.com/andferrari/Painter.jl) :: A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
 + [PerceptualColourMaps.jl](https://github.com/peterkovesi/PerceptualColourMaps.jl) :: Perceptually Uniform Colour Maps for Julia.
 + [PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl) :: Seamlessly create plots in Julia using the PGFPlots LaTeX package.
@@ -86,7 +87,6 @@
 + [SignedDistanceFields.jl](https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation.
 + [SixelGraphics.jl](https://github.com/olofsen/SixelGraphics.jl) :: A module for Julia implementing simple Sixel graphics.
 + [Skia.jl](https://github.com/dcjones/Skia.jl) :: Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-+ [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
 + [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl) :: Julia interface to WebGL using Three-js custom elements and Patchwork.jl.
 + [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
@@ -94,10 +94,10 @@
 + [VLFeat.jl](https://github.com/IHPostal/VLFeat.jl) :: Julia wrappings for the VLFeat computer vision library.
 + [WavefrontObj.jl](https://github.com/JuliaIO/WavefrontObj.jl) :: Wafefront Obj importer.
 
-
 ##### Resources
 + [julia-opengl-demos](https://github.com/ssfrr/julia-opengl-demos) :: A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl.
 + [Videre](https://github.com/Gnimuc/Videre) :: OpenGL examples written in Julia.
+
 
 
 [//]: # (######################################################################)
@@ -109,15 +109,24 @@
 + [TikzPictures.jl](https://github.com/sisl/TikzPictures.jl) :: Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images.
 
 
-[//]: # (######################################################################)
 
 ## 3D [graphics](https://en.wikipedia.org/wiki/Category:3D_computer_graphics) [imaging](https://en.wikipedia.org/wiki/Category:3D_imaging)
 + [ConstructiveSolidGeometry.jl](https://github.com/jtramm/ConstructiveSolidGeometry.jl) :: A Constructive Solid Geometry (CSG) and ray tracing package for Julia.
 + [ImageCL.jl](https://github.com/JuliaImages/ImageCL.jl) :: Image processing with OpenCL.
-+ [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
 
 
-[//]: # (######################################################################)
+## Computational Geometry
+[Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
++ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
++ [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
++ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
++ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
++ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
++ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper.
++ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
++ [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
++ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
+
 
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
@@ -128,10 +137,25 @@
 + [SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
 
+## [Feature Detection](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision))
++ [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
+
+
+## Image Processing
++ [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
++ [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
++ [RegisterQD.jl](https://github.com/HolyLab/RegisterQD.jl) :: It performs image registration using the global optimization routine QuadDIRECT. Unlike many other registration packages, this is not "greedy" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images.
++ [SubpixelRegistration.jl](https://github.com/romainFr/SubpixelRegistration.jl) :: Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
++ [TestImages.jl](https://github.com/timholy/TestImages.jl) :: Loading standard test images into Julia.
+
+## OCR
+* [OCReract.jl](https://github.com/leferrad/OCReract.jl) :: A simple Julia wrapper for Tesseract OCR.
+* [AttentionOCR.jl](https://github.com/GantZA/AttentionOCR.jl) :: Julia and Flux adaptation of the python package [aocr.py](https://github.com/emedvedev/attention-ocr) using [Seq2seq with Attention](https://github.com/merckxiaan/flux-seq2seq).
+
 ----
 
 # INFOGRAPHICS
-__Plotting for statistical Charts, Graphs, Plots, Histograms, Maps__:
+__Plotting libs for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [AnimatedPlots.jl](https://github.com/zyedidia/AnimatedPlots.jl) :: Fast animated (and static) plots for Julia.
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [BBVis.jl](https://github.com/joehuchette/BBVis.jl) :: Visualizations for branch-and-bound algorithms.
@@ -227,21 +251,6 @@ __Read other Julia-users experiences with visualization and plotting.__
 + Drawing [2.7 billion points (22gb) in 10 seconds](https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer.
 + Jeff Bezanson's [Colorimetry in an iJulia notebook](http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb)
 + Sven Mesecke on [data visualization with Julia](http://sveme.org/installing-julia-for-data-visualization-stuff.html) and his [notes for Matlab users](http://sveme.org/julia-for-matlab-users-i.html).
-
-----
-
-# Computational Geometry
-[Discussion centered around the JuliaGeometry organization](https://github.com/JuliaGeometry/meta).
-+ [GeometricalPredicates.jl](https://github.com/JuliaGeometry/GeometricalPredicates.jl) :: Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation.
-+ [GeometryTypes.jl](https://github.com/JuliaGeometry/GeometryTypes.jl) :: Geometry types and for Julia, based on FixedSizeArrays.
-+ [Meshes.jl](https://github.com/JuliaGeometry/Meshes.jl) :: Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
-+ [OctTrees.jl](https://github.com/JuliaGeometry/OctTrees.jl) :: Fast quad and oct-trees.
-+ [Orthotopes.jl](https://github.com/JuliaGeometry/Orthotopes.jl) :: A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes.
-+ [TetGen.jl](https://github.com/JuliaGeometry/TetGen.jl) :: TetGen wrapper.
-+ [TriangleIntersect.jl](https://github.com/JuliaGeometry/TriangleIntersect.jl) :: Fast ray-triangle intersections for raytracing.
-+ [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
-+ [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
-
 
 
 

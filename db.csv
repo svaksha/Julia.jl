@@ -957,75 +957,72 @@ FileIO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image
 FileIO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
 Graphics,,julia-logo-graphics,https://github.com/JuliaLang/julia-logo-graphics,official versions of the Julia logo.
 Graphics,[GraphicDesign](https://en.wikipedia.org/wiki/Category:Graphic_design),FIGlet.jl,https://github.com/kdheepak/FIGlet.jl,Fonts port of FIGlet.
-Graphics,GRAPHICS,AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.
-Graphics,GRAPHICS,Bezier.jl,https://github.com/dronir/Bezier.jl,Julia functions for computing a Bezier curve.
-Graphics,GRAPHICS,Blending.jl,https://github.com/dejakaymac/Blending.jl),
-Graphics,GRAPHICS,Ccv.jl,https://github.com/dhotson/Ccv.jl,Julia bindings for libccv's SIFT image feature detection.
-Graphics,GRAPHICS,Click.jl,https://github.com/Matt5sean3/Click.jl,Julia package for click maps and advanced interaction with graphics.
-Graphics,GRAPHICS,ColorBrewer.jl,https://github.com/timothyrenner/ColorBrewer.jl,A Julia library for generating color brewer color schemes.
-Graphics,GRAPHICS,Compose.jl,http://composejl.org/,"A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github."
-Graphics,GRAPHICS,Contour.jl,https://github.com/tlycken/Contour.jl,Calculating contour curves for 2D scalar fields in Julia.
-Graphics,GRAPHICS,Curvelet.jl,https://github.com/fundamental/Curvelet.jl,Implementation of the Uniform Discrete Curvelet Transform (UDCT).
-Graphics,GRAPHICS,CVCore.jl,https://github.com/JuliaOpenCV/CVCore.jl,Core functionality.
-Graphics,GRAPHICS,CVImgCodecs.jl,https://github.com/JuliaOpenCV/CVImgCodecs.jl,Image file reading and writing
-Graphics,GRAPHICS,CVImgProc.jl,https://github.com/JuliaOpenCV/CVImgProc.jl,Image processing
-Graphics,GRAPHICS,CVHighGUI.jl,https://github.com/JuliaOpenCV/CVHighGUI.jl,High-level GUI.
-Graphics,GRAPHICS,CVVideoIO.jl,https://github.com/JuliaOpenCV/CVVideoIO.jl,Media I/O.
-Graphics,GRAPHICS,DelayedBuffer.jl,https://github.com/jfsantos/DelayedBuffer.jl,Delayed buffer view for Julia 1D arrays.
-Graphics,GRAPHICS,DevIL.jl,https://github.com/JuliaGL/DevIL.jl,[DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
-Graphics,GRAPHICS,DrakeVisualizer.jl,https://github.com/rdeits/DrakeVisualizer.jl,Interface to the RobotLocomotion Drake Visualizer tool from Julia.
-Graphics,GRAPHICS,Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,"A 3D graphics package with a Julia API, built on OpenGL."
-Graphics,GRAPHICS,Drawing.jl,https://github.com/andrewcooke/Drawing.jl,"A library for easy, extensible drawing (diagrams, lines, shapes)."
-Graphics,GRAPHICS,Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,provides basic binding to fontconfig.
-Graphics,GRAPHICS,Ganja.jl,https://github.com/chakravala/Ganja.jl,"Visualization for geometric algebra, not just algebra using [Ganja.js](https://github.com/enkimute/ganja.js), [Grassmann.jl](https://github.com/chakravala/Grassmann.jl)"
-Graphics,GRAPHICS,GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Utility package for ModernGL.
-Graphics,GRAPHICS,GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Create a window with an OpenGL context.
-Graphics,GRAPHICS,GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
-Graphics,GRAPHICS,HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
-Graphics,GRAPHICS,ImageProjectiveGeometry.jl,https://github.com/peterkovesi/ImageProjectiveGeometry.jl,Projective geometry for computer vision in Julia.
-Graphics,GRAPHICS,ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
-Graphics,GRAPHICS,Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
-Graphics,GRAPHICS,ImageSegmentation.jl,https://github.com/JuliaImages/ImageSegmentation.jl,Partitioning images into meaningful regions.
-Graphics,GRAPHICS,ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
-Graphics,GRAPHICS,ImplicitEquations.jl,https://github.com/jverzani/ImplicitEquations.jl,Julia package to facilitate graphing of implicit equations and inequalities.
-Graphics,GRAPHICS,Konthe.jl,https://github.com/meggart/Konthe.jl,Collection of convenience function for plotting using the OpenGL package.
-Graphics,GRAPHICS,LatticeVis.jl,https://github.com/ffreyer/LatticeVis.jl),
-Graphics,GRAPHICS,Layout.jl,https://github.com/timholy/Layout.jl,Graphics layout management for Julia.
-Graphics,GRAPHICS,LeafAreaIndex.jl,https://github.com/ETC-UA/LeafAreaIndex.jl, Package to calculate Leaf Area Index from Hemisperical Images.
-Graphics,GRAPHICS,LibOpenCV.jl,https://github.com/JuliaOpenCV/LibOpenCV.jl,OpenCV library dependencies.
-Graphics,GRAPHICS,LineExtraction.jl,https://github.com/remusao/LineExtraction.jl,Line extraction from an image (using Markovian model and energy minimization).
-Graphics,GRAPHICS,Luxor.jl,https://github.com/cormullion/Luxor.jl,an easy-to-use sugary coating in Julia for the Cairo graphics package.
-Graphics,GRAPHICS,LuxRay.jl,https://github.com/SimonDanisch/LuxRay.jl,Julia wrapper for LuxRay.
-Graphics,GRAPHICS,MeshSlicer.jl,https://github.com/sjkelly/MeshSlicer.jl,A package for slicing meshes into polygons using Julialang.
-Graphics,GRAPHICS,MeshIO.jl,https://github.com/JuliaIO/MeshIO.jl,IO for Meshes.
-Graphics,GRAPHICS,MiniFB.jl,https://github.com/aviks/MiniFB.jl,"A Julia wrapper around MiniFB, a small cross platform library that makes it easy to render 32 bit pixels in a window."
-Graphics,GRAPHICS,ModernGL.jl,https://github.com/JuliaGL/ModernGL.jl,OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
-Graphics,GRAPHICS,NetworkViz.jl,https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
-Graphics,GRAPHICS,OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for OpenCV - __WIP__.
-Graphics,GRAPHICS,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
-Graphics,GRAPHICS,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
-Graphics,GRAPHICS,Painter.jl,https://github.com/andferrari/Painter.jl,A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
-Graphics,GRAPHICS,PerceptualColourMaps.jl,https://github.com/peterkovesi/PerceptualColourMaps.jl,Perceptually Uniform Colour Maps for Julia.
-Graphics,GRAPHICS,PGFPlotsX.jl,https://github.com/KristofferC/PGFPlotsX.jl,Seamlessly create plots in Julia using the PGFPlots LaTeX package.
-Graphics,GRAPHICS,Porta.jl,https://github.com/iamazadi/Porta.jl,This project helps with Eric Weinstein's the Graph-Wall-Tome (GWT) project.
-Graphics,GRAPHICS,Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
-Graphics,GRAPHICS,Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
-Graphics,GRAPHICS,Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
-Graphics,GRAPHICS,SchroedingersSmoke.jl,https://github.com/SimonDanisch/SchroedingersSmoke.jl,Schrödinger's Smoke.
-Graphics,GRAPHICS,SimpleDirectMediaLayer.jl,https://github.com/jonathanBieler/SimpleDirectMediaLayer.jl,Julia interface to SDL2.
-Graphics,GRAPHICS,seg2seg.jl,https://github.com/intdxdt/seg2seg.jl,Computes the minimum distance between two segments in a 2D plane.
-Graphics,GRAPHICS,ShaderToy.jl,https://github.com/SimonDanisch/ShaderToy.jl,"Shade objects in Julia, created with GLVisualize.jl + OpenGL."
-Graphics,GRAPHICS,ShapeModels.jl,https://github.com/rened/ShapeModels.jl,Statistical shape models / point distribution models.
-Graphics,GRAPHICS,SignedDistanceFields.jl,https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation,
-Graphics,GRAPHICS,SixelGraphics.jl,https://github.com/olofsen/SixelGraphics.jl,A module for Julia implementing simple Sixel graphics.
-Graphics,GRAPHICS,Skia.jl,https://github.com/dcjones/Skia.jl,"Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images."
-Graphics,GRAPHICS,TestImages.jl,https://github.com/timholy/TestImages.jl,Loading standard test images into Julia.
-Graphics,GRAPHICS,ThreeJS.jl,https://github.com/rohitvarkey/ThreeJS.jl,Julia interface to WebGL using Three-js custom elements and Patchwork.jl.
-Graphics,GRAPHICS,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
-Graphics,GRAPHICS,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
-Graphics,GRAPHICS,VisualRegressionTests.jl,https://github.com/tbreloff/VisualRegressionTests.jl,"Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}"
-Graphics,GRAPHICS,VLFeat.jl,https://github.com/IHPostal/VLFeat.jl,Julia wrappings for the VLFeat computer vision library.
-Graphics,GRAPHICS,WavefrontObj.jl,https://github.com/JuliaIO/WavefrontObj.jl,Wafefront Obj importer.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Bezier.jl,https://github.com/dronir/Bezier.jl,Julia functions for computing a Bezier curve.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Blending.jl,https://github.com/dejakaymac/Blending.jl),
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Ccv.jl,https://github.com/dhotson/Ccv.jl,Julia bindings for libccv's SIFT image feature detection.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Click.jl,https://github.com/Matt5sean3/Click.jl,Julia package for click maps and advanced interaction with graphics.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ColorBrewer.jl,https://github.com/timothyrenner/ColorBrewer.jl,A Julia library for generating color brewer color schemes.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Compose.jl,http://composejl.org/,"A declarative vector graphics system written in Julia, designed to simplify the creation of complex graphics and serves as the basis of the Gadfly data visualization package. [Source code](https://github.com/dcjones/Compose.jl) on Github."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Contour.jl,https://github.com/tlycken/Contour.jl,Calculating contour curves for 2D scalar fields in Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Curvelet.jl,https://github.com/fundamental/Curvelet.jl,Implementation of the Uniform Discrete Curvelet Transform (UDCT).
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),CVCore.jl,https://github.com/JuliaOpenCV/CVCore.jl,Core functionality.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),CVImgCodecs.jl,https://github.com/JuliaOpenCV/CVImgCodecs.jl,Image file reading and writing
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),CVImgProc.jl,https://github.com/JuliaOpenCV/CVImgProc.jl,Image processing
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),CVHighGUI.jl,https://github.com/JuliaOpenCV/CVHighGUI.jl,High-level GUI.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),CVVideoIO.jl,https://github.com/JuliaOpenCV/CVVideoIO.jl,Media I/O.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),DelayedBuffer.jl,https://github.com/jfsantos/DelayedBuffer.jl,Delayed buffer view for Julia 1D arrays.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),DevIL.jl,https://github.com/JuliaGL/DevIL.jl,[DevIL](https://github.com/DentonW/DevIL) / OpenIL binding for Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),DrakeVisualizer.jl,https://github.com/rdeits/DrakeVisualizer.jl,Interface to the RobotLocomotion Drake Visualizer tool from Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Draw3D.jl,https://github.com/ssfrr/Draw3D.jl,"A 3D graphics package with a Julia API, built on OpenGL."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Drawing.jl,https://github.com/andrewcooke/Drawing.jl,"A library for easy, extensible drawing (diagrams, lines, shapes)."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Fontconfig.jl,https://github.com/JuliaGraphics/Fontconfig.jl,provides basic binding to fontconfig.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Ganja.jl,https://github.com/chakravala/Ganja.jl,"Visualization for geometric algebra, not just algebra using [Ganja.js](https://github.com/enkimute/ganja.js), [Grassmann.jl](https://github.com/chakravala/Grassmann.jl)"
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),GLAbstraction.jl,https://github.com/JuliaGL/GLAbstraction.jl,Utility package for ModernGL.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),GLWindow.jl,https://github.com/SimonDanisch/GLWindow.jl,Create a window with an OpenGL context.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),GR.jl,https://github.com/jheinen/GR.jl,This module provides a Julia interface to the [GR framework](http://gr-framework.org/) graphics library.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),HalideCall.jl,https://github.com/timholy/HalideCall.jl,Use shared libraries created by Halide from Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ImageProjectiveGeometry.jl,https://github.com/peterkovesi/ImageProjectiveGeometry.jl,Projective geometry for computer vision in Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ImageQuilting.jl,https://github.com/juliohm/ImageQuilting.jl,Image quilting for texture synthesis in Julia .
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Images.jl,https://github.com/timholy/Images.jl,An image library for Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ImageSegmentation.jl,https://github.com/JuliaImages/ImageSegmentation.jl,Partitioning images into meaningful regions.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ImageView.jl,https://github.com/timholy/ImageView.jl,An interactive display of images and movies.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ImplicitEquations.jl,https://github.com/jverzani/ImplicitEquations.jl,Julia package to facilitate graphing of implicit equations and inequalities.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Konthe.jl,https://github.com/meggart/Konthe.jl,Collection of convenience function for plotting using the OpenGL package.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),LatticeVis.jl,https://github.com/ffreyer/LatticeVis.jl),
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Layout.jl,https://github.com/timholy/Layout.jl,Graphics layout management for Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),LeafAreaIndex.jl,https://github.com/ETC-UA/LeafAreaIndex.jl, Package to calculate Leaf Area Index from Hemisperical Images.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),LibOpenCV.jl,https://github.com/JuliaOpenCV/LibOpenCV.jl,OpenCV library dependencies.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),LineExtraction.jl,https://github.com/remusao/LineExtraction.jl,Line extraction from an image (using Markovian model and energy minimization).
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Luxor.jl,https://github.com/cormullion/Luxor.jl,an easy-to-use sugary coating in Julia for the Cairo graphics package.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),LuxRay.jl,https://github.com/SimonDanisch/LuxRay.jl,Julia wrapper for LuxRay.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),MeshSlicer.jl,https://github.com/sjkelly/MeshSlicer.jl,A package for slicing meshes into polygons using Julialang.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),MeshIO.jl,https://github.com/JuliaIO/MeshIO.jl,IO for Meshes.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),MiniFB.jl,https://github.com/aviks/MiniFB.jl,"A Julia wrapper around MiniFB, a small cross platform library that makes it easy to render 32 bit pixels in a window."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ModernGL.jl,https://github.com/JuliaGL/ModernGL.jl,OpenGL 3+ bindings for Julia. This is a WIP GSoC-2014 effort to get 3D graphics into Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),NetworkViz.jl,https://github.com/abhijithanilkumar/NetworkViz.jl,Julia Interface to visualize Graphs.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),OCV.jl,https://github.com/Keno/OCV.jl,A wrapper for OpenCV - __WIP__.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Painter.jl,https://github.com/andferrari/Painter.jl,A Julia implementation of PAINTER (Polychromatic opticAl INTErferometric Reconstruction) algorithm.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),PerceptualColourMaps.jl,https://github.com/peterkovesi/PerceptualColourMaps.jl,Perceptually Uniform Colour Maps for Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),PGFPlotsX.jl,https://github.com/KristofferC/PGFPlotsX.jl,Seamlessly create plots in Julia using the PGFPlots LaTeX package.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Porta.jl,https://github.com/iamazadi/Porta.jl,This project helps with Eric Weinstein's the Graph-Wall-Tome (GWT) project.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Reel.jl,https://github.com/shashi/Reel.jl,Computations caught on camera.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Romeo.jl,https://github.com/SimonDanisch/Romeo.jl,3D visualizations and editing in Julia + OpenGL.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Rsvg.jl,https://github.com/lobingera/Rsvg.jl,An adaptation of the librsvg to render SVG to Cairo surfaces.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),SchroedingersSmoke.jl,https://github.com/SimonDanisch/SchroedingersSmoke.jl,Schrödinger's Smoke.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),SimpleDirectMediaLayer.jl,https://github.com/jonathanBieler/SimpleDirectMediaLayer.jl,Julia interface to SDL2.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),seg2seg.jl,https://github.com/intdxdt/seg2seg.jl,Computes the minimum distance between two segments in a 2D plane.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ShaderToy.jl,https://github.com/SimonDanisch/ShaderToy.jl,"Shade objects in Julia, created with GLVisualize.jl + OpenGL."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ShapeModels.jl,https://github.com/rened/ShapeModels.jl,Statistical shape models / point distribution models.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),SignedDistanceFields.jl,https://github.com/JuliaGraphics/SignedDistanceFields.jl) : Simple and efficient SDF calculation,
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),SixelGraphics.jl,https://github.com/olofsen/SixelGraphics.jl,A module for Julia implementing simple Sixel graphics.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),Skia.jl,https://github.com/dcjones/Skia.jl,"Experimental [skia](https://github.com/google/skia) bindings. Skia is a complete 2D graphic library for drawing Text, Geometries, and Images."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),ThreeJS.jl,https://github.com/rohitvarkey/ThreeJS.jl,Julia interface to WebGL using Three-js custom elements and Patchwork.jl.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),VisualRegressionTests.jl,https://github.com/tbreloff/VisualRegressionTests.jl,"Automated integrated regression tests for graphics libraries. {Usable: 3, Robust: 3, Active: 1}"
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),VLFeat.jl,https://github.com/IHPostal/VLFeat.jl,Julia wrappings for the VLFeat computer vision library.
+Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),WavefrontObj.jl,https://github.com/JuliaIO/WavefrontObj.jl,Wafefront Obj importer.
 Graphics,Resources,julia-opengl-demos,https://github.com/ssfrr/julia-opengl-demos,"A holding place for demos and tutorials as @ssfrr learns OpenGL in Julia, using GLFW.jl and OpenGL.jl."
 Graphics,Resources,Videre,https://github.com/Gnimuc/Videre,OpenGL examples written in Julia.
 Graphics,[2DVectorGraphics](https://en.wikipedia.org/wiki/Category:Vector_graphics),ImagesCore.jl,https://github.com/JuliaImages/ImagesCore.jl,Julia types for representing images.
@@ -1034,7 +1031,15 @@ Graphics,[2DVectorGraphics](https://en.wikipedia.org/wiki/Category:Vector_graphi
 Graphics,[2DVectorGraphics](https://en.wikipedia.org/wiki/Category:Vector_graphics),TikzPictures.jl,https://github.com/sisl/TikzPictures.jl,"Library interface to PGF/TikZ, that allows one to create PGF/TikZ pictures and images can be saved as PDF, SVG, and TEX. If using IJulia, it will output SVG images."
 Graphics,3D[graphics](https://en.wikipedia.org/wiki/Category:3D_computer_graphics)[imaging](https://en.wikipedia.org/wiki/Category:3D_imaging),ConstructiveSolidGeometry.jl,https://github.com/jtramm/ConstructiveSolidGeometry.jl,A Constructive Solid Geometry (CSG) and ray tracing package for Julia.
 Graphics,3D[graphics](https://en.wikipedia.org/wiki/Category:3D_computer_graphics)[imaging](https://en.wikipedia.org/wiki/Category:3D_imaging),ImageCL.jl,https://github.com/JuliaImages/ImageCL.jl,Image processing with OpenCL.
-Graphics,3D[graphics](https://en.wikipedia.org/wiki/Category:3D_computer_graphics)[imaging](https://en.wikipedia.org/wiki/Category:3D_imaging),ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
+Graphics,ComputationalGeometry,GeometricalPredicates.jl,https://github.com/JuliaGeometry/GeometricalPredicates.jl,"Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation."
+Graphics,ComputationalGeometry,GeometryTypes.jl,https://github.com/JuliaGeometry/GeometryTypes.jl,"Geometry types and for Julia, based on FixedSizeArrays."
+Graphics,ComputationalGeometry,Meshes.jl,https://github.com/JuliaGeometry/Meshes.jl,Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
+Graphics,ComputationalGeometry,OctTrees.jl,https://github.com/JuliaGeometry/OctTrees.jl,Fast quad and oct-trees.
+Graphics,ComputationalGeometry,Orthotopes.jl,https://github.com/JuliaGeometry/Orthotopes.jl,"A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes."
+Graphics,ComputationalGeometry,TetGen.jl,https://github.com/JuliaGeometry/TetGen.jl,TetGen wrapper.
+Graphics,ComputationalGeometry,TriangleIntersect.jl,https://github.com/JuliaGeometry/TriangleIntersect.jl,Fast ray-triangle intersections for raytracing.
+Graphics,ComputationalGeometry,VoronoiCells.jl,https://github.com/jlapeyre/VoronoiCells.jl,Manipulate Voronoi cells in 2D.
+Graphics,ComputationalGeometry,VoronoiDelaunay.jl,https://github.com/JuliaGeometry/VoronoiDelaunay.jl,"Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package."
 Graphics,Games,ArcadeLearningEnvironment.jl,https://github.com/nowozin/ArcadeLearningEnvironment.jl,ArcadeLearningEnvironment Julia interface.
 Graphics,Games,AtariAlgos.jl,https://github.com/tbreloff/AtariAlgos.jl,"Models/algorithms for use with the Arcade Learning Environment (ALE).  {Usable: 5, Robust: 4, Active: 2}"
 Graphics,Games,eve.jl,https://github.com/barcharcraz/eve.jl,Julia library for interacting with Eve Online.
@@ -1042,6 +1047,12 @@ Graphics,Games,JuliaKara.jl,https://github.com/sebastianpech/JuliaKara.jl) : A j
 Graphics,Games,Quake2.jl,https://github.com/jayschwa/Quake2.jl,Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 Graphics,Games,SFML.jl,https://github.com/zyedidia/SFML.jl,A binding of the Game and Multimedia Library SFML.
 Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This is a small space shooter game made in Julia with SFML.jl
+Graphics,[FeatureDetection](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision)),ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
+Graphics,ImageProcessing,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
+Graphics,ImageProcessing,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
+Graphics,ImageProcessing,RegisterQD.jl,https://github.com/HolyLab/RegisterQD.jl,"It performs image registration using the global optimization routine QuadDIRECT. Unlike many other registration packages, this is not ""greedy"" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images."
+Graphics,ImageProcessing,SubpixelRegistration.jl,https://github.com/romainFr/SubpixelRegistration.jl,Efficient subpixel image registration algorithm implementation that allows you to register arrays of arbitrary dimensions (not just 2d). Functions are written for AbstractArrays and should work for Images.
+Graphics,ImageProcessing,TestImages.jl,https://github.com/timholy/TestImages.jl,Loading standard test images into Julia.
 Graphics,INFOGRAPHICS,AnimatedPlots.jl,https://github.com/zyedidia/AnimatedPlots.jl,Fast animated (and static) plots for Julia.
 Graphics,INFOGRAPHICS,AverageShiftedHistograms.jl,https://github.com/joshday/AverageShiftedHistograms.jl,David Scott's Average Shifted Histogram density estimation.
 Graphics,INFOGRAPHICS,BBVis.jl,https://github.com/joehuchette/BBVis.jl,Visualizations for branch-and-bound algorithms.
@@ -1122,15 +1133,6 @@ Graphics,Non-GraphicalPlotting,TextPlots.jl,https://github.com/sunetos/TextPlots
 Graphics,Non-GraphicalPlotting,UnicodePlots.jl,https://github.com/Evizero/UnicodePlots.jl,Unicode plotting for the REPL in Julia.
 Graphics,Resources,rawing [2.7 billion points (22gb) in 10 seconds,https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer,
 Graphics,Resources,eff Bezanson's [Colorimetry in an iJulia notebook,http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb,
-Graphics,ComputationalGeometry,GeometricalPredicates.jl,https://github.com/JuliaGeometry/GeometricalPredicates.jl,"Fast, robust 2D and 3D geometrical predicates on generic point types. Implementation follows algorithms described in the Arepo paper and used (for e.g.) in the Illustris Simulation."
-Graphics,ComputationalGeometry,GeometryTypes.jl,https://github.com/JuliaGeometry/GeometryTypes.jl,"Geometry types and for Julia, based on FixedSizeArrays."
-Graphics,ComputationalGeometry,Meshes.jl,https://github.com/JuliaGeometry/Meshes.jl,Generation and manipulation of triangular meshes for a type of polygon mesh in computer graphics.
-Graphics,ComputationalGeometry,OctTrees.jl,https://github.com/JuliaGeometry/OctTrees.jl,Fast quad and oct-trees.
-Graphics,ComputationalGeometry,Orthotopes.jl,https://github.com/JuliaGeometry/Orthotopes.jl,"A Julia package for creating n-dimensional _bounding boxes_, a.k.a __orthotopes__, which are generalizations of rectangles in arbitary dimensions that are useful for describing bounding boxes of geometrical primitives. It implements Allen's interval algebra for evaluating the relations between orthotopes."
-Graphics,ComputationalGeometry,TetGen.jl,https://github.com/JuliaGeometry/TetGen.jl,TetGen wrapper.
-Graphics,ComputationalGeometry,TriangleIntersect.jl,https://github.com/JuliaGeometry/TriangleIntersect.jl,Fast ray-triangle intersections for raytracing.
-Graphics,ComputationalGeometry,VoronoiCells.jl,https://github.com/jlapeyre/VoronoiCells.jl,Manipulate Voronoi cells in 2D.
-Graphics,ComputationalGeometry,VoronoiDelaunay.jl,https://github.com/JuliaGeometry/VoronoiDelaunay.jl,"Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package."
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
