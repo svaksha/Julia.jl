@@ -100,8 +100,6 @@
 
 
 
-[//]: # (######################################################################)
-
 ## [2D Vector Graphics](https://en.wikipedia.org/wiki/Category:Vector_graphics)
 + [ImagesCore.jl](https://github.com/JuliaImages/ImagesCore.jl) :: Julia types for representing images.
 + [Smile.jl](https://github.com/sisl/Smile.jl) :: A Julia wrapper for the Smile C++ Structural Modeling, Inference, and Learning Engine for Bayesian & Influence Networks .
@@ -142,6 +140,7 @@
 
 
 ## Image Processing
++ [ImageView.jl](https://github.com/JuliaImages/ImageView.jl) :: Interactive display of images and movies.
 + [OpenCV.jl](https://github.com/maxruby/OpenCV.jl) :: The OpenCV (C++) interface for Julia.
 + [OpenGL.jl](https://github.com/rennis250/OpenGL.jl) :: Julia interface to OpenGL.
 + [RegisterQD.jl](https://github.com/HolyLab/RegisterQD.jl) :: It performs image registration using the global optimization routine QuadDIRECT. Unlike many other registration packages, this is not "greedy" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images.

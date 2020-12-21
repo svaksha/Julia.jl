@@ -420,6 +420,7 @@ Chemistry,GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/Peri
 Chemistry,GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
 Chemistry,GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
 Chemistry,ChemicalFileFormatsandInputOutput,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
+Chemistry,ChemicalFileFormatsandInputOutput,CrystalInfoFramework.jl,https://github.com/jamesrhester/CrystalInfoFramework.jl,Support for reading and writing Crystallographic Information Framework data files and dictionaries.
 Chemistry,Biochemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
 Chemistry,Biochemistry,DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
 Chemistry,Biochemistry,BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
@@ -1048,6 +1049,7 @@ Graphics,Games,Quake2.jl,https://github.com/jayschwa/Quake2.jl,Experimental Quak
 Graphics,Games,SFML.jl,https://github.com/zyedidia/SFML.jl,A binding of the Game and Multimedia Library SFML.
 Graphics,Games,SpaceShooter.jl,https://github.com/zyedidia/SpaceShooter.jl,This is a small space shooter game made in Julia with SFML.jl
 Graphics,[FeatureDetection](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision)),ImageFeatures.jl,https://github.com/JuliaImages/ImageFeatures.jl,Image feature detection for Julia.
+Graphics,ImageProcessing,ImageView.jl,https://github.com/JuliaImages/ImageView.jl,Interactive display of images and movies.
 Graphics,ImageProcessing,OpenCV.jl,https://github.com/maxruby/OpenCV.jl,The OpenCV (C++) interface for Julia.
 Graphics,ImageProcessing,OpenGL.jl,https://github.com/rennis250/OpenGL.jl,Julia interface to OpenGL.
 Graphics,ImageProcessing,RegisterQD.jl,https://github.com/HolyLab/RegisterQD.jl,"It performs image registration using the global optimization routine QuadDIRECT. Unlike many other registration packages, this is not ""greedy"" descent based on an initial guess---it attempts to find the globally-optimal alignment of your images."
