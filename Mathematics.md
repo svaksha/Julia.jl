@@ -414,6 +414,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [IFastSum.jl](https://github.com/J-Sarnoff/IFastSum.jl) :: Accurate summation (Yuhang Zhao's iFastSum).
 + [Leibniz.jl](https://github.com/chakravala/Leibniz.jl) :: Operator algebras for mixed-symmetry multivariate differentiable tensor fields
 + [MINE.jl](https://github.com/zhmz90/MINE.jl) :: Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
++ [NumericalAlgorithms.jl](https://github.com/mrtkp9993/NumericalAlgorithms.jl) :: Statistics & Numerical algorithms implemented in Julia.
 + [Options.jl](https://github.com/JuliaLang/Options.jl) :: A framework for providing optional arguments to functions.
 + [PowerSeries.jl](https://github.com/jwmerrill/PowerSeries.jl) :: Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers.
    * _Power Series Blog_::
