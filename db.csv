@@ -535,6 +535,7 @@ Database,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bi
 Database,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 Database,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
 Database,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
+Database,RDBMS,SQLStrings.jl,https://github.com/JuliaComputing/SQLStrings.jl,It provides the @sql_cmd macro to allow SQL query strings to be constructed by normal-looking string interpolation but without risking SQL formatting errors or SQL injection attacks on your application.
 Database,MariaDB-MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
 Database,MariaDB-MySQL,MySQL.jl,https://github.com/JuliaDatabases/MySQL.jl,Julia bindings and helper functions for MariaDB/MySQL C library.
 Database,MariaDB-MySQL,MySQL.jl,https://github.com/johnmyleswhite/MySQL.jl,MySQL DBI driver that uses the C MySQL API and obeys the DBI.jl protocol.
@@ -1471,6 +1472,7 @@ Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathemat
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),IFastSum.jl,https://github.com/J-Sarnoff/IFastSum.jl,Accurate summation (Yuhang Zhao's iFastSum).
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Leibniz.jl,https://github.com/chakravala/Leibniz.jl,Operator algebras for mixed-symmetry multivariate differentiable tensor fields
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),MINE.jl,https://github.com/zhmz90/MINE.jl,Julia wrapper for Maximal Information-based Nonparametric Exploration (MIC and MINE family).
+Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),NumericalAlgorithms.jl,https://github.com/mrtkp9993/NumericalAlgorithms.jl,Statistics & Numerical algorithms implemented in Julia.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),Options.jl,https://github.com/JuliaLang/Options.jl,A framework for providing optional arguments to functions.
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PowerSeries.jl,https://github.com/jwmerrill/PowerSeries.jl,"Truncated Power Series for Julia, which exports a Series type that represents a truncated power series by its coefficients. You can do arithmetic on Series and apply functions to series just as you would Real or Complex numbers."
 Mathematics,Calculus&[AppliedMath](http://en.wikipedia.org/wiki/Applied_mathematics),PolyMath.jl,https://github.com/cfbaptista/PolyMath.jl,"a package for polynomial arithmetic, calculus, interpolation and quadrature algorithms implemented in Julia."

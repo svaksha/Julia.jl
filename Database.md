@@ -88,6 +88,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 
 # RDBMS
 + [Octo.jl](https://github.com/wookay/Octo.jl) :: an SQL Query DSL in Julia.
++ [SQLStrings.jl](https://github.com/JuliaComputing/SQLStrings.jl) :: It provides the @sql_cmd macro to allow SQL query strings to be constructed by normal-looking string interpolation but without risking SQL formatting errors or SQL injection attacks on your application.
 
 ## MariaDB-MySQL
 + [MariaDB.jl](https://github.com/Dynactionize/MariaDB.jl) :: A wrapper around the MariaDB C connector.
