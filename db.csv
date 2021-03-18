@@ -399,6 +399,7 @@ Biology,NEUROSCIENCE,DCEMRI.jl,https://github.com/davidssmith/DCEMRI.jl,"A Fast,
 Biology,NEUROSCIENCE,EEG.jl,https://github.com/codles/EEG.jl,Process EEG files in Julia.
 Biology,NEUROSCIENCE,NEAT.jl,https://github.com/Andy-P/NEAT.jl,Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 Biology,NEUROSCIENCE,NeuroAnalysis.jl,https://github.com/babaq/NeuroAnalysis.jl,Julia package for neural signal analysis.
+Biology,NEUROSCIENCE,NeuronBuilder,https://github.com/Dhruva2/NeuronBuilder,"Builds conductance based neural networks iteratively, from ion channels and synapses."
 Biology,NEUROSCIENCE,OpenEphysLoader.jl,https://github.com/galenlynch/OpenEphysLoader.jl,A set of tools to load data written by the Open Ephys GUI.
 Biology,NEUROSCIENCE,SkullSegment.jl,https://github.com/simonster/SkullSegment.jl,Macaque brain and skull extraction tools.
 Biology,NEUROSCIENCE,SpikeSorter.jl,https://github.com/grero/SpikeSorter.jl,Spike sorting tool for experimental neuroscientists.

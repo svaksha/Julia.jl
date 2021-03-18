@@ -154,6 +154,7 @@ __Genome Wide Association Study (GWAS)__
 + [EEG.jl](https://github.com/codles/EEG.jl) :: Process EEG files in Julia. 
 + [NEAT.jl](https://github.com/Andy-P/NEAT.jl) :: Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 + [NeuroAnalysis.jl](https://github.com/babaq/NeuroAnalysis.jl) :: Julia package for neural signal analysis.
++ [NeuronBuilder](https://github.com/Dhruva2/NeuronBuilder) :: Builds conductance based neural networks iteratively, from ion channels and synapses. 
 + [OpenEphysLoader.jl](https://github.com/galenlynch/OpenEphysLoader.jl) :: A set of tools to load data written by the Open Ephys GUI.
 + [SkullSegment.jl](https://github.com/simonster/SkullSegment.jl) :: Macaque brain and skull extraction tools.
 + [SpikeSorter.jl](https://github.com/grero/SpikeSorter.jl) :: Spike sorting tool for experimental neuroscientists.
