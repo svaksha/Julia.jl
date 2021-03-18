@@ -198,6 +198,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [ShowSet.jl](https://github.com/scheinerman/ShowSet.jl) :: Nicer output for Set and IntSet objects.
 
 ### Set Theory
++ [DispatchedTuples.jl](https://github.com/charleskawczynski/DispatchedTuples.jl):: `Dispatched Tuples` are like immutable dictionaries (so, they're technically more like NamedTuples) except that the keys are instances of types. Also, because DispatchedTuples are backed by tuples, they are GPU-friendly.
 + [NamedTuples.jl](https://github.com/blackrock/NamedTuples.jl) :: An implementation of named tuples to support both index and property based access, for example in the definition of a method or as the return value of a method.
 
 
@@ -264,6 +265,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 
 ### [Matrix Theory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 __Special Array Types and Algorithms__
++ [ArrayInterface.jl](https://github.com/JuliaArrays/ArrayInterface.jl) :: Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations.
 + [ArrayIteration.jl](https://github.com/timholy/ArrayIteration.jl) :: Testing new ideas for array iteration.
 + [ArrayMeta.jl](https://github.com/shashi/ArrayMeta.jl) :: metaprogramming for Julia arrays.
 + [ArrayViews.jl](https://github.com/JuliaArrays/ArrayViews.jl) :: A Julia package to explore a new system of array views.
@@ -311,6 +313,7 @@ __Special Array Types and Algorithms__
 + [StructsOfArrays.jl](https://github.com/simonster/StructsOfArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) :: Statically sized arrays for Julia `v0.5`.
++ [StrideArrays.jl](https://github.com/chriselrod/StrideArrays.jl) :: Library supporting the ArrayInterface.jl strided array interface. 
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
 + [SymDict.jl](https://github.com/samoconnor/SymDict.jl) :: Dictionaries with Symbol keys.
 + [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.

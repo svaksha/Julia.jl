@@ -241,9 +241,11 @@ __Plotting libs for statistical Charts, Graphs, Plots, Histograms, Maps__:
 + [Hinton.jl](https://github.com/ninjin/Hinton.jl) :: A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support.
 + [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl) :: Julia functions to plot colorful maps in the terminal.
 + [MakiE.jl](https://github.com/SimonDanisch/MakiE.jl) :: High level plotting on the GPU.
++ [RoMEPlotting.jl](https://github.com/JuliaRobotics/RoMEPlotting.jl):: 2D plotting functionality for the RoME.jl package (presently only using Gadfly). 
 + [Sparklines.jl](https://github.com/mbauman/Sparklines.jl) :: A Julia implementation of spark: simple printing of unicode trendlines.
 + [TextPlots.jl](https://github.com/sunetos/TextPlots.jl) :: Fancy terminal plotting for Julia using Braille characters.
 + [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl) :: Unicode plotting for the REPL in Julia.
+
 
 ###### Resources
 __Read other Julia-users experiences with visualization and plotting.__

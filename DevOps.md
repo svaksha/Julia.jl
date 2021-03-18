@@ -34,6 +34,7 @@
 + List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
 + [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 + Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples)
++ [jill](https://github.com/abelsiqueira/jill) ::  Command line installer of the Julia Language. 
 
 ----
 

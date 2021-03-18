@@ -648,6 +648,7 @@ DevOps,INSTALL,Download and install Julia on various Operating Systems,http://ju
 DevOps,INSTALL,ist of [Julia Modules,http://docs.julialang.org/en/latest/manual/modules/),
 DevOps,INSTALL,The Julia Standard Library,http://docs.julialang.org/en/latest/stdlib/,
 DevOps,INSTALL,ulia [Sample programs,https://github.com/JuliaLang/julia/tree/master/examples,
+DevOps,INSTALL,jill,https://github.com/abelsiqueira/jill, Command line installer of the Julia Language.
 DevOps,BACKPORTS,Julia-Backports,https://groups.google.com/forum/#!forum/julia-backports) Mailing list,
 DevOps,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
 DevOps,BUILDAUTOMATION,jlbuild,https://github.com/jlbuild,"A bot that controls the julia buildbots to build releases and perform some additional continous integration on secondary platforms. Ping (`@jlbuild`) in a comment, PR, issue, etc... and this GitHub comment-based interface to testing buildbots will build the relevant Julia version on all platforms, post download links and even execute small chunks of code across those platforms."
@@ -1132,6 +1133,7 @@ Graphics,Non-GraphicalPlotting,ASCIIPlots.jl,https://github.com/johnmyleswhite/A
 Graphics,Non-GraphicalPlotting,Hinton.jl,https://github.com/ninjin/Hinton.jl,"A small Julia library for generating Hinton diagrams. It supports standard vector graphics formats such as PNG, SVG, and PDF, as well as generating diagrams in a terminal with Unicode and colour support."
 Graphics,Non-GraphicalPlotting,ImageTerm.jl,https://github.com/meggart/ImageTerm.jl,Julia functions to plot colorful maps in the terminal.
 Graphics,Non-GraphicalPlotting,MakiE.jl,https://github.com/SimonDanisch/MakiE.jl,High level plotting on the GPU.
+Graphics,Non-GraphicalPlotting,RoMEPlotting.jl,https://github.com/JuliaRobotics/RoMEPlotting.jl):: 2D plotting functionality for the RoME.jl package (presently only using Gadfly),
 Graphics,Non-GraphicalPlotting,Sparklines.jl,https://github.com/mbauman/Sparklines.jl,A Julia implementation of spark: simple printing of unicode trendlines.
 Graphics,Non-GraphicalPlotting,TextPlots.jl,https://github.com/sunetos/TextPlots.jl,Fancy terminal plotting for Julia using Braille characters.
 Graphics,Non-GraphicalPlotting,UnicodePlots.jl,https://github.com/Evizero/UnicodePlots.jl,Unicode plotting for the REPL in Julia.
@@ -1294,6 +1296,7 @@ Mathematics,ALGEBRA,SemiringAlgebra.jl,https://github.com/ViralBShah/SemiringAlg
 Mathematics,Resources,adeles,https://github.com/williamstein/adeles,Ideles adeles algebraic number theory.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),BitCircuits.jl,https://github.com/um-tech-evolution/BitCircuits.jl,Boolean circuit evaluation using bitwise operations.
 Mathematics,[BooleanAlgebra](http://en.wikipedia.org/wiki/Category:Boolean_algebra),ShowSet.jl,https://github.com/scheinerman/ShowSet.jl,Nicer output for Set and IntSet objects.
+Mathematics,SetTheory,DispatchedTuples.jl,"https://github.com/charleskawczynski/DispatchedTuples.jl):: `Dispatched Tuples` are like immutable dictionaries (so, they're technically more like NamedTuples) except that the keys are instances of types. Also, because DispatchedTuples are backed by tuples, they are GPU-friendly",
 Mathematics,SetTheory,NamedTuples.jl,https://github.com/blackrock/NamedTuples.jl,"An implementation of named tuples to support both index and property based access, for example in the definition of a method or as the return value of a method."
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),ApproXD.jl,https://github.com/floswald/ApproXD.jl,B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 Mathematics,[NumericalAnalysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis),AMD.jl,https://github.com/JuliaSmoothOptimizers/AMD.jl,Approximate Minimum Degree Ordering in Julia.
@@ -1345,6 +1348,7 @@ Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebr
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),SuperLU.jl,https://github.com/dmbates/SuperLU.jl,Julia interface to the SuperLU solver package for sparse systems.
 Mathematics,[LinearAlgebra](https://en.wikipedia.org/wiki/Category:Linear_algebra),Transducers.jl,https://github.com/tkf/Transducers.jl,"provides composable algorithms on ""sequence"" of inputs. This feature, available in Clojure language, is a [transformation matrix](https://en.wikipedia.org/wiki/Transformation_matrix) for linear transformations that is now in Julia."
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayInterface.jl,https://github.com/JuliaArrays/ArrayInterface.jl,"Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations."
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayIteration.jl,https://github.com/timholy/ArrayIteration.jl,Testing new ideas for array iteration.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayMeta.jl,https://github.com/shashi/ArrayMeta.jl,metaprogramming for Julia arrays.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),ArrayViews.jl,https://github.com/JuliaArrays/ArrayViews.jl,A Julia package to explore a new system of array views.
@@ -1392,6 +1396,7 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StructsOfArrays.jl,https://github.com/simonster/StructsOfArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StaticArrays.jl,https://github.com/JuliaArrays/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StrideArrays.jl,https://github.com/chriselrod/StrideArrays.jl,Library supporting the ArrayInterface.jl strided array interface.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
