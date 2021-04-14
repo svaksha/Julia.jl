@@ -199,11 +199,11 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
     
 ## Europe-GERMANY
 
-#### [Baden-Württemberg](https://en.wikipedia.org/wiki/Baden-W%C3%BCrttemberg).
-+ [Tübingen Julia Users](http://www.meetup.com/Julia-Users-Germany/) group.
-
 #### Berlin
 + [Julia Users Berlin](https://julia-users-berlin.github.io/)
+
+#### Bayern
+* [Julia User Group Munich](https://www.meetup.com/Julia-User-Group-Munich/)
 
 [//]: # (######################################################################)
 
