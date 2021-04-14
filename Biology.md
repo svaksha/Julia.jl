@@ -35,12 +35,14 @@
 + [MIToS.jl](https://github.com/diegozea/MIToS.jl).
 + [MMTF.jl](https://github.com/joels94/MMTF.jl) :: The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 + [openBF](https://github.com/INSIGNEO/openBF) :: A finite-volume solver for elastic arterial networks.
++ [Pipelines.jl](https://github.com/cihga39871/Pipelines.jl) ::  A lightweight Julia package for computational pipelines and workflows. 
 + [Rosalind.jl](https://github.com/PilgrimShadow/Rosalind.jl) :: A bioinformatics library for solving problems from rosalind.info.
 + [smoothlife-jl](https://github.com/jamak/smoothlife-jl) :: an implementation of the SmoothLife algorithm in Julia.
 + [taxize.jl](https://github.com/sckott/taxize.jl) :: A taxonomic toolbelt for Julia.
 + [Crispulator.jl](https://github.com/tlnagy/Crispulator.jl) :: A discrete simulation tool for designing pooled genetic screens
 + [Bioinformatics.jl](https://github.com/mrtkp9993/Bioinformatics.jl) :: Helper functions for bioinformatics and rosalind.info problems.
 + [NormalizeQuantiles.jl](https://github.com/oheil/NormalizeQuantiles.jl) :: implements quantile normalization
+
 
 ----
 

@@ -325,6 +325,7 @@ Biology,BIOINFORMATICS,EMIRT.jl,https://github.com/seung-lab/EMIRT.jl,Electron M
 Biology,BIOINFORMATICS,MIToS.jl,https://github.com/diegozea/MIToS.jl),
 Biology,BIOINFORMATICS,MMTF.jl,https://github.com/joels94/MMTF.jl,The Macromolecular Transmission Format (MMTF) is a new compact binary format to transmit and store biomolecular structures for fast 3D visualization and analysis.
 Biology,BIOINFORMATICS,openBF,https://github.com/INSIGNEO/openBF,A finite-volume solver for elastic arterial networks.
+Biology,BIOINFORMATICS,Pipelines.jl,https://github.com/cihga39871/Pipelines.jl, A lightweight Julia package for computational pipelines and workflows.
 Biology,BIOINFORMATICS,Rosalind.jl,https://github.com/PilgrimShadow/Rosalind.jl,A bioinformatics library for solving problems from rosalind.info.
 Biology,BIOINFORMATICS,smoothlife-jl,https://github.com/jamak/smoothlife-jl,an implementation of the SmoothLife algorithm in Julia.
 Biology,BIOINFORMATICS,taxize.jl,https://github.com/sckott/taxize.jl,A taxonomic toolbelt for Julia.
