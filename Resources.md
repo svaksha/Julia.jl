@@ -336,6 +336,7 @@ __Local meetup groups located in the [7 continents](https://en.wikipedia.org/wik
 ----
 
 # TUTORIALS - WORKSHOPS
++ [fall-in-love-with-julia](https://github.com/schlichtanders/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julialang.
 + [Intermediate Julia workshop](https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, USA
 + [Machine Learning Workshop 2019](https://github.com/mbauman/MachineLearningWorkshop2019).
 + [JuliaAcademyData.jl](https://github.com/JuliaComputing/JuliaAcademyData.jl) :: Supplementary materials for Julia Academy courses.

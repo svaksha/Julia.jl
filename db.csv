@@ -2095,6 +2095,7 @@ Resources,SLIDES,Julia language slides,http://wiki.scinethpc.ca/wiki/images/7/71
 Resources,SLIDES,Julia introduction,https://github.com/projectbanana/projectbanana.github.io/tree/master/presentations/julia) by M. Schauer,
 Resources,SLIDES,arlos Becker's Julia presentation [comparing Julia with Matlab,https://sites.google.com/site/carlosbecker/a-few-notes),
 Resources,Slidesfrom[JuliaTokyomeetups](https://github.com/JuliaTokyo/julia-wakalang),JuliaTokyo second meetup slides,http://juliatokyo.connpass.com/event/8010/presentation/),
+Resources,TUTORIALS-WORKSHOPS,fall-in-love-with-julia,https://github.com/schlichtanders/fall-in-love-with-julia): An introductory 101 series to get to know the power of Julialang,
 Resources,TUTORIALS-WORKSHOPS,Intermediate Julia workshop,"https://github.com/dpsanders/intermediate_julia_2019), held at JuliaCon 2019, Baltimore, Maryland, US",
 Resources,TUTORIALS-WORKSHOPS,Machine Learning Workshop 2019,https://github.com/mbauman/MachineLearningWorkshop2019),
 Resources,TUTORIALS-WORKSHOPS,JuliaAcademyData.jl,https://github.com/JuliaComputing/JuliaAcademyData.jl,Supplementary materials for Julia Academy courses.
@@ -2138,6 +2139,7 @@ Server,NETWORKING,LogParser.jl,https://github.com/randyzwitch/LogParser.jl,"A pa
 Server,NETWORKING,MsgPackRpcServer.jl,https://github.com/remore/MsgPackRpcServer.jl,A Julia implementation of MessagePack-RPC Server Library.
 Server,NETWORKING,Pcap.jl,https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamm,Libpcap implementation for Julia language.
 Server,NETWORKING,Pcap.jl,https://github.com/r2dbg/Pcap.jl) by @r2db,Libpcap implementation for Julia language.
+Server,NETWORKING,RateLimiter.jl,https://github.com/chipkent/RateLimiter.jl,Julia package for limiting the rate at which expressions are evaluated. This can be useful for rate limiting access to network resources (e.g. websites). All methods are thread safe.
 Server,NETWORKING,StatsdClient.jl,https://github.com/forio/StatsdClient.jl,A simple Julia implementation of a statsd client.
 Server,NETWORKING,TimeZones.jl,https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language,
 Server,NETWORKING,UUID.jl,https://github.com/forio/UUID.jl,"A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process."

@@ -51,6 +51,7 @@ __Networking, web security, frameworks and other Web server related things go he
 + [MsgPackRpcServer.jl](https://github.com/remore/MsgPackRpcServer.jl) :: A Julia implementation of MessagePack-RPC Server Library.
 + [Pcap.jl](https://github.com/cycloidgamma/Pcap.jl) by @cycloidgamma :: Libpcap implementation for Julia language.
 + [Pcap.jl](https://github.com/r2dbg/Pcap.jl) by @r2dbg :: Libpcap implementation for Julia language.
++ [RateLimiter.jl](https://github.com/chipkent/RateLimiter.jl) :: Julia package for limiting the rate at which expressions are evaluated. This can be useful for rate limiting access to network resources (e.g. websites). All methods are thread safe.
 + [StatsdClient.jl](https://github.com/forio/StatsdClient.jl) :: A simple Julia implementation of a statsd client.
 + [TimeZones.jl](https://github.com/quinnj/TimeZones.jl) : Olsen Timezone Database Access for the Julia Programming Language.
 + [UUID.jl](https://github.com/forio/UUID.jl) :: A universally unique identifier (UUID) is an identifier standard, are 128 bits long, and require no central registration process.
