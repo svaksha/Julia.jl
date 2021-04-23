@@ -1,14 +1,15 @@
 + [Saving Julia Objects](#saving-julia-objects)
 + [Binary IO](#binary-io)
 + [Data Formats](#data-formats)
-    + [BSON](#bson)
-    + [JSON](#json)
-    + [ODS](#ods)
-    + [PDF](#pdf)
-    + [Silo](#silo)
-    + [Tabular Data](#tabular-data)
-    + [XDMF](#xdmf)
-    + [XML](#xml)
+   + [Avro](#avro)
+   + [BSON](#bson)
+   + [JSON](#json)
+   + [ODS](#ods)
+   + [PDF](#pdf)
+   + [Silo](#silo)
+   + [Tabular Data](#tabular-data)
+   + [XDMF](#xdmf)
+   + [XML](#xml)
 + [Data Type](#data-type)
     + [Composite Data Types](#composite-data-types)
     + [Type Parameters](#type-parameters)
@@ -70,6 +71,10 @@
 + [Shapefile.jl](https://github.com/Keno/Shapefile.jl) :: Parsing .shp files in Julia.
 + [Silo.jl](https://github.com/jgoldfar/Silo.jl) :: Wrapper for the Silo file format.
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
+
+
+## [Avro](https://en.wikipedia.org/wiki/Apache_Avro]
++ [Avro.jl](https://github.com/JuliaData/Avro.jl) ::  Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files.
 
 ## BSON
 + [BSON.jl](https://github.com/MikeInnes/BSON.jl) :: A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures.

@@ -217,6 +217,7 @@ API,MATLAB,Moonwalk.jl,https://github.com/diogo149/Moonwalk.jl,"A partial MATLAB
 API,ObjectiveC,ObjectiveC.jl,https://github.com/JunoLab/ObjectiveC.jl,A Julia library that allows you to call Objective-C methods using native syntax.
 API,Perl,FileFind.jl,https://github.com/johnmyleswhite/FileFind.jl,Minimal Implementation of Perl's `File::Find` in Julia.
 API,Processing,Processing.jl,https://github.com/rennis250/Processing.jl,"A port of the Processing language, to Julia."
+API,Python,JuliaPy,https://github.com/JuliaPy,Software that connects the Julia and Python languages.
 API,Python,FStrings.jl,https://github.com/magonser/FStrings.jl,Implementation of Python style 'fsrings' literal string interpolation based on `Printf.@sprintf`.
 API,Python,Polyglot.jl,https://github.com/wavexx/Polyglot.jl,"Transparent remote/recursive evaluation between languages - it also supports Perl, PHP and Javascript."
 API,Python,PyCall.jl,https://github.com/stevengj/PyCall.jl,Call Python functions from the Julia language.
@@ -820,6 +821,7 @@ FileIO,DataFormats,SASLib.jl,https://github.com/tk3369/SASLib.jl,Provide a Julia
 FileIO,DataFormats,Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp files in Julia.
 FileIO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
 FileIO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
+FileIO,[Avro](https://en.wikipedia.org/wiki/Apache_Avro],Avro.jl,https://github.com/JuliaData/Avro.jl," Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files."
 FileIO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures."
 FileIO,JSON,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
 FileIO,JSON,JSONTables.jl,https://github.com/JuliaData/JSONTables.jl,JSON + Tables.jl
