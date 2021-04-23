@@ -110,6 +110,7 @@ Programming Paradigms: __Packages and resources that support various programming
 
 # [Macro](https://en.wikipedia.org/wiki/Macro_(computer_science))
 + [ForceImport.jl](https://github.com/chakravala/ForceImport.jl) :: Macro that force imports conflicting methods in Julia modules
++ [FromFile.jl](https://github.com/Roger-luo/FromFile.jl) :: This package exports a macro @from, which can be used to import objects from files, so you will never have to write `include` again.
 + [ImportMacros.jl](https://github.com/fredrikekre/ImportMacros.jl) :: Provides three macros: @import and @using which loads a module and binds it to an alias, and @from which loads an object from a module and binds it to an alias.
 + [LoopVectorization.jl](https://github.com/chriselrod/LoopVectorization.jl) :: Macro(s) for vectorizing loops. 
 + [MacroUtils.jl](https://github.com/carlobaldassi/MacroUtils.jl) :: Collection of Julia macros.
