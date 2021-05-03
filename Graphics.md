@@ -5,8 +5,9 @@
    * [2D Vector Graphics](#v2d-ector-graphics)
    * [3D graphics imaging](#3d-graphics-imaging)
    * [Computational Geometry](computational-geometry)
-   * [Feature Detection](#feature-detection)
+   * [Discrete Geometry](#discrete-geometry)
    * [Games](#games)
+   * [Feature Detection](#feature-detection)
    * [Image Processing](#image-processing)
    * [OCR](#ocr)
 + [INFOGRAPHICS](#infographics)
@@ -58,7 +59,6 @@
 + [ImageView.jl](https://github.com/timholy/ImageView.jl) :: An interactive display of images and movies.
 + [ImplicitEquations.jl](https://github.com/jverzani/ImplicitEquations.jl) :: Julia package to facilitate graphing of implicit equations and inequalities.
 + [Konthe.jl](https://github.com/meggart/Konthe.jl) :: Collection of convenience function for plotting using the OpenGL package.
-+ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
 + [Layout.jl](https://github.com/timholy/Layout.jl) :: Graphics layout management for Julia.
 + [LeafAreaIndex.jl](https://github.com/ETC-UA/LeafAreaIndex.jl) ::  Package to calculate Leaf Area Index from Hemisperical Images.
 + [LibOpenCV.jl](https://github.com/JuliaOpenCV/LibOpenCV.jl) :: OpenCV library dependencies.
@@ -125,6 +125,11 @@
 + [VoronoiCells.jl](https://github.com/jlapeyre/VoronoiCells.jl) :: Manipulate Voronoi cells in 2D.
 + [VoronoiDelaunay.jl](https://github.com/JuliaGeometry/VoronoiDelaunay.jl) :: Fast robust Voronoi and Delaunay triangulations, using `GeometricalPredicates.jl` package.
 
+## [Discrete Geometry](https://en.wikipedia.org/wiki/Category:Discrete_geometry)
++ [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) :: ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
++ [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) :: This package provides morphology-related functionality to the `Images.jl` project.
++ [LatticeVis.jl](https://github.com/ffreyer/LatticeVis.jl).
+
 
 ## Games
 + [ArcadeLearningEnvironment.jl](https://github.com/nowozin/ArcadeLearningEnvironment.jl) :: ArcadeLearningEnvironment Julia interface.
@@ -135,8 +140,10 @@
 + [SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
 
+
 ## [Feature Detection](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision))
 + [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) :: Image feature detection for Julia.
+
 
 
 ## Image Processing

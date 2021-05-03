@@ -226,6 +226,7 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 + [LowRankApprox.jl](https://github.com/klho/LowRankApprox.jl) :: Fast low-rank matrix approximation in Julia.
 + [RandomMatrices.jl](https://github.com/jiahao/RandomMatrices.jl) :: Random Matrices.
    + [Video](https://www.youtube.com/watch?v=68yy33jOkOs) of Jiahao and Andreas talk on __Free probability, random matrices and disorder in organic semiconductors__ at MIT CSAIL.
++ [RollingFunctions.jl](https://github.com/JeffreySarnoff/RollingFunctions.jl) :: Roll a function over data, run a statistic along a `weighted` data window.
 + [Knitro.jl](https://github.com/yeesian/Knitro.jl) :: Julia interface to the Knitro solver.
 + [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) :: A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.
 + [PiecewiseInterpolation.jl](https://github.com/gwater/PiecewiseInterpolation.jl) :: A simple interface for interpolations on timeseries with first order discontinuities (using Dierckx.jl).
@@ -455,6 +456,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [MDCT.jl](https://github.com/stevengj/MDCT.jl) :: This module computes the modified discrete cosine transform (MDCT) in the Julia language and the inverse transform (IMDCT), using the fast type-IV discrete cosine tranform (DCT-IV) functions in Julia (via FFTW).
 + [Multirate.jl](https://github.com/JayKickliter/Multirate.jl) :: Streaming polyphase DSP filters with sample rate conversion.
 + [RIM.jl](https://github.com/nantonel/RIM.jl) :: Julia implementation of a Room Acoustics Impulse Response Generator using the Randomized Image Method (RIM).
++ [SortFilters.jl](https://github.com/sairus7/SortFilters.jl) :: Fast moving quantile filters implemented as fast moving window sort algorithm. Implemented both as functions over a moving window and stateful filter objects and after setting an appropriate probability level, you can get: moving median, minimum, maximum, quartiles and so on.
 + [wavechaos](https://github.com/amyascwk/wavechaos) 
 + [WDSP.jl](https://github.com/pjabardo/WDSP.jl) :: Digital signal processing used in turbulence implemented in Julia.
 
