@@ -1,10 +1,28 @@
-+ [RESEARCH PAPERS](#research-papers)
++ [Open Publishing Portals](#open-publishing-portals) 
++ [Publishing Software Tools](#publishing-software-tools)
++ [Research Papers](#research-papers)
  
 ----  
+----
 
 
+# Open Publishing Portals
 
-# RESEARCH PAPERS
++ 2016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing](https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_.
++ [GitXiv](http://gitxiv.com) :: Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
++ The [ReScience journal](https://github.com/ReScience/ReScience) and [Wiki](https://github.com/ReScience/ReScience/wiki).
+
+
+----
+
+# Publishing Software Tools
+
++ [Cite.jl](https://github.com/SebastianM-C/Cite.jl) :: Cite Julia packages in your papers easily! 
+
+----
+
+# Research Papers
+
 + [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) :: A Survey of hundreds of survey papers on Natural Language Processing (NLP) and Machine Learning (ML) papers, categorized into popular topics with simple counting for some interesting problems and a list of the papers with urls (441 papers).
 + [MT-paper-lists](https://github.com/NiuTrans/MT-paper-lists) :: It contains machine translation papers from recent conferences including ACL, EMNLP, NAACL and COLING and some interesting research works grouped by different areas, such as deep network, neural architecture search, etc..
 + [How to write, publish, and review scientific papers in the early 21st Century](https://github.com/swcarpentry/modern-scientific-authoring) 
@@ -17,9 +35,4 @@
 + Matthew Farrell, and David Taylor, Department of Computer Science, Urbana, IL: [Julia Paper](http://julia.lifehug.com/gqm/julia_paper.html) and the [PDF file can be download here](julia.lifehug.com/gqm/JuliaFeatureUsage.pdf).
 + Bezanson Jeff, et al. _[Julia: A fresh approach to numerical computing](http://arxiv.org/abs/1411.1607)_, 07-November-2014.
 
-### Open Portals
-
-+ 2016-Mar-01 : Alan Edelman, Julia co-founder explains why _[Julia is a Fast Language for Numerical Computing](https://sinews.siam.org/DetailsPage/tabid/607/ArticleID/744/Julia-A-Fast-Language-for-Numerical-Computing.aspx)_.
-+ [GitXiv](http://gitxiv.com) :: Collaborative Open Computer Science Portal. The website code on [github](https://github.com/samim23/GitXiv).
-+ The [ReScience journal](https://github.com/ReScience/ReScience) and [Wiki](https://github.com/ReScience/ReScience/wiki).
 
