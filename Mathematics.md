@@ -484,9 +484,11 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 ### [Integral Equation](https://en.wikipedia.org/wiki/Integral_equation)
 + [ChainRulesCore.jl](https://github.com/JuliaDiff/ChainRulesCore.jl) :: The ChainRulesCore package provides a light-weight dependency for defining sensitivities for functions in your packages, without self-dependency on `ChainRules.jl`, which aims to provide a variety of common utilities that can be used by downstream automatic differentiation (AD) tools to define and execute forward-, reverse-, and mixed-mode primitives.
 + [DualNumbers.jl](https://github.com/JuliaDiff/DualNumbers.jl) :: Julia package for representing dual numbers and for performing dual algebra.
++ [FastPow.jl](https://github.com/JuliaMath/FastPow.jl) :: This package provides a macro @fastpow for optimal addition-chain exponentiation to speed up the computation of integer powers in any Julia expression. 
 + [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) :: Juila package for performing forward mode automatic differentiation.
 + [HyperDualNumbers.jl](https://github.com/JuliaDiff/HyperDualNumbers.jl) :: Hyper-Dual Numbers for Exact Second-Derivative Calculations, is structured similar to the DualNumbers package, which aims for complete support for HyperDual types for numerical functions within Julia's Base. Currently, basic mathematical operations and trigonometric functions are supported.
 + [ReverseDiffSource.jl](https://github.com/JuliaDiff/ReverseDiffSource.jl) :: Automated differentiation by reverse accumulation. [Documentation](http://reversediffsourcejl.readthedocs.org/en/master/index.html).
+
 
 ### [General Differential Equations](https://en.wikipedia.org/wiki/Differential_equation)
 + [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl) :: Equations within the realm of this package include ordinary differential equations, stochastic ordinary differential equations (SODEs or SDEs), differential algebraic equations (DAEs), stochastic partial differential equations (SPDEs), partial differential equations (with both finite difference and finite element methods), and differential delay equations.
