@@ -78,6 +78,7 @@
 
 ## BSON
 + [BSON.jl](https://github.com/MikeInnes/BSON.jl) :: A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures.
++ [BSONify.jl](https://github.com/OliverColeman/BSONify.jl) :: Convert just about any data structure - including primitive types, arbitrary composite types defined by other modules or your own data structures, nested and recursive data structures, complicated parametrised types, and even type unions - to clean and simple BSON and back again. Save and load to/from files or a MongoDB.
 
 ## JSON
 + [Json2.jl](https://github.com/ddolgi/Json2.jl) :: JSON encoder/decoder on Julia.
