@@ -206,7 +206,6 @@ NB: Many packages may not be regularly updated to work with Julia nightlies or t
 [//]: # (######################################################################)
 [//]: # ( Platform independent comment line to bifurcate multiple sub-sections )
 [//]: # (######################################################################)
-    
 ## [Numerical Analysis](https://en.wikipedia.org/wiki/Category:Numerical_analysis)
 + [ApproXD.jl](https://github.com/floswald/ApproXD.jl) :: B-splines and linear high-dimensional approximators in multiple dimensions for Julia.
 + [AMD.jl](https://github.com/JuliaSmoothOptimizers/AMD.jl) :: Approximate Minimum Degree Ordering in Julia. 
@@ -557,6 +556,7 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [bloom.jl](https://github.com/boydgreenfield/bloom.jl) :: Bloom filter implementation in Julia.
 + [Blox.jl](https://github.com/tbreloff/Blox.jl) :: Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}
 + [Brim.jl](https://github.com/PoisotLab/Brim.jl) :: BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
++ [CommunityDetection.jl](https://github.com/JuliaGraphs/CommunityDetection.jl) :: Community Detection algorithms for LightGraphs
 + [CompressedStacks.jl](https://github.com/Azzaare/CompressedStacks.jl)
 + [ContinuumArrays.jl](https://github.com/JuliaApproximation/ContinuumArrays.jl) :: A package for representing quasi arrays with continuous indices.
 + [DeepReshapes.jl](https://github.com/lmshk/DeepReshapes.jl) :: Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
@@ -568,18 +568,31 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
    + _DOCS_:: Documentation for the Graphs.jl package [on the Julia website](http://julialang.org/Graphs.jl/index.html), also mirrored on [graphsjl-docs.readthedocs.org](https://graphsjl-docs.readthedocs.org/en/latest/)
    + [A project report on using the Graphs.jl package](http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT.
 + [GraphDataFrameBridge.jl](https://github.com/JuliaGraphs/GraphDataFrameBridge.jl) :: Tools for interoperability between DataFrame objects and LightGraphs and MetaGraphs objects.
++ [GraphIO.jl](https://github.com/JuliaGraphs/GraphIO.jl) :: Graph IO functionality for various formats.
 + [GraphLayout.jl](https://github.com/IainNZ/GraphLayout.jl) :: Graph layout algorithms in pure Julia.
++ [GraphPlot.jl](https://github.com/JuliaGraphs/GraphPlot.jl) :: Graph visualization for Julia.
++ [GraphRecipes.jl](https://github.com/JuliaPlots/GraphRecipes.jl) :: Graph-related recipes to be used with Plots.jl
 + [GraphicalModels.jl](https://github.com/johnmyleswhite/GraphicalModels.jl) :: Data structures and parsing tools for representing graphical models in Julia.
++ [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl) :: Geometric Deep Learning for Flux
 + [InfoTheory.jl](https://github.com/robertfeldt/InfoTheory.jl) :: Estimating information theoretic measures (entropy, mutual information etc) from data. 
 + [InvariantEnsembles.jl](https://github.com/dlfivefifty/InvariantEnsembles.jl) :: Sample random unitary invariant ensembles.
 + [L1DecisionTree.jl](https://github.com/neggert/L1DecisionTree.jl)
++ [LayeredLayouts.jl](https://github.com/oxinabox/LayeredLayouts.jl) :: Layered Layout Algorithms for Directed Acyclic Graphs
 + [LiftedHierarchies.jl](https://github.com/joehuchette/LiftedHierarchies.jl).
 + [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) :: An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance.
++ [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) :: Additional functionality for LightGraphs.jl
++ [LightGraphsFlows.jl](https://github.com/JuliaGraphs/LightGraphsFlows.jl) :: Flow algorithms on LightGraphs
++ [LightGraphsGraphBLAS.jl](https://github.com/abhinavmehndiratta/LightGraphsGraphBLAS.jl) :: GraphBLAS backed graphs for LightGraphs.jl
++ [LightGraphsMatching.jl](https://github.com/JuliaGraphs/LightGraphsMatching.jl) :: Matching algorithms for LightGraphs.jl
 + [Lists.jl](https://github.com/adolgert/Lists.jl) :: Singly linked list and doubly linked list for Julia.
 + [LSH.jl](https://github.com/Keno/LSH.jl) :: Locality Sensitive Hashing functions.
 + [MatrixNetworks.jl](https://github.com/nassarhuda/MatrixNetworks.jl) :: Graph and Network algorithms.
++ [MetaGraphs.jl](https://github.com/JuliaGraphs/MetaGraphs.jl) :: LightGraphs compatible graphs with metadata
 + [MinimalPerfectHashes.jl](https://github.com/soundcloud/MinimalPerfectHashes.jl) :: An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
++ [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) :: Graph-based molecule modeling toolkit for cheminformatics
++ [Multigraphs.jl](https://github.com/QuantumBFS/Multigraphs.jl)  :: A multigraph extension of LightGraphs.jl
 + [Named.jl](https://github.com/HarlanH/Named.jl) :: Julia named index and named vector types.
++ [NetworkDynamics.jl](https://github.com/FHell/NetworkDynamics.jl) :: Julia package for working with Dynamics on Networks.
 + [Networks.jl](https://github.com/daviddelaat/Networks.jl) :: A library for working with Graphs in Julia.
 + [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) :: Fortran-like arrays with arbitrary, zero or negative starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein. 
 + [Graft.jl](https://github.com/pranavtbhat/Graft.jl) :: A graph analysis toolkit for Julia that stores vertex and edge metadata in separate p
@@ -599,11 +612,18 @@ __Hash tables, Linked Lists, Functional / Trees data structures__
 + [Series.jl](https://github.com/milktrader/Series.jl) :: Series data structure in Julia.
 + [SFrames.jl](https://github.com/malmaud/SFrames.jl) :: Wrapper around the open-source components of Graphlab. 
 + [SimpleGraphs.jl](https://github.com/scheinerman/SimpleGraphs.jl) :: A module for working with simple graphs (no loops, no multiple edges, no directed edges). 
++ [SimpleHypergraphs.jl](https://github.com/pszufe/SimpleHypergraphs.jl) A simple hypergraphs package for the Julia programming language
++ [SimpleValueGraphs.jl](https://github.com/simonschoelly/SimpleValueGraphs.jl) :: A LightGraphs.jl compatible graph package for graphs with multiple vertex, edge and graph metadata.
++ [SimpleWeightedGraphs.jl](https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl) :: Simple weighted graphs. Requires LightGraphs.jl.
 + [Sims.jl](https://github.com/tshort/Sims.jl) :: Non-causal, equation-based modeling in Julia.
++ [SNAPDatasets.jl](https://github.com/JuliaGraphs/SNAPDatasets.jl) :: LightGraphs.jl-formatted graph files taken from the SNAP Datasets collection.
 + [SpatialGraphs.jl](https://github.com/sawcordwell/SpatialGraphs.jl)
++ [SpecialGraphs.jl](https://github.com/JuliaGraphs/SpecialGraphs.jl) :: Encoding special graph structures in types
 + [SumTrees.jl](https://github.com/iamed2/SumTrees.jl) :: Binary tree where the nodes contain the sum of the left and right children.
++ [SuiteSparseGraphBLAS.jl](https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl) :: Julia wrapper for SuiteSparse:GraphBLAS
 + [Trie.jl](https://github.com/JuliaLang/Trie.jl) :: Implementation of the trie data structure.
 + [TSPSubgradient.jl](https://github.com/whilo/TSPSubgradient.jl) :: A TSP approximation with the subgradient method. 
++ [VegaGraphs.jl](https://github.com/JuliaGraphs/VegaGraphs.jl) :: Create beautiful and interactive visualizations for graphs using Vega-Lite
 + [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) :: XGBoost Julia Package.
 
 ----
