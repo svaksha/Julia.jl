@@ -84,6 +84,7 @@ __Networking, web security, frameworks and other Web server related things go he
 + [HTTPClient.jl](https://github.com/JuliaWeb/HTTPClient.jl):: Currently provides an HTTP Client based on libcurl
 + [HttpParser.jl](https://github.com/JuliaWeb/HttpParser.jl) :: Julia wrapper for Joyent's http-parser.
 + [Hyperscript.jl](https://github.com/yurivish/Hyperscript.jl) :: A lightweight DOM representation for working with HTML, SVG, and CSS in Julia.
++ [julia-wasm](https://github.com/Keno/julia-wasm):: Running julia on [wasm](https://en.wikipedia.org/wiki/WebAssembly).
 + [JuliaWebServer](https://github.com/chzyer/JuliaWebServer) :: a webserver for julia.
 + [Laurence.jl](https://github.com/mneudert/Laurence.jl)
 + [LibCURL.jl](https://github.com/JuliaWeb/LibCURL.jl) :: Thin Julia wrapper of libCURL
