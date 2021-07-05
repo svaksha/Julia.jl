@@ -80,7 +80,7 @@ The Julia community has [ethical guidelines](http://julialang.org/community/stan
 ## BugReport-PullRequest
 
 1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it (via a BR, not a PR ;-)).
-2. Then, type `julia src/scrape.jl` to run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl) file and commit the `db.csv` file too.
+2. In a CLI, type `julia Julia.jl` which will run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl). Commit the `db.csv` file too.
 3. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
 5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).

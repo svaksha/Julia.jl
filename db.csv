@@ -123,6 +123,8 @@ AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning)
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/jbrea/ReinforcementLearning.jl) by @jbre,A Reinforcement Learning package.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/benhamner/ReinforcementLearning.jl) by @benhamne,A Reinforcement Learning package.
 AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),ReinforcementLearning.jl,https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearnin,A package for reinforcement learning research in Julia.
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),TopoChains.jl,https://github.com/irhum/TopoChains.jl,"A flexible data structure for multi-input multi-output model compositions of layers and functions. It provides a new data structure, a TopoChain, which was originally designed as the `Stack`, as part of Transformers.jl by Peter Cheng, and this has been repackaged here into a standalone package for general purpose use."
+AI,[REINFORCEMENTLEARNING](https://en.wikipedia.org/wiki/Reinforcement_learning),Transformers.jl,https://github.com/chengchingwen/Transformers.jl,"Julia Implementation of Transformer-based models, with `Flux.jl`."
 AI,SPEECHRECOGNITION,JuliaTorch,https://github.com/boathit/JuliaTorch,Using PyTorch in Julia Language via PyCall.
 AI,SPEECHRECOGNITION,MelGeneralizedCepstrums.jl,https://github.com/r9y9/MelGeneralizedCepstrums.jl,"It provides a `mel generalized cepstrum` analysis for spectrum envelope estimation, which includes linear predicition, mel-cepstrum, generalized cepstrum and mel-generalized cepstrum analysis for Julia."
 AI,SPEECHRECOGNITION,MFCC.jl,https://github.com/JuliaDSP/MFCC.jl,Standard Mel Frequency Cepstral Coefficients feature extraction for speech analysis.
@@ -823,6 +825,7 @@ FileIO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the S
 FileIO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 FileIO,[Avro](https://en.wikipedia.org/wiki/Apache_Avro],Avro.jl,https://github.com/JuliaData/Avro.jl," Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files."
 FileIO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures."
+FileIO,BSON,BSONify.jl,https://github.com/OliverColeman/BSONify.jl,"Convert just about any data structure - including primitive types, arbitrary composite types defined by other modules or your own data structures, nested and recursive data structures, complicated parametrised types, and even type unions - to clean and simple BSON and back again. Save and load to/from files or a MongoDB."
 FileIO,JSON,Json2.jl,https://github.com/ddolgi/Json2.jl,JSON encoder/decoder on Julia.
 FileIO,JSON,JSONTables.jl,https://github.com/JuliaData/JSONTables.jl,JSON + Tables.jl
 FileIO,JSON,LazyJSON.jl,https://github.com/samoconnor/LazyJSON.jl,LazyJSON is an interface for reading JSON data in Julia programs.
@@ -1403,6 +1406,7 @@ Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory)
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SoArrays.jl,https://github.com/simonster/SoArrays.jl,Structures of Arrays that behave like Arrays of Structures.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StaticArrays.jl,https://github.com/JuliaArrays/StaticArrays.jl,Statically sized arrays for Julia `v0.5`.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),StrideArrays.jl,https://github.com/chriselrod/StrideArrays.jl,Library supporting the ArrayInterface.jl strided array interface.
+Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),Strided.jl,https://github.com/Jutho/Strided.jl,A Julia package for strided array views and efficient manipulations thereof.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SuffixArrays.jl,https://github.com/quinnj/SuffixArrays.jl,Native Julia suffix array implementation. Derived from sais.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),SymDict.jl,https://github.com/samoconnor/SymDict.jl,Dictionaries with Symbol keys.
 Mathematics,[MatrixTheory](https://en.wikipedia.org/wiki/Category:Matrix_theory),TimeArrays.jl,https://github.com/milktrader/TimeArrays.jl,A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
@@ -1557,6 +1561,7 @@ Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathe
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Permutations.jl,https://github.com/scheinerman/Permutations.jl) by @scheinerma,Permutations class for Julia.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PermutationsA.jl,https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyr,Permutation data types and methods.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),PrimeSieve.jl,https://github.com/jlapeyre/PrimeSieve.jl,This package provides an interface to tables of primes and a sieve library.
+Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),RationalRoots.jl,https://github.com/Jutho/RationalRoots.jl,A Julia type for representing square roots of rational numbers.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),RomanNumerals.jl,https://github.com/anthonyclays/RomanNumerals.jl,Support for Roman numerals in Julia.
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),Shannon.jl,https://github.com/kzahedi/Shannon.jl,"Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data."
 Mathematics,[DISCRETEMATH](https://en.wikipedia.org/wiki/Category:Discrete_mathematics),SimplePosets.jl,https://github.com/scheinerman/SimplePosets.jl,Simple partially ordered sets for Julia.
@@ -1570,6 +1575,7 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),B
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),bloom.jl,https://github.com/boydgreenfield/bloom.jl,Bloom filter implementation in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Blox.jl,https://github.com/tbreloff/Blox.jl,"Views of concatenated AbstractArrays in Julia.  {Usable: 2, Robust: 2, Active: 1}"
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Brim.jl,https://github.com/PoisotLab/Brim.jl,BRIM modularity - Various ways to optimize the modularity of bipartite networks using BRIM in Julia.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),CommunityDetection.jl,https://github.com/JuliaGraphs/CommunityDetection.jl,Community Detection algorithms for LightGraphs
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),CompressedStacks.jl,https://github.com/Azzaare/CompressedStacks.jl,
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),ContinuumArrays.jl,https://github.com/JuliaApproximation/ContinuumArrays.jl,A package for representing quasi arrays with continuous indices.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),DeepReshapes.jl,https://github.com/lmshk/DeepReshapes.jl,Reshape arbitrarily nested structures of Tuples and Arrays in Julia.
@@ -1580,18 +1586,31 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),F
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Graphs.jl,https://github.com/JuliaLang/Graphs.jl,a package for working with graph types and algorithms in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),A project report on using the Graphs.jl package,"http://beowulf.lcs.mit.edu/18.337/projects/18.337project_huberman_report.pdf) by Samuel Huberman, PhD student at MIT",
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphDataFrameBridge.jl,https://github.com/JuliaGraphs/GraphDataFrameBridge.jl,Tools for interoperability between DataFrame objects and LightGraphs and MetaGraphs objects.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphIO.jl,https://github.com/JuliaGraphs/GraphIO.jl,Graph IO functionality for various formats.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphLayout.jl,https://github.com/IainNZ/GraphLayout.jl,Graph layout algorithms in pure Julia.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphPlot.jl,https://github.com/JuliaGraphs/GraphPlot.jl,Graph visualization for Julia.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphRecipes.jl,https://github.com/JuliaPlots/GraphRecipes.jl,Graph-related recipes to be used with Plots.jl
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GraphicalModels.jl,https://github.com/johnmyleswhite/GraphicalModels.jl,Data structures and parsing tools for representing graphical models in Julia.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),GeometricFlux.jl,https://github.com/yuehhua/GeometricFlux.jl,Geometric Deep Learning for Flux
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),InfoTheory.jl,https://github.com/robertfeldt/InfoTheory.jl,"Estimating information theoretic measures (entropy, mutual information etc) from data."
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),InvariantEnsembles.jl,https://github.com/dlfivefifty/InvariantEnsembles.jl,Sample random unitary invariant ensembles.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),L1DecisionTree.jl,https://github.com/neggert/L1DecisionTree.jl,
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LayeredLayouts.jl,https://github.com/oxinabox/LayeredLayouts.jl,Layered Layout Algorithms for Directed Acyclic Graphs
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LiftedHierarchies.jl,https://github.com/joehuchette/LiftedHierarchies.jl),
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LightGraphs.jl,https://github.com/JuliaGraphs/LightGraphs.jl,"An optimized simple graphs package designed for fast analysis using standard functions that seeks to mimic the functionality of established packages like NetworkX, but with better performance."
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LightGraphsExtras.jl,https://github.com/JuliaGraphs/LightGraphsExtras.jl,Additional functionality for LightGraphs.jl
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LightGraphsFlows.jl,https://github.com/JuliaGraphs/LightGraphsFlows.jl,Flow algorithms on LightGraphs
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LightGraphsGraphBLAS.jl,https://github.com/abhinavmehndiratta/LightGraphsGraphBLAS.jl,GraphBLAS backed graphs for LightGraphs.jl
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LightGraphsMatching.jl,https://github.com/JuliaGraphs/LightGraphsMatching.jl,Matching algorithms for LightGraphs.jl
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Lists.jl,https://github.com/adolgert/Lists.jl,Singly linked list and doubly linked list for Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),LSH.jl,https://github.com/Keno/LSH.jl,Locality Sensitive Hashing functions.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MatrixNetworks.jl,https://github.com/nassarhuda/MatrixNetworks.jl,Graph and Network algorithms.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MetaGraphs.jl,https://github.com/JuliaGraphs/MetaGraphs.jl,LightGraphs compatible graphs with metadata
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MinimalPerfectHashes.jl,https://github.com/soundcloud/MinimalPerfectHashes.jl,An implementation of minimal perfect hash function generation as described in Czech et. al. 1992. http://bit.ly/137iukS
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),MolecularGraph.jl,https://github.com/mojaie/MolecularGraph.jl,Graph-based molecule modeling toolkit for cheminformatics
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Multigraphs.jl,https://github.com/QuantumBFS/Multigraphs.jl),A multigraph extension of LightGraphs.jl
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Named.jl,https://github.com/HarlanH/Named.jl,Julia named index and named vector types.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),NetworkDynamics.jl,https://github.com/FHell/NetworkDynamics.jl,Julia package for working with Dynamics on Networks.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Networks.jl,https://github.com/daviddelaat/Networks.jl,A library for working with Graphs in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),OffsetArrays.jl,https://github.com/JuliaArrays/OffsetArrays.jl,"Fortran-like arrays with arbitrary, zero or negative starting indices for arrays in Julia. The main purpose of this package is to simplify translation from Fortran codes intensively using Fortran arrays with negative and zero starting indices, such as the codes accompanying the book Numerical Solution of Hyperbolic Partial Differential Equations by prof. John A. Trangenstein."
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Graft.jl,https://github.com/pranavtbhat/Graft.jl,A graph analysis toolkit for Julia that stores vertex and edge metadata in separate p
@@ -1611,11 +1630,18 @@ Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),S
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Series.jl,https://github.com/milktrader/Series.jl,Series data structure in Julia.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SFrames.jl,https://github.com/malmaud/SFrames.jl,Wrapper around the open-source components of Graphlab.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SimpleGraphs.jl,https://github.com/scheinerman/SimpleGraphs.jl,"A module for working with simple graphs (no loops, no multiple edges, no directed edges)."
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SimpleHypergraphs.jl,https://github.com/pszufe/SimpleHypergraphs.jl) A simple hypergraphs package for the Julia programming languag,
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SimpleValueGraphs.jl,https://github.com/simonschoelly/SimpleValueGraphs.jl,"A LightGraphs.jl compatible graph package for graphs with multiple vertex, edge and graph metadata."
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SimpleWeightedGraphs.jl,https://github.com/JuliaGraphs/SimpleWeightedGraphs.jl,Simple weighted graphs. Requires LightGraphs.jl.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Sims.jl,https://github.com/tshort/Sims.jl,"Non-causal, equation-based modeling in Julia."
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SNAPDatasets.jl,https://github.com/JuliaGraphs/SNAPDatasets.jl,LightGraphs.jl-formatted graph files taken from the SNAP Datasets collection.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SpatialGraphs.jl,https://github.com/sawcordwell/SpatialGraphs.jl,
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SpecialGraphs.jl,https://github.com/JuliaGraphs/SpecialGraphs.jl,Encoding special graph structures in types
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SumTrees.jl,https://github.com/iamed2/SumTrees.jl,Binary tree where the nodes contain the sum of the left and right children.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),SuiteSparseGraphBLAS.jl,https://github.com/abhinavmehndiratta/SuiteSparseGraphBLAS.jl,Julia wrapper for SuiteSparse:GraphBLAS
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),Trie.jl,https://github.com/JuliaLang/Trie.jl,Implementation of the trie data structure.
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),TSPSubgradient.jl,https://github.com/whilo/TSPSubgradient.jl,A TSP approximation with the subgradient method.
+Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),VegaGraphs.jl,https://github.com/JuliaGraphs/VegaGraphs.jl,Create beautiful and interactive visualizations for graphs using Vega-Lite
 Mathematics,[GraphTheory](https://en.wikipedia.org/wiki/Category:Graph_theory),XGBoost.jl,https://github.com/dmlc/XGBoost.jl,XGBoost Julia Package.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AbstractTensors.jl,https://github.com/chakravala/AbstractTensors.jl,Tensor algebra abstract type interoperability with vector bundle parameter.
 Mathematics,[Geometry](http://en.wikipedia.org/wiki/Geometry),AffineSpaces.jl,https://github.com/anj1/AffineSpaces.jl,"Uniform representation and computational geometry on affine subspaces (points, lines, planes, etc.) in Rⁿ."

@@ -314,6 +314,7 @@ __Special Array Types and Algorithms__
 + [SoArrays.jl](https://github.com/simonster/SoArrays.jl) :: Structures of Arrays that behave like Arrays of Structures.
 + [StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) :: Statically sized arrays for Julia `v0.5`.
 + [StrideArrays.jl](https://github.com/chriselrod/StrideArrays.jl) :: Library supporting the ArrayInterface.jl strided array interface. 
++ [Strided.jl](https://github.com/Jutho/Strided.jl) :: A Julia package for strided array views and efficient manipulations thereof.
 + [SuffixArrays.jl](https://github.com/quinnj/SuffixArrays.jl) :: Native Julia suffix array implementation. Derived from sais.
 + [SymDict.jl](https://github.com/samoconnor/SymDict.jl) :: Dictionaries with Symbol keys.
 + [TimeArrays.jl](https://github.com/milktrader/TimeArrays.jl) :: A temporary repo exploring the union of SeriesPair arrays into multicolumn arrays with similar behavior.
@@ -538,6 +539,7 @@ __Julia implementations of solvers for Numerical Linear Algebra (NLA) == Numeric
 + [Permutations.jl](https://github.com/scheinerman/Permutations.jl) by @scheinerman :: Permutations class for Julia.
 + [PermutationsA.jl](https://github.com/jlapeyre/PermutationsA.jl) by @jlapeyre :: Permutation data types and methods. 
 + [PrimeSieve.jl](https://github.com/jlapeyre/PrimeSieve.jl) :: This package provides an interface to tables of primes and a sieve library.
++ [RationalRoots.jl](https://github.com/Jutho/RationalRoots.jl) :: A Julia type for representing square roots of rational numbers.
 + [RomanNumerals.jl](https://github.com/anthonyclays/RomanNumerals.jl) :: Support for Roman numerals in Julia.
 + [Shannon.jl](https://github.com/kzahedi/Shannon.jl) :: Entropy, Mutual Information, KL-Divergence related to Shannon's information theory and functions to binarize data.
 + [SimplePosets.jl](https://github.com/scheinerman/SimplePosets.jl) :: Simple partially ordered sets for Julia.

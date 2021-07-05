@@ -166,7 +166,8 @@
 + [ReinforcementLearning.jl](https://github.com/jbrea/ReinforcementLearning.jl) by @jbrea :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/benhamner/ReinforcementLearning.jl) by @benhamner :: A Reinforcement Learning package.
 + [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) by @JuliaReinforcementLearning :: A package for reinforcement learning research in Julia.
-
++ [TopoChains.jl](https://github.com/irhum/TopoChains.jl) :: A flexible data structure for multi-input multi-output model compositions of layers and functions. It provides a new data structure, a TopoChain, which was originally designed as the `Stack`, as part of Transformers.jl by Peter Cheng, and this has been repackaged here into a standalone package for general purpose use.
++ [Transformers.jl](https://github.com/chengchingwen/Transformers.jl) :: Julia Implementation of Transformer-based models, with `Flux.jl`.
 
 ----
 
