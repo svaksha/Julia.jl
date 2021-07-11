@@ -208,8 +208,8 @@
 + [Typeclass.jl](https://github.com/jasonmorton/Typeclass.jl) :: Prototype typeclasses for Julia.
 + [TypedDelegation.jl](https://github.com/JuliaArbTypes/TypedDelegation.jl) ::  Use a Type's fields as operands for the type's operations and easily apply functions onto fields' values.
 + [TypeGraph.jl](https://github.com/johnmyleswhite/TypeGraph.jl) :: Visualize the Julia type system.
-+ [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
-
++ [TypeTree.jl](https://github.com/johnmyleswhite/TypeTree.jl) by @johnmyleswhite :: source code and the [interactive D3 visualization](http://johnmyleswhite.com/typetree/tree.html) of a Julia type tree.
++ [TypeTree.jl](https://github.com/cnaak/TypeTree.jl) by @cnaak :: A microscopic package aimed at providing the simple utility of text-based visual type tree inspection.
 
 ###### Resources
 + Jeff Bezanson on [The State of the Type System](https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017.
