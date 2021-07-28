@@ -66,12 +66,12 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
       - [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: Neighbour list for particle simulations based on matscipy.
       - [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
 + [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes.
-+ [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) :: Simulation of tight-binding models on arbitrary lattices
++ [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) :: Simulation of tight-binding models on arbitrary lattices.
 + [Molly.jl](https://github.com/jgreener64/Molly.jl) :: Molecular dynamics in Julia.
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
-+ [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia
-+ [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: High-level wave functions methods for energy computations.
++ [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia.
++ [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: Development plataform and production level implementations of wave function methods.
 
 ## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
