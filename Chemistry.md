@@ -71,7 +71,7 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 + [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia
-
++ [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: High-level wave functions methods for energy computations.
 
 ## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
