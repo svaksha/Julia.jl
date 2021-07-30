@@ -1,9 +1,10 @@
 # Chemistry in Julia!
-+ [General Resources](#general-resources)
-+ [Chemical File Formats and Input Output](#chemical-file-formats-and-input-output)
-+ [Biochemistry](#biochemistry)
+
++ [§1. Chemical File Formats and Input Output](#1-chemical-file-formats-and-input-output)
++ [§2. Biochemistry](#2-biochemistry)
 + [Chemoinformatics](#chemoinformatics)
 + [Chemometrics](#chemometrics)
++ [General Resources](#general-resources)
 + [Physical Chemistry](#physical-chemistry)
    - [Reaction Kinetics](#reaction-kinetics)
    - [Thermochemistry](#thermochemistry)
@@ -13,18 +14,14 @@
 
 ----
 
-## General Resources
-+ [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
-+ [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
-+ [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
-+ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
-## Chemical File Formats and Input Output
+# §1. Chemical File Formats and Input Output <span id="1-chemical-file-formats-and-input-output"><span>
+
 + [Chemfiles.jl](https://github.com/chemfiles/Chemfiles.jl) :: A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 + [CrystalInfoFramework.jl](https://github.com/jamesrhester/CrystalInfoFramework.jl) :: Support for reading and writing Crystallographic Information Framework data files and dictionaries.
 
 
-## Biochemistry
+# §2. Biochemistry <span id="2-biochemistry"><span>
 + [MethylUtils.jl](https://github.com/nw11/MethylUtils.jl) :: Utilities for bisulfite sequencing data.
 + [DynamicTimeWarp.jl](https://github.com/joefowler/DynamicTimeWarp.jl) :: Implement Dynamic Time Warping for sequence alignment in Julia.
 + [BioSymbols.jl](https://github.com/BioJulia/BioSymbols.jl) :: Nucleic and amino acid primitive types 
@@ -39,6 +36,12 @@
 ## Chemometrics
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 + [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
+
+# General Resources
++ [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
++ [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
++ [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
++ [Computing colors of molecules with Julia](https://github.com/jiahao/ijulia-notebooks), the [Colors of chemistry notebook](http://jiahao.github.io/julia-blog/2014/06/09/the-colors-of-chemistry.html) and [Chemistry blog](http://jiahao.github.io/julia-blog/)
 
 ## [Physical Chemistry](https://en.wikipedia.org/wiki/Category:Physical_chemistry)
 
@@ -67,11 +70,11 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
       - [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
 + [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes.
 + [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) :: Simulation of tight-binding models on arbitrary lattices.
++ [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: Development plataform and production level implementations of wave function methods.
 + [Molly.jl](https://github.com/jgreener64/Molly.jl) :: Molecular dynamics in Julia.
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 + [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia.
-+ [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: Development plataform and production level implementations of wave function methods.
 
 ## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.

@@ -421,30 +421,31 @@ Biology,Resources-Teaching,capetown2014,https://github.com/aidanbudd/capetown201
 Biology,Resources-Teaching,course_EMBO_at_TGAC_PPI_Sep2015,https://github.com/aidanbudd/course_EMBO_at_TGAC_PPI_Sep2015,"Program and some material for EMBO Practical Course on computational analysis of protein-protein interactions: From sequences to networks, taking place at TGAC, Norwich, UK, Sep-Oct 2015."
 Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teaching [applied bioinformatics / compbio,http://daudin.icmb.utexas.edu/wiki/index.php/List_of_sessions),
 Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
-Chemistry,GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
-Chemistry,GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
-Chemistry,GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-Chemistry,ChemicalFileFormatsandInputOutput,Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
-Chemistry,ChemicalFileFormatsandInputOutput,CrystalInfoFramework.jl,https://github.com/jamesrhester/CrystalInfoFramework.jl,Support for reading and writing Crystallographic Information Framework data files and dictionaries.
-Chemistry,Biochemistry,MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
-Chemistry,Biochemistry,DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
-Chemistry,Biochemistry,BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
+Chemistry,"§1.ChemicalFileFormatsandInputOutput<spanid=""1-chemical-file-formats-and-input-output""><span>",Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
+Chemistry,"§1.ChemicalFileFormatsandInputOutput<spanid=""1-chemical-file-formats-and-input-output""><span>",CrystalInfoFramework.jl,https://github.com/jamesrhester/CrystalInfoFramework.jl,Support for reading and writing Crystallographic Information Framework data files and dictionaries.
+Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
+Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
+Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
 Chemistry,Chemoinformatics,MolecularGraph.jl,https://github.com/mojaie/MolecularGraph.jl,a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
 Chemistry,Chemoinformatics,OpenSMILES.jl,https://github.com/caseykneale/OpenSMILES.jl,OpenSMILES string representations to LightGraphs.jl format.
 Chemistry,Chemoinformatics,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
 Chemistry,Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 Chemistry,Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
+Chemistry,GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
+Chemistry,GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
+Chemistry,GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
 Chemistry,ReactionKinetics,ChemicalKinetics.jl,https://github.com/papamarkou/ChemicalKinetics.jl, DiffEq related functionality for defining biological models.
 Chemistry,Thermochemistry,CoolProp.jl,https://github.com/CoolProp/CoolProp.jl,CoolProp wrapper for Julia
 Chemistry,Thermochemistry,Lavoisier.jl,https://github.com/longemen3000/lavoisier,Thermodynamics models of gasseus compounds.
 Chemistry,Thermochemistry,Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamics properties of wet air and gasses.
 Chemistry,SimulationMethods,JuliaMolSim,https://github.com/JuliaMolSim,Github organization for molecular simulation in Julia
 Chemistry,SimulationMethods,Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
-Chemistry,SimulationMethods,Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices
+Chemistry,SimulationMethods,Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices.
+Chemistry,SimulationMethods,Fermi.jl,https://github.com/FermiQC/Fermi.jl,Development plataform and production level implementations of wave function methods.
 Chemistry,SimulationMethods,Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
 Chemistry,SimulationMethods,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,SimulationMethods,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
-Chemistry,SimulationMethods,QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia
+Chemistry,SimulationMethods,QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,HydrocarbonNets.jl,https://github.com/Ismael-VC/HydrocarbonNets.jl,Artificial Hydrocarbon Networks (AHNs) in Julia.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,Lattices.jl,https://github.com/JuliaPhysics/Lattices.jl,A Lattice Library for Julia.
@@ -785,14 +786,10 @@ Earth-Science,METEOROLOGY,Met_Plots_Models.jl,https://github.com/zhujinxuan/Met_
 Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiative transfer in Julia.
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
 FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
-FileIO,SavingJuliaObjects,JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
-FileIO,SavingJuliaObjects,JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
-FileIO,BinaryIO,FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
-FileIO,BinaryIO,HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
-FileIO,BinaryIO,HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
-FileIO,BinaryIO,HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
-FileIO,BinaryIO,LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
-FileIO,BinaryIO,StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
+FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
+FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
+FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
 FileIO,DataFormats,AIDA.jl,https://github.com/jstrube/AIDA.jl,This package implements simple readers for legacy AIDA files.
 FileIO,DataFormats,BEncode.jl,https://github.com/joshuamiller/BEncode.jl,A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
 FileIO,DataFormats,BDF.jl,https://github.com/sam81/BDF.jl,Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
@@ -955,17 +952,21 @@ FileIO,GeneralIO,MapD.jl,https://github.com/r3tex/MapD.jl,A julia library for co
 FileIO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
 FileIO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
 FileIO,GeneralIO,ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
-FileIO,ImageFormats,AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
-FileIO,ImageFormats,DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
-FileIO,ImageFormats,FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
-FileIO,ImageFormats,ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,"Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading."
-FileIO,ImageFormats,NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
-FileIO,ImageFormats,NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
-FileIO,ImageFormats,Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia support for Netpbm (.ppm, .pgm, .pbm)."
-FileIO,ImageFormats,OMETIFF.jl,https://github.com/tlnagy/OMETIFF.jl,I/O operations for OME-TIFF files in Julia with a focus on correctness.
-FileIO,ImageFormats,QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
-FileIO,ImageFormats,TIFF.jl,https://github.com/rephorm/TIFF.jl,is the TIFF image file support for Julia.
-FileIO,ImageFormats,VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,"Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading."
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia support for Netpbm (.ppm, .pgm, .pbm)."
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",OMETIFF.jl,https://github.com/tlnagy/OMETIFF.jl,I/O operations for OME-TIFF files in Julia with a focus on correctness.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",TIFF.jl,https://github.com/rephorm/TIFF.jl,is a TIFF image file support for Julia.
+FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
+FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
+FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
+FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
 Graphics,,julia-logo-graphics,https://github.com/JuliaLang/julia-logo-graphics,official versions of the Julia logo.
 Graphics,[GraphicDesign](https://en.wikipedia.org/wiki/Category:Graphic_design),FIGlet.jl,https://github.com/kdheepak/FIGlet.jl,Fonts port of FIGlet.
 Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.

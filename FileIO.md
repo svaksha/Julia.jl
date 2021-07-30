@@ -1,5 +1,4 @@
-+ [Saving Julia Objects](#saving-julia-objects)
-+ [Binary IO](#binary-io)
++ [§1. Binary IO](#1-binary-io)
 + [Data Formats](#data-formats)
    + [Avro](#avro)
    + [BSON](#bson)
@@ -16,7 +15,8 @@
 + [Document Processors](#document-processors)
    + [LaTeX](#latex)
 + [General IO](#general-io)
-+ [Image Formats](#image-formats)
++ [§6. Graphics Format](#6-Graphics-Format)
++ [§§7. Scientific Data Formats](#7-Scientific-Data-Formats)
 
 ----
 
@@ -24,14 +24,9 @@
 
 ----
 
-# Saving Julia Objects
-+ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading Julia variables & types
-+ [JLD2](https://github.com/simonster/JLD2) :: Next-generation successor to JLD.
 
-# Binary IO
+# §1. Binary IO <span id="1-binary-io"><span>
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
-+ [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
-+ [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) :: Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions.
 + [StrPack.jl](https://github.com/pao/StrPack.jl) :: For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
@@ -253,7 +248,7 @@
 
 ----
 
-# Image Formats
+# [§6. Graphics Format](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics) <span id="6-Graphics-Format"><span>
 + [AndorSIF.jl](https://github.com/JuliaIO/AndorSIF.jl) :: This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
 + [DICOM.jl](https://github.com/ihnorton/DICOM.jl) :: DICOM interface for the Julia language.
 + [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
@@ -263,5 +258,19 @@
 + [Netpbm.jl](https://github.com/JuliaIO/Netpbm.jl) :: Julia support for Netpbm (.ppm, .pgm, .pbm).
 + [OMETIFF.jl](https://github.com/tlnagy/OMETIFF.jl) :: I/O operations for OME-TIFF files in Julia with a focus on correctness.
 + [QuartzImageIO.jl](https://github.com/JuliaIO/QuartzImageIO.jl) :: Thin wrapper around OSX's native image format saving and loading
-+ [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is the TIFF image file support for Julia.
++ [TIFF.jl](https://github.com/rephorm/TIFF.jl) :: is a TIFF image file support for Julia.
+* [TiffImages.jl](https://github.com/tlnagy/TiffImages.jl) :: This package aims to be a fast, minimal, and correct TIFF I/O, reader and writer, written in Julia. 
 + [VideoIO.jl](https://github.com/kmsquire/VideoIO.jl) :: A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows.
+
+----
+
+
+# [§7. Scientific Data Formats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange)) <span id="7-Scientific-Data-Formats"><span>
+
++ [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
++ [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.
++ [JLD.jl](https://github.com/JuliaLang/JLD.jl) :: High-level interface to HDF5 for saving and loading Julia variables & types
++ [JLD2](https://github.com/simonster/JLD2) :: Next-generation successor to JLD.
+
+
+
