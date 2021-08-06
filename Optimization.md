@@ -31,6 +31,7 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
++ [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) :: Julia interface for CUTEst.
 + [DReal.jl](https://github.com/zenna/DReal.jl) :: A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
 + [Ipopt.jl](https://github.com/JuliaOpt/Ipopt.jl) :: Julia interface to the Ipopt nonlinear solver.
 + [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: A standardized API to evaluate the functions and derivatives of nonlinear optimization models.
@@ -59,7 +60,6 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [CPLEX.jl](https://github.com/JuliaOpt/CPLEX.jl) :: The CPLEX.jl package provides an interface for using IBM's CPLEX Optimizer™ from the Julia language. You cannot use CPLEX.jl without having purchased and installed a copy of CPLEX Optimizer™ from IBM. This package is available free of charge and in no way replaces or alters any functionality of IBM's CPLEX Optimizer product.
 + [CSDP.jl](https://github.com/JuliaOpt/CSDP.jl) :: Julia wrapper to [CSDP](https://projects.coin-or.org/Csdp/) semidefinite programming solver.
 + [CoinOptServices.jl](https://github.com/JuliaOpt/CoinOptServices.jl) ::  Julia interface to COIN-OR [Optimization Services](https://projects.coin-or.org/OS).
-+ [CUTEst.jl](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) :: Julia interface for CUTEst, a fork of [CUTEst.jl](https://github.com/lpoo/CUTEst.jl) by @lpoo.
 + [DDUS.jl](https://github.com/vgupta1/DDUS.jl) :: Data-driven Uncertainty Sets for the JuMPeR framework.
 + [ECOS.jl](https://github.com/JuliaOpt/ECOS.jl) :: Julia wrapper for the ECOS conic optimization solver.
 + [EAGO.jl](https://github.com/MatthewStuber/EAGO.jl) :: A development environment for robust and global optimization.
