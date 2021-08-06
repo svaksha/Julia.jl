@@ -35,6 +35,7 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [Ipopt.jl](https://github.com/JuliaOpt/Ipopt.jl) :: Julia interface to the Ipopt nonlinear solver.
 + [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: A standardized API to evaluate the functions and derivatives of nonlinear optimization models.
 + [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) :: Package to call the NLopt nonlinear-optimization library from the Julia language.
++ [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) :: Univariate and multivariate optimization solvers in Julia.
 + [Quadprog.jl](https://github.com/harmeling/Quadprog.jl) :: A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
 + [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) :: Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
 
@@ -91,7 +92,6 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [NEOS.jl](https://github.com/odow/NEOS.jl) :: A Julia interface for the NEOS Optimisation Server.
 + [NewOptimizer.jl](https://github.com/Keno/NewOptimizer.jl) :: WIP for new optimizer for julia base.
 + [NODAL.jl](https://github.com/phrb/NODAL.jl) :: is an Open Distributed Autotuning Library in Julia.
-+ [Optim.jl](https://github.com/JuliaOpt/Optim.jl) :: A basic optimization algorithms implementation.
 + [OSQP.jl](https://github.com/oxfordcontrol/OSQP.jl) :: A Julia wrapper for the Operator Splitting Quadratic Program (OSQP) solver is a numerical optimization package.
 + [ParallelGenocop.jl](https://github.com/display-none/ParallelGenocop.jl) :: Parallel implementation of Genocop - a genetic algorithm for numerical optimization problems with linear constraints.
 + [pikaia.jl](https://github.com/tmeits/pikaia.jl) :: Genetic Algorithms (GA's).
