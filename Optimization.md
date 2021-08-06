@@ -20,7 +20,6 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [Gurobi.jl](https://github.com/JuliaOpt/Gurobi.jl) :: is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP).
 + [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
 + [NLTester](https://github.com/IainNZ/NLTester) :: Code for benchmarks comparing AMPL, Julia, and YALMIP (MATLAB) for nonlinear modeling.
-+ [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: An NLP Interface for JuMP Models.
 + [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions.
 + [Tulip.jl](https://github.com/ds4dm/Tulip.jl) :: is an open-source interior-point solver for linear optimization, written in pure Julia. It implements the homogeneous primal-dual interior-point algorithm with multiple centrality corrections, and therefore handles unbounded and infeasible problems.
 
@@ -34,6 +33,7 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [Convex.jl](https://github.com/JuliaOpt/Convex.jl) :: A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
 + [DReal.jl](https://github.com/zenna/DReal.jl) :: A Julia wrapper for Nonlinear SMT solving using  the dReal SMT solver.
 + [Ipopt.jl](https://github.com/JuliaOpt/Ipopt.jl) :: Julia interface to the Ipopt nonlinear solver.
++ [NLPModels.jl](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) :: A standardized API to evaluate the functions and derivatives of nonlinear optimization models.
 + [NLopt.jl](https://github.com/JuliaOpt/NLopt.jl) :: Package to call the NLopt nonlinear-optimization library from the Julia language.
 + [Quadprog.jl](https://github.com/harmeling/Quadprog.jl) :: A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
 + [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) :: Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
