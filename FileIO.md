@@ -1,5 +1,5 @@
-+ [§1. Binary IO](#1-binary-io)
-+ [Data Formats](#data-formats)
++ [§1. Binary IO](#1-Binary-IO)
++ [§2. Data Formats](#2-Data-Formats)
    + [Avro](#avro)
    + [BSON](#bson)
    + [JSON](#json)
@@ -9,23 +9,21 @@
    + [Tabular Data](#tabular-data)
    + [XDMF](#xdmf)
    + [XML](#xml)
-+ [Data Type](#data-type)
++ [§3. Data Type](#3-Data-Type)
     + [Composite Data Types](#composite-data-types)
     + [Type Parameters](#type-parameters)
-+ [Document Processors](#document-processors)
-   + [LaTeX](#latex)
-+ [General IO](#general-io)
++ [§4. Document Processors](#4-Document-Processors)
+   + [§4.1. Document Generator](#4-1-Document-Generator)
+   + [§4.2. LaTeX](#4-2-LaTeX)
++ [§5. General IO](#5-General-IO)
 + [§6. Graphics Format](#6-Graphics-Format)
-+ [§§7. Scientific Data Formats](#7-Scientific-Data-Formats)
++ [§7. Scientific Data Formats](#7-Scientific-Data-Formats)
 
 ----
-
-+ [Schemata.jl](https://github.com/JockLawrie/Schemata.jl) :: Schema (specification of a data set) for tabular data sets in Julia. 
-
 ----
 
 
-# §1. Binary IO <span id="1-binary-io"><span>
+# §1. Binary IO. <span id="1-Binary-IO"><span>
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) :: Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions.
@@ -34,7 +32,7 @@
 ----
 
 
-# Data Formats
+# §2. Data Formats. <span id="2-Data-Formats"><span>
 **Libraries for Data serialization and (human readable) file formats.**
 + [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
 + [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
@@ -105,6 +103,7 @@
 + [Tables.jl](https://github.com/JuliaData/Tables.jl) :: This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 + [TableWidgets.jl](https://github.com/piever/TableWidgets.jl) :: Interactive widgets to work with tabular data in Julia.
 + [ReadWriteDlm2](https://github.com/strickek/ReadWriteDlm2.jl) :: CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types. 
++ [Schemata.jl](https://github.com/JockLawrie/Schemata.jl) :: Schema (specification of a data set) for tabular data sets in Julia. 
 
 ## XDMF
 + [XDMF.jl](https://github.com/JuliaFEM/Xdmf.jl) :: A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
@@ -129,7 +128,7 @@
 
 ----
 
-# [Data Type](http://en.wikipedia.org/wiki/Data_type)
+# §3. [Data Type](http://en.wikipedia.org/wiki/Data_type).  <span id="3-Data-Type"><span>
 + [Arrow.jl](https://github.com/ExpandingMan/Arrow.jl) :: Julia implementation of the Apache Arrow data standard. 
 + [ASCIIByte.jl](https://github.com/Elin-/ASCIIByte.jl) :: Julia package to deal with Characters of 8 bits.
 + [AutoFormat.jl](https://github.com/yulijia/AutoFormat.jl)
@@ -214,13 +213,22 @@
 ----
 
 
-# [Document Processors](https://en.wikipedia.org/wiki/Document_processor)
+# §4. [Document Processors](https://en.wikipedia.org/wiki/Document_processor). <span id="4-Document-Processors"><span>
 + [ConfParser.jl](https://github.com/templarlabs/ConfParser.jl) :: Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes.
 + [ExcelReaders.jl](https://github.com/davidanthoff/ExcelReaders.jl) :: A package that provides functionality to read Excel files.
 + [JuliaReport.jl](https://github.com/mpastell/JuliaReport.jl) :: A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
 + [Taro.jl](https://github.com/aviks/Taro.jl) :: can process office documents in Julia.
 
-### LaTeX
+
+## §4.1. Document Generator <span id="4-1-Document-Generator"><span>
++ [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
++ [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
++ [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
++ [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
++ [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) :: Typeset scattered graph data rewriter based on LaTeX nodes.
+
+
+## §4.2. LaTeX. <span id="4-2-LaTeX"><span>
 + [Expr2LaTeX.jl](https://github.com/oxinabox/Expr2LaTeX.jl) :: Take a julia `Expr` and render it as LaTeX.
 + [jlcode](https://github.com/wg030/jlcode) :: A latex package for displaying Julia code with the listings package. 
 + [LaTeX.jl](https://github.com/rened/LaTeX.jl) :: Create LaTeX documents from within Julia, including image handling. 
@@ -229,17 +237,9 @@
 + [LaTeXStrings.jl](https://github.com/stevengj/LaTeXStrings.jl) :: This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson.
 + [LaTeXTools.jl](https://github.com/jgoldfar/LaTeXTools.jl) :: Tools for automatic manipulation and management of LaTeX Documents.
 
-
-## Document Generator 
-+ [Judo.jl](https://github.com/dcjones/Judo.jl) :: is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways.
-+ [HelpTestbed.jl](https://github.com/tshort/HelpTestbed.jl) :: package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package.
-+ [Publish.jl](https://github.com/dressel/Publish.jl) :: A package for publishing code - uses Latex to create a pdf with your code and output. 
-+ [Report.jl](https://github.com/sveme/Report.jl) :: A Markdown report writer for Julia.
-+ [VerTeX.jl](https://github.com/chakravala/VerTeX.jl) :: Typeset scattered graph data rewriter based on LaTeX nodes.
-
 ----
 
-# General IO
+# §5. General IO <span id="5-General-IO"><span>
 + [FileIO.jl](https://github.com/JuliaIO/FileIO.jl) :: general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions.
 + [MapD.jl](https://github.com/r3tex/MapD.jl) :: A julia library for conveniently inserting data to MapD.
 + [SerialPorts.jl](https://github.com/sjkelly/SerialPorts.jl) :: SerialPort IO streams in Julia.
@@ -248,7 +248,7 @@
 
 ----
 
-# [§6. Graphics Format](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics) <span id="6-Graphics-Format"><span>
+# §6. [Graphics Format](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics) <span id="6-Graphics-Format"><span>
 + [AndorSIF.jl](https://github.com/JuliaIO/AndorSIF.jl) :: This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
 + [DICOM.jl](https://github.com/ihnorton/DICOM.jl) :: DICOM interface for the Julia language.
 + [FITSIO.jl](https://github.com/JuliaAstro/FITSIO.jl) :: Flexible Image Transport System (FITS) support for Julia.
@@ -265,7 +265,7 @@
 ----
 
 
-# [§7. Scientific Data Formats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange)) <span id="7-Scientific-Data-Formats"><span>
+# §7. [Scientific Data Formats](https://en.wikipedia.org/wiki/List_of_file_formats#Multi-domain) <span id="7-Scientific-Data-Formats"><span>
 
 + [HDF5.jl](https://github.com/JuliaIO/HDF5.jl) :: Lib to read HDF5 format files, a widely-used file format for general data.
 + [HDF5Logger.jl](https://github.com/tuckermcclure/HDF5Logger.jl) :: Allows logging individual frames of data to an HDF5 file over time.

@@ -423,34 +423,34 @@ Biology,Resources-Teaching,an Quigley's (@mucociliary on twitter) notes on teach
 Biology,Resources-Teaching,Ubiquitous Genomics,http://ubiquitousgenomics.teamerlich.org,COMSE6998/ Class 2015 by Prof. Yaniv Erlich. The [source is available on github](https://github.com/erlichya/ubiquitousgenomics).
 Chemistry,"§1.ChemicalFileFormatsandInputOutput<spanid=""1-chemical-file-formats-and-input-output""><span>",Chemfiles.jl,https://github.com/chemfiles/Chemfiles.jl,A Julia binding for the [Chemfiles](https://github.com/chemfiles/chemfiles) library for reading and writing chemistry related files.
 Chemistry,"§1.ChemicalFileFormatsandInputOutput<spanid=""1-chemical-file-formats-and-input-output""><span>",CrystalInfoFramework.jl,https://github.com/jamesrhester/CrystalInfoFramework.jl,Support for reading and writing Crystallographic Information Framework data files and dictionaries.
-Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
-Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
-Chemistry,"§2.Biochemistry<spanid=""2-biochemistry""><span>",BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
-Chemistry,Chemoinformatics,MolecularGraph.jl,https://github.com/mojaie/MolecularGraph.jl,a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
-Chemistry,Chemoinformatics,OpenSMILES.jl,https://github.com/caseykneale/OpenSMILES.jl,OpenSMILES string representations to LightGraphs.jl format.
-Chemistry,Chemoinformatics,Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
-Chemistry,Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
-Chemistry,Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
-Chemistry,GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
-Chemistry,GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
-Chemistry,GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
-Chemistry,ReactionKinetics,ChemicalKinetics.jl,https://github.com/papamarkou/ChemicalKinetics.jl, DiffEq related functionality for defining biological models.
-Chemistry,Thermochemistry,CoolProp.jl,https://github.com/CoolProp/CoolProp.jl,CoolProp wrapper for Julia
-Chemistry,Thermochemistry,Lavoisier.jl,https://github.com/longemen3000/lavoisier,Thermodynamics models of gasseus compounds.
-Chemistry,Thermochemistry,Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamics properties of wet air and gasses.
-Chemistry,SimulationMethods,JuliaMolSim,https://github.com/JuliaMolSim,Github organization for molecular simulation in Julia
-Chemistry,SimulationMethods,Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
-Chemistry,SimulationMethods,Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices.
-Chemistry,SimulationMethods,Fermi.jl,https://github.com/FermiQC/Fermi.jl,Development plataform and production level implementations of wave function methods.
-Chemistry,SimulationMethods,Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
-Chemistry,SimulationMethods,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
-Chemistry,SimulationMethods,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
-Chemistry,SimulationMethods,QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia.
+Chemistry,"§2.Biochemistry<spanid=""2-Biochemistry""><span>",MethylUtils.jl,https://github.com/nw11/MethylUtils.jl,Utilities for bisulfite sequencing data.
+Chemistry,"§2.Biochemistry<spanid=""2-Biochemistry""><span>",DynamicTimeWarp.jl,https://github.com/joefowler/DynamicTimeWarp.jl,Implement Dynamic Time Warping for sequence alignment in Julia.
+Chemistry,"§2.Biochemistry<spanid=""2-Biochemistry""><span>",BioSymbols.jl,https://github.com/BioJulia/BioSymbols.jl,Nucleic and amino acid primitive types
+Chemistry,"§3.Chemoinformatics<spanid=""3-Chemoinformatics""><span>",MolecularGraph.jl,https://github.com/mojaie/MolecularGraph.jl,a graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia.
+Chemistry,"§3.Chemoinformatics<spanid=""3-Chemoinformatics""><span>",OpenSMILES.jl,https://github.com/caseykneale/OpenSMILES.jl,OpenSMILES string representations to LightGraphs.jl format.
+Chemistry,"§3.Chemoinformatics<spanid=""3-Chemoinformatics""><span>",Synchrony.jl,https://github.com/simonster/Synchrony.jl,Coherence/phase-locking statistics in Julia.
+Chemistry,§4.Chemometrics,ChemometricsTools.jl,https://github.com/caseykneale/ChemometricsTools.jl,A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
+Chemistry,§4.Chemometrics,Qlab.jl,https://github.com/blakejohnson/Qlab.jl,is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
+Chemistry,§5.GeneralResources,PeriodicTable.jl,https://github.com/JuliaPhysics/PeriodicTable.jl,Well its the periodic table - in Julia!
+Chemistry,§5.GeneralResources,PhysicalConstants.jl,https://github.com/JuliaPhysics/PhysicalConstants.jl,A package containing curated physical constants.
+Chemistry,§5.GeneralResources,Videos for JuliaQuantum,https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups,
+Chemistry,"§6.1.ReactionKinetics<spanid=""#6-1-Reaction-Kinetics""><span>",ChemicalKinetics.jl,https://github.com/papamarkou/ChemicalKinetics.jl, DiffEq related functionality for defining biological models.
+Chemistry,"§6.2.Thermochemistry<spanid=""#6-2-Thermochemistry""><span>",CoolProp.jl,https://github.com/CoolProp/CoolProp.jl,CoolProp wrapper for Julia
+Chemistry,"§6.2.Thermochemistry<spanid=""#6-2-Thermochemistry""><span>",Lavoisier.jl,https://github.com/longemen3000/lavoisier,Thermodynamics models of gasseus compounds.
+Chemistry,"§6.2.Thermochemistry<spanid=""#6-2-Thermochemistry""><span>",Psychro.jl,https://github.com/pjabardo/Psychro.jl,Thermodynamics properties of wet air and gasses.
+Chemistry,§7.SimulationMethods,JuliaMolSim,https://github.com/JuliaMolSim,Github organization for molecular simulation in Julia
+Chemistry,§7.SimulationMethods,Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
+Chemistry,§7.SimulationMethods,Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices.
+Chemistry,§7.SimulationMethods,Fermi.jl,https://github.com/FermiQC/Fermi.jl,Development plataform and production level implementations of wave function methods.
+Chemistry,§7.SimulationMethods,Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
+Chemistry,§7.SimulationMethods,pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
+Chemistry,§7.SimulationMethods,QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
+Chemistry,§7.SimulationMethods,QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,ClassicalLaminateTheory.jl,https://github.com/goedman/ClassicalLaminateTheory.jl,Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,HydrocarbonNets.jl,https://github.com/Ismael-VC/HydrocarbonNets.jl,Artificial Hydrocarbon Networks (AHNs) in Julia.
 Chemistry,[SolidStateChemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry)andMaterialsScience,Lattices.jl,https://github.com/JuliaPhysics/Lattices.jl,A Lattice Library for Julia.
-Chemistry,Uncategorized,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
-Chemistry,Uncategorized,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
+Chemistry,§8.Uncategorized,Cliffords.jl,https://github.com/BBN-Q/Cliffords.jl,This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
+Chemistry,§8.Uncategorized,Dimers.jl,https://github.com/sswatson/Dimers.jl,"Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29"
 DataScience,SOFTWARE,CommonCrawl.jl,https://github.com/tanmaykm/CommonCrawl.jl,Interface to common crawl dataset on Amazon S3.
 DataScience,SOFTWARE,Faker.jl,https://github.com/codeneomatrix/Faker.jl,A package that generates fake data.
 DataScience,SOFTWARE,FaceDatasets.jl,https://github.com/dfdx/FaceDatasets.jl,A package for easy access to face-related datasets.
@@ -785,41 +785,40 @@ Earth-Science,METEOROLOGY,Hotwire.jl,https://github.com/pjabardo/Hotwire.jl,Hotw
 Earth-Science,METEOROLOGY,Met_Plots_Models.jl,https://github.com/zhujinxuan/Met_Plots_Models.jl,A simple wrapper of matlibplot for a meteorologist.
 Earth-Science,METEOROLOGY,Scriabin.jl,https://github.com/jsbj/Scriabin.jl,Radiative transfer in Julia.
 Earth-Science,METEOROLOGY,TTCal.jl,https://github.com/mweastwood/TTCal.jl,A bandpass calibration routine developed for the [OVRO](https://en.wikipedia.org/wiki/Owens_Valley_Radio_Observatory) LWA.
-FileIO,,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
-FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
-FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
-FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
-FileIO,"§1.BinaryIO<spanid=""1-binary-io""><span>",StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
-FileIO,DataFormats,AIDA.jl,https://github.com/jstrube/AIDA.jl,This package implements simple readers for legacy AIDA files.
-FileIO,DataFormats,BEncode.jl,https://github.com/joshuamiller/BEncode.jl,A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
-FileIO,DataFormats,BDF.jl,https://github.com/sam81/BDF.jl,Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
-FileIO,DataFormats,BDF.jl fork,https://github.com/codles/BDF.jl) by @codle,A fork of BDF.jl that has started to add support for [EDF](http://www.edfplus.info/specs/edf.html) files.
-FileIO,DataFormats,BGZF.jl,https://github.com/kmsquire/BGZF.jl,A Julia package to read/write BGZF compressed files.
-FileIO,DataFormats,Brukerfile.jl,https://github.com/tknopp/Brukerfile.jl,Read Bruker data files.
-FileIO,DataFormats,BufferedStreams.jl,https://github.com/BioJulia/BufferedStreams.jl,Fast composable IO streams.
-FileIO,DataFormats,COFF.jl,https://github.com/Keno/COFF.jl,A julia implementation of the PE/COFF file format.
-FileIO,DataFormats,DWARF.jl,https://github.com/Keno/DWARF.jl,Julia Package for parsing the DWARF file format.
-FileIO,DataFormats,ELF.jl,https://github.com/Keno/ELF.jl,Julia Package for working with ELF files.
-FileIO,DataFormats,FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilities to read/write FASTA format files in Julia.
-FileIO,DataFormats,FlatBuffers.jl,https://github.com/dmbates/FlatBuffers.jl,A package to support Julia code generated by Google's flatbuffers compiler `flatc`.
-FileIO,DataFormats,Grisu.jl,https://github.com/quinnj/Grisu.jl,Port of Double-Conversion library to native Julia.
-FileIO,DataFormats,IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
-FileIO,DataFormats,MachO.jl,https://github.com/Keno/MachO.jl,An implementation of the MachO file format.
-FileIO,DataFormats,MNIST.jl,https://github.com/johnmyleswhite/MNIST.jl,"Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory."
-FileIO,DataFormats,NeuralynxNCS.jl,https://github.com/simonster/NeuralynxNCS.jl,A Julia module for reading Neuralynx NCS files.
-FileIO,DataFormats,NetCDF.jl,https://github.com/meggart/NetCDF.jl,"NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language."
-FileIO,DataFormats,NPZ.jl,https://github.com/fhs/NPZ.jl,Julia package that provides support for reading and writing Numpy .npy and .npz files.
-FileIO,DataFormats,ObjFileBase.jl,https://github.com/Keno/ObjFileBase.jl,Common functionality for Object Files.
-FileIO,DataFormats,OIFITS.jl,https://github.com/emmt/OIFITS.jl,Support for OI-FITS (optical interferometry data format).
-FileIO,DataFormats,OpenSlide.jl,https://github.com/ihnorton/OpenSlide.jl,OpenSlide bindings for Julia.
-FileIO,DataFormats,PdbTool,https://github.com/christophfeinauer/PdbTool.jl,An object-oriented Julia tool to parse PDB files and work with them.
-FileIO,DataFormats,PList.jl,https://github.com/ordovician/PList.jl,A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
-FileIO,DataFormats,PLX.jl,https://github.com/simonster/PLX.jl,Julia module for reading Plexon PLX files.
-FileIO,DataFormats,HarwellBoeing.jl,https://github.com/dpo/HarwellBoeing.jl,A reader for matrices and supplementary data written in the Harwell-Boeing format.
-FileIO,DataFormats,SASLib.jl,https://github.com/tk3369/SASLib.jl,Provide a Julia library for reading SAS7BDAT data sets.
-FileIO,DataFormats,Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp files in Julia.
-FileIO,DataFormats,Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
-FileIO,DataFormats,XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
+FileIO,"§1.BinaryIO.<spanid=""1-Binary-IO""><span>",FortranFiles.jl,https://github.com/traktofon/FortranFiles.jl,"Read and write ""unformatted"" Fortran data, i.e. binary data interspersed with metadata about data records."
+FileIO,"§1.BinaryIO.<spanid=""1-Binary-IO""><span>",HexEdit.jl,https://github.com/templarlabs/HexEdit.jl,Edit and display binary file data in hexadecimal format.
+FileIO,"§1.BinaryIO.<spanid=""1-Binary-IO""><span>",LargeColumns.jl,https://github.com/tpapp/LargeColumns.jl,"Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions."
+FileIO,"§1.BinaryIO.<spanid=""1-Binary-IO""><span>",StrPack.jl,https://github.com/pao/StrPack.jl,For encoding and decoding binary data streams and there is some [documentation](https://strpackjl.readthedocs.org/) at readthedocs.org.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",AIDA.jl,https://github.com/jstrube/AIDA.jl,This package implements simple readers for legacy AIDA files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",BEncode.jl,https://github.com/joshuamiller/BEncode.jl,A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",BDF.jl,https://github.com/sam81/BDF.jl,Module to read [Biosemi BDF files](http://www.biosemi.com/faq/file_format.htm) with the Julia programming language.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",BDF.jl fork,https://github.com/codles/BDF.jl) by @codle,A fork of BDF.jl that has started to add support for [EDF](http://www.edfplus.info/specs/edf.html) files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",BGZF.jl,https://github.com/kmsquire/BGZF.jl,A Julia package to read/write BGZF compressed files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",Brukerfile.jl,https://github.com/tknopp/Brukerfile.jl,Read Bruker data files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",BufferedStreams.jl,https://github.com/BioJulia/BufferedStreams.jl,Fast composable IO streams.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",COFF.jl,https://github.com/Keno/COFF.jl,A julia implementation of the PE/COFF file format.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",DWARF.jl,https://github.com/Keno/DWARF.jl,Julia Package for parsing the DWARF file format.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",ELF.jl,https://github.com/Keno/ELF.jl,Julia Package for working with ELF files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilities to read/write FASTA format files in Julia.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",FlatBuffers.jl,https://github.com/dmbates/FlatBuffers.jl,A package to support Julia code generated by Google's flatbuffers compiler `flatc`.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",Grisu.jl,https://github.com/quinnj/Grisu.jl,Port of Double-Conversion library to native Julia.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",MachO.jl,https://github.com/Keno/MachO.jl,An implementation of the MachO file format.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",MNIST.jl,https://github.com/johnmyleswhite/MNIST.jl,"Tools for working with the MNIST data set. This package provides access to the classic MNIST data set of handwritten digits that has been used as a testbed for new machine learning methods. The MNIST data set is included with the package, downloaded into their original IDX format and are stored in the data/ directory."
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",NeuralynxNCS.jl,https://github.com/simonster/NeuralynxNCS.jl,A Julia module for reading Neuralynx NCS files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",NetCDF.jl,https://github.com/meggart/NetCDF.jl,"NetCDF support for a high-level and a medium-level interface for writing and reading netcdf files, for the Julia programming language."
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",NPZ.jl,https://github.com/fhs/NPZ.jl,Julia package that provides support for reading and writing Numpy .npy and .npz files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",ObjFileBase.jl,https://github.com/Keno/ObjFileBase.jl,Common functionality for Object Files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",OIFITS.jl,https://github.com/emmt/OIFITS.jl,Support for OI-FITS (optical interferometry data format).
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",OpenSlide.jl,https://github.com/ihnorton/OpenSlide.jl,OpenSlide bindings for Julia.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",PdbTool,https://github.com/christophfeinauer/PdbTool.jl,An object-oriented Julia tool to parse PDB files and work with them.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",PList.jl,https://github.com/ordovician/PList.jl,A module for reading and writing OS X plist in ASCII format. The binary and XML format is not supported presently.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",PLX.jl,https://github.com/simonster/PLX.jl,Julia module for reading Plexon PLX files.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",HarwellBoeing.jl,https://github.com/dpo/HarwellBoeing.jl,A reader for matrices and supplementary data written in the Harwell-Boeing format.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",SASLib.jl,https://github.com/tk3369/SASLib.jl,Provide a Julia library for reading SAS7BDAT data sets.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",Shapefile.jl,https://github.com/Keno/Shapefile.jl,Parsing .shp files in Julia.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",Silo.jl,https://github.com/jgoldfar/Silo.jl,Wrapper for the Silo file format.
+FileIO,"§2.DataFormats.<spanid=""2-Data-Formats""><span>",XPT.jl,https://github.com/lendle/XPT.jl,The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 FileIO,[Avro](https://en.wikipedia.org/wiki/Apache_Avro],Avro.jl,https://github.com/JuliaData/Avro.jl," Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files."
 FileIO,BSON,BSON.jl,https://github.com/MikeInnes/BSON.jl,"A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures."
 FileIO,BSON,BSONify.jl,https://github.com/OliverColeman/BSONify.jl,"Convert just about any data structure - including primitive types, arbitrary composite types defined by other modules or your own data structures, nested and recursive data structures, complicated parametrised types, and even type unions - to clean and simple BSON and back again. Save and load to/from files or a MongoDB."
@@ -844,6 +843,7 @@ FileIO,TabularData,ParquetFiles.jl,https://github.com/queryverse/ParquetFiles.jl
 FileIO,TabularData,Tables.jl,https://github.com/JuliaData/Tables.jl,This package provides four useful interface functions for working with tabular data in a variety of formats. The discourse [announcment:](https://discourse.julialang.org/t/tables-jl-a-table-interface-for-everyone/14071)!
 FileIO,TabularData,TableWidgets.jl,https://github.com/piever/TableWidgets.jl,Interactive widgets to work with tabular data in Julia.
 FileIO,TabularData,ReadWriteDlm2,https://github.com/strickek/ReadWriteDlm2.jl,"CSV IO. Works like readdlm/writedlm, but using decimal comma by default. Additional supporting Date, DateTime, Time, Complex, Missing and Rational types."
+FileIO,TabularData,Schemata.jl,https://github.com/JockLawrie/Schemata.jl,Schema (specification of a data set) for tabular data sets in Julia.
 FileIO,XDMF,XDMF.jl,https://github.com/JuliaFEM/Xdmf.jl,A standardized method to exchange scientific data between High Performance Computing codes and tools lead to the development of the eXtensible Data Model and Format (XDMF)
 FileIO,XML,EodDataTestXml.jl,https://github.com/adriantorrie/EodDataTestXml.jl,Test files for [EodData.jl](https://github.com/adriantorrie/EodData.jl).
 FileIO,XML,EzXML.jl,https://github.com/bicycle1885/EzXML.jl,XML/HTML handling tools for primates.
@@ -859,53 +859,53 @@ FileIO,XML,XMLDict.jl,https://github.com/samoconnor/XMLDict.jl,This package impl
 FileIO,XML,XMLRPC.jl,https://github.com/sjkelly/XMLRPC.jl,Send and recieve XML-RPCs with Julia.
 FileIO,XML,XmlToDict.jl,https://github.com/elcritch/XmlToDict.jl, Julia module that makes working with XML feel like you are working with JSON (inspired by xmltodict).
 FileIO,HTML-XML,Patchwork.jl,https://github.com/shashi/Patchwork.jl,"A library for representing the DOM in Julia. It supports element creation, diff computation and browser-side patching for efficient re-rendering."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Arrow.jl,https://github.com/ExpandingMan/Arrow.jl,Julia implementation of the Apache Arrow data standard.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),CBOR.jl,https://github.com/saurvs/CBOR.jl,"A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),CustomUnitRanges.jl,https://github.com/JuliaArrays/CustomUnitRanges.jl,Package-specific AbstractUnitRange types for julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,"This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FixedSizeStrings.jl,https://github.com/JuliaComputing/FixedSizeStrings.jl,A type for efficiently storing short strings of known size.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Format.jl,https://github.com/JuliaString/Format.jl,This Julia package provides C and Python-style types and functions formatting support.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),frange,https://github.com/StefanKarpinski/frange,
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),FunctionalData.jl,https://github.com/rened/FunctionalData.jl,"Functional, efficient data manipulation framework."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),jenks.jl,https://github.com/scw/jenks.jl,
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),julia-prettyshow,https://github.com/toivoh/julia-prettyshow,"A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,This is a small package to make it easier to type LaTeX equations in string literals in the Julia language.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),LHEF.jl,https://github.com/Keno/LHEF.jl,"Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),MUtils.jl,https://github.com/amitmurthy/MUtils.jl,"channels(), tspaces(), kvspaces() and more."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM)."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Parsers.jl,https://github.com/quinnj/Parsers.jl),
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ResultTypes.jl,https://github.com/iamed2/ResultTypes.jl, A Result type for Julia—it's like Nullables for Exceptions.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,"RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)"
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),ShortStrings.jl,https://github.com/xiaodaigh/ShortStrings.jl,A fast and efficient string format implementation for storing strings of size less than 15 bytes.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,"Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringLiterals.jl,https://github.com/JuliaString/StringLiterals.jl,"Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,"String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),TypeSortedCollections.jl,https://github.com/tkoolen/TypeSortedCollections.jl,"It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner."
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),WeakRefStrings.jl,https://github.com/quinnj/WeakRefStrings.jl,a minimal String type for Julia that allows for efficient string representation and transfer.
-FileIO,[DataType](http://en.wikipedia.org/wiki/Data_type),YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Arrow.jl,https://github.com/ExpandingMan/Arrow.jl,Julia implementation of the Apache Arrow data standard.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ASCIIByte.jl,https://github.com/Elin-/ASCIIByte.jl,Julia package to deal with Characters of 8 bits.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",AutoFormat.jl,https://github.com/yulijia/AutoFormat.jl,
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",BigRationals.jl,https://github.com/andrioni/BigRationals.jl,A BigRational package for Julia using GMP.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",CBOR.jl,https://github.com/saurvs/CBOR.jl,"A Concise Binary Object Representation (RFC 7049) Julia package for working with the CBOR data format, providing straightforward encoding and decoding for Julia types."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ChainedVectors.jl,https://github.com/tanmaykm/ChainedVectors.jl,Few utility types over Julia Vector type.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Codecs.jl,https://github.com/dcjones/Codecs.jl,Common data encoding algorithms.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",CustomUnitRanges.jl,https://github.com/JuliaArrays/CustomUnitRanges.jl,Package-specific AbstractUnitRange types for julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",DanaTypes.jl,https://github.com/DANA-Laboratory/DanaTypes.jl,Types for continuous variables or parameters.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",DictViews.jl,https://github.com/daviddelaat/DictViews.jl,KeysView and ValuesView types for dynamic low-overhead views into the entries of dictionaries.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",DotPlusInheritance.jl,https://github.com/DANA-Laboratory/DotPlusInheritance.jl,Expression parser that simulates type inheritance.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",FixedPointNumbers.jl,https://github.com/JeffBezanson/FixedPointNumbers.jl,"This library exports fixed-point number types. A fixed-point number represents a fractional, or non-integral, number. In contrast with the more widely known floating-point numbers, fixed-point numbers have a fixed number of digits (bits) after the decimal (radix) point. They are effectively integers scaled by a constant factor."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",FixedSizeStrings.jl,https://github.com/JuliaComputing/FixedSizeStrings.jl,A type for efficiently storing short strings of known size.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Format.jl,https://github.com/JuliaString/Format.jl,This Julia package provides C and Python-style types and functions formatting support.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Formatting.jl,https://github.com/lindahua/Formatting.jl,A Julia package to provide Python-like formatting support.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",FreeTypeAbstraction.jl,https://github.com/SimonDanisch/FreeTypeAbstraction.jl,A Julian abstraction layer over FreeType.jl.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",frange,https://github.com/StefanKarpinski/frange,
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",FunctionalData.jl,https://github.com/rened/FunctionalData.jl,"Functional, efficient data manipulation framework."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ImagineFormat.jl,https://github.com/timholy/ImagineFormat.jl,Read [.imagine](http://dotwhat.net/file/extension/imagine/7604) file formats in Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",jenks.jl,https://github.com/scw/jenks.jl,
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",julia-prettyshow,https://github.com/toivoh/julia-prettyshow,"A module to provide simple pretty printing facilities with base functionality for indentation etc, and a `pshow` (pretty show) implementation for julia ASTs."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,This is a small package to make it easier to type LaTeX equations in string literals in the Julia language.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",LHEF.jl,https://github.com/Keno/LHEF.jl,"Quick and dirty implementation of the Les Houches Event Format, for particle Physics, in terms of Fortran commonblocks where the information is embedded in a minimal XML-style structure."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",MonkeyString.jl,https://github.com/malmaud/MonkeyString.jl,Fast string implementation inspired by SpiderMonkey.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",MPFI.jl,https://github.com/andrioni/MPFI.jl,A MPFI wrapper for Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",MutableStrings.jl,https://github.com/tanmaykm/MutableStrings.jl,Mutable string types for Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",MUtils.jl,https://github.com/amitmurthy/MUtils.jl,"channels(), tspaces(), kvspaces() and more."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Load and save Netpbm images in Julia. The [Netpbm](https://en.wikipedia.org/wiki/Netpbm_format) format is a graphics format using the extensions `portable pixmap format (PPM)`, the `portable graymap format (PGM)` and the `portable bitmap format (PBM)`, collectively referred as the portable anymap format (PNM)."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Parsers.jl,https://github.com/quinnj/Parsers.jl),
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ResultTypes.jl,https://github.com/iamed2/ResultTypes.jl, A Result type for Julia—it's like Nullables for Exceptions.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ReTerms.jl,https://github.com/dmbates/ReTerms.jl,Package providing abstract random-effects terms and specific types.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Ratios.jl,https://github.com/timholy/Ratios.jl,Faster Rational-like types for Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",RDF.jl,https://github.com/JuliaPackageMirrors/RDF.jl,"RDF package for working with RDF Graphs in Julia. Supports serialization as RDF N-Triples, RDF N-Quads and Turtle. [Julia package mirror](https://github.com/indiedotkim/RDF.jl)"
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Scalar.jl,https://github.com/sabjohnso/Scalar.jl,Scalar Types.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Sexpr.jl,https://github.com/vshesh/Sexpr.jl,A program to port clojure-like [s-expression](https://en.wikipedia.org/wiki/S-expression) syntax to and from Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",ShortStrings.jl,https://github.com/xiaodaigh/ShortStrings.jl,A fast and efficient string format implementation for storing strings of size less than 15 bytes.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",SimpleStructs.jl,https://github.com/pluskid/SimpleStructs.jl,"Easy to use struct definition with defaults and value constraints, as well as auto-defined user-friendly constructors."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",StringDistances.jl,https://github.com/matthieugomez/StringDistances.jl,String Distances in Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",StringLiterals.jl,https://github.com/JuliaString/StringLiterals.jl,"Implement improved string literals with Swift-style syntax for interpolation, hex, & unicode characters, plus C & Python style formatting and Unicode, HTML, LaTeX, and Emoji entities."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",StringUtils.jl,https://github.com/ScottPJones/StringUtils.jl,"String utilities for Julia, Swift-like interpolation/quoting, better performing versions of string functions, etc."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",TexExtensions.jl,https://github.com/Keno/TexExtensions.jl,Tex Pretty printing of Julia Base types.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",TypeSortedCollections.jl,https://github.com/tkoolen/TypeSortedCollections.jl,"It provides the TypeSortedCollection type, which can be used to store type-heterogeneous data in a way that allows operations on the data to be performed in a type-stable manner."
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Units.jl,https://github.com/timholy/Units.jl,Infrastructure for handling physical units for the Julia programming language.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",Unitful.jl,https://github.com/ajkeller34/Unitful.jl,A Julia package for physical units.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",VersionParsing.jl,https://github.com/stevengj/VersionParsing.jl,flexible VersionNumber parsing in Julia.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",WeakRefStrings.jl,https://github.com/quinnj/WeakRefStrings.jl,a minimal String type for Julia that allows for efficient string representation and transfer.
+FileIO,"§3.[DataType](http://en.wikipedia.org/wiki/Data_type).<spanid=""3-Data-Type""><span>",YAML.jl,https://github.com/dcjones/YAML.jl,A flexible data serialization format that is designed to be easily read and written by human beings.
 FileIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),DictWrappers.jl,https://github.com/iamed2/DictWrappers.jl,Wrap any Julia composite type in an Associative interface.
 FileIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),EMLTranslator.jl,https://github.com/DANA-Laboratory/EMLTranslator.jl,Adds Inheritance to julia composite type.
 FileIO,[CompositeDataTypes](https://en.wikipedia.org/wiki/Category:Composite_data_types),ExtractMacro.jl,https://github.com/carlobaldassi/ExtractMacro.jl, Provides a convenience Julia macro to extract fields from composite types.
@@ -931,42 +931,42 @@ FileIO,[TypeParameters](http://en.wikipedia.org/wiki/TypeParameter),TypeTree.jl,
 FileIO,Resources,eff Bezanson on [The State of the Type System,https://www.youtube.com/watch?v=Z2LtJUe1q8c) at JuliaCon 2017,
 FileIO,Resources,ameson Nash on [Static and Ahead of Time (AOT) compiled Julia,http://juliacomputing.com/blog/2016/02/09/static-julia.html,
 FileIO,Resources,A more thorough look at Julia's __double colon__ syntax,http://nbviewer.ipython.org/github/tlycken/IJulia-Notebooks/blob/master/A%20more%20thorough%20look%20at%20Julia%27s%20%22double%20colon%22%20syntax.ipynb,
-FileIO,[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor),ConfParser.jl,https://github.com/templarlabs/ConfParser.jl,"Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes."
-FileIO,[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor),ExcelReaders.jl,https://github.com/davidanthoff/ExcelReaders.jl,A package that provides functionality to read Excel files.
-FileIO,[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor),JuliaReport.jl,https://github.com/mpastell/JuliaReport.jl,A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
-FileIO,[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor),Taro.jl,https://github.com/aviks/Taro.jl,can process office documents in Julia.
-FileIO,LaTeX,Expr2LaTeX.jl,https://github.com/oxinabox/Expr2LaTeX.jl,Take a julia `Expr` and render it as LaTeX.
-FileIO,LaTeX,jlcode,https://github.com/wg030/jlcode,A latex package for displaying Julia code with the listings package.
-FileIO,LaTeX,LaTeX.jl,https://github.com/rened/LaTeX.jl,"Create LaTeX documents from within Julia, including image handling."
-FileIO,LaTeX,Latexify.jl,https://github.com/korsbo/Latexify.jl,"Convert julia objects to LaTeX equations, arrays or other environments."
-FileIO,LaTeX,LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
-FileIO,LaTeX,LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,"This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson."
-FileIO,LaTeX,LaTeXTools.jl,https://github.com/jgoldfar/LaTeXTools.jl,Tools for automatic manipulation and management of LaTeX Documents.
-FileIO,DocumentGenerator,Judo.jl,https://github.com/dcjones/Judo.jl,"is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways."
-FileIO,DocumentGenerator,HelpTestbed.jl,https://github.com/tshort/HelpTestbed.jl,"package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package."
-FileIO,DocumentGenerator,Publish.jl,https://github.com/dressel/Publish.jl,A package for publishing code - uses Latex to create a pdf with your code and output.
-FileIO,DocumentGenerator,Report.jl,https://github.com/sveme/Report.jl,A Markdown report writer for Julia.
-FileIO,DocumentGenerator,VerTeX.jl,https://github.com/chakravala/VerTeX.jl,Typeset scattered graph data rewriter based on LaTeX nodes.
-FileIO,GeneralIO,FileIO.jl,https://github.com/JuliaIO/FileIO.jl,"general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions."
-FileIO,GeneralIO,MapD.jl,https://github.com/r3tex/MapD.jl,A julia library for conveniently inserting data to MapD.
-FileIO,GeneralIO,SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
-FileIO,GeneralIO,StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
-FileIO,GeneralIO,ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,"Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading."
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia support for Netpbm (.ppm, .pgm, .pbm)."
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",OMETIFF.jl,https://github.com/tlnagy/OMETIFF.jl,I/O operations for OME-TIFF files in Julia with a focus on correctness.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",TIFF.jl,https://github.com/rephorm/TIFF.jl,is a TIFF image file support for Julia.
-FileIO,"[§6.GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
-FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
-FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
-FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
-FileIO,"[§7.ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Scientific_data_(data_exchange))<spanid=""7-Scientific-Data-Formats""><span>",JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
+FileIO,"§4.[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor).<spanid=""4-Document-Processors""><span>",ConfParser.jl,https://github.com/templarlabs/ConfParser.jl,"Package for parsing configuration files utilizing ini, http, and simple configuration syntaxes."
+FileIO,"§4.[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor).<spanid=""4-Document-Processors""><span>",ExcelReaders.jl,https://github.com/davidanthoff/ExcelReaders.jl,A package that provides functionality to read Excel files.
+FileIO,"§4.[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor).<spanid=""4-Document-Processors""><span>",JuliaReport.jl,https://github.com/mpastell/JuliaReport.jl,A scientific report generator/literate programming tool for Julia based on Pweave and resembles Knitr and Sweave. JuliaReport relies on the Python package [Pweave](https://github.com/mpastell/Pweave) for document parsing and formatting.
+FileIO,"§4.[DocumentProcessors](https://en.wikipedia.org/wiki/Document_processor).<spanid=""4-Document-Processors""><span>",Taro.jl,https://github.com/aviks/Taro.jl,can process office documents in Julia.
+FileIO,"§4.1.DocumentGenerator<spanid=""4-1-Document-Generator""><span>",Judo.jl,https://github.com/dcjones/Judo.jl,"is a Julia document generator, which takes documents written in pandoc markdown and converts them into html, but differs from general purpose markdown tools in a few ways."
+FileIO,"§4.1.DocumentGenerator<spanid=""4-1-Document-Generator""><span>",HelpTestbed.jl,https://github.com/tshort/HelpTestbed.jl,"package is for exploring options for help when you add a Julia package - when used from the REPL, the @help macro fetches, say, the signature of a function call, which can be used to find the package."
+FileIO,"§4.1.DocumentGenerator<spanid=""4-1-Document-Generator""><span>",Publish.jl,https://github.com/dressel/Publish.jl,A package for publishing code - uses Latex to create a pdf with your code and output.
+FileIO,"§4.1.DocumentGenerator<spanid=""4-1-Document-Generator""><span>",Report.jl,https://github.com/sveme/Report.jl,A Markdown report writer for Julia.
+FileIO,"§4.1.DocumentGenerator<spanid=""4-1-Document-Generator""><span>",VerTeX.jl,https://github.com/chakravala/VerTeX.jl,Typeset scattered graph data rewriter based on LaTeX nodes.
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",Expr2LaTeX.jl,https://github.com/oxinabox/Expr2LaTeX.jl,Take a julia `Expr` and render it as LaTeX.
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",jlcode,https://github.com/wg030/jlcode,A latex package for displaying Julia code with the listings package.
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",LaTeX.jl,https://github.com/rened/LaTeX.jl,"Create LaTeX documents from within Julia, including image handling."
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",Latexify.jl,https://github.com/korsbo/Latexify.jl,"Convert julia objects to LaTeX equations, arrays or other environments."
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",LatexPrint.jl,https://github.com/scheinerman/LatexPrint.jl,Julia objects in a form suitable for LaTeX mathematics mode.
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",LaTeXStrings.jl,https://github.com/stevengj/LaTeXStrings.jl,"This is a small package to make it easier to type LaTeX equations in string literals in the Julia language, written by Steven G. Johnson."
+FileIO,"§4.2.LaTeX.<spanid=""4-2-LaTeX""><span>",LaTeXTools.jl,https://github.com/jgoldfar/LaTeXTools.jl,Tools for automatic manipulation and management of LaTeX Documents.
+FileIO,"§5.GeneralIO<spanid=""5-General-IO""><span>",FileIO.jl,https://github.com/JuliaIO/FileIO.jl,"general dispatcher for `save` and `load`, support for recognizing magic bytes and file-extensions."
+FileIO,"§5.GeneralIO<spanid=""5-General-IO""><span>",MapD.jl,https://github.com/r3tex/MapD.jl,A julia library for conveniently inserting data to MapD.
+FileIO,"§5.GeneralIO<spanid=""5-General-IO""><span>",SerialPorts.jl,https://github.com/sjkelly/SerialPorts.jl,SerialPort IO streams in Julia.
+FileIO,"§5.GeneralIO<spanid=""5-General-IO""><span>",StructIO.jl,https://github.com/Keno/StructIO.jl,Experimental new implementation of StrPack.jl-like functionality.
+FileIO,"§5.GeneralIO<spanid=""5-General-IO""><span>",ULID.jl,https://github.com/ararslan/ULID.jl,Generate Universally Unique Lexicographically Sortable Identifiers (ULIDs) in Julia.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",AndorSIF.jl,https://github.com/JuliaIO/AndorSIF.jl,This implements support for reading [Andor SIF](http://www.andor.com/downloads) image files in the Julia programming language. Note: The Andor `.SIF` format changes with each version.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",DICOM.jl,https://github.com/ihnorton/DICOM.jl,DICOM interface for the Julia language.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",FITSIO.jl,https://github.com/JuliaAstro/FITSIO.jl,Flexible Image Transport System (FITS) support for Julia.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",ImageMagick.jl,https://github.com/JuliaIO/ImageMagick.jl,"Thin Wrapper for the library ImageMagick, for general-purpose image saving and loading."
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NIfTI.jl,https://github.com/simonster/NIfTI.jl,Julia module for reading NIfTI MRI files.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",NRRD.jl,https://github.com/JuliaIO/NRRD.jl,Julia support for the Nearly Raw Raster Data (NRRD) image file format
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",Netpbm.jl,https://github.com/JuliaIO/Netpbm.jl,"Julia support for Netpbm (.ppm, .pgm, .pbm)."
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",OMETIFF.jl,https://github.com/tlnagy/OMETIFF.jl,I/O operations for OME-TIFF files in Julia with a focus on correctness.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",QuartzImageIO.jl,https://github.com/JuliaIO/QuartzImageIO.jl,Thin wrapper around OSX's native image format saving and loading
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",TIFF.jl,https://github.com/rephorm/TIFF.jl,is a TIFF image file support for Julia.
+FileIO,"§6.[GraphicsFormat](https://en.wikipedia.org/wiki/List_of_file_formats#Graphics)<spanid=""6-Graphics-Format""><span>",VideoIO.jl,https://github.com/kmsquire/VideoIO.jl,"A wrapper around libav/ffmpeg libraries, which are the defacto open-source libraries for video IO. The library offers an easy way to open video files or a camera and read sequences of images, as either arrays, or optionally as `Image` objects, using the `Images` package, has been developed on Linux, and the installation and functionality has been minimally tested on Macs, but not yet on Windows."
+FileIO,"§7.[ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Multi-domain)<spanid=""7-Scientific-Data-Formats""><span>",HDF5.jl,https://github.com/JuliaIO/HDF5.jl,"Lib to read HDF5 format files, a widely-used file format for general data."
+FileIO,"§7.[ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Multi-domain)<spanid=""7-Scientific-Data-Formats""><span>",HDF5Logger.jl,https://github.com/tuckermcclure/HDF5Logger.jl,Allows logging individual frames of data to an HDF5 file over time.
+FileIO,"§7.[ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Multi-domain)<spanid=""7-Scientific-Data-Formats""><span>",JLD.jl,https://github.com/JuliaLang/JLD.jl,High-level interface to HDF5 for saving and loading Julia variables & types
+FileIO,"§7.[ScientificDataFormats](https://en.wikipedia.org/wiki/List_of_file_formats#Multi-domain)<spanid=""7-Scientific-Data-Formats""><span>",JLD2,https://github.com/simonster/JLD2,Next-generation successor to JLD.
 Graphics,,julia-logo-graphics,https://github.com/JuliaLang/julia-logo-graphics,official versions of the Julia logo.
 Graphics,[GraphicDesign](https://en.wikipedia.org/wiki/Category:Graphic_design),FIGlet.jl,https://github.com/kdheepak/FIGlet.jl,Fonts port of FIGlet.
 Graphics,(ComputerVision](https://en.wikipedia.org/wiki/Category:Computer_vision),AAM.jl,https://github.com/dfdx/AAM.jl,Active Appearance Models.
