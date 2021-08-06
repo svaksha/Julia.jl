@@ -39,7 +39,7 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) :: Univariate and multivariate optimization solvers in Julia.
 + [Quadprog.jl](https://github.com/harmeling/Quadprog.jl) :: A wrapper around Ipopt.jl to solve quadratic programming problems. This package provides the function quadprog which calls the Ipopt.jl library for Interior Point Nonlinear Optimization.
 + [OptimizationServices.jl](https://github.com/tkelman/OptimizationServices.jl) :: Julia interface to [COIN-OR Optimization Services](https://projects.coin-or.org/OS). This Julia package is intended to be an interface between `MathProgBase.jl` and COIN-OR Optimization Services (OS), translating between the Julia-expression-tree `MathProgBase` format for nonlinear objective and constraint functions and the Optimization Services instance Language (OSiL) XML-based optimization problem interchange format.
-
++ [PDENLPModels.jl](https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl) :: A NLPModel API for optimization problems with PDE-constraints.
 
 ----
 
