@@ -66,7 +66,7 @@
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
 
-## [Avro](https://en.wikipedia.org/wiki/Apache_Avro]
+## [Avro](https://en.wikipedia.org/wiki/Apache_Avro)
 + [Avro.jl](https://github.com/JuliaData/Avro.jl) ::  Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files.
 
 ## BSON
