@@ -26,7 +26,7 @@
 
 ----
 
-# (Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)
+# [Computer Vision](https://en.wikipedia.org/wiki/Category:Computer_vision)
 + [AAM.jl](https://github.com/dfdx/AAM.jl) :: Active Appearance Models.
 + [Bezier.jl](https://github.com/dronir/Bezier.jl) :: Julia functions for computing a Bezier curve.
 + [Blending.jl](https://github.com/dejakaymac/Blending.jl).
