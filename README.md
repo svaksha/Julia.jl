@@ -2,10 +2,10 @@
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
-+ [INDEX](#index)
-+ [LICENSE](#license)
-   + [ODbL and AGPLv3](#odbl-and-agplv3)
-   + [Mirrors](#mirrors)
++ [§1. INDEX](#1-INDEX)
++ [§2. LICENSE](#2-LICENSE)
+   + [§2.1. ODbL and AGPLv3](#2-1-ODbL-and-AGPLv3)
+   + [§2.2. Mirrors](#2-2-Mirrors)
 + [CONTRIBUTE](#contribute)
    + [Guidelines](#guidelines)
    + [BugReport-PullRequest](#bugreport-pullrequest)
@@ -14,7 +14,7 @@
 
 ----
 
-# INDEX
+# §1. INDEX <span id="1-INDEX"><span>
 
 + [AI](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
 + [Actuarial Science](https://github.com/svaksha/Julia.jl/blob/master/ActuarialScience.md) :: Software related to the subcategories of econometrics, finance, etc.
@@ -46,11 +46,15 @@
 
 ----
 
-# LICENSE
+# §2. LICENSE <span id="2-LICENSE"><span>
 
 + COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), herewith dual-licensed for the data (ODbL-v1.0+) and the software (AGPLv3+), respectively.
 
-## [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
+   + [§2.1. ODbL and AGPLv3](#2-1-ODbL-and-AGPLv3)
+
+
+## §2.1. AGPLv3 and ODbL <span id="2-1-AGPLv3-and-ODbL"><span>
+This repo uses multiple licences for data and code, viz. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
 + The __data__ (aggregated and curated decibans of knowledge resources for Julia language) in this repository (`Julia.jl`) is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). The Open Database License (ODbL) grants anyone the freedom to share, create and adapt the data or database with proper __credit attribution__ as specified in the license and __offer any new work under the same terms__, and __release a public copy if using the new work for commercial purposes__.
 + The __software__ used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
@@ -58,8 +62,8 @@
 
 The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `General` and various sources. By releasing the website code [publicly](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
 
+## §2.2. Mirrors <span id="2-2-Mirrors"><span>
 
-## Mirrors
 + [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
 + [GitLab](https://gitlab.com/svaksha/Julia.jl) :: git clone git@gitlab.com:svaksha/Julia.jl.git
 

@@ -1830,22 +1830,23 @@ Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),P
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),ThermodynamicsTable.jl,https://github.com/DANA-Laboratory/ThermodynamicsTable.jl,"Thermodynamics table for critical values, heat capacity, etc.."
 Physics,[Thermodynamics](http://en.wikipedia.org/wiki/Category:Thermodynamics),WaveToy.jl,https://github.com/eschnett/WaveToy.jl,Julia WaveToy.
 Physics,Miscellaneous,fys,https://github.com/jhlq/fys,Physics and misc unmaintained Julia code.
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Gen.jl,https://github.com/probcomp/Gen,Probabilistic programming with programmable inference.
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Soss.jl,https://github.com/cscherrer/Soss.jl,A library for probabilistic programming.
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stan.jl,https://github.com/StanJulia/Stan.jl,A Julia wrapper for the Stan language.
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Stheno.jl,https://github.com/willtebbutt/Stheno.jl,Probabilistic programming with Gaussian processes in Julia.
-Probability-Statistics,[PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming),Turing.jl,https://github.com/TuringLang/Turing.jl,A Turing complete probabilistic programming language.
-Probability-Statistics,Markovian,POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes.
-Probability-Statistics,Markovian,POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
-Probability-Statistics,Markovian,HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight abstraction for hidden Markov models in Julia.
-Probability-Statistics,Gaussian,GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
-Probability-Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
-Probability-Statistics,Bayesian,ArviZ.jl,https://github.com/arviz-devs/ArviZ.jl,"A Julia interface to the [ArviZ](https://arviz-devs.github.io/arviz/"") package for exploratory analysis of Bayesian models, with functions for posterior analysis, model checking, comparison and diagnostics."
-Probability-Statistics,Bayesian,BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
-Probability-Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
-Probability-Statistics,Bayesian,BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Bayesian estimation of diffusion processes.
-Probability-Statistics,Bayesian,BayesianNonparametrics.jl,https://github.com/OFAI/BayesianNonparametrics.jl,Bayesian nonparametrics in Julia.
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",DynamicPPL.jl,https://github.com/TuringLang/DynamicPPL.jl,Implementation of domain-specific language (DSL) for dynamic probabilistic programming
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Gen.jl,https://github.com/probcomp/Gen,Probabilistic programming with programmable inference.
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Omega.jl,https://github.com/zenna/Omega.jl," Causal, Higher-Order, Probabilistic Programming."
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Soss.jl,https://github.com/cscherrer/Soss.jl,A library for probabilistic programming.
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Stan.jl,https://github.com/StanJulia/Stan.jl,A Julia wrapper for the Stan language.
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Stheno.jl,https://github.com/willtebbutt/Stheno.jl,Probabilistic programming with Gaussian processes in Julia.
+Probability-Statistics,"§1.1.[ProbabilisticProgramming](https://en.wikipedia.org/wiki/Probabilistic_programming)<spanid=""1-1-Probabilistic-Programming""><span>",Turing.jl,https://github.com/TuringLang/Turing.jl,A Turing complete probabilistic programming language.
+Probability-Statistics,"§1.2.1.Bayesian<spanid=""1-2-1-Bayesian""><span>",ArviZ.jl,https://github.com/arviz-devs/ArviZ.jl,"A Julia interface to the [ArviZ](https://arviz-devs.github.io/arviz/"") package for exploratory analysis of Bayesian models, with functions for posterior analysis, model checking, comparison and diagnostics."
+Probability-Statistics,"§1.2.1.Bayesian<spanid=""1-2-1-Bayesian""><span>",BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
+Probability-Statistics,"§1.2.1.Bayesian<spanid=""1-2-1-Bayesian""><span>",BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
+Probability-Statistics,"§1.2.1.Bayesian<spanid=""1-2-1-Bayesian""><span>",BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Bayesian estimation of diffusion processes.
+Probability-Statistics,"§1.2.1.Bayesian<spanid=""1-2-1-Bayesian""><span>",BayesianNonparametrics.jl,https://github.com/OFAI/BayesianNonparametrics.jl,Bayesian nonparametrics in Julia.
+Probability-Statistics,"§1.2.2.Gaussian<spanid=""1-2-2-Gaussian""><span>",GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
+Probability-Statistics,"§1.2.2.Gaussian<spanid=""1-2-2-Gaussian""><span>",GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
+Probability-Statistics,"§1.2.3.Markovian<spanid=""1-2-3-Markovian""><span>",POMDPs.jl,https://github.com/JuliaPOMDP/POMDPs.jl,A Julia framework for solving Markov decision processes.
+Probability-Statistics,"§1.2.3.Markovian<spanid=""1-2-3-Markovian""><span>",POMDPToolbox.jl,https://github.com/JuliaPOMDP/POMDPToolbox.jl,Support tools for solving `POMDPs`.
+Probability-Statistics,"§1.2.3.Markovian<spanid=""1-2-3-Markovian""><span>",HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight abstraction for hidden Markov models in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CovarianceMatrices.jl,https://github.com/gragusa/CovarianceMatrices.jl,Covariance Matrix Estimation in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CurveFit.jl,https://github.com/pjabardo/CurveFit.jl,Simple least squares and curve fitting functions.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/FixedEffects/FixedEffectModels.jl,Fast estimation of linear models with IV and high dimensional categorical variables.
@@ -1891,9 +1892,9 @@ Probability-Statistics,[SAMPLING](),MonteCarloMeasurements.jl,https://github.com
 Probability-Statistics,[SAMPLING](),PSIS.jl,https://github.com/alvaro1101/PSIS.jl,Pareto smoothed importance sampling (PSIS) and PSIS leave-one-out cross-validation for Julia.
 Probability-Statistics,[SAMPLING](),RecombinatorKMeans.jl,https://github.com/carlobaldassi/RecombinatorKMeans.jl,An implementation of the recombinator-k-means method.
 Probability-Statistics,[SAMPLING](),StableDQMC.jl,https://github.com/crstnbr/StableDQMC.jl                   ,Numerical stabilization routines for determinant quantum Monte Carlo.
-Probability-Statistics,[TESTS](),HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,"T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia."
-Probability-Statistics,[TESTS](),RobustStats.jl,https://github.com/mrxiaohe/RobustStats.jl,A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
-Probability-Statistics,UNCLASSIFIED,BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
+Probability-Statistics,TESTS,HypothesisTests.jl,https://github.com/JuliaStats/HypothesisTests.jl,"T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia."
+Probability-Statistics,TESTS,RobustStats.jl,https://github.com/mrxiaohe/RobustStats.jl,A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
+Probability-Statistics,UNCLASSIFIED,BloomFilters.jl,https://github.com/johnmyleswhite/BloomFilters.jl,are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 Probability-Statistics,UNCLASSIFIED,AdaGram.jl,https://github.com/sbos/AdaGram.jl,Adaptive Skip-gram implementation.
 Probability-Statistics,UNCLASSIFIED,Civecm.jl,https://github.com/andreasnoackjensen/Civecm.jl,Cointegration in Vector Error Correction Models in Julia.
 Probability-Statistics,UNCLASSIFIED,CTDE.jl,https://github.com/adolgert/CTDE.jl,"Continuous time, discrete event system in Julia."

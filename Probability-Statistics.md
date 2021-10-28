@@ -1,6 +1,9 @@
-+ [PROBABILITY](#probability)
-   + [PROGRAMMING](#programming)
-   + [STOCHASTICS](#stochastics)
++ [§1. PROBABILITY](#1-PROBABILITY)
+   + [§1.1. Probabilistic Programming](#1-1-Probabilistic-Programming)
+   + [§1.2. STOCHASTICS](#1-2-stochastics)
+        + [§1.2.1. Bayesian](#1-2-1-Bayesian)
+        + [§1.2.2. Gaussian](#1-2-2-Gaussian)
+        + [§1.2.3. Markovian)(#1-2-3-Markovian)
 + [STATISTICS](#statistics)
    + [REGRESSION](#regression)
    + [DENSITIES](#densities)
@@ -16,9 +19,12 @@
 
 ----
 
-# [PROBABILITY](https://en.wikipedia.org/wiki/Probability_theory)
 
-## [PROGRAMMING](https://en.wikipedia.org/wiki/Probabilistic_programming)
+# §1. [PROBABILITY](https://en.wikipedia.org/wiki/Probability_theory) <span id="1-PROBABILITY"><span>
+
+## §1.1. [Probabilistic Programming](https://en.wikipedia.org/wiki/Probabilistic_programming) <span id="1-1-Probabilistic-Programming"><span>
+ 
++ [DynamicPPL.jl](https://github.com/TuringLang/DynamicPPL.jl) :: Implementation of domain-specific language (DSL) for dynamic probabilistic programming 
 + [Gen.jl](https://github.com/probcomp/Gen) :: Probabilistic programming with programmable inference.
 + [Omega.jl](https://github.com/zenna/Omega.jl) ::  Causal, Higher-Order, Probabilistic Programming.
 + [Soss.jl](https://github.com/cscherrer/Soss.jl) :: A library for probabilistic programming.
@@ -26,25 +32,26 @@
 + [Stheno.jl](https://github.com/willtebbutt/Stheno.jl) :: Probabilistic programming with Gaussian processes in Julia.
 + [Turing.jl](https://github.com/TuringLang/Turing.jl) :: A Turing complete probabilistic programming language.
 
-## [STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process)
+## §1.2. [STOCHASTICS](https://en.wikipedia.org/wiki/Stochastic_process) <span id="1-2-STOCHASTICS"><span>
 
-### Markovian
-[Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
-+ [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: A Julia framework for solving Markov decision processes.
-+ [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
-+ [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) :: A lightweight abstraction for hidden Markov models in Julia.
-
-### Gaussian
-+ [GaussianMixtures.jl](https://github.com/davidavdav/GaussianMixtures.jl) :: Julia modules for Gaussian Mixture Models.
-+ [GaussianProcesses.jl](https://github.com/STOR-i/GaussianProcesses.jl) :: A Julia package for Gaussian Processes.
-
-### Bayesian
+### §1.2.1. Bayesian <span id="1-2-1-Bayesian"><span>
 + [ArviZ.jl](https://github.com/arviz-devs/ArviZ.jl) :: A Julia interface to the [ArviZ](https://arviz-devs.github.io/arviz/") package for exploratory analysis of Bayesian models, with functions for posterior analysis, model checking, comparison and diagnostics.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
 + [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Bayesian estimation of diffusion processes.
 + [BayesianNonparametrics.jl](https://github.com/OFAI/BayesianNonparametrics.jl) :: Bayesian nonparametrics in Julia.
 
+
+### §1.2.2. Gaussian <span id="1-2-2-Gaussian"><span>
++ [GaussianMixtures.jl](https://github.com/davidavdav/GaussianMixtures.jl) :: Julia modules for Gaussian Mixture Models.
++ [GaussianProcesses.jl](https://github.com/STOR-i/GaussianProcesses.jl) :: A Julia package for Gaussian Processes.
+
+
+### §1.2.3. Markovian <span id="1-2-3-Markovian"><span>
+The [Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
++ [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) :: A Julia framework for solving Markov decision processes.
++ [POMDPToolbox.jl](https://github.com/JuliaPOMDP/POMDPToolbox.jl) :: Support tools for solving `POMDPs`.
++ [HMMBase.jl](https://github.com/maxmouchet/HMMBase.jl) :: A lightweight abstraction for hidden Markov models in Julia.
 
 
 ----
@@ -116,12 +123,12 @@
 + [RecombinatorKMeans.jl](https://github.com/carlobaldassi/RecombinatorKMeans.jl) :: An implementation of the recombinator-k-means method.
 + [StableDQMC.jl](https://github.com/crstnbr/StableDQMC.jl                   ) :: Numerical stabilization routines for determinant quantum Monte Carlo.
 
-## [TESTS]()
+## TESTS
 + [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) :: T-tests, Wilcoxon rank sum (Mann-Whitney U), signed rank, and circular statistics in Julia.
 + [RobustStats.jl](https://github.com/mrxiaohe/RobustStats.jl) :: A collection of robust statistical tests based on the R package WRS (R-Forge repository) by Rand Wilcox.
 
 ## UNCLASSIFIED
-+ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structur e that can be used to test the inclusion and exclusion of items in a list.
++ [BloomFilters.jl](https://github.com/johnmyleswhite/BloomFilters.jl) :: are a probabilistic data structure that can be used to test the inclusion and exclusion of items in a list.
 + [AdaGram.jl](https://github.com/sbos/AdaGram.jl) :: Adaptive Skip-gram implementation.
 + [Civecm.jl](https://github.com/andreasnoackjensen/Civecm.jl) :: Cointegration in Vector Error Correction Models in Julia.
 + [CTDE.jl](https://github.com/adolgert/CTDE.jl) :: Continuous time, discrete event system in Julia.
