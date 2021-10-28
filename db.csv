@@ -654,7 +654,9 @@ DevOps,INSTALL,Download and install Julia on various Operating Systems,http://ju
 DevOps,INSTALL,ist of [Julia Modules,http://docs.julialang.org/en/latest/manual/modules/),
 DevOps,INSTALL,The Julia Standard Library,http://docs.julialang.org/en/latest/stdlib/,
 DevOps,INSTALL,ulia [Sample programs,https://github.com/JuliaLang/julia/tree/master/examples,
-DevOps,INSTALL,jill,https://github.com/abelsiqueira/jill, Command line installer of the Julia Language.
+DevOps,INSTALL,jill,https://github.com/abelsiqueira/jill,"A command line installer of the Julia Language, written in Bash."
+DevOps,INSTALL,jill.py,https://github.com/johnnychen94/jill.py,"An enhanced Python (>= 3.6) fork of [JILL](https://github.com/abelsiqueira/jill), a cross-platform Julia installer that can be installed with pip `pip install jill` to install Julia packages."
+DevOps,INSTALL,ackage [announcement,https://discourse.julialang.org/t/ann-jill-py-a-simple-and-stupid-cross-platform-julia-installer/34845) on Discourse forum,
 DevOps,BACKPORTS,Julia-Backports,https://groups.google.com/forum/#!forum/julia-backports) Mailing list,
 DevOps,BUILDAUTOMATION,Jake.jl,https://github.com/nolta/Jake.jl,Rake for Julia.
 DevOps,BUILDAUTOMATION,jlbuild,https://github.com/jlbuild,"A bot that controls the julia buildbots to build releases and perform some additional continous integration on secondary platforms. Ping (`@jlbuild`) in a comment, PR, issue, etc... and this GitHub comment-based interface to testing buildbots will build the relevant Julia version on all platforms, post download links and even execute small chunks of code across those platforms."
@@ -1690,7 +1692,6 @@ Mathematics,PUZZLES,Sudoku.jl,https://github.com/hayd/Sudoku.jl) by @hay,A port 
 Mathematics,PUZZLES,SudokuService,https://github.com/IainNZ/SudokuService,"Sudoku-as-a-service, powered by Julia, JuMP modelling, and CoinOR CBC integer programming solver."
 Mathematics,PUZZLES,Tetris.jl,https://github.com/djsegal/Tetris.jl,Kids game https://juliatetris.com/
 Optimization,FRAMEWORKS,JuMP.jl,https://github.com/jump-dev/JuMP.jl,"A modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)."
-Optimization,[LinearProgramming-Optimization](https://en.wikipedia.org/wiki/Linear_programming),BilinearJuMP.jl,https://github.com/IainNZ/BilinearJuMP.jl,A JuMP extension for bilinear optimization problems.
 Optimization,[LinearProgramming-Optimization](https://en.wikipedia.org/wiki/Linear_programming),Clp.jl,https://github.com/jump-dev/Clp.jl,Interface to the Coin-OR Linear Programming solver (CLP)
 Optimization,[LinearProgramming-Optimization](https://en.wikipedia.org/wiki/Linear_programming),Gurobi.jl,https://github.com/jump-dev/Gurobi.jl,"is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP)."
 Optimization,[LinearProgramming-Optimization](https://en.wikipedia.org/wiki/Linear_programming),jlSimplex,https://github.com/mlubin/jlSimplex,Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
@@ -1813,6 +1814,7 @@ Physics,FluidDynamics,hydro,http://github.com/natj/hydro,"Fairly simple, relativ
 Physics,FluidDynamics,A video of the _hydro_ code in use,https://vimeo.com/95607699,
 Physics,FluidDynamics,LatBo.jl,https://github.com/UCL/LatBo.jl,Lattice-Boltzmann implementation in Julia.
 Physics,LaserPhysics,SALT.jl,https://github.com/xdavidliu/SALT.jl,SALT (steady-state ab-initio laser theory) solver package for Julia.
+Physics,MedicalPhysics,Xray.jl,https://github.com/ggggggggg/Xray.jl,Julia interface for NIST x-ray database.
 Physics,QuantumMechanics,QuantumOptics.jl,https://github.com/bastikr/QuantumOptics.jl,Quantum optics toolbox is a numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems. It is similar to the Quantum Optics Toolbox for MATLAB and its Python equivalent QuTiP.
 Physics,QuantumMechanics,QuDOS.jl,https://github.com/acroy/QuDOS.jl,Quantum Dynamics of Open Systems in Julia.
 Physics,QuantumMechanics,WignerSymbols.jl,https://github.com/Jutho/WignerSymbols.jl,A Julia package for computing Wigner symbols and related quantities.
@@ -1839,10 +1841,12 @@ Probability-Statistics,Markovian,POMDPToolbox.jl,https://github.com/JuliaPOMDP/P
 Probability-Statistics,Markovian,HMMBase.jl,https://github.com/maxmouchet/HMMBase.jl,A lightweight abstraction for hidden Markov models in Julia.
 Probability-Statistics,Gaussian,GaussianMixtures.jl,https://github.com/davidavdav/GaussianMixtures.jl,Julia modules for Gaussian Mixture Models.
 Probability-Statistics,Gaussian,GaussianProcesses.jl,https://github.com/STOR-i/GaussianProcesses.jl,A Julia package for Gaussian Processes.
+Probability-Statistics,Bayesian,ArviZ.jl,https://github.com/arviz-devs/ArviZ.jl,"A Julia interface to the [ArviZ](https://arviz-devs.github.io/arviz/"") package for exploratory analysis of Bayesian models, with functions for posterior analysis, model checking, comparison and diagnostics."
 Probability-Statistics,Bayesian,BayesNets.jl,https://github.com/sisl/BayesNets.jl,Bayesian Networks for Julia.
 Probability-Statistics,Bayesian,BayesianDataFusion.jl,https://github.com/jaak-s/BayesianDataFusion.jl,Implementation of data fusion methods.
 Probability-Statistics,Bayesian,BayesEstDiffusion.jl,https://github.com/mschauer/BayesEstDiffusion.jl,Bayesian estimation of diffusion processes.
 Probability-Statistics,Bayesian,BayesianNonparametrics.jl,https://github.com/OFAI/BayesianNonparametrics.jl,Bayesian nonparametrics in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CovarianceMatrices.jl,https://github.com/gragusa/CovarianceMatrices.jl,Covariance Matrix Estimation in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),CurveFit.jl,https://github.com/pjabardo/CurveFit.jl,Simple least squares and curve fitting functions.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FixedEffectModels.jl,https://github.com/FixedEffects/FixedEffectModels.jl,Fast estimation of linear models with IV and high dimensional categorical variables.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),FLSA.jl,https://github.com/EQt/FLSA.jl,Computing the Fused LASSO Signal Approximator.
@@ -1850,6 +1854,7 @@ Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_ana
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Isotonic.jl,https://github.com/ajtulloch/Isotonic.jl,This implements several algorithms for isotonic regression in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),LARS.jl,https://github.com/simonster/LARS.jl,Least angle regression.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/JuliaStats/Lasso.jl,Lasso solvers for linear and generalized linear models.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Metida.jl,https://github.com/PharmCat/Metida.jl,Julia package for fitting mixed-effects models with flexible random/repeated covariance structure.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),MixedModels.jl,https://github.com/dmbates/MixedModels.jl,A Julia package for fitting (statistical) mixed-effects models.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
@@ -1910,7 +1915,6 @@ Probability-Statistics,UNCLASSIFIED,Rmath.jl,https://github.com/JuliaStats/Rmath
 Probability-Statistics,UNCLASSIFIED,RankAggregation.jl,https://github.com/JuliaEarth/RankAggregation.jl,Rank aggregation in Julia.
 Probability-Statistics,UNCLASSIFIED,StatsBase.jl,https://github.com/JuliaStats/StatsBase.jl,Basic statistics.
 Probability-Statistics,UNCLASSIFIED,TopicModels.jl,https://github.com/slycoder/TopicModels.jl,TopicModels for Julia.
-Probability-Statistics,UNCLASSIFIED,CovarianceMatrices.jl,https://github.com/gragusa/CovarianceMatrices.jl,Covariance Matrix Estimation in Julia.
 Probability-Statistics,UNCLASSIFIED,PortHamiltonian.jl,https://github.com/flavioluiz/PortHamiltonian.jl,Port-Hamiltonian systems in Julia.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Automa.jl,https://github.com/BioJulia/Automa.jl,"A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler."
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
