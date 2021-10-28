@@ -2,7 +2,7 @@
 [Quality Assurance](https://en.wikipedia.org/wiki/Quality_assurance) in Julia!
 
 + [§1. Data QA](#1-Data-QA) 
-+ [§2. Package QA](§2-Package-QA]
++ [§2. Package QA](§2-Package-QA)
 
 ----
 ----
