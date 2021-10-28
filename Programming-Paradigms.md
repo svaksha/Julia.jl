@@ -22,6 +22,7 @@ Programming Paradigms: __Packages and resources that support various programming
 + [Style Guidelines](#style-guidelines)
 
 ----
+----
 
 # [Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation))
 + [Automa.jl](https://github.com/BioJulia/Automa.jl) :: A julia code generator for regular expressions - this package can do text validation, parsing, and tokenizing based on state machine compiler.

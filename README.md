@@ -35,6 +35,7 @@
 + [Physics](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
 + [Programming Paradigms](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
 + [Publications](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
++ [QA](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Quality Assurance in Julia.
 + [Resources](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: List of community resources, development links, including events, (un)conferences, forums/ meetup groups, NEWS, blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other useful resources.
 + [Server](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP/Web, Networking, and other server-side utils...
 + [Space Science](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) :: Astronomy, Imaging, Planetary and [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
@@ -49,9 +50,6 @@
 # §2. LICENSE <span id="2-LICENSE"><span>
 
 + COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), herewith dual-licensed for the data (ODbL-v1.0+) and the software (AGPLv3+), respectively.
-
-   + [§2.1. ODbL and AGPLv3](#2-1-ODbL-and-AGPLv3)
-
 
 ## §2.1. AGPLv3 and ODbL <span id="2-1-AGPLv3-and-ODbL"><span>
 This repo uses multiple licences for data and code, viz. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)

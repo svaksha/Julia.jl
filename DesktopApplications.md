@@ -12,7 +12,7 @@ The collective noun [application software](https://en.wikipedia.org/wiki/Applica
         + [Atom](#atom)
         + [Emacs](#emacs)
    + [Jupyter](#jupyter)
-   + [
+   + [Prettyprinting](#prettyprinting)
    + [WIDE](#wide) 
    
 ----

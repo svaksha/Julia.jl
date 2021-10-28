@@ -17,6 +17,7 @@
 + [Resources-Teaching](#resources-teaching)
 
 ----
+----
 
 + [COBRA.jl](https://github.com/opencobra/COBRA.jl) :: COnstraint-Based Reconstruction and Analysis, used to perform COBRA analyses such as Flux Balance Anlysis (FBA), Flux Variability Anlysis (FVA), or any of its associated variants such as `distributedFBA`.
 

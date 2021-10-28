@@ -1,4 +1,4 @@
-# Chemistry in Julia!
+# Chemistry.md
 
 + [§1. Chemical File Formats and Input Output](#1-chemical-file-formats-and-input-output)
 + [§2. Biochemistry](#2-Biochemistry)

@@ -3,17 +3,19 @@
 [Utility software](https://en.wikipedia.org/wiki/Utility_software) for storage, disk and OS utils to help analyze, configure, optimize or maintain a computer, viz. middleware, utility software, Shells and other handy utilities
 
 
-+ [UTILS](#utils)
-   + [File Compression](#file-compression)
-   + [Microsoft Windows](#microsoft-windows)
-   + [Terminal](#terminal)
-+ [Communication](#communication)
-   + [SMS](#sms)
-   + [VOIP](#voip)
++ [§1. UTILS](#1-UTILS)
+   + [§1.1. File Compression](#1-1-File-Compression)
+   + [§1.2. Microsoft Windows](#1-2-Microsoft-Windows)
+   + [§1.3. Terminal](#1-3-Terminal)
++ [§2. Communication](#2-Communication)
+   + [§2.1. IRC](#2-1-IRC) 
+   + [§2.2. SMS](#2-2-SMS)
+   + [§2.3. VOIP](#2-3-VOIP)
 
 ----
+----
 
-# UTILS
+# §1. UTILS <span id="1-UTILS"><span>
 + [Events.jl](https://github.com/SimonDanisch/Events.jl) :: Simple Event system.
 + [FilePaths.jl](https://github.com/Rory-Finnegan/FilePaths.jl) ::  A type based approach to working with filesystem paths in julia.
 + [Graze.jl](https://github.com/iamed2/Graze.jl) :: A feed reader. 
@@ -22,8 +24,7 @@
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
 
-https://github.com/domluna/JuliaFormatter.jl
-## File Compression 
+## §1.1. File Compression <span id="1-1-File-Compression"><span>
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
 + [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
 + [GZip.jl](https://github.com/JuliaLang/GZip.jl) :: A Julia interface for gzip functions in zlib.
@@ -34,8 +35,7 @@ https://github.com/domluna/JuliaFormatter.jl
    + DOCS :: https://zipfilejl.readthedocs.org/en/latest/
 + [Zlib.jl](https://github.com/dcjones/Zlib.jl) :: Zlib bindings for Julia.
 
-
-## Microsoft Windows
+## §1.2. Microsoft Windows <span id="1-2-Microsoft-Windows"><span>
 + [COMCall.jl](https://github.com/ihnorton/COMCall.jl) :: COM Interface for Julia. Ref :: [COM Class Objects and CLSIDs](http://msdn.microsoft.com/en-us/library/windows/desktop/ms678406%28v=vs.85%29.aspx)
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [IUP.jl](https://github.com/joa-quim/IUP.jl) :: Julia interface to IUP windowing toolkit.
@@ -48,7 +48,8 @@ https://github.com/domluna/JuliaFormatter.jl
 + [XCB.jl](https://github.com/JuliaGL/XCB.jl) :: XCB windowing library wrapper.
 
 
-## Terminal
+## §1.3. Terminal <span id="1-3-Terminal"><span>
+
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 + [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) :: Package for parsing command-line arguments to Julia programs.
 + [CLI.jl](https://github.com/Roger-luo/CLI.jl) :: A library for automatically generating command line interfaces from absolutely Julia object, inspired by `python-fire`.
@@ -75,15 +76,15 @@ https://github.com/domluna/JuliaFormatter.jl
 
 ----
 
-# Communication
+# §2. Communication <span id="2-Communication"><span>
 
-## IRC
+## §2.1. IRC <span id="2-1-IRC"><span>
 + [DandelionSlack.jl](https://github.com/dandeliondeathray/DandelionSlack.jl) :: Slack API in Julia.
 + [Slackbot.jl](https://github.com/jiahao/Slackbot.jl) :: A Julia REPL that interacts with Slack.com's webhook integration.
 
-## SMS
+## §2.2. SMS <span id="2-2-SMS"><span>
 + [Twilert.jl](https://github.com/glesica/Twilert.jl) :: A small SMS alert library for Julia.
 
-## VOIP
+## §2.2. VOIP <span id="2-2-VOIP"><span>
 + [Discord.jl](https://github.com/PurgePJ/Discord.jl) :: Julia Discord wrapper.
 + [Toxcore.jl](https://github.com/SimonDanisch/Toxcore.jl) :: A Julia wrapper for [Tox](http://en.wikipedia.org/wiki/Tox_%28software%29).

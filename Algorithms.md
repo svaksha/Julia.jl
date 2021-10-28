@@ -1,17 +1,17 @@
 __[ALGORITHMS and Data Structures](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures) : Data Mining, Clustering, ...__
 
 + [ALGORITHMS](#algorithms)
-    + [Association Rule](#association-rule)
-    + [Checksum](#checksum)
-    + [Collaborative Filtering](#collaborative-filtering)
-    + [Graph Algorithms](#graph-algorithms)
-    + [Pattern Matching](#pattern-matching)
-    + [Quantum](#quantum)
-    + [Scheduling Algorithm](#scheduling-algorithm)
-    + [Sorting](#sorting)
-    + [Time](#time)
+   + [Association Rule](#association-rule)
+   + [Checksum](#checksum)
+   + [Collaborative Filtering](#collaborative-filtering)
+   + [Graph Algorithms](#graph-algorithms)
+   + [Pattern Matching](#pattern-matching)
+   + [Quantum](#quantum)
+   + [Scheduling Algorithm](#scheduling-algorithm)
+   + [Sorting](#sorting)
+   + [Time](#time)
 + [COMPUTATIONAL PROBLEMS](#computational-problems)
-    + [NP-complete](#np-complete)
+   + [NP-complete](#np-complete)
         + [SAT](#sat)
 
 ----

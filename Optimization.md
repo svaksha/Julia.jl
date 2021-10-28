@@ -1,20 +1,21 @@
+# Optimization.md
 __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematical_optimization) packages in Julia!__
 
-
-+ [FRAMEWORKS](#frameworks)
-+ [Linear Programming-Optimization](#linear-programming-optimization)
-+ [Nonlinear Programming](#nonlinear-programming)
-+ [UNCLASSIFIED](#unclassified)
++ [§1. FRAMEWORKS](#1-FRAMEWORKS)
++ [§2. Linear Programming-Optimization](#2-Linear-Programming-Optimization)
++ [§3. Nonlinear Programming](#3-Nonlinear-Programming)
++ [§4. UNCLASSIFIED](#4-UNCLASSIFIED)
    
 ----
+----
 
-# FRAMEWORKS
+# §1. FRAMEWORKS <span id="1-FRAMEWORKS"><span>
 + [JuMP.jl](https://github.com/jump-dev/JuMP.jl) :: A modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
 
 
 ----
 
-# [Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
+# §2. [Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming) <span id="2-Linear-Programming-Optimization"><span>
 + [Clp.jl](https://github.com/jump-dev/Clp.jl) :: Interface to the Coin-OR Linear Programming solver (CLP)
 + [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) :: is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP).
 + [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.
@@ -22,11 +23,10 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 + [PiecewiseLinearOpt.jl](https://github.com/joehuchette/PiecewiseLinearOpt.jl) :: Optimizing over piecewise linear functions.
 + [Tulip.jl](https://github.com/ds4dm/Tulip.jl) :: is an open-source interior-point solver for linear optimization, written in pure Julia. It implements the homogeneous primal-dual interior-point algorithm with multiple centrality corrections, and therefore handles unbounded and infeasible problems.
 
-
-
 ----
 
-# [Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming)
+# §3. [Nonlinear Programming](https://en.wikipedia.org/wiki/Nonlinear_programming) <span id="3-Nonlinear-Programming"><span>
+ 
 + [BARON.jl](https://github.com/joehuchette/BARON.jl) :: A wrapper for the BARON mixed-integer nonlinear programming solver.
 + [ConicNonlinearBridge.jl](https://github.com/mlubin/ConicNonlinearBridge.jl) :: Wrapper to solve conic optimization problems with derivative-based nonlinear solvers.
 + [Convex.jl](https://github.com/jump-dev/Convex.jl) :: A Julia library for mathematical programming that makes it easy to formulate and fast to solve nonlinear convex optimization problems.
@@ -42,7 +42,8 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 
 ----
 
-# UNCLASSIFIED
+# §4. UNCLASSIFIED <span id="4-UNCLASSIFIED"><span>
+
 + [AmplNLReader.jl](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl) :: A Julia Interface to AMPL.
 + [AmplNLWriter.jl](https://github.com/jump-dev/AmplNLWriter.jl) :: Julia interface to AMPL-enabled solvers
 + [AutomotiveDrivingModels.jl](https://github.com/tawheeler/AutomotiveDrivingModels.jl) :: For car encounter models.

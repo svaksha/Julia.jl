@@ -1,7 +1,7 @@
 + [§1. Binary IO](#1-Binary-IO)
 + [§2. Data Formats](#2-Data-Formats)
-   + [Avro](#avro)
-   + [BSON](#bson)
+   + [§2.1. Avro](#2-1-Avro)
+   + [§2.2. BSON](#2-2-BSON)
    + [JSON](#json)
    + [ODS](#ods)
    + [PDF](#pdf)
@@ -23,7 +23,7 @@
 ----
 
 
-# §1. Binary IO. <span id="1-Binary-IO"><span>
+# §1. Binary IO <span id="1-Binary-IO"><span>
 + [FortranFiles.jl](https://github.com/traktofon/FortranFiles.jl) :: Read and write "unformatted" Fortran data, i.e. binary data interspersed with metadata about data records.
 + [HexEdit.jl](https://github.com/templarlabs/HexEdit.jl) :: Edit and display binary file data in hexadecimal format.
 + [LargeColumns.jl](https://github.com/tpapp/LargeColumns.jl) :: Handle large columns (vectors of equal length) with bits types in Julia using mmap - a thin wrapper for mmapped binary data, with a few sanity checks and convenience functions.
@@ -31,8 +31,7 @@
 
 ----
 
-
-# §2. Data Formats. <span id="2-Data-Formats"><span>
+# §2. Data Formats <span id="2-Data-Formats"><span>
 **Libraries for Data serialization and (human readable) file formats.**
 + [AIDA.jl](https://github.com/jstrube/AIDA.jl) :: This package implements simple readers for legacy AIDA files.
 + [BEncode.jl](https://github.com/joshuamiller/BEncode.jl) :: A Julia library for BEncode metadata files used for encoding BitTorrent storage and transmission of loosely structured data.
@@ -66,10 +65,11 @@
 + [XPT.jl](https://github.com/lendle/XPT.jl) :: The XPT package reads SAS® software transport files and converts SAS software datasets to DataFrames.
 
 
-## [Avro](https://en.wikipedia.org/wiki/Apache_Avro]
-+ [Avro.jl](https://github.com/JuliaData/Avro.jl) ::  Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files.
+## §2.1. [Avro](https://en.wikipedia.org/wiki/Apache_Avro] <span id="2-1-Avro"><span>
 
-## BSON
++ [Avro.jl](https://github.com/JuliaData/Avro.jl) :: Julia implementation of the Apache Avro data standard. It provides convenient APIs for reading/writing data directly in the avro format, or as schema-included object container files.
+
+## §2.2. BSON <span id="2-2-BSON"><span>
 + [BSON.jl](https://github.com/MikeInnes/BSON.jl) :: A Julia package for working with the Binary JSON serialisation format, that can be used as a general store for Julia data structures.
 + [BSONify.jl](https://github.com/OliverColeman/BSONify.jl) :: Convert just about any data structure - including primitive types, arbitrary composite types defined by other modules or your own data structures, nested and recursive data structures, complicated parametrised types, and even type unions - to clean and simple BSON and back again. Save and load to/from files or a MongoDB.
 
