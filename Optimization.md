@@ -15,7 +15,6 @@ __[Mathematical Optimization](https://en.wikipedia.org/wiki/Category:Mathematica
 ----
 
 # [Linear Programming-Optimization](https://en.wikipedia.org/wiki/Linear_programming)
-+ [BilinearJuMP.jl](https://github.com/IainNZ/BilinearJuMP.jl) :: A JuMP extension for bilinear optimization problems.
 + [Clp.jl](https://github.com/jump-dev/Clp.jl) :: Interface to the Coin-OR Linear Programming solver (CLP)
 + [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl) :: is a Julia interface for the Gurobi Optimizer, a [commercial optimization solver for a variety of mathematical programming problems](https://en.wikipedia.org/wiki/Gurobi), including linear programming (LP), quadratic programming (QP), quadratically constrained programming (QCP), mixed integer linear programming (MILP), mixed-integer quadratic programming (MIQP), and mixed-integer quadratically constrained programming (MIQCP).
 + [jlSimplex](https://github.com/mlubin/jlSimplex) :: Proof-of-concept implementation of the (dual) simplex algorithm for linear programming in Julia.

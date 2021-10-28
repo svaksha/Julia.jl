@@ -58,6 +58,7 @@
 + [Merlin.jl](https://github.com/hshindo/Merlin.jl) :: Flexible Deep Learning Framework in Julia.
 + [Mitosis.jl](https://github.com/mschauer/Mitosis.jl) :: Automatic probabilistic programming for scientific machine learning and dynamical models.
 + [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) :: Utility package for accessing common Machine Learning datasets in Julia.
++ [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl) :: MLJ (Machine Learning in Julia) is a toolbox written in Julia providing a common interface and meta-algorithms for selecting, tuning, evaluating, composing and comparing over 160 machine learning models written in Julia and other languages.
 + [MLLabelUtils.jl](https://github.com/JuliaML/MLLabelUtils.jl) :: Utility package for working with classification targets and label-encodings. Documentation: http://mllabelutilsjl.readthedocs.io/
 + [MLKernels.jl](https://github.com/trthatcher/MLKernels.jl) :: Mercer kernels and Gramian matrix calculation/approximation.
 + [MochaTheano.jl](https://github.com/benmoran/MochaTheano.jl) :: Allow use of Theano for automatic differentiation within Mocha, via PyCall.

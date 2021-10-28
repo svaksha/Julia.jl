@@ -34,7 +34,9 @@
 + List of [Julia Modules](http://docs.julialang.org/en/latest/manual/modules/).
 + [The Julia Standard Library](http://docs.julialang.org/en/latest/stdlib/)
 + Julia [Sample programs](https://github.com/JuliaLang/julia/tree/master/examples)
-+ [jill](https://github.com/abelsiqueira/jill) ::  Command line installer of the Julia Language. 
++ [jill](https://github.com/abelsiqueira/jill) :: A command line installer of the Julia Language, written in Bash.
++ [jill.py](https://github.com/johnnychen94/jill.py) :: An enhanced Python (>= 3.6) fork of [JILL](https://github.com/abelsiqueira/jill), a cross-platform Julia installer that can be installed with pip `pip install jill` to install Julia packages.
+   + Package [announcement](https://discourse.julialang.org/t/ann-jill-py-a-simple-and-stupid-cross-platform-julia-installer/34845) on Discourse forum.
 
 ----
 

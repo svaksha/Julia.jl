@@ -69,17 +69,19 @@ The motivation for this change is to make it easier for people to re-use this da
 
 [Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
 
+
 ## Guidelines
 
-The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
-+ References :
-   + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
-   + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+1. The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
+   + References :
+        + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
+        + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
+2. __Commercial Links__: Almost all the resources in this repo are Free/Libre software resources, so in the interest of continuing to maintain the "Libre" software spirit, please only submit those resources that are free and without paid/commercial interests. 
 
 
 ## BugReport-PullRequest
 
-1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it (via a BR, not a PR ;-)).
+1. Add your link as per the top-level Category page within the topic sub-section(s), in _alphabetical order_, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it via a BR (not a PR ;-)).
 2. In a CLI, type `julia Julia.jl` which will run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl). Commit the `db.csv` file too.
 3. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.

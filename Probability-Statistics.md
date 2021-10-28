@@ -39,6 +39,7 @@
 + [GaussianProcesses.jl](https://github.com/STOR-i/GaussianProcesses.jl) :: A Julia package for Gaussian Processes.
 
 ### Bayesian
++ [ArviZ.jl](https://github.com/arviz-devs/ArviZ.jl) :: A Julia interface to the [ArviZ](https://arviz-devs.github.io/arviz/") package for exploratory analysis of Bayesian models, with functions for posterior analysis, model checking, comparison and diagnostics.
 + [BayesNets.jl](https://github.com/sisl/BayesNets.jl) :: Bayesian Networks for Julia.
 + [BayesianDataFusion.jl](https://github.com/jaak-s/BayesianDataFusion.jl) :: Implementation of data fusion methods.
 + [BayesEstDiffusion.jl](https://github.com/mschauer/BayesEstDiffusion.jl) :: Bayesian estimation of diffusion processes.
@@ -51,6 +52,7 @@
 # [STATISTICS](https://en.wikipedia.org/wiki/Statistics)
 
 ## [REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis)
++ [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl) :: Covariance Matrix Estimation in Julia.
 + [CurveFit.jl](https://github.com/pjabardo/CurveFit.jl) :: Simple least squares and curve fitting functions.
 + [FixedEffectModels.jl](https://github.com/FixedEffects/FixedEffectModels.jl) :: Fast estimation of linear models with IV and high dimensional categorical variables.
 + [FLSA.jl](https://github.com/EQt/FLSA.jl) :: Computing the Fused LASSO Signal Approximator.
@@ -58,6 +60,7 @@
 + [Isotonic.jl](https://github.com/ajtulloch/Isotonic.jl) :: This implements several algorithms for isotonic regression in Julia.
 + [LARS.jl](https://github.com/simonster/LARS.jl) :: Least angle regression.
 + [Lasso.jl](https://github.com/JuliaStats/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
++ [Metida.jl](https://github.com/PharmCat/Metida.jl) :: Julia package for fitting mixed-effects models with flexible random/repeated covariance structure. 
 + [MixedModels.jl](https://github.com/dmbates/MixedModels.jl) :: A Julia package for fitting (statistical) mixed-effects models.
 + [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) :: Some nonnegative least squares solvers in Julia.
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
@@ -140,6 +143,5 @@
 + [RankAggregation.jl](https://github.com/JuliaEarth/RankAggregation.jl) :: Rank aggregation in Julia.
 + [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl) :: Basic statistics.
 + [TopicModels.jl](https://github.com/slycoder/TopicModels.jl) :: TopicModels for Julia.
-+ [CovarianceMatrices.jl](https://github.com/gragusa/CovarianceMatrices.jl) :: Covariance Matrix Estimation in Julia.
 + [PortHamiltonian.jl](https://github.com/flavioluiz/PortHamiltonian.jl) :: Port-Hamiltonian systems in Julia.
 

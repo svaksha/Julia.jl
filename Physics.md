@@ -64,7 +64,7 @@
 ----
 
 # Medical Physics
-+ [Xray.jl]https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database.
++ [Xray.jl](https://github.com/ggggggggg/Xray.jl) :: Julia interface for NIST x-ray database.
 
 ----
 
