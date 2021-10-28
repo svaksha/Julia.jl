@@ -3,17 +3,17 @@
 + [§1. Chemical File Formats and Input Output](#1-chemical-file-formats-and-input-output)
 + [§2. Biochemistry](#2-Biochemistry)
 + [§3. Chemoinformatics](#3-Chemoinformatics)
-+ [Chemometrics](#chemometrics)
-+ [General Resources](#general-resources)
++ [§4. Chemometrics](#4-chemometrics)
++ [§5. General Resources](#5-general-resources)
 + [§6. Physical Chemistry](#6-Physical-Chemistry)
   + [§6.1. Reaction Kinetics](#6-1-Reaction-Kinetics)
   + [§6.2. Thermochemistry](#6-2-thermochemistry)
-+ [Simulation Methods](#simulation-methods)
-+ [Solid State Chemistry and Materials Science](#solid-state-chemistry-and-materials-science)
-+ [Uncategorized](#uncategorized) 
++ [§7. Simulation Methods](#7-simulation-methods)
+  + [§7.1. Solid State Chemistry and Materials Science](#7-1-solid-state-chemistry-and-materials-science)
++ [§8. Uncategorized](#8-uncategorized) 
 
 ----
-
+----
 
 # §1. Chemical File Formats and Input Output <span id="1-chemical-file-formats-and-input-output"><span>
 
@@ -33,11 +33,11 @@
 + [Synchrony.jl](https://github.com/simonster/Synchrony.jl) :: Coherence/phase-locking statistics in Julia.
 
 
-# §4. Chemometrics
+# §4. Chemometrics <span id="4-Chemometrics"><span>
 + [ChemometricsTools.jl](https://github.com/caseykneale/ChemometricsTools.jl) :: A collection of tools to perform fundamental and advanced Chemometric analysis and machine learning in Julia.
 + [Qlab.jl](https://github.com/blakejohnson/Qlab.jl) :: is a data manipulation and analysis tool based on the Savitzky–Golay filter - a digital filter that can be applied to a set of digital data points for the purpose of smoothing the data to increase the signal-to-noise ratio without greatly distorting the signal. Savitzky and Golay's paper is one of the most widely cited papers in the Analytical Chemistry journal.
 
-# §5. General Resources
+# §5. General Resources <span id="5-General-Resources"><span>
 + [PeriodicTable.jl](https://github.com/JuliaPhysics/PeriodicTable.jl) :: Well its the periodic table - in Julia!
 + [PhysicalConstants.jl](https://github.com/JuliaPhysics/PhysicalConstants.jl) :: A package containing curated physical constants.
 + [Videos for JuliaQuantum](https://www.youtube.com/channel/UCXeOiWjj3rcYUQqfgelTDWQ) technical talks and meetups.
@@ -56,7 +56,7 @@
 + [Psychro.jl](https://github.com/pjabardo/Psychro.jl) :: Thermodynamics properties of wet air and gasses.
 
 
-# §7. Simulation Methods
+# §7. Simulation Methods <span id="#7-Simulation-Methods"><span>
 Overview of Julia packages for simulation methods related to chemistry and
 [Molecular Modelling](https://en.wikipedia.org/wiki/Category:Molecular_modelling),
 such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
@@ -77,7 +77,7 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 + [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia.
 
-## [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science
+## §7.1. [Solid State Chemistry](https://en.wikipedia.org/wiki/Solid-state_chemistry) and Materials Science <span id="#7-1-Solid-State-Chemistry-and Materials Science"><span>
 + [ClassicalLaminateTheory.jl](https://github.com/goedman/ClassicalLaminateTheory.jl) :: Laminate model functions used in EDX course __AA432x Composite Materials Overview for Engineers__ by K.Y.Lin.
 + [HydrocarbonNets.jl](https://github.com/Ismael-VC/HydrocarbonNets.jl) :: Artificial Hydrocarbon Networks (AHNs) in Julia.
 + [Lattices.jl](https://github.com/JuliaPhysics/Lattices.jl) :: A Lattice Library for Julia.
@@ -85,7 +85,7 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 
 ----
 
-# §8. Uncategorized
+# §8. Uncategorized <span id="#8-Uncategorized"><span>
 
 + [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) :: This library allows for efficient calculation of Clifford circuits by tracking the evolution of X and Z generators (the so-called tableau representation). Ref: http://en.wikipedia.org/wiki/Clifford_algebra
 + [Dimers.jl](https://github.com/sswatson/Dimers.jl) :: Oligomers with two structurally similar monomers. See, http://en.wikipedia.org/wiki/Category:Dimers_%28chemistry%29

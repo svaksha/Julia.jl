@@ -132,7 +132,6 @@ Programming Paradigms: __Packages and resources that support various programming
 + [OCCA.jl](https://github.com/ReidAtcheson/OCCA.jl) :: Julia interface into [OCCA2](https://github.com/tcew/OCCA2) by @tcew, an extensible multi-threading programming API written in C++.
 + [TiledIteration.jl](https://github.com/JuliaArrays/TiledIteration.jl) :: Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code.
 
-
 ----
 
 # [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming)

@@ -12,10 +12,11 @@ The collective noun [application software](https://en.wikipedia.org/wiki/Applica
         + [Atom](#atom)
         + [Emacs](#emacs)
    + [Jupyter](#jupyter)
+   + [
    + [WIDE](#wide) 
    
 ----
-
+----
 
 # [DEBUGGER](https://en.wikipedia.org/wiki/Category:Debuggers)
 + [ASTInterpreter2.jl](https://github.com/Keno/ASTInterpreter2.jl) :: Re-write of ASTInterpreter for julia v0.6+.
@@ -153,6 +154,11 @@ __Generic Syntax Highlighter__
 ###### Resources
 + How to create a [Custom IJulia Widget](http://nbviewer.ipython.org/urls/gist.githubusercontent.com/avrahamruderman/116845471f0d79942aff/raw/fb1f659e635f4585ebb449aa2519deffd15aba31/writing-custom-ijulia-widgets.ipynb)
 + [Run Jupyterhub on a Supercomputer](http://zonca.github.io/2015/04/jupyterhub-hpc.html).
+
+
+### [Prettyprinting](https://en.wikipedia.org/wiki/Prettyprint)
+* [https://github.com/domluna/JuliaFormatter.jl](https://github.com/domluna/JuliaFormatter.jl) :: A code formatter for Julia. 
+
 
 ### [WIDE](https://en.wikipedia.org/wiki/Web_integrated_development_environment)
 + [JuliaBox](https://juliabox.com/) :: Jupyter/IJulia sandboxed by Docker containers that allows you to run Julia on the browser. Here is the [source code](https://github.com/JuliaLang/JuliaBox), [installation instructions](https://github.com/JuliaLang/JuliaBox/blob/master/docs/INSTALL.MD), a [collection of example notebooks](https://github.com/shashi/IJuliaNotebooks).

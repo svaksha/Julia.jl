@@ -3,7 +3,7 @@
    + [§1.2. STOCHASTICS](#1-2-stochastics)
         + [§1.2.1. Bayesian](#1-2-1-Bayesian)
         + [§1.2.2. Gaussian](#1-2-2-Gaussian)
-        + [§1.2.3. Markovian)(#1-2-3-Markovian)
+        + [§1.2.3. Markovian](#1-2-3-Markovian)
 + [STATISTICS](#statistics)
    + [REGRESSION](#regression)
    + [DENSITIES](#densities)

@@ -22,7 +22,7 @@
 + [SO.jl](https://github.com/dlfivefifty/SO.jl) :: Personal macros for Julia.
 + [Utils.jl](https://github.com/SimonDanisch/Utils.jl) :: Some utility functions by @SimonDanisch.
 
-
+https://github.com/domluna/JuliaFormatter.jl
 ## File Compression 
 + [Blosc.jl](https://github.com/stevengj/Blosc.jl) :: The Blosc Module provides fast lossless compression for the Julia language by interfacing the Blosc Library, currently limited to 32-bit buffer sizes.
 + [gzip.jl](https://github.com/jvns/gzip.jl) :: GunZip in Julia.
