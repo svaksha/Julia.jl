@@ -1,12 +1,13 @@
-+ [ACTUARIAL SCIENCE](#actuarialscience)
-   + [ECONOMETRICS](#econometrics)
-   + [FINANCE](#finance)
+# ACTUARIAL-SCIENCE.md
+
++ [§1. ECONOMETRICS](#1-ECONOMETRICS)
++ [§2. FINANCE](#2-FINANCE)
 
 ----
+----
 
-# ACTUARIAL SCIENCE
+# §1. ECONOMETRICS <span id="1-ECONOMETRICS"><span>
 
-## ECONOMETRICS
 + [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) :: Technical analysis of financial time series in Julia.
 + [DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) :: FRBNY DSGE model in Julia.
 + [copula.jl](https://github.com/floswald/copula.jl) :: Julia Copula package implements the gaussian AR1 copula.
@@ -26,7 +27,10 @@
    + [Quantitative economic modelling](http://quant-econ.net/jl/index.html) lecture series in Julia language, designed and written by Thomas J. Sargent and John Stachurski, that is freely available as a [PDF](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf) file too.
 + [RuinProbability.jl](https://github.com/Hank-Qian/RuinProbability.jl) :: For calculating the ruin probability with real data under different claims models.
 
-## FINANCE
+----
+
+# §2. FINANCE <span id="2-FINANCE"><span>
++ [AlphaVantage.jl](https://github.com/ellisvalentiner/AlphaVantage.jl) :: A Julia wrapper for the Alpha Vantage API. 
 + [AssetMgmt.jl](https://github.com/cgroll/AssetMgmt.jl) :: Asset Management.
 + [BigFinance.jl](https://github.com/jiahao/BigFinance.jl) :: Analysis of high frequency quantitative data.
    + flashcrash-ui](https://github.com/shashi/flashcrash-ui) :: UI for `BigFinance.jl`.

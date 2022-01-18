@@ -29,6 +29,7 @@ Programming Paradigms: __Packages and resources that support various programming
 + [BitRegs.jl](https://github.com/daqcore/BitRegs.jl) :: Julia package for bit and register operations. 
 + [ChainMap.jl](https://github.com/bramtayl/ChainMap.jl) :: Combine chaining and mapping.
 + [CodeTracking.jl](https://github.com/timholy/CodeTracking.jl) :: An extension of Julia's InteractiveUtils library that provides an interface for obtaining strings and expressions of method definitions, method signatures, etc.. designed to work with Revise.jl (for versions v1.1.0 and higher). 
++ [Eyeball.jl](https://github.com/tshort/Eyeball.jl) :: is an object and type viewer for Julia that exports one main tool to browse Julia objects and types.
 + [FemtoCleaner.jl](https://github.com/JuliaComputing/FemtoCleaner.jl) :: It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting. 
 + [IniFile.jl](https://github.com/JuliaLang/IniFile.jl) :: Reading and writing Windows-style INI files.
 + [InterVal.jl](https://github.com/J-Sarnoff/InterVal.jl) :: Intervals are inter-values, an interval is its values and their intra-values.

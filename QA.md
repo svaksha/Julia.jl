@@ -13,5 +13,5 @@
 ----
 
 # §2. Package QA <span id="2-Package-QA"><span>
-+ [Aqua.jl(https://github.com/JuliaTesting/Aqua.jl) :: Automate Quality Assurance for Julia packages.
++ [Aqua.jl](https://github.com/JuliaTesting/Aqua.jl) :: Automate Quality Assurance for Julia packages.
 

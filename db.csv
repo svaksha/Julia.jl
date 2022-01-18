@@ -243,56 +243,57 @@ API,REDUCE,ReduceLinAlg.jl,https://github.com/JuliaReducePkg/ReduceLinAlg.jl,A s
 API,Ruby,guard-julia,https://github.com/svs14/guard-julia,Guard plugin for Julia development. Julia guard automatically launches respective tests when Julia files are modified.
 API,Ruby,jl4rb,https://github.com/rcqls/jl4rb,"Julia for Ruby embeds the julia language in ruby, with very basic julia types being converted to ruby objects."
 API,RESOURCES,FFIExamples.jl,https://github.com/johnmyleswhite/FFIExamples.jl,Many small examples that demonstrate how Julia's [FFI](http://en.wikipedia.org/wiki/Foreign_function_interface) works as of v0.4.
-ActuarialScience,ECONOMETRICS,MarketTechnicals.jl,https://github.com/JuliaQuant/MarketTechnicals.jl,Technical analysis of financial time series in Julia.
-ActuarialScience,ECONOMETRICS,DSGE.jl,https://github.com/FRBNY-DSGE/DSGE.jl,FRBNY DSGE model in Julia.
-ActuarialScience,ECONOMETRICS,copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
-ActuarialScience,ECONOMETRICS,Dolo.jl,https://github.com/EconForge/Dolo.jl,A tool to describe and solve economic models.
-ActuarialScience,ECONOMETRICS,Dynare.jl,https://github.com/DynareTeam/Dynare.jl,"This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models."
-ActuarialScience,ECONOMETRICS,Econometrics.jl,https://github.com/JuliaFinMetriX/Econometrics.jl,The Econometrics.jl package contains functionalities for (financial) econometric research.
-ActuarialScience,ECONOMETRICS,Expectations.jl,https://github.com/QuantEcon/Expectations.jl, Expectation operators for `Distributions.jl` objects.
-ActuarialScience,ECONOMETRICS,FredData.jl,https://github.com/micahjsmith/FredData.jl,Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
-ActuarialScience,ECONOMETRICS,fund.jl,https://github.com/davidanthoff/fund.jl,An implementation of FUND in Julia.
-ActuarialScience,ECONOMETRICS,GARCH.jl,https://github.com/AndreyKolev/GARCH.jl,Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
-ActuarialScience,ECONOMETRICS,Gensys.jl,https://github.com/QuantEcon/Gensys.jl,A Julia version of Gensys (Sims 2000).
-ActuarialScience,ECONOMETRICS,GrowthModels,https://github.com/NYUEcon/GrowthModels,This is a repository that contains solutions to many growth models that are of the same class.
-ActuarialScience,ECONOMETRICS,Jconometrics.jl,https://github.com/adriantorrie/Jconometrics.jl,MATLAB to Julia port of Spatial Econometrics.
-ActuarialScience,ECONOMETRICS,Loss.jl,https://github.com/johnmyleswhite/Loss.jl,General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
-ActuarialScience,ECONOMETRICS,QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,This package collects code for quantitative economic modeling. It is currently comprised of two main parts: 1. A toolbox of routines useful when doing economics and 2. Implementations of types and solution methods for common economic models.
-ActuarialScience,ECONOMETRICS,RuinProbability.jl,https://github.com/Hank-Qian/RuinProbability.jl,For calculating the ruin probability with real data under different claims models.
-ActuarialScience,FINANCE,AssetMgmt.jl,https://github.com/cgroll/AssetMgmt.jl,Asset Management.
-ActuarialScience,FINANCE,BigFinance.jl,https://github.com/jiahao/BigFinance.jl,Analysis of high frequency quantitative data.
-ActuarialScience,FINANCE,lashcrash-ui,https://github.com/shashi/flashcrash-ui,UI for `BigFinance.jl`.
-ActuarialScience,FINANCE,Bloomberg.jl,https://github.com/milktrader/Bloomberg.jl,Providing access to Bloomberg financial data in Julia.
-ActuarialScience,FINANCE,BusinessDays.jl,https://github.com/felipenoris/BusinessDays.jl,A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
-ActuarialScience,FINANCE,Currencies.jl,https://github.com/TotalVerb/Currencies.jl, Simple checked fixed-point currencies for Julia.
-ActuarialScience,FINANCE,CTechCommon.jl,https://github.com/tbreloff/CTechCommon.jl,"Some functionality to be shared among packages.  {Usable: 4, Robust: 4, Active: 1}"
-ActuarialScience,FINANCE,DynAssMgmt.jl,https://github.com/JuliaFinMetriX/DynAssMgmt.jl,This package implements a framework to set up and test dynamic asset management strategies.
-ActuarialScience,FINANCE,EconDatasets.jl,https://github.com/JuliaFinMetriX/EconDatasets.jl,Accessing econometric datasets in Julia.
-ActuarialScience,FINANCE,EodData.jl,https://github.com/adriantorrie/EodData.jl,Julia package for connecting to the [EodData.com XML Web Service](http://eoddata.com/products/webservice.aspx).
-ActuarialScience,FINANCE,FinancialBlotter.jl,https://github.com/JuliaQuant/FinancialBlotter.jl,Financial Instruments and Accounting in Julia.
-ActuarialScience,FINANCE,FinMarkets.jl,https://github.com/imanuelcostigan/FinMarkets.jl,Describe and model financial markets objects using Julia.
-ActuarialScience,FINANCE,FinancialMarkets.jl,https://github.com/imanuelcostigan/FinancialMarkets.jl,Describe and model financial markets objects using Julia.
-ActuarialScience,FINANCE,FinanceStats.jl,https://github.com/JuliaQuant/FinanceStats.jl,An experimental sandbox of functions that implement common statistical methods in finance.
-ActuarialScience,FINANCE,FRED.jl,https://github.com/joidegn/FRED.jl,Package to read from the St. Louis Federal Reserve Bank API.
-ActuarialScience,FINANCE,Grist.jl,https://github.com/JuliaQuant/Grist.jl,Financial blotter.
-ActuarialScience,FINANCE,InterestRates.jl,https://github.com/felipenoris/InterestRates.jl,"Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures."
-ActuarialScience,FINANCE,Ito.jl,https://github.com/aviks/Ito.jl,An open source toolkit for financial computing in Julia.
-ActuarialScience,FINANCE,LibTrading.jl,https://github.com/StefanKarpinski/LibTrading.jl,"A wrapper for the libtrading library, an _open source API for high-performance, low-latency trading applications_."
-ActuarialScience,FINANCE,MarketStates.jl,https://github.com/milktrader/MarketStates.jl,Library of market states that aggregate market indicators to produce a market signal.
-ActuarialScience,FINANCE,MCInsurance.jl,https://github.com/mkriele/MCInsurance.jl,This Julia package provides multi-period Monte Carlo simulations for life insurance.
-ActuarialScience,FINANCE,OpenFiscaCore.jl,https://github.com/openfisca/OpenFiscaCore.jl,"A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data."
-ActuarialScience,FINANCE,OpenFiscaFrance.jl,https://github.com/openfisca/OpenFiscaFrance.jl,"A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system."
-ActuarialScience,FINANCE,Quandl.jl,https://github.com/milktrader/Quandl.jl,"Julia api to Quandl open source financial, economic and social datasets."
-ActuarialScience,FINANCE,RobHood.jl,https://github.com/cndesantana/RobHood.jl,Open platform to investigate markets.
-ActuarialScience,FINANCE,SDE.jl,https://github.com/mschauer/SDE.jl,Simulation and inference for Ito processes and diffusions.
-ActuarialScience,FINANCE,stockMonitor.jl,https://github.com/krthkj/stockMonitor.jl,A module which constantly collects and performs analyses the stock market.
-ActuarialScience,FINANCE,Timestamps.jl,https://github.com/JuliaQuant/Timestamps.jl,Immutable timestamped values.
-ActuarialScience,FINANCE,TradeModels.jl,https://github.com/JuliaQuant/TradeModels.jl,Modeling the allocation of resources to markets based on the restraints of objective functions.
-ActuarialScience,FINANCE,TradingLogic.jl,https://github.com/JuliaQuant/TradingLogic.jl,An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
-ActuarialScience,FINANCE,TradingSystem.jl,https://github.com/milktrader/TradingSystem.jl,Quantitative trading framework in Julia.
-ActuarialScience,FINANCE,WorldBankDataTd.jl,https://github.com/JuliaFinMetriX/WorldBankDataTd.jl,Accessing World Bank Data.
-ActuarialScience,FINANCE,YStockData.jl,https://github.com/Algocircle/YStockData.jl,Fetch Data from Yahoo Finance.
-ActuarialScience,FINANCE,ZVSimulator.jl,https://github.com/scidom/ZVSimulator.jl,The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",MarketTechnicals.jl,https://github.com/JuliaQuant/MarketTechnicals.jl,Technical analysis of financial time series in Julia.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",DSGE.jl,https://github.com/FRBNY-DSGE/DSGE.jl,FRBNY DSGE model in Julia.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",copula.jl,https://github.com/floswald/copula.jl,Julia Copula package implements the gaussian AR1 copula.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Dolo.jl,https://github.com/EconForge/Dolo.jl,A tool to describe and solve economic models.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Dynare.jl,https://github.com/DynareTeam/Dynare.jl,"This package aims at bringing to Julia some of the algorithms incorporated in Dynare, a platform for solving dynamic economic models."
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Econometrics.jl,https://github.com/JuliaFinMetriX/Econometrics.jl,The Econometrics.jl package contains functionalities for (financial) econometric research.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Expectations.jl,https://github.com/QuantEcon/Expectations.jl, Expectation operators for `Distributions.jl` objects.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",FredData.jl,https://github.com/micahjsmith/FredData.jl,Pull [data](https://research.stlouisfed.org/fred2/) from [FRED](https://en.wikipedia.org/wiki/Federal_Reserve_Economic_Data) directly into Julia.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",fund.jl,https://github.com/davidanthoff/fund.jl,An implementation of FUND in Julia.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",GARCH.jl,https://github.com/AndreyKolev/GARCH.jl,Generalized Autoregressive Conditional Heteroskedastic (GARCH) models for Julia.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Gensys.jl,https://github.com/QuantEcon/Gensys.jl,A Julia version of Gensys (Sims 2000).
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",GrowthModels,https://github.com/NYUEcon/GrowthModels,This is a repository that contains solutions to many growth models that are of the same class.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Jconometrics.jl,https://github.com/adriantorrie/Jconometrics.jl,MATLAB to Julia port of Spatial Econometrics.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",Loss.jl,https://github.com/johnmyleswhite/Loss.jl,General functions for estimating loss functions inspired by Kaggle's release of code for many common metrics.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",QuantEcon.jl,https://github.com/QuantEcon/QuantEcon.jl,This package collects code for quantitative economic modeling. It is currently comprised of two main parts: 1. A toolbox of routines useful when doing economics and 2. Implementations of types and solution methods for common economic models.
+ActuarialScience,"§1.ECONOMETRICS<spanid=""1-ECONOMETRICS""><span>",RuinProbability.jl,https://github.com/Hank-Qian/RuinProbability.jl,For calculating the ruin probability with real data under different claims models.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",AlphaVantage.jl,https://github.com/ellisvalentiner/AlphaVantage.jl,A Julia wrapper for the Alpha Vantage API.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",AssetMgmt.jl,https://github.com/cgroll/AssetMgmt.jl,Asset Management.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",BigFinance.jl,https://github.com/jiahao/BigFinance.jl,Analysis of high frequency quantitative data.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",lashcrash-ui,https://github.com/shashi/flashcrash-ui,UI for `BigFinance.jl`.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Bloomberg.jl,https://github.com/milktrader/Bloomberg.jl,Providing access to Bloomberg financial data in Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",BusinessDays.jl,https://github.com/felipenoris/BusinessDays.jl,A highly optimized Business Days calculator written in Julia language. Also known as Working Days calculator.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Currencies.jl,https://github.com/TotalVerb/Currencies.jl, Simple checked fixed-point currencies for Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",CTechCommon.jl,https://github.com/tbreloff/CTechCommon.jl,"Some functionality to be shared among packages.  {Usable: 4, Robust: 4, Active: 1}"
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",DynAssMgmt.jl,https://github.com/JuliaFinMetriX/DynAssMgmt.jl,This package implements a framework to set up and test dynamic asset management strategies.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",EconDatasets.jl,https://github.com/JuliaFinMetriX/EconDatasets.jl,Accessing econometric datasets in Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",EodData.jl,https://github.com/adriantorrie/EodData.jl,Julia package for connecting to the [EodData.com XML Web Service](http://eoddata.com/products/webservice.aspx).
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",FinancialBlotter.jl,https://github.com/JuliaQuant/FinancialBlotter.jl,Financial Instruments and Accounting in Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",FinMarkets.jl,https://github.com/imanuelcostigan/FinMarkets.jl,Describe and model financial markets objects using Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",FinancialMarkets.jl,https://github.com/imanuelcostigan/FinancialMarkets.jl,Describe and model financial markets objects using Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",FinanceStats.jl,https://github.com/JuliaQuant/FinanceStats.jl,An experimental sandbox of functions that implement common statistical methods in finance.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",FRED.jl,https://github.com/joidegn/FRED.jl,Package to read from the St. Louis Federal Reserve Bank API.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Grist.jl,https://github.com/JuliaQuant/Grist.jl,Financial blotter.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",InterestRates.jl,https://github.com/felipenoris/InterestRates.jl,"Tools for Term Structure of Interest Rates calculation, aimed at the valuation of financial contracts, specially Fixed Income instruments, indexing and Term Structures."
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Ito.jl,https://github.com/aviks/Ito.jl,An open source toolkit for financial computing in Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",LibTrading.jl,https://github.com/StefanKarpinski/LibTrading.jl,"A wrapper for the libtrading library, an _open source API for high-performance, low-latency trading applications_."
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",MarketStates.jl,https://github.com/milktrader/MarketStates.jl,Library of market states that aggregate market indicators to produce a market signal.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",MCInsurance.jl,https://github.com/mkriele/MCInsurance.jl,This Julia package provides multi-period Monte Carlo simulations for life insurance.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",OpenFiscaCore.jl,https://github.com/openfisca/OpenFiscaCore.jl,"A port of OpenFisca-Core to Julia. This is the core module of OpenFisca, without GUI or country-specific code & data."
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",OpenFiscaFrance.jl,https://github.com/openfisca/OpenFiscaFrance.jl,"A port of OpenFisca-France to Julia, containing the formulas and parameters of the french tax-benefit system."
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Quandl.jl,https://github.com/milktrader/Quandl.jl,"Julia api to Quandl open source financial, economic and social datasets."
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",RobHood.jl,https://github.com/cndesantana/RobHood.jl,Open platform to investigate markets.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",SDE.jl,https://github.com/mschauer/SDE.jl,Simulation and inference for Ito processes and diffusions.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",stockMonitor.jl,https://github.com/krthkj/stockMonitor.jl,A module which constantly collects and performs analyses the stock market.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",Timestamps.jl,https://github.com/JuliaQuant/Timestamps.jl,Immutable timestamped values.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",TradeModels.jl,https://github.com/JuliaQuant/TradeModels.jl,Modeling the allocation of resources to markets based on the restraints of objective functions.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",TradingLogic.jl,https://github.com/JuliaQuant/TradingLogic.jl,An attempt at a unified framework in Julia language for both event-driven backtesting and live trading. This package utilizes reactive programming elements implemented in `Reactive.jl`.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",TradingSystem.jl,https://github.com/milktrader/TradingSystem.jl,Quantitative trading framework in Julia.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",WorldBankDataTd.jl,https://github.com/JuliaFinMetriX/WorldBankDataTd.jl,Accessing World Bank Data.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",YStockData.jl,https://github.com/Algocircle/YStockData.jl,Fetch Data from Yahoo Finance.
+ActuarialScience,"§2.FINANCE<spanid=""2-FINANCE""><span>",ZVSimulator.jl,https://github.com/scidom/ZVSimulator.jl,The ZVSimulator package provides a framework for assessing the zero variance (ZV) principle for Monte Carlo or random sampling via simulation.
 Algorithms,[ALGORITHMS](https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures),DataStructures.jl,https://github.com/JuliaCollections/DataStructures.jl,"This package implements a variety of data structures, viz. Deque, CircularBuffer, CircularDeque, Stack, Queue, Accumulators and Counters (i.e. Multisets / Bags), Disjoint Sets, Binary Heap, Mutable Binary Heap, Ordered Dicts and Sets, Dictionaries with Defaults, Trie, Linked List and Mutable Linked List, Sorted Dict, Sorted Multi-Dict and Sorted Set, DataStructures.IntSet, Priority Queue, Fenwick Tree"
 Algorithms,AssociationRule,ARules.jl,https://github.com/toddleo/ARules.jl,Julia package for Association Rule Learning algorithms.
 Algorithms,Checksum,CRC.jl,https://github.com/andrewcooke/CRC.jl,This is a Julia module for calculating Cyclic Redundancy Checksums (CRCs).
@@ -1921,6 +1922,7 @@ Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),BitRegs.jl,https://github.com/daqcore/BitRegs.jl,Julia package for bit and register operations.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),ChainMap.jl,https://github.com/bramtayl/ChainMap.jl,Combine chaining and mapping.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),CodeTracking.jl,https://github.com/timholy/CodeTracking.jl,"An extension of Julia's InteractiveUtils library that provides an interface for obtaining strings and expressions of method definitions, method signatures, etc.. designed to work with Revise.jl (for versions v1.1.0 and higher)."
+Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),Eyeball.jl,https://github.com/tshort/Eyeball.jl,is an object and type viewer for Julia that exports one main tool to browse Julia objects and types.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),FemtoCleaner.jl,https://github.com/JuliaComputing/FemtoCleaner.jl,"It cleans your julia projects by upgrading deprecated syntax, removing version compatibility workarounds and anything else that has a unique upgrade path, and is designed to be as style-preserving as possible, but does not perform code formatting."
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),IniFile.jl,https://github.com/JuliaLang/IniFile.jl,Reading and writing Windows-style INI files.
 Programming-Paradigms,[Automata](https://en.wikipedia.org/wiki/Category:Automata_(computation)),InterVal.jl,https://github.com/J-Sarnoff/InterVal.jl,"Intervals are inter-values, an interval is its values and their intra-values."
@@ -2006,6 +2008,7 @@ Publications,ResearchPapers,Julia language research publications,http://julialan
 Publications,ResearchPapers,"hah, Viral B., et al. _[Novel Algebras for Advanced Analytics in Julia","http://ieee-hpec.org/2013/index_htm_files/49.pdf)_, IEEE-HPEC (2013)",
 Publications,ResearchPapers,"ezanson Jeff, et al. _[Julia: A fresh approach to numerical computing","http://arxiv.org/abs/1411.1607)_, 07-November-2014",
 QA,"§1.DataQA<spanid=""1-Data-QA""><span>",ReferenceTests.jl,https://github.com/JuliaTesting/ReferenceTests.jl,QA package for comparing data against reference files.
+QA,"§2.PackageQA<spanid=""2-Package-QA""><span>",Aqua.jl,https://github.com/JuliaTesting/Aqua.jl,Automate Quality Assurance for Julia packages.
 Resources,COMMUNITY,he [discourse,https://discourse.julialang.org/) forum for all technical discussions. (NotaBene: The older google groups mailing lists has been abandoned in favor of this FOSS alternative),
 Resources,COMMUNITY,he official list of resources to [learn Julia,http://julialang.org/learning/),
 Resources,ContributingtoJuliacoredevelopment,Documentation bugs,https://github.com/JuliaLang/julia/issues?q=is%3Aopen+is%3Aissue+label%3Adoc),
