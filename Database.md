@@ -86,7 +86,7 @@ For downloading various data sets, visit the [OpenData.md](https://github.com/sv
 + [Redis.jl](https://github.com/msainz/Redis.jl) :: Pure Julia implementation of a Redis client, largely based on redis-py.
 
  ## InfluxDB
-+ [Redis.jl](https://github.com/staticfloat/InfluxDB.jl) :: A package that makes talking to an InfluxDB server a walk in the veritable park.
++ [InfluxDB.jl](https://github.com/staticfloat/InfluxDB.jl) :: A package that makes talking to an InfluxDB server a walk in the veritable park.
 + [InfluxFlux](https://github.com/tallakt/InfluxFlux) :: Minimal Julia InfluxDB client based on v2 API and Flux QL
  
 ----
