@@ -64,15 +64,17 @@ such as [Molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics),
 
 + [JuliaMolSim](https://github.com/JuliaMolSim) :: Github organization for molecular simulation in Julia
       - [ASE.jl](https://github.com/JuliaMolSim/ASE.jl) :: Julia Bindings for the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase)
+      - [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl) :: A Julian abstract interface for atomic structures.
       - [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl) :: Flexible Julia code for plane-wave [density-functional theory (DFT)](https://en.wikipedia.org/wiki/Density_functional_theory) and related models.
       - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl) :: Julia library for Interatomic Potentials.
+      - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl) :: Julia bindings to the libxc library for exchange-correlation functionals.
       - [MolSimPy.jl](https://github.com/JuliaMolSim/MolSimPy.jl) :: Python bindings for molecular simulations.
+      - [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) :: Molecular simulation in Julia.
       - [NeighborLists.jl](https://github.com/JuliaMolSim/NeighborLists.jl) :: Neighbour list for particle simulations based on matscipy.
       - [SHIPs.jl](https://github.com/JuliaMolSim/SHIPs.jl) :: Approximation of Symmetric Functions with Polynomials and Spherical Harmonics.
 + [Brownian.jl](https://github.com/UniversityofWarwick/Brownian.jl) :: Simulation of Brownian-Based Stochastic Processes.
 + [Elsa.jl](https://github.com/pablosanjose/Elsa.jl) :: Simulation of tight-binding models on arbitrary lattices.
 + [Fermi.jl](https://github.com/FermiQC/Fermi.jl) :: Development plataform and production level implementations of wave function methods.
-+ [Molly.jl](https://github.com/jgreener64/Molly.jl) :: Molecular dynamics in Julia.
 + [pyquante2](https://github.com/rpmuller/pyquante2/) :: PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals. 
 + [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) :: Unitary and Lindbladian evolution of quantum states in Julia.
 + [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) :: A workbench for Quantum Chemistry and Quantum Physics in Julia.
