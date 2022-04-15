@@ -139,6 +139,8 @@
 + [Quake2.jl](https://github.com/jayschwa/Quake2.jl) :: Experimental Quake 2 map graphics engine written with Julia and modern OpenGL.
 + [SFML.jl](https://github.com/zyedidia/SFML.jl) :: A binding of the Game and Multimedia Library SFML.
 + [SpaceShooter.jl](https://github.com/zyedidia/SpaceShooter.jl) :: This is a small space shooter game made in Julia with SFML.jl
++ [GameZero.jl](https://github.com/aviks/GameZero.jl) :: Zero overhead game library, uses SDL2
++ [raylib.jl](https://github.com/irishgreencitrus/raylib.jl) Bindings for popular Raylib library in a single .jl file
 
 
 ## [Feature Detection](https://en.wikipedia.org/wiki/Feature_detection_(computer_vision))
