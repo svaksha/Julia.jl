@@ -64,7 +64,7 @@
 + [REPL.jl](https://github.com/Keno/REPL.jl) :: Pure-julia REPL implementation.
 + [REPLCompletions.jl](https://github.com/Keno/REPLCompletions.jl) :: Tab completions for your Julia REPL.
 + [REPLMods.jl](https://github.com/spencerlyon2/REPLMods.jl) :: Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
-+ [SaveREPL.jl](https://github.com/sjkelly/SaveREPL.jl) :: A package for saving entries in the Jula REPL. 
++ [SaveREPL.jl](https://github.com/sjkelly/SaveREPL.jl) :: A package for saving entries in the Julia REPL. 
 + [TerminalExtensions.jl](https://github.com/Keno/TerminalExtensions.jl) :: A package that makes Julia take advantage of cool terminal emulator features.
 + [toolbox.jl](https://github.com/natj/toolbox.jl) :: Small tools and snippets used by @natj with julia.
 + [TermWin.jl](https://github.com/tonyhffong/TermWin.jl) :: NCurses based GUI helper and data navigators.

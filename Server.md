@@ -30,7 +30,7 @@ __Networking, web security, frameworks and other Web server related things go he
 ----
 
 # Middleware
-+ [JuliaWebAPI.jl](https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP.
++ [JuliaWebAPI.jl](https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP.
 + [Mongrel2.jl](https://github.com/aviks/Mongrel2.jl) :: Mongrel2 handlers in Julia.
 + [Mux.jl](https://github.com/JunoLab/Mux.jl) :: Middleware for Julia.
 + [Nanomsg.jl](https://github.com/quinnj/Nanomsg.jl) :: a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use. 
