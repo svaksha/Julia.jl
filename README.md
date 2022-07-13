@@ -1,6 +1,6 @@
 # Julia.jl
 
-[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
+[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans<sup>[?](https://github.com/svaksha/Julia.jl/issues/150#issuecomment-483116981)</sup> of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
 + [§1. INDEX](#1-INDEX)
 + [§2. LICENSE](#2-LICENSE)
