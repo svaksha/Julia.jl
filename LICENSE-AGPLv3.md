@@ -1,7 +1,7 @@
 # CODE LICENSE : AGPLv3+
 
 + COPYRIGHT © 2013-Now [SVAKSHA](http://svaksha.com/pages/Bio). 
-+ The programs in `Julia.jl` are released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work.
++ The programs in `Julia.jl` are released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the License files (for data and code) along with this permission notice in all copies or substantial portions of the work.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -11,7 +11,7 @@ distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
 
-ALL copies and forks of this work must retain the Copyright, both the Licence 
+ALL copies and forks of this work must retain the Copyright, both the License 
 files for source code (AGPLv3) and documentation (CC BY-NC-SA 4.0) along with 
 this permission notice in all copies or substantial portions of the Software.
 

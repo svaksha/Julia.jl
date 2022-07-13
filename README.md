@@ -52,7 +52,7 @@
 + COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), herewith dual-licensed for the data (ODbL-v1.0+) and the software (AGPLv3+), respectively.
 
 ## §2.1. AGPLv3 and ODbL <span id="2-1-AGPLv3-and-ODbL"><span>
-This repo uses multiple licences for data and code, viz. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
+This repo uses multiple licenses for data and code, viz. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
 + The __data__ (aggregated and curated decibans of knowledge resources for Julia language) in this repository (`Julia.jl`) is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). The Open Database License (ODbL) grants anyone the freedom to share, create and adapt the data or database with proper __credit attribution__ as specified in the license and __offer any new work under the same terms__, and __release a public copy if using the new work for commercial purposes__.
 + The __software__ used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
@@ -101,7 +101,7 @@ On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
 + `Usability` : Does the package do what it says it does? is it easy to figure out? Is the package production-ready and actively maintained (issues/PRs are responded and resolved in a timely manner, and maintenance and testing is at par with Julia release cycles).
 + `Quality` : Does the package have tests? are there lots of bugs? Do you have good documentation? Can it be used in production environments that expect prompt security patches?
 + `Activity` : Should a 3rd party user bother to use your library, or is it really only intended to be used by the package author? Let's say, an experimental "throw-away toy repo" whose development has now been abandoned.
-+ `License` : Which software license do you use? If you dont have a license, please state `None`.
++ `License` : Which software license do you use? If you don't have a license, please state `None`.
 
 
 ## Stargazers
