@@ -1,4 +1,4 @@
-**Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) page for more packages. Category sorting of packages is a WIP.**
+**Machine learning and statistics are closely related fields, so do check out the [Statistics](https://github.com/svaksha/Julia.jl/blob/master/Probability-Statistics.md) page for more packages. Category sorting of packages is a WIP.**
 
 + [MACHINE LEARNING](#machine-learning)
 + [NLP](#nlp)
