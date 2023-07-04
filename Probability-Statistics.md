@@ -73,7 +73,9 @@ The [Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 + [QuantileRegression.jl](https://github.com/pkofod/QuantileRegressions.jl) :: Quantile regression in Julia.
 + [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
-+ [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.
++ [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.+ 
++ [MLJLinearModels.jl](https://github.com/JuliaAI/MLJLinearModels.jl) ::  Generalized Linear Regressions Models (penalized regressions, robust regressions, ...) with MLJ
++ [LinearRegressionKit.jl](https://github.com/ericqu/LinearRegressionKit.jl) :: Linear Regression for Julia with a bit more statistics
 
 ## [DENSITIES](https://en.wikipedia.org/wiki/Density_estimation)
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
