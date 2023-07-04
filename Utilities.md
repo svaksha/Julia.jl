@@ -52,7 +52,7 @@
 
 + [AnsiColor.jl](https://github.com/Aerlinger/AnsiColor.jl) :: Support for ANSI colored strings in Julia. Supported in REPL/Shell environment for both Unix and Mac.
 + [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) :: Package for parsing command-line arguments to Julia programs.
-+ [CLI.jl](https://github.com/Roger-luo/CLI.jl) :: A library for automatically generating command line interfaces from absolutely Julia object, inspired by `python-fire`.
++ [Comonicon.jl]([https://github.com/Roger-luo/CLI.jl](https://github.com/comonicon/Comonicon.jl)) :: CLI generator in JuliaLang like Python docopt but with Fire and in Julia.
 + [DocOpt.jl](https://github.com/docopt/DocOpt.jl) :: generates a command-line arguments parser from human-readable usage patterns and it is a port of DocOpt written in the Julia language.
 + [FTPClient.jl](https://github.com/invenia/FTPClient.jl) :: An FTP Client.
 + [GMT-julia-headers](https://github.com/meggart/GMT-julia-headers)
