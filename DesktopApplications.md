@@ -73,7 +73,7 @@ __Generic Syntax Highlighter__
 + [JuliaTools.jl](https://github.com/tknopp/JuliaTools.jl) :: A toolkit for viewing Julia packages, modules, etc....
 + [Module linker](http://fiatjaf.alhur.es/module-linker/#/julia) for Julia.
 + [PySide.jl](https://github.com/jverzani/PySide.jl) :: A julia interface for accessing Qt via PyCall and PySide.
-+ [QML.jl](https://github.com/barche/QML.jl) :: Small example for starting an interface to Qt5 QML.
++ [QML.jl](https://github.com/barche/QML.jl) :: This package provides an interface to Qt6 QML (and to Qt5 for older versions).
 + [Qt5.jl](https://github.com/tbreloff/Qt5.jl) :: A wrapper around C++ library `Qt5`.  {Usable: 1, Robust: 1, Active: 1}
 + [Table.jl](https://github.com/cpritcha/Table.jl) :: Display Tables in plain text, HTML, LaTex.
 + [Tk.jl](https://github.com/JuliaLang/Tk.jl) :: The Julia interface for the Tk windowing toolkit.
