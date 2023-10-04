@@ -154,7 +154,7 @@ __Super Computing: HPC, Distributed Computing, Cloud computing, Cluster computin
 + [PTools.jl](https://github.com/amitmurthy/PTools.jl) :: A collection of utilities for parallel computing in Julia.
 + [ScaLAPACK.jl](https://github.com/JuliaParallel/ScaLAPACK.jl) :: Scalable Linear Algebra PACKage.
 + [Slurm.jl](https://github.com/JuliaParallel/Slurm.jl) :: Experimental Julia interface to `slurm.schedmd.com`.
-
++ [Vahana.jl](https://github.com/s-fuerst/Vahana.jl) :: A framework (not only) for large-scale agent-based models.
 
 ### [SIMD Computing](https://en.wikipedia.org/wiki/Category:SIMD_computing) 
 + [MPIArrays.jl](https://github.com/barche/MPIArrays.jl) :: Distributed arrays based on MPI onesided communication.
