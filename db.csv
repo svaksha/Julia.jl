@@ -444,7 +444,6 @@ Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",JuliaM
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Fermi.jl,https://github.com/FermiQC/Fermi.jl,Development plataform and production level implementations of wave function methods.
-Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia.
@@ -542,6 +541,8 @@ Database,MongoDB,Mongo.jl,https://github.com/ScottPJones/Mongo.jl,Mongo bindings
 Database,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bindings for the Julia programming language.
 Database,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 Database,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
+Database,InfluxDB,InfluxDB.jl,https://github.com/staticfloat/InfluxDB.jl,A package that makes talking to an InfluxDB server a walk in the veritable park.
+Database,InfluxDB,InfluxFlux,https://github.com/tallakt/InfluxFlux,Minimal Julia InfluxDB client based on v2 API and Flux QL
 Database,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
 Database,RDBMS,SQLStrings.jl,https://github.com/JuliaComputing/SQLStrings.jl,It provides the @sql_cmd macro to allow SQL query strings to be constructed by normal-looking string interpolation but without risking SQL formatting errors or SQL injection attacks on your application.
 Database,MariaDB-MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
@@ -1154,11 +1155,11 @@ Graphics,Non-GraphicalPlotting,UnicodePlots.jl,https://github.com/Evizero/Unicod
 Graphics,Resources,rawing [2.7 billion points (22gb) in 10 seconds,https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer,
 Graphics,Resources,eff Bezanson's [Colorimetry in an iJulia notebook,http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb,
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
-LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
+LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the License files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),he __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License,"https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 Machines,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,"API wrapper for Julia, bare bones."
-Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
+Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions useful for working with MicrochipTM's RTDM interface.
 Machines,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
 Machines,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
 Machines,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,"Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM."
@@ -2171,7 +2172,7 @@ Server,FRAMEWORKS,OpenFiscaWebApi.jl,https://github.com/openfisca/OpenFiscaWebAp
 Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
 Server,FRAMEWORKS,skeleton-webapp.jl,https://bitbucket.org/jocklawrie/skeleton-webapp.jl,This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
 Server,RoR,RoR_julia_eg,https://github.com/Ken-B/RoR_julia_eg,An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
-Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP,
+Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP,
 Server,Middleware,Mongrel2.jl,https://github.com/aviks/Mongrel2.jl,Mongrel2 handlers in Julia.
 Server,Middleware,Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,"a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use."
@@ -2357,9 +2358,10 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),PTools.jl,https://github.com/amitmurthy/PTools.jl,A collection of utilities for parallel computing in Julia.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),ScaLAPACK.jl,https://github.com/JuliaParallel/ScaLAPACK.jl,Scalable Linear Algebra PACKage.
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Slurm.jl,https://github.com/JuliaParallel/Slurm.jl,Experimental Julia interface to `slurm.schedmd.com`.
+Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Vahana.jl,https://github.com/s-fuerst/Vahana.jl,A framework (not only) for large-scale agent-based models.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),MPIArrays.jl,https://github.com/barche/MPIArrays.jl,Distributed arrays based on MPI onesided communication.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
-Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDPirates.jl,https://github.com/chriselrod/SIMDPirates.jl,"A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're commiting type piracy"
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDPirates.jl,https://github.com/chriselrod/SIMDPirates.jl,"A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're committing type piracy"
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,"A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp)."
 Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel/JuliaCon2015_Workshop,Notebooks from the JuliaCon2015 Workshop.
@@ -2426,7 +2428,7 @@ Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",ProgressMeter.jl,https
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPL.jl,https://github.com/Keno/REPL.jl,Pure-julia REPL implementation.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPLCompletions.jl,https://github.com/Keno/REPLCompletions.jl,Tab completions for your Julia REPL.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPLMods.jl,https://github.com/spencerlyon2/REPLMods.jl,Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
-Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",SaveREPL.jl,https://github.com/sjkelly/SaveREPL.jl,A package for saving entries in the Jula REPL.
+Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",SaveREPL.jl,https://github.com/sjkelly/SaveREPL.jl,A package for saving entries in the Julia REPL.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",TerminalExtensions.jl,https://github.com/Keno/TerminalExtensions.jl,A package that makes Julia take advantage of cool terminal emulator features.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",toolbox.jl,https://github.com/natj/toolbox.jl,Small tools and snippets used by @natj with julia.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",TermWin.jl,https://github.com/tonyhffong/TermWin.jl,NCurses based GUI helper and data navigators.
