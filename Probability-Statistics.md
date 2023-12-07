@@ -69,16 +69,22 @@ The [Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 + [Lasso.jl](https://github.com/JuliaStats/Lasso.jl) :: Lasso solvers for linear and generalized linear models.
 + [Metida.jl](https://github.com/PharmCat/Metida.jl) :: Julia package for fitting mixed-effects models with flexible random/repeated covariance structure. 
 + [MixedModels.jl](https://github.com/dmbates/MixedModels.jl) :: A Julia package for fitting (statistical) mixed-effects models.
++ [MultiResponseVarianceComponentModels.jl](https://github.com/Hua-Zhou/MultiResponseVarianceComponentModels.jl) :: Fitting and testing multivariate response variance components linear mixed models. 
 + [NonNegLeastSquares.jl](https://github.com/ahwillia/NonNegLeastSquares.jl) :: Some nonnegative least squares solvers in Julia.
++ [OrdinalMultinomialModels.jl](https://github.com/OpenMendel/OrdinalMultinomialModels.jl) :: Fit ordered multinomial models, including proportional odds model and ordered Probit model as special cases.
 + [ParallelSparseRegression.jl](https://github.com/madeleineudell/ParallelSparseRegression.jl) :: A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths.
 + [QuantileRegression.jl](https://github.com/pkofod/QuantileRegressions.jl) :: Quantile regression in Julia.
 + [Regression.jl](https://github.com/lindahua/Regression.jl) :: Algorithms for regression analysis (e.g. linear regression and logistic regression).
 + [SparseRegression.jl](https://github.com/joshday/SparseRegression.jl) :: Statistical Models with Regularization in Pure Julia.
++ [VarianceComponentModels.jl](https://github.com/OpenMendel/VarianceComponentModels.jl) :: Utilities for fitting and testing variance component models.
++ [VCSEL.jl](https://github.com/juhkim111/VCSEL.jl) :: Variance components selection via Lasso, adaptive lasso, or MCP penalization. 
++ [WiSER.jl](https://github.com/OpenMendel/WiSER.jl) :: A regression aproach for estimating the effects of predictors on the within-subject variation in a longitudinal setting
 
 ## [DENSITIES](https://en.wikipedia.org/wiki/Density_estimation)
 + [AverageShiftedHistograms.jl](https://github.com/joshday/AverageShiftedHistograms.jl) :: David Scott's Average Shifted Histogram density estimation.
 + [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) :: Kernel density estimators for continuous variables.
 + [KernelEstimator.jl](https://github.com/panlanfeng/KernelEstimator.jl) :: A Julia package for nonparametric density estimation.
++ [QuasiCopula.jl](https://github.com/OpenMendel/QuasiCopula.jl): A Flexible Quasi-Copula Distribution for Statistical Modeling.
 
 ## [MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics)
 + [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) :: A Julia package for modeling and fitting generalized low rank models.
@@ -144,6 +150,7 @@ The [Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 + [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 + [JointMoments.jl](https://github.com/tensorjack/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
++ [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl) :: Variable selection via the knockoff filter.
 + [PowerLaws.jl](https://github.com/johnybx/PowerLaws.jl) :: A Julia package for power laws distributions.
 + [PValueAdjust.jl](https://github.com/dirkschumacher/PValueAdjust.jl) :: P-value adjustment methods for multiple testing correction.
 + [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
