@@ -79,6 +79,7 @@
 + [SimpleML.jl](https://github.com/aviks/SimpleML.jl) :: Textbook implementations of some Machine Learning Algorithms in Julia.
 + [SFA.jl](https://github.com/makokal/SFA.jl) :: Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 + [SoftConfidenceWeighted.jl](https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl) :: Exact Soft Confidence-Weighted Learning.
++ [SparseKmeansFeatureRanking.jl](https://github.com/kose-y/SparseKmeansFeatureRanking.jl) :: An efficient multi-threaded implementation of sparse K-means via feature ranking. 
 + [Strada.jl](https://github.com/pcmoritz/Strada.jl) :: A deep learning library for Julia based on Caffe.
 + [SVMLightLoader.jl](https://github.com/IshitaTakeshi/SVMLightLoader.jl) :: Loader of svmlight / liblinear format files.
 + [JuliaTakingFittingAPIsSeriously](https://github.com/JuliaTakingFittingAPIsSeriously) :: proof of concept taking the APIs for statistics, machine learning and other infomatics.

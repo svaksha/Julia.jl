@@ -80,6 +80,8 @@
 ----
 
 # GENOMICS
++ [ADMIXTURE.jl](https://github.com/OpenMendel/ADMIXTURE.jl) :: Julia wrapper of the popular ADMIXTURE program for estimating ancestry in a model-based manner from large autosomal SNP genotype data sets.
++ [BGEN.jl](https://github.com/OpenMendel/BGEN.jl) :: Routines for reading genotypes stored in Oxford BGEN format. 
 + [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) ::  Sequence alignment tools in BioJulia
 + [BioArgParse.jl](https://github.com/Ward9250/BioArgParse.jl) :: Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'.
 + [BioFeatures.jl](https://github.com/nw11/BioFeatures.jl).
@@ -89,21 +91,33 @@
 + [Ensemble.jl](https://github.com/farr/Ensemble.jl) :: Ensemble Samplers for Julia.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
 + [FusionDirect.jl](https://github.com/OpenGene/FusionDirect.jl) :: Detect gene fusion directly from raw fastq files.
++ [GeneticsMakie.jl](https://github.com/mmkim1210/GeneticsMakie.jl) :: High-performance genetics- and genomics- related data visualization using Makie.jl
 + [GenomeAnnotations.jl](https://github.com/nw11/GenomeAnnotations.jl) :: Manage Local Genome Annotation files. 
 + [GenomeGraphs.jl](https://github.com/BioJulia/GenomeGraphs.jl) ::  A modern genomics framework for julia 
 + [GenomicTiles.jl](https://github.com/nw11/GenomicTiles.jl)
 + [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl) :: Stochastic Gillespie-type simulations using Julia.
 + [gtf-parse-off](https://github.com/dcjones/gtf-parse-off) :: Experiments with parsing gene transfer format (GTF).
++ [HaploADMIXTURE.jl](https://github.com/OpenMendel/HaploADMIXTURE.jl) :: Global ancestry inference by modeling haplotypes, supporting multithreading and GPUs. 
 + [HTSLIB.jl](https://github.com/OpenGene/HTSLIB.jl) :: A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
++ [MendelAimSelection.jl](https://github.com/OpenMendel/MendelAimSelection.jl) :: Selecting SNPs that are most informative at predicting ancestry - the best Ancestry Informative Markers (AIMs). 
++ [MendelEstimateFrequencies.jl](https://github.com/OpenMendel/MendelEstimateFrequencies.jl) :: Likelihood-based estimation of allele frequencies. 
++ [MendelGameteCompetition.jl](https://github.com/OpenMendel/MendelGameteCompetition.jl) :: Implements a gamete competition analysis, which is a generalization of the TDT analysis.
++ [MendelGeneDropping.jl](https://github.com/OpenMendel/MendelGeneDropping.jl) :: Julia package for performing gene dropping with several useful options for the output. 
++ [MendelKinship.jl](https://github.com/OpenMendel/MendelKinship.jl) :: Computes genetic kinship and other identity coefficients. 
++ [MendelLocationScores.jl](https://github.com/OpenMendel/MendelLocationScores.jl) :: Mapping a trait via the method of Location Scores, i.e. multipoint linkage analysis. 
++ [MendelSearch.jl](https://github.com/OpenMendel/MendelSearch.jl) :: Performs function optimizations permitting bounds and linear constraints to be imposed on parameters and computes asymptotic standard errors and correlations of parameter estimates.
++ [MendelTwoPointLinkage.jl](https://github.com/OpenMendel/MendelTwoPointLinkage.jl) :: Julia package for two-point linkage analysis. 
 + [MerCounting.jl](https://github.com/BioJulia/MerCounting.jl) ::  Kmer counting algorithms and count-data utilities for the BioJulia framework 
 + [LCS.jl](https://github.com/WestleyArgentum/LCS.jl) :: A package for finding longest common and longest contiguous subsequences. 
 + [OBC.jl](https://github.com/binarybana/OBC.jl) :: Optimal Bayesian classification for RNA-Seq data.
++ [OpenADMIXTURE.jl](https://github.com/OpenMendel/OpenADMIXTURE.jl) :: A faster, open-source reimplementation of the ADMIXTURE program for estimating global ancestry proportions. 
 + [OpenGene.jl](https://github.com/OpenGene/OpenGene.jl) :: OpenGene core library in Julia.
 + [Pagel.jl](https://github.com/porterjamesj/Pagel.jl) :: Detect correlated evolution on phylogenies.
 + [Pathogen.jl](https://github.com/jangevaa/Pathogen.jl) :: Utilities to simulate and perform inference of disease dynamics.
 + [PedModule.jl](https://github.com/QTL-rocks/PedModule.jl) :: Geno-type pedigree module.
++ [PGENFiles.jl](https://github.com/OpenMendel/PGENFiles.jl) :: Routines for reading genotypes stored in PGEN (PLINK 2) format. 
 + [Phylogenetics.jl](https://github.com/BioJulia/Phylogenetics.jl) :: The Julia package for analysis of evolution and phylogeny.
 + [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) :: A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks.
 + [PhyloTrees.jl](https://github.com/jangevaare/PhyloTrees.jl) :: Phylogenetic tree simulation.
@@ -113,8 +127,11 @@
 + [PureSeq.jl](https://github.com/slundberg/PureSeq.jl) :: Code for the Pure-seq project. 
 + [seqhax.jl](https://github.com/kdmurray91/seqhax.jl) :: yet another NGS command.
 + [SpeedDate.jl](https://github.com/Ward9250/SpeedDate.jl) :: A simple tool for the estimation of coalescence times between sequences.
++ [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl) :: provides utilities for handling compressed storage of binary PLINK formatted data.
 + [TimeTrees.jl](https://github.com/tgvaughan/TimeTrees.jl) :: Phylogenetic tree type for julia.
 + [VariantCall.jl](https://github.com/mgvel/VariantCall.jl).
++ [VariantCallFormat.jl](https://github.com/rasmushenningsson/VariantCallFormat.jl) :: Provides read/write functionality for VCF files as well as for its binary sister format BCF.
++ [VCFTools.jl](https://github.com/OpenMendel/VCFTools.jl) :: High level utility functions for working with VCF (.vcf or .vcf.gz) formatted files. 
 + [XSim.jl](https://github.com/reworkhow/XSim.jl) :: A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 + [YARS.jl](https://github.com/kzahedi/YARS.jl) :: YARS communication for RNA/proteins. 
 
@@ -124,8 +141,14 @@ __Genome Wide Association Study (GWAS)__
 + [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) :: A package for statistical analyses of sequence alignments.
 + [JWAS.jl](https://github.com/reworkhow/JWAS.jl) :: An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
 + [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) :: contains the base functions of OpenMendel. 
-+ [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl) :: provides utilities for handling compressed storage of biallelic SNP (Single-Nucleotide Polymorphism) data.
++ [MendelGeneticCounseling.jl](https://github.com/OpenMendel/MendelGeneticCounseling.jl) :: Risk calculations for genetic counseling problems. 
++ [MendelImpute.jl](https://github.com/OpenMendel/MendelImpute.jl) :: A fast data-driven method for genotype imputation, phasing, and local ancestry inference.
++ [MendelIHT.jl](https://github.com/OpenMendel/MendelIHT.jl) :: Implements the iterative hard thresholding (IHT) algorithm as a multiple regression approach for GWAS.
++ [MendelPlots.jl](https://github.com/OpenMendel/MendelPlots.jl) :: Generate Manhattan and QQ plots from GWAS.
++ [OrdinalGWAS.jl](https://github.com/OpenMendel/OrdinalGWAS.jl) :: GWAS for ordered categorial phenotypes.
 + [StatGenData.jl](https://github.com/dmbates/StatGenData.jl) :: Statistical analysis of genomic data.
++ [TrajGWAS.jl](https://github.com/OpenMendel/TrajGWAS.jl): GWAS for continuous longitudinal phenotypes using a modified linear mixed effects model. 
++ [TraitSimulation.jl](https://github.com/OpenMendel/TraitSimulation.jl) :: A convenient tool for simulating phenotypes for unrelateds or families under a variety of supported models.
 + [VarianceComponentTest.jl](https://github.com/Tao-Hu/VarianceComponentTest.jl) :: A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 
 
