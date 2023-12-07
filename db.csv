@@ -61,6 +61,7 @@ AI,MACHINELEARNING,ScikitLearnBase.jl,https://github.com/cstjean/ScikitLearnBase
 AI,MACHINELEARNING,SimpleML.jl,https://github.com/aviks/SimpleML.jl,Textbook implementations of some Machine Learning Algorithms in Julia.
 AI,MACHINELEARNING,SFA.jl,https://github.com/makokal/SFA.jl,Implementation of the standard SFA (Slow Feature Analysis) algorithm (both linear and non-linear signal expansion) in Julia.
 AI,MACHINELEARNING,SoftConfidenceWeighted.jl,https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl,Exact Soft Confidence-Weighted Learning.
+AI,MACHINELEARNING,SparseKmeansFeatureRanking.jl,https://github.com/kose-y/SparseKmeansFeatureRanking.jl,An efficient multi-threaded implementation of sparse K-means via feature ranking.
 AI,MACHINELEARNING,Strada.jl,https://github.com/pcmoritz/Strada.jl,A deep learning library for Julia based on Caffe.
 AI,MACHINELEARNING,SVMLightLoader.jl,https://github.com/IshitaTakeshi/SVMLightLoader.jl,Loader of svmlight / liblinear format files.
 AI,MACHINELEARNING,JuliaTakingFittingAPIsSeriously,https://github.com/JuliaTakingFittingAPIsSeriously,"proof of concept taking the APIs for statistics, machine learning and other infomatics."
@@ -339,6 +340,7 @@ Biology,BIOINFORMATICS,Bioinformatics.jl,https://github.com/mrtkp9993/Bioinforma
 Biology,BIOINFORMATICS,NormalizeQuantiles.jl,https://github.com/oheil/NormalizeQuantiles.jl,implements quantile normalization
 Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),BioMedQuery.jl,https://github.com/bcbi/BioMedQuery.jl,Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),OrbitTomography.jl,https://github.com/lstagner/OrbitTomography.jl),
+Biology,[BIOMEDICINE](https://en.wikipedia.org/wiki/Category:Biomedicine),Thyrosim.jl,https://github.com/biona001/Thyrosim.jl,A thyroid hormone mechanistic model for predicting T4/T3/TSH dynamics.
 Biology,BIOSTATISTICS,pedigree.jl,https://github.com/Rpedigree/pedigree.jl,"Pedigree extractors and representation as a Julia type with two integer members, sire and dam. A parent not in the pedigree is coded as 0."
 Biology,BIOSTATISTICS,ROC.jl,https://github.com/diegozea/ROC.jl,Receiver Operating Characteristic (ROC) Curve for Julia Language.
 Biology,ECOLOGY,Diversity.jl,https://github.com/richardreeve/Diversity.jl,"Diversity analysis package for Julia, with submodules containing standard ecological and other diversity measures."
@@ -350,30 +352,48 @@ Biology,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[ForestMod
 Biology,[Agronomy](https://en.wikipedia.org/wiki/Category:Agronomy)and[ForestModelling](https://en.wikipedia.org/wiki/Category:Forest_modelling),LAIscript,https://github.com/ETC-UA/LAIscript,scripts to automatically run LAI calculations with ODBC link to custom database.
 Biology,AquaticEcology,Iceberg.jl,https://github.com/njwilson23/Iceberg.jl,Ice-seawater interface calculations using level set methods.
 Biology,AquaticEcology,TEOS.jl,https://github.com/njwilson23/TEOS.jl,Julia wrapper for TEOS-10 Gibbs Seawater Oceanographic Toolbox.
+Biology,GENOMICS,ADMIXTURE.jl,https://github.com/OpenMendel/ADMIXTURE.jl,Julia wrapper of the popular ADMIXTURE program for estimating ancestry in a model-based manner from large autosomal SNP genotype data sets.
+Biology,GENOMICS,BGEN.jl,https://github.com/OpenMendel/BGEN.jl,Routines for reading genotypes stored in Oxford BGEN format.
 Biology,GENOMICS,BioAlignments.jl,https://github.com/BioJulia/BioAlignments.jl, Sequence alignment tools in BioJulia
 Biology,GENOMICS,BioArgParse.jl,https://github.com/Ward9250/BioArgParse.jl,"Extension to 'ArgParse.jl', enabling parsing of command line parameters to types in 'Bio.jl'."
 Biology,GENOMICS,BioFeatures.jl,https://github.com/nw11/BioFeatures.jl),
 Biology,GENOMICS,BioSeq.jl,https://github.com/BioJulia/BioSeq.jl,"Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences."
 Biology,GENOMICS,BismarkSummary.jl,https://github.com/nw11/BismarkSummary.jl,Basic summary of multiple Bismark runs.
 Biology,GENOMICS,COSMIC.jl,https://github.com/haploxer/COSMIC.jl,Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
+Biology,GENOMICS,EasyLD.jl,https://github.com/biona001/EasyLD.jl,Downloading and parsing Hail's LD (linkage disequilibrium) matrices.
 Biology,GENOMICS,Ensemble.jl,https://github.com/farr/Ensemble.jl,Ensemble Samplers for Julia.
 Biology,GENOMICS,FastaIO.jl,https://github.com/carlobaldassi/FastaIO.jl,Utilities to read/write FASTA format files in Julia.
+Biology,GENOMICS,fastPHASE.jl,https://github.com/biona001/fastPHASE.jl,"Julia wrapper of the popular fastPHASE genetics program, designed for haplotype reconstruction and estimating missing genotypes from population data."
 Biology,GENOMICS,FusionDirect.jl,https://github.com/OpenGene/FusionDirect.jl,Detect gene fusion directly from raw fastq files.
+Biology,GENOMICS,GeneticsMakie.jl,https://github.com/mmkim1210/GeneticsMakie.jl,High-performance genetics- and genomics- related data visualization using Makie.jl
 Biology,GENOMICS,GenomeAnnotations.jl,https://github.com/nw11/GenomeAnnotations.jl,Manage Local Genome Annotation files.
 Biology,GENOMICS,GenomeGraphs.jl,https://github.com/BioJulia/GenomeGraphs.jl, A modern genomics framework for julia
 Biology,GENOMICS,GenomicTiles.jl,https://github.com/nw11/GenomicTiles.jl,
 Biology,GENOMICS,Gillespie.jl,https://github.com/sdwfrost/Gillespie.jl,Stochastic Gillespie-type simulations using Julia.
 Biology,GENOMICS,gtf-parse-off,https://github.com/dcjones/gtf-parse-off,Experiments with parsing gene transfer format (GTF).
+Biology,GENOMICS,HaploADMIXTURE.jl,https://github.com/OpenMendel/HaploADMIXTURE.jl,"Global ancestry inference by modeling haplotypes, supporting multithreading and GPUs."
 Biology,GENOMICS,HTSLIB.jl,https://github.com/OpenGene/HTSLIB.jl,A julia wrapper of htslib for accessing common high-throughput sequencing data file formats such as BAM/SAM files.
 Biology,GENOMICS,HyperNEAT.jl,https://github.com/kzahedi/HyperNEAT.jl,A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 Biology,GENOMICS,IntervalTrees.jl,https://github.com/BioJulia/IntervalTrees.jl,A data structure for efficient manipulation of sets of intervals.
+Biology,GENOMICS,MendelAimSelection.jl,https://github.com/OpenMendel/MendelAimSelection.jl,Selecting SNPs that are most informative at predicting ancestry - the best Ancestry Informative Markers (AIMs).
+Biology,GENOMICS,MendelBase.jl,https://github.com/OpenMendel/MendelBase.jl,contains the base functions of OpenMendel.
+Biology,GENOMICS,MendelEstimateFrequencies.jl,https://github.com/OpenMendel/MendelEstimateFrequencies.jl,Likelihood-based estimation of allele frequencies.
+Biology,GENOMICS,MendelGameteCompetition.jl,https://github.com/OpenMendel/MendelGameteCompetition.jl,"Implements a gamete competition analysis, which is a generalization of the TDT analysis."
+Biology,GENOMICS,MendelGeneDropping.jl,https://github.com/OpenMendel/MendelGeneDropping.jl,Julia package for performing gene dropping with several useful options for the output.
+Biology,GENOMICS,MendelGeneticCounseling.jl,https://github.com/OpenMendel/MendelGeneticCounseling.jl,Risk calculations for genetic counseling problems.
+Biology,GENOMICS,MendelKinship.jl,https://github.com/OpenMendel/MendelKinship.jl,Computes genetic kinship and other identity coefficients.
+Biology,GENOMICS,MendelLocationScores.jl,https://github.com/OpenMendel/MendelLocationScores.jl,"Mapping a trait via the method of Location Scores, i.e. multipoint linkage analysis."
+Biology,GENOMICS,MendelSearch.jl,https://github.com/OpenMendel/MendelSearch.jl,Performs function optimizations permitting bounds and linear constraints to be imposed on parameters and computes asymptotic standard errors and correlations of parameter estimates.
+Biology,GENOMICS,MendelTwoPointLinkage.jl,https://github.com/OpenMendel/MendelTwoPointLinkage.jl,Julia package for two-point linkage analysis.
 Biology,GENOMICS,MerCounting.jl,https://github.com/BioJulia/MerCounting.jl, Kmer counting algorithms and count-data utilities for the BioJulia framework
 Biology,GENOMICS,LCS.jl,https://github.com/WestleyArgentum/LCS.jl,A package for finding longest common and longest contiguous subsequences.
 Biology,GENOMICS,OBC.jl,https://github.com/binarybana/OBC.jl,Optimal Bayesian classification for RNA-Seq data.
+Biology,GENOMICS,OpenADMIXTURE.jl,https://github.com/OpenMendel/OpenADMIXTURE.jl,"A faster, open-source reimplementation of the ADMIXTURE program for estimating global ancestry proportions."
 Biology,GENOMICS,OpenGene.jl,https://github.com/OpenGene/OpenGene.jl,OpenGene core library in Julia.
 Biology,GENOMICS,Pagel.jl,https://github.com/porterjamesj/Pagel.jl,Detect correlated evolution on phylogenies.
 Biology,GENOMICS,Pathogen.jl,https://github.com/jangevaa/Pathogen.jl,Utilities to simulate and perform inference of disease dynamics.
 Biology,GENOMICS,PedModule.jl,https://github.com/QTL-rocks/PedModule.jl,Geno-type pedigree module.
+Biology,GENOMICS,PGENFiles.jl,https://github.com/OpenMendel/PGENFiles.jl,Routines for reading genotypes stored in PGEN (PLINK 2) format.
 Biology,GENOMICS,Phylogenetics.jl,https://github.com/BioJulia/Phylogenetics.jl,The Julia package for analysis of evolution and phylogeny.
 Biology,GENOMICS,PhyloNetworks.jl,https://github.com/crsl4/PhyloNetworks.jl,"A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks."
 Biology,GENOMICS,PhyloTrees.jl,https://github.com/jangevaare/PhyloTrees.jl,Phylogenetic tree simulation.
@@ -383,15 +403,23 @@ Biology,GENOMICS,PseudoGenomes.jl,https://github.com/nw11/PseudoGenomes.jl,Read 
 Biology,GENOMICS,PureSeq.jl,https://github.com/slundberg/PureSeq.jl,Code for the Pure-seq project.
 Biology,GENOMICS,seqhax.jl,https://github.com/kdmurray91/seqhax.jl,yet another NGS command.
 Biology,GENOMICS,SpeedDate.jl,https://github.com/Ward9250/SpeedDate.jl,A simple tool for the estimation of coalescence times between sequences.
+Biology,GENOMICS,SnpArrays.jl,https://github.com/OpenMendel/SnpArrays.jl,provides utilities for handling compressed storage of binary PLINK formatted data.
 Biology,GENOMICS,TimeTrees.jl,https://github.com/tgvaughan/TimeTrees.jl,Phylogenetic tree type for julia.
 Biology,GENOMICS,VariantCall.jl,https://github.com/mgvel/VariantCall.jl),
+Biology,GENOMICS,VariantCallFormat.jl,https://github.com/rasmushenningsson/VariantCallFormat.jl,Provides read/write functionality for VCF files as well as for its binary sister format BCF.
+Biology,GENOMICS,VCFTools.jl,https://github.com/OpenMendel/VCFTools.jl,High level utility functions for working with VCF (.vcf or .vcf.gz) formatted files.
 Biology,GENOMICS,XSim.jl,https://github.com/reworkhow/XSim.jl,A fast and user-friendly tool to simulate sequence data and complicated pedigree structures.
 Biology,GENOMICS,YARS.jl,https://github.com/kzahedi/YARS.jl,YARS communication for RNA/proteins.
 Biology,GWAS,AlignmentStatistics.jl,https://github.com/DanielHoffmann32/AlignmentStatistics.jl,A package for statistical analyses of sequence alignments.
+Biology,GWAS,GhostKnockoffGWAS.jl,https://github.com/biona001/GhostKnockoffGWAS,Performs a knockoff-based analysis of GWAS summary statistics data.
 Biology,GWAS,JWAS.jl,https://github.com/reworkhow/JWAS.jl,An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
-Biology,GWAS,MendelBase.jl,https://github.com/OpenMendel/MendelBase.jl,contains the base functions of OpenMendel.
-Biology,GWAS,SnpArrays.jl,https://github.com/OpenMendel/SnpArrays.jl,provides utilities for handling compressed storage of biallelic SNP (Single-Nucleotide Polymorphism) data.
+Biology,GWAS,MendelImpute.jl,https://github.com/OpenMendel/MendelImpute.jl,"A fast data-driven method for genotype imputation, phasing, and local ancestry inference."
+Biology,GWAS,MendelIHT.jl,https://github.com/OpenMendel/MendelIHT.jl,Implements the iterative hard thresholding (IHT) algorithm as a multiple regression approach for GWAS.
+Biology,GWAS,MendelPlots.jl,https://github.com/OpenMendel/MendelPlots.jl,Generate Manhattan and QQ plots from GWAS.
+Biology,GWAS,OrdinalGWAS.jl,https://github.com/OpenMendel/OrdinalGWAS.jl,GWAS for ordered categorial phenotypes.
 Biology,GWAS,StatGenData.jl,https://github.com/dmbates/StatGenData.jl,Statistical analysis of genomic data.
+Biology,GWAS,TrajGWAS.jl,https://github.com/OpenMendel/TrajGWAS.jl): GWAS for continuous longitudinal phenotypes using a modified linear mixed effects model,
+Biology,GWAS,TraitSimulation.jl,https://github.com/OpenMendel/TraitSimulation.jl,A convenient tool for simulating phenotypes for unrelateds or families under a variety of supported models.
 Biology,GWAS,VarianceComponentTest.jl,https://github.com/Tao-Hu/VarianceComponentTest.jl,A Julia package for performing exact variance component tests in genome-wide association study (GWAS).
 Biology,Resources,ikipedia's [list of RNA-Seq bioinformatics tools,"http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools), not many of which are in Julia but depending on the language, they may have an API",
 Biology,Resources,Data Analysis for Genomics,https://genomicsclass.github.io/book/) : This is entirely in R-language but learners can use it to learn Julia,
@@ -444,7 +472,6 @@ Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",JuliaM
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Brownian.jl,https://github.com/UniversityofWarwick/Brownian.jl,Simulation of Brownian-Based Stochastic Processes.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Elsa.jl,https://github.com/pablosanjose/Elsa.jl,Simulation of tight-binding models on arbitrary lattices.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Fermi.jl,https://github.com/FermiQC/Fermi.jl,Development plataform and production level implementations of wave function methods.
-Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",Molly.jl,https://github.com/jgreener64/Molly.jl,Molecular dynamics in Julia.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",pyquante2,https://github.com/rpmuller/pyquante2/,"PyQuante is a Quantum Chemistry suite written in Python, with Julia support for HF and methods for integrals."
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",QSimulator.jl,https://github.com/BBN-Q/QSimulator.jl,Unitary and Lindbladian evolution of quantum states in Julia.
 Chemistry,"§7.SimulationMethods<spanid=""#7-Simulation-Methods""><span>",QuantumLab.jl,https://github.com/vonDonnerstein/QuantumLab.jl,A workbench for Quantum Chemistry and Quantum Physics in Julia.
@@ -542,6 +569,8 @@ Database,MongoDB,Mongo.jl,https://github.com/ScottPJones/Mongo.jl,Mongo bindings
 Database,MongoDB,LibBSON.jl,https://github.com/ScottPJones/LibBSON.jl,libbson bindings for the Julia programming language.
 Database,Redis,Redis.jl,https://github.com/jkaye2012/Redis.jl,Pure Julia implementation of a Redis client (actively maintained).
 Database,Redis,Redis.jl,https://github.com/msainz/Redis.jl,"Pure Julia implementation of a Redis client, largely based on redis-py."
+Database,InfluxDB,InfluxDB.jl,https://github.com/staticfloat/InfluxDB.jl,A package that makes talking to an InfluxDB server a walk in the veritable park.
+Database,InfluxDB,InfluxFlux,https://github.com/tallakt/InfluxFlux,Minimal Julia InfluxDB client based on v2 API and Flux QL
 Database,RDBMS,Octo.jl,https://github.com/wookay/Octo.jl,an SQL Query DSL in Julia.
 Database,RDBMS,SQLStrings.jl,https://github.com/JuliaComputing/SQLStrings.jl,It provides the @sql_cmd macro to allow SQL query strings to be constructed by normal-looking string interpolation but without risking SQL formatting errors or SQL injection attacks on your application.
 Database,MariaDB-MySQL,MariaDB.jl,https://github.com/Dynactionize/MariaDB.jl,A wrapper around the MariaDB C connector.
@@ -1154,11 +1183,11 @@ Graphics,Non-GraphicalPlotting,UnicodePlots.jl,https://github.com/Evizero/Unicod
 Graphics,Resources,rawing [2.7 billion points (22gb) in 10 seconds,https://medium.com/@sdanisch/drawing-2-7-billion-points-in-10s-ecc8c85ca8fa) on a normal desktop computer,
 Graphics,Resources,eff Bezanson's [Colorimetry in an iJulia notebook,http://nbviewer.ipython.org/url/beowulf.csail.mit.edu/18.337/black%20body%20radiation.ipynb,
 LICENSE-AGPLv3,CODELICENSE:AGPLv3+,OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
-LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
+LICENSE-AGPLv3,CODELICENSE:AGPLv3+,he programs in `Julia.jl` are released under the [AGPLv3 License,"http://www.gnu.org/licenses/agpl.html) and above. ALL copies and forks of this work must retain the Copyright, both the License files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),OPYRIGHT © 2013-Now [SVAKSHA,http://svaksha.com/pages/Bio),
 LICENSE-ODbL-1-0,ODCOpenDatabaseLicense(ODbL),he __data__ (aggregated and curated decibans of knowledge resources for Julia language) in `Julia.jl` is released under the [Open Database License,"https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). ALL copies and forks of this work must retain the Copyright, both the Licence files (for data and code) along with this permission notice in all copies or substantial portions of the work",
 Machines,API,Alazar.jl,https://github.com/ajkeller34/Alazar.jl,"API wrapper for Julia, bare bones."
-Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions usefull for working with MicrochipTM's RTDM interface.
+Machines,API,MichrochipRTDM.jl,https://github.com/cstook/MicrochipRTDM.jl,A bunch of functions useful for working with MicrochipTM's RTDM interface.
 Machines,Architectures,DIDebug.jl,https://github.com/Keno/DIDebug.jl,Debug the destination index in an x86 computer architecture using the standardized [DWARF-ELF](http://www.ibm.com/developerworks/library/os-debugging/) debugging data format.
 Machines,Architectures,FastFieldSolversHelper.jl,https://github.com/MichaelHatherly/FastFieldSolversHelper.jl,Create input files for FastFieldSolvers.
 Machines,Architectures,Vectorize.jl,https://github.com/rprechelt/Vectorize.jl,"Cross-platform vectorization of Julia code using Accelerate, VML, Yeppp! and LLVM."
@@ -1858,14 +1887,20 @@ Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_ana
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Lasso.jl,https://github.com/JuliaStats/Lasso.jl,Lasso solvers for linear and generalized linear models.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Metida.jl,https://github.com/PharmCat/Metida.jl,Julia package for fitting mixed-effects models with flexible random/repeated covariance structure.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),MixedModels.jl,https://github.com/dmbates/MixedModels.jl,A Julia package for fitting (statistical) mixed-effects models.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),MultiResponseVarianceComponentModels.jl,https://github.com/Hua-Zhou/MultiResponseVarianceComponentModels.jl,Fitting and testing multivariate response variance components linear mixed models.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),NonNegLeastSquares.jl,https://github.com/ahwillia/NonNegLeastSquares.jl,Some nonnegative least squares solvers in Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),OrdinalMultinomialModels.jl,https://github.com/OpenMendel/OrdinalMultinomialModels.jl,"Fit ordered multinomial models, including proportional odds model and ordered Probit model as special cases."
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),ParallelSparseRegression.jl,https://github.com/madeleineudell/ParallelSparseRegression.jl,"A Julia library for parallel sparse regression, that implements solvers for regression problems including least squares, ridge regression, LASSO, non-negative least squares, and elastic net; and proposes to add fast methods to obtain regularization paths."
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),QuantileRegression.jl,https://github.com/pkofod/QuantileRegressions.jl,Quantile regression in Julia.
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),Regression.jl,https://github.com/lindahua/Regression.jl,Algorithms for regression analysis (e.g. linear regression and logistic regression).
 Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),SparseRegression.jl,https://github.com/joshday/SparseRegression.jl,Statistical Models with Regularization in Pure Julia.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),VarianceComponentModels.jl,https://github.com/OpenMendel/VarianceComponentModels.jl,Utilities for fitting and testing variance component models.
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),VCSEL.jl,https://github.com/juhkim111/VCSEL.jl,"Variance components selection via Lasso, adaptive lasso, or MCP penalization."
+Probability-Statistics,[REGRESSION](https://en.wikipedia.org/wiki/Regression_analysis),WiSER.jl,https://github.com/OpenMendel/WiSER.jl,A regression aproach for estimating the effects of predictors on the within-subject variation in a longitudinal setting
 Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),AverageShiftedHistograms.jl,https://github.com/joshday/AverageShiftedHistograms.jl,David Scott's Average Shifted Histogram density estimation.
 Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelDensity.jl,https://github.com/JuliaStats/KernelDensity.jl,Kernel density estimators for continuous variables.
 Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),KernelEstimator.jl,https://github.com/panlanfeng/KernelEstimator.jl,A Julia package for nonparametric density estimation.
+Probability-Statistics,[DENSITIES](https://en.wikipedia.org/wiki/Density_estimation),QuasiCopula.jl,https://github.com/OpenMendel/QuasiCopula.jl): A Flexible Quasi-Copula Distribution for Statistical Modeling,
 Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),LowRankModels.jl,https://github.com/madeleineudell/LowRankModels.jl,A Julia package for modeling and fitting generalized low rank models.
 Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),ManifoldLearning.jl,https://github.com/wildart/ManifoldLearning.jl,A Julia package for manifold learning and non-linear dimensionality reduction.
 Probability-Statistics,[MULTIVARIATE](https://en.wikipedia.org/wiki/Category:Multivariate_statistics),MultivariateStats.jl,https://github.com/JuliaStats/MultivariateStats.jl,A Julia package for multivariate data analysis (e.g. dimension reduction).
@@ -1911,6 +1946,7 @@ Probability-Statistics,UNCLASSIFIED,FreqTables.jl,https://github.com/nalimilan/F
 Probability-Statistics,UNCLASSIFIED,GaussDCA.jl,https://github.com/carlobaldassi/GaussDCA.jl,Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 Probability-Statistics,UNCLASSIFIED,JointMoments.jl,https://github.com/tensorjack/JointMoments.jl,Tensors and statistics for joint central moments.
 Probability-Statistics,UNCLASSIFIED,KernSmooth.jl,https://github.com/lendle/KernSmooth.jl,"A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license."
+Probability-Statistics,UNCLASSIFIED,Knockoffs.jl,https://github.com/biona001/Knockoffs.jl,Variable selection via the knockoff filter.
 Probability-Statistics,UNCLASSIFIED,PowerLaws.jl,https://github.com/johnybx/PowerLaws.jl,A Julia package for power laws distributions.
 Probability-Statistics,UNCLASSIFIED,PValueAdjust.jl,https://github.com/dirkschumacher/PValueAdjust.jl,P-value adjustment methods for multiple testing correction.
 Probability-Statistics,UNCLASSIFIED,Rmath.jl,https://github.com/JuliaStats/Rmath.jl,Archive of functions that emulate R's d-p-q-r functions for probability distributions.
@@ -2171,7 +2207,7 @@ Server,FRAMEWORKS,OpenFiscaWebApi.jl,https://github.com/openfisca/OpenFiscaWebAp
 Server,FRAMEWORKS,Pythia.jl,https://github.com/Keno/Pythia.jl,Julia wrappers for the Pythia event generator.
 Server,FRAMEWORKS,skeleton-webapp.jl,https://bitbucket.org/jocklawrie/skeleton-webapp.jl,This repo contains a simple self-contained web application written in Julia that data scientists can adapt to their own needs.
 Server,RoR,RoR_julia_eg,https://github.com/Ken-B/RoR_julia_eg,An example of Ruby on Rails (RoR) web app with Julia link through ZMQ.
-Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitat wrapping Julia functions into a remote callable API via ZMQ and HTTP,
+Server,Middleware,JuliaWebAPI.jl,https://github.com/tanmaykm/JuliaWebAPI.jl) : Julia package for deploying APIs on JuliaBox to facilitate wrapping Julia functions into a remote callable API via ZMQ and HTTP,
 Server,Middleware,Mongrel2.jl,https://github.com/aviks/Mongrel2.jl,Mongrel2 handlers in Julia.
 Server,Middleware,Mux.jl,https://github.com/JunoLab/Mux.jl,Middleware for Julia.
 Server,Middleware,Nanomsg.jl,https://github.com/quinnj/Nanomsg.jl,"a middleware, nanomsg wrapper for the Julia programming language - [Nanomsg](http://nanomsg.org) is a reboot of the ØMQ socket library, providing several common communication patterns that make the networking layer fast, scalable, and easy to use."
@@ -2359,7 +2395,7 @@ Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Paral
 Super-Computing,[ParallelComputing](https://en.wikipedia.org/wiki/Category:Parallel_computing),Slurm.jl,https://github.com/JuliaParallel/Slurm.jl,Experimental Julia interface to `slurm.schedmd.com`.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),MPIArrays.jl,https://github.com/barche/MPIArrays.jl,Distributed arrays based on MPI onesided communication.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMD.jl,https://github.com/eschnett/SIMD.jl,Explicit SIMD vector operations for Julia.
-Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDPirates.jl,https://github.com/chriselrod/SIMDPirates.jl,"A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're commiting type piracy"
+Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDPirates.jl,https://github.com/chriselrod/SIMDPirates.jl,"A library for SIMD intrinsics. The code was stolen from SIMD.jl, whose authors and maintainers deserve credit for most of the good work here. Aside from pirating code, SIMDPirates also provides an @pirate macro that lets you imagine you're committing type piracy"
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),SIMDVectors.jl,https://github.com/KristofferC/SIMDVectors.jl,An experimental package that uses the PR #15244 to create a stack allocated fixed size vector which supports SIMD operations and very similar in spirit to the SIMD.jl package.
 Super-Computing,[SIMDComputing](https://en.wikipedia.org/wiki/Category:SIMD_computing),Yeppp.jl,https://github.com/JuliaLang/Yeppp.jl,"A low level, high performance library for vectorized operations, elementwise operation on arrays, supports the x86(-64), ARM and MIPS architectures, and takes advantage of a lot of SIMD extensions (from SSE to AVX2 on x86, NEON on ARM). The New BSD(3-clause BSD)-licensed [source code is hosted on Bitbucket](https://bitbucket.org/MDukhan/yeppp)."
 Super-Computing,Resources,JuliaCon2015_Workshop,https://github.com/JuliaParallel/JuliaCon2015_Workshop,Notebooks from the JuliaCon2015 Workshop.
@@ -2426,7 +2462,7 @@ Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",ProgressMeter.jl,https
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPL.jl,https://github.com/Keno/REPL.jl,Pure-julia REPL implementation.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPLCompletions.jl,https://github.com/Keno/REPLCompletions.jl,Tab completions for your Julia REPL.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",REPLMods.jl,https://github.com/spencerlyon2/REPLMods.jl,Mod your REPL and evaluate directly into any module on your path or defined within the current working module.
-Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",SaveREPL.jl,https://github.com/sjkelly/SaveREPL.jl,A package for saving entries in the Jula REPL.
+Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",SaveREPL.jl,https://github.com/sjkelly/SaveREPL.jl,A package for saving entries in the Julia REPL.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",TerminalExtensions.jl,https://github.com/Keno/TerminalExtensions.jl,A package that makes Julia take advantage of cool terminal emulator features.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",toolbox.jl,https://github.com/natj/toolbox.jl,Small tools and snippets used by @natj with julia.
 Utilities,"§1.3.Terminal<spanid=""1-3-Terminal""><span>",TermWin.jl,https://github.com/tonyhffong/TermWin.jl,NCurses based GUI helper and data navigators.

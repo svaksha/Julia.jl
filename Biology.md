@@ -105,9 +105,11 @@
 + [HyperNEAT.jl](https://github.com/kzahedi/HyperNEAT.jl) :: A generative encoding for evolving ANN based on the NeuroEvolution of Augmented Topologies (NEAT) algorithm for evolutionary computation.
 + [IntervalTrees.jl](https://github.com/BioJulia/IntervalTrees.jl) :: A data structure for efficient manipulation of sets of intervals.
 + [MendelAimSelection.jl](https://github.com/OpenMendel/MendelAimSelection.jl) :: Selecting SNPs that are most informative at predicting ancestry - the best Ancestry Informative Markers (AIMs). 
++ [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) :: contains the base functions of OpenMendel. 
 + [MendelEstimateFrequencies.jl](https://github.com/OpenMendel/MendelEstimateFrequencies.jl) :: Likelihood-based estimation of allele frequencies. 
 + [MendelGameteCompetition.jl](https://github.com/OpenMendel/MendelGameteCompetition.jl) :: Implements a gamete competition analysis, which is a generalization of the TDT analysis.
 + [MendelGeneDropping.jl](https://github.com/OpenMendel/MendelGeneDropping.jl) :: Julia package for performing gene dropping with several useful options for the output. 
++ [MendelGeneticCounseling.jl](https://github.com/OpenMendel/MendelGeneticCounseling.jl) :: Risk calculations for genetic counseling problems. 
 + [MendelKinship.jl](https://github.com/OpenMendel/MendelKinship.jl) :: Computes genetic kinship and other identity coefficients. 
 + [MendelLocationScores.jl](https://github.com/OpenMendel/MendelLocationScores.jl) :: Mapping a trait via the method of Location Scores, i.e. multipoint linkage analysis. 
 + [MendelSearch.jl](https://github.com/OpenMendel/MendelSearch.jl) :: Performs function optimizations permitting bounds and linear constraints to be imposed on parameters and computes asymptotic standard errors and correlations of parameter estimates.
@@ -144,8 +146,6 @@ __Genome Wide Association Study (GWAS)__
 + [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) :: A package for statistical analyses of sequence alignments.
 + [GhostKnockoffGWAS.jl](https://github.com/biona001/GhostKnockoffGWAS) :: Performs a knockoff-based analysis of GWAS summary statistics data. 
 + [JWAS.jl](https://github.com/reworkhow/JWAS.jl) :: An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
-+ [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) :: contains the base functions of OpenMendel. 
-+ [MendelGeneticCounseling.jl](https://github.com/OpenMendel/MendelGeneticCounseling.jl) :: Risk calculations for genetic counseling problems. 
 + [MendelImpute.jl](https://github.com/OpenMendel/MendelImpute.jl) :: A fast data-driven method for genotype imputation, phasing, and local ancestry inference.
 + [MendelIHT.jl](https://github.com/OpenMendel/MendelIHT.jl) :: Implements the iterative hard thresholding (IHT) algorithm as a multiple regression approach for GWAS.
 + [MendelPlots.jl](https://github.com/OpenMendel/MendelPlots.jl) :: Generate Manhattan and QQ plots from GWAS.
