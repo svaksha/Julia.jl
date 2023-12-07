@@ -51,7 +51,8 @@
 + [BioMedQuery.jl](https://github.com/bcbi/BioMedQuery.jl) :: Utilities for interacting with different BioMedical Databases and APIs provided by the National Library of Medicine (NLM).
 + Link to Clinical research data management: https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md
 + [OrbitTomography.jl](https://github.com/lstagner/OrbitTomography.jl).
-    
++ [Thyrosim.jl](https://github.com/biona001/Thyrosim.jl) :: A thyroid hormone mechanistic model for predicting T4/T3/TSH dynamics. 
+
 ----
 
 # BIOSTATISTICS
@@ -88,8 +89,10 @@
 + [BioSeq.jl](https://github.com/BioJulia/BioSeq.jl) :: Julia's package for working on Bioinformatics with DNA, RNA and Protein Sequences.
 + [BismarkSummary.jl](https://github.com/nw11/BismarkSummary.jl) :: Basic summary of multiple Bismark runs. 
 + [COSMIC.jl](https://github.com/haploxer/COSMIC.jl) :: Data analysis engine for [COSMIC](http://cancer.sanger.ac.uk/cosmic) written in Julia.
++ [EasyLD.jl](https://github.com/biona001/EasyLD.jl) :: Downloading and parsing Hail's LD (linkage disequilibrium) matrices.
 + [Ensemble.jl](https://github.com/farr/Ensemble.jl) :: Ensemble Samplers for Julia.
 + [FastaIO.jl](https://github.com/carlobaldassi/FastaIO.jl) :: Utilities to read/write FASTA format files in Julia.
++ [fastPHASE.jl](https://github.com/biona001/fastPHASE.jl) :: Julia wrapper of the popular fastPHASE genetics program, designed for haplotype reconstruction and estimating missing genotypes from population data.
 + [FusionDirect.jl](https://github.com/OpenGene/FusionDirect.jl) :: Detect gene fusion directly from raw fastq files.
 + [GeneticsMakie.jl](https://github.com/mmkim1210/GeneticsMakie.jl) :: High-performance genetics- and genomics- related data visualization using Makie.jl
 + [GenomeAnnotations.jl](https://github.com/nw11/GenomeAnnotations.jl) :: Manage Local Genome Annotation files. 
@@ -139,6 +142,7 @@
 ## GWAS
 __Genome Wide Association Study (GWAS)__
 + [AlignmentStatistics.jl](https://github.com/DanielHoffmann32/AlignmentStatistics.jl) :: A package for statistical analyses of sequence alignments.
++ [GhostKnockoffGWAS.jl](https://github.com/biona001/GhostKnockoffGWAS) :: Performs a knockoff-based analysis of GWAS summary statistics data. 
 + [JWAS.jl](https://github.com/reworkhow/JWAS.jl) :: An open-source software tool written in Julia for Bayesian multiple regression methods applied to genome-wide association studies and genomic prediction.
 + [MendelBase.jl](https://github.com/OpenMendel/MendelBase.jl) :: contains the base functions of OpenMendel. 
 + [MendelGeneticCounseling.jl](https://github.com/OpenMendel/MendelGeneticCounseling.jl) :: Risk calculations for genetic counseling problems. 

@@ -150,6 +150,7 @@ The [Markov Logic Network](https://en.wikipedia.org/wiki/Markov_logic_network)
 + [GaussDCA.jl](https://github.com/carlobaldassi/GaussDCA.jl) :: Multivariate Gaussian Direct Coupling Analysis for residue contact prediction in protein families.
 + [JointMoments.jl](https://github.com/tensorjack/JointMoments.jl) :: Tensors and statistics for joint central moments.
 + [KernSmooth.jl](https://github.com/lendle/KernSmooth.jl) :: A direct port of the R package KernSmooth, (v2.23-10.), carrying an unlimited license.
++ [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl) :: Variable selection via the knockoff filter.
 + [PowerLaws.jl](https://github.com/johnybx/PowerLaws.jl) :: A Julia package for power laws distributions.
 + [PValueAdjust.jl](https://github.com/dirkschumacher/PValueAdjust.jl) :: P-value adjustment methods for multiple testing correction.
 + [Rmath.jl](https://github.com/JuliaStats/Rmath.jl) :: Archive of functions that emulate R's d-p-q-r functions for probability distributions.
